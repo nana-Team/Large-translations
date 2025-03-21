@@ -1,0 +1,38 @@
+OldWoodArmor: 1 defense
+WizardGangsterArmor:
+	'''
+	Grants 2% increased magic damage for each gold coin you have
+	This stops scaling after you have more than 10 gold coins
+	'''
+WizardGangsterArmor2:
+	'''
+	Grants 2% decreased mana usage for each gold coin you have
+	This stops scaling after you have more than 10 gold coins
+	'''
+GourdArmor:
+	'''
+	Melee weapons may inflict decay, which damages enemies over time
+	After a while, decay will also lower their attack and defense
+	'''
+RootArmor: Your ranged projectiles have a chance to heal you
+SpiderArmor:
+	'''
+	Press the Armor Bonus Hotkey to enter spider stealth for 10 seconds
+	Upon entering spider stealth you will briefly stun nearby enemies
+	While in spider stealth your damage reduction is increased by 12%
+	This ability has a 2 minute cooldown before you can use it again
+	'''
+SpiritHorsemanArmor: Your own head will now fight with you!
+EyeArmor:
+	'''
+	10% increased whip range
+	Hitting enemies with whips will sometimes spawn eyes to deal additional damage
+	'''
+FlowerArmor:
+	'''
+	Greatly increases your life regeneration
+	Press the Armor Bonus Hotkey to summon clumps of pollen to attack your enemies
+	This ability has a 30 second cooldown before it can be used again
+	'''
+GoreArmorOrro: Summons a baby orro to fight with you!
+GoreArmorBoro: Summons a baby boro to fight with you!

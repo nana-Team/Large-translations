@@ -1,0 +1,511 @@
+BustlingGlowshroomHeal: {
+	DisplayName: Glowshroom Regeneration
+	Description: Your life regeneration is greatly increased
+}
+
+DaffodilHairpinCooldown: {
+	DisplayName: Thorn Petal Cooldown
+	Description: Your petal ring is regrowing
+}
+
+EmbryoRevival: {
+	DisplayName: Embryotic Revival
+	Description:
+		'''
+		The embyro has saved you from death
+		Majorly increases defense and life regeneration
+		'''
+}
+
+FlyBuff: {
+	DisplayName: Fly Swarm
+	Description: The swarm of flies is protecting you
+}
+
+SkullFrenzyBuff: {
+	DisplayName: Necromantic Frenzy
+	Description: Increased damage, critical strike chance, knockback, and movement speed
+}
+
+SnottySchnozCooldown: {
+	DisplayName: Snotty Schnoz Cooldown
+	Description: Your booger frenzy is recharging
+}
+
+BouncerDeathmark: {
+	DisplayName: Skeleton Bouncer Deathmark
+	Description: Stop! You have violated the law!
+}
+
+CatacombDebuff: {
+	DisplayName: Curse of the Catacombs
+	Description: A curse is reducing your vision
+}
+
+CrossCooldown: {
+	DisplayName: Cross Charm Cooldown
+	Description: Your cross protection is recharging
+}
+
+EmbryoCooldown: {
+	DisplayName: Embryotic Shatter
+	Description:
+		'''
+		The embryo's revival must recharge
+		Increases all damage and critical strike chance
+		'''
+}
+
+EnsnaredCooldown: {
+	DisplayName: Ensnared Cooldown
+	Description: ""
+}
+
+EnsnaredDebuff: {
+	DisplayName: Ensnared
+	Description: ""
+}
+
+HallucinationDebuff1: {
+	DisplayName: The Man
+	Description: There is no escape
+}
+
+HallucinationDebuff2: {
+	DisplayName: The Baby
+	Description: It is crying
+}
+
+HallucinationDebuff3: {
+	DisplayName: The Horse
+	Description: The horse is here...
+}
+
+HallucinationDebuff4: {
+	DisplayName: The Flesh
+	Description: You feel worthless
+}
+
+FleshWhipCooldown: {
+	DisplayName: Eye Lasher Cooldown
+	Description: ""
+}
+
+FleshWhipDefense: {
+	DisplayName: Eye Lasher Defense
+	Description: ""
+}
+
+FleshWhipDefense2: {
+	DisplayName: Eye Lasher Defense
+	Description: ""
+}
+
+FlowerArmorCooldown: {
+	DisplayName: Pollen Cooldown
+	Description: You cannot spawn any more pollen
+}
+
+FlyCooldown: {
+	DisplayName: Fly Charm Recharge
+	Description: Your defensive flies cannot respawn
+}
+
+GourdDecay: {
+	DisplayName: Rotting
+	Description: ""
+}
+
+PandoraCrossCooldown: {
+	DisplayName: Cross Bass Cooldown
+	Description: You cannot use the cross sound ability
+}
+
+PandoraHandCooldown: {
+	DisplayName: Rosary Hand Cooldown
+	Description: Your rosary hands cannot spawn
+}
+
+Possessed: {
+	DisplayName: Possessed
+	Description: You are being controlled by an evil ghost!
+}
+
+SadDebuff: {
+	DisplayName: Sad
+	Description: 10% decreased damage, and you move slower
+}
+
+ThornMark: {
+	DisplayName: Thorn Mark
+	Description: ""
+}
+
+BrainyBuff: {
+	DisplayName: Brainy
+	Description: Brainy suspiciously follows you
+}
+
+DaffodilHandBuff: {
+	DisplayName: Plant Hand
+	Description: The plant hand will punch your foes!
+}
+
+EntityMinionBuff: {
+	DisplayName: Little Entity
+	Description: The baby entity will fight with you
+}
+
+EyeArmorMinionBuff: {
+	DisplayName: Lil Eye
+	Description: The tiny eye will help protect you!
+}
+
+GrugBuff: {
+	DisplayName: Gargoyle
+	Description: Grug the gargoyle protects you!
+}
+
+NoseMinionBuff: {
+	DisplayName: Nose Fly
+	Description: The nose buzzes around you
+}
+
+OldHunterBuff: {
+	DisplayName: Old Hunter Souls
+	Description: The souls of the hunters will protect you
+}
+
+PumpkinHeadBuff: {
+	DisplayName: Pumpkin Head
+	Description: Your head is now fighting with you!
+}
+
+RotGourdMinionBuff: {
+	DisplayName: Gourd Goober
+	Description: The small gourd will crush enemies
+}
+
+SkullWispBuff: {
+	DisplayName: Skull Wisp
+	Description: The skull wisp will fight with you
+}
+
+SoulSkullBuff: {
+	DisplayName: Soul Skull
+	Description: The soul skull will fight with you
+}
+
+SkullTotemBuff: {
+	DisplayName: Skull Idol Empowerment
+	Description: Increased summon damage, whip range, and +2 max minions
+}
+
+TortumorMinionBuff: {
+	DisplayName: Friendly Tortumor
+	Description: The tortumor will fight with you
+}
+
+BigBonePetBuff: {
+	DisplayName: Baby Bone
+	Description: It may be absorbing your nutrients
+}
+
+CatBuff: {
+	DisplayName: Black Kitten
+	Description: The evil little kitten follows you
+}
+
+ColumboBuff: {
+	DisplayName: Columbo
+	Description: The creature lurks behind you
+}
+
+FlyPetBuff: {
+	DisplayName: Cornelious the Fly
+	Description: He hovers around you menacingly
+}
+
+FuzzBatPetBuff: {
+	DisplayName: Goofy Fuzz Bat
+	Description: It doesn't know why, but it likes following you
+}
+
+GhostPetBuff: {
+	DisplayName: Little Ghost
+	Description: A spooky little ghost will guide you
+}
+
+MocoPetBuff: {
+	DisplayName: Baby Moco
+	Description: Sniffle... Achooo!
+}
+
+PandoraBeanBuff: {
+	DisplayName: Von Anguston VI
+	Description: Ancient royalty is following you
+}
+
+PetscopBuff: {
+	DisplayName: Guardian
+	Description: The newmaker
+}
+
+PetscopMarvinBuff: {
+	DisplayName: Marvin
+	Description: Marvin picks up tool
+}
+
+PetscopTiaraBuff: {
+	DisplayName: Petscop Tiara Buff
+	Description: Tiara plays bad music too
+}
+
+RotGourdPetBuff: {
+	DisplayName: Tiny Rot Gourd
+	Description: Smelly, but cute
+}
+
+ShroomHopperBuff: {
+	DisplayName: Shroom Hopper
+	Description: It likes your spore
+}
+
+SkullEmojiBuff: {
+	DisplayName: Floating Skull
+	Description: He spins for eternity
+}
+
+SkullGoopBuff: {
+	DisplayName: Skull Goop
+	Description: The mysterious goop slithers behind you
+}
+
+SpookySpiritPetBuff: {
+	DisplayName: Mini Spirit
+	Description: The mini spirit lingers around you
+}
+
+StickyEyeBuff: {
+	DisplayName: Glow In The Dark Sticky Eye
+	Description: May contain toxic chemicals
+}
+
+ValleyNautilusBuff: {
+	DisplayName: Baby Cephalopod
+	Description: A friendly little cephalopod follows you
+}
+
+AlternateCooldown: {
+	DisplayName: Alternate Cooldown
+	Description: You cannot spawn your alternate
+}
+
+BackroomsDecay: {
+	DisplayName: Backrooms Decay
+	Description: ""
+}
+
+MonumentMythosCooldown: {
+	DisplayName: Freedom Containment Cooldown
+	Description: Your glass pyramid is regenerating
+}
+
+MonumentMythosShatter: {
+	DisplayName: Freedom Containment Shatter
+	Description: You take 2x damage from all attacks
+}
+
+InchwormBuff: {
+	DisplayName: Pet Inchworm
+	Description: It wants your apple
+}
+
+SlendermanPageBuff: {
+	DisplayName: Slenderman Page Buff
+	Description: Your slenderman tentacles are empowered
+}
+
+HerobrineAltarCooldown: {
+	DisplayName: Blocky Altar Cooldown
+	Description: You cannot summon lightning
+}
+
+SpiderArmorStealth: {
+	DisplayName: Spi-Ops Stealth
+	Description:
+		'''
+		Enemies will not target you
+		12% increased damage reduction
+		'''
+}
+
+SpiderStealthCooldown: {
+	DisplayName: Spi-Ops Stealth Cooldown
+	Description: You cannot enter spider stealth
+}
+
+WhipSpiderAggression: {
+	DisplayName: Spider Pheromones
+	Description: Spider grotto creatures are more aggressive
+}
+
+PheromoneWhipDebuff: {
+	DisplayName: Pheromone Whip Debuff
+	Description: ""
+}
+
+TrapdoorSpiderMountBuff: {
+	DisplayName: Trapdoor Spider Mount
+	Description: Arachnophobes beware!
+}
+
+SpiderBabyBuff: {
+	DisplayName: Baby Spiders
+	Description: They have imprinted on you
+}
+
+HunterScarfMark: {
+	DisplayName: Hunter Scarf Mark
+	Description: ""
+}
+
+BeeDamageBuff: {
+	DisplayName: Pollenation Damage
+	Description: ""
+}
+
+BeeHealingBuff: {
+	DisplayName: Pollenation Healing
+	Description: ""
+}
+
+BeePollinationProcessBuff: {
+	DisplayName: Bee Pollination Process Buff
+	Description: ""
+}
+
+BlueberryFrost: {
+	DisplayName: Blueberry Frost
+	Description: ""
+}
+
+StrawberryBoostBuff: {
+	DisplayName: Strawberry Boost
+	Description: Increase to damage, crit chance, and knockback
+}
+
+LeechBuff: {
+	DisplayName: Leech
+	Description: The leech will fight with you
+}
+
+ToothyDebuff: {
+	DisplayName: Toothy Debuff
+	Description: ""
+}
+
+SentientKeybrandDebuff: {
+	DisplayName: Sentient Keybrand Debuff
+	Description: ""
+}
+
+WingedBiomassBuff: {
+	DisplayName: Winged Biomass
+	Description: The winged biomass is looking out for you
+}
+
+BillyBuff: {
+	DisplayName: Billy-Bone
+	Description: Billy-Bone the raven protects you!
+}
+
+GooseberryBoostBuff: {
+	DisplayName: Gooseberry Boost
+	Description: Increased life regeneration and movement
+}
+
+PeptoDebuff: {
+	DisplayName: Pepto Debuff
+	Description: ""
+}
+
+SmokerLungCooldown: {
+	DisplayName: Smoker's Lungs Cooldown
+	Description: Cannot use your cough ability
+}
+
+SmokerCoughDebuff: {
+	DisplayName: Smoker Cough Debuff
+	Description: ""
+}
+
+NoseBlessingDebuff: {
+	DisplayName: Nose Blessing Debuff
+	Description: ""
+}
+
+NoseBlessingDebuffCooldown: {
+	DisplayName: Nose Blessing Debuff Cooldown
+	Description: ""
+}
+
+NoseBlessingBuff: {
+	DisplayName: Noseferatu's Blessing
+	Description: Attacking enemies will damage them with boogers
+}
+
+GhostBanditDefense: {
+	DisplayName: Blueford's Holy Shield
+	Description: 15 extra defense
+}
+
+GlassEyeDebuff: {
+	DisplayName: Glass Eye Debuff
+	Description: ""
+}
+
+GlassEyeCooldown: {
+	DisplayName: Glass Eye Shattered
+	Description: Your glass eye has been shattered
+}
+
+StitchedCloakCooldown: {
+	DisplayName: Stitched Cloak Cooldown
+	Description: You cannot use your stitched cloak dash
+}
+
+StitchedCloakWebSlow: {
+	DisplayName: Stitched Cloak Web Slow
+	Description: ""
+}
+
+OrroboroPetBuff: {
+	DisplayName: Orroboro Ring
+	Description: The worms are slowly consuming each other
+}
+
+EggEventEnemyBuff: {
+	DisplayName: Flesh Bolster Buff
+	Description: ""
+}
+
+ZombieCultistPetBuff: {
+	DisplayName: Zombie Nose Cultist
+	Description: It probably wants its brain back
+}
+
+BeePetBuff: {
+	DisplayName: Pollinator Bee
+	Description: Its attracted to your honeycomb
+}
+
+RatPetBuff: {
+	DisplayName: Albino Rat
+	Description: Cute and probably carries disease!
+}
+
+PuttyPetBuff: {
+	DisplayName: Putty Slime Squad
+	Description: The putties are hopping along with you
+}

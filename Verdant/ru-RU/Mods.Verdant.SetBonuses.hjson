@@ -1,0 +1,31 @@
+Lush: +1 flat summon damage
+Mysteria:
+	'''
+	Increased tile and wall placement speed and range
+	Увеличивает скорость копания
+	Enemies spawn significantly less often
+	'''
+Verdant:
+	'''
+	Увеличение урона призывателя на 4%
+	Увеличивает максимально число миньонов на 1
+	Reduces fall speed - Hold DOWN to fall faster
+	Upon respawning, heals you by 50 health
+	'''
+
+Apotheotic: {
+	Tree:
+		'''
+		Fruits regrow significantly faster
+		The fruits' effects are stronger
+		Увеличивает максимально число миньонов на 1
+		Увеличивает защиту на 10 ед.
+		'''
+	Bee:
+		'''
+		Дружественные пчёлы наносят повышенный урон
+		С противников, убитых пчёлыми, выпадает медовое сердце, восстанавливающее 10 ед. здоровья
+		Увеличивает максимально число миньонов на 1
+		Увеличение урона призывателя на 5%
+		'''
+}

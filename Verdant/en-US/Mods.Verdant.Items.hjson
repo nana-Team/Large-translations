@@ -1,0 +1,1680 @@
+ProbablyDelete: {
+	DisplayName: Tester Tool
+	Tooltip: @ me if you see this
+}
+
+LushWoodBody: {
+	DisplayName: Lush Wood Chestpiece
+	Tooltip: +1 flat minion damage
+}
+
+LushWoodHead: {
+	DisplayName: Lush Wood Helmet
+	Tooltip: +1 flat minion damage
+}
+
+LushWoodLegs: {
+	DisplayName: Lush Wood Leggings
+	Tooltip: ""
+}
+
+MysteriaChest: {
+	DisplayName: Mysteria Chestpiece
+	Tooltip:
+		'''
+		Increased mining speed
+		Increased tile and wall placement speed
+		'''
+}
+
+MysteriaHelmet: {
+	DisplayName: Mysteria Veil
+	Tooltip:
+		'''
+		Increased mining speed
+		Increased tile and wall placement speed
+		Increased placement range
+		'''
+}
+
+MysteriaLeggings: {
+	DisplayName: Mysteria Leggings
+	Tooltip:
+		'''
+		Increased mining speed
+		Increased tile and wall placement speed
+		'''
+}
+
+VerdantChestplate: {
+	DisplayName: Growth Chestpiece
+	Tooltip:
+		'''
+		+7% minion damage
+		+1 max minion
+		'''
+}
+
+VerdantHelm: {
+	DisplayName: Growth Headdress
+	Tooltip:
+		'''
+		+5% increased minion damage
+		Gives off a very small amount of light
+		'''
+}
+
+VerdantLeggings: {
+	DisplayName: Growth Leggings
+	Tooltip:
+		'''
+		Increased regen
+		+1 max minion
+		Grows plants under you as you walk
+		'''
+}
+
+AquamarineItem: {
+	DisplayName: Aquamarine
+	Tooltip: ""
+}
+
+AquamarineTorchItem: {
+	DisplayName: Aquamarine Torch
+	Tooltip: ""
+}
+
+BackslateTileItem: {
+	DisplayName: Backslate
+	Tooltip: ""
+}
+
+EmbeddedAquamarineItem: {
+	DisplayName: Aquamarine Lush Soil Block
+	Tooltip: ""
+}
+
+EmbeddedStoneAquamarineItem: {
+	DisplayName: Aquamarine Stone Block
+	Tooltip: ""
+}
+
+GemsparkAquamarineItem: {
+	DisplayName: Aquamarine Gemspark
+	Tooltip: ""
+}
+
+GemsparkAquamarineWallItem: {
+	DisplayName: Aquamarine Gemspark Wall
+	Tooltip: ""
+}
+
+GemsparkAquamarineWallOfflineItem: {
+	DisplayName: Aquamarine Gemspark Wall (Offline)
+	Tooltip: ""
+}
+
+BeehiveBlock: {
+	DisplayName: Bumblebee Hive
+	Tooltip:
+		'''
+		Spawns bees, which pollinate nearby flowers
+		Can be harvested after enough bees return with pollen for some goodies
+		'The buzzing is mildly concerning'
+		'''
+}
+
+Bush2x2Item: {
+	DisplayName: Decorative Bush
+	Tooltip: Can be trimmed with [i:{0}].
+}
+
+Bush3x3Item: {
+	DisplayName: "{$Mods.Verdant.Items.Bush2x2Item.DisplayName} (Large)"
+	Tooltip: "{$Mods.Verdant.Items.Bush2x2Item.Tooltip}"
+}
+
+LushSoilBlock: {
+	DisplayName: Lush Soil
+	Tooltip: ""
+}
+
+LushBathtubItem: {
+	DisplayName: Lush Bathtub
+	Tooltip: ""
+}
+
+LushBedItem: {
+	DisplayName: Lush Bed
+	Tooltip: ""
+}
+
+LushBookshelfItem: {
+	DisplayName: Lush Bookcase
+	Tooltip: ""
+}
+
+LushCandelabraItem: {
+	DisplayName: Lush Candelabra
+	Tooltip: ""
+}
+
+LushCandleItem: {
+	DisplayName: Lush Candle
+	Tooltip: ""
+}
+
+LushChairItem: {
+	DisplayName: Lush Chair
+	Tooltip: ""
+}
+
+LushClockItem: {
+	DisplayName: Lush Clock
+	Tooltip: ""
+}
+
+LushDresserItem: {
+	DisplayName: Lush Dresser
+	Tooltip: ""
+}
+
+LushLampItem: {
+	DisplayName: Lush Lamp
+	Tooltip: ""
+}
+
+LushLanternItem: {
+	DisplayName: Lush Lantern
+	Tooltip: ""
+}
+
+LushPianoItem: {
+	DisplayName: Lush Piano
+	Tooltip: ""
+}
+
+LushPlatformItem: {
+	DisplayName: Lush Wood Platform
+	Tooltip: ""
+}
+
+LushSinkItem: {
+	DisplayName: Lush Sink
+	Tooltip: ""
+}
+
+LushTableItem: {
+	DisplayName: Lush Table
+	Tooltip: ""
+}
+
+LushWoodDoorItem: {
+	DisplayName: Lush Door
+	Tooltip: ""
+}
+
+LushWoodSofaItem: {
+	DisplayName: Lush Sofa
+	Tooltip: ""
+}
+
+LushWorkbenchItem: {
+	DisplayName: Lush Workbench
+	Tooltip: ""
+}
+
+VerdantWoodBlock: {
+	DisplayName: Lush Wood
+	Tooltip: ""
+}
+
+VerdantWoodChestBlock: {
+	DisplayName: Lush Wood Chest
+	Tooltip: ""
+}
+
+ThePlantItem: {
+	DisplayName: The Plant
+	Tooltip: "'in real'"
+}
+
+ApotheoticPaintingItem: {
+	DisplayName: Apotheotic
+	Tooltip: "'Emily A.'"
+}
+
+HardyVineBook: {
+	DisplayName: Hardy Vine Research
+	Tooltip:
+		'''
+		'An impressive amount of insight into hardy vines'
+		Right click to read
+		'''
+}
+
+LeafBook: {
+	DisplayName: Lush Leaf Research
+	Tooltip:
+		'''
+		'An impressive amount of insight into lush leaves'
+		Right click to read
+		'''
+}
+
+LightbulbBook: {
+	DisplayName: Lightbulb Research
+	Tooltip:
+		'''
+		'An impressive amount of insight into light bulbs'
+		Right click to read
+		'''
+}
+
+RockBook: {
+	DisplayName: Rock Research
+	Tooltip:
+		'''
+		'Research into...volcanic rocks?'
+		Right click to read
+		'''
+}
+
+ChlorophytePlant: {
+	DisplayName: Chloroflower Sprout
+	Tooltip:
+		'''
+		Grows renewable chlorophyte
+		'A jagged rock somehow brimming with life'
+		'''
+}
+
+FloatingCrystalItem: {
+	DisplayName: Floating Crystal
+	Tooltip:
+		'''
+		Can be placed mid-air
+		Can be grappled to
+		'''
+}
+
+GreenCrystalItem: {
+	DisplayName: Green Crystal
+	Tooltip: "'Not as sharp as it looks'"
+}
+
+HangingCrystalItem: {
+	DisplayName: Hanging Crystal
+	Tooltip:
+		'''
+		Spawns healing plants when placed
+		Can be turned on/off with wiring
+		'Glows with a gentle power'
+		'''
+}
+
+LightbulbPaintingItem: {
+	DisplayName: Lightbulb
+	Tooltip: "'Emily A.'"
+}
+
+OvergrownBrickItem: {
+	DisplayName: Overgrown Gray Brick
+	Tooltip: ""
+}
+
+ResearchBooksItem: {
+	DisplayName: Book of Research
+	Tooltip: "'Pages and pages of scribbles and text and theories'"
+}
+
+SnailShellBlockItem: {
+	DisplayName: Snail Shell
+	Tooltip: "'It feels really bad to have these.'"
+}
+
+LullabyBox: {
+	DisplayName: Music Box (Apotheosis Lullaby)
+	Tooltip: ""
+}
+
+PetalsFallBox: {
+	DisplayName: Music Box (Petals Fall)
+	Tooltip: ""
+}
+
+TearRainBox: {
+	DisplayName: Music Box (Tear Rain)
+	Tooltip: ""
+}
+
+VibrantHorizonBox: {
+	DisplayName: Music Box (Vibrant Horizon)
+	Tooltip: ""
+}
+
+MysteriaBathtubItem: {
+	DisplayName: Mysteria Bathtub
+	Tooltip: ""
+}
+
+MysteriaBedItem: {
+	DisplayName: Mysteria Bed
+	Tooltip: ""
+}
+
+MysteriaBookshelfItem: {
+	DisplayName: Mysteria Bookcase
+	Tooltip: ""
+}
+
+MysteriaCandelabraItem: {
+	DisplayName: Mysteria Candelabra
+	Tooltip: ""
+}
+
+MysteriaCandleItem: {
+	DisplayName: Mysteria Candle
+	Tooltip: ""
+}
+
+MysteriaChairItem: {
+	DisplayName: Mysteria Chair
+	Tooltip: ""
+}
+
+MysteriaClockItem: {
+	DisplayName: Mysteria Clock
+	Tooltip: "'The smaller clock seems to be very off'"
+}
+
+MysteriaDoorItem: {
+	DisplayName: Mysteria Door
+	Tooltip: ""
+}
+
+MysteriaDresserItem: {
+	DisplayName: Mysteria Dresser
+	Tooltip: ""
+}
+
+MysteriaLampItem: {
+	DisplayName: Mysteria Lamp
+	Tooltip: ""
+}
+
+MysteriaLanternItem: {
+	DisplayName: Mysteria Lantern
+	Tooltip: ""
+}
+
+MysteriaPianoItem: {
+	DisplayName: Mysteria Piano
+	Tooltip: ""
+}
+
+MysteriaPlatformItem: {
+	DisplayName: Mysteria Platform
+	Tooltip: ""
+}
+
+MysteriaSinkItem: {
+	DisplayName: Mysteria Sink
+	Tooltip: ""
+}
+
+MysteriaSofaItem: {
+	DisplayName: Mysteria Sofa
+	Tooltip: ""
+}
+
+MysteriaTableItem: {
+	DisplayName: Mysteria Table
+	Tooltip: ""
+}
+
+MysteriaWorkbenchItem: {
+	DisplayName: Mysteria Workbench
+	Tooltip: ""
+}
+
+MysteriaAcorn: {
+	DisplayName: Mysteria Sapling
+	Tooltip:
+		'''
+		Plants a Mysteria tree
+		Mysteria trees spread the Mysteria microbiome through nearby Verdant.
+		The trees are solid and cannot be walked through.
+		'''
+}
+
+MysteriaDrapesItem: {
+	DisplayName: Mysteria Drapes
+	Tooltip:
+		'''
+		Places on any solid tile
+		Grows like a vine, slowly
+		Place more on an existing anchor to grow the drape
+		Is always in front of the player
+		'''
+}
+
+MysteriaTreetop: {
+	DisplayName: Mysteria Canopy
+	Tooltip:
+		'''
+		Places a Mysteria Tree canopy
+		'Some assembly required'
+		'''
+}
+
+MysteriaWood: {
+	DisplayName: Mysteria Wood
+	Tooltip: These blocks cannot be sloped
+}
+
+PeaceTreetopItem: {
+	DisplayName: Peace Canopy
+	Tooltip:
+		'''
+		Can only be placed on Mysteria wood
+		Places a Peace canopy
+		Being near the Peace canopy reduces spawn rates and
+		reverts spawns to pre-hardmode.
+		'''
+}
+
+HousproutItem: {
+	DisplayName: Housprout
+	Tooltip:
+		'''
+		WIP - WILL NOT BE FINISHED BEFORE RELEASE
+		'A magnificent growth said to build a small house almost instantly'
+		'''
+}
+
+LightbulbSeeds: {
+	DisplayName: Lightbulb Seeds
+	Tooltip: "'These emenate the faintest light already'"
+}
+
+LilyPadItem: {
+	DisplayName: Lily Pad
+	Tooltip: Must be placed on lillies
+}
+
+PinkDyeBulb: {
+	DisplayName: Calla Lily
+	Tooltip:
+		'''
+		'A wonderfully bright colour!'
+		Used to make Pink Dye
+		'''
+}
+
+PinkPuff: {
+	DisplayName: Pink Puff
+	Tooltip:
+		'''
+		Creates a Puff microbiome around it
+		'Deceptively light'
+		'''
+}
+
+RedDyeBulb: {
+	DisplayName: Perennial Geranium
+	Tooltip:
+		'''
+		'A wonderfully bright colour!'
+		Used to make Red Dye
+		'''
+}
+
+RootRopeItem: {
+	DisplayName: Lush Root Rope
+	Tooltip: ""
+}
+
+VerdantFlowerBulb: {
+	DisplayName: Flower Bulb
+	Tooltip: Can only be placed on Verdant Leaf or Verdant Vine walls
+}
+
+VerdantStrongVineMaterial: {
+	DisplayName: Hardy Vine
+	Tooltip:
+		'''
+		Certain things can be placed on or under these
+		'It takes quite the sharp blade to cut through these'
+		'''
+}
+
+VineRopeItem: {
+	DisplayName: Lush Vine Rope
+	Tooltip: ""
+}
+
+WaterberryBushItem: {
+	DisplayName: Waterberry Bush
+	Tooltip:
+		'''
+		Can be placed on itself and Verdant leaves
+		Only grows in water
+		'''
+}
+
+WaterPlantItem: {
+	DisplayName: Weeping Bud
+	Tooltip: "'A remnant, weeping forever'"
+}
+
+WisplantSeeds: {
+	DisplayName: Wisplant Seeds
+	Tooltip: ""
+}
+
+PuffBlockItem: {
+	DisplayName: Block of Puff
+	Tooltip: "'Very soft!'"
+}
+
+SnailStatueItem: {
+	DisplayName: Snail Statue
+	Tooltip:
+		'''
+		A statue of a large snail
+		There's a plaque on the bottom
+		'''
+}
+
+HarvestedPickipuffItem: {
+	DisplayName: Pickipuff (Harvested)
+	Tooltip:
+		'''
+		Can only be placed on lush leaves
+		Can be picked to harvest Puff
+		Regrows after a while
+		'''
+}
+
+MarigoldItem: {
+	DisplayName: Marigold
+	Tooltip: "'Smells...metallic...and faintly of magic.'"
+}
+
+PickipuffItem: {
+	DisplayName: Pickipuff
+	Tooltip:
+		'''
+		Can only be placed on lush leaves
+		Can be picked to harvest Puff
+		Regrows after a while
+		'''
+}
+
+ApotheosisPlacer: {
+	DisplayName: Apotheosis
+	Tooltip: Places the Apotheosis
+}
+
+PinkPetalBlock: {
+	DisplayName: Pink Petal Block
+	Tooltip: ""
+}
+
+RedPetalBlock: {
+	DisplayName: Red Petal Block
+	Tooltip: ""
+}
+
+VerdantGrassBlock: {
+	DisplayName: Lush Grass Block
+	Tooltip: ""
+}
+
+VerdantBathtubItem: {
+	DisplayName: Verdant Bathtub
+	Tooltip: ""
+}
+
+VerdantBedItem: {
+	DisplayName: Verdant Bed
+	Tooltip: ""
+}
+
+VerdantBookshelfItem: {
+	DisplayName: Verdant Bookcase
+	Tooltip: ""
+}
+
+VerdantCandelabraItem: {
+	DisplayName: Verdant Candelabra
+	Tooltip: ""
+}
+
+VerdantCandleItem: {
+	DisplayName: Verdant Candle
+	Tooltip: ""
+}
+
+VerdantChairItem: {
+	DisplayName: Verdant Chair
+	Tooltip: ""
+}
+
+VerdantChandelierBlock: {
+	DisplayName: Verdant Chandelier (Small)
+	Tooltip: ""
+}
+
+VerdantChandelierLargeItem: {
+	DisplayName: Verdant Chandelier (Large)
+	Tooltip: ""
+}
+
+VerdantClockItem: {
+	DisplayName: Verdant Clock
+	Tooltip: ""
+}
+
+VerdantDoorItem: {
+	DisplayName: Verdant Door
+	Tooltip: ""
+}
+
+VerdantHungTableBlock_Pink: {
+	DisplayName: Hanging Verdant Table (Pink)
+	Tooltip: Can be hung when placed under two strong vines
+}
+
+VerdantHungTableBlock_PinkLightless: {
+	DisplayName: Hanging Verdant Table (Pink, No Bulb)
+	Tooltip: Can be hung when placed under two strong vines
+}
+
+VerdantHungTableBlock_Red: {
+	DisplayName: Hanging Verdant Table (Red)
+	Tooltip: Can be hung when placed under two strong vines
+}
+
+VerdantHungTableBlock_RedLightless: {
+	DisplayName: Hanging Verdant Table (Red, No Bulb)
+	Tooltip: Can be hung when placed under two strong vines
+}
+
+VerdantLampItem: {
+	DisplayName: Verdant Lamp
+	Tooltip: ""
+}
+
+VerdantLanternItem: {
+	DisplayName: Verdant Lantern
+	Tooltip: ""
+}
+
+VerdantPianoItem: {
+	DisplayName: Verdant Piano
+	Tooltip: ""
+}
+
+VerdantPlatformItem: {
+	DisplayName: Verdant Platform
+	Tooltip: ""
+}
+
+VerdantSofaItem: {
+	DisplayName: Verdant Sofa
+	Tooltip: ""
+}
+
+VerdantTableItem: {
+	DisplayName: Verdant Table
+	Tooltip: ""
+}
+
+VerdantWorkbenchItem: {
+	DisplayName: Verdant Workbench
+	Tooltip: ""
+}
+
+VerdantYellowPetalChestBlock: {
+	DisplayName: Yellow Petal Chest
+	Tooltip: ""
+}
+
+WisplantCandelabraItem: {
+	DisplayName: Wisplant Candelabra
+	Tooltip: Increases nearby growth rate
+}
+
+VerdantPylonItem: {
+	DisplayName: Verdant Pylon
+	Tooltip: ""
+}
+
+BackslateBubblingWallItem: {
+	DisplayName: Perforated Backslate Wall
+	Tooltip: ""
+}
+
+BackslateWallItem: {
+	DisplayName: Backslate Wall
+	Tooltip: ""
+}
+
+LivingLushWoodWallItem: {
+	DisplayName: Living Lush Wood Wall
+	Tooltip: ""
+}
+
+LushSoilWallItem: {
+	DisplayName: Lush Soil Wall
+	Tooltip: ""
+}
+
+LushWoodWallItem: {
+	DisplayName: Lush Wood Wall
+	Tooltip: ""
+}
+
+MysteriaWoodWallItem: {
+	DisplayName: Mysteria Wood Wall
+	Tooltip: ""
+}
+
+PuffWallItem: {
+	DisplayName: Puff Wall
+	Tooltip: ""
+}
+
+VerdantLeafWallItem: {
+	DisplayName: Lush Leaf Wall
+	Tooltip: ""
+}
+
+VerdantPinkPetalWallItem: {
+	DisplayName: Pink Petal Wall
+	Tooltip: ""
+}
+
+VerdantRedPetalWallItem: {
+	DisplayName: Red Petal Wall
+	Tooltip: ""
+}
+
+VerdantVineWallItem: {
+	DisplayName: Lush Vine Wall
+	Tooltip: ""
+}
+
+WisplantInfusedMudBoulder: {
+	DisplayName: Wisplant-Infused Lush Soil Ball
+	Tooltip:
+		'''
+		'You just stuck two things together, it's not magic' - Everybody
+		'Magic isn't always a spectacle' - Wizards
+		'''
+}
+
+BulbSnail: {
+	DisplayName: Bulb Snail
+	Tooltip: Lights up the ol' road.
+}
+
+BumblebeeItem: {
+	DisplayName: Bumblebee
+	Tooltip: ""
+}
+
+AxolotlItem: {
+	DisplayName: Axolotl
+	Tooltip: "'So cute!'"
+}
+
+BulbboxJellyItem: {
+	DisplayName: Bulbbox Jelly
+	Tooltip: "'Squishy!'"
+}
+
+MossCarpItem: {
+	DisplayName: Moss Carp
+	Tooltip: "'A mix of hearty meat and grass'"
+}
+
+PoolwormItem: {
+	DisplayName: Poolworm
+	Tooltip: "'Surprisingly slimy!'"
+}
+
+FlotieItem: {
+	DisplayName: Flotie
+	Tooltip: ""
+}
+
+FlotinyItem: {
+	DisplayName: Flotiny
+	Tooltip: "'Oh my lord it's so tiny'"
+}
+
+FolifishItem: {
+	DisplayName: Folifish
+	Tooltip: ""
+}
+
+MysteriaFlotieItem: {
+	DisplayName: Mysteria Flotie
+	Tooltip: ""
+}
+
+MysteriaFlotinyItem: {
+	DisplayName: Mysteria Flotiny
+	Tooltip: ""
+}
+
+PuffSlimeSmallItem: {
+	DisplayName: Puff Slime
+	Tooltip: ""
+}
+
+RedGrassSnail: {
+	DisplayName: Red Petal Snail
+	Tooltip: What a gentle creature!
+}
+
+ExpertPlantGuide: {
+	DisplayName: Expert Guide to Plant Fiber Cordage
+	Tooltip:
+		'''
+		Allows mastery of a very niche element
+		Vines can be harvested from the Verdant
+		Vines harvested from the Verdant place significantly faster
+		Vines climb upwards when there's no space below
+		'''
+}
+
+FlotieOfWrathItem: {
+	DisplayName: Curious Skull
+	Tooltip:
+		'''
+		Summons a Flotie of Wrath
+		Gives off a small amount of light
+		'The angriest flotie you've ever seen'
+		'''
+}
+
+HealingFlowerItem: {
+	DisplayName: Yellow Sprout
+	Tooltip:
+		'''
+		Increases healing from potions by 20%
+		Increases mana healing from potions by 30%
+		Provides a tiny bit of light
+		'You are followed by the strength of willpower'
+		'''
+}
+
+Lightbloom: {
+	DisplayName: Lightbloom
+	Tooltip:
+		'''
+		Increases life regeneration when in light
+		The stronger the light, the larger the increase
+		'''
+}
+
+Mudsquid: {
+	DisplayName: Mudsquid
+	Tooltip:
+		'''
+		Allows quick travel directly through some solid tiles,
+		including all natural Verdant tiles
+		'''
+}
+
+Propellerpad: {
+	DisplayName: Propellerpad
+	Tooltip:
+		'''
+		Summons an odd lily pad.
+		Hang onto the pad's vine to fly around.
+		'''
+}
+
+SproutInABoot: {
+	DisplayName: Sprout in Boots
+	Tooltip:
+		'''
+		Spreads leafy platforms automatically under the player when worn
+		Uses a single Lush Leaf per platform placed
+		Needs water to continue working
+		'Surprisingly comfortable & durable'
+		'''
+}
+
+SproutInAGlove: {
+	DisplayName: Sprout in Gloves
+	Tooltip:
+		'''
+		Dodges hostile projectiles randomly (33% chance)
+		Dodging a projectile gives you a small amount of i-frames and heals you slightly
+		Projectiles can only hit you once, even if they pierce or bounce
+		'''
+}
+
+VineHook: {
+	DisplayName: Living Vine Hook
+	Tooltip:
+		'''
+		Unhooks automatically when close enough
+		'A nicer friend than most hooks'
+		'''
+}
+
+LushWoodCrateItem: {
+	DisplayName: Lush Wood Crate
+	Tooltip: Right click to open
+}
+
+MysteriaCrateItem: {
+	DisplayName: Mysteria Crate
+	Tooltip: Right click to open
+}
+
+Shellfish: {
+	DisplayName: Overgrown Shellfish
+	Tooltip: ""
+}
+
+BowlFruit: {
+	DisplayName: Bowl Fruit
+	Tooltip:
+		'''
+		Minor improvements to all stats
+		'Warter'
+		'''
+}
+
+Dropberry: {
+	DisplayName: Dropberry
+	Tooltip:
+		'''
+		Minor improvements to all stats
+		'Smells like petrichor'
+		'''
+}
+
+FloralTea: {
+	DisplayName: Floral Tea
+	Tooltip:
+		'''
+		Minor improvements to all stats
+		'A snakes' special recipe'
+		'''
+}
+
+Grapecherry: {
+	DisplayName: Grapecherry
+	Tooltip:
+		'''
+		Minor improvements to all stats
+		'An odd but tasty combination'
+		'''
+}
+
+HoneyNuggets: {
+	DisplayName: Honey Nuggets
+	Tooltip:
+		'''
+		Minor improvements to all stats
+		'Exceptionally good despite the origin'
+		'''
+}
+
+Mystuber: {
+	DisplayName: Mystuber
+	Tooltip:
+		'''
+		Minor improvements to all stats
+		'Perplexing! Confounding! Befuddling!'
+		'''
+}
+
+Walnut: {
+	DisplayName: Walnut
+	Tooltip:
+		'''
+		Minor improvements to all stats
+		'Your teeth will see better days'
+		'''
+}
+
+Waterberry: {
+	DisplayName: Waterberry
+	Tooltip:
+		'''
+		Minor improvements to all stats
+		'Almost like candy!'
+		'''
+}
+
+Lightbulb: {
+	DisplayName: Lightbulb
+	Tooltip: "'Keeps Charlie away'"
+}
+
+LushLeaf: {
+	DisplayName: Lush Leaf
+	Tooltip: "'Quite durable'"
+}
+
+MysteriaClump: {
+	DisplayName: Mysteria Flower Clump
+	Tooltip: "'Wonderfully soft'"
+}
+
+PinkPetal: {
+	DisplayName: Pink Petal
+	Tooltip: "'It's very soft'"
+}
+
+PuffMaterial: {
+	DisplayName: Puff
+	Tooltip:
+		'''
+		Light and soft to the touch
+		Tastes bad
+		'''
+}
+
+RedPetal: {
+	DisplayName: Red Petal
+	Tooltip: "'It's very smooth'"
+}
+
+WisplantItem: {
+	DisplayName: Wisplant
+	Tooltip: "'Soft like clouds'"
+}
+
+YellowBulb: {
+	DisplayName: Yellow Bulb
+	Tooltip: "'So rare...'"
+}
+
+ApotheosisBag: {
+	DisplayName: Researcher's Bag
+	Tooltip: Right click to open
+}
+
+ApotheosisBook: {
+	DisplayName: "'My Apotheosis'"
+	Tooltip: - Emily
+}
+
+WiltedFlower: {
+	DisplayName: Wilted Flower
+	Tooltip: A long-dead, faded yellow flower
+}
+
+HeartOfGrowth: {
+	DisplayName: The Heart of Growth
+	Tooltip:
+		'''
+		Permenantly increases minion damage by 5%.
+		Can only be used once per person.
+		'A heart that beats everliving.'
+		'''
+}
+
+MagicWisplant: {
+	DisplayName: Magic-Infused Wisplant
+	Tooltip:
+		'''
+		'A powerful aura of druidic energy surrounds it'
+		Speeds up all natural growth in an area by a dramatic amount
+		'''
+}
+
+Microcosm: {
+	DisplayName: Microcosm
+	Tooltip:
+		'''
+		Creates a miniscule Verdant biome anywhere
+		Caution! This overrides a LARGE area (minimum 60x60 tiles on a small world)
+		Make sure you use this in a place you don't care about!
+		'A realm in glass, shines brightly'
+		'''
+}
+
+PassionflowerBulb: {
+	DisplayName: Passionflower Bulb
+	Tooltip:
+		'''
+		Right click to open
+		'Smells of citrus and sweetness'
+		'''
+}
+
+AquamarineHook: {
+	DisplayName: Aquamarine Hook
+	Tooltip: ""
+}
+
+BouncebloomItem: {
+	DisplayName: Bouncebloom
+	Tooltip:
+		'''
+		Slows fall
+		Hold DOWN to fall faster
+		Light enemies above you will bounce on the flower
+		'''
+}
+
+CloudsproutPuff: {
+	DisplayName: Cloudsprout
+	Tooltip:
+		'''
+		Floating bounce pad
+		Remains even upon world exit
+		Left click on an existing cloud to remove it
+		Right click for two seconds to remove all cloudsprouts
+		'''
+}
+
+GemFlower: {
+	DisplayName: Gemflower
+	Tooltip: Teleports you to the Apotheosis
+}
+
+Halfsprout: {
+	DisplayName: Halfsprout
+	Tooltip:
+		'''
+		Instantly grows all herbs, harvests them, then replants them
+		'Nature's beauty; giving itself to others'
+		'''
+}
+
+LivingLushWoodWand: {
+	DisplayName: Living Lush Wood Wand
+	Tooltip:
+		'''
+		Places living lush wood blocks
+		[c/88FF88:Right click this item] to Lush Leaves
+		'''
+}
+
+LushLeafWand: {
+	DisplayName: Lush Leaf Wand
+	Tooltip:
+		'''
+		Places lush leaf blocks
+		[c/88FF88:Right click this item] to switch to Red Petals
+		'''
+}
+
+CrudePaintbrush: {
+	DisplayName: Crude Paintbrush
+	Tooltip:
+		'''
+		Can rapidly place tiles in various placement styles
+		Right click while holding to cycle placement style
+		Fill tool has a maximum 1000 tiles placed at a time
+		'A crude veneer belies a powerful artefact'
+		'''
+
+	Information: {
+		NoItemSelected: Select an item to start!
+		NotEnoughItem: You don't have enough [i:{0}]!
+		FillConfirm: Are you sure you want to fill?
+		NoUndos: No changes to undo.
+		SelectBlock: Select a block to start!
+		NotValidBlock: Select a solid, 1x1 block (like Dirt [i:2]) to start!
+		Selected: Placement type set to [i:{0}] ({1})!
+	}
+}
+
+PermVineWand: {
+	DisplayName: Zipvine
+	Tooltip:
+		'''
+		Allows the user to build a vine
+		The vine works like a rope and can be used in any open space
+		These vines use [i:{0}] to build, and drop them on being destroyed
+		Right click Zipvines while holding this to remove them
+		'''
+}
+
+PinkPetalWand: {
+	DisplayName: Pink Petal Wand
+	Tooltip:
+		'''
+		Places pink petal blocks
+		[c/88FF88:Right click this item] to Living Lush Wood
+		'''
+}
+
+RedPetalWand: {
+	DisplayName: Red Petal Wand
+	Tooltip:
+		'''
+		Places red petal blocks
+		[c/88FF88:Right click this item] to Pink Petals
+		'''
+}
+
+Shears: {
+	DisplayName: Shears
+	Tooltip:
+		'''
+		Trims certain plants
+		Can be used to remove Pickipuff, Mysteria Drapes
+		Can be used as an axe, technically
+		'''
+}
+
+VerdantFishingRod: {
+	DisplayName: Lush Fishing Rod
+	Tooltip:
+		'''
+		Gives off light when held
+		Grows in power in the Verdant
+		'''
+}
+
+YellowPetalFloater: {
+	DisplayName: Cloudsprout
+	Tooltip:
+		'''
+		Floating bounce pad
+		Remains even upon world exit
+		Left click on an existing cloud to remove it
+		Right click for two seconds to remove all cloudsprouts
+		'''
+}
+
+AquamarinePhaseblade: {
+	DisplayName: Aquamarine Phaseblade
+	Tooltip: ""
+}
+
+AquamarinePhasesaber: {
+	DisplayName: Aquamarine Phasesaber
+	Tooltip: ""
+}
+
+AquamarinePlatinumStaff: {
+	DisplayName: Aquamarine Staff
+	Tooltip:
+		'''
+		Summons bolts to come from your minions
+		The bolts get some added damage from your minions
+		'''
+}
+
+AquamarineStaff: {
+	DisplayName: Aquamarine Staff
+	Tooltip:
+		'''
+		Summons bolts to come from your minions
+		The bolts get some added damage from your minions
+		'''
+}
+
+LushDagger: {
+	DisplayName: Lush Splinter
+	Tooltip:
+		'''
+		Thrown in triplets
+		'Nature's nuisance of choice'
+		'''
+}
+
+LushWoodBow: {
+	DisplayName: Lush Wood Bow
+	Tooltip: ""
+}
+
+LushWoodHammer: {
+	DisplayName: Lush Wood Hammer
+	Tooltip: ""
+}
+
+LushWoodSword: {
+	DisplayName: Lush Wood Sword
+	Tooltip: ""
+}
+
+MudBoulderItem: {
+	DisplayName: Lush Soil Ball
+	Tooltip: A minor nuisance
+}
+
+SpikedPuffball: {
+	DisplayName: Spiked Puffball
+	Tooltip: Floats in the air for half a minute, then drops
+}
+
+VerdantStaff: {
+	DisplayName: Lush Healing Staff
+	Tooltip:
+		'''
+		Summons a sacred healing flower.
+		Stay near the plant to gain some extra regeneration.
+		You can only summon one at a time.
+		Use again while its already out to move the flower.
+		'''
+	MultiplayerTooltip: Summoning multiple flowers will empower the flower.
+}
+
+LargeFlowerBulb: {
+	DisplayName: Large Flower Bulb
+	Tooltip: "{$VerdantFlowerBulb.Tooltip}"
+}
+
+LightbulbFlowerBulb: {
+	DisplayName: Lightflower Bulb
+	Tooltip: "{$VerdantFlowerBulb.Tooltip}"
+}
+
+CrystalHeart: {
+	DisplayName: Crystal Heart
+	Tooltip:
+		'''
+		Grants immunity to various debuffs on use.
+		Can only be used once per player.
+		Holds many more secrets, somewhere, sometime.
+		'A cracked, hollow heart.'
+		'''
+}
+
+ThornBlock: {
+	DisplayName: Thorn Block
+	Tooltip: Unpleasant in all forms
+}
+
+ThornWallItem: {
+	DisplayName: Thorn Wall
+	Tooltip: It's...wrong.
+}
+
+ApotheoticBeeHelmet: {
+	DisplayName: Apotheotic Host Headdress
+	Tooltip:
+		'''
+		Holds a swarm of bees
+		When holding a summon item, these bees surround your cursor and do damage over time
+		10% increased minion damage
+		+2 minion slots
+		The bees are empowered by the Hive Pack
+		'It is so much more concerning when it's on top of your head'
+		'''
+}
+
+ApotheoticTreeHelmet: {
+	DisplayName: Apotheotic Treeband
+	Tooltip:
+		'''
+		A tree grows on the headband, somehow
+		You have a healing aura
+		The tree grows various fruits
+		Click on one of your minions to buff it greatly for a short period of time
+		+10% increased minion damage
+		+1 minion slot
+		'The tree soothes life, and life soothes you'
+		'''
+}
+
+ApotheoticChestplate: {
+	DisplayName: Apotheotic Chestplate
+	Tooltip:
+		'''
+		10% increased minion damage
+		+1 minion slot
+		'''
+}
+
+ApotheoticLeggings: {
+	DisplayName: Apotheotic Leggings
+	Tooltip:
+		'''
+		5% increased minion damage
+		+1 minion slot
+		'''
+}
+
+HoneyHeart: {
+	DisplayName: Honey Heart
+	Tooltip: ""
+}
+
+FruitIconGreen: {
+	DisplayName: Spicy Pepper
+	Tooltip: ""
+}
+
+FruitIconRed: {
+	DisplayName: Sweet Apple
+	Tooltip: ""
+}
+
+FruitIconYellow: {
+	DisplayName: Honey Drop
+	Tooltip: ""
+}
+
+ApotheoticSoul: {
+	DisplayName: Apotheotic Murmur
+	Tooltip:
+		'''
+		The barest essence of an apotheosis
+		'You can hear whizzing and dancing'
+		'''
+}
+
+LushWoodPlankBlock: {
+	DisplayName: Lush Plank
+	Tooltip: ""
+}
+
+LushPlankWallItem: {
+	DisplayName: Lush Plank Wall
+	Tooltip: ""
+}
+
+MysteriaFluffItem: {
+	DisplayName: Mysteria Fluff
+	Tooltip: "'You feel richer just touching this'"
+}
+
+MysteriaFluffWallItem: {
+	DisplayName: Mysteria Fluff Wall
+	Tooltip: "'It's like having a carpet wall!"
+}
+
+LushFenceItem: {
+	DisplayName: Lush Fence
+	Tooltip: ""
+}
+
+LushGrassSeeds: {
+	DisplayName: Lush Grass Seeds
+	Tooltip: "'These taste like lettuce'"
+}
+
+BlueDyeBulb: {
+	DisplayName: Skyblue Itoh Peony
+	Tooltip:
+		'''
+		'A wonderfully vibrant colour!'
+		Used to make Blue Dye
+		'''
+}
+
+WhiteDyeBulb: {
+	DisplayName: Moth Orchid
+	Tooltip:
+		'''
+		'A wonderfully joyful colour!'
+		Used to make Silver Dye
+		'''
+}
+
+LightbulbLeafItem: {
+	DisplayName: Lightbulb Leaves
+	Tooltip: Gives off a gentle glow
+}
+
+LushLoomItem: {
+	DisplayName: Lush Loom
+	Tooltip: Works as both a Living Loom and a normal loom
+}
+
+TrimmedOvergrownBrickItem: {
+	DisplayName: Trimmed Overgrown Brick
+	Tooltip: Doesn't spread or grow anything, just looks nice!
+}
+
+BasicTerrariumItem: {
+	DisplayName: Basic Terrarium
+	Tooltip: "'Pleasant to observe'"
+}
+
+FlotieTerrariumItem: {
+	DisplayName: Flotie Terrarium
+	Tooltip: "'Relaxing, intruiging...'"
+}
+
+FlotinyTerrariumItem: {
+	DisplayName: Flotiny Terrarium
+	Tooltip: "'Floating lightbulbs in a terrarium? That's the future of lamps!'"
+}
+
+MysteriaFlotinyTerrariumItem: {
+	DisplayName: Mysteria Flotiny Terrarium
+	Tooltip: "'Almost a hypnotic pattern to see'"
+}
+
+MysteriaFlotieTerrariumItem: {
+	DisplayName: Mysteria Flotie Terrarium
+	Tooltip: "'The wind in its soul blows forever'"
+}
+
+AquariumItem: {
+	DisplayName: Aquarium
+	Tooltip: Can be used to keep aquatic critters
+}
+
+PoolwormAquariumItem: {
+	DisplayName: Poolworm Aquarium
+	Tooltip: "'Looks like it's having fun!'"
+}
+
+BulbboxAquariumItem: {
+	DisplayName: Bulbbox Aquarium
+	Tooltip: "'This guy could beat you in a swimming race'"
+}
+
+MossCarpAquariumItem: {
+	DisplayName: Moss Carp Aquarium
+	Tooltip: "'There's a micro-terrarium on the bottom of the fish...'"
+}
+
+AxolotlAquariumItem: {
+	DisplayName: Axolotl Aquarium
+	Tooltip: "'Have you heard their little noises?'"
+}
+
+RedSnailCage: {
+	DisplayName: Red Snail Cage
+	Tooltip: "'Confident, but slow.'"
+}
+
+BulbSnailCage: {
+	DisplayName: Bulb Snail Cage
+	Tooltip: "'Cowardly, but powerful.'"
+}
+
+LushWingletItem: {
+	DisplayName: Lush Winglet
+	Tooltip: "'Tiny and frail.'"
+}
+
+LushWingletTerrariumItem: {
+	DisplayName: Lush Winglet Terrarium Item
+	Tooltip: "'...it looks content!'"
+}
+
+PlainMicrocosm: {
+	DisplayName: Plain Microcosm
+	Tooltip:
+		'''
+		{$Microcosm.Tooltip}
+		Free of glass!
+		'''
+}
+
+PassionflowerBlock: {
+	DisplayName: Passionflower Sprout
+	Tooltip:
+		'''
+		Regrows slowly
+		'A subtle yet comforting scent comes off of the remaining petals'
+		'''
+}
+
+ChlorovineWand: {
+	DisplayName: Chlorovine
+	Tooltip:
+		'''
+		Allows the user to build a Chlorovine
+		The vine works like a rope and can be used in any open space
+		These vines use [i:{0}] to build, and drop them on being destroyed
+		A magical energy lets you climb significantly faster
+		Right click Chlorovines while holding this to remove them
+		'''
+}
+
+ShellSnailCage: {
+	DisplayName: Shell Snail Cage
+	Tooltip: Flighty, but hardy.
+}
+
+ShellSnailItem: {
+	DisplayName: Shell Snail
+	Tooltip: Rock-solid cuteness.
+}
+
+CanopySnailItem: {
+	DisplayName: Canopy Snail
+	Tooltip: What a beautiful display of nature.
+}
+
+CanopySnailCage: {
+	DisplayName: Canopy Snail Cage
+	Tooltip: Sluggish, but loving.
+}
+
+StargazerPlantItem: {
+	DisplayName: Blue Stargazer
+	Tooltip: Glows softly in your care.
+}
+
+LunarJellyItem: {
+	DisplayName: Lunar Jelly
+	Tooltip: Both soft and incorporeal.
+}
+
+LunarJellyTerrariumItem: {
+	DisplayName: Lunar Jelly Terrarium
+	Tooltip: Night not fleeting, just glowing.
+}
+
+GlassFlowerItem: {
+	DisplayName: Glassflower
+	Tooltip:
+		'''
+		Disables the Verdant biome in the nearby area, allowing for use of other biomes
+		'How frail...'
+		'''
+}

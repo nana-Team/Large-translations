@@ -913,7 +913,7 @@ Mods: {
 				Tooltip:
 					'''
 					Разбрасывает шипы-ловушки
-					Рызбрасывает больше ловушек, если вы носите аксессуары, связанные с карабканием
+					Разбрасывает больше ловушек, если вы носите аксессуары, связанные с карабканием
 					'''
 			}
 
@@ -1001,17 +1001,17 @@ Mods: {
 			}
 
 			AnomalyLocator: {
-				DisplayName: Anomaly Locator
+				DisplayName: Детектор аномалий
 				Tooltip:
 					'''
-					Displays the location of various anomalies, such as electromagnetic transmissions, wormholes, and teleported items, on the Minimap
-					Functions while equipped as an accessory, favorited in the inventory, or worn as a vanity accessory
+					Отображает расположение различных аномалий, в числе которых электромагнитные дыры, червоточины и телепортированные предметы, на миникарте
+					Функционирует при ношении в слоте аксессуара, в слоте украшений или если помечен как избранное в инвентаре
 					'''
 			}
 
 			SkipShard: {
-				DisplayName: Skip Shard
-				Tooltip: "'A crystal with remarkable space-bending capacity'"
+				DisplayName: Гиперскачковый осколок
+				Tooltip: «Кристалл, обладающей удивительной способностью изгибания пространства»
 			}
 
 			SkipSoul: {
@@ -1020,41 +1020,41 @@ Mods: {
 			}
 
 			SkipShot: {
-				DisplayName: Skip Shot
+				DisplayName: Лук пропуска
 				Tooltip:
 					'''
-					Fires 3 arrows
-					Converts wooden arrows into Wormhole Arrows
+					Стреляет 3 стрелами
+					Превращает деревянные стрелы в червоточные
 					'''
 			}
 
 			SkipArrow: {
-				DisplayName: Wormhole Arrow
-				Tooltip: Instantly travels to hit enemies below
+				DisplayName: Червоточная стрела
+				Tooltip: Если под стрелой находится враг, то она моментально телепортируется в него
 			}
 
 			SkipBullet: {
-				DisplayName: Wormhole Bullet
-				Tooltip: Instantly travels to hit enemies below
+				DisplayName: Червоточная пуля
+				Tooltip: Если под пулей находится враг, то она моментально телепортируется в него
 			}
 
 			SkipScythe: {
-				DisplayName: Selene
+				DisplayName: Селена
 				Tooltip:
 					'''
-					Applies a stacking, permanent curse that deals 2 damage per second and increases damage taken by enemies by 0.5%
-					Launches waves that deal 50% damage and have a 20% chance to apply the curse
+					Накладывает суммирующееся вечное проклятие, наносящее 2 урона в секунду и увеличивающее получаемый врагами урон на 0,5% за уровень
+					Запускает волны, наносящие 50% урона и имеющие 20% шанса наложить проклятие
 					'''
 			}
 
 			VoidAnomaly: {
-				DisplayName: Void Anomaly
+				DisplayName: Пустотная аномалия
 				Tooltip:
 					'''
-					Increases void gain by 1 and void regeneration speed by 5%
-					Getting hit will convert void into life for a duration
-					Increases the potency of Void Shock and Void Recovery
-					Allows access to wormhole crafting recipes
+					Увеличивает получаемую пустоту на 1 и скорость регенерации пустоты на 5%
+					Получение урона сконвертирует пустоту в здоровье
+					Увеличивает силу дебаффов «Пустотный шок» и «Пустотное восстановление»
+					Дарует доступ к чревоточным трансмутациям
 					'''
 			}
 
@@ -1066,20 +1066,20 @@ Mods: {
 			}
 
 			BloodstainedCoin: {
-				DisplayName: Bloodstained Coin
+				DisplayName: Окровавленная монета
 				Tooltip:
 					'''
-					Critical strikes have a 50% chance to deal 20 more damage
-					Receiving damage has a 50% chance to bleed you
+					Критические удары имеют шанс 50% нанести на 20 ед. урона больше
+					При получении вы с шансом в 50% начнёте истекать кровью
 					'''
 			}
 
 			PutridCoin: {
-				DisplayName: Putrid Coin
+				DisplayName: Очищенная монета
 				Tooltip:
 					'''
-					Critical strikes have a 50% chance to deal 20 more damage
-					Receiving damage has a 50% chance to poison you
+					Критические удары имеют шанс 50% нанести на 20 ед. урона больше
+					При получении вы с шансом в 50% отравитесь
 					'''
 			}
 
@@ -1094,7 +1094,7 @@ Mods: {
 			}
 
 			FocusCrystal: {
-				DisplayName: Сконцентрированный кристал
+				DisplayName: Кристалл концентрации
 				Tooltip:
 					'''
 					Критические удары будут наносить на 40 ед. больше урона
@@ -1104,59 +1104,59 @@ Mods: {
 			}
 
 			ChaosBadge: {
-				DisplayName: Chaos Badge
-				Tooltip: Increases critical strike chance by 9%
+				DisplayName: Символ хаоса
+				Tooltip: Увеличивает шанс критического удара на 9%
 			}
 
 			CloverCharm: {
-				DisplayName: Clover Charm
+				DisplayName: Амулет с клевером
 				Tooltip:
 					'''
-					Critical strikes have a 50% chance to steal life
-					Increases critical strike chance by 1%
+					Критические удары с 50% шансом обладают вампиризмом
+					Увеличивает шанс критического удара на 1%
 					'''
 			}
 
 			VoidCharm: {
-				DisplayName: Void Charm
+				DisplayName: Амулет пустоты
 				Tooltip:
 					'''
-					Critical strikes have a 50% chance to regenerate void
-					Increases critical strike chance by 1%
+					Критические удары с 50% шансом обладают пустотным вампиризмом
+					Увеличивает шанс критического удара на 1%
 					'''
 			}
 
 			SoulCharm: {
-				DisplayName: Soul Charm
+				DisplayName: Духовный амулет
 				Tooltip:
 					'''
-					Critical strikes steal life, regenerate void, and recover mana
-					Increases critical strike chance by 2%
+					Критические удары восстанавливают жизнь, пустоту и ману
+					Увеличивает шанс критического удара на 2%
 					'''
 			}
 
 			BagOfCharms: {
-				DisplayName: Bag of Charms
+				DisplayName:  Мешочек с амулетами
 				Tooltip:
 					'''
-					Increases critical strike chance by 5%
-					Critical strikes may detonate enemies for 100% damage
-					Critical strikes steal life, regenerate void, and recover mana
+					Увеличивает шанс критического удара на 5%
+					Критичексие удары могут взорвать врагов, что нанесёт им 100% урона вызвавшего взрыв удара
+					Критические удары восстанавливают жизнь, пустоту и ману
 					'''
 			}
 
 			EyeOfChaos: {
-				DisplayName: Eye of Chaos
-				Tooltip: Increases critical strike chance by 18%
+				DisplayName: Глаз хаоса
+				Tooltip: Увеличивает шанс критического удара на 18%
 			}
 
 			FocusReticle: {
-				DisplayName: Focus Reticle
+				DisplayName: Фокусировочная сетка
 				Tooltip:
 					'''
-					Increases critical strike chance by 20%
-					Critical strikes deal 40 more damage
-					Immunity to bleeding and poisoned debuffs
+					Увеличивает шанс критического удара на 20%
+					Критические удары будут наносить на 40 ед. больше урона
+					Даёт иммунитет к дебаффам «{$BuffName.Poison}» и {$BuffName.Bleeding}»
 					'''
 			}
 
@@ -1165,44 +1165,44 @@ Mods: {
 				Tooltip:
 					'''
 					Критические удары будут иметь шанс вызвать взрыв ледяного огня, наносящий 200% урона
-					Увеличивает шанс критичсекого удара на 1%
+					Увеличивает шанс критического удара на 1%
 					'''
 			}
 
 			CursedIcosahedron: {
-				DisplayName: Cursed Icosahedron
+				DisplayName: Проклятый икосаэдр
 				Tooltip:
 					'''
-					Critical strikes may cause a release of cursed thunder, dealing 100% damage
-					Critical strikes may also cause frostburn or flaming explosions, dealing 100% damage
-					Increases critical strike chance by 2%
+					Критические удары будут иметь шанс вызвать взрыв проклятого ледяного огня, наносящий 100% урона
+					Кроме того, критические удары будут иметь шанс вызвать ледяные ожоги или взрыв пламени, наносящий 100% урона
+					Увеличивает шанс критического удара на 2%
 					'''
 			}
 
 			HellfireIcosahedron: {
-				DisplayName: Hellfire Icosahedron
+				DisplayName: Икосаэдр адского огня
 				Tooltip:
 					'''
-					Critical strikes may cause a flaming explosion, dealing 100% damage
-					Increases critical strike chance by 1%
+					Критические удары будут иметь шанс вызвать взрыв пламени, наносящий 100% урона
+					Увеличивает шанс критического удара на 1%
 					'''
 			}
 
 			SnakeEyes: {
 				DisplayName: Snake Eyes
-				Tooltip: Increases critical strike chance by 7%
+				Tooltip: Увеличивает шанс критического удара на 7%
 			}
 
 			AquaticEclipse: {
 				# Crushers
-				DisplayName: Eclipse
+				DisplayName: Затмение
 				# Crushers
 				Tooltip:
 					'''
-					Charge to increase damage up to 700%
-					Takes 3 seconds to reach max charge
-					Can strike through walls
-					Releases bubbles that do 10% damage
+					Заряжайте для увеличения урона вплоть до 700%
+					Для полной зарядки требуется 3 секунды
+					Может наносить удары ссквозь стены
+					Выпускает пузырьки, наносящие 10% урона
 					'''
 			}
 

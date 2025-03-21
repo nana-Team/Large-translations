@@ -1,0 +1,88 @@
+Foods: {
+	AuricApple: {
+		DisplayName: Auric Apple
+		Tooltip:
+			'''
+			Minor improvements to all stats for an entire hour
+			'yeah my brain is rotting from today, I read Auric Soul as Auric Fruit' - YuH
+			'''
+	}
+
+	ExoBaguette: {
+		DisplayName: Exo Baguette
+		Tooltip:
+			'''
+			Major improvements to all stats
+			Red Wine heals 250 HP, but reduces life regen by 2 HP/s
+			Allows for drinking 1 more alcohol before your liver is poisoned
+			'''
+	}
+
+	SoulBaguette: {
+		DisplayName: Soul Baguette
+		Tooltip:
+			'''
+			Medium improvements to all stats
+			Red Wine heals 250 HP, but reduces life regen by 2 HP/s
+			'''
+	}
+
+	Eldercherry: {
+		DisplayName: Eldercherry
+		Tooltip: Medium improvements to all stats
+	}
+
+	EldercherryJuice: {
+		DisplayName: Eldercherry Juice
+		Tooltip: Major improvements to all stats
+	}
+
+	SlagspitterPauldron: {
+		DisplayName: Slagspitter Pauldron
+		Tooltip: Major improvements to all stats
+	}
+
+	ClamChowder: {
+		DisplayName: Clam Chowder
+		Tooltip:
+			'''
+			Medium improvements to all stats
+			'New Ilmeris style'
+			'''
+	}
+
+	Barolegs: {
+		DisplayName: Barolegs
+		Tooltip:
+			'''
+			Varying improvements to all stats
+			Defeat the water elemental found in ocean and her majestic beast to improve its taste
+			Defeat a ghostly foe found in dungeon to improve its taste even further
+			'The meat actually seems to have come from a barocraw!
+			Not that it matters — it's rancid all the same'
+			'''
+	}
+
+	Calamitea: {
+		DisplayName: Calamitea
+		Tooltip:
+			'''
+			Major improvements to all stats
+			'Quite the Calamity'
+			'''
+	}
+}
+
+SupremeLuckPotion: {
+	DisplayName: Supreme Luck Potion
+	Tooltip: Greatly increases the Luck of the user
+}
+
+TitanScalePotion: {
+	DisplayName: Titan Scale Potion
+	Tooltip:
+		'''
+		Increases knockback, defense by 5 and damage reduction by 5%
+		Increases defense by 20 and damage reduction by 5% for a few seconds after a true melee strike
+		'''
+}

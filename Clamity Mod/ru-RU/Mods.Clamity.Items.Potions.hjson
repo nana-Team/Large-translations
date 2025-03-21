@@ -1,0 +1,88 @@
+Foods: {
+	AuricApple: {
+		DisplayName: Аурическое яблоко
+		Tooltip:
+			'''
+			Незначительные улучшения всех характеристик на 1 ЧАС
+			'yeah my brain is rotting from today, I read Auric Soul as Auric Fruit' - YuH
+			'''
+	}
+
+	ExoBaguette: {
+		DisplayName: Экзо-багет
+		Tooltip:
+			'''
+			Значительные улучшения всех характеристик
+			Усиливает эффект Красного Вина
+			Увеличивает порог до алкогольного отравления на 1 бафф
+			'''
+	}
+
+	SoulBaguette: {
+		DisplayName: Багет духов
+		Tooltip:
+			'''
+			Средние улучшения всех характеристик
+			Усиливает эффект Красного Вина
+			'''
+	}
+
+	Eldercherry: {
+		DisplayName: Вишня древних
+		Tooltip: Средние улучшения всех характеристик
+	}
+
+	EldercherryJuice: {
+		DisplayName: Сок из вишни древних
+		Tooltip: Значительные улучшения всех характеристик
+	}
+
+	SlagspitterPauldron: {
+		// DisplayName: Slagspitter Pauldron
+		Tooltip: Значительные улучшения всех характеристик
+	}
+
+	ClamChowder: {
+		DisplayName: Похлебка из моллюсков
+		Tooltip:
+			'''
+			Новый стиль Ильмериса
+			Средние улучшения всех характеристик
+			'''
+	}
+
+	Barolegs: {
+		DisplayName: Баролапы
+		Tooltip:
+			'''
+			Мясо на самом деле выглядит так, будто его приготовили из барокрау. Не то чтобы это имело значение, оно все равно прогорклое
+			Различные улучшения всех характеристик
+			Бафф зависит от стадии игры
+			'''
+	}
+
+	Calamitea: {
+		DisplayName: Чаебедствие
+		Tooltip:
+			'''
+			Настоящее бедствие
+			Значительные улучшения всех характеристик
+			'''
+	}
+}
+
+SupremeLuckPotion: {
+	DisplayName: Зелье высшей удачи
+	Tooltip: Сильно увеличевает удачу пользователя
+}
+
+TitanScalePotion: {
+	DisplayName: Зелье чешуи титана
+	Tooltip:
+		'''
+		Increases knockback, defense by 5 and damage reduction by 5%
+		Increases defense by 20 and damage reduction by 5% for a few seconds after a true melee strike
+		Увеличивает откидываение, защиту на 5 и поглощение урона на 5%
+		Увеличивает защиту на 50 и поглощение на 5% в течение пару секунд после удара истинного ближнего урона
+		'''
+}

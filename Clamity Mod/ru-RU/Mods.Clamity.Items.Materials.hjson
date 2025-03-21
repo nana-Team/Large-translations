@@ -1,0 +1,39 @@
+HuskOfCalamity: {
+	DisplayName: Шелуха бедствия
+	Tooltip: Останки адского моллюска
+}
+
+ClamitousPearl: {
+	DisplayName: Пагубная жемчужина
+	Tooltip: "'Это время моллюска!'"
+}
+
+CoreOfFlame: {
+	DisplayName: Ядро Игниса
+	// Tooltip: ""
+}
+
+EssenceOfFlame: {
+	DisplayName: Эссенция Игниса
+	Tooltip: Эссенция существ из горячих земель
+}
+
+EnchantedMetal: {
+	DisplayName: Зачарованный металл
+	Tooltip: Металл наполенный душами самой Террарии
+}
+
+MetalFeather: {
+	// Tooltip: ""
+	DisplayName: Металлическое перо
+}
+
+RarePlanteraFruit: {
+	DisplayName: Редкий фрукт Плантеры
+	// Tooltip: ""
+}
+
+CoralskinFoolfish: {
+	DisplayName: Коралочешуйчетая рыба-балван
+	Tooltip: Камуфляж это один из лучших способов защиты в Природе
+}

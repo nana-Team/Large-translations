@@ -1,0 +1,16 @@
+Cooldowns: {
+	ShortstrikeCooldown: Shortsword Effect Cooldown
+	ShortstrikeCharge: Shortstrike Charge
+	PyrospearCooldown: Pyrospear Cooldown
+}
+
+Enchantments: {
+	AflameAcc: {
+		DisplayName: Aflame
+		Description:
+			'''
+			Ignites enemies with the Supreme Witch's power on hit (by minion) but also causes the user to take damage over time when wearing this item.
+			P. S. Not all accesories has support of this enchantment
+			'''
+	}
+}

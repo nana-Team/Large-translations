@@ -1,0 +1,28 @@
+DepthsEchoRifle: {
+	DisplayName: Depths Echo Rifle
+	Tooltip: Converts musket balls into homing brimstone bolts
+}
+
+Obsidigun: {
+	DisplayName: Obsidigun
+	Tooltip: Converts musket balls into fast-moving obsidian bullets that break into a lot of shards on hit
+}
+
+RoseBow: {
+	DisplayName: Rose Bow
+	Tooltip:
+		'''
+		'Even if you can't see me, even if you can't hear me, I'll be by your side'
+		Shoots a spread of arrows and homing petals
+		'''
+}
+
+WitheredBoneBow: {
+	DisplayName: Withered Bone Bow
+	Tooltip:
+		'''
+		Converts wooden arrow to withered bone bolts
+		Bolts creates a copy behind player on hit up to two times
+		Bolts inflict Withered and has 15 armor penetration
+		'''
+}

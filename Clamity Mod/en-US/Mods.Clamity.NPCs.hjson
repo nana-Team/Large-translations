@@ -1,0 +1,51 @@
+ClamitasBoss: {
+	DisplayName: Clamitas, Supreme Clam
+	Bestiary: Cursed Giant Clam by Calamitas himself, clamitas absorbed the power of brimstone. There is no power left in the pearl from the ocean. No scoundrel can resist the power of Clamitas itself
+
+	BossChecklistIntegration: {
+		SpawnInfo: Use an [i:Clamity/ClamitasSummoningItem] Clamitous Shell in the Brimstone Crags
+		DespawnMessage: "[c/FFD700:The Clamitas returns into hiding in its grotto.]"
+	}
+}
+
+PyrogenBoss: {
+	DisplayName: Pyrogen
+	Bestiary: Pyrogen is giant magic furnace which made by unknown firesmith. He contain a lot of fire essence. 'Over 1000C on one second'
+
+	BossChecklistIntegration: {
+		SpawnInfo: Use an [i:Clamity/PyroKey] Pyro Key in the Desert
+		DespawnMessage: "[c/FFD700:Pyrogen settles once more into the searing lake]"
+	}
+}
+
+Stupid.DisplayName: Legendary Supreme Supreme Calamitas of Supremity in Xeroc`a Cloth from Supreme
+StormElemental.DisplayName: Storm Elemental
+PyrogenShield.DisplayName: Pyrogen Shield
+WallOfBronzeTorret.DisplayName: Bronze Torret
+WallOfBronzeLaser.DisplayName: Bronze Laser Mashine
+WallOfBronzeClaw.DisplayName: Bronze Claw
+
+WallOfBronze: {
+	DisplayName: Wall of Bronze
+	Bestiary: Ancient machine, guardian of more powerful essence than essence after Wall of Flesh. One of essence can freeze a one of hottest place like a underworld
+
+	BossChecklistIntegration: {
+		SpawnInfo: Right Click on a placed [i:Clamity/AncientConsole] Ancient Console in the Underworld
+		DespawnMessage: "[c/FFD700:The titanic machine continues its endless journey through Hell.]"
+	}
+}
+
+ClockworkBat: {
+	DisplayName: Clockwork Bat
+	Bestiary: Clockwork is separate dron of Wall of Bronze. But after defeating him bat became uncontrollable
+}
+
+GlacialSlime: {
+	DisplayName: Glacial Slime
+	Bestiary: Lava slime which powered by powerful soul of frost. Slime tried to explode, but the temperature difference turned his attempts into spikes
+}
+
+MetalMaw.DisplayName: Metal Maw
+MechanicalLeechTail.DisplayName: Mechanical Leech
+MechanicalLeechHead.DisplayName: Mechanical Leech
+MechanicalLeechBody.DisplayName: Mechanical Leech

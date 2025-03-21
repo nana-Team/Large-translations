@@ -1,0 +1,26 @@
+Dart: {
+	ProfanedDart: {
+		DisplayName: Profaned Dart
+		Tooltip:
+			'''
+			Bounces between enemies
+			Creates an explosion on hit
+			'''
+	}
+}
+
+Arrow: {
+	A: a
+
+	FrostfireArrow: {
+		DisplayName: Frostfire Arrow
+		Tooltip: Creates an explosion on hit
+	}
+}
+
+Solution: {
+	CyanSolution: {
+		DisplayName: Cyan Solution
+		Tooltip: ""
+	}
+}

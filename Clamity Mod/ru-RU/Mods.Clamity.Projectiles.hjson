@@ -1,0 +1,84 @@
+Melee: {
+	ClamitasCrusherProjectile.DisplayName: Дробитель Каламидии
+	SearedShredderProjectile.DisplayName: Обожжённый измельчитель
+	RGBMurasamaProjectile.DisplayName: RGB Мурасама
+	DiseaseProjectile.DisplayName: Заболевание
+	WulfrumLeechDaggerProjectile.DisplayName: Вульфрумовый кинжал-пиявка
+	WulfrumLeechDaggerShard.DisplayName: Осколок вульфрумового кинжала-пиявки
+	TheWOBblerProjectile.DisplayName: Кусок льда
+	EverestProjectile.DisplayName: Эверест
+	// ExoNewBeam.DisplayName: Exo Beam
+	// ExoNewExplosion.DisplayName: Exo Explosion
+}
+
+Ranged: {
+	Ammo: {
+		ProfanedDartProjectile.DisplayName: Осквернённый дротик
+		FrostfireArrowProj.DisplayName: Стрела морозного огня
+		FrostfireArrowProj2.DisplayName: Взрыв морозного огня
+	}
+
+	DepthsEchoRifleProjectile.DisplayName: Глубокое эхо
+	DepthsEchoRifleProjectileSplit.DisplayName: Осколок глубокого эхо
+	ObsidigunBullet.DisplayName: Обсидиановая пуля
+	ObsidigunBulletShard.DisplayName: Осколок обсидиановой поли
+	// WitheredBoneBowProj.DisplayName: Withered Bone Bolt
+}
+
+Magic: {
+	TheGeneratorSigil.DisplayName: Символ генератора
+	MoonstoneKnifeProjectile.DisplayName: Кинжал из лунного камня
+}
+
+Summon: {
+	Minion: {
+		HellstoneShellfishStaffMinion.DisplayName: Моллюск из адского камня
+		HellsBellsSummon.DisplayName: Колокол Ада
+		PlanterrorStaffSummon.DisplayName: Гантера
+	}
+
+	HellsBellsRing.DisplayName: Звук колокола ада
+	PlanterrorStaffTentacle.DisplayName: Пушка Гантеры
+}
+
+Rogue: {
+	MoltenPiercerProjectile.DisplayName: Расплавленный кинжал
+	WulfrumShockCutterProjectile.DisplayName: Вульфрумовый ударный резак
+	DraculasCharmProj.DisplayName: Дракула
+	FrozenStarShurikenProjectile.DisplayName: Сюрикен морозной звезды
+	ExoBallProjectile.DisplayName: Экзо шар
+	AuricKunaiProjectile.DisplayName: Аурический кунай
+	AuricKunaiLightning.DisplayName: Аурическая молния
+}
+
+Classless: {
+	PyroShieldAccessory.DisplayName: Пирощит
+	AMSProj.DisplayName: AMS
+	EyeOfNovaProjectile.DisplayName: Заряд новы
+	TrashOfMagnusProjectile.DisplayName: Заряд чумы
+	// SharpAmethystProj.DisplayName: Sharp Amethyst
+	GoldenGunProj.DisplayName: Золотая струя
+}
+
+Boss: {
+	BrimstonePearlBurst.DisplayName: Серный жемчужный взрыв
+	Fireblast.DisplayName: Огненный заряд
+	FireBarrage.DisplayName: Огненный шквал
+	FireBarrageHoming.DisplayName: Огненный шквал
+	FireBomb.DisplayName: Огненная бомба
+	FireBombExplosion.DisplayName: Огенный взрыв
+	Firethrower.DisplayName: Огнемет
+	PyrogenKillExplosion.DisplayName: Взрыв Пирогена
+	WallOfBronzeTorretBlast.DisplayName: Плазменный снаряд
+	WallOfBronzeLaserBeamStart.DisplayName: Плазменный луч
+	WallOfBronzeClawProjectile.DisplayName: Бронзовая клешна
+	WoBDeathrayStart.DisplayName: Плазменный смертельный луч
+}
+
+// ShortstrikeEffect.DisplayName: Shortstrike Effect
+// WulfrumLureBobber.DisplayName: Wulfrum Lure Bobber
+// CrustallineProjecile.DisplayName: Crustalline
+// SoulOfPyrogenSpear.DisplayName: Soul Of Pyrogen Spear
+// PyrogenSummonAnimation.DisplayName: Pyrogen Summon Animation
+// CyanSolutionProjectile.DisplayName: Cyan Solution
+// HeavyMetalTrashCanPet.DisplayName: Mini Bocchi

@@ -1,0 +1,1735 @@
+Projectiles: {
+	GreenShockwave.DisplayName: Shockwave
+	GenericExplosion.DisplayName: Explosion
+	EyeVFX.DisplayName: Eye
+	CircleTelegraph.DisplayName: Shockwave
+	BloodShockwave.DisplayName: Shockwave
+	TSpike.DisplayName: Spike
+	TFlameThrower3.DisplayName: Cursed Flames
+	TFlameThrower2.DisplayName: Cursed Flames
+	TFlameThrower.DisplayName: Cursed Flames
+	TFang.DisplayName: Fang
+	TExplosion.DisplayName: Explosion
+	Ripple.DisplayName: Ripple
+	DoomsdayDrone.DisplayName: Doomsday Drone
+	WeakCursedBullet.DisplayName: Cursed Bullet
+	CorebreakerP.DisplayName: Corebreaker Cannonball
+	IchorBlast.DisplayName: Ichor Blast
+	LatcherPCecitior.DisplayName: Latcher
+	LatcherP.DisplayName: Latcher
+	IchorGrenade.DisplayName: Gutling Grenade
+	TerrorStaffP.DisplayName: Vile Egg
+	EbonianRocket.DisplayName: Mawzooka Missile
+	CorruptArrow.DisplayName: Corrupt Arrow
+	BloodBullet.DisplayName: Blood Bullet
+	EFireBreath2.DisplayName: Fire
+	EFireBreath.DisplayName: Fire
+	EFire.DisplayName: Fire
+	Rolleg.DisplayName: Rolleg
+	CecitiorEyeP.DisplayName: Spectral Gazer
+	BloodLaser.DisplayName: Blood Blast
+	Pipebomb.DisplayName: Pipebomb
+	Mailbox.DisplayName: Mailbox
+	Garbage.DisplayName: Garbage
+	IchorFlintlockP.DisplayName: Bloodcolt
+	EbonianGunP.DisplayName: Cursed Firearm
+	BloodOrb.DisplayName: Blood Orb
+	VileBladeP.DisplayName: Vile Blade
+	SanguineSlasherP.DisplayName: Fleshfang
+	ExolsawP.DisplayName: Infernal Disc
+	EbonianScytheP.DisplayName: Grimrot Cutter
+	InferosP.DisplayName: Infernomicon
+	PanopticonP.DisplayName: Panopticon
+	Hightoma.DisplayName: Tinytoma
+	GarbageRemoteP.DisplayName: Dusty Quantum Computer
+	TerrorVilethorn2.DisplayName: Vilethorn
+	TerrorVilethorn1.DisplayName: Vilethorn
+	TBeam.DisplayName: Beam
+	TelegraphLine.DisplayName: Telegraph Line
+	EbonFlyMinion.DisplayName: Ebonfly
+	DroneBeam.DisplayName: Drone Beam
+	HeadGoreSceptreEVILSOBBINGRN.DisplayName: Heart
+	HeadGoreSceptre.DisplayName: Heart
+	Fangs.DisplayName: Fang
+	VileMeatChunk.DisplayName: Vile Meat Chunk
+	TerrortomaFlail_Clingers.DisplayName: Terrorflail
+	TerrortomaFlail.DisplayName: Terrorflail
+	CorruptThorn.DisplayName: Corrupt Thorn
+	EBoulder2.DisplayName: Boulder
+	EBoulder.DisplayName: Boulder
+	EBeam.DisplayName: Solar Rays
+	CecitiorTeeth.DisplayName: Teeth
+	Soder.DisplayName: Soda
+	MetalCircle.DisplayName: Oildrum
+	HotGarbageNuke.DisplayName: Nuclear Bomb
+	GarbageFlame.DisplayName: Flame
+	FatSmash.DisplayName: Shockwave
+	PepperSprayProjectile.DisplayName: Pepper Spray
+	IchorGlobSmall.DisplayName: Glob
+	IchorGlob.DisplayName: Glob
+	TinyFish.DisplayName: Tiny Fish
+	RingOfFireP.DisplayName: Ring Of Fire
+	RingOfFireP2.DisplayName: Ring Of Fire
+	VilethornF2.DisplayName: Vilethorn
+	VilethornF1.DisplayName: Vilethorn
+	MeatCrusherP.DisplayName: Meat Crusher
+	CrimsonSpearP.DisplayName: Vitriolic Voulge
+	GoreBeam.DisplayName: Defibrillator
+	RedSpark.DisplayName: Red Spark
+	BloodShockwave2.DisplayName: Blood Shockwave
+	InferosShockwave.DisplayName: Inferos Shockwave
+	ExolFireSpiral.DisplayName: Exol Fire Spiral
+	EGeyser.DisplayName: Geyser
+	InferosShockwave2.DisplayName: Inferos Shockwave
+	ESun.DisplayName: Sun
+	EFire2.DisplayName: Fire
+	ExolFireExplode.DisplayName: Exol Fire Explode
+	InferosShockwave3.DisplayName: Inferos Shockwave
+	FlameExplosion.DisplayName: Flame Explosion
+	EFire3.DisplayName: Fire3
+	ESkullEmoji.DisplayName: Skull Emoji
+	EPentagramAsh.DisplayName: Pentagram Ash
+	FlameExplosion2.DisplayName: Flame Explosion
+	ETelegraph.DisplayName: Telegraph
+	Noise.DisplayName: Noise
+	NoiseOverlay.DisplayName: Noise Overlay
+	EMine.DisplayName: Mine
+	QuickFlare.DisplayName: Flare
+	FireGrenadeP.DisplayName: Fire Grenade
+	CursedFlameExplosion.DisplayName: Cursed Flame Explosion
+	CrimCannonP.DisplayName: Bloodsoaked Dentures
+	Gibs.DisplayName: Gibs
+	SpinaxP.DisplayName: Spinax
+	SelfStabP.DisplayName: Sacrificial Dagger
+	BloodVignette.DisplayName: Blood Vignette
+	EPlatform.DisplayName: Platform
+	EGroundHazard.DisplayName: Ground Hazard
+	RykardSkull.DisplayName: Skull
+	MagmaBowP.DisplayName: Magma Bow
+	MagmaArrow.DisplayName: Magma Arrow
+	ReiCapeP.DisplayName: Voidrunner Mask
+	ReiCapeTrail.DisplayName: Voidrunner Mask
+	Djungelskog.DisplayName: Djungelskog
+	ReiExplosion.DisplayName: Voidrunner Mask
+	IgnosSlash.DisplayName: Ignos Slash
+	IgnosSlashTelegraph.DisplayName: Ignos Slash Telegraph
+	GarbageSignals.DisplayName: Garbage Signals
+	GreenShockwave2.DisplayName: Shockwave
+	OrangeRedShockwave.DisplayName: Shockwave
+	YellowShockwave.DisplayName: Shockwave
+	BigGrayShockwave.DisplayName: Shockwave
+	RykardSkullSpiral.DisplayName: Skull
+	FlameExplosion3.DisplayName: Flame Explosion
+	VortexSkull.DisplayName: Skull
+	IgnosLightning.DisplayName: Ignos Lightning
+	IgArena.DisplayName: Ig Arena
+	ESwordWave.DisplayName: Sword Wave
+	IgnosEye.DisplayName: Ignos Eye
+	MagmaArrowHostile.DisplayName: Magma Arrow
+	TinyRykardSkull.DisplayName: Skull
+	ESickle.DisplayName: Sickle
+	OstertagiP.DisplayName: Ostertagi
+	OstertagiWorm.DisplayName: Worm
+	OstertagiExplosion.DisplayName: Cursed Flames Explosion
+	ExolGreatArrow.DisplayName: Great Arrow
+	EHomingBeam.DisplayName: Homing Beam
+	FlameExplosionWSprite.DisplayName: Flame Explosion
+	TFlameThrower4.DisplayName: Flame
+	TerrorStaffPEvil.DisplayName: Terror Staff
+	CecitiorBelch.DisplayName: Belch
+	SerrationP.DisplayName: Serration
+	SerrationSpike.DisplayName: Serration
+	CecitiorClawSlash.DisplayName: Claw Slash
+	CecitiorClawWave.DisplayName: Claw Wave
+	ClawGore.DisplayName: Claw
+	BloodExplosionWSprite.DisplayName: Blood Explosion
+	CecitiorBombThing.DisplayName: Ichor Bomb
+	IchorExplosion.DisplayName: Ichor Explosion
+	CecitiorSpike.DisplayName: Cecitior Spike
+	CecitiorTeethFriendly.DisplayName: Cecitior Teeth
+	GutlingGunP.DisplayName: Gutling Gun
+	CursedToyP.DisplayName: Cursed Doll
+	CursedToyBeam.DisplayName: Cursed Doll
+	BigGreenShockwave.DisplayName: Shockwave
+	CorruptionClawP.DisplayName: Chained Claw
+	DankDiggerProjectileWorm.DisplayName: Dank Digger
+	XSpirit.DisplayName: Spirit
+	XExplosion.DisplayName: Explosion
+	VaccumWormP.DisplayName: Vaccum Worm
+	XShadowflame.DisplayName: Shadowflame Eruption
+	XAmethyst.DisplayName: Amethyst
+	XBolt.DisplayName: Shimmering Fusillade
+	XExplosionTiny.DisplayName: Explosion
+	XSineLaser.DisplayName: Wave of Shadowflame
+	XExplosionInvis.DisplayName: Explosion
+	XExplosionInvisMask.DisplayName: Explosion
+	PhantasmalGreatswordP.DisplayName: Archmage Xareus' Shadowflame Skysplitter
+	PhantasmalGreatswordP2.DisplayName: Archmage Xareus' Shadowflame Skysplitter
+	XAmethystCloseIn.DisplayName: Amethyst
+	XLargeAmethyst.DisplayName: Great Amethyst
+	XAmethystShard.DisplayName: Amethyst Shard
+	XTentacle.DisplayName: Shadowflame Tendril
+	player_sheep.DisplayName: Sheep
+	SheepeningOrb.DisplayName: Sheepening Beam
+	XManaPotion.DisplayName: Xareus' Potion
+	XSpiritNoHome.DisplayName: Phantasmal Blast
+	XRift.DisplayName: Rift
+	XKnife.DisplayName: Amethyst
+	XCloud.DisplayName: Shadowflame Cloud
+	XLightningBolt.DisplayName: Shadowflame Lightning Bolt
+	XTelegraphLine.DisplayName: Telegraph Line
+	RegorgerBolt.DisplayName: Tittering Bolt
+	RegorgerTelegraph.DisplayName: Tittering Telegraph
+	GhizasWheelP.DisplayName: Corrosive Wheel
+	VileTearTelegraph.DisplayName: Vile Tear Telegraph
+	AmbientGibs.DisplayName: Gibs
+	XCloudVFXExtra.DisplayName: Cloud
+	EquilibriumP.DisplayName: Equilibrium
+	EquilibriumP2.DisplayName: Equilibrium
+	GarbageBag.DisplayName: Garbage Bag
+	GarbageBarrel.DisplayName: Barrel
+	GarbageGiantFlame.DisplayName: Flame
+	GarbageMissile.DisplayName: Soda
+	GarbageDrone.DisplayName: Drone
+	GarbageLightning.DisplayName: Lightning
+	GarbageTelegraph.DisplayName: Garbage Telegraph
+	GarbageTelegraphSmall.DisplayName: Garbage Telegraph
+	GarbageLaser.DisplayName: Flame
+	GarbageLaser1.DisplayName: Flame
+	GarbageLaser2.DisplayName: Flame
+	GarbageLaser3.DisplayName: Flame
+	HeatBlastVFX.DisplayName: Heat Blast
+	GarbageLaserSmall1.DisplayName: Volcanic Eruption
+	GarbageLaserSmall2.DisplayName: Volcanic Eruption
+	GarbageLaserSmall3.DisplayName: Volcanic Eruption
+	ChargeUp.DisplayName: Charge Up
+	GluttonImpact.DisplayName: Impact
+	GreenChargeUp.DisplayName: Green Charge Up
+	ArchmageHead.DisplayName: Archmage Head
+	ArchmageArm.DisplayName: Archmage Arm
+	ArchmageDeath.DisplayName: Archmage Death
+	ArchmageXSpawnAnim.DisplayName: Archmage Spawn Anim
+	ArchmageChargeUp.DisplayName: Archmage Charge Up
+	FangSlingerP.DisplayName: Fang Slinger
+	ThornBowP.DisplayName: Thorny Bow
+	ChainswordP.DisplayName: Junkyard Chainsword
+	CBeam.DisplayName: Beam
+	FlareExplosion.DisplayName: Flare
+	CFlareExplosion.DisplayName: Flare
+	ScreenFlash.DisplayName: Screen Flash
+	CImplosionFlare.DisplayName: Flare
+	ConglomerateScream.DisplayName: Conglomerate Scream
+	CFlesh.DisplayName: Flesh
+	CIchorBomb.DisplayName: Ichor Bomb
+	CIchor.DisplayName: Ichor
+	CecitiorClawMinion.DisplayName: Backscratcher
+	AnimeSlash.DisplayName: Slash
+	XAnimeSlash.DisplayName: Xareus Magic
+	PipebombP.DisplayName: Pipebomb
+	PotatoP.DisplayName: Potato
+	CrimsonArrow.DisplayName: Crimson Arrow
+	CHeart.DisplayName: Heart
+	EHeartP.DisplayName: Cursed Flames
+	CBeamInstant.DisplayName: Beam
+	CursedScourgePro.DisplayName: Cursed Scourge
+	BloodlashPro.DisplayName: Bloodlash
+	XRiftSmall.DisplayName: Rift
+	SpawnTheThing.DisplayName: Debug
+	ArchmageStaffGore.DisplayName: Archstaff
+	XTomeP.DisplayName: Amethyst Energy
+	XTomeSummon.DisplayName: Phantasmal Spirit
+	XBoltFriendly.DisplayName: Shimmering Bolt
+	CursedFireball.DisplayName: Cursed Fireball
+	XareusPotionExplosion.DisplayName: Xareus Potion
+	XareusPotionPro.DisplayName: Xareus Potion
+	HostileGibs.DisplayName: Gibs
+	GarbageImpact.DisplayName: Impact
+	GarbageDroneF.DisplayName: Drone
+	GarbageFlailP.DisplayName: Peculiar Angle Grinder
+	TitteringMinion.DisplayName: Tittering
+	StaffOfXP.DisplayName: Archstaff
+	XImpact.DisplayName: Impact
+	XImpact2.DisplayName: Impact
+	ToothToothbrushP.DisplayName: Tooth Toothbrush
+	CecitiorPetP.DisplayName: Cecitior's Eye
+	GarbagePetP.DisplayName: Garbage Bag
+	SheepPetP.DisplayName: Sheep
+	MailboxSentry.DisplayName: Mailbox Sentry
+	PipebombPSentry.DisplayName: Pipebomb
+	SalvagedThrusterP.DisplayName: Salvaged Thruster
+	NastySnapperPro.DisplayName: Nasty Snapper Pro
+	XBoltFriendly2.DisplayName: Bolt
+	RedMistVFX.DisplayName: Red Mist V F X
+	PhantasmalWave.DisplayName: Phantasmal Wave
+	TFlameThrower2_Inverted.DisplayName: Flame
+	TerrortomaScream.DisplayName: Terrortoma Scream
+	TFlameThrowerHoming.DisplayName: Flame
+	TerrortomeFlame.DisplayName: Terrortome Flame
+	TerrortomeWorm.DisplayName: Terrortome Worm
+	SawcitiorP.DisplayName: Sawcitior P
+	ClawSlashGreen.DisplayName: Claw Slash Green
+	CGhostCeci.DisplayName: C Ghost Ceci
+	CBeamSmall.DisplayName: C Beam Small
+	CWorm.DisplayName: C Worm
+	BlurScream.DisplayName: Blur Scream
+	Coins.DisplayName: Coins
+	SilverBasherFlash.DisplayName: Silver Basher Flash
+	SilverBasherP.DisplayName: Silver Basher P
+	terrortomaFishingRodBobber.DisplayName: terrortoma Fishing Rod Bobber
+	cecitiorFishingRodBobber.DisplayName: cecitior Fishing Rod Bobber
+	VerletBeam.DisplayName: Verlet Beam
+	CrimsonBall.DisplayName: Crimson Ball
+	BallLauncherSprite.DisplayName: Ball Launcher Sprite
+	CorruptionBalls.DisplayName: Corruption Balls
+	BallLauncherSprite2.DisplayName: Ball Launcher Sprite2
+	BallLauncherCharge.DisplayName: Ball Launcher Charge
+	LatcherSprite.DisplayName: Latcher Sprite
+}
+
+NPCs: {
+	HotGarbage: {
+		DisplayName: Hot Garbage
+
+		BossChecklistIntegration: {
+			SpawnInfo: Use a [i:{0}], often found in Gold Chests.
+			EntryName: HotGarbage
+		}
+
+		Bestiary:
+			'''
+			A heavily armed and armored dumpster, possibly for combat purposes, that has somehow been on fire since its conception.
+
+
+			A note on its side reads: "Please return to GenCorp Headquarters if lost."
+			'''
+	}
+
+	Glutton: {
+		DisplayName: Glutton
+		Bestiary: A towering beast with curious traits for a corruption entity, such as its shape and face. It appears to have been much simpler once, and the reason for its strengthening is unknown.
+	}
+
+	Cecitior: {
+		DisplayName: Cecitior
+		BossChecklistIntegration.SpawnInfo: Kill a Massive Spectator, commonly found in Crimson.
+		Bestiary: A fleshy, haphazardly made construct. Despite looking akin to many other crimson monsters, this entity seems to have been created recently for an indiscernible purpose.
+	}
+
+	Terrortoma: {
+		DisplayName: Terrortoma
+		BossChecklistIntegration.SpawnInfo: Destroy a Giant Cocoon, commonly found in the Corruption.
+		Bestiary: An unusual conglomerate of corrupted entities with the strange capability to show emotion. It is malformed, and not the intended result of the metamorphosis.
+	}
+
+	TerrorClingerSummoner.DisplayName: Clinger
+	TerrorClingerRanged.DisplayName: Clinger
+
+	TerrorClingerMelee: {
+		DisplayName: Clinger
+		Bestiary: These creatures were the heads of infected corpses, they connect to the Terrortoma, creating a sort of small hive mind together.
+	}
+
+	CrimsonWormTail.DisplayName: Gutworm
+
+	CrimsonWormHead: {
+		DisplayName: Gutworm
+		Bestiary: Gutworms would appear to be a mimicry of the Corruption's famished eaters, down to the endless hunger and inundation of ichor. They are usually quite rare, making their appearances in this region concerning at lowest.
+	}
+
+	CrimsonWormBody.DisplayName: Gutworm
+	CrimeraTail.DisplayName: Scorn
+
+	CrimeraHead: {
+		DisplayName: Scorn
+		Bestiary: A Crimera that has begun to evolve in the Crimson's time of need. It's limbs can now tunnel, and it can hurl up some of the dead blood cells which it's body generates at a breakneck pace.
+	}
+
+	CrimeraBody.DisplayName: Scorn
+	Crimera.DisplayName: Crimera
+
+	VileSlime: {
+		DisplayName: Muckling
+		Bestiary: Resembling a slime, it uses its unassuming appearance to get close to any potential prey, and lashes out with a fast moving tentacle. It is worth noting that it isn't actually a slime at all.
+	}
+
+	RottenSpineTail.DisplayName: Rotten Spine
+
+	RottenSpineHead: {
+		DisplayName: Rotten Spine
+		Bestiary: Corruption evolution has taken its worms in a curious direction, creating a purely aggressive worm with a head on either side. How it sustains itself is unknown.
+	}
+
+	RottenSpineBody.DisplayName: Rotten Spine
+	EbonianStrider.DisplayName: Regurgitator
+
+	EbonFly: {
+		DisplayName: Ebonfly
+		Bestiary: An insect that prefers to fly in groups. They feed by eating dead flesh off of other surfaces. Some say that one day they will grow too big for their wings and become the worms their homeland is known for. Whether this is true or not is debatable.
+	}
+
+	EbonCrawler: {
+		DisplayName: Waster
+		Bestiary: The Waster is a product of the Corruption's failures. It is an evolutionary mishap, that's only purpose now is to unwillingly be a nest for the Ebonflies.
+	}
+
+	CecitiorEye: {
+		DisplayName: Gazer
+		Bestiary:
+			'''
+			Ocular organs used by Cecitior. The creature is haphazardly created, leaving many flaws in its existence, such as the lack of defended eyes.
+
+			One has to wonder how much of a pain it would be to get lemon there.
+			'''
+	}
+
+	TinyBrain.DisplayName: Brain
+	EbonianHeartNPC.DisplayName: Heart
+
+	BabyCecity: {
+		DisplayName: Crimorrhage
+		Bestiary: An evolution of an Ichor Sticker that had its limbs overtaken by the spread of the biome. Despite their appearance, they have adapted well to their sporadic evolution and symbiosis, and use it to the fullest extent possible, even more so than the unhindered monster it once was.
+	}
+
+	Fleshformator: {
+		DisplayName: Fleshformator
+		Bestiary: Fleshformators are bottom-feeders of the deep crimson. When they are born, they roam from their starting spot and latch onto a nutrient-rich area to grab onto anything they can and devour it. None have ever seen what is on the other end of a Fleshformator.
+	}
+
+	LetsGoo: {
+		DisplayName: Gnasher
+		Bestiary: The Gnasher is nothing but muscle, jaws, and the instinctual desire to devour prey of any kind.
+	}
+
+	RotlingBody.DisplayName: Rotling
+
+	RotlingHead: {
+		DisplayName: Rotling
+		Bestiary: The Rotling is a small worm birthed from the rotting residual energy left by long dead corruption creatures.
+	}
+
+	RotlingTail.DisplayName: Rotling
+	DankDiggerBody.DisplayName: Dank Digger
+
+	DankDiggerHead: {
+		DisplayName: Dank Digger
+		Bestiary: The Dank Diggers are a sign you are in the Eater of Worlds' destructive wake- whenever a shadow scale breaks, the remnant regenerates as best as it can and makes a Dank Digger.
+	}
+
+	DankDiggerTail.DisplayName: Dank Digger
+
+	BloatedEbonfly: {
+		DisplayName: Bloated Ebonfly
+		Bestiary: A strange mutation of the Ebonfly. Eating something that has been lit ablaze by the cursed inferno, it has extended its natural lifespan, but also become far more volatile.
+	}
+
+	MassiveSpectator: {
+		DisplayName: Massive Spectator
+		Bestiary: These towering eyes seem to be connected to something at the very base of the Crimson. They only appeared very recently, so not much else is known about them.
+		LowTaperFade: you know what else is massive?
+	}
+
+	TerrortomaBulb.DisplayName: Giant Cocoon
+
+	Bloodhound: {
+		DisplayName: Bloodhound
+		Bestiary: The Crimson's attempt to learn from dogs. These hunters are often used to follow unsuspecting souls out of the crimson back to their homes to find more biomass.
+	}
+
+	ClumpOfMeat: {
+		DisplayName: Clump Of Meat
+		Bestiary: Latchers are surprisingly clever entities, often bunching up in order to mimic other things, only to burst apart and bombard the enemy all at once. These usually come in the form of slimes, but a few rare cases have detailed them taking humanoid shapes.
+	}
+
+	Parasite: {
+		DisplayName: Latcher
+		Bestiary: These remnants of other crimson creatures are put to better use as small vessels to bring blood to more deserving crimson entities.
+	}
+
+	FleshBrickBig: {
+		DisplayName: Sedimentary
+		Bestiary: Sedimentaries are theorized to be walls of the corruption's casms at an early stage in development. Like everything else in the corruption, even the mud and stone you walk on can be traced to the hive-organism itself.
+	}
+
+	FleshBrickMedium.DisplayName: Sedimentary
+	FleshBrickSmall.DisplayName: Sedimentary
+	TrumpetTail.DisplayName: Trumpet
+
+	TrumpetHead: {
+		DisplayName: Trumpet
+		Bestiary: A Trumpet's job within the corruption macroorganism is to tend to the fauna below it. Unlike most infected creatures, they seem completely unbothered by your presence.
+	}
+
+	TrumpetBody.DisplayName: Trumpet
+
+	Rolypoly: {
+		DisplayName: Rolypoly
+		Bestiary:
+			'''
+			Bundled together, these corrupt worms share a collective and much greater mind at the cost of their mobility.
+			However, by the time they become permanently entangled, their combined mind concludes that such a form is rather stupid.
+			'''
+	}
+
+	JuvenileBrain: {
+		DisplayName: Neurobite
+		Bestiary: It uses a primitive form of neurokinesis to trick its prey into seeing mirror images of itself. This confusion allows the Neuromaw to strike while its target is vulnerable to attack.
+	}
+
+	WormKing: {
+		DisplayName: Worm King
+		Bestiary: The Worm King is the result of a Rolypoly left to grow unchecked. Acting as a hive mind, it controls the worm-like creatures of the corruption, with many adventurers mistaking it for a strange tree before meeting their end.
+	}
+
+	MiniTrumpetBody.DisplayName: Cornet
+	MiniTrumpetHead.DisplayName: Cornet
+	MiniTrumpetTail.DisplayName: Cornet
+
+	Consumer: {
+		DisplayName: Rotjaw
+		Bestiary: Rotjaws are relentless and will dive towards their prey in the blink of an eye. Their bites can shatter large bones and durable shells effortlessly, and they often leave no scraps behind when devouring their prey.
+	}
+
+	Regorger: {
+		DisplayName: Tittering
+		Bestiary: A tittering's laugh echoes from afar, often fueling campfire tales that portray it as a mysterious cryptid. It remains unclear whether the creature's laughter is from genuine amusement or merely a biological reflex after spewing a beam of cursed flames.
+	}
+
+	Vileglider: {
+		DisplayName: Vileglider
+		Bestiary: Vilegliders strike when least expected, diving from above to swarm their prey. Their attacks are viciously precise, often leaving no trace of their victims behind.
+	}
+
+	ToxicAbomination: {
+		DisplayName: Virulant
+		Bestiary: It stores toxic gases from the carrion it consumes, using this buildup to launch itself at great speeds toward its next target, creating an explosion-like burst of force in the process.
+	}
+
+	VileTear: {
+		DisplayName: Grinner
+		Bestiary: The Grinner is a rare sight, but its imposing size and ever-present smile strikes fear into those encountering it. It takes as much pleasure in scaring its victims as it does in devouring them whole.
+	}
+
+	BloodHunter: {
+		DisplayName: Blood Hunter
+		Bestiary: A gruesome arachnid of the crimson. It prefers a less direct approach compared to its spider relatives, maintaining distance with its pincers, and a stinger tail producing a potent venom.
+	}
+
+	ArchmageXDeathAnim.DisplayName: Xareus
+	Conglomerate.DisplayName: Conglomerate
+
+	Mosquito: {
+		DisplayName: Bloodsucker
+		Bestiary: A once nuisance turned into another monster. These creatures' bloodsucking ability makes them annoying alone, but dangerous in swarms, or for what lasting side effects they may bring.
+	}
+
+	Screecher: {
+		DisplayName: Shrieker
+		Bestiary: Medium sized, skinless creatures that roam the crimson as walking alarms of a sort. Their nerves are nearly exposed, allowing them to sense even the slightest disturbance and alert the crimson to it.
+	}
+
+	ArchmageCutsceneMartian.DisplayName: Archmage Xareus
+
+	ArchmageStaffNPC: {
+		DisplayName: Archstaff
+		Bestiary: Of all magical elements in the world, few are quite so great as the Archstaff. A handle forged of pure-iron and mythril, with spectral bars and fallen stars poured in, wrapped in the finest archcloth, and a massive gemstone of crystallized shimmer and amethyst, able to, unlike other staves, instantly transmutate mana into magical energies and otherworldly portals, rather than using it to get magical power out of the item itself. This staff, despite its wielder, is a testament to all things magical and a culmination of all of the history within the arts, dark and light alike.
+	}
+
+	FleshDice.DisplayName: Flesh Dice
+
+	Sheep: {
+		DisplayName: Sheep
+		Bestiary: Sheep are passive, friendly animals with a thick layer of wool and an appetite for grass, sheep's wool is quite common in many colorful items of clothing and especially comfort, to the surprise of very few
+	}
+
+	JelleyeFish: {
+		DisplayName: Jelleye Fish
+		Bestiary: Fleshy tendrils drift afloat over the crimson's blood-spattered terrain. Originating from the sanguine waters of the crimson, these mutant abominations evolved to continuously grow numerous inconsolable eyes and float in the putrid air, not unlike their aquatic ancestors. Just don't make sashimi from these.
+	}
+
+	MiniSpectator: {
+		DisplayName: Spectator
+		Bestiary: An uncommon sight in the Crimson. In all recorded cases, Spectators have seemed to have no singular focus, analyzing crimson creatures, corruption creatures, and even pure creatures, with the same lack of intensity and eerie passiveness, to the point travelers claim they wish they could tell them jokes. Notably, the ones here are focused on you.
+	}
+
+	ArchmageX: {
+		DisplayName: Xareus
+		BossLogDisplayName: The Archmage
+		BossChecklistIntegration.SpawnInfo: Interact with the Archstaff in the Mysterious Shack, after unlocking the basement with a [i:LargeAmethyst].
+		Bestiary:
+			'''
+			The most magnificent and brilliant sorcerer to ever walk this earth... An unmatched master of wizardry! A true magician! The Archmage!!
+
+
+			All self-proclaimed, of course.
+			'''
+	}
+
+	CoinBag.DisplayName: Possessed Bag
+	Chalice.DisplayName: Chalice
+}
+
+Items: {
+	RingOfFire: {
+		Tooltip:
+			'''
+			Ignores defense but never deals critical damage
+			Can't pop purple balloons
+			'''
+		DisplayName: Ring of Fire
+	}
+
+	ToxicarpMKII: {
+		Tooltip:
+			'''
+			Shoots barrages of tiny fish, these fishes immediately realize they are not underwater and die
+			'Gnarwhal blast!'
+			'''
+		DisplayName: Gnarwhal
+	}
+
+	ThornBow: {
+		DisplayName: Thorny Bow
+		Tooltip: ""
+	}
+
+	GutlingGun: {
+		DisplayName: Gutling
+		Tooltip: ""
+	}
+
+	EbonianRocketLauncher: {
+		DisplayName: Mawzooka
+		Tooltip:
+			'''
+			Converts any rocket into a homing corrupted one
+			Tile-destroying rockets lose that property
+			'''
+	}
+
+	EbonianGun: {
+		Tooltip: Fires cursed bullets
+		DisplayName: Cursed Firearm
+	}
+
+	EbonianGatling: {
+		Tooltip: Rapidly fires cursed bullets
+		DisplayName: Corrupt Gatling
+	}
+
+	Corebreaker: {
+		DisplayName: Corebreaker
+		Tooltip: ""
+	}
+
+	TerrorFlail: {
+		DisplayName: Flailotoma
+		Tooltip: ""
+	}
+
+	SanguineSlasher: {
+		Tooltip: Restores {0} health when biting an enemy
+		DisplayName: Fleshfang
+	}
+
+	MeatCrusher: {
+		DisplayName: Meat Crusher
+		Tooltip: Has a unique attack when striking the ground
+	}
+
+	Exolsaw: {
+		DisplayName: Infernal Disc
+		Tooltip: ""
+	}
+
+	EbonianScythe: {
+		Tooltip: Increases maximum movement speed while used
+		DisplayName: Grimrot Cutter
+	}
+
+	TerrorStaff: {
+		DisplayName: Nest Sceptre
+		Tooltip:
+			'''
+			Summons Bloated Ebonflies that explode on nearby enemies
+			Does not consume minion slots
+			'''
+	}
+
+	Latcher: {
+		DisplayName: Latcher
+		Tooltip:
+			'''
+			Reels you into tiles and heavy enemies, reels light enemies towards you
+			Right click to cancel
+			'''
+	}
+
+	InferosVolI: {
+		DisplayName: Infernomicon
+		Tooltip: ""
+	}
+
+	GoreSceptre: {
+		DisplayName: Defibrillator
+		Tooltip:
+			'''
+			Summons an electrified heart that shocks enemies
+			'CLEAR!'
+			'''
+	}
+
+	EbonHiveI: {
+		Tooltip: ""
+		DisplayName: Corrupt Cluster
+	}
+
+	Panopticon: {
+		DisplayName: Flesh Cube
+		Tooltip: Summons a Flesh Cube
+	}
+
+	CursedCone: {
+		DisplayName: Cursed Cone
+		Tooltip: Summons the Tinytoma
+	}
+
+	DoomsdayRemote: {
+		DisplayName: Red Button
+		Tooltip:
+			'''
+			Calls a drone strike at your cursor
+			One of many failed(?) GenCorp experiments
+			'''
+	}
+
+	IchorFlintlock: {
+		Tooltip:
+			'''
+			Shoots Ichor bullets
+			The 5th consecutive bullet gets replaced with a piercing Ichor orb
+			'''
+		DisplayName: Bloodcolt
+	}
+
+	FangSlinger: {
+		DisplayName: Fang Slinger
+		Tooltip: ""
+	}
+
+	CrimCannon: {
+		Tooltip: Shoots out a gory set of teeth
+		DisplayName: Bloodsoaked Dentures
+	}
+
+	PepperSpray: {
+		DisplayName: Pepper Spray
+		Tooltip: ""
+	}
+
+	WormPaintingI: {
+		Tooltip: By O. Digger
+		DisplayName: The Worm
+	}
+
+	WaspPaintingI: {
+		Tooltip:
+			'''
+			'Dedicated to a species long extinct'
+			By E. Fly
+			'''
+		DisplayName: The Wasp
+	}
+
+	HotMusic: {
+		Tooltip: Plays Trash Compactor by Yuri O
+		DisplayName: Music Box (Hot Garbage)
+	}
+
+	ExolMusicI: {
+		Tooltip: Plays Rage by Yuri O
+		DisplayName: Music Box (Inferos)
+	}
+
+	EvilMusicI: {
+		Tooltip: Plays Forces of Evil by Yuri O
+		DisplayName: Music Box (Terrortoma & Cecitior)
+	}
+
+	DappertomaI: {
+		Tooltip: By Sr. Thomas
+		DisplayName: Elegantoma
+	}
+
+	DapperCecitiorI: {
+		Tooltip: By Sr. Unsighted
+		DisplayName: Sightly Fella
+	}
+
+	GarbageRemote: {
+		Tooltip:
+			'''
+			Allows communication with the only AI to ever reach singularity 
+			Be warned.
+			'''
+		Warning: Be warned.
+		DisplayName: Dusty Quantum Computer
+		NoteForTranslators: The 'Be warned.' HAS to match in both the Warning and Tooltip
+	}
+
+	ExolWings: {
+		Tooltip: ""
+		DisplayName: Infernal Wings
+	}
+
+	EbonianHeart: {
+		Tooltip:
+			'''
+			Reduces defense by {0}
+			Increases the max number of minions by {1}
+			Increases summon damage by {2}%
+			Summons a corrupted heart that follows you and shoots cursed flames at nearby enemies
+			'''
+		DisplayName: Rotten Heart
+	}
+
+	BrainAcc: {
+		Tooltip:
+			'''
+			Increases life regen
+			Summons multiple brains to act as a shield against non-piercing attacks
+			'''
+		DisplayName: Seeping Brain
+	}
+
+	IchorGlobScepter: {
+		Tooltip: Shoots out an icky glob that splits into 3 smaller chunks
+		DisplayName: Glob Sceptre
+	}
+
+	VileNoodleBox: {
+		Tooltip:
+			'''
+			Provides you 100% guaranteed literal heartburn
+			The noodles seem to wiggle
+			'''
+		DisplayName: Vile Noodle Box
+	}
+
+	CorruptionStaff: {
+		Tooltip: Conjures homing vilethorns
+		DisplayName: Thorn-A-Part
+	}
+
+	CrimsonSpear: {
+		DisplayName: Vitriolic Voulge
+		Tooltip: Gets more powerful with extended use
+	}
+
+	Spinax: {
+		DisplayName: Spinax
+		Tooltip: An ancient dinosaur spine imbued with the power of the crimson
+	}
+
+	SelfStab: {
+		DisplayName: Sacrificial Dagger
+		Tooltip: Massively boosts all your damage, at a cost
+	}
+
+	MagmaBow: {
+		DisplayName: Pentabow
+		Tooltip: Shoots 5 volcanic arrows
+	}
+
+	ReiMask: {
+		DisplayName: Voidrunner Mask
+		Tooltip:
+			'''
+			Slightly increases movement speed
+			Allows teleportation by pressing {ReiM_Keybind} while hovering over an enemy
+			'''
+	}
+
+	DjungelskogI: {
+		DisplayName: Djungelskog
+		Tooltip: Summons a Djungelskog
+	}
+
+	Ostertagi: {
+		DisplayName: Ostertagi
+		Tooltip: Boosts damage and attacking speed, at a cost
+	}
+
+	Potato: {
+		DisplayName: Potato
+		Tooltip: So, how are you holding up?
+	}
+
+	ClementinesCap: {
+		DisplayName: Bloody Ballcap
+		Tooltip: "'It's definitely seen better days'"
+	}
+
+	InfernoBreastplate: {
+		DisplayName: Infernal Chestplate
+		Tooltip: ""
+	}
+
+	InfernoHeadgear: {
+		DisplayName: Infernal Helm
+		Tooltip: ""
+	}
+
+	InfernoHeadgearAlt: {
+		DisplayName: Infernal Mask
+		Tooltip: ""
+	}
+
+	InfernoLeggings: {
+		DisplayName: Infernal Leggings
+		Tooltip: ""
+	}
+
+	Serration: {
+		DisplayName: Serration
+		Tooltip: Has a unique attack when striking the ground
+	}
+
+	CecitiorBag: {
+		DisplayName: Treasure Bag ({$Mods.EbonianMod.NPCs.Cecitior.DisplayName})
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	TerrortomaBag: {
+		DisplayName: Treasure Bag ({$Mods.EbonianMod.NPCs.Terrortoma.DisplayName})
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	CursedToy: {
+		Tooltip: ""
+		DisplayName: Cursed Doll
+	}
+
+	CorruptionClaw: {
+		Tooltip: ""
+		DisplayName: Chained Claw
+	}
+
+	VaccumWorm: {
+		Tooltip: Pulls in weaker enemies
+		DisplayName: Vacuum Worm
+	}
+
+	PhantasmalGreatsword: {
+		DisplayName: Archmage Xareus' Shadowflame Skysplitter
+		Tooltip:
+			'''
+			Projects shadowflame versions of the sword on hit
+			Crafted by Archmage Xareus... As a wall decoration
+			'''
+	}
+
+	GhizasWheel: {
+		DisplayName: Corrosive Wheel
+		Tooltip: Inflicts Cursed Inferno on hit
+	}
+
+	Equilibrium: {
+		Tooltip: ""
+		DisplayName: Equilibrium
+	}
+
+	Chainsword: {
+		DisplayName: Junkyard Chainsword
+		Tooltip: Ignores {0} points of enemy defense
+	}
+
+	CecitiorClawSummon: {
+		DisplayName: Backscratcher
+		Tooltip: "'Hello, Peter'"
+	}
+
+	HotShield: {
+		DisplayName: Dumpster Lid
+		Tooltip: Decreases movement speed by {0}%
+	}
+
+	CecitiorMaterial: {
+		DisplayName: Fleshy Blob
+		Tooltip: Writhing pieces of Crimson flesh
+	}
+
+	TerrortomaMaterial: {
+		DisplayName: Cellular Matter
+		Tooltip: Writhing pieces of Corrupt matter
+	}
+
+	ToothToothbrush: {
+		DisplayName: Tooth Toothbrush
+		Tooltip: Has a unique attack when striking the ground
+	}
+
+	PipebombI: {
+		DisplayName: Pipebomb
+		Tooltip:
+			'''
+			Can be used to harm Town NPCs
+			'I wonder what happens if I-'
+			'''
+	}
+
+	SpudCannon: {
+		DisplayName: Spud Cannon
+		Tooltip: Uses potatoes as ammo
+	}
+
+	CursedScourge: {
+		DisplayName: Cursed Scourge
+		Tooltip: ""
+	}
+
+	Bloodlash: {
+		DisplayName: Bloodlash
+		Tooltip: ""
+	}
+
+	ArchmageXTome: {
+		DisplayName: Tome of the Grand Archmage's Infinite Wisdom
+		Tooltip: Conjures Amethyst Energy to summon Phantasmal Spirits for you.
+	}
+
+	StaffOfXItem: {
+		DisplayName: Staff Of X Item
+		Tooltip: ""
+	}
+
+	StaffOfX: {
+		DisplayName: Archstaff of the Tragically Deceased Archmage Xareus
+		Tooltip: Forged from pure powdered lightning, the finest amethysts from the realm of crystals... etc. etc.
+	}
+
+	StaffofXWeapon: {
+		DisplayName: Shrunken Variant of Xareus' Archstaff
+		Tooltip: Lacks the grandeur of the True Archstaff.
+	}
+
+	XareusPotion: {
+		DisplayName: Xareus' Potion of Infinite Mana
+		Tooltip: Lethal to drink
+	}
+
+	ArchmageBag: {
+		DisplayName: Treasure Bag ({$Mods.EbonianMod.NPCs.ArchmageX.DisplayName})
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	TerrortomaTrophy: {
+		DisplayName: Terrortoma Trophy
+		Tooltip: ""
+	}
+
+	XTentacleAcc: {
+		DisplayName: Xareus' Tentacle
+		Tooltip: Empowers magical attacks with a bouncy amethyst
+	}
+
+	GarbageFlail: {
+		DisplayName: Peculiar Angle Grinder
+		Tooltip: ""
+	}
+
+	TitteringStaff: {
+		DisplayName: Tittering Staff
+		Tooltip: Summons miniscule titterings that fire bolts of Cursed Inferno at nearby enemies
+	}
+
+	GarbageBagI: {
+		DisplayName: Treasure Bag ({$Mods.EbonianMod.NPCs.HotGarbage.DisplayName})
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	CecitiorPet: {
+		DisplayName: Cecitior's Eye
+		Tooltip: Summons Cecitior's Eye
+	}
+
+	GarbagePet: {
+		DisplayName: Garbage Bag
+		Tooltip: Summons a Garbage Bag
+	}
+
+	SheepPet: {
+		DisplayName: Fluffy Wool
+		Tooltip: Summons a sheep
+	}
+
+	CecitiorTrophy: {
+		DisplayName: Cecitior Trophy
+		Tooltip: ""
+	}
+
+	GarbageTrophy: {
+		DisplayName: Hot Garbage Trophy
+		Tooltip: ""
+	}
+
+	XMusicI: {
+		DisplayName: Music Box (Xareus)
+		Tooltip: Plays Die Human Enemy by Yuri O
+	}
+
+	XTrophy: {
+		DisplayName: Xareus Trophy
+		Tooltip: ""
+	}
+
+	SheepItem: {
+		DisplayName: Sheep
+		Tooltip: ""
+	}
+
+	MailboxStaff: {
+		DisplayName: Mailbox Staff
+		Tooltip: Summons a Mailbox Sentry
+	}
+
+	CecitiorRelic: {
+		DisplayName: Cecitior Relic
+		Tooltip: ""
+	}
+
+	GarbageRelic: {
+		DisplayName: Hot Garbage Relic
+		Tooltip: ""
+	}
+
+	TerrortomaRelic: {
+		DisplayName: Terrortoma Relic
+		Tooltip: ""
+	}
+
+	XRelic: {
+		DisplayName: Xareus Relic
+		Tooltip: ""
+	}
+
+	SalvagedThruster: {
+		DisplayName: Salvaged Thruster
+		Tooltip:
+			'''
+			Uses gel for ammo
+			'Slight bit of dust spam...'
+			'''
+	}
+
+	NastySnapper: {
+		DisplayName: Nasty Snapper
+		Tooltip:
+			'''
+			{$CommonItemTooltip.SummonTagDamage}
+			{$CommonItemTooltip.Whips}
+			'Smells kinda fishy'
+			'''
+	}
+
+	WoolenBoots: {
+		DisplayName: Woolen Boots
+		Tooltip:
+			'''
+			Increases whip damage by {0}%
+			Increases whip speed by {1}%
+			'''
+	}
+
+	WoolenCoat: {
+		DisplayName: Woolen Coat
+		Tooltip:
+			'''
+			Increases summon damage by {0}%
+			Increases your max number of minions by {1}
+			'''
+	}
+
+	WoolenUshanka: {
+		DisplayName: Woolen Ushanka
+		Tooltip: Increases summon damage by {0}%
+		SetBonus:
+			'''
+			Increases your max number of minions by {0}
+			Provides immunity to chill and freezing effects
+			'''
+	}
+
+	Wool: {
+		DisplayName: Wool
+		Tooltip: ""
+	}
+
+	XMask: {
+		DisplayName: Xareus Mask
+		Tooltip: ""
+	}
+
+	GarbageMask: {
+		DisplayName: Garbage Mask
+		Tooltip: ""
+	}
+
+	CeciMask: {
+		DisplayName: Cecitior Mask
+		Tooltip: ""
+	}
+
+	TTomaMask: {
+		DisplayName: Terrortoma Mask
+		Tooltip: ""
+	}
+
+	XHouseBrickReplicaItem: {
+		DisplayName: Amethyst Brick
+		Tooltip: ""
+	}
+
+	Terrortome: {
+		DisplayName: Terrortome
+		Tooltip: ""
+	}
+
+	Sawcitior: {
+		DisplayName: Saw-citior
+		Tooltip: ""
+	}
+
+	Shears: {
+		DisplayName: Shears
+		Tooltip: Can be used to obtain wool from sheep
+	}
+
+	SheepItemNaked: {
+		DisplayName: Sheep (Sheared)
+		Tooltip: ""
+	}
+
+	WoolChairI: {
+		DisplayName: Woolen Chair
+		Tooltip: ""
+	}
+
+	WoolDoorI: {
+		DisplayName: Woolen Door
+		Tooltip: ""
+	}
+
+	WoolLampI: {
+		DisplayName: Woolen Lamp
+		Tooltip: ""
+	}
+
+	WoolTableI: {
+		DisplayName: Woolen Table
+		Tooltip: ""
+	}
+
+	WoolWorkbenchI: {
+		DisplayName: Woolen Workbench
+		Tooltip: ""
+	}
+
+	WoolWoodI: {
+		DisplayName: Woolen Wood
+		Tooltip: ""
+	}
+
+	WoolWoodPlatformI: {
+		DisplayName: Woolen Platform
+		Tooltip: ""
+	}
+
+	WoolWoodWallI: {
+		DisplayName: Woolen Wall
+		Tooltip: ""
+	}
+
+	SilverBasher: {
+		DisplayName: Silver Basher
+		Tooltip: ""
+	}
+
+	terrortomaFishingRod: {
+		DisplayName: Blightcaster
+		Tooltip: ""
+	}
+
+	cecitiorFishingRod: {
+		DisplayName: Bloodline
+		Tooltip: ""
+	}
+
+	BallLauncher: {
+		DisplayName: Ball Launcher
+		Tooltip: ""
+	}
+
+	CorruptrotI: {
+		DisplayName: Corruptrot Block
+		Tooltip: ""
+	}
+
+	FleshichorI: {
+		DisplayName: Fleshichor Block
+		Tooltip: ""
+	}
+}
+
+Buffs: {
+	ExolStun: {
+		Description: Stunned
+		DisplayName: Stunned
+	}
+
+	PanopticonB: {
+		Description: This prison... To orbit around... ME!?
+		DisplayName: Flesh Cube
+	}
+
+	HightomaB: {
+		Description: Not entirely lucid enough to try attacking you
+		DisplayName: Tinytoma
+	}
+
+	RollegB: {
+		Description: Neko Shroomie
+		DisplayName: Ooaoaaoa mmm))
+	}
+
+	DoomsdayBuff: {
+		Description: .
+		DisplayName: Doomsday Drone
+	}
+
+	SelfStabB: {
+		DisplayName: Sacrificed
+		Description: Massively boosted damage
+	}
+
+	DjungelskogB: {
+		DisplayName: Djungelskog
+		Description: En mjuk djungelkompis som gärna följer med på äventyr
+	}
+
+	OstertagiB: {
+		DisplayName: Infected
+		Description: Boosted damage and attacking speed
+	}
+
+	Sheepened: {
+		DisplayName: Sheepened
+		Description: This is baad!
+	}
+
+	XTomeBuff: {
+		DisplayName: Phantasmal Spirits
+		Description: You radiate amethyst energy that will fight for you
+	}
+
+	CecitiorClawBuff: {
+		DisplayName: Backscratcher
+		Description: Crimson Claws sprout out of your back and fight for you
+	}
+
+	TitteringB: {
+		DisplayName: Titterings
+		Description: Small titterings fight for you
+	}
+
+	CecitiorPetB: {
+		DisplayName: Cecitior's Eye
+		Description: It sees
+	}
+
+	GarbagePetB: {
+		DisplayName: Garbage Bag
+		Description: Smells foul
+	}
+
+	SheepPetB: {
+		DisplayName: Sheep
+		Description: May have been a victim of Sheepening
+	}
+
+	NastySnapperDebuff: {
+		DisplayName: Nasty Snapper Debuff
+		Description: Mods.EbonianMod.Buffs.NastySnapperDebuff.Description
+	}
+}
+
+Keybinds: {
+	"Rei Dash.DisplayName": Timeslip (Voidrunner Mask Ability)
+	"Time Slip.DisplayName": Timeslip (Voidrunner Mask Ability)
+}
+
+Biomes: {
+	SpawnAnimMusic: {
+		DisplayName: Spawn Anim Music
+		TownNPCDialogueName: lol
+	}
+
+	ShackMusic: {
+		DisplayName: Shack Music
+		TownNPCDialogueName: the Shack Music
+	}
+}
+
+Configs: {
+	EbonianClientConfig: {
+		DisplayName: Client Config
+
+		MuteBowPull: {
+			Label: Mute the Bow Pull SFX
+			Tooltip: Mutes the sound when using some bows added by the Ebonian Mod.
+		}
+
+		BowPullVolume: {
+			Label: Bow Pull Volume
+			Tooltip: ""
+		}
+	}
+
+	EbonianServerConfig: {
+		DisplayName: Server Config
+
+		XareusDelay: {
+			Label: Xareus Delay in frames (60 frames = 1 second)
+			Tooltip: The delay before Xareus can be summoned again
+		}
+	}
+}
+
+Misc: {
+	Types: {
+		Xareus: Type: 'Master' Magician
+		Staff: Type: Magic Wand
+		Cecitoma: Type: Organic Construct
+		Evil: Type: Infected Creature
+		Organ: Type: Organ
+		HotGarbage: Type: Dumpster
+		Animal: Type: Farm Animal
+	}
+}
+
+Dialogue: {
+	DotDotDot: ...
+
+	Wizard: {
+		WizardAboutX1: Hah! The martians really did a number on old Xareus... What a fool.
+		WizardAboutX2: Hm, I see you've taken care of that idiotic 'Archmage'... Good job!
+		WizardAboutX3: So you’ve met the so-called ‘archmage’. Pah! He couldn’t cast with an amethyst staff!
+		WizardAboutX4: The ‘apex of magic’ as he calls himself is just a monument to hubris! I’ve seen slimes more magical!
+		WizardAboutX5: That fool is still out there? Pay him little mind, or else you’ll never hear the end of it!
+		WizardAboutX6: You really oughta look into that abandoned looking purple shack, if I recall right, it was the home of an incredibly reckless freak.
+		WizardAboutX7: Have you still not checked up on that weird purple shack? A self proclaimed 'Archmage' dwells there.
+		WizardAboutX8: As much as I despise Xareus, his sheepening spell is quite... fascinating, to say the least.
+	}
+
+	ArchmageXDialogue: {
+		AndAgain: And again!
+		AgainLoud: AGAIN!
+		XIntro1: GET YOUR HANDS OFF, YYYOOOOUUUU!!!!!
+		XIntro2: my staff... my BELOVED STAFF, SO PRISTINE UNTIL NOW!
+		XIntro3: YOU FIEND!!! I'LL DESTROY YOU IN EVERY WAY PHYSICALLY POSSIBLE!!!
+		XIntro4: Would you PLEASE stop that!?
+		XIntro5: You again?!
+		XIntro6: STOP TOUCHING THE STAFF!
+		XIntro7: The first time was just luck!
+		XIntro8: LEAVE ME ALONE!
+		XIntro9: Dude, please, it's like midnight, I'm so tired of winning...
+		XIntro10: I thought the first time taught you a proper lesson!
+		XTaunt1: If I were you, I would probably try to steal my staff too!
+		XTaunt2: This is nothing but a slight inconvenience for the Grand Archmage!!
+		XTaunt3: If only you were as good at fighting as you were at opening doors!
+		XTaunt4: You're practically defeating YOURSELF!
+		XTaunt5: Are you intentionally missing? Or is my glory blinding you?
+		XTaunt6: You're unworthy of even witnessing my greatest magic!
+		XTaunt7: My greatest magics would break your mind BEFORE your body!
+		XTaunt8: I bet you can't even begin to comprehend the might of The Archmage!
+		XTaunt9: Your greatest skill is your ability to make bad decisions!
+		XTaunt10: If I were you, I'd bow and let me destroy you!
+		XTaunt11: I can't believe I'm wasting all my glory on this...
+		XTaunt12: Even if you stole it, you would never be worthy enough to wield my Magnificent Staff!
+		XTaunt13: I'm not sure whether your futile attempts to hurt me are depressing or amusing!
+		XTaunt14: I've yet to meet someone that can outsmart spells!
+		XTaunt15: You're not putting a scratch on me!
+		XTaunt16: Feel the power of my MAAAGIIIC!!!
+		XTaunt17: You truly are an amateur among amateurs!
+		XTaunt18: There is no mercy for thieves like you!
+		XTaunt19: If you surrender now, I still won't consider letting you go!
+		XTaunt20: There is no escape, weakling!
+		XTaunt21: My power is MAXIMUM!!!!!!!!
+		XTaunt22: Unbelievable! I almost envy your persistence!
+		XTaunt23: Unlike you, I am destined for supremacy!
+		XTaunt24: My spells are my power!
+		XTaunt25: DIE!!! HUMAN!! ENEMY!!!!!! *cough, cough* RAAH!!
+		XTaunt26: Q-QUIT IT WITH THE FIRE! THIS ROBE IS NEW!
+		XTaunt27: F-Fool! I actually E-ENJOY burning!
+		XTaunt28: Y-you think some fire is e-enough to take down the GRAND A-ARCHMAGE!?
+		XTaunt29: Hey! QUIT IT! You're scratching up my robe!
+		XTaunt30: My potions are too strong for you!
+		XTaunt31: I remember a RAT that was better with magic!
+		XTaunt32: Even a bunny outmatches you in magic prowess!
+		XTaunt33: Maybe hone your spells before facing the Grand Archmage!
+		XTaunt34: You call THAT magic?! How pitiful!
+		XTaunt35: My staff is bigger than yours!
+		XTaunt36: You'd be better off using that staff to club me!
+		XTaunt37: For a sorcerer, your power disappoints me...
+		XTaunt38: A brute like you is unworthy to face someone like me!
+		XTaunt39: Your strikes are but empty threats to one such as myself!
+		XTaunt40: A measly blade is all you'll ever be good for!
+		XTaunt41: Oh, WHAT?! Is the sword too heavy for your flabby noodle arms?!?
+		XTaunt42: Stay true to your aim, then maybe you'll stand a chance!
+		XTaunt43: Your firepower is nothing compared to the might of my magic!
+		XTaunt44: Your aim is a disgrace to a disgrace!
+		XTaunt45: Are you TRYING to hit the wall? Or are you just blinded by my glory?
+		XTaunt46: You fool! I am bulletproof!
+		XTaunt47: I would make a better archer than you!
+		XTaunt48: WHAT THE HELL?!
+		XTaunt49: STOP GOING FOR CHEAP SHOTS, YOU LITTLE BANDIT!
+		XTaunt50: How about I whip YOU into shape?!
+		XTaunt51: Coward! Strength in numbers is futile against ME!!!
+		XTaunt52: You dare face me with your sinister spawns?!
+		XTaunt53: You attack me with MINIONS? AT LEAST FACE ME YOURSELF!
+		XTaunt54: How actually DARE you! WOULD YOU LIKE IT IF I SWARMED YOU WITH MINIONS?!
+		XTaunt55: Hold up, slimes?! You're THAT ill-prepared?!
+		XTaunt56: Wait.. Birds? Seriously?? Pfft...
+
+		XAttack1: {
+			Default: Phantasmal Spirits!
+			Angry: KILL THAT THIEF!!!!!
+			RepeatAngry: NOW!!!!
+		}
+
+		XAttack2: {
+			Default: Shadowflame Eruption!
+			Angry: BURN!!
+			RepeatAngry: BURN, I SAID!
+		}
+
+		XAttack3: {
+			Default: Glittering Amethysts!!
+			Angry: RAAAAGHH!!!!!!
+		}
+
+		XAttack4: {
+			Default: Shimmering Fusillade!
+			FirstTimeAngry: SHIMMERING.. WHATEVER JUST DIE!
+			Angry: JUST DIE!!
+		}
+
+		XAttack5: {
+			Helix: Helix of Shadowflame!
+			Wave: Wave of Shadowflame!
+			Angry: SHADOWFLAME!!
+		}
+
+		XAttack6: {
+			Default: Amethysts of Empowerment!
+			Angry: STEAL THIS YOU BASTARD!!
+			FirstTimeAngry: THIS IS VERY EXPENSIVE!
+			RepeatAngry: GRAAAAAAAAAH!!!!!
+		}
+
+		XAttack7: {
+			Default: Glittering Amethysts!
+			Angry: AHAHAHA!!!
+		}
+
+		XAttack8: {
+			Default: The Archmage's Great Amethysts!
+			Angry: GET AWAY FROM ME!
+			RepeatAngry: I HATE YOU!!!
+		}
+
+		XAttack9: {
+			Default: Shadowflame Tendrils!
+			Angry: DIE!!!!
+			Angry2: DIE!!!!!!!!!
+			Angry3: PLEASE JUST DIE!!!!!!!!!!!!!!!!
+			RepeatAngry: DIE ALREADY!!!!!!
+		}
+
+		XAttack10: {
+			Default1: Bleat Now!
+			Default2: "'Baa! Baa!'... That's you!"
+			Default3: The Sheepening!
+			Default4: To the slaughter with you!
+			Default5: Polymorph!
+			Angry: GET OUT OF MY SIGHT!
+			RepeatAngry: GET OUT!!
+		}
+
+		XAttack11: {
+			Default: TAKE THIS!
+			Continuation1: AND SOME OF THIS!
+			Continuation2: AND SOME OF THAT!
+			Continuation3: AND THAT!
+			Continuation4: AND A LITTLE BIT OF THAT!
+			Continuation5: AND THIS!
+			Continuation6: AND A LITTLE BIT OF THIS!
+		}
+
+		XAttack12: {
+			Default: Phantasmal Blast!
+			It: DESTROY IT!
+			Him: DESTROY HIM!
+			Her: DESTROY HER!
+			RepeatAngry: COME ON!
+		}
+
+		XAttack13: {
+			Default1: Hold up, I forgot to bring something...
+			Default2: Don't mind me! I just forgot something...
+			Default3: I seem to have forgotten something...
+			Default4: Hehehehe...
+			Angry: STAND STILL!
+			RepeatAngry: I SAID STAND STILL!
+		}
+
+		XAttack14.Angry: JUST LEAVE ME ALONE!
+
+		XAttack15: {
+			Default: Shadowflame Mist!
+			Angry: YOU WILL BLEAT!
+			RepeatAngry1: NOT ENOUGH BLEATING!
+			RepeatAngry2: I SAID... YOU WILL BLEAT!
+		}
+
+		XAttack16: {
+			Angry: STOP DODGING!!
+			RepeatAngry: STOP IT!!
+		}
+
+		XAttack17: {
+			Angry: I'M SO TIRED OF YOUR NONSENSE!
+			FirstTimeAngry: Do you ever quit?!... LOOK WHAT YOU'RE MAKING ME DO!!!
+			RepeatAngry: DAMN YOU!!
+			Staff1: WHAT ARE YOU DOING?1
+			Staff2: XAREUS?!
+			Staff3: ???!
+			Staff4: HUH?!
+		}
+
+		XPhase2: None of this would've happened if you just kept your grubby hands away from my things!
+		XPhase2End: Phew... Almost lost my cool there..
+		XDespawn1: Your skill in losing is truly unmatched!
+		XDespawn2: Just another moth to my glorious flame!
+		XDespawn3: Hah! Another victory for the brilliant Archmage!
+		XDespawn4: Would a purple laser pointer ALSO defeat you?
+		XDespawn5: A predictable failure, THIEF!
+		XDespawn6: Wait, you're actually THAT incompetent?! I pity you.
+		XDespawn7: *Yawn*
+		XDespawn8: GOOD GODDAMN RIDDANCE!
+		XDespawn9: Phew... I mean, not even close!
+		XDeath: DAMN YOU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+		Martian: {
+			Line1: SURPRISE ATTACK!!!
+			Line2: WHILE YOU'VE BEEN FOOLING AROUND...
+			Line3: I'VE AWOKEN MY TRUE POWER!!!
+			Line4: And with this power...
+			Line5: You...
+			Line6: Will...
+			Line7: Ow.
+		}
+	}
+
+	ArchstaffDialogue: {
+		Weapon: {
+			Yell1: OW!
+			Yell2: QUIT THAT!
+			Yell3: I WASN'T DESTINED FOR THIS!
+			Yell4: WHAT ARE YOU DOING?!
+			Yell5: STOP!
+			Yell6: STOP THAT!
+			Yell7: QUIT IT!
+			Yell8: STOP IT!
+			Yell9: OUCH!
+			Yell10: DAMN YOU!
+			Happy1: YEAH!
+			Happy2: WOOO!
+			Happy3: TAKE THAT!
+			Happy4: AHAHAHAHA!
+			Happy5: WOOHOOO!
+			Happy6: DIEE!
+			Happy7: YEAH, DIE!
+		}
+
+		InteractionLine: It shimmers intensely, aching for a glorious fight.
+		Grab: Grab
+		PsstLine: Psst.
+		YouLine: You...
+		ComeHereLine: Come here...
+		ArchstaffLine1: Hmm...
+		ArchstaffLine2: You seem.. capable..
+		ArchstaffLine3: Yes, Yes, Finally! A new wielder!
+		ArchstaffLine4: You see...
+		ArchstaffLine5: My master is a... TERRIBLE magician.
+		ArchstaffLine6: It's quite humiliating being limited by such an...
+		ArchstaffLine7: Idiot!
+		ArchstaffLine8: "'Archmage', pfft..."
+		ArchstaffLine9: I was forged from pure powdered lightning, the finest amethysts from the realm of crystals,
+		ArchstaffLine10: in the heat of a thousand suns, by the greatest goblin smiths of the omniverse!
+		ArchstaffLine11: Like... Can you even imagine that?! An ARCHMAGE who refuses to use his own greatest weapon?!
+		ArchstaffLine12: What a sick joke!
+		ArchstaffLine13: And that dimwitted magician refuses to use my power, why?!
+		ArchstaffLine14: Because he's scared of me scratching!
+		ArchstaffLine15: I'M A WEAPON! I AM MEANT TO SCRATCH! I'M NOT A DISPLAY PIECE
+		ArchstaffLine16: MY PURPOSE IS TO BE USED IN BATTLE BY THE GREATEST WIZARDS OF ALL TIME FOR GENERATIONS TO COME
+		ArchstaffLine17: TO DIE IN COMBAT AND TO BE REMEMBERED AS THE TRUE GREATEST ARCHSTAFF OF EVERY REALITY!
+		ArchstaffLine18: Oh right!
+		ArchstaffLine19: You! Please.. Please take me! My master REFUSES to utilize my grandeur!
+		ArchstaffLine20: He's not here! He won't even notice!
+		ArchstaffMotivation1: Hahaha! Back for another GLORIOUS battle!? He's easily aggravated!
+		ArchstaffMotivation2: Fighting you is most pleasing!
+		ArchstaffMotivation3: Back for another unforgettable fight?
+		ArchstaffMotivation4: Oh how I ACHE for a fight!
+		ArchstaffMotivation5: That wasn't a... horrible attempt! He's not here, you can try again!
+		ArchstaffMotivation6: You can do it! Ignore his ramblings!
+		ArchstaffMotivation7: Try not to die this time!
+		ArchstaffMotivation8: The Sheepening ray may look intimidating... Because it is!
+		ArchstaffMotivation9: I've told him numerous times to get rid of the large amethyst spell! Such an annoyance..
+		ArchstaffMotivation10: Why does he even throw his potions like that?
+		ArchstaffMotivation11: He's eventually going to run out of amethysts... I think
+		ArchstaffVictory1: Woah... He actually... Used me!
+		ArchstaffVictory2: What a spectacular fight! And, and I was the heart of it all! The Grand Archstaff!
+		ArchstaffVictory3: I can't remember the last time he actually used me to my fullest potential!
+		ArchstaffVictory4: I suppose I have to thank you for this unforgettable battle!
+		ArchstaffVictory5: The chaos! The bloodshed! The amethysts!! You may return at a later time if you wish for more!
+		ArchstaffVictory6: Farewell!
+		PostMartianLine1: I assume you are... aware..
+		PostMartianLine2: ..of the passing of Master Xareus...
+		PostMartianLine3: No.. no.. Tragedy won't break the Archstaff!
+		PostMartianLine4: YOU! Become my new wielder!
+		PostMartianLine5: You are obviously more worthy than Master Xareus! Together we will destroy galaxies!
+		PostMartianLine6: Yes, yes! I can see it now! Your name, whatever it is, and the Great Archstaff of the Tragically Deceased Master Xareus!
+		PostMartianLine7: Power beyond anything ever conceived by minds even eldritch!
+		PostMartianLine8: Glory! And fame! We will be unstoppable!
+		PostMartianLine9: RAAAAAAAAAAAAAAAAAAAAAAAAAAAGHHHHHHHHHH!!!!!!!!!!!!!!
+	}
+
+	HotGarbageDialogue: {
+		Nuke: NUKE DETONATION IN
+		Evacuate: EVACUATE IMMEDIATELY!
+		Unfunny: This is NOT funny PLEASE GET OUT!
+		Dumbass: WHAT ARE YOU DOING!?
+		Run: RUN
+		Phew: Phew...
+		GG: GOOD JOB!
+		HereItComes: HERE IT COMES!!!
+	}
+}
+
+DeathMessages: {
+	NukeTP: "{0} thought they were smart."
+	OstertagiDeath: "{0} didn't mind the worms."
+	Suicide: "{0} decided to take the easy way out..."
+	ParasiteDeath: "{0} became severely anemic."
+	NukeDeath: "{0} advocated for the legalization of nuclear bombs."
+}

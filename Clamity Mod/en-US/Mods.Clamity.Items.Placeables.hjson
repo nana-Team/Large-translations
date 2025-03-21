@@ -1,0 +1,48 @@
+Relics: {
+	PyrogenRelic: {
+		DisplayName: Pyrogen Relic
+		Tooltip: ""
+	}
+
+	ClamitasRelic: {
+		DisplayName: Clamitas Relic
+		Tooltip: Made with using hellstone
+	}
+
+	WoBRelic: {
+		DisplayName: Wall of Bronze Relic
+		Tooltip: ""
+	}
+}
+
+Trophies: {
+	PyrogenTrophy: {
+		Tooltip: ""
+		DisplayName: Pyrogen Trophy
+	}
+
+	WoBTrophy: {
+		Tooltip: ""
+		DisplayName: Wall of Bronze Trophy
+	}
+}
+
+FrozenHellstone: {
+	Tooltip: ""
+	DisplayName: Frozen Hellstone
+}
+
+FrozenAsh: {
+	Tooltip: ""
+	DisplayName: Frozen Ash
+}
+
+PyroplateWall: {
+	Tooltip: ""
+	DisplayName: Pyroplate Wall
+}
+
+Pyroplate: {
+	Tooltip: It resonates with otherworldly energy
+	DisplayName: Pyroplate
+}

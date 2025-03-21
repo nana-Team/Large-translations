@@ -1,0 +1,11 @@
+Shortstrike: {
+	Copper: Increases defense by 5 for 1 second on shortstrike
+	Iron: Increases defense by 6 for 1 second on shortstrike
+	Silver: Increases defense by 8 for 1 second on shortstrike
+	Gold: Increases defense by 10 for 1.2 seconds on shortstrike
+	Tin: Increases damage reduction by 2% for 1 second on shortstrike
+	Lead: Increases damage reduction by 3% for 1 second on shortstrike
+	Tungsten: Increases damage reduction by 4% for 1 second on shortstrike
+	Platinum: Increases damage reduction by 6% for 1.2 seconds on shortstrike
+	Gladius: Increases movement speed by 20% for half of a second on shortstrike
+}

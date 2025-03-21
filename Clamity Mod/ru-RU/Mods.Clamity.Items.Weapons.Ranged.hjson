@@ -1,0 +1,28 @@
+DepthsEchoRifle: {
+	DisplayName: Винтовка глубокого эхо
+	Tooltip: Заменяет мушкетные патроны на самонаводящиеся серные снаряды
+}
+
+Obsidigun: {
+	DisplayName: Обсидипушка
+	Tooltip: Превращает мушкетные пули в быстро движущиеся обсидиановые пули, которые при попадании разлетаются на множество осколков
+}
+
+RoseBow: {
+	DisplayName: Лук-роза
+	Tooltip:
+		'''
+		'Даже если ты меня не видишь, даже если ты меня не слышишь, я буду рядом с тобой'
+		Стреляет разбросом стрел и самонаводящихся лепестков
+		'''
+}
+
+WitheredBoneBow: {
+	// DisplayName: Withered Bone Bow
+	/* Tooltip:
+		'''
+		Converts wooden arrow to withered bone bolts
+		Bolts creates a copy behind player on hit up to two times
+		Bolts inflict Withered and has 15 armor penetration
+		''' */
+}

@@ -1,0 +1,182 @@
+SoulOfPyrogen: {
+	DisplayName: Душа Пирогена
+	Tooltip:
+		'''
+		Увеличивает разбойный урон и урон ближнего боя на 10%
+		Истинные удары ближнего боя и скрытные удары создают выступающие из-под земли копь
+		'''
+}
+
+DraculasCharm: {
+	DisplayName: Амулет Дракулы
+	Tooltip:
+		'''
+		Увеличивает разбойный урон на 15% и максимальный запас скрытности на 10
+		Скрытные удары наносят на 8% больше урона, призывают рой из самонаводящихся летучий мышей-вампиров и накладывают дебафф «Разрушение»
+		Снаряды разбойного оружия похищают часть здоровья врага при критических ударах, а также разрушаются на самонаводящиеся души при уничтожении
+		'''
+}
+
+PyroStone: {
+	DisplayName: Пирокамень
+	Tooltip:
+		'''
+		Увеличивает урон всех огненых дебаффов в 1,5 раза
+		Создаёт кольцо из огненого щита, которое наносит урон и поджигает врагов
+		«Одна из древних реликвий»
+		'''
+}
+
+HellFlare: {
+	DisplayName: Адское пламя
+	Tooltip:
+		'''
+		Все атаки и снаряды накладывают дебафф «{$BuffName.OnFire3}»
+		Даёт имунитет к дебаффам «{$BuffName.OnFire}» и «{$BuffName.OnFire3}»
+		Увеличивает шанс критического удара на 10%, при показателе здоровья выше 75%
+		Снижает получаемый урон на 10%, при показателе здоровья ниже 25%
+		Даёт защиту против холодных атак
+		'''
+}
+
+SupremeBarrier: {
+	DisplayName: Высший барьер
+	Tooltip:
+		'''
+		Позволяет совершать таранящий рывок, усиленный космическим инферно
+		Даёт невосприимчевость к отбрасыванию и огненным блокам
+		Даёт невосприимчевость к подавляющему большинству дебаффов, включая «{$Mods.CalamityMod.Buffs.ArmorCrunch.DisplayName}»
+		Вызывает звездопад после получения урона
+		Даёт дополнительные кадры неуязвимости в зависимости от недостающего здоровья
+		Эффект масштабируется начиная с 10 кадров при полном здоровье и заканчивая 40 кадрами при 25% здоровья или менее
+		Перенаправляет на владельца щита 15% урона, полученного игрокам вашей команды, если здоровье владельца выше 25%
+		Окружает панцирем, который увеличивает сопротивление урону на 25%, если ваше здоровье ниже 50%
+		'''
+}
+
+IcicleRing: {
+	DisplayName: Кольцо-сосулька
+	Tooltip:
+		'''
+		Снижает расход маны до 0
+		Вы постоянно получаете урон
+		'''
+}
+
+RedDie: {
+	DisplayName: Красный кубик
+	Tooltip:
+		'''
+		Увеличивает удачу в 1,5 раза
+		Дополнительно увеличивает удачу на 20%
+		«Готов переигрывать?»
+		'''
+}
+
+EidolonAmulet: {
+	DisplayName: Призрачный амулет
+	Tooltip:
+		'''
+		Дает иммунитет к дебаффам «Разрывной поток», «Глубина сокрушения» и «Облучение»
+		Все атаки накладывают дебафф «Глубина сокрушения» и выпускают капли кислоты с неба
+		Вы восстанавливаете воздух, неподвижно стоя под водой (не работает в бездне)
+		На 15% увеличена скорость добычи и на 10% увеличен урон когда мокром состоянии
+		25% увеличена максимальные ХП, когда ты в в бездне
+		Обеспечивает умеренное количество света в бездне
+		'''
+}
+
+Wings: {
+	MetalWings: {
+		DisplayName: Металлические крылья
+		Tooltip:
+			'''
+			После получения урона вы востанавливаете проценты времени полёта равному половины соотношения полученного урона к максимальному ХП
+			Когда надета Замороженная броня все игроки в вашей группе получают 20 увеличенной защиты
+			'''
+	}
+}
+
+PearlOfFishCalamity: {
+	DisplayName: Жемчуг бедствия рыб
+	Tooltip:
+		'''
+		50 увеличенной силы рыбалки
+		Значительно увеличивает шанц выловить рыбу, использующийся для зелий
+		Увеличивает шанц выловить ящик
+		Количество вылавливаемой рыбы, использующийся для зелий, увеличены
+		Призывает водяной элементаль кто поможет защитить тебя во время рыбалки
+		'''
+}
+
+SeaShell: {
+	DisplayName: Океаническая ракушка
+	Tooltip: Увеличивает защиту, поглощение урона и скорость передвижения когда вы мокрый
+}
+
+TheSubcommunity: {
+	// DisplayName: The Subcommunity
+	/* Tooltip:
+		'''
+		[STATS]
+		'The part of The (Calamity) Community.'
+		'Has own specialization.'
+		[c/B00BA5:Thank you to all of my supporters who made this addon a reality!]
+		''' */
+	/* StatsList:
+		'''
+		Increases mining speed by {0}%
+		Increases luck by {1} and fishing power by {2}
+		Increases tile and wall placing speed by {3}% and placing range by {4}
+		Become more powerful as you defeat bosses ({5}% Power)
+		''' */
+}
+
+MagicDiamond: {
+	// DisplayName: Magic Diamond
+	/* Tooltip:
+		'''
+		Dealing magic damage creates a small barrier
+		Each magic attack adds a small amount of durability to the barrier
+		The barrier can store up to 20 durability
+		''' */
+}
+
+SharpAmethyst: {
+	// DisplayName: Sharp Amethyst
+	/* Tooltip:
+		'''
+		Shooting an arrow has a chance to create an extra gem arrow
+		Gem arrows deal 20% of the arrow's damage
+		''' */
+}
+
+BlightedSpyglass: {
+	// DisplayName: Blighted Spyglass
+	/* Tooltip:
+		'''
+		+1 max sentry
+		Sentries inflict a Brimstone Flames
+		''' */
+}
+
+CyanPearl: {
+	// DisplayName: Cyan Pearl
+	/* Tooltip:
+		'''
+		+7% summon damage
+		Halves summon damage penalty for sentries
+		''' */
+}
+
+SkullOfTheBloodGod: {
+	// DisplayName: Skull of the Blood God
+	/* Tooltip:
+		'''
+		20% increased damage and 13% increased critical strike chance
+		Critical strikes explode, causing nearby enemies to ignite with Brimstone Flames
+		Halves enemy contact damage with a 20 second cooldown
+		Brimstone fire rains down after getting hit
+		Greatly reduces the damage taken by the Brimstone Flames debuff
+		''' */
+}

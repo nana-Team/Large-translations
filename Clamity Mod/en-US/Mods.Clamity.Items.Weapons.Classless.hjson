@@ -1,0 +1,38 @@
+AMS: {
+	DisplayName: AMS
+	Tooltip:
+		'''
+		Create a bomb by using mana
+		Right Click to increase explosion radius (up to 5 power)
+		'''
+}
+
+TrashOfMagnus: {
+	DisplayName: Trash Of Magnus
+	Tooltip:
+		'''
+		An attempt of Magnus' to expand into biological terrorism
+		Despite his efforts, it was deemed a failure and discarded
+		Fires plague bolts that inflict Plague
+		This weapon scales with all your damage stats at once
+		'''
+}
+
+EyeOfNova: {
+	Tooltip:
+		'''
+		Fires powerful homing exo beams that reduce enemy protection, defence and slow down
+		Heals mana and health on hit
+		This weapon scales with all your damage stats at once
+		'''
+	DisplayName: Eye of Nova
+}
+
+Celesticus: {
+	Tooltip:
+		'''
+		Fires crystals that explode and slow enemies down
+		This weapon scales with all your damage stats at once
+		'''
+	DisplayName: Celesticus
+}

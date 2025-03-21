@@ -1,0 +1,42 @@
+MoltenPiercer: {
+	DisplayName: Molten Piercer
+	Tooltip:
+		'''
+		Throws a flaming daggers
+		Daggers create a flaming obsidian shards in flight on stealth strike
+		'''
+}
+
+WulfrumShockCutter: {
+	DisplayName: Wulfrum Shock Cutter
+	Tooltip: ""
+}
+
+FrozenStarShuriken: {
+	DisplayName: Frozen Star Shuriken
+	Tooltip:
+		'''
+		Cheates a homing mist bolts on hit
+		On stealth strike creates more bolts
+		'''
+}
+
+ExoBall: {
+	DisplayName: Exo Ball
+	Tooltip:
+		'''
+		Hurls up to 10 speedy homing spiky balls
+		Attaches to enemies and summons a localized storm of exo beams
+		Stealth strikes home in faster and summon beams at a faster rate
+		Press <right> to delete all existing spiky balls
+		'''
+}
+
+AuricKunai: {
+	DisplayName: Auric Kunai
+	Tooltip:
+		'''
+		Fires a rapid stream of short-range kunai
+		Stealth strikes spawn 5 Lightnings to nearest enemy
+		'''
+}

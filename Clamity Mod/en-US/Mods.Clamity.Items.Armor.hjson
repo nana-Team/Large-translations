@@ -1,0 +1,79 @@
+Clamitas: {
+	ClamitasShelleggings: {
+		DisplayName: Clamitas Shelleggings
+		Tooltip: 13% increased damage and 5% increased critical strike chance
+	}
+
+	ClamitasShellmet: {
+		DisplayName: Clamitas Shellmet
+		Tooltip:
+			'''
+			6% increased damage and 5% increased critical strike chance
+			Periodically rains down prism shards that can briefly stun enemies
+			'''
+		SetBonus:
+			'''
+			Three shellfishes aid you in combat
+			4 increased max minions
+			'''
+	}
+
+	ClamitasShellplate: {
+		DisplayName: Clamitas Shellplate
+		Tooltip:
+			'''
+			12% increased damage and 7% increased critical strike chance
+			Enemies within the aura are slowed down
+			Does not work while a boss is alive
+			Provides a small amount of light in the abyss
+			'''
+	}
+}
+
+Vanity: {
+	PyrogenMask: {
+		Tooltip: ""
+		DisplayName: Pyrogen Mask
+	}
+
+	WoBMask: {
+		Tooltip: ""
+		DisplayName: Wall of Bronze Mask
+	}
+}
+
+FrozenHellstone: {
+	FrozenHellstoneVisor: {
+		Tooltip:
+			'''
+			20% increased true melee damage. 
+			True melee attacks inflict Frostburn. 
+			Enemies are more likely to target you
+			'''
+		DisplayName: Frozen Visor
+		SetBonus:
+			'''
+			Cannot be frozen.
+			Press {0} to create an ice shield that parries attacks.
+			Failing to parry will cause you to overcool.
+			'''
+	}
+
+	FrozenHellstoneGreaves: {
+		Tooltip:
+			'''
+			20% increased true melee damage and +75 max life. 
+			Enemies are more likely to target you
+			'''
+		DisplayName: Frozen Greaves
+	}
+
+	FrozenHellstoneChestplate: {
+		Tooltip:
+			'''
+			20% increased true melee damage and 20% increased melee speed. 
+			Enemies are more likely to target you
+			'''
+		DisplayName: Frozen Chestplate
+	}
+}

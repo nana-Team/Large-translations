@@ -1,0 +1,51 @@
+ClamitasBoss: {
+	DisplayName: Каламидия, Высшая мидия
+	Bestiary: Будучи проклятым самой Каламитас, гигансткий моллюск впитал в себя силу серы. Когда в нём не осталось ни капли силы океана, он превратился в Каламидию, силе которой никто не смеет противостоять.
+
+	BossChecklistIntegration: {
+		SpawnInfo: Используйте [i:Clamity/ClamitasSummoningItem] в серных скалах.
+		DespawnMessage: "[c/FFD700:Каламидия возращаеться в укрытие в своём гроте.]"
+	}
+}
+
+PyrogenBoss: {
+	DisplayName: Пироген
+	Bestiary: Пироген - гигантская магическая печь, созданная неизвестным кузнеца огня, содержащая большое количество эссенция огня. «Более 1000 скоростей света к секунду!»
+
+	BossChecklistIntegration: {
+		SpawnInfo: Используйте [i:Clamity/PyroKey] в пустыне.
+		DespawnMessage: "[c/FFD700:Пироген вновь спустился в своё пылающее озеро.]"
+	}
+}
+
+Stupid.DisplayName: Легендарный высший среди высших Каламитас самого высшего в одежде Ксерока из Суприма
+// StormElemental.DisplayName: Storm Elemental
+PyrogenShield.DisplayName: Щит Пирогена
+WallOfBronzeTorret.DisplayName: Бронзовая турель
+WallOfBronzeLaser.DisplayName: Бронзовая лазерная машина
+WallOfBronzeClaw.DisplayName: Бронзовый коготь
+
+WallOfBronze: {
+	DisplayName: Стена бронзы
+	Bestiary: Древняя машина, хранитель более могущественной духов, чем духи после Стены из плоти. Одна из духов могут заморозить такое жаркое место, как преисподня
+
+	BossChecklistIntegration: {
+		// SpawnInfo: Right Click on a placed [i:Clamity/AncientConsole] Ancient Console in the Underworld
+		// DespawnMessage: "[c/FFD700:The titanic machine continues its endless journey through Hell.]"
+	}
+}
+
+ClockworkBat: {
+	DisplayName: Часовая летучая мыш
+	Bestiary: Часовая летучая мыш - это отдельный дрон из Wall of Bronze. Но после победы над ним летучая мышь стала неуправляемой
+}
+
+GlacialSlime: {
+	DisplayName: Ледниковый слизень
+	Bestiary: Лавовый слизень, который питался мощной душой мороза. Слизень пытался взорваться, но разница температур превратила его попытки в шипы
+}
+
+// MetalMaw.DisplayName: Metal Maw
+// MechanicalLeechTail.DisplayName: Mechanical Leech
+// MechanicalLeechHead.DisplayName: Mechanical Leech
+// MechanicalLeechBody.DisplayName: Mechanical Leech

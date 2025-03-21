@@ -1,0 +1,5807 @@
+﻿EndlessDamageClassTextContent.EndlessDamageClass.DisplayName: 无尽伤害
+Tools.RecipesLoseText: 你无法直接制作该物品!
+
+Items: {
+	ElementWhip: {
+		DisplayName: 元素长鞭
+		Tooltip:
+			'''
+			{$CommonItemTooltip.Whips}
+			让敌人被元素之火灼烧
+			"泰拉的本源连同宇宙的元素一同贯穿世界"
+			'''
+	}
+
+	TheRelicLuxor: {
+		DisplayName: 卢克索的圣物
+		Tooltip:
+			'''
+			灼热的灵力将伴随你的每一次攻击，耀界之神与你同在
+			[tips]
+			'''
+	}
+
+	TheLuxirSoulArtifact: {
+		DisplayName: 卢克索的灵魂圣器
+		Tooltip:
+			'''
+			无论是神还是不朽，皆承认你的荣耀
+			[tips]
+			'''
+	}
+
+	AzureDragonRage: {
+		DisplayName: 青龙之怒
+		Tooltip:
+			'''
+			{$CommonItemTooltip.Whips}
+			有一股浓厚的青草气味
+			'''
+	}
+
+	BleedingScourge: {
+		DisplayName: 血色鞭挞
+		Tooltip: 击中敌人后进行死亡标记，并令血雨降下
+	}
+
+	GhostFireWhip: {
+		DisplayName: 鬼火鞭
+		Tooltip:
+			'''
+			{$CommonItemTooltip.Whips}
+			一把很长的鞭子，由地牢冤魂的怒火编制而成
+			[c/d4bc75:纯粹的热情从地狱散发出来，鼓励你找出谁冤枉了你]
+			'''
+	}
+
+	AllhallowsGoldWhip: {
+		DisplayName: 金源长鞭
+		Tooltip: 它实际上还没有完成
+	}
+
+	DivineSourceBlade: {
+		DisplayName: 金源灭却刃
+		Tooltip:
+			'''
+			挥舞金源之力
+			"生命不息"
+			'''
+	}
+
+	FoodStallChair: {
+		DisplayName: 大排档塑料椅子
+		Tooltip: I AM THE CHAIR THAT IS APPROACHING!
+	}
+
+	AnnihilatingUniverse: {
+		DisplayName: 湮宇星矢
+		Tooltip:
+			'''
+			箭矢击中敌人后在原地留下一颗璀璨之星
+			右键以噬神者之力摧毁敌人
+			'''
+	}
+
+	HeavenfallLongbow: {
+		DisplayName: 天堂陨落长弓
+		Tooltip:
+			'''
+			发射无尽之箭，终焉彩虹能量将随后而至
+			右键让天堂之箭从天而降
+			蓄力完成后按下[KEY]启动万象审判
+			[legend]
+			'''
+		Legend:
+			'''
+
+			百亿年前的战火并未熄灭，它们如炽烈的余烬，穿越无尽时光，至今燃烧不息。
+			那是众神黄昏的遗迹，是古老宇宙裂变时刻的余光，是生生不息的回响。
+			耀界之神，银河秩序的化身，在那场宇宙间最伟大的反叛中陨落。
+			祂的身躯如同星辰碎裂，化作无数璀璨的神辉，散落至银河的每一个角落。
+			那些光辉孕育了生命、知识与奇迹，也带来了贪婪、毁灭与亵渎。凡人崇拜着祂的残骸，称之为神圣遗迹；
+			而那些奇迹之物，不过是对祂力量的拙劣复制，是凡人不知敬畏的狂妄象征。
+			但在无尽的遗忘与遗迹之中，有一物品超越了神迹，它不仅见证了至高神的陨落，更亲手将其送入永夜的深渊——这是一把传说中的长弓。
+			它曾在天堂的怒火中燃烧，射出那致命的一箭，粉碎了至高神的权能，终结了众神的野望。
+			随着战争的终结，这柄弓也随时间的洪流被埋葬在无尽的神秘与传说中。
+			而如今，命运的齿轮再次转动，天堂的怒火重新点燃。那柄杀神之弓，将在众星的赞歌中复现，再次将历史书写于鲜血与星尘之上
+
+			'''
+	}
+
+	TextItem: {
+		DisplayName: 测试物品
+		Tooltip: 嗯...你不应该拥有它
+	}
+
+	BaseSingularity: {
+		DisplayName: 奇点基类
+		Tooltip: 嗯...你不应该拥有它
+	}
+
+	InfiniteIngot: {
+		DisplayName: 无尽锭
+		Tooltip: 寰宇之力，就在掌中
+	}
+
+	TransmutationOfMatterItem: {
+		DisplayName: 终焉物质聚合仪
+		Tooltip:
+			'''
+			放置后右键打开合成台
+			"你的贪婪之旅将正式启程"
+			'''
+	}
+
+	DarkMatterCompressorItem: {
+		DisplayName: 暗物质压缩机
+		Tooltip: 如黑洞般重构物质
+	}
+
+	InfinitePick: {
+		DisplayName: 寰宇贪婪镐
+		Tooltip:
+			'''
+			右键摧毁触及的一切
+			按下[KEY]切换形态
+			"你可以感觉到，每当你握住，泰拉瑞亚的土地就会在恐惧中颤抖"
+			'''
+	}
+
+	DarkMatterBall: {
+		DisplayName: 暗物质球
+		Tooltip:
+			'''
+			它已经被压缩成了黑洞，但却奇迹般的保持住了稳定状态
+			手持物品右键可以将物品存入其中
+			空手右键可以将容纳物取出
+			'''
+		Contents: 内容物:
+	}
+
+	NeutronStarIngot: {
+		DisplayName: 中子星锭
+		Tooltip: 万物之重，聚合指尖
+	}
+
+	InfinityCatalyst: {
+		DisplayName: 无尽催化剂
+		Tooltip: 你的贪婪即将达到顶点
+	}
+
+	DawnshatterAzure: {
+		DisplayName: 苍穹破晓
+		Tooltip:
+			'''
+			射出日冕之影，击中敌人后召唤爆炸龙焰
+			长按右键举枪冲刺
+			烈火净化灵魂，将你的敌人彻底掠夺干净
+			[c/fff08c:-击杀敌人后会掉落多倍物品-]
+			'''
+	}
+
+	DecayParticles: {
+		DisplayName: 虚粒子
+		Tooltip:
+			'''
+			对物质本源的一丝窥视
+			存在本身便是一种奇迹
+			'''
+	}
+
+	DecaySubstance: {
+		DisplayName: 衰变物质
+		Tooltip:
+			'''
+			它在无穷无尽的衰败着
+			循环着毁灭与新生
+			'''
+	}
+
+	DissipationSubstance: {
+		DisplayName: 消渐物质
+		Tooltip:
+			'''
+			现实已经难以捕捉它的本质
+			它不断的消散，但又无比庞大
+			'''
+	}
+
+	SpectralMatter: {
+		DisplayName: 幽灵物质
+		Tooltip: 大约3700000亿吨吧
+	}
+
+	InfiniteToiletItem: {
+		DisplayName: 无尽马桶
+		Tooltip: "[c/fff08c:寰宇之力，就在桶中]"
+	}
+
+	StormGoddessSpear: {
+		DisplayName: 风暴女神之矛
+		Tooltip:
+			'''
+			发射出带有毁灭电弧的风暴之吻
+			[legend]
+			'''
+		Legend:
+			'''
+
+			阿莉娜曾是泰拉最锋锐的战士，以雷霆之刃撕裂黑暗，信仰坚定，无可动摇。但信仰并不能阻挡神明的冷漠
+			当至高神降下审判，她的战友、亲族、誓言与荣耀一同化为灰烬。她亲眼见证所谓正义如何将一切践踏成尘，如何用秩序的名义行使最残忍的毁灭
+			她不再求索光明，而是在深渊中重铸自身。古老的禁忌之力蚕食她的灵魂，使她获得凡人无法承受的伟力
+			她的铠甲化作深渊铁铸的残骸，眼中闪烁着雷霆与黑暗交织的余烬。她已不再是那个守护泰拉的战神，而是风暴本身，一场无法平息的复仇
+			她的怒火如狂风席卷战场，她的雷霆撕裂王座与庙宇。她不为正义而战，不为泰拉效忠，不为神明低头。
+			她只为复仇，为毁灭，为让那些自诩高洁的存在知晓，何谓真正的恐惧
+			'''
+	}
+
+	DragonsScaleGreatsword: {
+		DisplayName: 龙藻巨刃
+		Tooltip:
+			'''
+			发生螺旋绿藻剑气，击中目标后炸成数团毒藻雾
+			真近战攻击会生成大量毒藻雾
+			'''
+	}
+
+	CosmicCalamity: {
+		DisplayName: 银河之灾
+		Tooltip:
+			'''
+			掷出追踪的银河灾虫
+			潜伏攻击造成一次热射十字爆
+			'''
+	}
+
+	SpearOfLonginus: {
+		DisplayName: 朗基努斯之枪
+		Tooltip:
+			'''
+			每当潜伏条达到上限时进行一次增幅，最高叠加到六重立场
+			手持时对最近的敌人进行命运标记
+			立场击中标记的敌人后将触发朝圣者之怒
+			[legend]
+			'''
+		Legend:
+			'''
+
+			“破碎的神啊，请允许我赎还我的罪。”
+			战争已经蔓延数个世纪，我，作为逃离伟大文明的溃败者，孤身在这宇宙边缘的荒凉星球上苟且生存。
+			数万光年外，战争的巨械在碾碎星辰，残暴而可怖的攻击能在瞬息间清除数光年的星空，将其变为寂静之域。
+			而这样的战争，持续了数百年，如今，我所属的伟大文明岌岌可危，我将成为宇宙中的罪人，成为那最为不敬的亵渎者。
+			我的血肉已然腐朽，骨骸如同岁月的老化皱纹，我即将沦为我所创造的孱弱机械之一。
+			在此之前，愿神赐予我宽恕，赦免我对这至高存在的不敬之罪，让我在灵魂陨落的那一刻，陷入炼狱的深渊，受那无尽的苦痛。
+			然而，无论如何，为了我所属的文明，为了在这场跨越世纪的战争中取得胜利，我必须汲取这至高之物残缺的力量。
+			为了引导它的神秘力量，我别无选择，只能将冰冷的机械灌注进它破碎的神体之中。
+			这是一场不可避免的亵渎，为了文明的延续，为了战争的胜利，我不得不成为那至高之物最虔诚的信徒，有史以来最不敬的亵渎者。
+			'''
+	}
+
+	BloodAltar: {
+		DisplayName: 深红祭坛
+		Tooltip:
+			'''
+			右键祭坛用血珠召唤血月
+			自动收集世界上掉落的血珠存放到最近的箱子中
+			"让世界被深红所注视"
+			'''
+	}
+
+	StarMyriadChanges: {
+		DisplayName: 万变之星
+		Tooltip: 赞美变化之神！
+	}
+
+	TerminusOver: {
+		DisplayName: 终焉之触
+		Tooltip: 允许你随意开关终焉之战，但需要付出一些代价
+	}
+
+	PestilenceIngot: {
+		DisplayName: 瘟疫锭
+		Tooltip: 闻起来像发酸的香草方糕
+	}
+
+	ReminiscenceBreastplate: {
+		DisplayName: 塑神胸甲
+		Tooltip: ""
+	}
+
+	MurasamaMould: {
+		DisplayName: 血金模具
+		Tooltip: 用于制作一些高精度的东西，合成时不会直接消耗而是损耗耐久
+	}
+
+	OverhaulTheBibleBook: {
+		DisplayName: 大修宝典
+		Tooltip: 使用以查看相关教程....这里以后可能会包含更多内容
+	}
+
+	BarrenBow: {
+		DisplayName: 荒芜弓
+		Tooltip: 发射出的箭矢在击中敌人时会爆发出荒芜电流
+	}
+
+	ElementMuzzleBrake: {
+		DisplayName: 元素稳定器
+		Tooltip:
+			'''
+			减少65%后坐力与膛压
+			远程伤害降低5%
+			远程暴击率增加15%
+			敌人将更不容易发现你
+			'''
+	}
+
+	NeutronStarMuzzleBrake: {
+		DisplayName: 中子素稳定器
+		Tooltip:
+			'''
+			远程伤害增加100%
+			远程暴击率增加100%
+			远程射速增加100%
+			完全抵消后坐力与膛压
+			极大的增强远程射弹
+			拥有所有下位饰品的能力
+			'''
+	}
+
+	PrecisionMuzzleBrake: {
+		DisplayName: 高精密稳定器
+		Tooltip:
+			'''
+			减少55%后坐力与膛压
+			远程伤害降低10%
+			远程暴击率增加10%
+			敌人将更不容易发现你
+			'''
+	}
+
+	SimpleMuzzleBrake: {
+		DisplayName: 简陋稳定器
+		Tooltip:
+			'''
+			减少40%后坐力与膛压
+			远程伤害降低15%
+			远程暴击率增加5%
+			敌人将更不容易发现你
+			'''
+	}
+
+	AmmoBoxFire: {
+		DisplayName: 燃烧弹药箱
+		Tooltip:
+			'''
+			长按以部署，部署完成后手持枪械右击弹药箱，让特种弹药填装枪械弹匣
+			特种弹药可以和原来的子弹效果叠加
+			让弹头变得极度易燃，击中目标时发生爆燃
+			"这里不是cod"
+			'''
+	}
+
+	ArmourPiercerBox: {
+		DisplayName: 破甲弹药箱
+		Tooltip:
+			'''
+			长按以部署，部署完成后手持枪械右击弹药箱，让特种弹药填装枪械弹匣
+			特种弹药可以和原来的子弹效果叠加
+			给弹药镀上一层钨金，增加子弹的破甲能力，无视目标75%护甲
+			"即便如此，你仍旧不要尝试用手枪去击毁坦克"
+			'''
+	}
+
+	HighExplosiveBox: {
+		DisplayName: 高爆弹药箱
+		Tooltip:
+			'''
+			长按以部署，部署完成后手持枪械右击弹药箱，让特种弹药填装枪械弹匣
+			特种弹药可以和原来的子弹效果叠加
+			让弹头变成高爆炸弹，子弹击中目标时发射剧烈的爆炸
+			"把它们全部炸飞！"
+			'''
+	}
+
+	DragonBreathBox: {
+		DisplayName: 龙息弹药箱
+		Tooltip:
+			'''
+			长按以部署，部署完成后手持枪械右击弹药箱，让特种弹药填装枪械弹匣
+			特种弹药可以和原来的子弹效果叠加
+			魔法与科技的结合，子弹击中目标后会爆发出一道金属射流，对大范围的敌人造成杀伤
+			"这是那条龙的唾液，你愿意相信吗？"
+			'''
+	}
+
+	AvalancheM60: {
+		DisplayName: 雪崩 M60
+		Tooltip:
+			'''
+			使用雪球作为弹药
+			发射大量雪球，火力随着弹药减少而变强
+			每开火20次进入一次超频爆发，制造一次小型的雪崩
+			"电次，我们来打雪仗吧"
+			'''
+	}
+
+	CrystalDimming: {
+		DisplayName: 冰河时代
+		Tooltip:
+			'''
+			使用雪球作为弹药
+			发射极寒冰雹和雪球，冰晶在撞击墙壁后会高速反弹，然后追踪敌人
+			每开火20次进入一次超频爆发，在鼠标处生成一个巨大的冰柱
+			'''
+	}
+
+	DarkFrostSolstice: {
+		DisplayName: 凛冬神性
+		Tooltip:
+			'''
+			使用雪球作为弹药
+			发射冰雹和极地幽火，攻击有概率冻住敌人
+			每开火20次进入一次超频爆发，在鼠标处生成一个巨大的冰柱
+			'''
+	}
+
+	SnowQuay: {
+		DisplayName: 雪蝰
+		Tooltip:
+			'''
+			使用雪球作为弹药
+			一把大口径雪炮，发射冰雪混合炮弹
+			'''
+	}
+
+	NeutronGlaive: {
+		DisplayName: 黑域斩切
+		Tooltip:
+			'''
+			挥舞将发射强大的引力波剑气，击中目标后生成一次中子星爆炸
+			右键持剑蓄力，蓄力完成后松开可以在光标处引发一次大型的中子星爆炸
+			蓄力未完成松开则会让能量倾泻而出
+			'''
+	}
+
+	NeutronBow: {
+		DisplayName: 洛希之弦
+		Tooltip:
+			'''
+			发射重力箭矢，击中目标后生成数道伽马射线
+			右键进行三级蓄力，蓄满能量后将发射三发强大的引力箭矢
+			'''
+		Lang1: 正在捕获重力
+		Lang2: 正在使重力屈服
+		Lang3: 就绪!!
+	}
+
+	NeutronGun: {
+		DisplayName: 恒星猎手
+		Tooltip:
+			'''
+			发射重力弹丸，击中目标后生成翘曲点
+			右键切换为狙击形态，发射更为强大引力子弹，引力子弹击中目标后将让数道伽马射线降落
+			每次开火都会给枪械充能，充能满格后再次开火会在鼠标处引发一次中子星爆炸
+			"把太阳射下来!"
+			'''
+	}
+
+	NeutronWand: {
+		DisplayName: 星墓之光
+		Tooltip:
+			'''
+			发射四颗强大引力星星
+			右键在鼠标处施展重力魔法
+			"传说在远古时期，有一位强大的灵能者用这根法杖将恒星压缩成了黑洞，
+			但已经无从考证，成为星际游牧者口中吟唱的残诗"
+			'''
+	}
+
+	FadingGlory: {
+		DisplayName: 残怨
+		Tooltip:
+			'''
+			真近战击中目标，如果目标是有机体，将会治疗玩家，如果目标是无机体，将会释放大量火花
+			非真近战时将会主动发射剑刃，击中目标后额外生成追踪的孤魂切并在爆炸时释放出一条血触手
+			'''
+	}
+
+	NeutronScythe: {
+		DisplayName: 黑洞使者
+		Tooltip:
+			'''
+			镰刀会向敌人发射伽马射线，并在飞行途中留下数个翘曲点
+			潜伏攻击会丢出一圈镰刀
+			'''
+	}
+
+	RebelBlade: {
+		DisplayName: 叛逆之刃
+		Tooltip:
+			'''
+			真近战会在目标周围生成大量恶魔光球
+			右键操控剑刃飞行，并向光标处进行斩切
+			'''
+	}
+
+	MG42: {
+		DisplayName: MG42
+		Tooltip:
+			'''
+			连续射击会让枪管过热
+			将火枪子弹转化为穿甲弹
+			'''
+	}
+
+	DragonsWord: {
+		DisplayName: 龙言
+		Tooltip:
+			'''
+			发射龙泪，自旋一段时间后追踪敌人
+			右键在光标处施展龙令魔法，对范围内的敌人下达死亡的命令
+			"龙一生只能流一次泪"
+			'''
+	}
+
+	SnowQuayMK2: {
+		DisplayName: 雪蝰MK2
+		Tooltip:
+			'''
+			使用雪球作为弹药
+			一把大口径雪炮，发射冰雪混合炮弹
+			开火不再需要预热
+			'''
+	}
+
+	HghExplosiveBox: {
+		DisplayName: 高爆弹药箱
+		Tooltip:
+			'''
+			长按以部署，部署完成后手持枪械右击弹药箱，让特种弹药填装枪械弹匣
+			特种弹药可以和原来的子弹效果叠加
+			弹头将包含高爆炸药，击中目标时制造一次小型爆炸
+			"把他们都炸上天!"
+			'''
+	}
+
+	JusticeUnveiled: {
+		DisplayName: 正义的显现
+		Tooltip:
+			'''
+			远程攻击有概率召唤正义的一击
+			巨大的神圣冲击将击溃敌人
+			"如果正义被需要的话，不管何处我都会前往"
+			'''
+	}
+
+	WeaverGrievances: {
+		DisplayName: 纠缠之怨
+		Tooltip:
+			'''
+			释放大量怨灵之爪，在地狱、地牢环境中拥有特殊效果
+			右键向光标方向翻滚，翻滚过程中撞击到敌人会给予玩家无敌帧
+			近距离翻滚将视为一次完美闪避
+			[legend]
+			'''
+		Legend:
+			'''
+			恒古不变的地牢横亘大地，其墙壁刻满古战士的铭文与嘶喊。每一块砖石都渗透凝滞的怨念，宛如亡魂的锁链，将其困缚于时间尽头的无尽黑夜。  
+			这些战士曾是君王的利刃，为其征战四方。他们的剑光曾照亮无数战场，鲜血浇筑泰拉的巍峨。他们的忠诚如星辰恒久，信念如铁石坚不可摧。
+			然而，当战争终结，魔君的旗帜在君王脚下撕裂，和平降临的瞬间，君王却下令将他们投入黑暗深渊。  
+			“吾辈未曾背叛，君王却叛于我！”怨灵的哀号撕裂虚空，贯穿亘古的寂静。他们的英灵未能归于尘土，而是被囚于虚无深渊，成为永夜的见证者。
+			那些不休的哭喊化作无声的指控，刺向星界的尽头。  
+			传言，君王因恐惧他们的忠诚与怒火，听从魔君术士的低语，选择将这些战士化为历史的阴影。
+			可怨念如潮，扭曲了地牢的现实。他们的痛苦撼动时空屏障，编织出复仇的预言：  
+			“魔君终将归来，虚空将被撕裂，吾辈怒焰将焚尽一切！”  
+			当泰拉再度面临覆灭的危机，这些亡灵将从黑暗中崛起。他们的剑将不再为泰拉的荣耀而战，而是为了审判背叛者。  
+			荣耀与忠诚早已湮灭，复仇的烈焰终将吞噬一切。
+			'''
+	}
+
+	Starship: {
+		DisplayName: 群星巨舰
+		Tooltip: ""
+	}
+
+	SandDagger: {
+		DisplayName: 潜沙匕首
+		Tooltip:
+			'''
+			投掷到沙地上会在一段时间后跳到空中爆炸
+			潜伏攻击会投掷出强化匕首
+			'''
+	}
+
+	UnderTheSand: {
+		DisplayName: 沙之下
+		Tooltip: 生成几个沙球
+	}
+
+	WastelandFang: {
+		DisplayName: 荒芜牙猎
+		Tooltip:
+			'''
+			与物块发生反弹，并加速收回
+			会张开嘴吐出几团沙球
+			'''
+	}
+
+	Flawless: {
+		DisplayName: 化境
+		Tooltip: ""
+	}
+
+	MelodyTheSand: {
+		DisplayName: 沙中曲
+		Tooltip: 抛射一片沙刺，受重力影响并穿透敌人
+	}
+
+	SandVortexOfTheDecayedSea: {
+		DisplayName: 腐海沙涡
+		Tooltip:
+			'''
+			呕出数颗蒸硫球
+			"呕吐大师"
+			'''
+	}
+
+	SeasonalKunai: {
+		DisplayName: 季节苦无
+		Tooltip:
+			'''
+			丢出三枚追踪敌人的苦无
+			潜伏攻击会掷出大型苦无，在飞行轨迹末尾分裂
+			"映射四季"
+			'''
+	}
+
+	WraithKunai: {
+		DisplayName: 幽魂苦无
+		Tooltip:
+			'''
+			丢出三枚追踪敌人的苦无
+			潜伏攻击会生成一片悬停在玩家周围的幽灵匕首
+			'''
+	}
+
+	CalSelfPortrait: {
+		DisplayName: 被遗忘的照片
+		Tooltip:
+			'''
+			一张被遗忘的照片
+			[legend]
+			'''
+		Legend: 你还想看什么呢？:)
+	}
+
+	WUTIVSelfPortrait: {
+		DisplayName: 谢谢你雾梯
+		Tooltip: ""
+	}
+
+	HandmadeDoll: {
+		DisplayName: 手工缝制玩偶
+		Tooltip:
+			'''
+			在地狱使用以召唤血肉之墙
+			如果向导存活，则使用时会被献祭
+			"纯手工制作，向导并不知情"
+			'''
+	}
+
+	Snowblindness: {
+		DisplayName: 雪盲症
+		Tooltip:
+			'''
+			高频率发射雪球和极寒射线
+			命中敌人后在四周生成数道EX极寒射线
+			"迷失在暴雪中，永恒的等待，痛苦地图，弯道超车，
+			冻裂的镜片，干涸的血迹，红色的冰，哭泣的海狸，冰中人影"
+			'''
+	}
+
+	WhiplashGalactica: {
+		DisplayName: 银河鞭挞
+		Tooltip:
+			'''
+			{$CommonItemTooltip.Whips}
+			击中敌人后进行死亡标记，并发射宇宙火球
+			"那条宇宙巨蛇的脊柱，充盈着宇宙能量，引导着宇宙的怒火"
+			'''
+	}
+
+	FocusingGrimoire: {
+		DisplayName: 聚能魔典
+		Tooltip:
+			'''
+			左键发射追踪的热能环
+			右键快速发射死亡射线
+			"一本更比六本强"
+			'''
+	}
+
+	CommandersStaff: {
+		DisplayName: 统帅之杖
+		Tooltip:
+			'''
+			发射一道热能分解射线穿透敌人
+			"从那台机械的手臂上拆下来的，试试用灵能代替柴油供能?"
+			'''
+	}
+
+	RaiderGun: {
+		DisplayName: 突袭者
+		Tooltip:
+			'''
+			将火枪子弹转化为高速子弹
+			右键可以翻滚冲刺，并将弹匣填满
+			翻滚后的第一发子弹会被转化为毁灭者榴弹
+			"非常适合用于室内人质解救"
+			'''
+	}
+
+	HyperionBarrage: {
+		DisplayName: 海伯利昂自动炮
+		Tooltip:
+			'''
+			发射热射巡航弹
+			"物尽其用"
+			'''
+	}
+
+	RaiderGunEX: {
+		DisplayName: 突袭者EX
+		Tooltip:
+			'''
+			将火枪子弹转化为高速子弹
+			额外发射大量毁灭者归航弹
+			"狂轰滥炸"
+			'''
+	}
+
+	CommandersChainsaw: {
+		DisplayName: 统帅链锯
+		Tooltip:
+			'''
+			击中目标时生成火花
+			"多加点柴油"
+			'''
+	}
+
+	GeminisTribute: {
+		DisplayName: 双生礼赞
+		Tooltip:
+			'''
+			投掷出一把快速来回切割的镰刀
+			潜伏攻击会生成大量毁灭者巡航弹
+			'''
+	}
+
+	Dicoria: {
+		DisplayName: 重瞳
+		Tooltip:
+			'''
+			发射双发子弹，射击可以蓄力
+			蓄力满后会发射一道热能射线
+			'''
+	}
+
+	GeminisTributeEX: {
+		DisplayName: 双生礼赞EX
+		Tooltip:
+			'''
+			投掷出一把快速来回切割的镰刀
+			击中敌人后会生成两把额外的伴生之镰
+			'''
+	}
+
+	DestroyersBlade: {
+		DisplayName: 毁灭者之刃
+		Tooltip:
+			'''
+			发射热能弹幕
+			"永无止境!"
+			'''
+	}
+
+	Observer: {
+		DisplayName: 观察者
+		Tooltip: '''"它还在盯着你"'''
+	}
+
+	StaffoftheDestroyer: {
+		DisplayName: 毁灭者召唤杖
+		Tooltip:
+			'''
+			召唤一条微型毁灭者为你而战
+			召唤栏上限越高毁灭者越强
+			'''
+	}
+
+	ForgedLash: {
+		DisplayName: 锻钢之鞭
+		Tooltip: ""
+	}
+
+	CommandersClaw: {
+		DisplayName: 统帅之钳
+		Tooltip: ""
+	}
+
+	DraedonsRemote: {
+		DisplayName: 嘉登遥控器
+		Tooltip:
+			'''
+			召唤EX机械三王
+			只能在夜晚使用
+			'''
+	}
+
+	CommandersStaffEX: {
+		DisplayName: 统帅之杖EX
+		Tooltip:
+			'''
+			发射多道扩散的热能射线
+			"适合切割金属"
+			'''
+	}
+
+	CommandersChainsawEX: {
+		DisplayName: 统帅链锯EX
+		Tooltip: '''"切碎挡在你面前的一切"'''
+	}
+
+	ForgedLashEX: {
+		DisplayName: 锻钢之鞭EX
+		Tooltip: ""
+	}
+
+	SoulofFrightEX: {
+		DisplayName: 恐惧之魂EX
+		Tooltip:
+			'''
+			浓缩的恐惧之力在其中跃动  
+			在机械暴乱中击败叛乱机械以获取
+			'''
+	}
+
+	SoulofMightEX: {
+		DisplayName: 力量之魂EX
+		Tooltip:
+			'''
+			浓缩的毁灭之力在其中跃动  
+			在机械暴乱中击败叛乱机械以获取
+			'''
+	}
+
+	SoulofSightEX: {
+		DisplayName: 视域之魂EX
+		Tooltip:
+			'''
+			浓缩的智慧之力在其中跃动  
+			在机械暴乱中击败叛乱机械以获取
+			'''
+	}
+
+	DestroyersBladeEX: {
+		DisplayName: 毁灭者之刃EX
+		Tooltip:
+			'''
+			发射热能弹幕
+			"摧毁永远比建造容易"
+			'''
+	}
+
+	ThermalGenerator: {
+		DisplayName: 火力发电机
+		Tooltip:
+			'''
+			放入燃料进行发电
+			右键物块可以快速放入燃料，Shft右键取出
+			[UEValue]
+			'''
+	}
+
+	ThermalBattery: {
+		DisplayName: 热能电池
+		Tooltip: "[UEValue]"
+	}
+
+	WindGrivenGenerator: {
+		DisplayName: 风力发电机
+		Tooltip: "[UEValue]"
+		UnderstandWindGriven: 需要对风力发电的工作原理有初步的了解
+		UnderstandWindGriven2: 需要在小行星上采掘破旧的风力机来了解它们的制作原理
+	}
+
+	WindGrivenGeneratorMK2: {
+		DisplayName: 风力发电机MK2
+		Tooltip: "[UEValue]"
+		UnderstandWindGrivenMK2: 需要对风力发电的工作原理有深入的了解
+		UnderstandWindGrivenMK2Remind: 需要挖掘小行星上的巨型风力涡轮机来了解它们的制作原理
+	}
+
+	ThermalGeneratorMK2: {
+		DisplayName: 火力发电机MK2
+		Tooltip:
+			'''
+			放入燃料进行发电
+			右键物块可以快速放入燃料，Shft右键取出
+			[UEValue]
+			'''
+	}
+
+	WGGMK2Wilderness: {
+		DisplayName: 荒野中的巨型风力发电机
+		Tooltip: ""
+	}
+
+	WGGWilderness: {
+		DisplayName: 荒野中的风力发电机
+		Tooltip: ""
+	}
+
+	MedicalBox: {
+		DisplayName: 医疗补给箱
+		Tooltip:
+			'''
+			长按部署至地面
+			右键部署后的医疗箱可以治疗自己
+			'''
+	}
+
+	TeslaElectromagneticTower: {
+		DisplayName: 特斯拉电磁塔
+		Tooltip:
+			'''
+			需要电能才能工作
+			放置到地面后右键可以在攻击模式和护卫模式之间切换
+			攻击模式会向附近的敌人发射电弧
+			护卫模式会对范围内的所有敌人造成带电减益，如果玩家在范围内，
+			并手持可充能物品，电磁塔将发射电弧为玩家远程充能
+			"工程师请勿靠近"
+			[UEValue]
+			'''
+	}
+
+	EmblemOfDread: {
+		DisplayName: 惧亡者之证
+		Tooltip:
+			'''
+			增加100%近战伤害
+			增加100%近战暴击率
+			增加100%近战攻速
+			增加100点防御值，无视全部防御衰减
+			受到的伤害减少75%，并让攻击者受到100倍的反弹伤害
+			所有近战攻击将对敌人造成虚空侵蚀减益
+			如果敌人的血量低于25万，真近战攻击将有可能直接抹杀敌人
+			高速移动时会在路径上留下数个翘曲点，对接触到的敌人造成极高伤害
+			获得重力突刺的能力，双击方向键进行超长距离突刺，并释放出大量引力射线
+			如果受到了致死攻击，将立刻回复满血量并给予你一个重力护盾，该效果具有60秒冷却
+			敌人将更容易以你为目标
+			[c/d94fff:"圣洁的天使覆上了你的双眸，呢喃着永恒的甜蜜谎言"]
+			[c/ff4d4d:"浴血的屠夫执起了你的双刃，宣告着杀戮方能成就荣耀"]
+			[c/4da6ff:"湛蓝的信鸽啄破了你的额心，讥笑着你那微不足道的挣扎"]
+			'''
+	}
+
+	ElectricMinRocket: {
+		DisplayName: 电动迷你火箭
+		Tooltip:
+			'''
+			放置在地上后右键可以启动飞行
+			在空中按住左右键可以调整飞行方向
+			[UEValue]
+			'''
+	}
+
+	UEPipeline: {
+		DisplayName: 能量输入管道
+		Tooltip:
+			'''
+			用于传输电能
+			右键可快速拆除目标位置的管道并回收
+			连接发电机等能量来源，将电能传输至电池或其他用电设备
+			[UEValue]
+			'''
+	}
+
+	UEPipelineInput: {
+		DisplayName: 能量抽取管道
+		Tooltip:
+			'''
+			用于传输电能
+			右键可快速拆除目标位置的管道并回收
+			从电池等储能设备中抽取电能，输送至用电设备
+			[UEValue]
+			'''
+	}
+
+	EnergySword: {
+		DisplayName: 能量剑
+		Tooltip:
+			'''
+			消耗能量发射激光，穿透多个敌人
+			"利用率并不高"
+			'''
+	}
+
+	LaserPistol: {
+		DisplayName: 镭射手枪
+		Tooltip:
+			'''
+			消耗能量发射激光，穿透多个敌人
+			"利用率并不高"
+			'''
+	}
+}
+
+Projectiles: {
+	MurasamaHeld.DisplayName: 分子斩切
+	MuraTriggerDash.DisplayName: 分子斩切
+	MuraBreakerSlash.DisplayName: 升龙半月
+	MuraExecutionCut.DisplayName: 次元斩-终
+	MuraExecutionCutOnSpan.DisplayName: 次元斩-始
+	MuraGroundSmash.DisplayName: 落樱
+	EndSkillEffectStart.DisplayName: 次元斩-始
+	EndSkillMakeDamage.DisplayName: 次元斩-终
+	RebelBladeFlyAttcke.DisplayName: 叛逆之刃
+	RebelBladeOrb.DisplayName: 恶魔光球
+	RebelBladeBack.DisplayName: 叛逆之刃
+	RebelBladeSlash.DisplayName: 叛逆之刃
+	DevilsDevastationHeld.DisplayName: 魔王刃
+	EXDemonBlast.DisplayName: 欢愉之戟
+	EXOathblade.DisplayName: 痛苦之轮回
+	EXDemonBlastAlt.DisplayName: 绯红魔王戟
+	// DivineJustice.DisplayName: Divine Justice
+	// JusticeUnveiledExplode.DisplayName: Justice Unveiled Explode
+	// JUZenithWorldTime.DisplayName: J U Zenith World Time
+	// DecayedSeaOrb.DisplayName: Decayed Sea Orb
+	// SaltationSend.DisplayName: Saltation Send
+	// SandThorn.DisplayName: Sand Thorn
+	// BansheeHookHeldAlt.DisplayName: Banshee Hook Held Alt
+	// EarthenPikeAlt.DisplayName: Earthen Pike Alt
+	// EntropicClaymoreProj.DisplayName: Entropic Claymore Proj
+	// EXOathblade2.DisplayName: EX Oathblade2
+	// FlawlessHeld.DisplayName: Flawless Held
+	// WastelandFangProj.DisplayName: Wasteland Fang Proj
+	// WeaverBeam.DisplayName: Weaver Beam
+	// WeaverExplode.DisplayName: Weaver Explode
+	// WeaverGrievancesHurmp.DisplayName: Weaver Grievances Hurmp
+	// GuardOfLife.DisplayName: Guard Of Life
+	// GuardOfLifeCore.DisplayName: Guard Of Life Core
+	// RageKillerImpact.DisplayName: Rage Killer Impact
+	// SolsticeHomeBeam.DisplayName: Solstice Home Beam
+	// SoulSearchScythe.DisplayName: Soul Search Scythe
+	// StarshipAmmo.DisplayName: Starship Ammo
+	// SandDaggerThrow.DisplayName: Sand Dagger Throw
+	// SeasonalKunaiProj.DisplayName: Seasonal Kunai Proj
+	// SeasonalKunaiThrowable.DisplayName: Seasonal Kunai Throwable
+	// WraithKunaiProj.DisplayName: Wraith Kunai Proj
+	// WraithKunaiThrowable.DisplayName: Wraith Kunai Throwable
+	// PowerSoundEgg.DisplayName: Power Sound Egg
+	// PhaseEnergySphere.DisplayName: Phase Energy Sphere
+	// PhaseLaser.DisplayName: Phase Laser
+	// ArmourPiercerBoxProj.DisplayName: Armour Piercer Box Proj
+	// ArmourPiercerHeld.DisplayName: Armour Piercer Held
+	// DragonBreathBoxProj.DisplayName: Dragon Breath Box Proj
+	// DragonBreathHeld.DisplayName: Dragon Breath Held
+	// HghExplosiveHeld.DisplayName: Hgh Explosive Held
+	// HghExplosiveProj.DisplayName: Hgh Explosive Proj
+	// NapalmBombBox.DisplayName: Napalm Bomb Box
+	// NapalmBombHeld.DisplayName: Napalm Bomb Held
+	// SuccessfullyDeployedEffct.DisplayName: Successfully Deployed Effct
+	// Fireball.DisplayName: Fireball
+	// Laser.DisplayName: Laser
+	// DeadLaser.DisplayName: Dead Laser
+	// Mechanicalworm.DisplayName: Mechanicalworm
+	// PrimeCannonOnSpan.DisplayName: Prime Cannon On Span
+	// Probe.DisplayName: Probe
+	// RocketSkeleton.DisplayName: Rocket Skeleton
+	// SetPosingStarm.DisplayName: Set Posing Starm
+	// Hit.DisplayName: Hit
+	// SpwanTextProj.DisplayName: Spwan Text Proj
+	// AetherOrb.DisplayName: Aether Orb
+	// AethersWhisperOnSpan.DisplayName: Aethers Whisper On Span
+	// DragonsWordCut.DisplayName: Dragons Word Cut
+	// DragonsWordMouse.DisplayName: Dragons Word Mouse
+	// DragonsWordProj.DisplayName: Dragons Word Proj
+	// EtherRoarHeldProj.DisplayName: Ether Roar Held Proj
+	// EtherRoarOnSpan.DisplayName: Ether Roar On Span
+	// EtherRoarOrb.DisplayName: Ether Roar Orb
+	// EtherRoarOrb2.DisplayName: Ether Roar Orb2
+	// FateCluster.DisplayName: Fate Cluster
+	// HatredFire.DisplayName: Hatred Fire
+	// MagicStar.DisplayName: Magic Star
+	// NeutronMagchStar.DisplayName: Neutron Magch Star
+	// NeutronWandExplode.DisplayName: Neutron Wand Explode
+	// PhaseBlasting.DisplayName: Phase Blasting
+	// WaningMoonLight.DisplayName: Waning Moon Light
+	// AbominateHookScythe.DisplayName: Abominate Hook Scythe
+	// AbominateSpirit.DisplayName: Abominate Spirit
+	// AegisBladeGuardian.DisplayName: Aegis Blade Guardian
+	// AirBomb.DisplayName: Air Bomb
+	// AnarchyBeam.DisplayName: Anarchy Beam
+	// AstralBall.DisplayName: Astral Ball
+	// AstralPikeBeam.DisplayName: Astral Pike Beam
+	// BalefulBall.DisplayName: Baleful Ball
+	// BalefulSickle.DisplayName: Baleful Sickle
+	// BlazingFireball.DisplayName: Blazing Fireball
+	// BrimstoneSwordBall.DisplayName: Brimstone Sword Ball
+	// BrinyBaronOrb.DisplayName: Briny Baron Orb
+	// DarkIceBomb.DisplayName: Dark Ice Bomb
+	// DawnshatterEndOrb.DisplayName: Dawnshatter End Orb
+	// DawnshatterEndOrb2.DisplayName: Dawnshatter End Orb2
+	// MakeDamage.DisplayName: Make Damage
+	// TheDaybreak.DisplayName: The Daybreak
+	// TheDaybreak2.DisplayName: The Daybreak2
+	// TheDaybreak3.DisplayName: The Daybreak3
+	// TheEndSun.DisplayName: The End Sun
+	// DeathLaserSpwan.DisplayName: Death Laser Spwan
+	// DeathLaser.DisplayName: Death Laser
+	// DivineSourceBeam.DisplayName: Divine Source Beam
+	// DivineSourceBladeProjectile.DisplayName: Divine Source Blade Projectile
+	// DragonRageFireOrb.DisplayName: Dragon Rage Fire Orb
+	// DragonsScaleGreatswordBeam.DisplayName: Dragons Scale Greatsword Beam
+	// SporeCloud.DisplayName: Spore Cloud
+	// EarthenBall.DisplayName: Earthen Ball
+	// MeleeFossilShard.DisplayName: Melee Fossil Shard
+	// EnforcerFlame.DisplayName: Enforcer Flame
+	// ExcelsusBomb.DisplayName: Excelsus Bomb
+	// Feathers.DisplayName: Feathers
+	// BalefulHarvesterHeldThrow.DisplayName: Baleful Harvester Held Throw
+	// DeathsAscensionBreakSwing.DisplayName: Deaths Ascension Break Swing
+	// DeathsAscensionThrowable.DisplayName: Deaths Ascension Throwable
+	// GiantBansheeScythe.DisplayName: Giant Banshee Scythe
+	// LifehuntScytheThrowable.DisplayName: Lifehunt Scythe Throwable
+	// WraithBeam.DisplayName: Wraith Beam
+	// HolyColliderExFire.DisplayName: Holy Collider Ex Fire
+	// HyperBlade.DisplayName: Hyper Blade
+	// JudgementBeam.DisplayName: Judgement Beam
+	// EXNeutronExplode.DisplayName: EX Neutron Explode
+	// NeutronExplode.DisplayName: Neutron Explode
+	// NeutronGlaiveBeam.DisplayName: Neutron Glaive Beam
+	// NeutronGlaiveHeldAlt.DisplayName: Neutron Glaive Held Alt
+	// NeutronsOrb.DisplayName: Neutrons Orb
+	// OrderbringerGuardian.DisplayName: Orderbringer Guardian
+	// OrderbringerWhiteOrbs.DisplayName: Orderbringer White Orbs
+	// PercussionCosmicSpiritBomb.DisplayName: Percussion Cosmic Spirit Bomb
+	// EXGauntlet.DisplayName: EX Gauntlet
+	// GauntletDerive.DisplayName: Gauntlet Derive
+	// GauntletInAltShoot.DisplayName: Gauntlet In Alt Shoot
+	// GouldBee.DisplayName: Gould Bee
+	// PlagueBee.DisplayName: Plague Bee
+	// PlagueBeeWave.DisplayName: Plague Bee Wave
+	// FadingGloryBeam.DisplayName: Fading Glory Beam
+	// FadingGloryRapier.DisplayName: Fading Glory Rapier
+	// GladiusBeam.DisplayName: Gladius Beam
+	// GladiusRapier.DisplayName: Gladius Rapier
+	// GrandGuardianBeam.DisplayName: Grand Guardian Beam
+	// GrandGuardianRapier.DisplayName: Grand Guardian Rapier
+	// LucreciaRapier.DisplayName: Lucrecia Rapier
+	// MajesticGuardBeam.DisplayName: Majestic Guard Beam
+	// MajesticGuardRapier.DisplayName: Majestic Guard Rapier
+	// MirrorBladeRapier.DisplayName: Mirror Blade Rapier
+	// SemberDarkMasterClone.DisplayName: Sember Dark Master Clone
+	// TheDarkMasterRapier.DisplayName: The Dark Master Rapier
+	// RulingPrism.DisplayName: Ruling Prism
+	// RulingPrismCore.DisplayName: Ruling Prism Core
+	// SickleLife.DisplayName: Sickle Life
+	// SoulSeekerSkull.DisplayName: Soul Seeker Skull
+	// SoulSeeker.DisplayName: Soul Seeker
+	// LigSpark.DisplayName: Lig Spark
+	// SparkBall.DisplayName: Spark Ball
+	// SparkLightning.DisplayName: Spark Lightning
+	// SpiritFlame.DisplayName: Spirit Flame
+	// StellarStrikerBeam.DisplayName: Stellar Striker Beam
+	// StormArc.DisplayName: Storm Arc
+	// StormLightning.DisplayName: Storm Lightning
+	// SunlightBlades.DisplayName: Sunlight Blades
+	// TerrorExplode.DisplayName: Terror Explode
+	// AcidEtchedTearDrop.DisplayName: Acid Etched Tear Drop
+	// AnimosityOnSpan.DisplayName: Animosity On Span
+	// CelestialDevourer.DisplayName: Celestial Devourer
+	// CelestialObliterationArrow.DisplayName: Celestial Obliteration Arrow
+	// CosmicEddies.DisplayName: Cosmic Eddies
+	// DivineDevourerIllusionBody.DisplayName: Divine Devourer Illusion Body
+	// DivineDevourerIllusionHead.DisplayName: Divine Devourer Illusion Head
+	// DivineDevourerIllusionTail.DisplayName: Divine Devourer Illusion Tail
+	// ArcNovaDiffuserOnSpan.DisplayName: Arc Nova Diffuser On Span
+	// BarracudaProj.DisplayName: Barracuda Proj
+	// BarrenOrb.DisplayName: Barren Orb
+	// BloodVerdict.DisplayName: Blood Verdict
+	// BMGBullet.DisplayName: BMG Bullet
+	// BMGFIRE.DisplayName: BMGFIRE
+	// BMGFIRE2.DisplayName: BMGFIRE2
+	// Crystal.DisplayName: Crystal
+	// CursedDartRemake.DisplayName: Cursed Dart Remake
+	// DeadArrow.DisplayName: Dead Arrow
+	// DeadWave.DisplayName: Dead Wave
+	// DeepSeaSharks.DisplayName: Deep Sea Sharks
+	// EarthRocketOnSpan.DisplayName: Earth Rocket On Span
+	// ElectrosphereLauncherOrb.DisplayName: Electrosphere Launcher Orb
+	// EnergyBlast.DisplayName: Energy Blast
+	// EnergyBlast2.DisplayName: Energy Blast2
+	// ExtremeColdHail.DisplayName: Extreme Cold Hail
+	// FetidEmesisOnSpan.DisplayName: Fetid Emesis On Span
+	// GraniteBullet.DisplayName: Granite Bullet
+	// GunCasing.DisplayName: Gun Casing
+	// HeavenLightning.DisplayName: Heaven Lightning
+	// InfiniteArrow.DisplayName: Infinite Arrow
+	// InfiniteRune.DisplayName: Infinite Rune
+	// ParadiseArrow.DisplayName: Paradise Arrow
+	// VientianePunishment.DisplayName: Vientiane Punishment
+	// MonsoonOnSpan.DisplayName: Monsoon On Span
+	// IceOrb.DisplayName: Ice Orb
+	// IceParclose.DisplayName: Ice Parclose
+	// IceSoulOrb.DisplayName: Ice Soul Orb
+	// LostSoulBullet.DisplayName: Lost Soul Bullet
+	// MarbleBullet.DisplayName: Marble Bullet
+	// EXNeutronArrow.DisplayName: EX Neutron Arrow
+	// EXNeutronExplosionRanged.DisplayName: EX Neutron Explosion Ranged
+	// NeutronArrow.DisplayName: Neutron Arrow
+	// NeutronExplosionRanged.DisplayName: Neutron Explosion Ranged
+	// NeutronLaser.DisplayName: Neutron Laser
+	// NeutronBullet.DisplayName: Neutron Bullet
+	// NurgleArrow.DisplayName: Nurgle Arrow
+	// NurgleBee.DisplayName: Nurgle Bee
+	// NurgleSoul.DisplayName: Nurgle Soul
+	// NurgleTheOfBall.DisplayName: Nurgle The Of Ball
+	// PlanetaryArrow.DisplayName: Planetary Arrow
+	// RVoidTentacle.DisplayName: R Void Tentacle
+	// SandnadoOnSpan.DisplayName: Sandnado On Span
+	// SepticSkewerProj.DisplayName: Septic Skewer Proj
+	// SniperRifleOnSpan.DisplayName: Sniper Rifle On Span
+	// SnowQuayBall.DisplayName: Snow Quay Ball
+	// SporeBombOnSpan.DisplayName: Spore Bomb On Span
+	// SporeBombs.DisplayName: Spore Bombs
+	// StakeHmmod.DisplayName: Stake Hmmod
+	// TarragonArrow.DisplayName: Tarragon Arrow
+	// TarragonArrowOnSpan.DisplayName: Tarragon Arrow On Span
+	// TheArrowPunishment.DisplayName: The Arrow Punishment
+	// TheCurseArchdemon.DisplayName: The Curse Archdemon
+	// TheMaelstromSharkOnSpan.DisplayName: The Maelstrom Shark On Span
+	// TheMaelstromTheArrow.DisplayName: The Maelstrom The Arrow
+	// Tornado.DisplayName: Tornado
+	// TorrentialBullet.DisplayName: Torrential Bullet
+	// TsunamiOnSpan.DisplayName: Tsunami On Span
+	// TungstenBulletProj.DisplayName: Tungsten Bullet Proj
+	// TyphoonOnSpan.DisplayName: Typhoon On Span
+	// VoidragonOrb.DisplayName: Voidragon Orb
+	// XenopopperProj.DisplayName: Xenopopper Proj
+	// CosmicCalamityProjectile.DisplayName: Cosmic Calamity Projectile
+	// CosmicCalamityRay.DisplayName: Cosmic Calamity Ray
+	// FrostcrushValariHeld.DisplayName: Frostcrush Valari Held
+	// NeutronScytheHeld.DisplayName: Neutron Scythe Held
+	// EnchantedBoomerangHeld.DisplayName: Enchanted Boomerang Held
+	// FlamarangHeld.DisplayName: Flamarang Held
+	// ShroomerangHeld.DisplayName: Shroomerang Held
+	// SpearHeld.DisplayName: Spear Held
+	// WoodenBoomerangHeld.DisplayName: Wooden Boomerang Held
+	// Godslight.DisplayName: Godslight
+	// LonginusHeld.DisplayName: Longinus Held
+	// LonginusThrow.DisplayName: Longinus Throw
+	// PilgrimsFury.DisplayName: Pilgrims Fury
+	// RWaveSkipperProjectile.DisplayName: R Wave Skipper Projectile
+	// Spindrift.DisplayName: Spindrift
+	// BloodBall.DisplayName: Blood Ball
+	// BloodBlast.DisplayName: Blood Blast
+	// BloodflareSouls.DisplayName: Bloodflare Souls
+	// CosmicFire.DisplayName: Cosmic Fire
+	// GhostFires.DisplayName: Ghost Fires
+	// Ieaf.DisplayName: Ieaf
+	// AllhallowsGoldWhipProjectile.DisplayName: Allhallows Gold Whip Projectile
+	// ATrail.DisplayName: A Trail
+	// AzureDragonRageProjectile.DisplayName: Azure Dragon Rage Projectile
+	// BleedingScourgeProjectile.DisplayName: Bleeding Scourge Projectile
+	// ElementWhipProjectile.DisplayName: Element Whip Projectile
+	// GhostFireWhipProjectile.DisplayName: Ghost Fire Whip Projectile
+	// WhiplashGalacticaProjectile.DisplayName: Whiplash Galactica Projectile
+	// WTrail.DisplayName: W Trail
+	// InfiniteEnmgs.DisplayName: Infinite Enmgs
+	// InfiniteIngotTileProj.DisplayName: Infinite Ingot Tile Proj
+	// InfinitePickProj.DisplayName: Infinite Pick Proj
+	// SpanDMBall.DisplayName: Span D M Ball
+	// DeathSickleThrowable.DisplayName: Death Sickle Throwable
+	// CrossPrediction.DisplayName: Cross Prediction
+	// BloodAmmoBolt.DisplayName: Blood Ammo Bolt
+	// VulcaniteFire.DisplayName: Vulcanite Fire
+	// EssencePlunder.DisplayName: Essence Plunder
+	// EssenceEnergy.DisplayName: Essence Energy
+	// PowerCoil.DisplayName: Power Coil
+	// IceExplosionFriend.DisplayName: Ice Explosion Friend
+	// CommandersRay.DisplayName: Commanders Ray
+	// WeaverGrievancesDash.DisplayName: Weaver Grievances Dash
+	// RaiderGunDash.DisplayName: Raider Gun Dash
+	// DestroyerGrenade.DisplayName: Destroyer Grenade
+	// PunisherGrenade.DisplayName: Punisher Grenade
+	// HyperionBarrageHeld.DisplayName: Hyperion Barrage Held
+	// PrimeCannonOnSpanFriendly.DisplayName: Prime Cannon On Span Friendly
+	// RocketSkeletonFriendly.DisplayName: Rocket Skeleton Friendly
+	// GeminisTributeHeld.DisplayName: Geminis Tribute Held
+	// GeminisTributeAlt.DisplayName: Geminis Tribute Alt
+	// GeminisTributeEXHeld.DisplayName: Geminis Tribute EX Held
+	// PunisherGrenadeRogue.DisplayName: Punisher Grenade Rogue
+	// DicoriaRay.DisplayName: Dicoria Ray
+	// EarlierSwordHeld.DisplayName: Earlier Sword Held
+	// DestroyersBeam.DisplayName: Destroyers Beam
+	// DestroyerBody.DisplayName: Destroyer Body
+	// DestroyerHead.DisplayName: Destroyer Head
+	// DestroyerTail.DisplayName: Destroyer Tail
+	// ForgedLashProjectile.DisplayName: Forged Lash Projectile
+	// CommandersClawThrow.DisplayName: Commanders Claw Throw
+	// NeutronExplosionRogue.DisplayName: Neutron Explosion Rogue
+	// PhasebladeHeld.DisplayName: Phaseblade Held
+	// ForgedLasEXhProjectile.DisplayName: Forged Las EXh Projectile
+	// ForgedLasOrb.DisplayName: Forged Las Orb
+	// DraedonsRemoteSpawn.DisplayName: Draedons Remote Spawn
+	// MedicalBoxHeld.DisplayName: Medical Box Held
+	// MedicalBoxProj.DisplayName: Medical Box Proj
+	// TeslaBall.DisplayName: Tesla Ball
+	// TeslaBallByAttack.DisplayName: Tesla Ball By Attack
+	// TeslaBallByGuard.DisplayName: Tesla Ball By Guard
+	// ElectricMinRocketHeld.DisplayName: Electric Min Rocket Held
+	// BananarangHeld.DisplayName: Bananarang Held
+	// IceBoomerangHeld.DisplayName: Ice Boomerang Held
+	// TrimarangHeld.DisplayName: Trimarang Held
+	// TheGravityShield.DisplayName: The Gravity Shield
+	// WarpingPoint.DisplayName: Warping Point
+	// EmblemOfDreadDashProj.DisplayName: Emblem Of Dread Dash Proj
+}
+
+Configs: {
+	CWRServerConfig: {
+		DisplayName: 内容设置
+
+		WeaponOverhaul: {
+			Label: 武器大修
+			Tooltip:
+				'''
+				启用后会修改大部分的武器
+				[c/FF0000:如果您希望可以最优化的体验灾厄大修的内容，请开启它！]
+				'''
+		}
+
+		WeaponEnhancementSystem: {
+			Label: 是否启用传奇武器内容
+			Tooltip:
+				'''
+				如果开启，一些武器将重新获得传奇称号，这会影响其获取难度
+				传奇武器会随阶段的推进变得强大
+				关闭此项可以禁用此内容
+				'''
+		}
+
+		ScreenVibration: {
+			Label: 武器特殊攻击屏幕振动效果
+			Tooltip: 如果开启，在进行一些攻击时会让屏幕发生振动，这或许可以让打击感更加强烈
+		}
+
+		MurasamaSpaceFragmentationBool: {
+			Label: 鬼妖村正终结技碎屏效果
+			Tooltip:
+				'''
+				默认开启，鬼妖村正进行终结技时会制造屏幕破碎的特效用于增强打击感
+				如果关闭便会禁用这些特效，可以根据您的喜好设置
+				'''
+		}
+
+		Headers: {
+			CWRSystem: 大修系统设置
+			CWRWeapon: 大修武器设置
+			CWRUI: 大修UI设置
+		}
+
+		LensEasing: {
+			Label: 镜头缓动
+			Tooltip: 启用后，长距离快速位移会让镜头具有缓动，这避免了移动过快所带来的违和感
+		}
+
+		CartridgeUI_Offset_X_Value: {
+			Label: 弹匣UI横向偏离值
+			Tooltip: ""
+		}
+
+		CartridgeUI_Offset_Y_Value: {
+			Label: 弹匣UI纵向偏离值
+			Tooltip: ""
+		}
+
+		WeaponHandheldDisplay: {
+			Label: 武器手持显示
+			Tooltip:
+				'''
+				开启后，多数武器会拥有手持动画和特殊使用动作
+				这个效果的优先级非常高，会覆盖掉绝大多数第三方模组的手持动画
+				默认开启，并且出于视觉体验考虑，作者不建议关闭
+				如果您是在游戏中途更改该配置，则一些效果需要重新加载模组后才能改变
+				'''
+		}
+
+		ActivateGunRecoil: {
+			Label: 枪械后坐力[c/06e33f:(实验性)]
+			Tooltip: 开启后，枪械开火会具有后坐力效果，禁用以关闭这些效果
+		}
+
+		MagazineSystem: {
+			Label: 弹匣系统
+			Tooltip:
+				'''
+				一个庞大的内容系统，开启后绝大多数枪械会拥有弹匣机制，包括换弹、混装弹药等玩法
+				关闭将禁用这些内容，枪械将使用原版的弹药机制
+				[c/fff08c:值得注意的是]，大修的游戏平衡是在[c/fff08c:开启了弹匣系统]的基础上调整的
+				如果您选择关闭，可能会让一些远程武器变得[c/de0808:过分强大]
+				因此，如果关闭此项功能，[c/de0808:远程武器的游戏平衡将不再具有讨论意义]
+				[c/fff08c:如果更改了该选项，请重新进入世界以保证所有效果正确变动]
+				'''
+		}
+
+		BowArrowDraw: {
+			Label: 绘制弓弦箭矢
+			Tooltip:
+				'''
+				玩家使用弓类进行攻击时，会实时绘制出对应的箭矢动画
+				默认开启，可以根据个人喜好进行设置
+				'''
+		}
+
+		EnableCasingsEntity: {
+			Label: 启用弹壳实体
+			Tooltip: 如果觉得滚动一地的弹壳很碍眼，关掉这个选项将是一个好主意
+		}
+
+		LoadingAA_Volume: {
+			Label: 枪械换弹音效音量系数
+			Tooltip: 值越大声音越明显，1为原音量
+		}
+
+		ShotgunFireForcedReloadInterruption: {
+			Label: 霰弹枪开火强制打断子弹装填[c/06e33f:(实验性)]
+			Tooltip:
+				'''
+				小部分的霰弹枪类拥有这个特性，在装填子弹时，如果玩家试图开火将打断装填动作
+				这个选项如果开启，将令所有霰弹枪武器具备该特性
+				'''
+		}
+
+		BiologyOverhaul: {
+			Label: 生物大修[c/06e33f:(实验性)]
+			Tooltip:
+				'''
+				[c/c20909:未完成]
+				默认开启，会修改一些生物的AI行为，比如死亡模组下的BossAI
+				这可能会让游戏的挑战性剧增，可以根据个人喜好选择是否关闭
+				'''
+		}
+
+		EnableSwordLight: {
+			Label: 启用刀光
+			Tooltip:
+				'''
+				默认开启，许多刀剑类武器将会拥有炫彩亮丽的刀光
+				在绝大多数情况下，这会让游戏变得更酷
+				'''
+		}
+
+		MuraUIStyleType: {
+			Label: 鬼妖村正UI样式选择
+			Tooltip:
+				'''
+				样式1:精致-悬浮于头顶
+				样式2:精致-紧凑
+				样式3:经典-悬浮于头顶
+				样式4:经典-紧凑
+				样式5:隐蔽
+				'''
+		}
+
+		MuraPosStyleType: {
+			Label: 鬼妖村正UI位置选择
+			Tooltip:
+				'''
+				预设1:右下
+				预设2:左下
+				预设3:居高
+				'''
+		}
+
+		ShowReloadingProgressUI: {
+			Label: 显示装弹进度
+			Tooltip: 开启后会让弹药装填的进度被显示出来
+		}
+	}
+}
+
+Buffs: {
+	SoulBurning: {
+		DisplayName: 灵魂火
+		Description: 来自地狱的火焰
+	}
+
+	HellburnBuff: {
+		DisplayName: 地狱炎爆
+		Description: 来自地狱的火焰
+	}
+
+	VoidErosion: {
+		DisplayName: 虚空侵蚀
+		Description: 逐渐化为虚无
+	}
+
+	DestroyerSummonBuff: {
+		DisplayName: 毁灭者
+		Description: 迷你毁灭者会跟随你征战
+	}
+
+	FrenziedMachineSoul: {
+		DisplayName: 狂热机魂
+		Description: 机魂大悦!
+	}
+}
+
+Keybinds: {
+	HeavenfallLongbowSkillKey.DisplayName: 天堂陨落长弓:万象审判
+	InfinitePickSkillKey.DisplayName: 无尽之镐:形态切换
+	TOM_OneClickP.DisplayName: 欧米茄合成:一键摆放
+	TOM_QuickFetch.DisplayName: 欧米茄合成:快速拿取
+	TOM_GatheringItem.DisplayName: 欧米茄合成:聚拢物品
+	TOM_GlobalRecall.DisplayName: 欧米茄合成:全部收回
+	Murasama_TriggerKey.DisplayName: 鬼妖村正:扳机键
+	Murasama_DownKey.DisplayName: 鬼妖村正:下砸
+	ADS_Key.DisplayName: 打开瞄准镜
+	KreLoad_Key.DisplayName: 换弹
+}
+
+TextContent: {
+	CWRLocText: {
+		TemperatureText: 燃烧温度
+		EnergyShortage: 电力不足
+		ChargingStation_Text1: 放入充能物品
+		ChargingStation_Text2: 放入电池
+		ChargingStation_Text3: 需要放入能够接收能量的物品
+		ChargingStation_Text4: 需要放入电池
+		WindGriven_Text1: 你觉得这种随风而动的机械很有趣，寻思自己也得整几个...
+		WindGriven_Text2: 你被这种巨大的机械震撼到了，你觉得自己也该尝试制作一个...
+		Turret_Text1: 电量耗尽
+		Turret_Text2: 发现入侵者!
+		IndustrializationGenMessage: 正在让世界工业化
+		InternalStoredEnergy: 能量存储
+		KreloadTimeAddText: 弹药装填时间增加
+		KreloadTimeLessenText: 弹药装填时间减少
+		DeathModeItem: 死亡模式
+		DontUseMagicConch: 你被一个强大的生物盯住了...
+		OnlyZenith: 仅在天顶世界
+		Event_TungstenRiot_Name: 钨钢暴乱
+		Event_TungstenRiot_Text_1: 大量钨钢生物正在入侵!
+		Event_TungstenRiot_Text_2: 钨钢军团已被击退!
+		Item_LegendOnMouseLang: 按下[Shift]聆听故事...
+		BloodAltar_Text1: 深红的注视正在降临...
+		BloodAltar_Text2: 你身上的血珠不够向深红之王进行朝贡...
+		BloodAltar_Text3: 陷入了无尽的血与肉的狂想
+		VoidDamageNameText: 虚无伤害
+		Drop_Hell_RuleText: 在地狱击败后掉落
+		Drop_GlodDragonDrop_RuleText: 当丛林巨龙被二次击败后掉落
+		Murasama_Text_Lang_0: 试炼:
+		Murasama_Text_Lang_End: 已通过
+		Murasama_TextDictionary_Content_0:
+			'''
+			新兵，向我证明你自己
+			那个黏糊糊的蓝胖子，沙海之下的海妖余孽，蘑菇洞里面的僵尸蟹
+			解决他们中的一个，这是你的第一步
+			'''
+		Murasama_TextDictionary_Content_1:
+			'''
+			夜月当空，让我们去戳爆那颗在空中乱飞的大眼球，让那个伪神彻底变成瞎子
+			沙海在振动，去那下面一探究竟，然后解决那个大牡蛎
+			'''
+		Murasama_TextDictionary_Content_2:
+			'''
+			伪神的残躯玷污着泰拉的大地，异端在世界尽头滋生，异形在大陆上横行
+			去解放被腐化的大陆，砍碎那坨伪神的大脑，剁碎那条紫色蠕虫！
+			我要看到你的刀在异形的血肉中飞舞!
+			'''
+		Murasama_TextDictionary_Content_3:
+			'''
+			腐化的大地还在像心脏一样颤动，血肉的寄生者还在活动，腐化的肿瘤仍旧在思考，去将他们彻底放逐！
+			地牢门口的诅咒已经松动，我感觉到灵能在深牢中蠢动，夹杂着惨叫、哀嚎、低语...
+			'''
+		Murasama_TextDictionary_Content_4:
+			'''
+			史莱姆王国流传着一个传说，它们有一个堕落的异神，
+			祂现在正处于虚弱状态，正是将其放逐回亚空间的好机会
+			'''
+		Murasama_TextDictionary_Content_5:
+			'''
+			臻冰壁垒中的监狱，那里关押着一个强大的灵能者，释放他，他会成为我们收复泰拉的一大助力
+			硫磺之海的弃儿阻挡了我们探寻深渊的宝藏，去终结它的吞噬和游荡
+			我怀念硫火之崖的火焰淬炼，去会会那儿的守护者吧
+			'''
+		Murasama_TextDictionary_Content_6:
+			'''
+			那个投入混沌的女巫，她有一个畸变的克隆姊妹，杀了那个异形，以血和火焰祭刀
+			魅惑的歌声从海边传来，那是塞壬的族人，让我们取下海妖的首级，在海上建立功业
+			愚蠢的蜥蜴族只会信奉这些冥顽不灵的石头，让我们把它斩为齑粉，摧毁他们的信仰，我们才是它们应该供奉的
+			'''
+		Murasama_TextDictionary_Content_7:
+			'''
+			血肉交织的躯壳，古战场含恨的冤魂，不休止毁灭的魔像，它毁灭万物，而我们毁灭它
+			丛林中，某人以前的拙劣作品还在游荡，作为失败品，它理应像一堆废铁一样
+			昔日的星神早已陨落，如今所剩的不过堪堪一条蛆虫，让我们彻底结束星神的时代
+			'''
+		Murasama_TextDictionary_Content_8:
+			'''
+			那个机械教异端的拙劣仿造物、愚蠢的克隆体，在丛林里游荡，消灭它
+			地底出现了另一个太阳，它似乎想把这种神圣的火焰通过神圣之地带到地表，
+			驱逐它的使徒，泰拉只允许一种信仰之火的存在
+			'''
+		Murasama_TextDictionary_Content_9:
+			'''
+			靠吸食恒星热能苟延残喘的可怜神明，它的异端之火需要彻底熄灭
+			迅游在天空边缘掠食飞龙的风暴之虫，有着不错的装甲外壳
+			在地牢被封印住的维度裂隙，或许是获取暗物质的好途径
+			来自亚空间的异教使徒，它携带着罕见的扭曲虚空，这是我们理解亚空间本质的好机会
+			'''
+		Murasama_TextDictionary_Content_10:
+			'''
+			那条傲慢的宇宙巨蟒在世界的帷幕后蠢蠢欲动，终结他的野望
+			硫磺之海中潜伏着的最古老的怪物随着那阵灵能风暴而苏醒，让它成为我们荣耀的一环
+			'''
+		Murasama_TextDictionary_Content_11:
+			'''
+			丛林巨龙，泰拉大陆仅存的金源龙裔，与其他异形迥然不同，它值得我们的尊重
+			然而，眼下我们却需让它再次赴死，剥夺其身上的金源魄
+			这些材料将被用来打造出一套无比上乘的装备
+			'''
+		Murasama_TextDictionary_Content_12:
+			'''
+			那个机械教会的异端，他笃信自己所创造的星流泰坦胜过神明之力
+			这种信念荒谬至极，让我们将那几台泰坦归还自然的状态 —— 一堆废铁
+			曾拥有出色灵能天赋的女巫，本应成为守护泰拉的一大助力，却早已迷失于混沌之中
+			我们唯有将她放逐，将刀锋刺入她的胸膛，让忠诚之火焚尽她腐朽的灵魂
+			'''
+		Murasama_TextDictionary_Content_13:
+			'''
+			我们的征服之路早已不可阻挡，破碎那黑渊之下妖龙的铠甲
+			使用那终焉之石，与异形展开最终决战
+			'''
+		Murasama_TextDictionary_Content_14:
+			'''
+			好样的，新兵，这个世界上的异形邪祟已被我们一扫而空
+			我们的征途已经攀登至巅峰，就连那曾经统治泰拉的暴君也不及我们万一
+			现在，展开你的双臂，拥抱这个由胜利带给你的世界
+			'''
+		Murasama_No_legend_Content_1: 刀鞘将在巨龙陨落后解锁
+		Murasama_No_legend_Content_2: 新兵，我认可你的能力，现在，让我们去斩碎那帮异形
+		Murasama_No_legend_Content_3: "[c/fff08c:随着旅途的遥远而变强]"
+		Murasama_No_legend_Content_4: "[c/00707d:传奇的光辉已经暗淡...]"
+		SHPC_No_legend_Content_1: 巨龙陨落后解锁使用
+		SHPC_No_legend_Content_2: 蓄势待发!
+		SHPC_No_legend_Content_3: "[c/fff08c:随着旅途的遥远而变强]"
+		SHPC_No_legend_Content_4: "[c/00707d:传奇的光辉已经暗淡...]"
+		SHPC_TextDictionary_Content_0:
+			'''
+			朋友，复兴文明的任务终于落在了我两手上，这是一件光荣的事情...
+			我们的第一个目标是一坨蓝色的凝胶聚合物，它非常的巨大，把它从内部轰开
+			'''
+		SHPC_TextDictionary_Content_1:
+			'''
+			我们需要干掉那只大眼球，它来自一个强大的生命体
+			我需要解剖它，看看它是如何实现反重力的
+			'''
+		SHPC_TextDictionary_Content_2:
+			'''
+			丛林的蜂巢变得非常焦躁，蜂俑即将孵化
+			我迫切需要研究它的变性过程，去看看吧
+			'''
+		SHPC_TextDictionary_Content_3:
+			'''
+			巨大的骨头能漂浮在空中，这非常的不科学
+			我们需要前往世界尽头的深牢
+			'''
+		SHPC_TextDictionary_Content_4:
+			'''
+			大地颤动，齿轮轰鸣，电流涌动
+			有一堆机器人在等着我们，是时候让它们见识一下科技的力量了
+			'''
+		SHPC_TextDictionary_Content_5:
+			'''
+			丛林地下有几朵妖艳的大花苞已经盛开
+			我们需要去看看，收集一些实验资料
+			'''
+		SHPC_TextDictionary_Content_6:
+			'''
+			神庙深处的远古机器人等待着一次充能启动
+			让我们去拜访一下，顺带逆向出远古科技
+			'''
+		SHPC_TextDictionary_Content_7:
+			'''
+			月亮背面的秘密将被我们知晓
+			世界将回到原来的样子
+			'''
+		SHPC_TextDictionary_Content_8:
+			'''
+			寄生在地核中的神明注意到了我们
+			去地狱看看，我需要热能利用的知识
+			'''
+		SHPC_TextDictionary_Content_9:
+			'''
+			地牢的怨灵聚集起来了，它们组成了一个庞大的共生体
+			这太有趣了，我们现在就得去看看
+			'''
+		SHPC_TextDictionary_Content_10:
+			'''
+			可以确定它不是碳基生命，仅靠身体就能撕开空间膜
+			它吞噬神明，但我们不是神，我想它会请我们喝茶的
+			'''
+		SHPC_TextDictionary_Content_11:
+			'''
+			世界上仅存的龙裔，哇这太酷了！
+			带我去看看，我要得到它的羽毛
+			'''
+		SHPC_TextDictionary_Content_12:
+			'''
+			是时候拜访我的造物主了
+			或者那个女巫，她的存在让我感到困扰
+			'''
+		SHPC_TextDictionary_Content_13:
+			'''
+			大混战！曾经被我们击败过的敌人联合了起来，准备向我们发起总攻
+			做好准备，我们需要一次完美的胜利
+			'''
+		SHPC_TextDictionary_Content_14: HMOI-0001协议已解锁
+		Halibut_No_legend_Content_1: 在巨龙陨落后解锁
+		Halibut_No_legend_Content_2: 老兄，我一直在这里
+		Halibut_No_legend_Content_3: "[c/fff08c:随着旅途的遥远而变强]"
+		Halibut_No_legend_Content_4: "[c/00707d:传奇的光辉已经暗淡...]"
+		Halibut_TextDictionary_Content_0: 朋友，让我们去挑战一下那个巨大的黏糊糊的陆地生物
+		Halibut_TextDictionary_Content_1: 有一个大眼睛直盯着我们看，这很不礼貌，我们需要去教训教训它
+		Halibut_TextDictionary_Content_2: 生机盎然的地方不只有深渊，还有丛林，朋友，我们需要去拜访一下哪里的蜜蜂头头
+		Halibut_TextDictionary_Content_3:
+			'''
+			被诅咒的不化白骨，我们需要让它彻底安息
+			来自地狱的求救越发频繁，我们需要尽快启程，我想向导兄弟不会介意的
+			'''
+		Halibut_TextDictionary_Content_4:
+			'''
+			你知道无机物是怎么动起来的吗，我曾经制造过一个巨大的水下机器，它可以发射由泡泡组成的导弹，
+			以及数不清的热核聚变鱼雷，我曾经用它来捕猎生活在海底10000米下的巨型生物，直到我遇到了...
+			哦说偏了——我想，一会儿会有四个机械朋友来拜访我们，我们需要做好准备
+			另外，深渊上方被污染的海域里，有一条变异的巨型海虫，它曾经是硫磺海大学的门卫
+			它现在应该还是挺友善的，我们可以去找它喝喝下午茶
+			'''
+		Halibut_TextDictionary_Content_5:
+			'''
+			我喜欢丛林，它简直是我的第二家园，里面充斥这生命的能量，
+			不弱于深渊底层，不过我们需要先找办法释放它们，
+			还记得那些地下的巨型花苞吗，去摘下它们，这助于我获得植物学学位
+			'''
+		Halibut_TextDictionary_Content_6:
+			'''
+			我喜欢考古发掘，上次在丛林里面转悠的时候我看到了一个巨大的遗迹
+			我们现在应该有打开那扇遗迹之门的钥匙，去看看吧，
+			里面有一台巨大的远古机械等待我们给它塞电池，就像空调遥控器那样
+			除此之外，地表还散布着一种外星瘟疫，能够感染大地和绝大多数的无机物，
+			每到夜晚会有一台痛苦的采矿机器在徘徊，它以被感染许久，让我们给它一个解脱
+			'''
+		Halibut_TextDictionary_Content_7:
+			'''
+			你知道月球背面的秘密吗，哪里有一只大章鱼，还有一块海绵和海星...
+			哦，我是说，月亮的危机将会降临
+			'''
+		Halibut_TextDictionary_Content_8:
+			'''
+			现在又到了太阳危机了，一个强大的能量体从太阳的背面逃到了这颗星球的地核之中，
+			我们需要一直往下，找到它，然后给它洗一个冷水澡
+			'''
+		Halibut_TextDictionary_Content_9:
+			'''
+			古战场的无数不屈之魂现在聚集了起来，它们藏在地牢的深处，并且现在十分的躁动。
+			我们可以去哪里击杀一些落单的冤魂，这可能会让亚空间的小型风暴提前到来，但也能引出它们
+			'''
+		Halibut_TextDictionary_Content_10:
+			'''
+			有一类生物在太空中诞生并成长，它们的身躯能承受强大的宇宙辐射和天体级的能量
+			在很早以前我们遇到过一只，而现在，我们要面对它们中间的佼佼者，一个号称吞噬过神明的家伙
+			'''
+		Halibut_TextDictionary_Content_11: 丛林的温度最近有所上升，我想是那条强大的龙回来了
+		Halibut_TextDictionary_Content_12:
+			'''
+			我们将要面对无机造物的巅峰，它们有着强大的火力与防御。
+			此外，硫磺火的祭坛似乎可以召唤些什么
+			'''
+		Halibut_TextDictionary_Content_13:
+			'''
+			在深渊里面有一块特殊的石头，使用它来面对最终的战役
+			还有一头强大的海洋生物，它摧毁了我的机器，让我们去找它复仇
+			'''
+		Halibut_TextDictionary_Content_14: 老实说，我想回海里一趟
+		CWRRecipes_ApostolicRelics: 使徒遗物
+		CWRRecipes_GodEaterWeapon: 噬神者武器
+		CWRRecipes_FishGroup: 鱼
+		LoadItemRecipe_Condition_Text1: 背包中需要存在一本大修宝典
+		Murasama_Text0: 已解锁
+		Murasama_Text1: 未解锁 需要通过试炼2
+		Murasama_Text2: 未解锁 需要通过试炼5
+		Murasama_Text3: 未解锁 需要通过试炼9
+		MouseTextContactPanel_TextContent: 按下[KEY]切换终焉合成配方预览状态
+		CWRItem_IsRemakeItem_TextContent: -大修-
+		OnEnterWorld_TextContent: 个武器重置已经装载
+		OnEnterWorld_TextContent2:
+			'''
+			检测到您安装了[更好的体验]，但您的[更好的体验]版本过旧
+			为了保证游戏正常运行，请保证[更好的体验]版本不低于1.7.1.7
+			'''
+		CaseEjection_TextContent: 空弹
+		CaseEjection_TextContent_Coin: 没有钱币
+		CaseEjection_TextContent_Arrow: 没有箭矢
+		SupertableUI_Text1: 关闭
+		SupertableUI_Text2: 查看配方
+		SupertableUI_Text3: 无
+		OverhaulTheBibleUI_Text:
+			'''
+			滑动鼠标滚轮或者拖动左侧进度条，上下浏览被重置过的物品
+			这些仅作为参考，因为许多局部改动并不会出现在这个名单中
+			'''
+		OverhaulTheBibleUI_Text1: 监视战士
+		OverhaulTheBibleUI_Text2: 监视射手
+		OverhaulTheBibleUI_Text3: 监视法师
+		OverhaulTheBibleUI_Text4: 监视召唤师
+		OverhaulTheBibleUI_Text5: 监视盗贼
+		CartridgeHolderUI_Text1: 弹匣填充内容
+		CartridgeHolderUI_Text2: 剩余
+		CartridgeHolderUI_Text3: 空
+		CartridgeHolderUI_Text4: 右键卸弹
+		CartridgeHolderUI_Text5: 左键点击全部装填，右键点击装填入一颗
+		CartridgeHolderUI_Text6: 该武器不能使用此弹药!
+		CartridgeHolderUI_Text7: 弹匣已满!
+		ArrowHolderUI_Text0: 左键点击标记箭矢
+		ArrowHolderUI_Text1: 右键点击取消标记
+		SupertableUI_Text4: 关闭摆放监视
+		SupertableUI_Text5: 开启摆放监视
+		AmmoBox_Text: 已到达部署上限
+		AmmoBox_Text2: 正在部署
+		AmmoBox_Text3: 已部署
+		HellfireExplosion_DeadLang_Text: 在地狱的烈火中化为灰烬
+		SoulfireExplosion_DeadLang_Text: 的灵魂在火焰中升华
+		SupMUI_OneClick_Text1: 快捷放置材料
+		SupMUI_OneClick_Text2: 快捷拿取材料
+		TemporaryVersion_Text:
+			'''
+			[CalamityOverhaul-[V1]]:
+			当前版本为临时性版本，用于适配新版本，仅能保证最基本的游玩体验，直到在[V2]版本到来
+			更新较为仓促，所以仍可能存在一些明显的错误
+			如果您在游玩过程中发现问题，请在Github上向模组提交issue
+			或者前往模组创意工坊Feedback on Issues反馈帖中指出问题，开发者会快速反应并修复
+			'''
+		MS_Config_Text:
+			'''
+			检测到您安装了 [Magic Storage Mod]，为了解决冲突问题，建议将模组配置中的 [Recursion Crafting Depth] 设置为 0
+			该设置为递归合成，在与本模组交互时，会错误的调用所有合成事件导致严重影响游玩体验
+			'''
+		IconUI_Text0: 前往模组的开源库 :)
+		IconUI_Text1: 问题反馈
+		IconUI_Text2: 致谢名单
+		IconUI_Text3: 画师
+		IconUI_Text4: 代码援助
+		IconUI_Text5: 捐赠者
+		IconUI_Text6: 平衡测试
+		IconUI_Text7: 查看日志
+		IconUI_Text8: 模组维基
+		SPU_Text0: 在
+		SPU_Text1: 进行终焉合成
+		SPU_Text2: 合成获得：
+		Spazmatism_Text1: EUX_001部署成功，行为写入:协同PCZ_001终结目标
+		Spazmatism_Text2: EUX_002部署成功，行为写入:协同PCZ_001终结目标
+		Spazmatism_Text3: EUX_001主结构受损，尝试从战场撤离...
+		Spazmatism_Text4: EUX_002主结构受损，尝试从战场撤离...
+		Spazmatism_Text5: 目标已被终结
+		Spazmatism_Text6: 正在撤离...
+		Spazmatism_Text7: 任务失败，尝试从战场撤离...
+		Spazmatism_Text8: 已经部署
+		Error_1:
+			'''
+			个钩子失效了，为了游戏正常，请关闭游戏并重新进入，
+			如果这仍旧没有恢复正常，请带上导出的日志寻找模组开发者
+			'''
+		Error_2:
+			'''
+			检测到异常，服务器正在尝试实时重载物块系统，
+			这可能会造成短暂的卡顿和数秒钟的网络延迟，属于正常情况
+			'''
+		Config_1: 用户
+		Config_2: 修改了服务端配置
+		CWRGun_KL_Text: 按下[KL]键进行换弹
+		CWRGun_Scope_Text: 按下[Scope]开镜
+		CWRGun_Recoil_Text: "[Recoil]后坐力"
+		CWRGun_MustCA_Text: 开火必定消耗弹药
+		CWRGun_Recoil_Level_0: 无
+		CWRGun_Recoil_Level_1: 微弱的
+		CWRGun_Recoil_Level_2: 较弱的
+		CWRGun_Recoil_Level_3: 一般的
+		CWRGun_Recoil_Level_4: 较强的
+		CWRGun_Recoil_Level_5: 疯狂的
+		CWRGun_Recoil_Level_6: 荒诞的
+		SkeletronPrime_Text: 别妄图用这愚蠢的东西杀死我!去死吧有机体!
+		MachineRebellion_SpawnInfo: 在夜晚使用嘉登遥控器
+		MachineRebellion_DespawnMessage: 在夜晚使用嘉登遥控器
+		MachineRebellion_DisplayName: 机械暴乱
+	}
+}
+
+Biomes: {
+	TungstenBiome: {
+		DisplayName: 钨钢暴乱
+		TownNPCDialogueName: 钨钢生物群系
+	}
+}
+
+Legend: {
+	HalibutText: {
+		Greeting0: 我喜欢深渊里面的气氛，那些巨型生物其实很友好，它们只是很胆小、很怕生、很邪恶...
+		Greeting1: 啊，欢迎！看到我戴着单片眼镜和高礼帽，不必惊讶，我可是硫磺海大学的博士，大比目鱼教授！知识与风度，一个都不能少。
+		Greeting2: 你可能没听说过硫磺海大学，但在那儿，我研究过海洋学和深渊植物学。哦，对了，还在钓鱼比赛上小露了一手，拿了两届冠军。
+		Greeting3: 比目鱼能上大学？当然可以！海底世界藏着太多智慧的角落，别看我现在悠闲地游着，书本可是从来不离身的。
+		Greeting4: 你看这顶礼帽，是不是很精神？其实这是我参加钓鱼大赛时的幸运物。它见证了我两次夺冠的辉煌时刻！
+		Greeting5: 深渊植物学可是门学问，别小看那些漂浮的藻类。它们的故事，就像星空一样深邃。如果你有兴趣，我很乐意分享一点给你听。
+		Greeting6: 哦，作为一条鱼，我可不简单！学术研究、钓鱼比赛、海底冒险……每一件事我都充满热情，就像现在，我很乐意与你聊聊天。
+		Greeting7: 教授的头衔对我来说，可不只是摆设。连鲨鱼都对我的学识赞不绝口！当然，我的礼帽也挺受欢迎的。
+		Greeting8: “知识就是力量”，我始终坚信这一点。不论是考取博士学位，还是在钓鱼比赛上技压群雄，都靠我丰富的脑袋和灵活的鳍！
+		Greeting9: 海底世界广阔无垠，精彩得超乎想象。你若有时间，不妨跟我去看看那些神秘的深海植物，我可以当你的导游！
+		Greeting10: 嘿，有时候，连我也忍不住想：一条比目鱼戴着单片眼镜，谈论海底学问，真的太奇妙了。但知识嘛，谁都能拥有，对吧？
+		Greeting11: 每次看到你们陆地生物的惊讶表情，我都觉得很有趣。海洋的智慧生物可不少，而我，只不过是其中一条稍微“打扮”了一下的鱼而已。
+		Greeting12: 除了研究学问，我还喜欢观察海底的日常生活。那些珊瑚、鱼群、还有偶尔游过的海龟，每一幕都像是自然画卷般美丽。
+		Greeting13: 双冠王的荣誉固然不错，但让我真正骄傲的，是我对知识的热爱。正因为如此，我才能在海底世界留下属于自己的小小传奇！
+
+		FishSkill: {
+			Bass: {
+				Explain: 一种生活在清澈湖水中的鱼，这有一定的研究价值，谢谢你，先生
+				Introduce: 这是比目鱼博士的鲈鱼藏品，如果携带它，比目鱼博士将可以让敌人被海草纠缠
+			}
+
+			Goldfish: {
+				Explain: 这种鱼往往象征这财富，但它本身却不怎么值钱
+				Introduce: 这是比目鱼博士的鲈鱼藏品，如果携带它，比目鱼博士将可以让敌人掉落更多的金钱
+			}
+		}
+	}
+
+	MuraText: {
+		Subtest_Text0: 我们必须去地狱释放光明与黑暗的力量，这会引发亚空间风暴，但我们不得不做，新兵，为征途写下宏伟的一笔!
+		Subtest_Text1: 一个巨大的钢铁蠕虫挡住了我们的征途，将它剁成碎片
+		Subtest_Text2: 我能感觉到两道目光在注视着我们，去解决它们
+		Subtest_Text3:
+			'''
+			一次决战要到来了，那些破铜烂铁计划联合在一起，妄图阻挡我们
+			以刀与血来告诉它们，我们远征的步伐将碾碎一切异形邪祟和憎恶智能
+			'''
+		World_Text0: --上次升级的世界:<{0}>
+	}
+}
+
+# For Language Pack Creators:
+# The keys here were previously in Items. Since EcTypeItem has been removed, all localization keys similar to "ItemNameEcType" have been moved here.
+# The corresponding format is "ItemNameEcType" → "RItemName" or "ItemNameOverride".
+# Apart from the class name change, the DisplayName and Tooltip remain the same as in the previous version.
+# So if you need to migrate your language pack to the new version, simply copy and paste the entries here and update the class names accordingly.
+
+RemakeItems: {
+	HalibutCannonOverride: {
+		DisplayName: 大比目鱼炮
+		Tooltip:
+			'''
+			将火枪子弹转化为海洋弹
+			"瞧瞧这只鱼，端着单片眼镜，头上戴着一顶高礼帽。你信不信它上过大学？"
+			"事实如此，先生，我可是海洋学与深渊植物学科的博士，曾在硫磺海大学钓鱼比赛中称霸两届。
+			这里的比目鱼，不但懂得海底奥秘，还能拿下海洋界的桂冠。"大比目鱼如是说道
+			legend_Text
+			[Lang4]
+			[Text]
+			'''
+	}
+
+	MurasamaOverride: {
+		DisplayName: 鬼妖村正
+		Tooltip:
+			'''
+			右键瞄准并积蓄剑之能量。左键进行真近战攻击击中目标时，将为剑之能量充能。
+			如果周围存在强大的敌人，剑之能量将会缓慢自行充能。
+			当剑之能量蓄满后，按下[KEY1]发射刀身。在刀身飞行过程中，按下左键执行升龙斩击 [Lang1]
+			升龙斩击命中敌人后会为武器1充能。按下[KEY2]消耗1点武器充能值，进行一次下砸攻击 [Lang2]
+			当武器充能值达到最大值10点后，再次用升龙斩击命中敌人将触发终结技  [Lang3]
+			legend_Text
+			[c/ff4500:"如果有链锯剑会更好"]
+			[Lang4]
+			[Text]
+			'''
+	}
+
+	SHPCOverride: {
+		DisplayName: SHPC
+		Tooltip:
+			'''
+			发射会停留在空中并引发巨大爆炸的相位激光球
+			右键发射强大的能量束
+			legend_Text
+			[Lang4]
+			[Text]
+			'''
+	}
+
+	AbyssalTomeRItem: {
+		DisplayName: 深渊之书
+		Tooltip: 释放一个缓慢移动的黑暗能量球
+	}
+
+	AmberStaffRItem: {
+		DisplayName: 琥珀法杖
+		Tooltip: ""
+	}
+
+	AmethystRItem: {
+		DisplayName: 紫晶
+		Tooltip: ""
+	}
+
+	AmethystStaffRItem: {
+		DisplayName: 紫晶法杖
+		Tooltip: ""
+	}
+
+	ApotheosisRItem: {
+		DisplayName: 圣神之像
+		Tooltip:
+			'''
+			释放横跨维度的投影魔法
+			召唤神明之法相
+			'''
+	}
+
+	ApprenticeStaffT3RItem: {
+		DisplayName: 双足翼龙怒气
+		Tooltip: 溅弹防御减少瘴气！
+	}
+
+	AsteroidStaffRItem: {
+		DisplayName: 行星法杖
+		Tooltip: 召唤小行星从天而降
+	}
+
+	AstralachneaStaffRItem: {
+		DisplayName: 星幻蛛法杖
+		Tooltip: 发射一排追踪星幻蛛毒牙
+	}
+
+	AstralStaffRItem: {
+		DisplayName: 幻星法杖
+		Tooltip: 召唤有着大爆炸范围的大水晶从天而降
+	}
+
+	AtlantisRItem: {
+		DisplayName: 亚特兰蒂斯
+		Tooltip: "[GFB]"
+	}
+
+	AuguroftheElementsRItem: {
+		DisplayName: 先兆元素
+		Tooltip: 创造元素触手戳刺你的敌人
+	}
+
+	BatScepterRItem: {
+		DisplayName: 蝙蝠权杖
+		Tooltip: 召唤蝙蝠攻击敌人
+	}
+
+	BiofusilladeRItem: {
+		DisplayName: 生命光流
+		Tooltip: 发射能量集中的生命射线
+	}
+
+	BlizzardStaffRItem: {
+		DisplayName: 暴雪法杖
+		Tooltip: 降落一定范围的冰锥
+	}
+
+	BloodBathRItem: {
+		DisplayName: 血浴
+		Tooltip: 让你的敌人鲜血淋漓
+	}
+
+	BookofSkullsRItem: {
+		DisplayName: 骷髅头法书
+		Tooltip: 射出骷髅头
+	}
+
+	BrimroseStaffRItem: {
+		DisplayName: 硫火玫瑰
+		Tooltip: 发射一束会分裂的硫磺火射线
+	}
+
+	BurningSeaRItem: {
+		DisplayName: 蒸海硫火
+		Tooltip: 发射弹跳硫磺火球，与水接触时会分裂成追踪火球
+	}
+
+	ClamorNoctusRItem: {
+		DisplayName: 星龙破空杖
+		Tooltip:
+			'''
+			召唤暗夜飞龙与繁星从天而降，会附着在敌人和物块上并爆炸
+			“令天幕坠落”
+			'''
+	}
+
+	ClingerStaffRItem: {
+		DisplayName: 爬藤怪法杖
+		Tooltip: 召唤诅咒焰墙
+	}
+
+	ClothiersWrathRItem: {
+		DisplayName: 裁缝之怒
+		Tooltip: 发射三颗暗影焰骷髅
+	}
+
+	CrystalSerpentRItem: {
+		DisplayName: 水晶蛇
+		Tooltip: 射出爆炸水晶弹
+	}
+
+	CrystalStormRItem: {
+		DisplayName: 水晶风暴
+		Tooltip: 召唤速射魔晶碎片
+	}
+
+	CrystalVileShardRItem: {
+		DisplayName: 魔晶碎块
+		Tooltip:
+			'''
+			召唤巨大的水晶尖刺
+			忽略10点敌人防御
+			'''
+	}
+
+	CursedFlamesRItem: {
+		DisplayName: 诅咒焰
+		Tooltip: 召唤邪恶的火球
+	}
+
+	DeathhailStaffRItem: {
+		DisplayName: 死亡冰雹
+		Tooltip:
+			'''
+			释放星云激光从天而降
+			“在你的敌人头顶降下死亡之雨！”
+			'''
+	}
+
+	DeathValleyDusterRItem: {
+		DisplayName: 死亡之尘
+		Tooltip: 丢出一团巨大的粉尘
+	}
+
+	DemonScytheRItem: {
+		DisplayName: 恶魔锄刀
+		Tooltip: 投掷恶魔锄刀
+	}
+
+	DiamondStaffRItem: {
+		DisplayName: 钻石法杖
+		Tooltip: ""
+	}
+
+	DivineRetributionRItem: {
+		DisplayName: 神圣天罚
+		Tooltip: 法师才是盗贼大师，看，我们终于有了个捐赠武器来证明这一点！
+	}
+
+	DownpourRItem: {
+		DisplayName: 水灌
+		Tooltip:
+			'''
+			射出一束爆炸性沙弹，沙弹命中敌怪后会下坠
+			沙弹只会在消失时爆炸
+			'''
+	}
+
+	EidolonStaffRItem: {
+		DisplayName: 冰幻法杖
+		Tooltip: 发射一簇远古之光和一个旋转冰球
+	}
+
+	EldritchTomeRItem: {
+		DisplayName: 诡触之书
+		Tooltip: 释放邪恶的触手攻击敌人
+	}
+
+	EmeraldStaffRItem: {
+		DisplayName: 翡翠法杖
+		Tooltip: ""
+	}
+
+	EternityRItem: {
+		DisplayName: 恒
+		Tooltip:
+			'''
+			向附近敌人施咒，令它们的生命在华丽的炫光中消逝
+			“书内有张小马图片”
+			'''
+	}
+
+	EventHorizonRItem: {
+		DisplayName: 黑洞边缘
+		Tooltip:
+			'''
+			发射一圈追踪敌人的星星
+			星星在击中敌人时会产生黑洞
+			“万物被悉数卷入其中，连光也无法幸免”
+			'''
+	}
+
+	EvergladeSprayRItem: {
+		DisplayName: 常青之气
+		Tooltip: 发射使敌人燃烧的绿色灵液
+	}
+
+	FabstaffRItem: {
+		DisplayName: 绝学法杖
+		Tooltip: 发射一道在接近敌人时会自动分裂的弹射光束
+	}
+
+	FlareBoltRItem: {
+		DisplayName: 火矢
+		Tooltip: 发射缓慢飞行的火矢
+	}
+
+	ForbiddenSunRItem: {
+		DisplayName: 禁忌之阳
+		Tooltip: 投掷一枚火球，命中时发生剧烈爆炸
+	}
+
+	FrigidflashBoltRItem: {
+		DisplayName: 冰火矢
+		Tooltip: 发射缓慢飞行的冰火矢
+	}
+
+	FrostBoltRItem: {
+		DisplayName: 冰矢
+		Tooltip: 发射缓慢飞行的冰矢
+	}
+
+	FrostStaffRItem: {
+		DisplayName: 寒霜法杖
+		Tooltip: 射出寒霜流
+	}
+
+	GleamingMagnoliaRItem: {
+		DisplayName: 烁兰
+		Tooltip: 发射会爆炸分裂成追踪花瓣的闪光花朵
+	}
+
+	GoldenShowerRItem: {
+		DisplayName: 黄金雨
+		Tooltip:
+			'''
+			喷射一阵灵液
+			降低目标的防御力
+			'''
+	}
+
+	HeliumFlashRItem: {
+		DisplayName: 氦闪
+		Tooltip:
+			'''
+			发射挥发性星核，随即引发巨大聚变爆炸
+			“于刹那之间瞥见星海浩瀚之威”
+			'''
+	}
+
+	HellwingStaffRItem: {
+		DisplayName: 狱火蝙蝠杖
+		Tooltip: 发射火蝙蝠
+	}
+
+	HematemesisRItem: {
+		DisplayName: 血涌
+		Tooltip: 自下方召唤血之涌泉
+	}
+
+	HyphaeRodRItem: {
+		DisplayName: 菌杖
+		Tooltip: 在玩家附近召唤孢子球
+	}
+
+	IcicleStaffRItem: {
+		DisplayName: 冰坠法杖
+		Tooltip: 召唤冰柱从天而降
+	}
+
+	IcicleTridentRItem: {
+		DisplayName: 冰锥三叉戟
+		Tooltip: 发射穿透冰柱
+	}
+
+	InfernoForkRItem: {
+		DisplayName: 狱火叉
+		Tooltip: 发射爆炸成熊熊狱火的火光球
+	}
+
+	KeelhaulRItem: {
+		DisplayName: 斥责法杖
+		Tooltip:
+			'''
+			击中敌人时会召唤法力间歇泉
+			“碾碎他们，就像碾碎纸片儿那样！”
+			'''
+	}
+
+	LashesofChaosRItem: {
+		DisplayName: 混乱火鞭
+		Tooltip: “静看着整个世界的燃烧……”
+	}
+
+	LightGodsBrillianceRItem: {
+		DisplayName: 圣神光辉
+		Tooltip: 释放追踪小光球和爆破光球
+	}
+
+	LunarFlareBookRItem: {
+		DisplayName: 月耀
+		Tooltip: 降落月耀球
+	}
+
+	MagnetSphereRItem: {
+		DisplayName: 磁球
+		Tooltip: ""
+	}
+
+	ManaRoseRItem: {
+		DisplayName: 魔法玫瑰
+		Tooltip: 发射会爆炸分裂成花瓣的魔法花朵
+	}
+
+	MeteorStaffRItem: {
+		DisplayName: 流星法杖
+		Tooltip: 降落流星雨
+	}
+
+	MiasmaRItem: {
+		DisplayName: 瘴气
+		Tooltip: 发射一团瘴气云，命中敌人后会减速
+	}
+
+	MistlestormRItem: {
+		DisplayName: 槲叶暴风
+		Tooltip: 发射针叶风暴
+	}
+
+	NettleBurstRItem: {
+		DisplayName: 爆裂藤蔓
+		Tooltip: 忽略10点敌人防御
+	}
+
+	NightsRayRItem: {
+		DisplayName: 永夜射线
+		Tooltip:
+			'''
+			发射纯粹而集中的暗影射线
+			击中敌人时会在其附近产生额外的射线
+			'''
+	}
+
+	NuclearFuryRItem: {
+		DisplayName: 原核之怒
+		Tooltip: 发射高能台风
+	}
+
+	ParasiticSceptorRItem: {
+		DisplayName: 寄生权杖
+		Tooltip: 发射一群会吸附在敌人身上的辐射性水蛭，每只水蛭造成的伤害随时间增加
+	}
+
+	PhantasmalFuryRItem: {
+		DisplayName: 幻象之怒
+		Tooltip: 释放会分裂的幻象球
+	}
+
+	PhotosynthesisRItem: {
+		DisplayName: 光合射线
+		Tooltip:
+			'''
+			发射一条明亮的光束，在命中敌人时转化为能量
+			命中时敌人距离越远生成的能量越多
+			'''
+	}
+
+	PlagueStaffRItem: {
+		DisplayName: 瘟疫法杖
+		Tooltip: 发射4颗密集的瘟疫之牙
+	}
+
+	PlasmaRodRItem: {
+		DisplayName: 等离子射线
+		Tooltip:
+			'''
+			发射一束低伤等离子射线
+			击中物块时会分裂成伤害更高的几束射线
+			直接击中敌人时则会造成暗影焰减益
+			'''
+	}
+
+	PoisonStaffRItem: {
+		DisplayName: 剧毒法杖
+		Tooltip: 射出刺穿多个敌人的毒牙
+	}
+
+	PoseidonRItem: {
+		DisplayName: 波塞冬
+		Tooltip: 释放波塞冬的台风
+	}
+
+	PrimordialAncientRItem: {
+		DisplayName: 始源之遗
+		Tooltip: 丢出一团巨大的粉尘
+	}
+
+	PrimordialEarthRItem: {
+		DisplayName: 始源之尘
+		Tooltip: 丢出一团巨大的粉尘
+	}
+
+	RAcidGun: {
+		DisplayName: 酸液枪
+		Tooltip: 喷出酸液流
+	}
+
+	RAethersWhisper: {
+		DisplayName: 以太之低语
+		Tooltip: 发射会多次分裂的拉德尔灵能冲击，距离越远伤害越高
+	}
+
+	RApoctosisArray: {
+		DisplayName: 凋亡射线
+		Tooltip:
+			'''
+			发射会加速并爆炸的离子冲击波
+			你的魔力值越高，它的威力越大
+			使用星幻注射剂会削减加成幅度
+			'''
+	}
+
+	RazorbladeTyphoonRItem: {
+		DisplayName: 利刃台风
+		Tooltip: 投射出快速移动的剃刀轮
+	}
+
+	RazorpineRItem: {
+		DisplayName: 剃刀松
+		Tooltip: 射出锋利的松针
+	}
+
+	RCryophobia: {
+		DisplayName: 恐寒症
+		Tooltip:
+			'''
+			发射会多次分裂并爆炸成碎片的寒冰冲击波
+			“战栗”
+			'''
+	}
+
+	RecitationoftheBeastRItem: {
+		DisplayName: 狂野复诵
+		Tooltip:
+			'''
+			召唤环绕玩家的狂野之镰
+			随即将它们向光标处发射并追踪敌人
+			'''
+	}
+
+	REffervescence: {
+		DisplayName: 泡沫冲锋枪
+		Tooltip:
+			'''
+			射出一大串泡沫
+			"泡泡!!!!!!!"
+			'''
+	}
+
+	REidolicWail: {
+		DisplayName: 幻妖龙吟
+		Tooltip:
+			'''
+			在光标处生成数道回声波
+			回声波撞到物块后会反弹
+			如果生成位置是实心物块则会转而从枪口发射
+			"且听龙吟"
+			'''
+	}
+
+	RelicofRuinRItem: {
+		DisplayName: 遗迹圣物
+		Tooltip: 放射出一圈沙之刃
+	}
+
+	RFatesReveal: {
+		DisplayName: 命运神启
+		Tooltip: 生成数个哀怨灵火攻击敌人
+	}
+
+	RIonBlaster: {
+		DisplayName: 离子冲击波
+		Tooltip:
+			'''
+			发射会加速并爆炸的离子冲击波
+			你的魔力值越高，它的威力越大
+			使用星幻注射剂会减弱加成幅度
+			'''
+	}
+
+	RLazhar: {
+		DisplayName: 拉扎尔射线
+		Tooltip:
+			'''
+			发射高挥发性聚能太阳光束
+			光束有小概率穿透目标
+			'''
+	}
+
+	RNanoPurge: {
+		DisplayName: 纳米净化
+		Tooltip:
+			'''
+			发射纳米激光弹幕
+			右键进行单发速射
+			'''
+	}
+
+	RougeSlashRItem: {
+		DisplayName: 殷红鞭笞
+		Tooltip: 一次发射3道空气斩
+	}
+
+	RPlasmaRifle: {
+		DisplayName: 等离子步枪
+		Tooltip:
+			'''
+			发射会爆炸的离子射线
+			右键快速发射离子束
+			"看着和等离子没关系"
+			'''
+	}
+
+	RubyStaffRItem: {
+		DisplayName: 红玉法杖
+		Tooltip: ""
+	}
+
+	SandstreamScepterRItem: {
+		DisplayName: 流沙权杖
+		Tooltip:
+			'''
+			发射一束爆炸性的沙碎片，命中敌人后坠落
+			仅当沙碎片消失时才会引发爆炸
+			'''
+	}
+
+	SanguineFlareRItem: {
+		DisplayName: 猩红烈焰
+		Tooltip: 发射一阵从敌人身上吸取生命的猩红火焰
+	}
+
+	SapphireStaffRItem: {
+		DisplayName: 蓝玉法杖
+		Tooltip: ""
+	}
+
+	SeethingDischargeRItem: {
+		DisplayName: 沸腾之火
+		Tooltip: 发射一团硫磺火烈焰
+	}
+
+	SerpentineRItem: {
+		DisplayName: 海蟒咒书
+		Tooltip:
+			'''
+			召唤一条跟随光标移动的海蟒蛇
+			忽略敌人15点防御力
+			'''
+	}
+
+	ShadecrystalBarrageRItem: {
+		DisplayName: 暗晶风暴
+		Tooltip: 发射大量追踪敌人的暗晶碎片
+	}
+
+	ShaderainStaffRItem: {
+		DisplayName: 腐蚀之雨法杖
+		Tooltip: 发射邪恶云和雨滴
+	}
+
+	ShadowbeamStaffRItem: {
+		DisplayName: 暗影束法杖
+		Tooltip: 产生会从墙上弹回的暗影光束
+	}
+
+	ShadowboltStaffRItem: {
+		DisplayName: 影流法杖
+		Tooltip: 弹射的次数越多，穿透的敌人越多，伤害越高
+	}
+
+	SkyGlazeRItem: {
+		DisplayName: 天空之羽
+		Tooltip: 召唤羽毛从天而降，会附着在敌人和物块上并爆炸
+	}
+
+	SlitheringEelsRItem: {
+		DisplayName: 蜿蜒酸鳗
+		Tooltip: 投出魔法酸鳗鱼，其移动时会产生酸液滴
+	}
+
+	SoulDrainRItem: {
+		DisplayName: 夺命杖
+		Tooltip: 吸掉敌人的生命
+	}
+
+	SoulPiercerRItem: {
+		DisplayName: 灵魂穿透者
+		Tooltip: 发射威力强大的光束，首次命中时会生成更多光束
+	}
+
+	SpectreStaffRItem: {
+		DisplayName: 幽灵法杖
+		Tooltip: 召唤亡魂来追杀敌人
+	}
+
+	StaffofEarthRItem: {
+		DisplayName: 大地法杖
+		Tooltip: 召唤强大的巨石
+	}
+
+	StarShowerRItem: {
+		DisplayName: 流星雨
+		Tooltip: 从天空中召唤数个幻星，向光标位置汇聚
+	}
+
+	SubsumingVortexRItem: {
+		DisplayName: 归元漩涡
+		Tooltip:
+			'''
+			左键释放一连串会冲向敌人的漩涡
+			右键在你的前方投射一个偏向光标位置的巨大旋涡
+			当漩涡的附近有敌人时，漩涡会向敌人发射多个快速移动的小漩涡
+			经过足够时间后松开右键会将大漩涡向光标方向释放
+			伤害随手持漩涡时长的增加而增加
+			'''
+	}
+
+	TacticiansTrumpCardRItem: {
+		DisplayName: 战术家的王牌
+		Tooltip:
+			'''
+			发射一道剑气，在击中敌人时对敌人进行电疗
+			“来自未来一位公主的记忆涌上你的心头……”
+			'''
+	}
+
+	TearsofHeavenRItem: {
+		DisplayName: 天堂之泪
+		Tooltip: 发射缓慢移动的神圣光团
+	}
+
+	TeslastaffRItem: {
+		DisplayName: 特斯拉杖
+		Tooltip:
+			'''
+			发射一束精准可控的闪电光束
+			光束的转向速度有限
+			连续命中同一个敌怪会使伤害提升
+			每次命中提升10%伤害，最多提升至500%伤害
+			若未能命中该敌怪则伤害加成会迅速降低
+			'''
+	}
+
+	TheDanceofLightRItem: {
+		DisplayName: 光之舞
+		Tooltip:
+			'''
+			将敌人以光刃弹雨湮灭
+			“炫目闪光过后，一切荡然无存”
+			'''
+	}
+
+	TheWandRItem: {
+		DisplayName: 神杖·暴风灼炎
+		Tooltip: 一杖御万杖
+	}
+
+	ThornBlossomRItem: {
+		DisplayName: 荆棘烁兰
+		Tooltip:
+			'''
+			发射一朵爆炸成追踪花瓣以及致命荆棘的花朵
+			每次发射消耗3点生命值
+			“每朵玫瑰都有刺”
+			'''
+	}
+
+	ThunderStaffRItem: {
+		DisplayName: 霹雳法杖
+		Tooltip: ""
+	}
+
+	TomeofFatesRItem: {
+		DisplayName: 命运之手
+		Tooltip:
+			'''
+			创造元素触手戳刺你的敌人
+			随机产生的红色触手会造成更大的伤害
+			'''
+	}
+
+	TopazStaffRItem: {
+		DisplayName: 黄玉法杖
+		Tooltip: ""
+	}
+
+	TradewindsRItem: {
+		DisplayName: 信风
+		Tooltip:
+			'''
+			发射减速的天之羽
+			右键更换为发射粘性的羽毛
+			"这本书里面粘满了羽毛，你得把羽毛全丢出去才能看到上面的法术"
+			'''
+	}
+
+	UltraLiquidatorRItem: {
+		DisplayName: 终结裂空戟
+		Tooltip: 召唤终结三叉戟，击中敌人时产生更多三叉戟
+	}
+
+	UndinesRetributionRItem: {
+		DisplayName: 深渊女神之复仇
+		Tooltip: 召唤一群追踪矛
+	}
+
+	UnholyTridentRItem: {
+		DisplayName: 邪恶三叉戟
+		Tooltip: 召唤恶魔三叉戟
+	}
+
+	ValkyrieRayRItem: {
+		DisplayName: 女武神权杖
+		Tooltip: 释放拥有神圣之力的毁灭射线
+	}
+
+	VeeringWindRItem: {
+		DisplayName: 逆转之风
+		Tooltip:
+			'''
+			发射一个击退力很强的环形风浪
+			右键发射霜波环流
+			'''
+	}
+
+	VenomStaffRItem: {
+		DisplayName: 毒液法杖
+		Tooltip: 射出刺穿多个敌人的毒液尖牙
+	}
+
+	VenusianTridentRItem: {
+		DisplayName: 金星三叉戟
+		Tooltip: 发射一团狱炎三叉戟，造成巨大爆炸并释放熔岩火焰碎片
+	}
+
+	VilethornRItem: {
+		DisplayName: 魔刺
+		Tooltip: 召唤魔刺
+	}
+
+	VisceraRItem: {
+		DisplayName: 心泵血杖
+		Tooltip:
+			'''
+			迅速发射一组穿透鲜血束，在命中敌怪时治疗你
+			每组连续发射的鲜血束伤害会逐步提升
+			每组的最后一道鲜血束不再穿透，而是在命中敌怪时爆炸
+			'''
+	}
+
+	VitriolicViperRItem: {
+		DisplayName: 酸蚀毒蝰
+		Tooltip: 释放一束毒牙和喷吐物
+	}
+
+	WaterBoltRItem: {
+		DisplayName: 水矢
+		Tooltip: 投出移动缓慢的水矢
+	}
+
+	WaywasherRItem: {
+		DisplayName: 清道夫
+		Tooltip: 发射大量并不精准的水束
+	}
+
+	WintersFuryRItem: {
+		DisplayName: 凛冬之怒
+		Tooltip:
+			'''
+			向光标位置发射一连串的冰球和冰碎片
+			“这书摸起来冷极了”
+			'''
+	}
+
+	WrathoftheAncientsRItem: {
+		DisplayName: 远古之怒
+		Tooltip: 在光标处召唤能量脉冲，周期性散发追踪灵气
+	}
+
+	WyvernsCallRItem: {
+		DisplayName: 飞龙之歌
+		Tooltip:
+			'''
+			召唤飞龙与羽毛从天而降，会附着在敌人和物块上并爆炸
+			“我呼唤神话中的飞龙，祈求向大地降下恩泽”
+			'''
+	}
+
+	RAbsoluteZero: {
+		DisplayName: 绝对零度
+		Tooltip: 发射极寒冰弹
+	}
+
+	RAegisBlade: {
+		DisplayName: 庇护之刃
+		Tooltip:
+			'''
+			挥舞时抛出惩戒火球
+			右键生成庇护巨刃
+			'''
+	}
+
+	RAftershock: {
+		DisplayName: 地炎阔刃
+		Tooltip:
+			'''
+			挥舞发射数个大地碎片
+			右键增强剑身，真近战击中敌人让地炎巨石从天而降
+			'''
+	}
+
+	RAirSpinner: {
+		DisplayName: 天蓝悠悠球
+		Tooltip:
+			'''
+			向附近的敌人发射散射的羽毛
+			"悠悠球道具赛！"
+			'''
+	}
+
+	RAnarchyBlade: {
+		DisplayName: 混乱之刃
+		Tooltip: 每挥舞三次发射一颗硫火爆弹
+	}
+
+	RAstralBlade: {
+		DisplayName: 幻星刃
+		Tooltip:
+			'''
+			挥舞发射幻星之球，被击中的敌人的剩余血量越高，造成的实际伤害越高
+			真近战击中敌人后让群星降临
+			'''
+	}
+
+	RAstralPike: {
+		DisplayName: 幻星矛
+		Tooltip:
+			'''
+			发射三颗璀璨幻星
+			真近战击中敌人后让群星降临
+			'''
+	}
+
+	RAtaraxia: {
+		DisplayName: 禅心剑
+		Tooltip: 心灵的力量超乎想象
+	}
+
+	RAvalanche: {
+		DisplayName: 雪崩
+		Tooltip: 生成会在接触敌人3秒钟后爆炸出冰晶的冰炸弹
+	}
+
+	RBalefulHarvester: {
+		DisplayName: 邪恶收割者
+		Tooltip:
+			'''
+			发射祛恶镰刀
+			右键可以抛出，引发一场小型的能量地震
+			"嘿！你得把它捡回来！"
+			'''
+	}
+
+	RBansheeHook: {
+		DisplayName: 女妖之爪
+		Tooltip:
+			'''
+			攻击时生成大量哀怨之镰，并发射一个追杀敌人的惊惧巨镰
+			右键积蓄惊惧能量，在能量耗尽前将在鼠标位置召唤大量憎恶镰刀，
+			憎恶镰刀击中敌人后会额外生成大量的怨灵，给予多种增益
+			"这个爪子当年在伸出电视机一半的时候因为停电而卡住了，或许它的怨念就是来源于这儿"
+			'''
+	}
+
+	RBasher: {
+		DisplayName: 痛击者
+		Tooltip: 击中敌人时会造成辐射减益
+	}
+
+	RBlightedCleaver: {
+		DisplayName: 凋亡屠刀
+		Tooltip:
+			'''
+			刀刃击中敌人会积攒暴君能量，并生成大量的屠杀之镰
+			"只有让这把刀痛饮鲜血，它才会想起当年被魔君使用时的强大力量"
+			'''
+	}
+
+	RBrimlash: {
+		DisplayName: 硫火鞭
+		Tooltip:
+			'''
+			发射硫火剑气
+			右键从五个方向发射追踪的硫火爆弹，但有几率灼烧玩家
+			'''
+	}
+
+	RBrimstoneSword: {
+		DisplayName: 硫火短剑
+		Tooltip:
+			'''
+			一把炽热的短剑
+			击中敌人后生成硫火间歇泉
+			'''
+	}
+
+	RBrinyBaron: {
+		DisplayName: 海爵剑
+		Tooltip:
+			'''
+			前六下挥舞发射追踪的海洋漩涡
+			第七下挥舞会生成大量爆炸泡泡
+			第八下挥舞会发射三颗漩涡弹，击中目标或者物块后在原地生成水龙卷
+			"用那头猪鲨的鳍制成，显然我们并不屑于只用那个会吹泡泡的猪头当武器"
+			'''
+	}
+
+	RBurntSienna: {
+		DisplayName: 灼炎弯刀
+		Tooltip:
+			'''
+			挥舞会抛射沙球
+			"时间或许会让其它武器锈迹斑斑，但是这把刀永远不会改变"
+			'''
+	}
+
+	RCatastropheClaymore: {
+		DisplayName: 灾难巨剑
+		Tooltip: ""
+	}
+
+	RCelestialClaymore: {
+		DisplayName: 天神之剑
+		Tooltip:
+			'''
+			挥舞时在周围生成爆炸烁星
+			如果刀刃击中烁星会将其向鼠标位置击飞出去
+			'''
+	}
+
+	RCometQuasher: {
+		DisplayName: 彗星陨刃
+		Tooltip:
+			'''
+			发射陨石，真近战击中敌人让更多的陨石从天而降
+			"中国古代有个人能够不射出箭就让鸟掉下来，终于我们的刀也能做到类似的事了"
+			'''
+	}
+
+	RCosmicDischarge: {
+		DisplayName: 寒宙弹刃
+		Tooltip:
+			'''
+			用能引发冰川爆破的弹鞭击打敌人并使玩家获得寒宙增益
+			此增益会令玩家在站定不动时增加2HP/s生命再生并冻结周围敌人
+			'''
+	}
+
+	RDarklightGreatsword: {
+		DisplayName: 巨剑夜光
+		Tooltip: ""
+	}
+
+	RDeathsAscension: {
+		DisplayName: 死神擢升
+		Tooltip:
+			'''
+			每三轮挥舞会将巨大化的飞镰掷出
+			按住左键让飞镰追寻光标位置，松开左键触发死神半月
+			右键挥舞都会掷出收割灵魂的死神之镰
+			'''
+	}
+
+	RDefiledGreatsword: {
+		DisplayName: 神殇巨剑
+		Tooltip:
+			'''
+			刀刃击中敌人会积攒暴君能量，并生成大量的丛林之镰
+			"鲜血，屠戮，征服，这把刀在慢慢苏醒。它到底是回忆起了当年的魔君，还是痴迷于现在的你？"
+			'''
+	}
+
+	RDevastation: {
+		DisplayName: 破坏重剑
+		Tooltip: ""
+	}
+
+	RDevilsDevastation: {
+		DisplayName: 破灭魔王剑
+		Tooltip:
+			'''
+			每次挥舞会生成一个漂浮在玩家上方的欢愉之戟，会向光标方向飞行，击中敌人后附着在其身上造成持续伤害
+			大挥砍会发射三轮痛苦之轮回，对路径上的敌人造成多次穿透伤害
+			最后会在光标出召唤六个绯红魔王戟，飘浮一段时间后向玩家方向飞行
+			'''
+	}
+
+	RDiseasedPike: {
+		DisplayName: 瘟疫长枪
+		Tooltip:
+			'''
+			发射瘟疫蜂群
+			右键生成追踪的瘟疫能量
+			'''
+	}
+
+	RDraconicDestruction: {
+		DisplayName: 龙破斩
+		Tooltip: ""
+	}
+
+	RDragonRage: {
+		DisplayName: 巨龙之怒
+		Tooltip:
+			'''
+			左键可发动三连挥砍，依次为上劈、下劈、大挥砍和捅刺
+			捅刺拥有较长的攻击距离，击中目标后会引发剧烈的龙焰爆炸
+			右键则进行两次大幅度劈砍，接着持续旋转刀身，依次为大上劈、大下劈和旋刃
+			左键的使用会重置右键的攻击等级
+			"三刀而返，酒尚温"
+			'''
+	}
+
+	REarth: {
+		DisplayName: 无限大地
+		Tooltip: ""
+	}
+
+	REarthenPike: {
+		DisplayName: 地炎长矛
+		Tooltip:
+			'''
+			发射数个大地碎片
+			右键可以将武器投掷出去
+			"嘿！你得捡回来！"
+			'''
+	}
+
+	REntropicClaymore: {
+		DisplayName: 熵之舞
+		Tooltip:
+			'''
+			挥舞中发射几束等离子射线
+			"在熵的累积中，昔日再宏伟的星云也变成了刀中暗淡混沌的尘埃"
+			'''
+	}
+
+	REutrophicScimitar: {
+		DisplayName: 水华弯刀
+		Tooltip: 挥舞时发射两道激光弹幕，会晕眩敌人
+	}
+
+	REvilSmasher: {
+		DisplayName: 邪恶粉碎者
+		Tooltip:
+			'''
+			每用这把锤子击杀一名敌人都会获得属性提升
+			属性到达最大值时停止增长
+			如果使用其他物品会移除加成
+			受击时移除一次属性提升
+			“搞哥邪恶而有力，毛哥有力而邪恶”
+			'''
+	}
+
+	RExaltedOathblade: {
+		DisplayName: 崇高誓约之剑
+		Tooltip:
+			'''
+			每次挥舞将生成一个漂浮的痛苦轮回
+			暴击时造成暗影焰爆炸
+			'''
+	}
+
+	RExcelsus: {
+		DisplayName: 宙宇波能刃
+		Tooltip:
+			'''
+			挥舞发射数个宇宙之刃
+			右键发射寰宇光暗矢
+			"拿着这个宇宙的这把刀，把其它宇宙的甩出去"
+			'''
+	}
+
+	RFeralthornClaymore: {
+		DisplayName: 荆棘长刃
+		Tooltip: ""
+	}
+
+	RFlarefrostBlade: {
+		DisplayName: 炎霜之刃
+		Tooltip: ""
+	}
+
+	RFloodtide: {
+		DisplayName: 鲨潮
+		Tooltip: ""
+	}
+
+	RForbiddenOathblade: {
+		DisplayName: 誓约与禁忌之刃
+		Tooltip: 发射一只恶魔镰刀，暴击时造成暗影焰爆炸
+	}
+
+	RForsakenSaber: {
+		DisplayName: 遗忘之刃
+		Tooltip: 发射两把在飞行时自动变速的沙刃
+	}
+
+	RGalactusBlade: {
+		DisplayName: 星河之刃
+		Tooltip: ""
+	}
+
+	RGeliticBlade: {
+		DisplayName: 凝胶波刃
+		Tooltip: ""
+	}
+
+	RGrandGuardian: {
+		DisplayName: 大守卫者
+		Tooltip:
+			'''
+			真近战会从玩家后方飞出强大的剑刃
+			非真近战时将会主动发射剑刃，击中目标时刺入目标的躯体
+			目标的防御值会加入到真近战暴击伤害中
+			"我的王，我将守护"
+			'''
+	}
+
+	RGreatswordofJudgement: {
+		DisplayName: 制裁大剑
+		Tooltip:
+			'''
+			发射一个追踪敌人的宝石刃，命中后会分裂成三颗审判火球。
+			遗忘之土的白色长剑。
+			你可以听到这把剑传出的虚弱而带安抚的耳语。
+			“无论何处，卿永不孤寂，吾当长伴卿侧，吾之君王”
+			'''
+	}
+
+	RGreentide: {
+		DisplayName: 翡翠之潮
+		Tooltip:
+			'''
+			在指定位置下方生成几颗利维坦毒牙
+			右键加强剑身，砍中敌人后降下更多的毒牙
+			'''
+	}
+
+	RHellfireFlamberge: {
+		DisplayName: 狱火重剑
+		Tooltip: 发射几团深渊火球
+	}
+
+	RHellionFlowerSpear: {
+		DisplayName: 刺花长矛
+		Tooltip:
+			'''
+			挥舞释放伴生之叶
+			跟随生命之叶刺穿敌人
+			'''
+	}
+
+	RHellkite: {
+		DisplayName: 地狱龙锋
+		Tooltip: ""
+	}
+
+	RHolyCollider: {
+		DisplayName: 圣火之刃
+		Tooltip:
+			'''
+			发射一道渎火射线，在光标出引发一次爆炸
+			每间隔六次会进行一次强化攻击
+			'''
+	}
+
+	RLifehuntScythe: {
+		DisplayName: 猎命镰刀
+		Tooltip:
+			'''
+			每轮挥舞都会掷出一圈生命镰刀
+			每三轮挥舞会将巨大化的镰刀掷出
+			'''
+	}
+
+	RLucrecia: {
+		DisplayName: 卢克雷西亚
+		Tooltip: 发射魔能水晶刺
+	}
+
+	RMajesticGuard: {
+		DisplayName: 雄伟之护
+		Tooltip:
+			'''
+			真近战攻击有概率治疗玩家
+			非真近战时将会主动发射剑刃，剑刃将会刺入墙中
+			"我的王，我将守护"
+			'''
+	}
+
+	RMirrorBlade: {
+		DisplayName: 镜之刃
+		Tooltip: 发射翻飞的魔能镜刃
+	}
+
+	ROrderbringer: {
+		DisplayName: 携序之刃
+		Tooltip:
+			'''
+			发射追踪敌人的彩色棱晶能量，连续攻击一个敌人十次后会召唤一个巨大的审判剑灵。
+			“无论何处，卿永不孤寂，吾当长伴卿侧，吾之君王”
+			'''
+	}
+
+	RPerfectDark: {
+		DisplayName: 完美黑暗
+		Tooltip:
+			'''
+			抛射毒沼炸弹
+			"这刀或许不卫生"
+			'''
+	}
+
+	RPhosphorescentGauntlet: {
+		DisplayName: 磷光拳套
+		Tooltip:
+			'''
+			以拳之意志打击敌人
+			右键近距离挥舞刺拳
+			'''
+	}
+
+	RPlagueKeeper: {
+		DisplayName: 瘟疫大剑
+		Tooltip: 发射瘟疫蜂群
+	}
+
+	RPrismaticBreaker: {
+		DisplayName: 光棱破碎者
+		Tooltip:
+			'''
+			充能发射一束彩虹光炮
+			右键可以挥砍使用，释放虹光剑气
+			这把剑同时受到近战和远程的伤害加成影响
+			"彩虹之力与我同在!"
+			'''
+	}
+
+	RRedSun: {
+		DisplayName: 红日
+		Tooltip:
+			'''
+			日炎火球从天而降
+			“圣堂之上”
+			'''
+	}
+
+	RSausageMaker: {
+		DisplayName: 香肠矛
+		Tooltip: 发射息肉球，真近战命中敌人可以治疗自己
+	}
+
+	RSeashineSword: {
+		DisplayName: 海耀之刃
+		Tooltip: 发射水刃剑气
+	}
+
+	RSeedler: {
+		DisplayName: 种子弯刀
+		Tooltip:
+			'''
+			发射爆炸种子
+			"虽然我们没有豌豆射手，但是有这个!"
+			'''
+	}
+
+	RSolsticeClaymore: {
+		DisplayName: 季节长剑
+		Tooltip:
+			'''
+			依照现实时间，发射出颜色不同的追踪剑气
+			在白天造成破晓减益，在晚上造成夜魇减益
+			"四季如春"
+			'''
+	}
+
+	RStarnightLance: {
+		DisplayName: 星夜长枪
+		Tooltip:
+			'''
+			发射星夜光束
+			旋枪攻击真近战命中敌人会生成更多的星夜光束
+			"非常冻手，试试用它来制作冰淇淋?"
+			'''
+	}
+
+	RStellarStriker: {
+		DisplayName: 月炎之锋
+		Tooltip:
+			'''
+			发生残月射线
+			右键加强剑身，砍中敌人后令数道月耀射线降下
+			"月亮之上"
+			'''
+	}
+
+	RStormRuler: {
+		DisplayName: 风暴管束者
+		Tooltip:
+			'''
+			发射剑气，命中时生成龙卷风暴
+			龙卷风暴会将敌怪吸入
+			“我在暴风骤雨中摇摆”
+			'''
+	}
+
+	RStormSaber: {
+		DisplayName: 风暴军刀
+		Tooltip:
+			'''
+			发射两束风暴气流
+			一束从剑刃发出，另一束从天而降
+			"伙计，别试图预测天气了"
+			'''
+	}
+
+	RSubmarineShocker: {
+		DisplayName: 渊海短剑
+		Tooltip: 发射电离子火花
+	}
+
+	RSwordsplosion: {
+		DisplayName: 爆破剑
+		Tooltip:
+			'''
+			让数道彩虹剑气从天而降
+			"因为石冷说了算!"
+			'''
+	}
+
+	RTaintedBlade: {
+		DisplayName: 污浊之刃
+		Tooltip:
+			'''
+			击中敌人时施加中毒减益
+			"我这刀可是剧毒的"
+			'''
+	}
+
+	RTeardropCleaver: {
+		DisplayName: 泪刃
+		Tooltip: 泪雨倾盆
+	}
+
+	RTerratomere: {
+		DisplayName: 泰拉巨刃
+		Tooltip:
+			'''
+			挥舞释放生命洪流
+			“与泰拉瑞亚世界之精华相连”
+			'''
+	}
+
+	RTerrorBlade: {
+		DisplayName: 惊惧魂刃
+		Tooltip:
+			'''
+			挥舞释放惊惧爆弹
+			刀刃砍中敌人将会增强武器
+			"在很久很久以前...很久...很久以前"
+			'''
+	}
+
+	RTheBurningSky: {
+		DisplayName: 焚灭天惩
+		Tooltip:
+			'''
+			挥舞让一片龙息火球从天而降
+			"是的，它不消耗魔力"
+			'''
+	}
+
+	RTheDarkMaster: {
+		DisplayName: 黑暗大师之剑
+		Tooltip:
+			'''
+			真近战击中目标后召唤暗黑契约，三个暗影复制体将协同玩家作战
+			暗黑契约存在时，如果玩家受伤，会立马遣散所有暗影复制体
+			并给予玩家10秒黑暗恐惧减益，此期间玩家将无法再通过真近战召唤暗黑契约
+			'''
+	}
+
+	RTheEnforcer: {
+		DisplayName: 暴政
+		Tooltip: 挥舞时在周围生成宇宙之火
+	}
+
+	RTheLastMourning: {
+		DisplayName: 末晓之殇
+		Tooltip:
+			'''
+			以罪亡颅骨和燎狱之魂追杀敌人
+			右键加强剑身，砍中敌人后生成数个怨灵颅骨
+			'''
+	}
+
+	RTheMutilator: {
+		DisplayName: 血石斩切刃
+		Tooltip:
+			'''
+			暴击时会激发鲜血爆破粒子效果
+			鲜血爆破会让红心掉落并回复你的生命值
+			'''
+	}
+
+	RTitanArm: {
+		DisplayName: 泰坦手臂
+		Tooltip:
+			'''
+			蓄力进行势大力沉的挥舞
+			"谁来都要挨一巴掌"
+			'''
+	}
+
+	RTrueCausticEdge: {
+		DisplayName: 绝望之刃
+		Tooltip:
+			'''
+			发出绝望光束，接触物块后会反弹
+			命中敌人时施加酸性毒液减益并减速
+			'''
+	}
+
+	RUltimusCleaver: {
+		DisplayName: 斩首者
+		Tooltip: 发射几团会追踪的蓝焰火花，击中敌人时爆炸
+	}
+
+	RVeinBurster: {
+		DisplayName: 静脉爆裂
+		Tooltip:
+			'''
+			发射一个血肉之雷，会黏在地上或敌人身上，造成爆炸
+			"说真的，这个病很严重"
+			'''
+	}
+
+	RVirulence: {
+		DisplayName: 瘟疫毒刃
+		Tooltip:
+			'''
+			发射瘟疫之云
+			"赞美慈父!"
+			'''
+	}
+
+	RVoidEdge: {
+		DisplayName: 虚渊之锋
+		Tooltip:
+			'''
+			发射早已逝去的深渊居民的可怖鬼魂
+			用剑刃击中敌人会从下方召唤额外的鬼魂
+			"上任刀主已经成为了其中一员"
+			'''
+	}
+
+	RVulcaniteLance: {
+		DisplayName: 火山长矛
+		Tooltip:
+			'''
+			喷射烈焰灼烧敌人
+			"我们需要更多的汽油"
+			'''
+	}
+
+	RWindBlade: {
+		DisplayName: 风之流
+		Tooltip:
+			'''
+			挥舞发射扰乱大范围气流的气旋
+			右键发射追踪的小型气旋
+			"你还以为它只是一阵无害的微风吗？"
+			'''
+	}
+
+	ModifyAquaticScourgeBag: {
+		DisplayName: 宝藏袋（渊海灾虫）
+		Tooltip: 右键点击可以打开
+	}
+
+	ModifyDesertScourgeBag: {
+		DisplayName: 宝藏袋（荒漠灾虫）
+		Tooltip: 右键点击可以打开
+	}
+
+	ModifyDevourerofGodBag: {
+		DisplayName: 宝藏袋（神明吞噬者）
+		Tooltip: 右键点击可以打开
+	}
+
+	ModifyExoBag: {
+		DisplayName: 宝藏盒（星流巨械）
+		Tooltip: 右键点击可以打开
+	}
+
+	ModifyOldDukeBag: {
+		DisplayName: 宝藏袋（硫海遗爵）
+		Tooltip: 右键点击可以打开
+	}
+
+	ModifyPolterghastBag: {
+		DisplayName: 宝藏袋（噬魂幽花）
+		Tooltip: 右键点击可以打开
+	}
+
+	ModifyStarterBag: {
+		DisplayName: 新手礼包
+		Tooltip: 右键点击可以打开
+	}
+
+	ModifyYharonBag: {
+		DisplayName: 宝藏袋（犽戎）
+		Tooltip: 右键点击可以打开
+	}
+
+	RAcesHigh: {
+		DisplayName: 极魂符枪
+		Tooltip:
+			'''
+			发射出一串扑克，不同扑克牌有不同效果
+			红心会有汲血效果
+			黑桃能无限穿透且无视敌人的无敌帧
+			方块会产生爆炸
+			梅花能分裂为三个小扑克
+			'''
+	}
+
+	RAlluvion: {
+		DisplayName: 啸流
+		Tooltip:
+			'''
+			将木箭转化为海洋箭矢
+			右键蓄力以海洋千钧之力摧毁敌人
+			如果使用木箭，右键攻击会将箭矢转化为更多的海洋箭
+			'''
+	}
+
+	RAngelicShotgun: {
+		DisplayName: 圣天耀火炮
+		Tooltip:
+			'''
+			给予射出的子弹圣神祝福
+			会将火枪子弹转化为圣火弹
+			一把大口径霰弹枪，独特的是，它浑身散发着圣神感
+			'''
+	}
+
+	RAnimosity: {
+		DisplayName: 憎恨
+		Tooltip:
+			'''
+			将火枪子弹转化为动能子弹
+			右键呈散射状发射数发动能子弹
+			"以我残躯化烈火"
+			'''
+	}
+
+	RAntiMaterielRifle: {
+		DisplayName: 巴雷特
+		Tooltip:
+			'''
+			一把发射.50BMG子弹的重型反器材步枪
+			击中后爆发出剧烈的金属射流杀伤大面积的敌人
+			'''
+	}
+
+	RAquashardShotgun: {
+		DisplayName: 碎水霰弹枪
+		Tooltip: 会将火枪子弹转化为海洋棱晶弹
+	}
+
+	RArbalest: {
+		DisplayName: 劲弩
+		Tooltip:
+			'''
+			发射6支高速箭
+			箭矢随着持续发射时间增大体积
+			箭矢体积越大，伤害和击退越高，但扩散范围更大
+			右键进行单发速射
+			"它齿轮仍旧嘎吱嘎吱的转动个不停"
+			'''
+	}
+
+	RArcherfish: {
+		DisplayName: 射水鱼
+		Tooltip: 将火枪子弹转化为一束水流
+	}
+
+	RArterialAssault: {
+		DisplayName: 血陨
+		Tooltip:
+			'''
+			自天空中发射五支箭
+			所有箭都将迅速跟踪附近的敌人
+			'''
+	}
+
+	RAstralBlaster: {
+		DisplayName: 幻星冲击炮
+		Tooltip: 将火枪子弹转化为追踪幻星弹
+	}
+
+	RAstralRepeater: {
+		DisplayName: 幻星弓
+		Tooltip: 一次发射三支箭
+	}
+
+	RAstrealDefeat: {
+		DisplayName: 灵星寂灭
+		Tooltip:
+			'''
+			将所有箭矢转化为星能之箭，飞行时生成追踪的魂灵星炎
+			"远古巫术结晶"
+			'''
+	}
+
+	RAuralis: {
+		DisplayName: 极光
+		Tooltip:
+			'''
+			发射可以削减敌人防线的高速闪光子弹
+			不移动时提供伤害加成，至多可达25%
+			不移动且使用右键瞄准5秒以上在你周围产生极光
+			极光会降低你下一次所受弹幕伤害中的100点
+			此效果至多持续20秒，且拥有30秒冷却时间
+			'''
+	}
+
+	RAuroraBlazer: {
+		DisplayName: 极光烈焰
+		Tooltip:
+			'''
+			喷出以星形轨迹运动的星云烈焰
+			使用凝胶作为弹药
+			“星辉中的怒火在燃烧”
+			'''
+	}
+
+	RBarinade: {
+		DisplayName: 巴淋内德
+		Tooltip:
+			'''
+			发射两支汇聚的高速鳍箭，它们能轻易地翱翔于空气中
+			"从那条沙虫的上颌骨拆下来的"
+			'''
+	}
+
+	RBarinautical: {
+		DisplayName: 巴淋诺提卡
+		Tooltip:
+			'''
+			将木箭转化为爆炸闪电箭
+			"从那条沙虫的上颌骨拆下来的，但这次更困难"
+			'''
+	}
+
+	RBarracudaGun: {
+		DisplayName: 梭鱼枪
+		Tooltip: 发射两只梭鱼咬住敌人并撕碎它们
+	}
+
+	RBladedgeGreatbow: {
+		DisplayName: 锋叶十字弩
+		Tooltip: '''"春风似剪刀"'''
+	}
+
+	RBlissfulBombardier: {
+		DisplayName: 极乐升天炮
+		Tooltip:
+			'''
+			发射圣火火箭
+			使用可摧毁物块的弹药时火箭会破坏物块
+			'''
+	}
+
+	RBlossomFlux: {
+		DisplayName: 叶流
+		Tooltip:
+			'''
+			快速度发射生命叶箭矢
+			右键蓄力发射强大的丛林爆弹
+			'''
+	}
+
+	RBrimstoneFury: {
+		DisplayName: 硫火之怒
+		Tooltip: 将木箭转化为三束硫火射线
+	}
+
+	RBulletFilledShotgun: {
+		DisplayName: 满弹霰弹枪
+		Tooltip:
+			'''
+			发射出一大片弹跳子弹
+			每次使用消耗五颗子弹
+			“瞄准？那是啥？”
+			'''
+	}
+
+	RButcher: {
+		DisplayName: 屠夫
+		Tooltip: 剩余子弹越少，发射速度和精确度越高
+	}
+
+	RChickenCannon: {
+		DisplayName: 小鸡大炮
+		Tooltip:
+			'''
+			发射小鸡火箭，产生巨大燃爆
+			右键引爆所有飞行中的火箭
+			'''
+	}
+
+	RClamorRifle: {
+		DisplayName: 音波步枪
+		Tooltip: 将火枪子弹转化为追踪能量束
+	}
+
+	RClaretCannon: {
+		DisplayName: 深红手炮
+		Tooltip:
+			'''
+			一次发射三发子弹
+			将火枪子弹转化为吸血的血泪弹
+			'''
+	}
+
+	RClockGatlignum: {
+		DisplayName: 发条鳄鱼枪
+		Tooltip:
+			'''
+			如狂风暴雨般倾泻子弹
+			10%几率节省弹药
+			"它并不能发射鳄鱼，令人失望"
+			'''
+	}
+
+	RCondemnation: {
+		DisplayName: 诘责
+		Tooltip:
+			'''
+			左键以六连射进行攻击，有概率发射出追踪目标的爆炸箭矢
+			右键进行蓄力攻击，充能完毕后发射出一连串魔法爆炸箭矢
+			"邪祟的力量侵染着这把弩"
+			'''
+	}
+
+	RConferenceCall: {
+		DisplayName: 电话会议
+		Tooltip:
+			'''
+			发射密集的子弹，同时从空中召唤更多的子弹
+			[c/768EE6:@全体成员]
+			'''
+	}
+
+	RContagion: {
+		DisplayName: 瘟疫
+		Tooltip:
+			'''
+			左键发射速度极快的霍乱箭矢，途中释放多个瘟疫炸弹
+			右键召唤花园世界的生命蜜蜂
+			[c/085054:慈父将始终注视着这弓的持有者]
+			'''
+	}
+
+	RContinentalGreatbow: {
+		DisplayName: 洲陆巨弓
+		Tooltip:
+			'''
+			木箭会被火焰点燃
+			一次发射三支箭矢
+			额外发射两支狱炎或灵液箭
+			'''
+	}
+
+	RCoralCannon: {
+		DisplayName: 珊瑚手炮
+		Tooltip:
+			'''
+			一把有着不小威力的老式手炮
+			右键装填弹药
+			"枪膛一直是潮湿的，火药很可能点不燃....等等，它不用火药？"
+			'''
+	}
+
+	RCorinthPrime: {
+		DisplayName: 科林斯Prime
+		Tooltip:
+			'''
+			发射六发散弹，会将火枪子弹转化为高速弹
+			右键发射一颗小型榴弹
+			榴弹如果在两秒内没有接触敌人，便会引发巨大的爆炸
+			否则只会触发一次小型的冲击波
+			'''
+	}
+
+	RCorrodedCaustibow: {
+		DisplayName: 酸腐弓
+		Tooltip: 将木箭转换为缓慢但强力的毒箭，毒箭会留下辐射光环
+	}
+
+	RCosmicBolter: {
+		DisplayName: 煦春弓
+		Tooltip:
+			'''
+			射出一列三支箭矢
+			将木箭转化为在物块表面滑行的能量箭矢
+			'''
+	}
+
+	RCrackshotColt: {
+		DisplayName: 神枪手柯尔特
+		Tooltip:
+			'''
+			发射神射手弹
+			右键将一枚铜币抛向空中
+			击中硬币的子弹会向着最近的敌人瞄准
+			至多可抛出4枚硬币，在可能的情况下，子弹会在多枚硬币之间反弹
+			反弹的子弹必定暴击，并且会基于反弹的次数增加伤害
+			“金钱就是力量”
+			'''
+	}
+
+	RDaemonsFlame: {
+		DisplayName: 鬼火弓
+		Tooltip:
+			'''
+			将木箭转化为鬼火簇
+			发射其余箭矢时会额外发射恶魔火球
+			'''
+	}
+
+	RDarkechoGreatbow: {
+		DisplayName: 暗之回响
+		Tooltip:
+			'''
+			一次发射两支箭
+			发射一个额外的水晶飞镖
+			'''
+	}
+
+	RDeadSunsWind: {
+		DisplayName: 薄冥之风
+		Tooltip:
+			'''
+			发射一束聚焦的高温等离子体，触碰物块后反弹
+			等离子射线反弹后会追踪最近的敌人
+			连续命中时引发巨大爆炸
+			以凝胶为弹药
+			"它是怎么把凝胶变成这玩意儿的？"
+			'''
+	}
+
+	RDeathwind: {
+		DisplayName: 死亡之风
+		Tooltip:
+			'''
+			木箭会被转化为死亡激光束
+			近距离击中敌人会吹出死亡气流
+			“死亡如风，常伴吾身”
+			'''
+	}
+
+	RDeepcoreGK2: {
+		DisplayName: 深核GK2
+		Tooltip:
+			'''
+			右键进行全自动扫射
+			"完美的制动设计，内置微型电脑。它不仅可以自动换弹，还可以帮你烤早餐面包"
+			'''
+	}
+
+	RDisseminator: {
+		DisplayName: 散播者
+		Tooltip:
+			'''
+			枪林弹雨般的交叉火力
+			右键进行疾速点射
+			"交叉火力作战的教科书"
+			'''
+	}
+
+	RDodusHandcannon: {
+		DisplayName: Dodu的手炮
+		Tooltip:
+			'''
+			发射一颗高爆坚果仁，没错，就是坚果仁儿
+			"我一直尝试用这个东西召唤高坚果，但从没成功过"
+			'''
+	}
+
+	RDrataliornus: {
+		DisplayName: 赤陨霸龙弓
+		Tooltip:
+			'''
+			发射一连串龙焰火球，发射速度随使用时间增加而加快
+			火球会降下陨石雨，留下龙尘造成伤害。
+			在最大速度时会发射额外的火球，触发“火球激流”效果，火球具有追踪能力
+			火球激流发动时，如果受到伤害，攻击会被打断，同时清空飞行时间
+			右键点击发射五连发EX龙火之矢
+			“区区之事，无伤尔”
+			'''
+	}
+
+	RElementalBlaster: {
+		DisplayName: 元素冲击波
+		Tooltip: 发射出元素状射流
+	}
+
+	REternalBlizzard: {
+		DisplayName: 恒吹雪
+		Tooltip:
+			'''
+			拥有四连发的多联射击，发射爆裂的冰锥箭
+			右键进行单发速射，箭矢将拥有追踪能力
+			'''
+	}
+
+	RFetidEmesis: {
+		DisplayName: 腐臭倾泻者
+		Tooltip:
+			'''
+			会给子弹染上纳垢剧毒
+			每射出八发子弹就会触发一轮污染物的呕吐攻击
+			右键进行切换为半自动，发射污秽肉球
+			"那是一场大瘟疫..."老猪鲨回忆着过去，喃喃自语
+			"我曾经是一名海洋大学的教授，那条大比目鱼就是我的学生，直到瘟疫到来后，
+			海洋大学变成了硫磺海开发部，我就退休了...对了，你想不想见识一下我能一下吞多少子弹？"
+			'''
+	}
+
+	RFirestormCannon: {
+		DisplayName: 烈焰风暴
+		Tooltip:
+			'''
+			持续释放武器化的信号弹
+			右键以发射密集的信号弹
+			'''
+	}
+
+	RFlakKraken: {
+		DisplayName: 海妖克拉肯
+		Tooltip:
+			'''
+			发射深渊高爆弹，炸弹会爆炸产生数个锥形散步的墨水破片
+			深渊高爆弹会在抵达光标位置时爆炸
+			炮弹直接命中会让破片伤害降低
+			"来自一条海妖，租借合同为期3年06月23天6小时"
+			'''
+	}
+
+	RFlakToxicannon: {
+		DisplayName: 剧毒高射炮
+		Tooltip:
+			'''
+			以一定的角度向光标处射击
+			仅能朝着玩家头顶的一定仰角范围内开火
+			“要求：智商高”
+			'''
+	}
+
+	RFlarewingBow: {
+		DisplayName: 黑翼蝙蝠弓
+		Tooltip:
+			'''
+			一次发射三支箭
+			木箭会被转化为穿透一次后追踪的黑曜石蝙蝠
+			'''
+	}
+
+	RFlurrystormCannon: {
+		DisplayName: 雪球机关枪
+		Tooltip:
+			'''
+			发射大量雪球，火力随着弹药减少而变强
+			有概率进入超载状态，喷发出大量雪球与冰雹
+			"这足以让你在雪仗中立于不败之地"
+			'''
+	}
+
+	RFungicide: {
+		DisplayName: 真菌枪
+		Tooltip: 发射命中后分裂的真菌弹
+	}
+
+	RGaleforce: {
+		DisplayName: 烈风
+		Tooltip:
+			'''
+			攻击附带发射三发羽毛
+			右键进行单发速射
+			"真理之翼，与我同在"
+			'''
+	}
+
+	RGoldenEagle: {
+		DisplayName: 黄金之鹰
+		Tooltip:
+			'''
+			一次发射五颗子弹
+			"你不会想知道这把枪是怎么制作的"
+			'''
+	}
+
+	RGoobow: {
+		DisplayName: 凝胶弓
+		Tooltip:
+			'''
+			发射两束凝胶
+			"史莱姆曾经用它来干什么？"
+			'''
+	}
+
+	RGunkShot: {
+		DisplayName: 胶泥散弹枪
+		Tooltip:
+			'''
+			发射数颗子弹
+			“胶泥座人”
+			'''
+	}
+
+	RHalleysInferno: {
+		DisplayName: 哈雷彗星炮
+		Tooltip:
+			'''
+			射出一连串高压月耀喷流
+			使用凝胶作为弹药
+			“哈雷彗星比想象中来得早”
+			'''
+	}
+
+	RHandheldTank: {
+		DisplayName: 手持坦克
+		Tooltip: '''"嘿，伙计！看看，我在推着一辆坦克走"'''
+	}
+
+	RHellborn: {
+		DisplayName: 地狱降临
+		Tooltip:
+			'''
+			一把炽热的霰弹枪
+			右键进行全自动扫射
+			开火时枪身将可以对敌人造成巨大伤害
+			'''
+	}
+
+	RHelstorm: {
+		DisplayName: 地狱风暴
+		Tooltip:
+			'''
+			一把非常炽热的霰弹枪
+			右键进行全自动扫射
+			开火时枪身将可以对敌人造成巨大伤害
+			"比地狱降临更好"
+			'''
+	}
+
+	RHoarfrostBow: {
+		DisplayName: 白霜弓
+		Tooltip:
+			'''
+			一次性发射两支箭矢
+			将木箭转换为霜雾箭
+			"冷的冻手"
+			'''
+	}
+
+	RInfinity: {
+		DisplayName: 无穷
+		Tooltip:
+			'''
+			螺旋状的发射大量子弹
+			将火枪子弹转化成会分裂弹射的能量子弹
+			“只要你把它握在手中，无限的解离就不会停止”
+			'''
+	}
+
+	RKarasawa: {
+		DisplayName: 卡拉萨瓦重炮
+		Tooltip: '''"……这把枪太沉了……太沉了"'''
+	}
+
+	RKingsbane: {
+		DisplayName: 弑君
+		Tooltip:
+			'''
+			启动完毕后，迅速发射子弹
+			当你停止开火时会继续倾泻大量金源弹
+			金源弹会迅速追踪附近的敌人，并无视50点防御
+			使用时不断消耗弹药
+			90%几率节省弹药
+			'''
+	}
+
+	RLeviatitan: {
+		DisplayName: 利维坦海潮枪
+		Tooltip:
+			'''
+			将火枪子弹转化为水球或者海洋弹
+			"想知道引发呕吐的诀窍吗？" 利维坦眯起了眼睛，"皮蛋加奶酪，保准你秒变呕吐专家"
+			'''
+	}
+
+	RLunarianBow: {
+		DisplayName: 月光弓
+		Tooltip:
+			'''
+			一次发射两支箭矢
+			将木箭转化为可以在物块表面滑行的能量束
+			"我们需要明白，这不是永夜弓，事实上，凝胶弓会比这更好用"
+			'''
+	}
+
+	RMalevolence: {
+		DisplayName: 蜂毒
+		Tooltip:
+			'''
+			一次发射两支箭矢
+			将木箭转化为接触后爆炸成蜜蜂的瘟疫箭
+			"每一只蜜蜂都签署了劳动合同，它们享受三险五金，每周双休"
+			'''
+	}
+
+	RMarksmanBow: {
+		DisplayName: 猎人长弓
+		Tooltip:
+			'''
+			快准狠的射出一发精准的箭矢，是一场狩猎的成功关键
+			发射的箭矢在消失时有概率生成一个幽灵
+			'''
+	}
+
+	RMegalodon: {
+		DisplayName: 巨舰鲨
+		Tooltip:
+			'''
+			每射击三次会额外发射一条鲨鱼
+			10%几率节省弹药
+			"我们成功将鲨鱼塞了进去，注意别被咬掉手指"
+			'''
+	}
+
+	RMidasPrime: {
+		DisplayName: 迈达斯统帅
+		Tooltip:
+			'''
+			发射神射手弹
+			右键将一枚金币或银币抛向空中
+			击中硬币的子弹会向着最近的敌人瞄准
+			至多可抛出4枚硬币，在可能的情况下，子弹会在多枚硬币之间反弹
+			反弹的子弹必定暴击，并且会基于反弹的次数增加伤害
+			“金钱就是力量”
+			'''
+	}
+
+	RMineralMortar: {
+		DisplayName: 矿砂碎岩炮
+		Tooltip:
+			'''
+			发射一个玛瑙火箭，爆炸时造成大范围杀伤
+			"它不能掀起沙尘暴，但能把所有人都炸上天"
+			'''
+	}
+
+	RMolecularManipulator: {
+		DisplayName: 分子操纵器
+		Tooltip:
+			'''
+			发射一个“空弹”扭曲怪物的属性
+			“Object reference not set to an instance of an object”
+			'''
+	}
+
+	RMonsoon: {
+		DisplayName: 季风
+		Tooltip:
+			'''
+			发射五发并排的箭矢，有概率射出鲨鱼或者海洋箭矢
+			右键蓄力发射大量箭矢
+			'''
+	}
+
+	RNeedler: {
+		DisplayName: 叶针枪
+		Tooltip:
+			'''
+			将火枪子弹转化为钉在敌人身上并爆炸的叶针
+			“暴雨梨花针？”
+			'''
+	}
+
+	RNettlevineGreatbow: {
+		DisplayName: 荆棘藤
+		Tooltip:
+			'''
+			射出的箭矢会被染上剧毒
+			每射击四次会触发一轮青蒿扫射
+			'''
+	}
+
+	RNitroExpressRifle: {
+		DisplayName: NE猎枪
+		Tooltip:
+			'''
+			适合崩碎熊的颅骨
+			将火枪子弹转化为动能弹
+			"老旧，但实用"
+			'''
+	}
+
+	ROnyxChainBlaster: {
+		DisplayName: 玛瑙链炮
+		Tooltip:
+			'''
+			发射数颗子弹和一枚玛瑙爆破弹
+			10%几率节省弹药
+			"这把家伙，弹匣比笑话还要短，但至少能让人在弹尽粮绝时笑一笑。"
+			'''
+	}
+
+	ROnyxia: {
+		DisplayName: 奥妮克希亚
+		Tooltip:
+			'''
+			向敌人倾泻弹雨与玛瑙碎片
+			“那头黑龙的化身”
+			'''
+	}
+
+	RP90: {
+		DisplayName: P90
+		Tooltip:
+			'''
+			以极高的频率发射穿甲子弹
+			子弹将无视敌人15点防御
+			35%几率节省弹药
+			"其实能看到的都是拽光弹的拖尾，所以你需要额外支付一笔2685美元的军火账单"
+			'''
+	}
+
+	RPearlGod: {
+		DisplayName: 珍珠之神
+		Tooltip:
+			'''
+			一次发射五发子弹
+			打空弹匣时发射一枚强力冲击波榴弹
+			"汝命归我"
+			'''
+	}
+
+	RPestilentDefiler: {
+		DisplayName: 疫病污染者
+		Tooltip: 将火枪子弹转化为会爆裂成瘟疫碎片的瘟疫子弹
+	}
+
+	RPhangasm: {
+		DisplayName: 幻魔
+		Tooltip: 击中敌人后额外生成影流射弹
+	}
+
+	RPlagueTaintedSMG: {
+		DisplayName: 玷污之疫SMG
+		Tooltip:
+			'''
+			左键发射瘟疫子弹，在暴击时生成瘟疫自爆无人机
+			无人机命中受瘟疫感染的敌怪时有极高的暴击率
+			右键发射无人机群
+			“瞄准然后射击，瞄准然后射击”
+			'''
+	}
+
+	RPlanetaryAnnihilation: {
+		DisplayName: 湮灭千星
+		Tooltip: 可以将木箭转化为能量冲击
+	}
+
+	RPridefulHuntersPlanarRipper: {
+		DisplayName: 雷空猎影
+		Tooltip:
+			'''
+			将火枪子弹转化为闪电弹
+			闪电弹的弹幕速度很快，并在击杀敌人时产生爆炸
+			闪电弹暴击时会使你获得可堆叠的速度加成
+			至多获得20%移动速度和加速度加成
+			切换手持的物品会重置加成
+			每间隔十五次开火会进行一次子弹喷发
+			'''
+	}
+
+	RPristineFury: {
+		DisplayName: 纯元怒焰
+		Tooltip:
+			'''
+			射出一束猛烈的烈焰螺旋，爆炸成一列火柱
+			右键发射一团短程余晖烈焰
+			使用凝胶作为弹药
+			'''
+	}
+
+	RRealmRavager: {
+		DisplayName: 灭域者
+		Tooltip:
+			'''
+			一次发射三到四颗子弹
+			将火枪子弹转化为爆炸弹
+			"埋着上一任使用者的秘密，可别指望它说出来，不然连鬼都会笑掉大牙"
+			'''
+	}
+
+	RRubicoPrime: {
+		DisplayName: 绝路Prime
+		Tooltip:
+			'''
+			手持闲置时会自动向周围的敌人射击
+			射出的弹药有更高的暴击倍率
+			"一把真正的自动步枪，应该懂得自己射杀敌人"
+			'''
+	}
+
+	RSandstormGun: {
+		DisplayName: 沙尘暴
+		Tooltip:
+			'''
+			在光标高度发射沙精灵，向天空抛出大量沙球
+			使用沙块作为弹药
+			'''
+	}
+
+	RScorchedEarth: {
+		DisplayName: 焦土
+		Tooltip:
+			'''
+			装填八颗地狱火子母弹，火箭在发射出去后会自动导航向敌人
+			击中后引发大爆炸并分裂出多枚子火箭
+			"这玩意儿一定违反了好几项国际公约"
+			'''
+	}
+
+	RSDFMG: {
+		DisplayName: SDFMG
+		Tooltip:
+			'''
+			有概率发射出一枚海洋导弹
+			"枪体动力学的奇迹"
+			'''
+	}
+
+	RSeadragon: {
+		DisplayName: 海龙
+		Tooltip:
+			'''
+			开火的同时不断喷出海洋泡泡
+			水弹将伴随着弹药倾泻而出
+			'''
+	}
+
+	RSeasSearing: {
+		DisplayName: 海之烧灼
+		Tooltip:
+			'''
+			装弹完成后进行一轮速射，将子弹转化为海洋弹
+			右键发射海洋漩涡
+			'''
+	}
+
+	RSepticSkewer: {
+		DisplayName: 剧毒叉枪
+		Tooltip:
+			'''
+			一下发射出所有黏性剧毒鱼叉
+			飞回玩家时释放细菌
+			'''
+	}
+
+	RShellshooter: {
+		DisplayName: 螺壳重弓
+		Tooltip:
+			'''
+			发射缓慢而锋利的箭矢
+			将木箭转换为沉重的穿透性海贝壳
+			"从水族馆里捞出来的"
+			'''
+	}
+
+	RShredder: {
+		DisplayName: 解离者
+		Tooltip:
+			'''
+			发射一团会分裂弹射的能量子弹
+			右键发射一团子弹
+			“我们应该庆幸绝大部分的子弹都是凭空出现的，不然将会有一笔天价的军火账单等着我们”
+			'''
+	}
+
+	RShroomer: {
+		DisplayName: 蘑菇狙击枪
+		Tooltip: 发射子弹以及强大的追踪蘑菇
+	}
+
+	RSlagMagnum: {
+		DisplayName: 熔渣马格南
+		Tooltip:
+			'''
+			将火枪子弹转化为化石碎片，命中后生成额外的化石碎片
+			"这里没有特殊感染者"
+			'''
+	}
+
+	RSomaPrime: {
+		DisplayName: 月神Prime
+		Tooltip:
+			'''
+			如果这把武器的暴击率超过了100%，它可以造成超暴击
+			所有发射的弹幕都会造成解离和可堆叠的流血减益
+			解离减益每秒造成150点伤害，该伤害受到你远程属性的影响
+			解离减益每次造成伤害时，都有几率触发暴击或者超暴击
+			将火枪子弹转化为高速子弹
+			30%几率节省弹药
+			"Market forces dictate that you need to evolve or die."
+			'''
+	}
+
+	RSpectralstormCannon: {
+		DisplayName: 光谱风暴
+		Tooltip:
+			'''
+			发射失落之魂与信号弹
+			"他们想绕过公约，于是拿信号弹儿当凝固汽油弹使，结果搞出了这么个笑话"
+			'''
+	}
+
+	RSpeedBlaster: {
+		DisplayName: 彩弹冲锋枪
+		Tooltip:
+			'''
+			快速发射磷光彩弹
+			按下右键发射一束强力彩弹，在移动时使用会推动你冲刺
+			这个技能有5秒冷却时间
+			冷却期间，你可以更快、更精准地射击
+			"对着自己的脸来一发，你就能欢快地洗一整天的脸了"
+			'''
+	}
+
+	RSpyker: {
+		DisplayName: 叶针霰弹炮
+		Tooltip:
+			'''
+			将火枪子弹转化为会钉在敌人身上并爆炸的叶针
+			"案例证明，用它来翻新家居可能不是个好主意"
+			'''
+	}
+
+	RStarfleet: {
+		DisplayName: 星辰冲击波
+		Tooltip: 发射数个等离子星弹
+	}
+
+	RStarmada: {
+		DisplayName: 群星大炮
+		Tooltip: 发射星辰与等离子星弹
+	}
+
+	RStarSputter: {
+		DisplayName: 星辰溅散
+		Tooltip:
+			'''
+			发射一束陨星
+			每四次攻击发射一个更大的陨星
+			“眺望遥远星系的闪烁群星”
+			'''
+	}
+
+	RStellarCannon: {
+		DisplayName: 新星炮
+		Tooltip:
+			'''
+			使用坠落之星作为弹药
+			发射一个爆炸幻星水晶
+			'''
+	}
+
+	RStormDragoon: {
+		DisplayName: 风暴龙骑士
+		Tooltip:
+			'''
+			如狂风暴雨般倾泻子弹
+			"我是即将到来的风暴"
+			'''
+	}
+
+	RStormSurge: {
+		DisplayName: 旋风发射器
+		Tooltip:
+			'''
+			发射可以穿透物块的蓝色旋风
+			"在风暴中恐惧并臣服"
+			'''
+	}
+
+	RSulphuricAcidCannon: {
+		DisplayName: 硫酸炮
+		Tooltip: 发射一个能黏在敌人身上的硫酸弹幕并溶解它们
+	}
+
+	RSvantechnical: {
+		DisplayName: 斯万科技枪
+		Tooltip:
+			'''
+			发射三股能量束，能量束会分裂成追踪光标位置的光束
+			按下右键发射一团普通子弹
+			"科技改变生活"
+			'''
+	}
+
+	RTelluricGlare: {
+		DisplayName: 地核之炎
+		Tooltip:
+			'''
+			发射数支可穿透物块的爆炸辐射箭
+			"来自地心!"
+			'''
+	}
+
+	RTheBallista: {
+		DisplayName: 破城巨弓
+		Tooltip:
+			'''
+			将木箭转化为能击碎敌人的护甲并且会碎裂为化石碎片的破城巨箭
+			"事实上，它连门都破不开"
+			'''
+	}
+
+	RTheMaelstrom: {
+		DisplayName: 幽漩风暴
+		Tooltip:
+			'''
+			左键发射激流水箭，击中敌人后释放一次水压炸弹
+			右键蓄力释放一个充能猎魂鲨
+			'''
+	}
+
+	RThePack: {
+		DisplayName: 集束火箭
+		Tooltip: 发射一个大的追踪火箭，接近敌人时爆炸出小的追踪火箭
+	}
+
+	RTheStorm: {
+		DisplayName: 风暴
+		Tooltip:
+			'''
+			暴雨般落下箭矢，射出的箭矢都会带上电弧
+			会将木箭转化为电弧矢
+			'''
+	}
+
+	RThunderstorm: {
+		DisplayName: 虚灵步枪
+		Tooltip: 发射一发拉德尔电磁冲击，以魔力作为弹药
+	}
+
+	RToxibow: {
+		DisplayName: 剧毒烈弓
+		Tooltip:
+			'''
+			将木箭转换为缓慢移动的能够造成辐射减益的爆炸箭矢
+			"含有丰富的有毒物质"
+			'''
+	}
+
+	RTyrannysEnd: {
+		DisplayName: 暴政之终
+		Tooltip:
+			'''
+			一把发射.70BMG子弹的重型反器材步枪
+			击中后爆发出剧烈的金属射流杀伤大面积的敌人
+			'''
+	}
+
+	RUltima: {
+		DisplayName: 创世纪
+		Tooltip:
+			'''
+			射出连续的电浆光矢
+			随使用时间的增加，光矢会被替换成镭射死光
+			持续射击时，光矢将会充能形成实体光束
+			90%几率节省弹药
+			'''
+	}
+
+	RUniversalGenesis: {
+		DisplayName: 宇宙之源
+		Tooltip:
+			'''
+			从枪口发射一簇子弹，令一簇坠星朝鼠标位置降落
+			将火枪子弹转化为击中后召唤额外坠星的唤星弹
+			“令星空坠落到敌人头上”
+			'''
+	}
+
+	RVoidragon: {
+		DisplayName: 太虚星龙炮
+		Tooltip:
+			'''
+			每隔六发就会喷发一次虚空爆弹
+			子弹击中敌人后会原地生长出虚空之触
+			"这条鱼来自于星空，但它并非欧姆尼赛亚，也非虚空龙，它只是一条鱼"
+			'''
+	}
+
+	RVortexpopper: {
+		DisplayName: 漩涡泡泡枪
+		Tooltip:
+			'''
+			左键发射泡泡子弹
+			右键进行全自动扫射，并在鼠标处生成大量泡泡
+			"没有什么是比把子弹塞进泡泡里面更好的了"
+			'''
+	}
+
+	RMagicConch: {
+		DisplayName: 魔法海螺
+		Tooltip: 为什么不问问神奇的魔法海螺呢?
+	}
+
+	RFrostcrushValari: {
+		DisplayName: 寒霜回旋镖
+		Tooltip: 潜伏攻击将投掷出一个巨大的回旋镖和两个追踪目标的伴生回旋镖
+	}
+
+	RWaveSkipper: {
+		DisplayName: 越浪蛟
+		Tooltip:
+			'''
+			左键发射在沙地中潜跃的沙牙，潜行攻击发射三发巨大的沙牙
+			右键发射弹跳沙牙，潜行攻击令数个疾速的沙牙从天而降
+			'''
+	}
+
+	RRustyMedallion: {
+		DisplayName: 锈蚀勋章
+		Tooltip:
+			'''
+			让大多数远程武器攻击时在空中释放酸性液滴
+			使你免疫辐射减益
+			'''
+	}
+
+	RWarbanneroftheSun: {
+		DisplayName: 阳炎战旗
+		Tooltip:
+			'''
+			当你接近敌人时会增加近战伤害、真近战伤害和近战攻速
+			至多增加20%近战伤害、真近战伤害和近战攻速
+			'''
+	}
+
+	RAestheticus: {
+		DisplayName: 美学魔杖
+		Tooltip:
+			'''
+			发射爆炸水晶减速敌人
+			受所有的伤害属性加成
+			'''
+	}
+
+	REyeofMagnus: {
+		DisplayName: 马格努斯之眼
+		Tooltip:
+			'''
+			发射能够削减敌人防护能力的星光射线
+			击中敌人时会回复生命值和魔力值
+			受所有的伤害属性加成
+			'''
+	}
+
+	RLunicEye: {
+		DisplayName: 星光之眼
+		Tooltip:
+			'''
+			发射能够削减敌人防护能力的星光射线
+			受所有的伤害属性加成
+			'''
+	}
+
+	RAdamantiteRepeater: {
+		DisplayName: 精金连弩
+		Tooltip:
+			'''
+			蓄势发射快速的箭矢
+			将使箭矢额外穿透两个敌人
+			“由精金制成的连弩，强而有力，强而有力啊！”
+			'''
+	}
+
+	RAshWoodBow: {
+		DisplayName: 白蜡木弓
+		Tooltip: ""
+	}
+
+	RBeesKnees: {
+		DisplayName: 蜂膝弓
+		Tooltip: 木箭变成一队蜜蜂
+	}
+
+	RBloodRainBow: {
+		DisplayName: 血雨弓
+		Tooltip:
+			'''
+			鲜血从天而降
+			“血腥统治”
+			'''
+	}
+
+	RBoomstick: {
+		DisplayName: 三发猎枪
+		Tooltip:
+			'''
+			一次射出一片子弹
+			“我可没时间胡闹”
+			'''
+	}
+
+	RBorealWoodBow: {
+		DisplayName: 针叶木弓
+		Tooltip: ""
+	}
+
+	RBubbleGun: {
+		DisplayName: 泡泡枪
+		Tooltip:
+			'''
+			喷出大量会爆炸的海洋泡泡
+			少量泡泡会追踪敌人
+			谁不喜欢玩泡泡呢?
+			'''
+	}
+
+	RCandyCornRifle: {
+		DisplayName: 玉米糖步枪
+		Tooltip: 发射玉米软糖，因为玉米软糖很酷！
+	}
+
+	RChainGun: {
+		DisplayName: 链式机枪
+		Tooltip: 火力压制
+	}
+
+	RChlorophyteShotbow: {
+		DisplayName: 叶绿连弩
+		Tooltip:
+			'''
+			快速散射数发箭矢
+			将木箭转化为叶绿箭
+			“在经过了充分的光合作用之后，虽然还不能发射豌豆，但是已经是一把优秀的多头弓了”
+			'''
+	}
+
+	RClockworkAssaultRifle: {
+		DisplayName: 发条式突击步枪
+		Tooltip:
+			'''
+			一次射出3发子弹
+			“我知道它们为什么发出滴答滴答的声音了，我也知道怎样让它们停下来”
+			'''
+	}
+
+	RCobaltRepeater: {
+		DisplayName: 钴连弩
+		Tooltip:
+			'''
+			蓄势发射快速的箭矢
+			“由钴制成的连弩，强而有力”
+			'''
+	}
+
+	RCoinGun: {
+		DisplayName: 钱币枪
+		Tooltip:
+			'''
+			将钱币用作弹药
+			钱币价值更高，伤害越大
+			'''
+	}
+
+	RCopperBow: {
+		DisplayName: 铜弓
+		Tooltip:
+			'''
+			铜!
+			箭矢击中目标后生成几枚铜币
+			'''
+	}
+
+	RCutlass: {
+		DisplayName: 短弯刀
+		Tooltip: ""
+	}
+
+	RDaedalusStormbow: {
+		DisplayName: 代达罗斯风暴弓
+		Tooltip:
+			'''
+			左键让数发箭矢从天空散落
+			右键进行快而强劲的单发射击
+			"它和风暴没有关系，和天使也没有关系"
+			'''
+	}
+
+	RDartPistol: {
+		DisplayName: 飞镖手枪
+		Tooltip:
+			'''
+			以较快的速度发射飞镖
+			以诅咒镖为弹药时只能造成70%伤害
+			“用吹箭筒发射飞镖？老天，你是要我把火药含进嘴里吗”
+			'''
+	}
+
+	RDartRifle: {
+		DisplayName: 飞镖步枪
+		Tooltip:
+			'''
+			以较高的伤害发射飞镖
+			无视敌人至多15点护甲
+			“用吹箭筒发射飞镖？老天，你是要我把火药含进嘴里吗”
+			'''
+	}
+
+	RDD2BetsyBow: {
+		DisplayName: 空中祸害
+		Tooltip:
+			'''
+			发射五发可以分裂的并排箭矢
+			对空中的目标造成更高的伤害
+			'''
+	}
+
+	RDD2PhoenixBow: {
+		DisplayName: 幽灵凤凰
+		Tooltip: 利用不朽火焰的力量
+	}
+
+	RDeathSickle: {
+		DisplayName: 死神镰刀
+		Tooltip: 射出致命镰刀
+	}
+
+	RDemonBow: {
+		DisplayName: 恶魔弓
+		Tooltip: 恶魔金属？这貌似是最低效的一种利用方式
+	}
+
+	RDyeTradersScimitar: {
+		DisplayName: 外星弯刀
+		Tooltip: ""
+	}
+
+	REbonwoodBow: {
+		DisplayName: 乌木弓
+		Tooltip: ""
+	}
+
+	RElectrosphereLauncher: {
+		DisplayName: 电圈发射器
+		Tooltip:
+			'''
+			三发散射装载着电圈装置的火箭弹
+			火箭弹爆炸后产生持续伤害的电圈
+			电圈之间会生成电弧
+			“外星烧烤技术！”
+			'''
+	}
+
+	REnchantedBoomerang: {
+		DisplayName: 附魔回旋镖
+		Tooltip: 潜伏攻击将快速投掷三个回旋镖，击中目标后召唤落星
+	}
+
+	RFlamarang: {
+		DisplayName: 烈焰回旋镖
+		Tooltip: 潜伏攻击将快速投掷三个回旋镖，击中敌人后产生一次爆燃
+	}
+
+	RFlareGun: {
+		DisplayName: 信号枪
+		Tooltip: '''"别把它和发令枪搞混了"'''
+	}
+
+	RFlintlockpistol: {
+		DisplayName: 燧发枪
+		Tooltip: '''"相信古人的智慧"'''
+	}
+
+	RGatligator: {
+		DisplayName: 鳄鱼机关枪
+		Tooltip: “我喜欢鲨鱼枪，但更爱鳄鱼。毕竟，它们都有一个共同特点：随时可能咬掉使用者的手指”
+	}
+
+	RGladius: {
+		DisplayName: 罗马短剑
+		Tooltip: 快速而锋利
+	}
+
+	RGoldBow: {
+		DisplayName: 金弓
+		Tooltip:
+			'''
+			金!
+			箭矢击中目标后生成几枚金币
+			'''
+	}
+
+	RGrenadeLauncher: {
+		DisplayName: 手榴弹发射器
+		Tooltip:
+			'''
+			只能仰角开火
+			以弧线形式发射两枚榴弹
+			概率额外抛射一枚或两枚小型榴弹
+			“我们终于有了一种省力的方式来发射这些炸弹，虽然还是可能伤到自己”
+			'''
+	}
+
+	RHallowedRepeater: {
+		DisplayName: 神圣连弩
+		Tooltip:
+			'''
+			蓄势发射快速的箭矢
+			将使箭矢额外穿透两个敌人
+			同时额外发射灵液箭、圣箭和咒火箭
+			“善恶的力量都为这支箭开道”
+			'''
+	}
+
+	RHandgun: {
+		DisplayName: 手枪
+		Tooltip: '''"砰!砰!!砰!!!"'''
+	}
+
+	RHeatRay: {
+		DisplayName: 高温射线枪
+		Tooltip:
+			'''
+			射出灼热的高温射线
+			“喔啦！！”
+			'''
+	}
+
+	RHellwingBow: {
+		DisplayName: 地狱之翼弓
+		Tooltip: 木箭变成烈焰蝙蝠
+	}
+
+	RIceBow: {
+		DisplayName: 冰雪弓
+		Tooltip:
+			'''
+			冰!
+			拥有强劲的三连发
+			会将木箭转化为霜冻箭
+			箭矢击中目标后产生一片冰雾
+			'''
+	}
+
+	RIceSickle: {
+		DisplayName: 冰雪镰刀
+		Tooltip: 射出冰雪镰刀
+	}
+
+	RIronBow: {
+		DisplayName: 铁弓
+		Tooltip:
+			'''
+			铁！
+			箭矢击中目标后会给予玩家短暂时间的铁皮增益
+			'''
+	}
+
+	RLaserRifle: {
+		DisplayName: 激光步枪
+		Tooltip:
+			'''
+			发射某个战败者眼中的激光
+			“难以置信，那个怪物庞大的眼睛被塞进了这把枪里”
+			'''
+	}
+
+	RLeadBow: {
+		DisplayName: 铅弓
+		Tooltip:
+			'''
+			铅!
+			箭矢击中目标后会给予玩家短暂时间的铁皮增益
+			'''
+	}
+
+	RMarrow: {
+		DisplayName: 骸骨弓
+		Tooltip:
+			'''
+			骨!
+			将木箭转化为骸骨箭
+			箭矢击中目标后抛出几根骨头
+			'''
+	}
+
+	RMegashark: {
+		DisplayName: 巨兽鲨
+		Tooltip: '''"我们需要更大的口径，不是吗？"'''
+	}
+
+	RMeowmere: {
+		DisplayName: 彩虹猫之刃
+		Tooltip: ""
+	}
+
+	RMineralSword: {
+		DisplayName: 铅宽剑
+		Tooltip: ""
+	}
+
+	RMineralSword2: {
+		DisplayName: 锡宽剑
+		Tooltip: ""
+	}
+
+	RMineralSword3: {
+		DisplayName: 钨宽剑
+		Tooltip: ""
+	}
+
+	RMineralSword4: {
+		DisplayName: 铂金宽剑
+		Tooltip: ""
+	}
+
+	RMineralSword5: {
+		DisplayName: 金阔剑
+		Tooltip: ""
+	}
+
+	RMineralSword6: {
+		DisplayName: 铁阔剑
+		Tooltip: ""
+	}
+
+	RMineralSword7: {
+		DisplayName: 铜阔剑
+		Tooltip: ""
+	}
+
+	RMineralSword8: {
+		DisplayName: 银阔剑
+		Tooltip: ""
+	}
+
+	RMineralSword9: {
+		DisplayName: 仙人掌剑
+		Tooltip: 穿着全套仙人掌套装时，可以发射仙人掌球
+	}
+
+	RMinishark: {
+		DisplayName: 迷你鲨
+		Tooltip: '''"小鲨鱼有一份在靶场的工作，它的职责是当一名“开火”顾问"'''
+	}
+
+	RMoltenFury: {
+		DisplayName: 熔火之怒
+		Tooltip:
+			'''
+			将木箭转化为火矢
+			将烈焰箭转化为狱炎箭
+			'''
+	}
+
+	RMusket: {
+		DisplayName: 火枪
+		Tooltip: “民兵说，我必须做好准备”
+	}
+
+	RMythrilRepeater: {
+		DisplayName: 秘银连弩
+		Tooltip:
+			'''
+			蓄势发射快速的箭矢
+			将使箭矢额外穿透一个敌人
+			“由秘银制成的连弩，更加强而有力”
+			'''
+	}
+
+	RNailGun: {
+		DisplayName: 钉枪
+		Tooltip:
+			'''
+			发射一颗大钉子，击中敌人时在敌人的头上爆出三颗爆炸钉子
+			未击中敌人的大钉子也会在一段时间之后爆炸
+			“从钉子头的头上拔下来的钉子，效果拔群，现在让我们试试制造更多的钉子头”
+			'''
+	}
+
+	ROnyxBlaster: {
+		DisplayName: 玛瑙爆破枪
+		Tooltip:
+			'''
+			将一发子弹转化为玛瑙爆破弹
+			“黑暗的能量从枪中迸发”
+			'''
+	}
+
+	ROrichalcumRepeater: {
+		DisplayName: 山铜连弩
+		Tooltip:
+			'''
+			稳定发射两支散射的箭矢
+			“由山铜制成的连弩，能够使你完全掌握两箭散射的技艺”
+			'''
+	}
+
+	RPalladiumRepeater: {
+		DisplayName: 钯金连弩
+		Tooltip:
+			'''
+			概率发射两支散射的箭矢
+			“由钯金制成的连弩，能够使你初步掌握两箭散射的技艺”
+			'''
+	}
+
+	RPalmWoodBow: {
+		DisplayName: 棕榈木弓
+		Tooltip: ""
+	}
+
+	RPearlwoodBow: {
+		DisplayName: 珍珠木弓
+		Tooltip: ""
+	}
+
+	RPhaseblade: {
+		DisplayName: 白陨石光剑
+		Tooltip: ""
+	}
+
+	RPhaseblade2: {
+		DisplayName: 紫陨石光剑
+		Tooltip: ""
+	}
+
+	RPhaseblade3: {
+		DisplayName: 橙陨石光剑
+		Tooltip: ""
+	}
+
+	RPhaseblade4: {
+		DisplayName: 蓝陨石光剑
+		Tooltip: ""
+	}
+
+	RPhaseblade5: {
+		DisplayName: 绿陨石光剑
+		Tooltip: ""
+	}
+
+	RPhaseblade6: {
+		DisplayName: 红陨石光剑
+		Tooltip: ""
+	}
+
+	RPhaseblade7: {
+		DisplayName: 黄陨石光剑
+		Tooltip: ""
+	}
+
+	RPhasesaber: {
+		DisplayName: 白晶光刃
+		Tooltip: ""
+	}
+
+	RPhasesaber2: {
+		DisplayName: 紫晶光刃
+		Tooltip: ""
+	}
+
+	RPhasesaber3: {
+		DisplayName: 橙晶光刃
+		Tooltip: ""
+	}
+
+	RPhasesaber4: {
+		DisplayName: 蓝晶光刃
+		Tooltip: ""
+	}
+
+	RPhasesaber5: {
+		DisplayName: 绿晶光刃
+		Tooltip: ""
+	}
+
+	RPhasesaber6: {
+		DisplayName: 红晶光刃
+		Tooltip: ""
+	}
+
+	RPhasesaber7: {
+		DisplayName: 黄晶光刃
+		Tooltip: ""
+	}
+
+	RPhoenixBlaster: {
+		DisplayName: 凤凰爆破枪
+		Tooltip: “狱石武器却不能掌控火焰？事实上子弹无法承受这股热量”
+	}
+
+	RPlatinumBow: {
+		DisplayName: 铂金弓
+		Tooltip:
+			'''
+			铂!
+			箭矢击中目标后生成几枚金币
+			'''
+	}
+
+	RProximityMineLauncher: {
+		DisplayName: 感应雷发射器
+		Tooltip:
+			'''
+			发射感高伤害应地雷，会自行伪装并提高伤害
+			“我们来玩扫雷吧”
+			'''
+	}
+
+	RPulseBow: {
+		DisplayName: 脉冲弓
+		Tooltip: 射出带电的箭
+	}
+
+	RQuadBarrelShotgun: {
+		DisplayName: 四管霰弹枪
+		Tooltip:
+			'''
+			一次射出5发不准确的子弹
+			“把枪管戳到那些怪物的眼睛上，这样就不需要瞄准了”
+			'''
+	}
+
+	RRedRyder: {
+		DisplayName: 红莱德枪
+		Tooltip: “别把自己的眼球射出来了！”
+	}
+
+	RRevolver: {
+		DisplayName: 左轮手枪
+		Tooltip: “伙计，这里不是西部电影，子弹是需要一颗一颗装的”
+	}
+
+	RRichMahoganyBow: {
+		DisplayName: 红木弓
+		Tooltip: ""
+	}
+
+	RRocketLauncher: {
+		DisplayName: 火箭发射器
+		Tooltip:
+			'''
+			蓄力发射一枚火箭弹
+			火箭击中后持续按住会发射数发小型的辅助火箭
+			“我打赌它不会被床板挡下”
+			'''
+	}
+
+	RSandgunTheUndertaker: {
+		DisplayName: 沙枪
+		Tooltip:
+			'''
+			右键喷出更多沙弹
+			“带着它把自己埋进沙子里，这样就可以假装成一个蚁狮”
+			'''
+	}
+
+	RSDMG: {
+		DisplayName: 太空海豚机枪
+		Tooltip:
+			'''
+			以极快的速度发射子弹
+			“它来自星界边境”
+			'''
+	}
+
+	RShadewoodBow: {
+		DisplayName: 暗影木弓
+		Tooltip: ""
+	}
+
+	RShadowFlameBow: {
+		DisplayName: 暗影焰弓
+		Tooltip:
+			'''
+			发射暗影焰箭矢
+			"来自一个女巫"
+			'''
+	}
+
+	RShotgun: {
+		DisplayName: 霰弹枪
+		Tooltip:
+			'''
+			一次射出8发子弹
+			“军火商希望这些枪有更多的枪管，这样他的子弹会更加畅销”
+			'''
+	}
+
+	RShroomerang: {
+		DisplayName: 蘑菇回旋镖
+		Tooltip: 潜伏攻击将释放蘑菇孢子炸弹
+	}
+
+	RSilverBow: {
+		DisplayName: 银弓
+		Tooltip:
+			'''
+			银!
+			箭矢击中目标后生成几枚银币
+			'''
+	}
+
+	RSniperRifle: {
+		DisplayName: 狙击步枪
+		Tooltip:
+			'''
+			火枪子弹或者神射手弹会被转化为高速子弹
+			精准度和伤害随着瞄准时间的增长而增加
+			弹匣中装有四发子弹，前三发无法暴击，第四发必定暴击
+			射出的子弹将会无视目标护甲
+			坐骑会影响这把精密武器的准确度
+			——久远的时间削弱了这把武器一半的力量
+			“当十字线把你锁定，死神将亲吻你的额头。”
+			'''
+	}
+
+	RSnowballCannon: {
+		DisplayName: 雪球炮
+		Tooltip:
+			'''
+			用雪球作为弹药
+			“你知道，往里面装雪球很冻手，所以我一次只能装一点”
+			'''
+	}
+
+	RSnowmanCannon: {
+		DisplayName: 雪人炮
+		Tooltip:
+			'''
+			发射雪人导弹一家
+			概率发射一枚缓慢的超大雪人导弹
+			“伙计，这是你的圣诞礼物”
+			'''
+	}
+
+	RSpaceGun: {
+		DisplayName: 太空枪
+		Tooltip: ""
+	}
+
+	RSpear: {
+		DisplayName: 长矛
+		Tooltip: 潜伏攻击将掷出强有力的一矛
+	}
+
+	RStakeLauncher: {
+		DisplayName: 尖桩发射器
+		Tooltip:
+			'''
+			发射具有穿透性的尖桩
+			尖桩被视为弓，但是这不意味着你不能装上瞄准镜
+			“彻底杀死吸血鬼的唯一方法就是将木制尖桩穿过它的心脏，但是不是吸血鬼也活不了”
+			'''
+	}
+
+	RStarCannon: {
+		DisplayName: 星星炮
+		Tooltip:
+			'''
+			发射星辰
+			"星光将会照亮前方"
+			'''
+	}
+
+	RStarWrath: {
+		DisplayName: 狂星之怒
+		Tooltip: 使星星从天而降
+	}
+
+	RSuperStarCannon: {
+		DisplayName: 超级星星枪炮
+		Tooltip:
+			'''
+			发射星辰
+			"现在我们有了更大更强的星星发射器"
+			'''
+	}
+
+	RTacticalShotgun: {
+		DisplayName: 战术霰弹枪
+		Tooltip:
+			'''
+			一次射出12发子弹
+			极近距离攻击时无视目标15点防御
+			“没有什么是贴脸一喷解决不了的，如果有，就多来几喷”
+			'''
+	}
+
+	RTendonBow: {
+		DisplayName: 肌腱弓
+		Tooltip:
+			'''
+			恶魔会在耳畔低语
+			箭矢击中目标后会给予玩家短暂时间的惊恐增益
+			'''
+	}
+
+	RTheUndertaker: {
+		DisplayName: 夺命枪
+		Tooltip: “当入殓师发现他们的客户不配合时，他们往往会使用这个让他们安静下来”
+	}
+
+	RTinBow: {
+		DisplayName: 锡弓
+		Tooltip:
+			'''
+			锡!
+			箭矢击中目标后生成几枚铜币
+			'''
+	}
+
+	RTitaniumRepeater: {
+		DisplayName: 钛金连弩
+		Tooltip:
+			'''
+			发射两支或三支散射的箭矢
+			“由钛金制成的连弩，你发现两箭散射很容易脱靶，于是你尝试三个”
+			'''
+	}
+
+	RTsunami: {
+		DisplayName: 海啸
+		Tooltip:
+			'''
+			发射五发并排箭矢
+			右键蓄力爆发出大量箭矢
+			'''
+	}
+
+	RTungstenBow: {
+		DisplayName: 钨弓
+		Tooltip:
+			'''
+			钨!
+			箭矢击中目标后生成几枚银币
+			'''
+	}
+
+	RUzi: {
+		DisplayName: 乌兹冲锋枪
+		Tooltip:
+			'''
+			将普通子弹转化为高速子弹
+			“轻便而充满杀伤力，不双持简直是对它的浪费”
+			'''
+	}
+
+	RVenusMagnum: {
+		DisplayName: 维纳斯万能枪
+		Tooltip:
+			'''
+			将普通子弹转化为高速子弹
+			“将爱转化为子弹的动能，维纳斯是这样说的”
+			'''
+	}
+
+	RVortexBeater: {
+		DisplayName: 星旋机枪
+		Tooltip:
+			'''
+			按一定频率发射星旋导弹
+			右键全功率发射星旋导弹
+			'''
+	}
+
+	RWoodenBoomerang: {
+		DisplayName: 木制回旋镖
+		Tooltip: 潜伏攻击将快速投掷三个回旋镖
+	}
+
+	RWoodenBow: {
+		DisplayName: 木弓
+		Tooltip:
+			'''
+			游侠之旅即将启程
+			箭矢击中目标后会转化为橡子
+			'''
+	}
+
+	RWoodenSword: {
+		DisplayName: 木剑
+		Tooltip: ""
+	}
+
+	RWoodenSword2: {
+		DisplayName: 乌木剑
+		Tooltip: ""
+	}
+
+	RWoodenSword3: {
+		DisplayName: 红木剑
+		Tooltip: ""
+	}
+
+	RWoodenSword4: {
+		DisplayName: 珍珠木剑
+		Tooltip: ""
+	}
+
+	RWoodenSword5: {
+		DisplayName: 暗影木剑
+		Tooltip: ""
+	}
+
+	RWoodenSword6: {
+		DisplayName: 棕榈木剑
+		Tooltip: ""
+	}
+
+	RWoodenSword7: {
+		DisplayName: 针叶木剑
+		Tooltip: ""
+	}
+
+	RWoodenSword8: {
+		DisplayName: 白蜡木剑
+		Tooltip: ""
+	}
+
+	RXenopopper: {
+		DisplayName: 外星霰弹枪
+		Tooltip:
+			'''
+			左键发射泡泡子弹
+			右键进行全自动扫射
+			"没有什么是比把子弹塞进泡泡里面更好的了"
+			'''
+	}
+
+	RZapinatorGray: {
+		DisplayName: 灰冲击枪
+		Tooltip: 这是你的幸运光
+	}
+
+	RZapinatorOrange: {
+		DisplayName: 橙冲击枪
+		Tooltip: 这是你的幸运光
+	}
+
+	REviscerator: {
+		DisplayName: 开膛者
+		Tooltip:
+			'''
+			将火枪子弹转化为鲜血爆弹
+			"来自异形，诛灭异形"
+			'''
+	}
+
+	RStarfury: {
+		DisplayName: 星怒
+		Tooltip:
+			'''
+			使星星从天而降
+			“用天堂怒火锻造而成”
+			'''
+	}
+
+	RDemonConch: {
+		DisplayName: 恶魔海螺
+		Tooltip:
+			'''
+			仔细听，你会听到尖叫声
+			“小心”
+			'''
+	}
+
+	REssenceFlayer: {
+		DisplayName: 精元劫掠者
+		Tooltip:
+			'''
+			发射精元镰刀，击杀敌人时会释放治愈光线
+			"对亡灵生物无效"
+			'''
+	}
+
+	ElementalRayRItem: {
+		DisplayName: 元素射线
+		Tooltip:
+			'''
+			发射四道天体射线
+			日耀射线在击中敌人时会爆炸成火焰
+			星云射线会小幅度扫射
+			星旋射线会造成带电减益
+			星尘射线在击中敌人敌怪时会生成追踪流星
+			'''
+	}
+
+	ModifyShroomiteMask.UpdateArmorText: 在换弹过程中将生成滞留的蘑菇弹幕
+	ModifyMythrilHood.UpdateArmorText: 在换弹过程中如果受到伤害将生成大量秘银火花
+	ModifyCobaltMask.UpdateArmorText: 在换弹过程中提高15%移动速度
+	ModifyOrichalcumHelmet.UpdateArmorText: 在换弹过程中如果受到伤害会四散溅射出大量花瓣
+	ModifyPalladiumHelmet.UpdateArmorText: 在换弹过程中如果会更快的恢复生命
+	ModifyChlorophyteHelmet.UpdateArmorText: 在换弹过程中将生成滞留的孢子云
+
+	ModifyChargingStationItem: {
+		DisplayName: 充能站
+		Tooltip:
+			'''
+			使用电力对电器进行充能
+			可以将电池放入其中灌输电力
+			也可以连接管道进行电力输送
+			手持需要充能的物品右键物块可以快捷放入
+			Shft右键可以拿出物品
+			[UEValue]
+			'''
+	}
+
+	ModifyLaserTurret: {
+		DisplayName: 激光炮塔
+		Tooltip:
+			'''
+			用闪电般快速的激光轰击附近敌怪
+			需要电量才能运行
+			[UEValue]
+			'''
+	}
+
+	ModifyLabTurret: {
+		DisplayName: 实验室炮塔
+		Tooltip:
+			'''
+			向附近敌怪发射激光
+			需要电量才能运行
+			[UEValue]
+			'''
+	}
+
+	ModifyIceTurret: {
+		DisplayName: 冰球炮塔
+		Tooltip:
+			'''
+			向附近敌怪投掷易碎的冰雾炸弹
+			需要电量才能运行
+			[UEValue]
+			'''
+	}
+
+	ModifyOnyxTurret: {
+		DisplayName: 玛瑙炮塔
+		Tooltip:
+			'''
+			以霰弹枪的方式向附近的敌怪发射子弹
+			需要电量才能运行
+			[UEValue]
+			'''
+	}
+
+	ModifyPlagueTurret: {
+		DisplayName: 瘟疫爆弹炮塔
+		Tooltip:
+			'''
+			向附近的敌怪发射追踪瘟疫导弹
+			需要电量才能运行
+			[UEValue]
+			'''
+	}
+
+	ModifyWaterTurret: {
+		DisplayName: 水流炮塔
+		Tooltip:
+			'''
+			向附近的敌怪喷射高速水流
+			需要电量才能运行
+			[UEValue]
+			'''
+	}
+
+	ModifyFireTurret: {
+		DisplayName: 火焰喷射炮塔
+		Tooltip:
+			'''
+			用最大功率的喷火器烤熟附近敌怪
+			需要电量才能运行
+			[UEValue]
+			'''
+	}
+
+	RCoal: {
+		DisplayName: 煤
+		Tooltip: 很适合充当燃料
+	}
+
+	ModifyBananarang: {
+		DisplayName: 香蕉回旋镖
+		Tooltip:
+			'''
+			潜伏攻击会丢出三个巨大的回旋镖，击中敌人后向空中抛出大量快乐炸弹
+			快乐炸弹会对敌人造成大量伤害，但同时也会伤害玩家和友好生物
+			"快乐与危险总是共存的，不是吗?"
+			'''
+	}
+
+	ModifyIceBoomerang: {
+		DisplayName: 冰雪回旋镖
+		Tooltip:
+			'''
+			潜伏攻击会丢出三个巨大的回旋镖，击中敌人后向生成一片冰雾
+			"很冻手"
+			'''
+	}
+
+	ModifyTrimarang: {
+		DisplayName: 三尖回旋镖
+		Tooltip:
+			'''
+			分别向三个方向投掷出回旋镖
+			潜伏攻击会将回旋镖巨大化，并在击中敌人后随机生成三种不同的效果
+			"成年人是不会做选择的，于是你将三个喜欢的回旋镖绑在了一起"
+			'''
+	}
+
+	ModifyAncientNecroHelmet.UpdateArmorText: 在换弹过程中如果受到伤害将抛出几个骨头
+	ModifyNecroHelmet.UpdateArmorText: 在换弹过程中如果受到伤害将抛出几个骨头
+}
+
+NPCs.DestroyerDrawHeadIconNPC.DisplayName: 毁灭者

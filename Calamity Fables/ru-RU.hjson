@@ -2,8 +2,8 @@
 	CalamityFables: {
 		Tiles: {
 			StormlionLarvaBanner.MapEntry: Знамя
-			HookstaffBuriedTile.MapEntry: Hookstaff
-			HookstaffTile.MapEntry: Hookstaff
+			HookstaffBuriedTile.MapEntry: Крюковидный посох
+			HookstaffTile.MapEntry: Крюковидный посох
 			NautilusPedestal.MapEntry: ""
 			GrapplerSpawnerTile.MapEntry: Спаунер
 			MagnetizerSpawnerTile.MapEntry: Спаунер
@@ -347,7 +347,7 @@
 
 			StormlionLarvaBannerItem: {
 				DisplayName: Знамя личинки штормового льва
-				Tooltip: Nearby Players get a bonus against: Stormlion Larva
+				Tooltip: Увеличены урон и защита в бою против: Личинка шторомового льва
 			}
 
 			StormlionLarvaItem: {
@@ -386,22 +386,22 @@
 			}
 
 			SirNautilusBossMask: {
-				DisplayName: Маска Графа Наутилуса
+				DisplayName: Маска сэра Наутилуса
 				Tooltip: ""
 			}
 
 			SirNautilusRelicItem: {
-				DisplayName: Релкивия Графа Наутилуса
+				DisplayName: Реликвия сэра Наутилуса
 				Tooltip: ""
 			}
 
 			SirNautilusTrophyItem: {
-				DisplayName: Трофей Графа Наутилуса
+				DisplayName: Трофей сэра Наутилуса
 				Tooltip: ""
 			}
 
 			AmnesiaItem: {
-				DisplayName: Когда-нибудь на границе космоса
+				DisplayName: Когда-нибудь, на границе космоса
 				Tooltip: ""
 			}
 
@@ -482,82 +482,81 @@
 			}
 
 			FungalThroatInfection: {
-				DisplayName: Fungal Throat Infection
+				DisplayName: Грибной фарингит
 				Tooltip:
 					'''
-					Changes your voice
-					'Great for impersonating a zombified corpse!'
+					Изменяет ваш голос
+					«Отлично подходит для подражания голоса зомбифицированных тупов!»
 					'''
 			}
 
 			InkyBluePendant: {
-				DisplayName: Inky Blue Pendant
+				DisplayName: Чернильно-синяя подвестка
 				Tooltip:
 					'''
-					Summons an Inky Cap Guardian to fight for you
-					Right click to enroot the Guardian, creating a healing aura for you and other players
-					The enrooted Guardian can also be used as a trampoline
-					You can only have one guardian summoned at once
-					Requires two minion slots
+					Призывает стража в черничной шапочке сражаться за вас
+					Нажмите ПКМ рядом с поверхностью, чтобы стража вмазался в землю и начал излучать ауру, исцеляющую вас и других игроков
+					На вмазавшемся страже также можно прыгать как на батуте
+					Вы можете призвать только одного стража в чернильной шапочке, занимающего 2 слота миньонов
 					'''
 			}
 
 			LuminousMixture: {
-				DisplayName: Luminous Mixture
-				Tooltip: Grants a short surge of power when using a healing item
+				DisplayName: Светяшщаяся микстура
+				Tooltip: Даёт кратковременный прилив сил при использовании исцеляющих предметов
 			}
 
 			MoldyPicklaw: {
-				DisplayName: Moldy Picklaw
+				DisplayName: Проплесневевшая кирколапа
 				Tooltip:
 					'''
-					Converts soft tiles and common stones into fragile mycelium
-					Mycelium is frail and will break apart multiple tiles at once
+					Превращает мягкие почвы и обычный камень в мицелий
+					Мицелий, будучи хрупким, разрушается по несколько блоков за раз
 					'''
 			}
 
 			MushroomBoots: {
-				DisplayName: Mushroom Boots
-				Tooltip: Leaves a trail of mushrooms in your wake
+				DisplayName: Грибные ботинки
+				Tooltip: Оставляет за вами шрибной след
 			}
 
 			MyceliumMoldItem: {
-				DisplayName: Mycelium Mold
-				Tooltip: Less frail than the regular variety
+				DisplayName: Проплесневевший мицелий
+				Tooltip: Не такой хрупкий, как его обычная версия
 			}
 
 			OrnamentalHookstaff: {
-				DisplayName: Ornamental Hookstaff
+				DisplayName: Декорантивный крюковидный посох
 				Tooltip: ""
 			}
 
 			OvergrownClaw: {
-				DisplayName: Overgrown Claw
+				DisplayName: Заросшая клешня
 				Tooltip:
 					'''
-					Launch a fungal claw to grab your foes
-					Small enemies can be moved and thrown, or slammed into terrain
-					Large enemies can be damaged by tearing the claw out
+					Выпускает грибную клешню, хватающую ваших врагов
+					Маленьких врагов можно двигать и бросать, а также бить их об землюS
+					Большим врагам можно наносить дополнительный урон, натягивая и открывая от них клешню
 					'''
 			}
 
 			PsychedelicFogMachineItem: {
-				DisplayName: Psychedelic Fog Machine
+				DisplayName: Генератор психоделического тумана
 				Tooltip: ""
 			}
 
 			SerratedFiberCloak: {
-				DisplayName: Serrated Fiber Cloak
+				DisplayName: Островолокнистый плащ
 				Tooltip:
 					'''
-					Replaces your hook with three powerful mycelium hooks
+					Заменяет ваш крюк тремя мощными мицелиевыми крюками
 					Hold the grapple key down to create a temporary hookpoint, letting you slingshot yourself through the air at high speed
 					Only one hookpoint may exist at a time
 					'''
 			}
 
 			SporeDye: {
-				DisplayName: Spore Dye
+				DisplayName: Споровый краситель
 				Tooltip: ""
 			}
 

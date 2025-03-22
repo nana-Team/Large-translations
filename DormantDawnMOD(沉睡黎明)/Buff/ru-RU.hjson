@@ -1,0 +1,407 @@
+Mods: {
+	DDmod: {
+		Buffs: {
+			Bleed: {
+				DisplayName: Кровотечение
+				Description: Сильное кровотечение.
+			}
+
+			Charged: {
+				DisplayName: Заряжен
+				Description: Электрически заряжен, ай!
+			}
+
+			Charged2: {
+				DisplayName: Заряжен
+				Description: Электрически заряжен, ай!
+			}
+
+			Damp: {
+				DisplayName: Сырость
+				Description: Ваша одежда мокрая.
+			}
+
+			EvilEntanglement: {
+				DisplayName: Зловещие путы
+				Description: Силы зла разъедают вашу жизнь.
+			}
+
+			Exposed: {
+				DisplayName: Уязвимость
+				Description: Тьма временно отвергает вас.
+			}
+
+			Fossil: {
+				DisplayName: Окаменелость
+				Description: Вы превратились в окаменелость.
+			}
+
+			Freeze: {
+				DisplayName: Заморозка
+				Description: Вы превратились в ледяную скульптуру.
+			}
+
+			Frozen: {
+				DisplayName: Заморожен
+				Description: Вам слишком тяжело двигаться
+			}
+
+			SpecialAttackCD: {
+				DisplayName: Перезарядка спец. атаки
+				Description: Ваша специальная атака на перезарядке!
+			}
+
+			AcornMarker: {
+				DisplayName: Метка Жёлудя
+				Description: Посмотрите, как этот жёлудь делает сальто!
+			}
+
+			BlessingOfTheHeart: {
+				DisplayName: Благословение Сердца
+				Description: Регенерация здоровья умеренно увеличена
+			}
+
+			CrimsonFury: {
+				DisplayName: Багровая ярость
+				Description: Урон увеличен на 10%. Жизненная сила ваших врагов лечит вас.
+			}
+
+			MagicStar: {
+				DisplayName: Магическая Звезда
+				Description: Звёзды упадут пред вами!
+			}
+
+			MeteorMarker: {
+				DisplayName: Метка Метеора
+				Description: Это адский дождь~
+			}
+
+			ServantOfTheHeartBuff: {
+				DisplayName: Слуги Сердца
+				Description: Слуги Сердца будут атаковать врагов рядом с вами.
+			}
+
+			TerraPower: {
+				DisplayName: Сила Терры
+				Description: Вы переполнены силой Терры!
+			}
+
+			TerraPower2: {
+				DisplayName: Сила Терры
+				Description: Вы переполнены силой Терры!
+			}
+
+			力量之魂: {
+				DisplayName: Душа силы
+				Description: ""
+			}
+
+			地狱之火: {
+				DisplayName: Адское Пламя
+				Description: Охвачен пламенем ада.
+			}
+
+			炼狱之火: {
+				DisplayName: Огонь Чистилища
+				Description: Высокая температура, которая плавит даже обсидиан.
+			}
+
+			狱火爆炸: {
+				DisplayName: Взрыв Адского Пламени
+				Description: Хрустяще и вкусно!
+			}
+
+			迅捷之力: {
+				DisplayName: Сила Скорости
+				Description: Скорость передвижения увеличена на 20%, а скорость атаки на 10%.
+			}
+
+			食物buff: {
+				DisplayName: Еда
+				Description: Нямк!
+			}
+
+			食物DeBuff: {
+				DisplayName: Еда
+				Description: Фу, воняет.
+			}
+
+			流星飞行器Buff: {
+				DisplayName: Метеоритный летательный аппарат
+				Description: Вы стоите на летательном аппарате.
+			}
+
+			ChildOfTheStarsBuff: {
+				DisplayName: Сыновья Стража Маны
+				Description:  Сыновья Стража Звёзд следуют за вами.
+			}
+
+			Devil_SlimeBuff: {
+				DisplayName: Демонический Слизень
+				Description: Это слизень.
+			}
+
+			SmallMeteorDiggerBuff: {
+				DisplayName: Маленький Метеорный землекоп
+				Description: Бур на его голове, кажется, неисправен.
+			}
+
+			SonOfTheLifeGuardBuff: {
+				DisplayName: Сыновья Стража Жизни
+				Description: Сыновья Стража Жизни следуют за вами.
+			}
+
+			狱火蛇之子Buff: {
+				DisplayName: Сын Змея Адского Пламени
+				Description: Этот малыш принял вас за свою мать.
+			}
+
+			stupidCatSlimeBuff: {
+				DisplayName: Глупый кошачий слизень
+				Description: Глупенький кот!
+			}
+
+			SycamoreBunnySlimeBuff: {
+				DisplayName: Слизень-кролик Сикамор
+				Description: Этот слизень полностью посвятил себя созданию всей музыки в этом моде!
+			}
+
+			TairitsuSlimeBuff: {
+				DisplayName: Слизень Тайрицу
+				Description: ""
+			}
+
+			AcornSpiritBuff: {
+				DisplayName: Дух Жёлудя
+				Description: Обычный жёлудь в Терре, радуйтесь, что он не кричит "Эй! Слушай!" каждые четыре секунды.
+			}
+
+			BloodWormBuff: {
+				DisplayName: Кровавый червь
+				Description: Не волнуйтесь, он не укусит вас... Надеюсь.
+			}
+
+			CopperSwordBuff: {
+				DisplayName: Медный меч
+				Description: Этот уважаемый джентльмен будет атаковать врагов вокруг вас.
+			}
+
+			EaterOfCorrosionBuff: {
+				DisplayName: Пожиратель Душ
+				Description: Искажать, грызть, разлагать!
+			}
+
+			IronSpikeBallBuff: {
+				DisplayName: Железный шипастый шар
+				Description:  Портативный размягчитель мяса!
+			}
+
+			LeadSpikeBallBuff: {
+				DisplayName: Свинцовый шипастый шар
+				Description: Эффективен для лечения радиации... А также для отравления свинцом ваших врагов!
+			}
+
+			LeafCrystalBuff: {
+				DisplayName: Лиственный кристалл
+				Description: Мощный кристалл, созданный Лесом с душами тех, кто пал на его священной земле.
+			}
+
+			MagicStarBuff: {
+				DisplayName: Магический слуга
+				Description: Слуги Стража Звёзд под вашим командованием
+			}
+
+			MeteorFighterBuff: {
+				DisplayName: Метеорный боец
+				Description: Вы управляете им своей волей... Или он управляет вами своей волей?...
+			}
+
+			MeteorYshapedDroneBuff: {
+				DisplayName: Метеорный Y-образный дрон
+				Description: Он управляет вами своей волей.
+			}
+
+			ShadowImpBuff: {
+				DisplayName: Бес теневого пламени
+				Description: Этот адский бес, наполненный теневым пламенем, под вашим командованием.
+			}
+
+			ShadowSkullBuff: {
+				DisplayName: Череп теневого пламени
+				Description: Это пылающее существо, когда-то принадлежавшее гоблинскому колдуну, теперь под вашим командованием.
+			}
+
+			TinSwordBuff: {
+				DisplayName: Оловянный меч
+				Description: По сути, пьяный брат Медного меча.
+			}
+
+			神庙探针Buff: {
+				DisplayName: Храмовые зонды
+				Description: Автоматические турели, созданные Ящщерами с сущностью древних сил, которые когда-то правили Джунглями.
+			}
+
+			守护: {
+				DisplayName: Щит
+				Description: Иммунитет к одному ударуу и небольшое лечение.
+			}
+
+			真守护: {
+				DisplayName: Терра щит
+				Description: Иммунитет к одному удару и лечение, также может вызвать коррозию Терры.
+			}
+
+			鬼牙仆从Buff: {
+				DisplayName: Прислужники Призрачных Клыков
+				Description: Он будет защищать вас в темноте.
+			}
+
+			鬼牙眷顾: {
+				DisplayName: Благосклонность Призрачных Клыков
+				Description: Постоянно восстанавливает здоровье.
+			}
+
+			ManaSickness: Магический урон и скорость атаки снижены на {0}%.
+
+			恐吓: {
+				DisplayName: Запугивание
+				Description: Вы чувствуете, что за вами кто-то следит, и теперь не можете двигаться.
+			}
+
+			蘑菇鞭Buff: {
+				DisplayName: Грибной хлыст
+				Description: ""
+			}
+
+			发光蘑菇崽Buff: {
+				DisplayName: Светящиеся грибные детёныши
+				Description: Они будут защищать вас
+			}
+
+			眼球怪Buff: {
+				DisplayName: Глазные монстры
+				Description: Теперь этот малыш просто хочет защитить вас.
+			}
+
+			绿岩鞭Buff: {
+				DisplayName: Хлыст из зеленого камня
+				Description: ""
+			}
+
+			绿岩侦察机Buff: {
+				DisplayName: Разведывательный аппарат Зеленого Камня
+				Description: Он будет сражаться за вас.
+			}
+
+			微型绿岩之视Buff: {
+				DisplayName: Миниатюрное Визор Зелёного Камня
+				Description: Ди Ди Ди......
+			}
+
+			血肉仆从Buff: {
+				DisplayName: Прислужники из плоти крови
+				Description: Прислужники из плоти крови будут защищать вас.
+			}
+
+			绿岩能量Buff: {
+				DisplayName: Энергия Зелёного Камня
+				Description: Вы чувствуете, что стали немного лучше управляться с магическим оружием в руке.
+			}
+
+			海幽浮Buff: {
+				DisplayName: Призрачные медузы
+				Description: Двое малышей следуют за вами.
+			}
+
+			封魔尖锥Buff: {
+				DisplayName: Запечатывающий шип
+				Description: Бесчисленные души в теле Швов Страха были запечатаны внутри.
+			}
+
+			拉肚子: {
+				DisplayName: Диарея
+				Description: Вашему желудку очень плохо, и вам срочно нужно в туалет.
+			}
+
+			星心考验: {
+				DisplayName: Испытание Звёздного Сердца
+				Description: ""
+			}
+
+			星心:
+				'''
+               Снижает {0} максимального здоровья и {1} максимальной маны.  
+               Если вы держите немагическое оружие, получая звёздный урон, вы получите в 1.5 раза больше урона.  
+				'''
+
+			苍穹守卫幻象Buff: {
+				DisplayName: Видения Стража Небес
+				Description: Часть Стража Небес.
+			}
+
+			星心之子Buff: {
+				DisplayName: Сыновья Звёздного Сердца
+				Description: Страж Маны и Сын Стража Жизни следуют за вами.
+			}
+
+			永夜侵袭: {
+				DisplayName: Коррозия Ночи
+				Description: ""
+			}
+
+			真永夜侵袭: {
+				DisplayName: Истинная Коррозия Ночи
+				Description: ""
+			}
+
+			泰拉侵袭: {
+				DisplayName: Коррозия Терры
+				Description: ""
+			}
+
+			泰拉守护: {
+				DisplayName: Страж Терры
+				Description: Иммунитет к одному урону и лечение, а также может нанести коррозию Терры.
+			}
+
+			丛林香水Buff: {
+				DisplayName: Джунглевый парфюм
+				Description: Растения в джунглях любят этот запах.
+			}
+
+			远古能量Buff: {
+				DisplayName: Древняя энергия
+				Description: Магическая сила в вашем теле, кажется, привлекает древнее существо.
+			}
+
+			恶魔力量Buff: {
+				DisplayName: Демоническая сила
+				Description: Значительно увеличивает урон и быстро восстанавливает здоровье.
+			}
+
+			神圣仙酒Buff: {
+				DisplayName: Святое вино
+				Description:
+					'''
+					Одна особенная Фея в освящении привлечена вашим ароматом.  
+                    Слабо снижает защиту и немного увеличивает здоровье и урон.  
+					'''
+			}
+
+			盾牌强化Buff: {
+				DisplayName: Усиление
+				Description: Ваши мечи и щиты будут усилены при следующей атаке.
+			}
+
+			白切灵剑Buff: {
+				DisplayName: 白切灵剑 Buff
+				Description: Mods.DDmod.Buffs.白切灵剑Buff.Description
+			}
+
+			薄绿Buff: {
+				DisplayName: Минт
+				Description: Кошечка Минт
+			}
+		}
+	}
+}

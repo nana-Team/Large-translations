@@ -1,0 +1,3101 @@
+Mods: {
+	DDmod: {
+		Items: {
+			VampiricArrowItem: {
+				DisplayName: 吸血鬼箭
+				Tooltip: 有几率偷取敌人生命值
+			}
+
+			MeteorHood: {
+				DisplayName: 流星面罩
+				Tooltip: 增加1最大召唤栏,5%召唤伤害
+			}
+
+			GuardianOfTheHeart: {
+				DisplayName: 心之守护
+				Tooltip:
+					'''
+					增加25点生命，被攻击后快速回复生命
+					召唤心之仆从保护你
+					'''
+			}
+
+			HeartBow: {
+				DisplayName: 心弓
+				Tooltip:
+					'''
+					将木箭转换为心箭,命中炸出爱心
+					短时间延迟后敌人碰到爱心会造成伤害
+					'''
+			}
+
+			HeartStaffItem: {
+				DisplayName: 心之法杖
+				Tooltip: 击中有几率给予你心之祝福Buff
+			}
+
+			HeartSword: {
+				DisplayName: 心剑
+				Tooltip: 真近战造成伤害能炸出爱心,发射易碎的生命心
+			}
+
+			HeartWhipItem: {
+				DisplayName: 心鞭
+				Tooltip:
+					'''
+					击中后标记敌人
+					召唤物攻击标记后的敌人会释放爱心
+					击中后给予你心之祝福
+					'''
+			}
+
+			LifeAmulet: {
+				DisplayName: 生命护身符
+				Tooltip: 召唤生命之子跟随你
+			}
+
+			LifeGuardMask: {
+				DisplayName: 生命守卫面具
+				Tooltip: ""
+			}
+
+			LifeGuardRelic: {
+				DisplayName: 生命守卫圣物
+				Tooltip: ""
+			}
+
+			LifeGuardTreasureBag: {
+				DisplayName: 宝藏袋(生命守卫)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			LifeGuardTrophyItem: {
+				DisplayName: 生命守卫纪念章
+				Tooltip: ""
+			}
+
+			SuspiciousHeartStone: {
+				DisplayName: 可疑的心形石头
+				Tooltip: ""
+			}
+
+			哈迪斯之刃物品: {
+				DisplayName: 哈迪斯之刃
+				Tooltip: ""
+			}
+
+			奇怪的控制器: {
+				DisplayName: 可疑的雷达
+				Tooltip:
+					'''
+					似乎会吸引某可疑机械的注意
+					不消耗
+					'''
+			}
+
+			流星Y形无人机控制器: {
+				DisplayName: 流星Y形无人机控制器
+				Tooltip: 召唤一台Y形无人机消灭你的敌人
+			}
+
+			流星冲刺翼: {
+				DisplayName: 流星冲刺翼
+				Tooltip:
+					'''
+					不提供基础飞行时间,但是可以滑翔
+					可以冲刺,CD5秒,CD时冲刺距离会变短
+					“每公里燃血23升”
+					'''
+			}
+
+			流星歼灭者圣物: {
+				DisplayName: 流星歼灭者圣物
+				Tooltip: ""
+			}
+
+			流星歼灭者纪念章: {
+				DisplayName: 流星歼灭者纪念章
+				Tooltip: ""
+			}
+
+			流星箱: {
+				DisplayName: 流星收纳箱(流星歼灭者)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			流星遥控手环: {
+				DisplayName: 流星遥控手环
+				Tooltip: 控制一个流星飞行器
+			}
+
+			流星飞盘物品: {
+				DisplayName: 流星飞盘
+				Tooltip: ""
+			}
+
+			AlienRigController: {
+				DisplayName: 外星钻机控制器
+				Tooltip:
+					'''
+					貌似是某东西的控制器,但是你只找到了一个按钮
+					不消耗
+					'''
+			}
+
+			A: {
+				DisplayName: A
+				Tooltip: ""
+			}
+
+			流星掘地者圣物: {
+				DisplayName: 流星掘地者圣物
+				Tooltip: ""
+			}
+
+			DrillingTool: {
+				DisplayName: 钻头工具
+				Tooltip: 增加5格挖掘距离和30%挖掘速度
+			}
+
+			LargeMechanicalScrap: {
+				DisplayName: 巨大机械废料
+				Tooltip: 流星掘地者爆炸后能利用的一些材料
+			}
+
+			MeteorDiggerMask: {
+				DisplayName: 流星掘地者面具
+				Tooltip: ""
+			}
+
+			MeteorDiggerTrophyItem: {
+				DisplayName: 流星掘地者纪念章
+				Tooltip: ""
+			}
+
+			MeteorExcavatorRemoteControl: {
+				DisplayName: 流星挖掘机遥控器
+				Tooltip: 召唤一台流星挖掘机挖穿你的世界,左键控制右键挖掘!
+			}
+
+			MeteorLaserGunItem: {
+				DisplayName: 流星激光枪
+				Tooltip: 连续射出三发绿激光后,射出一道没有子弹时间的绿激光
+			}
+
+			MeteorRifleItem: {
+				DisplayName: 流星步枪
+				Tooltip: 有几率射出一发激光
+			}
+
+			MeteorShortSwordItem: {
+				DisplayName: 流星短剑
+				Tooltip: ""
+			}
+
+			MeteorToolbox: {
+				DisplayName: 工具箱(流星掘地者)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			MeteorWhipItem: {
+				DisplayName: 流星鞭
+				Tooltip: 命中后标记敌人和点燃敌人,召唤物对目标造成10%的额外伤害
+			}
+
+			SlightlyDamagedCore: {
+				DisplayName: 轻微损坏的挖掘机核心
+				Tooltip:
+					'''
+					召唤小型流星掘地者
+					"不具备挖矿能力"
+					'''
+			}
+
+			枯萎橡果炮: {
+				DisplayName: 枯萎橡果炮
+				Tooltip: ""
+			}
+
+			GuardianOfTheStar: {
+				DisplayName: 星之守护
+				Tooltip:
+					'''
+					每隔一段时间会生成一个法阵保护你
+					增加40魔力上限
+					'''
+			}
+
+			MagicStarBowItem: {
+				DisplayName: 魔星弓
+				Tooltip: 凝结法阵将射出的箭分裂
+			}
+
+			MagicStarStaff: {
+				DisplayName: 魔星法杖
+				Tooltip: 召唤星辰守卫的仆从为你而战
+			}
+
+			MagicStarSwordItem: {
+				DisplayName: 魔星剑
+				Tooltip: 消耗魔力从天召唤落星坠落
+			}
+
+			StarAmulet: {
+				DisplayName: 魔力护身符
+				Tooltip: 召唤星辰之子跟随你
+			}
+
+			StarGuardMask: {
+				DisplayName: 星辰守卫面具
+				Tooltip: ""
+			}
+
+			StarguardRelic: {
+				DisplayName: 星辰守卫圣物
+				Tooltip: ""
+			}
+
+			StarGuardTreasureBag: {
+				DisplayName: 宝藏袋(星辰守卫)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			StarguardTrophyItem: {
+				DisplayName: 星辰守卫纪念章
+				Tooltip: ""
+			}
+
+			StarwandItem: {
+				DisplayName: 星之魔杖
+				Tooltip: ""
+			}
+
+			SuspiciousStarStone: {
+				DisplayName: 可疑的星形石头
+				Tooltip:
+					'''
+					使用召唤星辰守卫
+					不消耗
+					'''
+			}
+
+			火蛇卵: {
+				DisplayName: 火蛇卵
+				Tooltip:
+					'''
+					激怒一个在地狱的火蛇
+					”地狱火蛇卵的仿制品”
+					不消耗
+					'''
+			}
+
+			狱火剑: {
+				DisplayName: 狱火剑
+				Tooltip: ""
+			}
+
+			狱火戒: {
+				DisplayName: 狱火戒
+				Tooltip:
+					'''
+					免疫岩浆,和部分高温buff,在岩浆里增加30%伤害
+					如果开启可见性,站在水上会导致水变成黑曜石
+					'''
+			}
+
+			狱火晶石: {
+				DisplayName: 狱火晶石
+				Tooltip:
+					'''
+					召唤小狱火蛇
+					"他在找妈妈"
+					'''
+			}
+
+			狱火杖: {
+				DisplayName: 狱火杖
+				Tooltip: ""
+			}
+
+			狱火炮: {
+				DisplayName: 狱火炮
+				Tooltip: ""
+			}
+
+			狱火蛇圣物: {
+				DisplayName: 狱火蛇圣物
+				Tooltip: ""
+			}
+
+			狱火蛇宝藏袋: {
+				DisplayName: 宝藏袋(狱火蛇)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			狱火蛇纪念章物品: {
+				DisplayName: 狱火蛇纪念章
+				Tooltip: ""
+			}
+
+			狱火蛇面具: {
+				DisplayName: 狱火蛇面具
+				Tooltip: ""
+			}
+
+			狱火链刃: {
+				DisplayName: 狱火链刃
+				Tooltip: ""
+			}
+
+			狱火鞭: {
+				DisplayName: 狱火鞭
+				Tooltip:
+					'''
+					你的召唤物会集中攻击你命中的敌人
+					召唤物击中你标记的敌人会发生一次爆炸
+					'''
+			}
+
+			ShadowBookItem: {
+				DisplayName: 暗影魔书
+				Tooltip: '''"上面写满了暗影焰魔法和哥布林的历史"'''
+			}
+
+			BloodStaffItem: {
+				DisplayName: 鲜血法杖
+				Tooltip: 右键吸取玩家的鲜血并造成更强大的伤害
+			}
+
+			B: {
+				DisplayName: B
+				Tooltip: ""
+			}
+
+			CorruptionStaffItem: {
+				DisplayName: 腐败魔杖
+				Tooltip: '''"暗夜之力的腐蚀会让敌人备受折磨!"'''
+			}
+
+			C: {
+				DisplayName: C
+				Tooltip: ""
+			}
+
+			FlameStaffItem: {
+				DisplayName: 烈焰法杖
+				Tooltip: ""
+			}
+
+			神圣法杖: {
+				DisplayName: 神圣法杖
+				Tooltip: '''"闪耀在光芒之中吧!"'''
+			}
+
+			ShadowOfTheDevilItem: {
+				DisplayName: 恶魔之影
+				Tooltip: 扔出一把幻影回旋镖,留下两个分身然后返回
+			}
+
+			叶绿飞刀: {
+				DisplayName: 叶绿飞刀
+				Tooltip: ""
+			}
+
+			乌木飞刀: {
+				DisplayName: 乌木飞刀
+				Tooltip: ""
+			}
+
+			刺草: {
+				DisplayName: 刺草
+				Tooltip: ""
+			}
+
+			圣刃: {
+				DisplayName: 圣刃
+				Tooltip: ""
+			}
+
+			夜刃: {
+				DisplayName: 夜刃
+				Tooltip: ""
+			}
+
+			寒霜飞刀: {
+				DisplayName: 寒霜飞刀
+				Tooltip: ""
+			}
+
+			山铜飞刀: {
+				DisplayName: 山铜飞刀
+				Tooltip: ""
+			}
+
+			星空: {
+				DisplayName: 星空
+				Tooltip: ""
+			}
+
+			暗影木飞刀: {
+				DisplayName: 暗影木飞刀
+				Tooltip: ""
+			}
+
+			木制飞刀: {
+				DisplayName: 木制飞刀
+				Tooltip: ""
+			}
+
+			棕榈木飞刀: {
+				DisplayName: 棕榈木飞刀
+				Tooltip: ""
+			}
+
+			泰拉之锋: {
+				DisplayName: 泰拉之锋
+				Tooltip: ""
+			}
+
+			流星投刀: {
+				DisplayName: 流星投刀
+				Tooltip: ""
+			}
+
+			烈焰飞刀: {
+				DisplayName: 烈焰飞刀
+				Tooltip: '''"他是炽热的火焰做的"'''
+			}
+
+			珍珠木飞刀: {
+				DisplayName: 珍珠木飞刀
+				Tooltip: ""
+			}
+
+			真圣刃: {
+				DisplayName: 真圣刃
+				Tooltip: ""
+			}
+
+			真夜刃: {
+				DisplayName: 真夜刃
+				Tooltip: ""
+			}
+
+			破损英雄飞刀: {
+				DisplayName: 破损英雄飞刀
+				Tooltip: ""
+			}
+
+			秘银飞刀: {
+				DisplayName: 秘银飞刀
+				Tooltip: ""
+			}
+
+			精金飞刀: {
+				DisplayName: 精金飞刀
+				Tooltip: ""
+			}
+
+			红木飞刀: {
+				DisplayName: 红木飞刀
+				Tooltip: ""
+			}
+
+			血猩獠牙: {
+				DisplayName: 血猩獠牙
+				Tooltip: '''"我需要鲜血!"'''
+			}
+
+			远古短刀: {
+				DisplayName: 远古短刀
+				Tooltip: '''"古代的魔力保护着它"'''
+			}
+
+			金制飞刀: {
+				DisplayName: 金制飞刀
+				Tooltip: ""
+			}
+
+			针叶木飞刀: {
+				DisplayName: 针叶木飞刀
+				Tooltip: ""
+			}
+
+			钛金飞刀: {
+				DisplayName: 钛金飞刀
+				Tooltip: ""
+			}
+
+			钨金飞刀: {
+				DisplayName: 钨金飞刀
+				Tooltip: ""
+			}
+
+			钯金飞刀: {
+				DisplayName: 钯金飞刀
+				Tooltip: ""
+			}
+
+			钴蓝小刀: {
+				DisplayName: 钴蓝小刀
+				Tooltip: ""
+			}
+
+			铁制飞刀: {
+				DisplayName: 铁制飞刀
+				Tooltip: ""
+			}
+
+			铂金飞刀: {
+				DisplayName: 铂金飞刀
+				Tooltip: ""
+			}
+
+			铅制飞刀: {
+				DisplayName: 铅制飞刀
+				Tooltip: ""
+			}
+
+			铜制飞刀: {
+				DisplayName: 铜制飞刀
+				Tooltip: ""
+			}
+
+			银制飞刀: {
+				DisplayName: 银制飞刀
+				Tooltip: ""
+			}
+
+			锡制飞刀: {
+				DisplayName: 锡制飞刀
+				Tooltip: ""
+			}
+
+			魔金飞刀: {
+				DisplayName: 魔金飞刀
+				Tooltip: ""
+			}
+
+			GoblinDaggerItem: {
+				DisplayName: 哥布林小刀
+				Tooltip: 哥布林盗贼使用的小刀,看起来很普通
+			}
+
+			ShadowSpearItem: {
+				DisplayName: 影矛
+				Tooltip:
+					'''
+					向前刺击时会召唤三个幻影矛,夜晚时攻速翻倍
+					"暗夜之力将会化作力量"
+					'''
+			}
+
+			冈格尼尔: {
+				DisplayName: 冈格尼尔
+				Tooltip: ""
+			}
+
+			木制投矛: {
+				DisplayName: 木制投矛
+				Tooltip: ""
+			}
+
+			AmberSwordItem: {
+				DisplayName: 琥珀剑
+				Tooltip: ""
+			}
+
+			AmethystSwordItem: {
+				DisplayName: 紫晶剑
+				Tooltip: ""
+			}
+
+			CopperBroadSwordAmethyst: {
+				DisplayName: 铜阔剑:紫晶
+				Tooltip: ""
+			}
+
+			DiamondSwordItem: {
+				DisplayName: 钻石剑
+				Tooltip: ""
+			}
+
+			EmeraldSwordItem: {
+				DisplayName: 翡翠剑
+				Tooltip: ""
+			}
+
+			FossilGreatsword: {
+				DisplayName: 化石大剑
+				Tooltip: ""
+			}
+
+			GelSword: {
+				DisplayName: 凝胶球棒
+				Tooltip: ""
+			}
+
+			GoldBroadswordRuby: {
+				DisplayName: 金阔剑:红玉
+				Tooltip: ""
+			}
+
+			MeteorSword: {
+				DisplayName: 流星余迹
+				Tooltip: ""
+			}
+
+			PlatinumBroadswordDiamond: {
+				DisplayName: 铂金阔剑:钻石
+				Tooltip: ""
+			}
+
+			RubySwordItem: {
+				DisplayName: 红玉剑
+				Tooltip: ""
+			}
+
+			SapphireSwordItem: {
+				DisplayName: 蓝玉剑
+				Tooltip: ""
+			}
+
+			SilverBroadswordSapphire: {
+				DisplayName: 银阔剑:蓝玉
+				Tooltip: ""
+			}
+
+			TinBroadSwordTopaz: {
+				DisplayName: 锡阔剑:黄玉
+				Tooltip: ""
+			}
+
+			TopazSwordItem: {
+				DisplayName: 黄玉剑
+				Tooltip: ""
+			}
+
+			TrueBloodButchererItem: {
+				DisplayName: 真猩红屠刀
+				Tooltip: ""
+			}
+
+			TungstenBroadswordEmerald: {
+				DisplayName: 钨阔剑:翡翠
+				Tooltip: ""
+			}
+
+			WoodenBigSword: {
+				DisplayName: 木制巨剑
+				Tooltip: ""
+			}
+
+			熔岩战斧: {
+				DisplayName: 熔岩战斧
+				Tooltip: ""
+			}
+
+			GoblinSword: {
+				DisplayName: 哥布林剑
+				Tooltip: 哥布林族人中无畏战士使用的剑,看起来很平凡
+			}
+
+			ToothOfTheEyeItem: {
+				DisplayName: 克眼之牙
+				Tooltip: ""
+			}
+
+			白切剑: {
+				DisplayName: 白切剑
+				Tooltip: ""
+			}
+
+			TachiItem: {
+				DisplayName: 太刀
+				Tooltip: ""
+			}
+
+			超级胡萝卜: {
+				DisplayName: 超级胡萝卜
+				Tooltip: ""
+			}
+
+			木锄头: {
+				DisplayName: 木锄头
+				Tooltip: 能耕地
+			}
+
+			铁锄头: {
+				DisplayName: 铁锄头
+				Tooltip: 能耕地
+			}
+
+			铅锄头: {
+				DisplayName: 铅锄头
+				Tooltip: 能耕地
+			}
+
+			BlackBow: {
+				DisplayName: 黑色蝴蝶结
+				Tooltip: 这个蝴蝶结上面有一些粘液,但整体特别干净,应该是一只黏糊糊的生物的东西
+			}
+
+			BlueBow: {
+				DisplayName: 蓝色蝴蝶结
+				Tooltip: ""
+			}
+
+			BunnyMusicBox: {
+				DisplayName: 兔兔八音盒
+				Tooltip: 这个八音盒貌似只有他的主人会用
+			}
+
+			LavaCrown: {
+				DisplayName: 熔岩皇冠
+				Tooltip: ""
+			}
+
+			CursedGelbow: {
+				DisplayName: 诅咒凝胶弓
+				Tooltip: ""
+			}
+
+			FireGelbow: {
+				DisplayName: 火焰凝胶弓
+				Tooltip: ""
+			}
+
+			FrostBurnGelbow: {
+				DisplayName: 霜火凝胶弓
+				Tooltip: ""
+			}
+
+			Gelbow: {
+				DisplayName: 凝胶弓
+				Tooltip: 可以被燃烧箭点燃
+			}
+
+			仙人掌弓: {
+				DisplayName: 仙人掌弓
+				Tooltip: ""
+			}
+
+			化石弓: {
+				DisplayName: 化石弓
+				Tooltip: ""
+			}
+
+			圣弓: {
+				DisplayName: 圣弓
+				Tooltip: ""
+			}
+
+			手枪2: {
+				DisplayName: 手枪 X2
+				Tooltip: ""
+			}
+
+			永夜弓: {
+				DisplayName: 永夜弓
+				Tooltip: ""
+			}
+
+			泰拉之锐: {
+				DisplayName: 泰拉之锐
+				Tooltip: ""
+			}
+
+			真圣弓: {
+				DisplayName: 真圣弓
+				Tooltip: ""
+			}
+
+			真永夜弓: {
+				DisplayName: 真永夜弓
+				Tooltip: ""
+			}
+
+			英雄断弓: {
+				DisplayName: 英雄断弓
+				Tooltip: ""
+			}
+
+			草弓: {
+				DisplayName: 草弓
+				Tooltip: ""
+			}
+
+			远古弓: {
+				DisplayName: 远古弓
+				Tooltip: ""
+			}
+
+			迷你鲨2: {
+				DisplayName: 迷你鲨 X2
+				Tooltip: ""
+			}
+
+			GoblinBow: {
+				DisplayName: 哥布林木弓
+				Tooltip: 哥布林族人中神箭手使用的木弓,看起来很平凡
+			}
+
+			手持大炮: {
+				DisplayName: 手持大炮
+				Tooltip: ""
+			}
+
+			AcornBow: {
+				DisplayName: 橡果弓
+				Tooltip: 箭矢有几率变成自然橡果箭
+			}
+
+			AcornBreastplate: {
+				DisplayName: 橡果胸甲
+				Tooltip: 增加一个最大召唤栏
+			}
+
+			AcornHat: {
+				DisplayName: 橡果帽
+				Tooltip: 增加8%召唤伤害
+			}
+
+			AcornHelmet: {
+				DisplayName: 橡果头盔
+				Tooltip: 增加5%召唤伤害
+			}
+
+			AcornLeggings: {
+				DisplayName: 橡果护腿
+				Tooltip: 增加5%移速
+			}
+
+			AcornSpiritStaff: {
+				DisplayName: 橡果之灵召唤杖
+				Tooltip: 召唤橡果之灵为你而战
+			}
+
+			AcornStaffItem: {
+				DisplayName: 橡果法杖
+				Tooltip: 发射一颗橡果,橡果会变成树苗
+			}
+
+			AcornSword: {
+				DisplayName: 橡果剑
+				Tooltip: 发射橡果
+			}
+
+			AcornWhipItem: {
+				DisplayName: 橡果鞭
+				Tooltip:
+					'''
+					击中后标记敌人
+					召唤物攻击标记后的敌人会向上投出一枚橡果
+					打击敌人以增加自己的生命回复速
+					'''
+			}
+
+			SoulOfNature: {
+				DisplayName: 自然之魂
+				Tooltip: '''"大自然的灵魂"'''
+			}
+
+			SoulOfWithered: {
+				DisplayName: 枯萎之魂
+				Tooltip: ""
+			}
+
+			GlowingMushroomHelm: {
+				DisplayName: 荧光蘑菇头盔
+				Tooltip: 增加魔力再生速度
+			}
+
+			GlowingMushroomLeggings: {
+				DisplayName: 荧光蘑菇护腿
+				Tooltip: 增加魔力再生速度
+			}
+
+			GlowingMushroomShirt: {
+				DisplayName: 荧光蘑菇衬衫
+				Tooltip: 增加魔力再生速度
+			}
+
+			BrokenHeartBow: {
+				DisplayName: 破碎心之弓
+				Tooltip: ""
+			}
+
+			BrokenHeartItem: {
+				DisplayName: 碎心
+				Tooltip: '''"生命如此脆弱,但又如此坚强"'''
+			}
+
+			HeartbreakerBreastplate: {
+				DisplayName: 碎心胸甲
+				Tooltip: 增加 5% 伤害减免，略微增加生命恢复
+			}
+
+			HeartbreakerHelm: {
+				DisplayName: 碎心头盔
+				Tooltip:
+					'''
+					增加5%远程和近战伤害和10生命上限
+					"你能击碎心的外壳,但是击碎不了那颗真心"
+					'''
+			}
+
+			HeartbreakerLeggings: {
+				DisplayName: 碎心护腿
+				Tooltip: 增加5%移动速度
+			}
+
+			HeartIngot: {
+				DisplayName: 心锭
+				Tooltip: ""
+			}
+
+			HeartMine: {
+				DisplayName: 心矿
+				Tooltip: ""
+			}
+
+			ShadowFlame: {
+				DisplayName: 暗影焰
+				Tooltip: 哥布林一族所掌握的神秘火焰,比普通的火焰更加强大
+			}
+
+			ShadowFlameStaffItem: {
+				DisplayName: 暗影烈焰法杖
+				Tooltip: ""
+			}
+
+			ShadowFlameSwordItem: {
+				DisplayName: 暗影焰剑
+				Tooltip: '''"使用暗影焰所打造的传奇巨剑"'''
+			}
+
+			ShadowFlowerItem: {
+				DisplayName: 暗影花
+				Tooltip: ""
+			}
+
+			ShadowFury: {
+				DisplayName: 暗影之怒
+				Tooltip: 将你的木箭使用暗影之火点燃
+			}
+
+			ShadowImpStaff: {
+				DisplayName: 影鬼之杖
+				Tooltip: 召唤暗影小鬼为你而战
+			}
+
+			MagicStarBreastplate: {
+				DisplayName: 魔星胸甲
+				Tooltip: 魔力再生增加
+			}
+
+			MagicStarHelmet: {
+				DisplayName: 魔星头盔
+				Tooltip: "最大召唤栏增加一个,魔法伤害和召唤伤害增加7% "
+			}
+
+			MagicStarShoes: {
+				DisplayName: 魔星鞋
+				Tooltip: 增加5%移速,移动时魔力再生增加
+			}
+
+			MagicStarWhipItem: {
+				DisplayName: 魔星鞭
+				Tooltip:
+					'''
+					命中后标记敌人和点燃敌人
+					召唤物对目标造成伤害时召唤星星
+					'''
+			}
+
+			StarIngot: {
+				DisplayName: 星锭
+				Tooltip: ""
+			}
+
+			StarMine: {
+				DisplayName: 星矿
+				Tooltip: ""
+			}
+
+			StarStaffItem: {
+				DisplayName: 星杖
+				Tooltip: ""
+			}
+
+			Exp: {
+				DisplayName: Exp
+				Tooltip: ""
+			}
+
+			凝胶背包: {
+				DisplayName: 凝胶背包
+				Tooltip: ""
+			}
+
+			布袋: {
+				DisplayName: 布袋
+				Tooltip: 能装一点东西进去
+			}
+
+			抽奖测试: {
+				DisplayName: 抽奖测试
+				Tooltip: ""
+			}
+
+			木盾: {
+				DisplayName: 木盾
+				Tooltip:
+					'''
+					增加10%格挡几率
+					格挡后受到伤害减半
+					'''
+			}
+
+			生命呼唤: {
+				DisplayName: 生命呼唤
+				Tooltip: 漂浮的水晶只能召唤一个
+			}
+
+			生命木剑: {
+				DisplayName: 生命木剑
+				Tooltip: 手持时增加生命再生速度
+			}
+
+			生命木杖物品: {
+				DisplayName: 生命木杖
+				Tooltip: ""
+			}
+
+			青弦: {
+				DisplayName: 青弦
+				Tooltip: ""
+			}
+
+			StrengtheningStone: {
+				DisplayName: 一级强化石
+				Tooltip: 用于强化武器
+			}
+
+			StrengtheningStone2: {
+				DisplayName: 二级强化石
+				Tooltip: 用于强化武器
+			}
+
+			StrengtheningStone3: {
+				DisplayName: 三级强化石
+				Tooltip: 用于强化武器
+			}
+
+			StrengtheningStone4: {
+				DisplayName: 四级强化石
+				Tooltip: 用于强化武器
+			}
+
+			StrengtheningStone5: {
+				DisplayName: 五级强化石
+				Tooltip: 用于强化武器
+			}
+
+			一级矿石箱: {
+				DisplayName: 一级矿石箱
+				Tooltip: ""
+			}
+
+			升级: {
+				DisplayName: 升级
+				Tooltip: 提升一个冒险等级
+			}
+
+			王朝木剑: {
+				DisplayName: 王朝木剑
+				Tooltip: ""
+			}
+
+			王朝木头盔: {
+				DisplayName: 王朝木头盔
+				Tooltip: ""
+			}
+
+			王朝木弓: {
+				DisplayName: 王朝木弓
+				Tooltip: ""
+			}
+
+			王朝木甲: {
+				DisplayName: 王朝木甲
+				Tooltip: ""
+			}
+
+			王朝木腿甲: {
+				DisplayName: 王朝木腿甲
+				Tooltip: ""
+			}
+
+			王朝木锤: {
+				DisplayName: 王朝木锤
+				Tooltip: ""
+			}
+
+			Sheet: {
+				DisplayName: Sheet
+				Tooltip: ""
+			}
+
+			BloodWormStaff: {
+				DisplayName: 血虫法杖
+				Tooltip: 召唤血虫为你而战
+			}
+
+			BottleCannonItem: {
+				DisplayName: 瓶子炮
+				Tooltip:
+					'''
+					召唤一个瓶子炮攻击你的敌人
+					他来自一个遥远的地方,保卫萝卜！
+					'''
+			}
+
+			CopperSwordStaff: {
+				DisplayName: 铜剑法杖
+				Tooltip: 召唤一把铜剑去戳♂你的敌人
+			}
+
+			DevourerStaff: {
+				DisplayName: 腐蚀之杖
+				Tooltip: 召唤一条腐蚀吞噬者为你而战
+			}
+
+			FanTowerItem: {
+				DisplayName: 风扇塔
+				Tooltip:
+					'''
+					召唤一个风扇塔攻击你的敌人
+					他来自一个遥远的地方,保卫萝卜！
+					'''
+			}
+
+			IronSpikeStaff: {
+				DisplayName: 铁尖刺法杖
+				Tooltip: 召唤一个铁尖刺球为你而战
+			}
+
+			LeadSpikeStaff: {
+				DisplayName: 铅尖刺法杖
+				Tooltip: 召唤一个铅尖刺球为你而战
+			}
+
+			MeteorDroneController: {
+				DisplayName: 流星战斗机遥控器
+				Tooltip: 召唤流星战斗机为你而战
+			}
+
+			ShadowLantern: {
+				DisplayName: 暗影灯笼
+				Tooltip: 召唤一只暗影骷髅为你而战
+			}
+
+			TinSwordStaff: {
+				DisplayName: 锡剑法杖
+				Tooltip: 召唤一把锡剑去戳♂你的敌人
+			}
+
+			CozyCabin: {
+				DisplayName: 温馨木屋
+				Tooltip: 创建一个有屋顶的房屋,双人间
+			}
+
+			FishermanPuppetItem: {
+				DisplayName: 渔夫傀儡
+				Tooltip: ""
+			}
+
+			NOCozyCabin: {
+				DisplayName: 不温馨木屋
+				Tooltip: 创建一个没有屋顶的房屋,单间
+			}
+
+			DeadLeavesSpiritItem: {
+				DisplayName: 枯叶灵
+				Tooltip: 技能: 缓慢治愈玩家
+			}
+
+			EnchantedVoodooDollItme: {
+				DisplayName: 着魔的巫毒娃娃
+				Tooltip:
+					'''
+					技能: 召唤一个巫毒娃娃锁定你鼠标位置的一名敌人
+					伤害巫毒娃娃会让敌人承受相同的伤害
+					'''
+			}
+
+			EyeTeethItme: {
+				DisplayName: 眼牙
+				Tooltip: 技能: 短暂缓冲后,冲向鼠标位置
+			}
+
+			GhostFireLanternItem: {
+				DisplayName: 鬼火灯笼
+				Tooltip: 技能: 召唤一盏灯笼,灯笼会跟随你的鼠标照明并且伤害附近敌人
+			}
+
+			HunyuanPearlUmbrellaItem: {
+				DisplayName: 混元珍珠伞
+				Tooltip: 技能: 生成一个盾保护你,盾在破碎之前使你无法受到任何伤害
+			}
+
+			LegendaryGelItem: {
+				DisplayName: 传奇凝胶
+				Tooltip: 技能: 获得踩怪物的能力
+			}
+
+			MiniSlimeCrownItme: {
+				DisplayName: 迷你史莱姆王冠
+				Tooltip: 技能: 化身史莱姆王下坠,落地后会把玩家排出并且停留一段时间
+			}
+
+			ShadowNecklaceItem: {
+				DisplayName: 暗影项链
+				Tooltip: 技能: 将法宝停留在原地,再次使用回到法宝位置
+			}
+
+			WoodSpiritSwordItem: {
+				DisplayName: 木灵剑
+				Tooltip: 技能: 将剑往前方发射,一段时间后折返,可以踩在剑上
+			}
+
+			地狱葫芦: {
+				DisplayName: 地狱葫芦
+				Tooltip: 技能: 将法宝瞬移至鼠标附近,然后朝着鼠标位置喷射火球
+			}
+
+			奇异的云: {
+				DisplayName: 奇异的云
+				Tooltip: 技能: 召唤一朵云在你脚底,可以踩在上面
+			}
+
+			永恒冰晶: {
+				DisplayName: 永恒冰晶
+				Tooltip: 技能: 在鼠标位置生成一个极冻领域
+			}
+
+			玉净瓶: {
+				DisplayName: 玉净瓶
+				Tooltip: 技能: 净化玩家大部分Debuff,并且治愈玩家的生命和魔力(四倍魔力回复)
+			}
+
+			StrengthenPlatformItem: {
+				DisplayName: 强化台
+				Tooltip: ""
+			}
+
+			晶凝书柜: {
+				DisplayName: 晶凝书柜
+				Tooltip: ""
+			}
+
+			晶凝吊灯: {
+				DisplayName: 晶凝吊灯
+				Tooltip: ""
+			}
+
+			晶凝工作台: {
+				DisplayName: 晶凝工作台
+				Tooltip: ""
+			}
+
+			晶凝平台: {
+				DisplayName: 晶凝平台
+				Tooltip: ""
+			}
+
+			晶凝床: {
+				DisplayName: 晶凝床
+				Tooltip: ""
+			}
+
+			晶凝心灯: {
+				DisplayName: 晶凝心灯
+				Tooltip: ""
+			}
+
+			晶凝桌: {
+				DisplayName: 晶凝桌
+				Tooltip: ""
+			}
+
+			晶凝梳妆台: {
+				DisplayName: 晶凝梳妆台
+				Tooltip: ""
+			}
+
+			晶凝椅: {
+				DisplayName: 晶凝椅
+				Tooltip: ""
+			}
+
+			晶凝水槽: {
+				DisplayName: 晶凝水槽
+				Tooltip: ""
+			}
+
+			晶凝沙发: {
+				DisplayName: 晶凝沙发
+				Tooltip: ""
+			}
+
+			晶凝浴缸: {
+				DisplayName: 晶凝浴缸
+				Tooltip: ""
+			}
+
+			晶凝灯笼: {
+				DisplayName: 晶凝灯笼
+				Tooltip: ""
+			}
+
+			晶凝烛台: {
+				DisplayName: 晶凝烛台
+				Tooltip: ""
+			}
+
+			晶凝石块: {
+				DisplayName: 晶凝石块
+				Tooltip: ""
+			}
+
+			晶凝箱: {
+				DisplayName: 晶凝箱
+				Tooltip: ""
+			}
+
+			晶凝蜡烛: {
+				DisplayName: 晶凝蜡烛
+				Tooltip: ""
+			}
+
+			晶凝钟: {
+				DisplayName: 晶凝钟
+				Tooltip: ""
+			}
+
+			晶凝钢琴: {
+				DisplayName: 晶凝钢琴
+				Tooltip: ""
+			}
+
+			晶凝门: {
+				DisplayName: 晶凝门
+				Tooltip: ""
+			}
+
+			晶凝马桶: {
+				DisplayName: 晶凝马桶
+				Tooltip: ""
+			}
+
+			晶凝墙: {
+				DisplayName: 晶凝墙
+				Tooltip: ""
+			}
+
+			木水壶: {
+				DisplayName: 木水壶
+				Tooltip: ""
+			}
+
+			铜水壶: {
+				DisplayName: 铜水壶
+				Tooltip: ""
+			}
+
+			锡水壶: {
+				DisplayName: 锡水壶
+				Tooltip: ""
+			}
+
+			铁水壶: {
+				DisplayName: 铁水壶
+				Tooltip: ""
+			}
+
+			铅水壶: {
+				DisplayName: 铅水壶
+				Tooltip: ""
+			}
+
+			银水壶: {
+				DisplayName: 银水壶
+				Tooltip: ""
+			}
+
+			钨水壶: {
+				DisplayName: 钨水壶
+				Tooltip: ""
+			}
+
+			金水壶: {
+				DisplayName: 金水壶
+				Tooltip: ""
+			}
+
+			铂金水壶: {
+				DisplayName: 铂金水壶
+				Tooltip: ""
+			}
+
+			巨大的胡萝卜种子: {
+				DisplayName: 巨大的胡萝卜种子
+				Tooltip: ""
+			}
+
+			玉米种子: {
+				DisplayName: 玉米种子
+				Tooltip: ""
+			}
+
+			玉米: {
+				DisplayName: 玉米
+				Tooltip: ""
+			}
+
+			生菜种子: {
+				DisplayName: 生菜种子
+				Tooltip: ""
+			}
+
+			生菜: {
+				DisplayName: 生菜
+				Tooltip: ""
+			}
+
+			胡萝卜种子: {
+				DisplayName: 胡萝卜种子
+				Tooltip: ""
+			}
+
+			胡萝卜: {
+				DisplayName: 胡萝卜
+				Tooltip: ""
+			}
+
+			草莓种子: {
+				DisplayName: 草莓种子
+				Tooltip: ""
+			}
+
+			草莓: {
+				DisplayName: 草莓
+				Tooltip: ""
+			}
+
+			荧光果种子: {
+				DisplayName: 荧光果种子
+				Tooltip: ""
+			}
+
+			荧光果: {
+				DisplayName: 荧光果
+				Tooltip: ""
+			}
+
+			洞穴萝卜: {
+				DisplayName: 洞穴萝卜
+				Tooltip: ""
+			}
+
+			金胡萝卜: {
+				DisplayName: 金胡萝卜
+				Tooltip: ""
+			}
+
+			橡果之灵旗: {
+				DisplayName: 橡果之灵旗
+				Tooltip: "{$CommonItemTooltip.BannerBonus}橡果之灵"
+			}
+
+			哥布林巫师首领纪念章物品: {
+				DisplayName: 哥布林巫师首领纪念章
+				Tooltip: ""
+			}
+
+			哥布林巫师首领面具: {
+				DisplayName: 哥布林巫师首领面具
+				Tooltip: ""
+			}
+
+			哥布林巫师首领圣物: {
+				DisplayName: 哥布林巫师首领圣物
+				Tooltip: ""
+			}
+
+			枯萎的橡果之灵纪念章物品: {
+				DisplayName: 枯萎的橡果之灵纪念章
+				Tooltip: ""
+			}
+
+			枯萎的橡果之灵面具: {
+				DisplayName: 枯萎的橡果之灵面具
+				Tooltip: ""
+			}
+
+			枯萎的橡果之灵圣物: {
+				DisplayName: 枯萎的橡果之灵圣物
+				Tooltip: ""
+			}
+
+			仙人掌之魂: {
+				DisplayName: 仙人掌之魂
+				Tooltip: 驱动仙人掌史莱姆行动的灵魂
+			}
+
+			附魔仙人掌剑: {
+				DisplayName: 附魔仙人掌剑
+				Tooltip: ""
+			}
+
+			附魔仙人掌弓: {
+				DisplayName: 附魔仙人掌弓
+				Tooltip: ""
+			}
+
+			仙人掌杖: {
+				DisplayName: 仙人掌杖
+				Tooltip: ""
+			}
+
+			海爵之咬: {
+				DisplayName: 海爵之咬
+				Tooltip: '''"传说是用初代海洋公爵的牙齿制成"'''
+			}
+
+			石魔弓: {
+				DisplayName: 石魔弓
+				Tooltip: ""
+			}
+
+			石像机器控制器: {
+				DisplayName: 石像机器控制器
+				Tooltip: 召唤一台探测器为你而战
+			}
+
+			蘑菇时装箱: {
+				DisplayName: 蘑菇时装箱
+				Tooltip:
+					'''
+					{$CommonItemTooltip.RightClickToOpen}
+					包含一套蘑菇材质的衣服
+					'''
+			}
+
+			飞鱼镖: {
+				DisplayName: 飞鱼镖
+				Tooltip: ""
+			}
+
+			潮汐之泪: {
+				DisplayName: 潮汐之泪
+				Tooltip: 引导一场倾盆大雨
+			}
+
+			火山长剑: {
+				DisplayName: 火山长剑
+				Tooltip: ""
+			}
+
+			木制双剑: {
+				DisplayName: 木制双剑
+				Tooltip: ""
+			}
+
+			冰与火之刃: {
+				DisplayName: 冰与火之刃
+				Tooltip: 命中后短暂给予玩家10%减伤
+			}
+
+			耀斑双刃: {
+				DisplayName: 耀斑双刃
+				Tooltip: ""
+			}
+
+			叶木双剑: {
+				DisplayName: 叶木双剑
+				Tooltip: ""
+			}
+
+			白切双剑: {
+				DisplayName: 白切双剑
+				Tooltip: ""
+			}
+
+			夜紫光刃: {
+				DisplayName: 夜紫光刃
+				Tooltip: ""
+			}
+
+			樱之弓: {
+				DisplayName: 樱之弓
+				Tooltip: ""
+			}
+
+			山铜弓: {
+				DisplayName: 山铜弓
+				Tooltip: ""
+			}
+
+			秘银弓: {
+				DisplayName: 秘银弓
+				Tooltip: ""
+			}
+
+			精金弓: {
+				DisplayName: 精金弓
+				Tooltip: ""
+			}
+
+			钛金弓: {
+				DisplayName: 钛金弓
+				Tooltip: ""
+			}
+
+			钯金弓: {
+				DisplayName: 钯金弓
+				Tooltip: ""
+			}
+
+			钴蓝弓: {
+				DisplayName: 钴蓝弓
+				Tooltip: ""
+			}
+
+			叶绿弓: {
+				DisplayName: 叶绿弓
+				Tooltip: ""
+			}
+
+			土豆种子: {
+				DisplayName: 土豆种子
+				Tooltip: ""
+			}
+
+			土豆: {
+				DisplayName: 土豆
+				Tooltip: ""
+			}
+
+			棒棒土豆: {
+				DisplayName: 棒棒土豆
+				Tooltip: 放在篝火上烤
+			}
+
+			烤土豆: {
+				DisplayName: 烤土豆
+				Tooltip: '''"小心烫"'''
+			}
+
+			真菌双剑: {
+				DisplayName: 真菌双剑
+				Tooltip: ""
+			}
+
+			夜光蘑菇炸弹: {
+				DisplayName: 夜光蘑菇炸弹
+				Tooltip: ""
+			}
+
+			夜光蘑菇杖: {
+				DisplayName: 夜光蘑菇杖
+				Tooltip: ""
+			}
+
+			花岗岩能量喷射器: {
+				DisplayName: 花岗岩能量喷射器
+				Tooltip: ""
+			}
+
+			鬼牙夺命棒: {
+				DisplayName: 鬼牙夺命棒
+				Tooltip: '''"吸取敌人的鲜血!"'''
+			}
+
+			鬼牙宝藏袋: {
+				DisplayName: 宝藏袋(鬼牙)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			鬼血枪: {
+				DisplayName: 鬼血枪
+				Tooltip: ""
+			}
+
+			鬼牙夺魂杖: {
+				DisplayName: 鬼牙夺魂杖
+				Tooltip: ""
+			}
+
+			鬼牙: {
+				DisplayName: 鬼牙
+				Tooltip: 技能:吸取最靠近鼠标位置敌人的血供应给自己
+			}
+
+			鬼仆之唤: {
+				DisplayName: 鬼仆之唤
+				Tooltip:
+					'''
+					召唤鬼牙的仆从为你而战
+					"我会在黑暗中与你同在"
+					'''
+			}
+
+			鬼牙手环: {
+				DisplayName: 鬼牙手环
+				Tooltip:
+					'''
+					将"{$BuffName.Bleeding}"转换为"{$Mods.DDmod.Buffs.鬼牙眷顾.DisplayName}"
+					受到伤害会根据伤害量给予"{$Mods.DDmod.Buffs.鬼牙眷顾.DisplayName}"
+					'''
+			}
+
+			鬼牙圣物: {
+				DisplayName: 鬼牙圣物
+				Tooltip: ""
+			}
+
+			诡异肉块: {
+				DisplayName: 诡异肉块
+				Tooltip: ""
+			}
+
+			超级蓝史莱姆圣物: {
+				DisplayName: 超级蓝史莱姆圣物
+				Tooltip: ""
+			}
+
+			超级蓝史莱姆纪念章物品: {
+				DisplayName: 超级蓝史莱姆纪念章
+				Tooltip: ""
+			}
+
+			鬼牙纪念章物品: {
+				DisplayName: 鬼牙纪念章
+				Tooltip: ""
+			}
+
+			幽魂之杖: {
+				DisplayName: 幽魂之杖
+				Tooltip: ""
+			}
+
+			夜光蘑菇王圣物: {
+				DisplayName: 夜光灵菇圣物
+				Tooltip: ""
+			}
+
+			夜光蘑菇王宝藏袋: {
+				DisplayName: 宝藏袋(夜光灵菇)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			蘑菇王圣物: {
+				DisplayName: 灵菇圣物
+				Tooltip: ""
+			}
+
+			蘑菇王宝藏袋: {
+				DisplayName: 宝藏袋(灵菇)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			魔力菇: {
+				DisplayName: 魔力菇
+				Tooltip: 技能:缓慢回复玩家的魔力
+			}
+
+			可再生蘑菇: {
+				DisplayName: 可再生蘑菇
+				Tooltip: '''"可不要一口吃完了!"'''
+			}
+
+			生命蘑菇: {
+				DisplayName: 灵芝
+				Tooltip: 食用后永久增加5%对治疗药水的恢复量
+			}
+
+			魔法菇: {
+				DisplayName: 奥术脑蕈
+				Tooltip: 食用后永久增加15%对魔力药水的恢复量
+			}
+
+			蘑菇崽召唤杖: {
+				DisplayName: 蘑菇崽召唤杖
+				Tooltip: 召唤蘑菇崽为你而战
+			}
+
+			蘑菇短剑: {
+				DisplayName: 蘑菇短剑
+				Tooltip: ""
+			}
+
+			蘑菇鞭: {
+				DisplayName: 蘑菇鞭
+				Tooltip:
+					'''
+					击中后标记敌人
+					召唤物攻击标记后的敌人会长出蘑菇
+					'''
+			}
+
+			蘑菇弓: {
+				DisplayName: 蘑菇弓
+				Tooltip: 将木箭转换为蘑菇箭
+			}
+
+			蘑菇杖: {
+				DisplayName: 蘑菇杖
+				Tooltip: ""
+			}
+
+			恐惧缝合体宝藏袋: {
+				DisplayName: 宝藏袋(恐惧缝合体)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			恐惧肉块: {
+				DisplayName: 恐惧肉块
+				Tooltip: '''"恐惧缝合体身上那恶心的肉块"'''
+			}
+
+			蘑菇飞刀: {
+				DisplayName: 蘑菇飞刀
+				Tooltip: ""
+			}
+
+			眼球魔杖: {
+				DisplayName: 眼球魔杖
+				Tooltip: 召唤一只眼球为你而战
+			}
+
+			夜光蘑菇王面具: {
+				DisplayName: 夜光灵菇面具
+				Tooltip: ""
+			}
+
+			蘑菇王面具: {
+				DisplayName: 灵菇面具
+				Tooltip: ""
+			}
+
+			花岗岩能量回旋镖: {
+				DisplayName: 花岗岩能量回旋镖
+				Tooltip: ""
+			}
+
+			夜光蘑菇王纪念章物品: {
+				DisplayName: 夜光灵菇纪念章
+				Tooltip: ""
+			}
+
+			蘑菇王纪念章物品: {
+				DisplayName: 灵菇纪念章
+				Tooltip: ""
+			}
+
+			鬼牙面具: {
+				DisplayName: 鬼牙面具
+				Tooltip: ""
+			}
+
+			绿岩剑: {
+				DisplayName: 绿岩剑
+				Tooltip: ""
+			}
+
+			绿岩弓: {
+				DisplayName: 绿岩弓
+				Tooltip: ""
+			}
+
+			绿岩晶石: {
+				DisplayName: 绿岩晶石
+				Tooltip: ""
+			}
+
+			绿岩锭: {
+				DisplayName: 绿岩锭
+				Tooltip: ""
+			}
+
+			绿岩科技枪: {
+				DisplayName: 绿岩科技枪
+				Tooltip: 发射三角形弹射,弹射存在越久伤害越高
+			}
+
+			恐惧缝合体圣物: {
+				DisplayName: 恐惧缝合体圣物
+				Tooltip: ""
+			}
+
+			绿岩之视圣物: {
+				DisplayName: 绿岩之视圣物
+				Tooltip: ""
+			}
+
+			绿岩之视纪念章物品: {
+				DisplayName: 绿岩之视纪念章
+				Tooltip: ""
+			}
+
+			绿岩回旋刃: {
+				DisplayName: 绿岩回旋刃
+				Tooltip: ""
+			}
+
+			绿岩之视面具: {
+				DisplayName: 绿岩之视面具
+				Tooltip: ""
+			}
+
+			绿岩遥控器: {
+				DisplayName: 绿岩遥控器
+				Tooltip: ""
+			}
+
+			绿岩鞭: {
+				DisplayName: 绿岩鞭
+				Tooltip:
+					'''
+					命中后标记敌人
+					绿岩侦察机将改变对标记目标的攻击方式
+					'''
+			}
+
+			绿岩手提灯: {
+				DisplayName: 绿岩手提灯
+				Tooltip: ""
+			}
+
+			绿岩双剑: {
+				DisplayName: 绿岩双剑
+				Tooltip: ""
+			}
+
+			绿岩步枪: {
+				DisplayName: 绿岩步枪
+				Tooltip: ""
+			}
+
+			迷你绿岩之视: {
+				DisplayName: 迷你绿岩之视
+				Tooltip: '''"滴滴,无信号接收"'''
+			}
+
+			绿岩之视宝藏袋: {
+				DisplayName: 宝藏袋(绿岩之视)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			绿岩导弹发射器: {
+				DisplayName: 绿岩导弹发射器
+				Tooltip: 技能:锁定最靠近鼠标位置的敌人,然后发射导弹
+			}
+
+			绿岩能源法杖: {
+				DisplayName: 绿岩能源法杖
+				Tooltip: '''"锁定敌人,发射!"'''
+			}
+
+			绿岩信号增幅器: {
+				DisplayName: 绿岩信号增幅器
+				Tooltip:
+					'''
+					可能会吸引一台大型机器
+					"嘀嘀嘀....."
+					'''
+			}
+
+			矿洞幽魂圣物: {
+				DisplayName: 矿洞幽魂圣物
+				Tooltip: ""
+			}
+
+			矿洞幽魂纪念章物品: {
+				DisplayName: 矿洞幽魂纪念章
+				Tooltip: ""
+			}
+
+			眼球头: {
+				DisplayName: 眼球头
+				Tooltip: 增加3%暴击率
+			}
+
+			血嘴衣: {
+				DisplayName: 血嘴衣
+				Tooltip: 增加20生命值
+			}
+
+			眼肉裤: {
+				DisplayName: 眼肉裤
+				Tooltip: 增加10%移动速度
+			}
+
+			绿岩头盔: {
+				DisplayName: 绿岩头盔
+				Tooltip: 增加12%近战攻速和5%近战暴击率
+			}
+
+			绿岩帽: {
+				DisplayName: 绿岩帽
+				Tooltip: 增加5%远程暴击率和5%伤害
+			}
+
+			绿岩面罩: {
+				DisplayName: 绿岩面罩
+				Tooltip: 增加10%魔法伤害,降低10%魔力消耗
+			}
+
+			绿岩护目镜: {
+				DisplayName: 绿岩护目镜
+				Tooltip: 增加1最大召唤栏
+			}
+
+			绿岩盔甲: {
+				DisplayName: 绿岩盔甲
+				Tooltip: 增加12%攻击速度
+			}
+
+			绿岩裤: {
+				DisplayName: 绿岩裤
+				Tooltip: 增加18%移动速度
+			}
+
+			星心石: {
+				DisplayName: 星心石
+				Tooltip: 唤醒生命守卫和魔力守卫的一部分实力
+			}
+
+			星心炮: {
+				DisplayName: 星心炮
+				Tooltip: ""
+			}
+
+			寒冰巨剑: {
+				DisplayName: 寒冰巨剑
+				Tooltip: '''"冰封一切的力量"'''
+			}
+
+			叶绿枪: {
+				DisplayName: 叶绿枪
+				Tooltip: ""
+			}
+
+			花岗岩科技书架: {
+				DisplayName: 花岗岩科技书架
+				Tooltip: ""
+			}
+
+			花岗岩科技工作台: {
+				DisplayName: 花岗岩科技工作台
+				Tooltip: ""
+			}
+
+			花岗岩科技床: {
+				DisplayName: 花岗岩科技床
+				Tooltip: ""
+			}
+
+			花岗岩科技桌: {
+				DisplayName: 花岗岩科技桌
+				Tooltip: ""
+			}
+
+			花岗岩科技梳妆台: {
+				DisplayName: 花岗岩科技梳妆台
+				Tooltip: ""
+			}
+
+			花岗岩科技椅: {
+				DisplayName: 花岗岩科技椅
+				Tooltip: ""
+			}
+
+			花岗岩科技熔炉: {
+				DisplayName: 花岗岩科技熔炉
+				Tooltip: ""
+			}
+
+			花岗岩科技砧: {
+				DisplayName: 花岗岩科技砧
+				Tooltip: ""
+			}
+
+			花岗岩科技箱: {
+				DisplayName: 花岗岩科技箱
+				Tooltip: ""
+			}
+
+			花岗岩科技钟: {
+				DisplayName: 花岗岩科技钟
+				Tooltip: ""
+			}
+
+			花岗岩科技钢琴: {
+				DisplayName: 花岗岩科技钢琴
+				Tooltip: ""
+			}
+
+			花岗岩科技门: {
+				DisplayName: 花岗岩科技门
+				Tooltip: ""
+			}
+
+			秘制大虾: {
+				DisplayName: 秘制大虾
+				Tooltip: 某些水母非常喜欢这东西
+			}
+
+			花岗岩核心晶体: {
+				DisplayName: 花岗岩核心晶体
+				Tooltip: ""
+			}
+
+			花岗岩科技墙: {
+				DisplayName: 花岗岩科技墙
+				Tooltip: 编号:一
+			}
+
+			花岗岩科技墙2: {
+				DisplayName: 花岗岩科技墙
+				Tooltip: 编号:二
+			}
+
+			花岗岩科技墙3: {
+				DisplayName: 花岗岩科技墙
+				Tooltip: 编号:三
+			}
+
+			花岗岩科技墙4: {
+				DisplayName: 花岗岩科技墙
+				Tooltip: 编号:亖
+			}
+
+			花岗岩科技墙5: {
+				DisplayName: 花岗岩科技墙
+				Tooltip: 编号:五
+			}
+
+			花岗岩科技砖: {
+				DisplayName: 花岗岩科技砖
+				Tooltip: ""
+			}
+
+			花岗岩能量管道: {
+				DisplayName: 花岗岩能量管道
+				Tooltip: ""
+			}
+
+			花岗岩能量镐: {
+				DisplayName: 花岗岩能量镐
+				Tooltip: ""
+			}
+
+			恐惧缝合体面具: {
+				DisplayName: 恐惧缝合体面具
+				Tooltip: ""
+			}
+
+			血滴子头套: {
+				DisplayName: 血滴子头套
+				Tooltip: 增加25生命值
+			}
+
+			血滴子盔甲: {
+				DisplayName: 血滴子盔甲
+				Tooltip: 增加25生命值
+			}
+
+			血滴子裤: {
+				DisplayName: 血滴子裤
+				Tooltip: 增加20%移动速度
+			}
+
+			血肉戒指: {
+				DisplayName: 血肉戒指
+				Tooltip: 将玩家一半的防御三倍转换成血量
+			}
+
+			绿岩电池: {
+				DisplayName: 绿岩电池
+				Tooltip: '''"充满绿岩能量"'''
+			}
+
+			幽灵海螺: {
+				DisplayName: 幽灵海螺
+				Tooltip:
+					'''
+					召唤海幽浮追随你
+					"据说只有幽灵才能听到他吹出的声音"
+					'''
+			}
+
+			海幽浮王圣物: {
+				DisplayName: 瀚渊幽浮圣物
+				Tooltip: ""
+			}
+
+			海幽浮王宝藏袋: {
+				DisplayName: 宝藏袋(瀚渊幽浮)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			海幽浮王纪念章物品: {
+				DisplayName: 瀚渊幽浮纪念章
+				Tooltip: ""
+			}
+
+			水球炮: {
+				DisplayName: 水球炮
+				Tooltip: ""
+			}
+
+			灵腥盒: {
+				DisplayName: 灵腥盒
+				Tooltip:
+					'''
+					召唤封魔尖锥
+					"里面封印着数量庞大的冤魂"
+					'''
+			}
+
+			恐惧缝合体纪念章物品: {
+				DisplayName: 恐惧缝合体纪念章
+				Tooltip: ""
+			}
+
+			海幽浮法杖: {
+				DisplayName: 海幽浮法杖
+				Tooltip: ""
+			}
+
+			奇怪的发光孢子: {
+				DisplayName: 奇怪的发光孢子
+				Tooltip: ""
+			}
+
+			奇怪的孢子: {
+				DisplayName: 奇怪的孢子
+				Tooltip: ""
+			}
+
+			荧光灵芝: {
+				DisplayName: 荧光灵芝
+				Tooltip: ""
+			}
+
+			赤红蕈菌: {
+				DisplayName: 赤红蕈菌
+				Tooltip: ""
+			}
+
+			发光的蘑菇汤: {
+				DisplayName: 发光的蘑菇汤
+				Tooltip: 在发光蘑菇地食用可能会发生不好的事情
+			}
+
+			奇怪的蘑菇汤: {
+				DisplayName: 奇怪的蘑菇汤
+				Tooltip: 在森林地表食用可能会发生不好的事情
+			}
+
+			秘制泻药: {
+				DisplayName: 秘制泻药
+				Tooltip: 喝了你会拉肚子
+			}
+
+			海幽浮王面具: {
+				DisplayName: 瀚渊幽浮面具
+				Tooltip: ""
+			}
+
+			黄金大剑: {
+				DisplayName: 传说金剑
+				Tooltip:
+					'''
+					背包里的钱越多伤害越高,最多提升三倍(3铂金)
+					每次挥舞会消耗你当前5%的钱币(不超过15金币)
+					消耗的钱越多造成的效果不同
+					"海盗王的宝藏"
+					'''
+			}
+
+			黎明Mod: {
+				DisplayName: 黎明Mod
+				Tooltip:
+					'''
+					感谢游玩本模组
+					本模组修改了部分武器,怪物也有少量修改
+					部分内容可以前往模组配置调整
+					模组自带一个新的boss血条,设置->界面->Boss血条样式开启
+					平衡性可能较差,会调整
+					使用物品会弹到作者B站网页
+					'''
+			}
+
+			苍穹原典: {
+				DisplayName: 苍穹原典
+				Tooltip: ""
+			}
+
+			繁星万象: {
+				DisplayName: 繁星万象
+				Tooltip:
+					'''
+					召唤苍穹守卫的幻象为你而战
+					占用3召唤栏
+					'''
+			}
+
+			大地之锋: {
+				DisplayName: 大地之锋
+				Tooltip: ""
+			}
+
+			晶凝蓄能炮: {
+				DisplayName: 晶凝蓄能炮
+				Tooltip: ""
+			}
+
+			苦难之魂: {
+				DisplayName: 苦难之魂
+				Tooltip: '''"已死之魂"'''
+			}
+
+			天地守卫宝藏袋: {
+				DisplayName: 宝藏袋(天地守卫)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			星心之魂: {
+				DisplayName: 星心之魂
+				Tooltip: '''"上面有些许天地守卫的能量"'''
+			}
+
+			星心护符: {
+				DisplayName: 星心护符
+				Tooltip:
+					'''
+					召唤魔力守卫和生命守卫之子
+					"这上面充满了神秘的能量"
+					'''
+			}
+
+			海幽浮钓竿: {
+				DisplayName: 海幽浮钓竿
+				Tooltip: 同时扔出三个鱼钩
+			}
+
+			天地守卫圣物: {
+				DisplayName: 天地守卫圣物
+				Tooltip: ""
+			}
+
+			天地守卫纪念章物品: {
+				DisplayName: 天地守卫纪念章
+				Tooltip: ""
+			}
+
+			自然橡果: {
+				DisplayName: 自然橡果
+				Tooltip:
+					'''
+					增加40最大魔力值
+					"充斥着魔法力量的橡果在发出幽幽的绿光"
+					'''
+			}
+
+			蘑菇花: {
+				DisplayName: 蘑菇花
+				Tooltip: 最大魔力值永远增加5点
+			}
+
+			奇幻花: {
+				DisplayName: 奇幻花
+				Tooltip: 永久降低魔力消耗
+			}
+
+			永夜戒指: {
+				DisplayName: 永夜戒指
+				Tooltip:
+					'''
+					在白天使用永夜武器也会获得强化
+					增加25最大生命值和40最大魔力值
+					增加少量的生命回复,魔力回复,攻击速度,移动速度
+					受到伤害会让附近敌人被永夜侵袭
+					周期性发射永夜弹攻击靠近你的敌人
+					"里面渗透着黑暗的能量"
+					'''
+			}
+
+			火山戒指: {
+				DisplayName: 火山戒指
+				Tooltip: 周期性让附近敌人爆炸
+			}
+
+			真永夜戒指: {
+				DisplayName: 真永夜戒指
+				Tooltip:
+					'''
+					在白天使用真永夜武器也会获得强化
+					增加50最大生命值和80最大魔力值
+					增加中量生命回复,魔力回复,攻击速度,移动速度
+					受到伤害会让附近敌人被真永夜侵袭
+					周期性发射真永夜弹攻击靠近你的敌人
+					"里面渗透着纯粹的黑暗能量"
+					'''
+			}
+
+			真神圣戒指: {
+				DisplayName: 真神圣戒指
+				Tooltip:
+					'''
+					在夜晚使用真神圣武器也会获得强化
+					每隔一段时间给予玩家真神圣之盾,抵御一次伤害并且把伤害30%治愈给玩家
+					三分钟冷却
+					"里面渗透着纯粹的光明能量"
+					'''
+			}
+
+			神圣戒指: {
+				DisplayName: 神圣戒指
+				Tooltip:
+					'''
+					在夜晚使用神圣武器也会获得强化
+					每隔一段时间给予玩家神圣之盾,抵御一次伤害并且把伤害10%治愈给玩家
+					三分钟冷却
+					"里面渗透着光明的能量"
+					'''
+			}
+
+			魔光戒指: {
+				DisplayName: 魔光戒指
+				Tooltip: 增加适量的移动速度和攻击速度
+			}
+
+			荆棘戒指: {
+				DisplayName: 荆棘戒指
+				Tooltip: 反弹受到的伤害并且爆炸出毒刺
+			}
+
+			血腥戒指: {
+				DisplayName: 血腥戒指
+				Tooltip: 增加25最大生命值和微量的生命再生
+			}
+
+			远古魔戒: {
+				DisplayName: 远古魔戒
+				Tooltip: 增加40最大魔力值和微量的魔力再生
+			}
+
+			泰拉之庇: {
+				DisplayName: 泰拉之庇
+				Tooltip:
+					'''
+					拥有神圣戒指和永夜戒指的全部效果
+					增加100最大生命值和120最大魔力值
+					增加大量生命回复,魔力回复,攻击速度,移动速度
+					受到伤害会让附近敌人被泰拉侵袭
+					周期性发射泰拉弹攻击靠近你的敌人
+					每隔一段时间给予玩家泰拉之盾,抵御一次伤害并且把伤害50%治愈给玩家
+					三分钟冷却
+					"纯粹的泰拉之源"
+					'''
+			}
+
+			英雄断戒: {
+				DisplayName: 英雄断戒
+				Tooltip: ""
+			}
+
+			开膛手: {
+				DisplayName: 开膛手
+				Tooltip: ""
+			}
+
+			恶魔之血: {
+				DisplayName: 恶魔之血
+				Tooltip:
+					'''
+					短时间内增加80%伤害和生命回复
+					"即使变成了头骨,骨髓里还是有着鲜红的血液"
+					'''
+			}
+
+			丛林香水: {
+				DisplayName: 丛林香水
+				Tooltip: 某丛林捕食者很喜欢这个气味
+			}
+
+			幽魂药水: {
+				DisplayName: 幽魂药水
+				Tooltip: 里面的能量似乎在吸引着某灵魂
+			}
+
+			恶魔护符: {
+				DisplayName: 恶魔护符
+				Tooltip:
+					'''
+					放置在背包中收藏会增加炼狱头颅的生成概率
+					"这个护符里透露着不详的气息"
+					'''
+			}
+
+			阴影剑: {
+				DisplayName: 阴影剑
+				Tooltip: ""
+			}
+
+			叶绿龟壳: {
+				DisplayName: 叶绿龟壳
+				Tooltip: ""
+			}
+
+			猩红弹: {
+				DisplayName: 猩红弹
+				Tooltip: 有小概率偷取生命
+			}
+
+			魔金弹: {
+				DisplayName: 魔金弹
+				Tooltip: 命中后再次发动一次攻击
+			}
+
+			狱火弹: {
+				DisplayName: 狱火弹
+				Tooltip: 有几率爆炸
+			}
+
+			远古血腥头盔: {
+				DisplayName: 远古血腥头盔
+				Tooltip:
+					'''
+					伤害增加3%
+					"古老的头盔"
+					'''
+			}
+
+			远古血腥护腿: {
+				DisplayName: 远古血腥护腿
+				Tooltip:
+					'''
+					伤害增加3%
+					"古老的护腿"
+					'''
+			}
+
+			远古血腥胸甲: {
+				DisplayName: 远古血腥胸甲
+				Tooltip:
+					'''
+					伤害增加3%
+					"古老的胸甲"
+					'''
+			}
+
+			果树种子: {
+				DisplayName: 果树种子
+				Tooltip: ""
+			}
+
+			神圣仙酒: {
+				DisplayName: 神圣仙酒
+				Tooltip: 使用妖精尘制成的酒可能会引起妖精王的注意
+			}
+
+			木制剑盾: {
+				DisplayName: 木制剑盾
+				Tooltip:
+					'''
+					""
+					格挡:抵御60%受到的伤害并且反击,强化下一次攻击持续三秒
+					'''
+			}
+
+			史莱姆剑盾: {
+				DisplayName: 史莱姆剑盾
+				Tooltip:
+					'''
+					""
+					格挡:抵御40%受到的伤害并且反击,强化下一次攻击持续三秒
+					'''
+			}
+
+			蜂巢剑盾: {
+				DisplayName: 蜂巢剑盾
+				Tooltip:
+					'''
+					""
+					格挡:抵御70%受到的伤害并且反击,强化下一次攻击持续三秒
+					'''
+			}
+
+			机械魔眼剑盾: {
+				DisplayName: 机械魔眼剑盾
+				Tooltip:
+					'''
+					""
+					格挡:抵御80%受到的伤害并且反击,强化下一次攻击持续三秒
+					'''
+			}
+
+			委托币: {
+				DisplayName: 委托币
+				Tooltip: ""
+			}
+
+			白色委托币: {
+				DisplayName: 白色委托币
+				Tooltip: 用于兑换白色委托币商店的货币
+			}
+
+			绿色委托币: {
+				DisplayName: 绿色委托币
+				Tooltip: 用于兑换绿色委托币商店的货币
+			}
+
+			蓝色委托币: {
+				DisplayName: 蓝色委托币
+				Tooltip: 用于兑换蓝色委托币商店的货币
+			}
+
+			紫色委托币: {
+				DisplayName: 紫色委托币
+				Tooltip: 用于兑换紫色委托币商店的货币
+			}
+
+			橙色委托币: {
+				DisplayName: 橙色委托币
+				Tooltip: 用于兑换橙色委托币商店的货币
+			}
+
+			奖励袋Lv1: {
+				DisplayName: 奖励袋Lv1
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			奖励袋Lv2: {
+				DisplayName: 奖励袋 Lv2
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			奖励袋Lv3: {
+				DisplayName: 奖励袋 Lv3
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			奖励袋Lv4: {
+				DisplayName: 奖励袋 Lv4
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			奖励袋Lv5: {
+				DisplayName: 奖励袋 Lv5
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			奖励袋Lv6: {
+				DisplayName: 奖励袋 Lv6
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			奖励袋Lv7: {
+				DisplayName: 奖励袋 Lv7
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			奖励袋Lv8: {
+				DisplayName: 奖励袋 Lv8
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			奖励袋Lv9: {
+				DisplayName: 奖励袋 Lv9
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			奖励袋Lv10: {
+				DisplayName: 奖励袋 Lv10
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			白切剑盾: {
+				DisplayName: 白切剑盾
+				Tooltip:
+					'''
+					""
+					格挡:抵御50%受到的伤害并且反击,强化下一次攻击持续三秒
+					'''
+			}
+
+			白切剑杖: {
+				DisplayName: 白切剑杖
+				Tooltip: 生成法阵召唤源源不断的白切剑
+			}
+
+			黎明Mod内部功能启动器: {
+				DisplayName: 黎明Mod内部功能启动器
+				Tooltip: 开启开发者模式,可以使用开发者配置
+			}
+
+			白切召唤杖: {
+				DisplayName: 白切召唤杖
+				Tooltip: 召唤白切灵剑为你而战
+			}
+
+			白切弓: {
+				DisplayName: 白切弓
+				Tooltip: ""
+			}
+
+			宣花葫芦: {
+				DisplayName: 宣花葫芦
+				Tooltip: 技能: 可以捕捉特别的生物变成你的战宠
+			}
+
+			咬人的书: {
+				DisplayName: 咬人的书
+				Tooltip:
+					'''
+					召唤小薄绿
+					"别翻开它,小心咬人"
+					[c/FFFF00:特殊物品:][c/F4B9C8:夏璃夜~]
+					'''
+			}
+
+			丛林暴食怪圣物: {
+				DisplayName: 丛林暴食怪圣物
+				Tooltip: ""
+			}
+
+			远古幽魂圣物: {
+				DisplayName: 远古幽魂圣物
+				Tooltip: ""
+			}
+
+			永夜魔杖: {
+				DisplayName: 永夜魔杖
+				Tooltip: ""
+			}
+
+			真永夜魔杖: {
+				DisplayName: 真永夜魔杖
+				Tooltip: ""
+			}
+
+			真神圣法杖: {
+				DisplayName: 真神圣法杖
+				Tooltip: ""
+			}
+
+			波派的秘密: {
+				DisplayName: 波派的秘密
+				Tooltip: “不含类固醇！”
+			}
+
+			空罐: {
+				DisplayName: 空罐
+				Tooltip: ""
+			}
+
+			可疑外星蓝图: {
+				DisplayName: 可疑外星蓝图
+				Tooltip:
+					'''
+					使用后学会某些物品的合成配方
+					"蓝图的文本令人难以理解，只有部分图像能够进行解析"
+					'''
+			}
+
+			花岗岩游戏机: {
+				DisplayName: 花岗岩游戏机
+				Tooltip: ""
+			}
+
+			仙人掌史莱姆旗: {
+				DisplayName: 仙人掌史莱姆旗
+				Tooltip: "{$CommonItemTooltip.BannerBonus}仙人掌史莱姆"
+			}
+
+			化石史莱姆旗: {
+				DisplayName: 化石史莱姆旗
+				Tooltip: "{$CommonItemTooltip.BannerBonus}化石史莱姆"
+			}
+
+			星之史莱姆旗: {
+				DisplayName: 星之史莱姆旗
+				Tooltip: "{$CommonItemTooltip.BannerBonus}星之史莱姆"
+			}
+
+			绿岩史莱姆旗: {
+				DisplayName: 绿岩史莱姆旗
+				Tooltip: "{$CommonItemTooltip.BannerBonus}绿岩史莱姆"
+			}
+
+			绿岩无人机旗: {
+				DisplayName: 绿岩侦察机旗
+				Tooltip: "{$CommonItemTooltip.BannerBonus}绿岩侦察机"
+			}
+
+			胡萝卜精旗: {
+				DisplayName: 胡萝卜精旗
+				Tooltip: "{$CommonItemTooltip.BannerBonus}胡萝卜精"
+			}
+
+			腐败爬行者旗: {
+				DisplayName: 腐败爬行者旗
+				Tooltip: "{$CommonItemTooltip.BannerBonus}腐败爬行者"
+			}
+
+			草史莱姆旗: {
+				DisplayName: 草史莱姆旗
+				Tooltip: "{$CommonItemTooltip.BannerBonus}草史莱姆"
+			}
+
+			泰拉之穹: {
+				DisplayName: 泰拉之穹
+				Tooltip:
+					'''
+					使用时会在短暂延迟后会生成一个飞行法阵
+					法杖充能完毕时使用右键以传送到老鼠位置
+					'''
+			}
+
+			绿岩设计图: {
+				DisplayName: 绿岩设计图
+				Tooltip:
+					'''
+					使用后学会某些物品的合成配方
+					"这些设计图上描写了一些绿色岩石的加工方法"
+					'''
+			}
+
+			丛林权杖: {
+				DisplayName: 丛林权杖
+				Tooltip: ""
+			}
+
+			英雄断杖: {
+				DisplayName: 英雄断杖
+				Tooltip: ""
+			}
+
+			流星模块主机: {
+				// DisplayName: 流星模块主机
+				// Tooltip: ""
+			}
+		}
+
+		# 这是被修改的原版
+		Tooltips: {
+			#流星盔甲
+			MeteorArmor: 头盔自适应增加9%召唤伤害或魔法伤害
+			MeteorArmor2: 增加9%召唤伤害
+			#暗夜套
+			Shadow2: 攻击速度提升7%
+			#荆棘法杖
+			NettleBurst:
+				'''
+				使用时会在短暂延迟后会生成一个飞行法阵
+				使用右键在老鼠位置召唤荆棘发动攻击
+				'''
+			#魔法导弹
+			MagicMissile:
+				'''
+				召唤一个可以控制的导弹,随后召唤3枚围绕着自己的导弹
+				右键会让所有导弹追踪敌人
+				'''
+			#烈焰火鞭
+			Flamelash:
+				'''
+				召唤一个可以控制的火球,随后召唤3枚围绕着老鼠的火球
+				中心火球消失或者右键会让所有火球追踪敌人
+				'''
+			#彩虹法杖
+			RainbowRod:
+				'''
+				召唤一个可以控制的彩虹光束,随后召唤6枚围着玩家旋转的彩虹光束
+				右键会让所有彩虹光束追踪敌人
+				'''
+			#水晶蛇
+			CrystalSerpent: 召唤三头蛇,右键射出爆炸水晶弹
+			#爬藤怪法杖
+			ClingerStaff: 召唤一道咒火墙保护你,右键能在老鼠位置画出一道墙
+			#生命水晶
+			LifeCrystal:
+				'''
+				你需要击败生命守卫才能食用生命水晶
+				每打败一个阶段能食用五次
+				'''
+			#魔力水晶
+			ManaCrystal:
+				'''
+				你需要击败星辰守卫才能食用魔力水晶
+				每打败一个阶段能食用五次
+				'''
+			#赫尔墨斯之靴
+			HermesBoots:
+				'''
+				在草地和丛林草上跑得更快
+				开启可见性能让土块和泥块生成对应的草皮
+				穿上草鞋,飞一般的感觉
+				'''
+			#冰鞋
+			FlurryBoots:
+				'''
+				在雪块上跑的更快
+				开启可见性走在水上时,水会结冰
+				'''
+			#三管猎枪
+			Boomstick: 除暴安良是责任,行善积德是兴趣
+			Charging: 最大充能倍率
+			ItemsID: 物品ID:
+			UseAmmo: 使用弹药:
+			#袋子提示
+			Bags: 右键打开
+			Bags2: 按下智能光标快速查看物品
+			#抽奖提示
+			抽奖:
+				'''
+				按下智能光标查看能获得的物品概率
+				同时可以跳过动画
+				'''
+			#法宝
+			TalismanKey: 使用法宝
+			Talisman: 可以装备在法宝栏
+			Damage: 法宝伤害
+			Restoration: 治愈生命效果
+			RestorationMana: 治愈魔力效果
+			Resist: 抵挡伤害
+			RestorationCrit: 治愈生命翻倍
+			RestorationManaCrit: 治愈魔力翻倍
+			ResistCrit: 护盾翻倍
+			TalismanCD: 冷却时间
+			TalismanTimes: 持续时间
+			Second: 秒
+			Minute: 分
+			#右键提示
+			Rightattack: 按住右键进行特殊攻击
+			RightTransform: 右键切换武器模式
+			RightCharge: 按住右键进行蓄力攻击
+			Rightdefense: 按住右键进入防御姿态
+			#剑盾
+			SwordShield:
+				'''
+				防御姿态:开启时立即清除无敌时间并且额外增加{0}防御
+				启用时短时间内会触发格挡,受伤后一定时间内无法举盾
+				'''
+		}
+
+		ItemArmorSet: {
+			#血滴子套
+			血滴子套: 增加50生命值,召唤三只血肉仆从保护你
+			#流星套
+			Meteor: 增加2最大召唤栏
+			#橡果鞭子套
+			Acorn: 增加3防御,10%鞭子伤害,速度和长度
+			#橡果鞭子套
+			Acorn2: 增加2防御,5%召唤伤害,1最大召唤栏,1生命恢复
+			#橡果召唤套
+			Wood: 增加1防御,3%全部伤害,3%移速
+			#木套
+			RichMahogany: 增加3防御,在丛林时额外增加3防御,5%伤害和5%移速
+			#红木套
+			Ebonwood: 增加2防御,在腐化地时额外增加2防御,4%伤害和4%减伤
+			#乌木套
+			Shadewood: 增加2防御,在猩红地时额外增加2防御,6%伤害和2%闪避几率
+			#暗影木套
+			王朝木套: 增加2防御和10%攻击速度
+			#王朝木套
+			BorealWood: 增加2防御,在雪地时额外增加2防御,5%攻击速度
+			#针叶木套
+			PalmWood:
+				'''
+				增加2防御,在沙漠时额外增加2防御,10%移动速度
+				如果是在沙滩则增加15渔力
+				'''
+			#棕榈木套
+			Pearlwood:
+				'''
+				增加12防御,在神圣地时增外增加10防御,12%伤害和10%攻击速度
+				如果在邪恶地形会增加10%减伤
+				'''
+			#珍珠木套
+			Crimson:
+				'''
+				大大提高生命再生速度
+				受到伤害会短时间内获得一个buff,buff时间和伤害有关
+				buff期间伤害增加10%,并且能抽取附近敌人的生命
+				'''
+			#猩红套
+			Shadow:
+				'''
+				移动速度增加50%,移动时增加15%闪避几率
+				夜晚时速度额外增加50%
+				"黑夜,我将无处不在"
+				'''
+			#暗影套
+			Amethyst: 紫晶法杖蓄力更快并且降低一半的魔力消耗
+			#紫晶套
+			Topaz: 黄玉法杖蓄力更快并且降低一半的魔力消耗
+			#黄玉套
+			Sapphire: 蓝玉法杖蓄力更快并且降低一半的魔力消耗
+			#蓝玉套
+			Emerald: 翡翠法杖蓄力更快并且降低一半的魔力消耗
+			#翡翠套
+			Ruby: 红玉法杖蓄力更快并且降低一半的魔力消耗
+			#红玉套
+			Diamond: 钻石法杖蓄力更快并且降低一半的魔力消耗
+			#钻石套
+			Amber: 琥珀法杖蓄力更快并且降低一半的魔力消耗
+			#琥珀套
+			MagicStar: 每200魔力增加1召唤栏和25额外魔力
+			#魔星套
+			HeartBreaker: 增加20生命,当你攻击敌人时有几率生成碎心,拾取会恢复你的生命
+			#碎心套
+			GlowingMushroomSet: 增加50魔力上限,每秒额外恢复5魔力
+			#荧光蘑菇套
+			眼球套:
+				'''
+				生命值大于50%: 防御力增加5点
+				生命值低于等于50%: 防御力降低5点,伤害,暴击率,移动速度增加10%
+				'''
+			#绿岩套
+			召唤绿岩套:
+				'''
+				增加10%召唤伤害,10%鞭子长度和攻击速度
+				最大召唤栏增加1个
+				'''
+			近战绿岩套: 增加6防御,12%近战攻速,根据受到的伤害量发射导弹攻击
+			远程绿岩套: 增加2防御,10%远程攻速,手持远程武器攻击时周期性发射导弹
+			法师绿岩套: 增加100魔力,双击{0}键,消耗200魔力短暂增加100%魔法攻击速度;
+		}
+
+		ItemTips: {
+			#锤子战斗模式切换
+			BattleMode: 战斗模式
+			ToolMode: 工具模式
+		}
+
+		Recipes: {
+			强化台合成: 使用强化台进行合成
+			学习流星: 学会了某些流星配方制作
+			流星合成: 学习流星配方
+			学习绿岩: 学会了部分绿岩配方制作
+			绿岩合成: 学习绿岩配方
+			特殊主材料: 特殊主材料
+		}
+	}
+}

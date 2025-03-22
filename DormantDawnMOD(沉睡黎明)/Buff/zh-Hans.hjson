@@ -1,0 +1,408 @@
+Mods: {
+	DDmod: {
+		Buffs: {
+			Bleed: {
+				DisplayName: 流血
+				Description: 持续扣血
+			}
+
+			Charged: {
+				DisplayName: 带电
+				Description: 好痛,哎哟!
+			}
+
+			Charged2: {
+				DisplayName: 带电
+				Description: 好痛,哎哟!
+			}
+
+			Damp: {
+				DisplayName: 潮湿
+				Description: 你的衣服湿漉漉的
+			}
+
+			EvilEntanglement: {
+				DisplayName: 邪恶缠绕
+				Description: 邪恶的力量侵蚀着你的生命
+			}
+
+			Exposed: {
+				DisplayName: 暴露
+				Description: 黑暗暂时拒绝了你
+			}
+
+			Fossil: {
+				DisplayName: 化石
+				Description: 你已经变成了一座化石
+			}
+
+			Freeze: {
+				DisplayName: 冰冻
+				Description: 你成了冰雕
+			}
+
+			Frozen: {
+				DisplayName: 冷冻
+				Description: 你感觉行动缓慢
+			}
+
+			SpecialAttackCD: {
+				DisplayName: 特殊攻击CD
+				Description: 武器技能冷却
+			}
+
+			AcornMarker: {
+				DisplayName: 橡果标记
+				Description: 鞭子标记
+			}
+
+			BlessingOfTheHeart: {
+				DisplayName: 心之祝福
+				Description: 充满了爱心
+			}
+
+			CrimsonFury: {
+				DisplayName: 猩红之怒
+				Description: 增加10%伤害,你会抽取你附近敌人的生命值
+			}
+
+			MagicStar: {
+				DisplayName: 魔法星
+				Description: 鞭子标记
+			}
+
+			MeteorMarker: {
+				DisplayName: 流星标记
+				Description: 鞭子标记
+			}
+
+			ServantOfTheHeartBuff: {
+				DisplayName: 心之仆从
+				Description: 心之仆从会攻击你附近的敌人
+			}
+
+			TerraPower: {
+				DisplayName: 泰拉之力
+				Description: 你的身体被灌注了泰拉本源的力量
+			}
+
+			TerraPower2: {
+				DisplayName: 泰拉之力
+				Description: 你的身体被灌注了泰拉本源的力量
+			}
+
+			力量之魂: {
+				DisplayName: 力量之魂
+				Description: ""
+			}
+
+			地狱之火: {
+				DisplayName: 地狱之火
+				Description: 着火了
+			}
+
+			炼狱之火: {
+				DisplayName: 炼狱之火
+				Description: 就连黑曜石也无法抵御的高温
+			}
+
+			狱火爆炸: {
+				DisplayName: 狱火爆炸
+				Description: 鞭子标记
+			}
+
+			迅捷之力: {
+				DisplayName: 迅捷之力
+				Description: 增加20%移速和10%攻击速度
+			}
+
+			食物buff: {
+				DisplayName: 食物
+				Description: ""
+			}
+
+			食物DeBuff: {
+				DisplayName: 食物
+				Description: ""
+			}
+
+			流星飞行器Buff: {
+				DisplayName: 流星飞行器
+				Description: 你正站在一个飞行器上
+			}
+
+			ChildOfTheStarsBuff: {
+				DisplayName: 魔力守卫之子
+				Description: 魔力守卫之子将会跟随你
+			}
+
+			Devil_SlimeBuff: {
+				DisplayName: Devil_Slime
+				Description: 妈妈
+			}
+
+			SmallMeteorDiggerBuff: {
+				DisplayName: 小型流星掘地者
+				Description: 他头上的钻头视乎失灵了
+			}
+
+			SonOfTheLifeGuardBuff: {
+				DisplayName: 生命守卫之子
+				Description: 生命守卫之子将会跟随你
+			}
+
+			狱火蛇之子Buff: {
+				DisplayName: 狱火蛇之子
+				Description: 这小家伙把你当作他的首领了
+			}
+
+			stupidCatSlimeBuff: {
+				DisplayName: 笨猫史莱姆
+				Description: 笨猫!
+			}
+
+			SycamoreBunnySlimeBuff: {
+				DisplayName: 梧桐兔史莱姆
+				Description: 本MOD音乐主力
+			}
+
+			TairitsuSlimeBuff: {
+				DisplayName: 对立史莱姆
+				Description: ""
+			}
+
+			AcornSpiritBuff: {
+				DisplayName: 橡果之灵
+				Description: 他跟着你,也会保护你
+			}
+
+			BloodWormBuff: {
+				DisplayName: 血虫
+				Description: 放心,他不会咬你
+			}
+
+			CopperSwordBuff: {
+				DisplayName: 同志短剑
+				Description: 同志短剑会去戳爆你的敌人
+			}
+
+			EaterOfCorrosionBuff: {
+				DisplayName: 腐蚀吞噬者
+				Description: 腐败,啃食!
+			}
+
+			IronSpikeBallBuff: {
+				DisplayName: 铁刺球
+				Description: 撞击你的敌人
+			}
+
+			LeadSpikeBallBuff: {
+				DisplayName: 铅刺球
+				Description: 撞击你的敌人
+			}
+
+			LeafCrystalBuff: {
+				DisplayName: 叶之水晶
+				Description: 漂浮在你的头上攻击靠近你的敌人
+			}
+
+			MagicStarBuff: {
+				DisplayName: 魔法星
+				Description: 围绕着你并且会保护你
+			}
+
+			MeteorFighterBuff: {
+				DisplayName: 流星战斗机
+				Description: 你正在控制着他
+			}
+
+			MeteorYshapedDroneBuff: {
+				DisplayName: 流星Y形无人机
+				Description: 你正在控制着他
+			}
+
+			ShadowImpBuff: {
+				DisplayName: 暗影小鬼
+				Description: 暗影小鬼为你而战,杂鱼~
+			}
+
+			ShadowSkullBuff: {
+				DisplayName: 暗影骷髅
+				Description: 拥有暗影之火的骷髅头,听命与你
+			}
+
+			TinSwordBuff: {
+				DisplayName: 锡剑
+				Description: 他会去戳你的敌人
+			}
+
+			神庙探针Buff: {
+				DisplayName: 神庙探测器
+				Description: 神庙的监视器为你而战
+			}
+
+			守护: {
+				DisplayName: 守护
+				Description: 免疫一次伤害同时治愈你
+			}
+
+			真守护: {
+				DisplayName: 真守护
+				Description: 免疫一次伤害同时治愈你
+			}
+
+			鬼牙仆从Buff: {
+				DisplayName: 鬼牙仆从
+				Description: 他会在暗中保护你
+			}
+
+			鬼牙眷顾: {
+				DisplayName: 鬼牙眷顾
+				Description: 持续回复生命值
+			}
+
+			ManaSickness: 降低{0}%魔法攻击速度和伤害
+
+			恐吓: {
+				DisplayName: 恐吓
+				Description: 你感觉被什么东西盯上了,你现在已经动弹不得
+			}
+
+			蘑菇鞭Buff: {
+				DisplayName: 蘑菇鞭
+				Description: ""
+			}
+
+			发光蘑菇崽Buff: {
+				DisplayName: 发光蘑菇崽
+				Description: 他会保护你
+			}
+
+			眼球怪Buff: {
+				DisplayName: 眼球怪
+				Description: 现在这个小家伙只想保护你了
+			}
+
+			绿岩鞭Buff: {
+				DisplayName: 绿岩鞭
+				Description: ""
+			}
+
+			绿岩侦察机Buff: {
+				DisplayName: 绿岩侦察机
+				Description: 他将会为你而战
+			}
+
+			微型绿岩之视Buff: {
+				DisplayName: 微型绿岩之视
+				Description: 嘀嘀嘀......
+			}
+
+			血肉仆从Buff: {
+				DisplayName: 血肉仆从
+				Description: 血肉组成的仆从将会保护你
+			}
+
+			绿岩能量Buff: {
+				DisplayName: 绿岩能量
+				Description: 你感觉你手上的魔法武器更加顺手了
+			}
+
+			海幽浮Buff: {
+				DisplayName: 海幽浮
+				Description: 两小只追随着你
+			}
+
+			封魔尖锥Buff: {
+				DisplayName: 封魔尖锥
+				Description: 恐惧缝合体体内无数的冤魂封印在里面
+			}
+
+			拉肚子: {
+				DisplayName: 拉肚子
+				Description: 你现在肚子非常痛,你急需上厕所
+			}
+
+			星心考验: {
+				DisplayName: 星心考验
+				Description: ""
+			}
+
+			星心:
+				'''
+				降低{0}最大生命和{1}最大魔力
+				受到星星伤害时手持非魔法武器会受到1.5倍额外伤害
+				'''
+
+			苍穹守卫幻象Buff: {
+				DisplayName: 苍穹守卫幻象
+				Description: 苍穹守卫的一部分力量协助你
+			}
+
+			星心之子Buff: {
+				DisplayName: 星心之子
+				Description: 魔力守卫和生命守卫之子跟随着你
+			}
+
+			永夜侵袭: {
+				DisplayName: 永夜侵袭
+				Description: ""
+			}
+
+			真永夜侵袭: {
+				DisplayName: 真永夜侵袭
+				Description: ""
+			}
+
+			泰拉侵袭: {
+				DisplayName: 泰拉侵袭
+				Description: ""
+			}
+
+			泰拉守护: {
+				DisplayName: 泰拉守护
+				Description: 免疫一次伤害同时治愈你,并且可以造成一次泰拉侵袭
+			}
+
+			丛林香水Buff: {
+				DisplayName: 丛林香水
+				Description: 丛林里某植物喜欢这种气味
+			}
+
+			远古能量Buff: {
+				DisplayName: 远古能量
+				Description: 你身体里的魔法力量似乎在吸引某远古生物
+			}
+
+			恶魔力量Buff: {
+				DisplayName: 恶魔力量
+				Description: 大幅提升伤害,快速恢复生命
+			}
+
+			神圣仙酒Buff: {
+				DisplayName: 神圣仙酒
+				Description:
+					'''
+					神圣地的某只妖精被你身上的气味吸引
+					微弱降低防御,小幅度增加生命和伤害
+
+					'''
+			}
+
+			盾牌强化Buff: {
+				DisplayName: 强化
+				Description: 你的剑盾武器下次攻击会被强化
+			}
+
+			白切灵剑Buff: {
+				DisplayName: 白切灵剑 Buff
+				Description: Mods.DDmod.Buffs.白切灵剑Buff.Description
+			}
+
+			薄绿Buff: {
+				DisplayName: 薄绿
+				Description: 这是薄绿猫猫,她很可爱
+			}
+		}
+	}
+}

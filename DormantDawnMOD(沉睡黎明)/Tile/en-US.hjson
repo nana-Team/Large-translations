@@ -1,0 +1,57 @@
+Mods: {
+	DDmod: {
+		Tiles: {
+			StrengthenPlatform.MapEntry: Strengthening platform
+			鱼缸.MapEntry: Fish tank
+			HeartIngotTile.MapEntry: Heart Bar
+			HeartMineTile.MapEntry: Heart Ore
+			StarIngotTile.MapEntry: Star Bar
+			StarMineTile.MapEntry: Star Ore
+			锄过的土块.MapEntry: Hoeed Clods
+			治疗塔.MapEntry: Healing tower
+			晶凝书柜Tile.MapEntry: Solidified Crystal Bookcase
+			晶凝工作台Tile.MapEntry: Solidified Crystal Workbench
+			晶凝床Tile.MapEntry: Solidified Crystal Bed
+			晶凝桌Tile.MapEntry: Solidified Crystal Table
+			晶凝梳妆台Tile.MapEntry: Solidified Crystal Dresser
+			晶凝沙发Tile.MapEntry: Solidified Crystal Couch
+			晶凝浴缸Tile.MapEntry: Solidified Crystal Bathtub
+			晶凝烛台Tile.MapEntry: Solidified Crystal Candle holder
+			晶凝石块Tile.MapEntry: Solidified Crystal Stone
+			晶凝箱Tile.MapEntry: Solidified Crystal Chest
+			晶凝蜡烛Tile.MapEntry: Solidified Crystal Candle
+			晶凝钟Tile.MapEntry: Solidified Crystal Clock
+			晶凝钢琴Tile.MapEntry: Solidified Crystal Piano
+			晶凝门关Tile.MapEntry: Solidified Crystal Door
+			晶凝门开Tile.MapEntry: Solidified Crystal Door
+			绿岩锭Tile.MapEntry: Greenstone ingots
+			花岗岩科技书架Tile.MapEntry: Granite tech Bookcase
+			花岗岩科技工作台Tile.MapEntry: Granite tech Workbench
+			花岗岩科技床Tile.MapEntry: Granite tech Bed
+			花岗岩科技桌Tile.MapEntry: Granite tech Table
+			花岗岩科技梳妆台Tile.MapEntry: Granite tech Dresser
+			花岗岩科技熔炉Tile.MapEntry: Granite tech Furnace
+			花岗岩科技砧Tile.MapEntry: Granite tech Anvil
+			花岗岩科技箱Tile.MapEntry: Granite tech Chest
+			花岗岩科技钟Tile.MapEntry: Granite tech Clock
+			花岗岩科技钢琴Tile.MapEntry: Granite tech Piano
+			花岗岩科技门关Tile.MapEntry: Granite tech Door
+			花岗岩科技门开Tile.MapEntry: Granite tech Door
+			花岗岩核心晶体Tile.MapEntry: Granite core crystals
+			花岗岩科技砖Tile.MapEntry: Granite tech brick
+			花岗岩能量管道Tile.MapEntry: 花岗岩能量管道
+			测试物块.MapEntry: 测试物块
+		}
+
+		TilesText: {
+			未知: Unknown
+			成熟: Ripening
+			成熟2:
+				'''
+				Ripening
+				Right-click harvest
+				'''
+			阶段: Level
+		}
+	}
+}

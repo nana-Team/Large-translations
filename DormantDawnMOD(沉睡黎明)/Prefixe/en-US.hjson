@@ -1,0 +1,10 @@
+Mods: {
+	DDmod: {
+		Prefixes: {
+			" .DisplayName": ""
+			妈妈.DisplayName: 妈妈
+			����.DisplayName: ����
+			超级无敌宇宙第一大帝.DisplayName: 超级无敌宇宙第一大帝
+		}
+	}
+}

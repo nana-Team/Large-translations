@@ -1,0 +1,159 @@
+Mods: {
+	DDmod: {
+		DrawText: {
+			敬请期待: Not yet open
+			进入: enter
+			选择地图: Select Map
+		}
+
+		Lock: {
+			解锁: Unlocked, find the Hunter slime and go
+			未解锁: Not unlocked
+			草原2: Clear the grassland to unlock
+			草原3: Clear the grassland Center to unlock
+			草原4: Clear the abandoned warehouses to unlock
+			墓地: Hide the level
+			墓地2: Clear the graveyard to unlock
+		}
+
+		Level: {
+			草原: grassland
+			草原2: grassland Center
+			草原3: Abandoned warehouses
+			草原4: End of the grassland
+			墓地: Graveyard
+			墓地2: Graveyard(difficulty)
+			通关宝箱: Clearance chests
+		}
+
+		world: {
+			world1: Construct foundations
+			world2: Create worlds
+			world3: Final adjustments
+			dead1: Press the mount button to exit
+			dead2: Move the keys to shift the screen
+		}
+
+		Entrust: {
+			接受委托1: need {0}{$Currency.Copper} Accept the Entrust
+			接受委托2: need {0}{$Currency.Silver},{1}{$Currency.Copper} Accept the Entrust
+			接受委托3: need {0}{$Currency.Gold},{1}{$Currency.Silver},{2}{$Currency.Copper} Accept the Entrust
+			接受委托4: need {0}{$Currency.Platinum},{1}{$Currency.Gold},{2}{$Currency.Silver},{3}{$Currency.Copper} Accept the Entrust
+			领取奖励: Claim reward
+			领取成功: Claim successful
+			接受委托成功: Acceptance of the Entrust is successful
+			每日委托: Daily Entrust
+			冒险等级: Adventurer Level
+			未完成: Not done
+			已完成: done
+			你没有足够的押金: You don't have enough deposit
+			失败: fail
+			收集: gather
+			已拥有: possess
+			击杀: Kill
+			已经击杀: Already killed
+			升级条件: Increase the level of adventurers, increase Entrust difficulty and Loot
+			升级条件2: It looks like you're not strong enough to accept these commissions at the moment, so get up to level 5 first!
+			当前等级: Current Adventurer Level
+			当前拥有: Current player Level
+			需要等级: Need Level
+			升级进度: Progress
+			击败目标: "Downed target "
+			机械三王: All mechanical boss
+			任务追踪: Entrust
+			无: None
+			或: " of "
+			水母: jellyfish
+			史莱姆: Slime
+		}
+
+		EntrustText: {
+			物块委托1: Building materials are missing{0}{1},and someone is needed to help collect them, thank you~
+			物块委托2: "{0}{1}are severely missing, if anyone can find these building materials, please send them here."
+			物块委托3: In the last attack, our defenses were damaged a bit and needed{0}{1}repairs
+			物块委托4: We've been attacked by a group of monsters and need{0}{1}as patching materials, please
+			材料委托1: Hopefully some adventurers will collect{1}, need{0}.
+			材料委托2: We need{1}as a material to create magic items, we need{0}, and we will thank you if the adventurers can find them
+			武器委托1: Having a weapon that is a great way to increase my strength, I need {0}{1}.
+			武器委托2: One of my weapons was accidentally damaged {1} during the battle, and I heard that the adventurer would forge a weapon to help me get {0} such a weapon, and I would give him some items as payment
+			送击杀委托1: Thanks for your help, here are some of the rewards given to you.
+			#森林
+			森林击杀委托1: "{1} hurt the villagers everywhere, ask the adventurers to kill {0} {1}."
+			森林击杀委托2: I need some samples of {1} corpses, please go into the wild and kill {0}.
+			森林击杀委托3: A group of {1} attacked our village, and we missed it when we defended it{0} only lurking in the village, hoping that you could help us find and kill it.
+			森林击杀委托4: We found a small group of {1} wandering outside the village, estimated at {0}, intercepting them before they could approach.
+			森林击杀委托5: Our villagers are attacked by {0} {1} on the way to explore, hoping that the adventurers will sweep away the hidden danger
+			#地下
+			地下击杀委托1: There are a lot of enemies in the underground passage blocking the way, trouble the adventurers to clean up {0} only {1}, thank you
+			地下击杀委托2: I need some samples of underground creatures, please go kill {0} only {1}
+			地下击杀委托3: Someone commissioned to kill {0} only {1} and left the reward here
+			#发光蘑菇地
+			发光蘑菇蝙蝠击杀委托1: 发光蘑菇地有一群被蘑菇孢子寄生的蝙蝠,请去击杀{0}只{1}供我研究一下
+			发光蘑菇亡灵击杀委托1: 有一些孢子寄生的亡灵引起了我的注意,请去击杀{0}只亡灵供我研究一下
+			发光蘑菇击杀委托1: 发光蘑菇地有不少变异的蘑菇,请勇士去击杀{0}只{1}
+			#雪地
+			雪地击杀委托1: 我需要一些冰雪之地的生物样本,击杀{0}只{1}带回来
+			雪地击杀委托2: 冰雪之地的生物是如何抗寒的？请勇士去击杀{0}只{1}带回来研究
+			雪地击杀委托3: 冰雪之地的秘密太多了,我对{1}很感兴趣,去击杀{0}只带回来
+			#血月
+			血月击杀委托1: 有一种生物,他全身都是红色的,没错,就是{1},去杀{0}带回来
+			血月击杀委托2: 传说中,血月期间会有大量亡灵聚集,并且会出现罕见的{1},去击杀他们
+			血月击杀委托3: 接取任务,你将会得到一个开启血月的泪滴,使用它开启血月,去击杀{0}只{1}给我
+			#丛林
+			丛林击杀委托1: 丛林是每个冒险者都想探索的地方,那里有无数的宝藏和危险生物,所以我要求你去杀{0}只{1}回来
+			丛林击杀委托2: 听说丛林{1}泛滥,严重影响了生态平衡,请冒险者去清理{0}只{1}
+			丛林击杀委托3: 丛林太危险了,但是我需要一些{1}的尸体,请冒险者去帮我杀{0}只
+			#沙漠
+			沙漠击杀委托1: 沙漠非常危险,特别是地下,到处都是蚁狮,虫子,史莱姆,现在,去击杀{0}只{1}回来
+			沙漠击杀委托2: 炎热的沙漠是很致命的,有无冒险者去杀死{0}只{1},我会给予报酬的
+			沙漠击杀委托3: 我去沙漠探险的时候被{1}弄伤了,我很生气,有没有勇士去击杀{0}只{1},麻烦了
+			#腐化
+			腐化击杀委托1: 这个世界有一个腐败的地方,那里的生物让人作呕,但是我很喜欢那种味道,去杀{0}只{1}回来
+			腐化击杀委托2: 我去探险的时候不小心踏入了一个黑漆漆的地方,那里的生物非常难缠,请冒险者帮我清理{0}只{1},我有东西落在那里了
+			腐化击杀委托3: 腐败之地的生物勾起的我的兴趣,去击杀{0}只{1}让我研究一下
+			#血猩
+			血猩击杀委托1: 传说这片大陆上有一个血肉组成的大地,那里的生物都特别恶心,但也是非常不错的实验材料,去击杀{0}只{1}
+			血猩击杀委托2: 不好,我有东西掉到了一个满是血肉的地方,被{0}只{1}挡着无法获取,请帮我击杀他们
+			血猩击杀委托3: 有没有勇士去血肉之地杀死{0}只{1},他们看起来实在是太恶心了
+			#下雨
+			下雨击杀委托1: 下雨天也会有一些不一样的生物出现,请去击杀{0}只{1}
+			下雨击杀委托2: 雨天出现了不少{1},请冒险者去清理一下
+			下雨击杀委托3: 下雨会让一些攻击性生物聚集出现,请清理一下
+			#水下
+			水下击杀委托1: 有些生物只能生活在水中,请去击杀{0}只{1}
+			水下击杀委托2: 有人吗？该死的{1}在我下水游泳的时候攻击我,麻烦去帮我杀{0}只让我舒服舒服
+			水下击杀委托3: 我想吃点不一样的东西,麻烦有人去水下帮我杀{0}只{1}带回来
+			#天空
+			天空击杀委托1: 有些生物生活在空中,请去击杀{0}只{1}
+			天空击杀委托2: 有人吗？该死的{1}攻击我的热气球,麻烦去帮我杀{0}只让我舒服舒服
+			#地牢
+			地牢击杀委托1: 在这大陆的其中一边有一个地下牢房,里面有很多远古的骷髅,请去杀{0}只{1}
+			地牢击杀委托2: 我想看看现在有没有勇士可以去地牢里击杀{0}只{1}
+			地牢击杀委托3: 地牢里全是骷髅,去击杀{0}只{1}带回来看看他们是怎么组成的
+			#地狱
+			地狱击杀委托1: 在这地底下,有一个充满岩浆的世界,也有不少生物栖息在那里,去杀死{0}只{1}带回来看看
+			地狱击杀委托2: 听说在一个充满岩浆的地方也有着不少的生物？去击杀{0}只{1}带回来
+			地狱击杀委托3: 我发现有一些生物不怕岩浆,带{0}只{1}回来研究研究
+			#困难模式初期
+			困难击杀委托1: 你似乎打败了什么不得了的守卫,现在世界上出现了新的怪物,{1}很奇特,去杀{0}只
+			困难击杀委托2: 你干了什么,古老的光暗之魂被释放,导致{1}苏醒了,去尝试击杀{0}只来瞧瞧还有没有威胁
+			困难击杀委托3: 我发现这个世界上出现了一些新的生物,带{0}只{1}回来研究研究
+			困难击杀委托4: 几百年前的光暗之魂还是冲破了封印,我发现{1}变的更凶暴了,去杀一些减少威胁
+			困难击杀委托5: 这些新的怪物正适合训练新的勇士,去击杀{0}只{1}瞧瞧
+			#神圣
+			神圣击杀委托1: 看哪,古老的光明之魂已经被释放了,神圣之地出现了{1},去杀{0}只
+			神圣击杀委托2: 神圣之地有很多生物,去杀{0}只{1}带回来
+			神圣击杀委托3: 神圣之地太漂亮了,但是那些生物敌意很大,帮我去解决一下
+			#花后地牢
+			困难地牢击杀委托1: 前不久在地牢好像发生了什么事情,我看到了一些新的怪物,其中{1}吸引了我的注意,去杀{0}只带回来
+			困难地牢击杀委托2: 地牢的怪物变得异常狂暴,而且变得非常强力,有没有冒险者去清理{0}只{1}
+			困难地牢击杀委托3: 我刚刚去地牢里找宝藏,被{1}打伤了,我很生气,去帮我杀几只
+			#神庙
+			神庙击杀委托1: 那一朵花被击败了,所以去神庙击杀{0}只{1}给我
+			神庙击杀委托2: 神庙的生物似乎已经失去了理智,去击杀{0}只{1}
+			神庙击杀委托3: 我见过很多怪物了,神庙的怪物好有意思,去杀{0}只{1}回来
+			#特殊击杀委托
+			特殊委托小粉: There is a special slime, he is pink, please kill {0} only bring back
+		}
+	}
+}

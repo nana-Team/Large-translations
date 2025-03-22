@@ -1,0 +1,120 @@
+Mods: {
+	DDmod: {
+		BattlePet: {
+			迷失之眼: Lost Eyes
+			迷失之眼2: Killing Eye
+			迷失之眼3: Bloodstained Eyes
+			迷失之眼4: Bloodthirsty Eyes
+			金毛幼鸟: Golden juvenile birds
+			金毛幼鸟2: Rite Bird
+			金毛幼鸟3: canary
+			金毛幼鸟4: Golden Feather Demon
+		}
+
+		BattlePetText: {
+			可捕捉宠物: Pets can be captured
+			捕捉成功: Capture success
+			待命: await orders
+			战斗: fight
+		}
+
+		BattlePetUI: {
+			常见: N
+			优秀: R
+			稀有: SR
+			罕见: SSR
+			珍稀: UR
+			技能解锁: Unlock at level {0}
+			放生: Discard
+			确定: Decision
+			确认放生: Are you sure you want to discard this little guy?
+			离开: He's gone from you forever...
+			出战: Fight
+			休息: Rest
+			重伤: This little guy has been seriously injured ....
+			初始生命: Original life
+			生命: Life
+			初始攻击: Original damage
+			攻击: Damage
+			初始防御: Original defense
+			防御: Defense
+			减伤: 减伤
+			经验: Exp
+			攻击模式: Melee
+			成长: Grow
+			原始属性:
+				'''
+				Original stat
+				Life:{0}(20%)
+				Damage:{1}(10%)
+				Defense:{2}(10%)
+				Each upgrade increases the stat based on the original stat
+				The original stat change each time you evolve
+				'''
+			最终攻击: Final damage
+			最终生命: Max life
+			最终防御: Final defense
+			经验需求: Experience required
+			降低: "[c/FF6464:{0}reduce{1}]"
+			增加: "[c/64FF64:{0}increase{1}]"
+			降低2: "[c/64FF64:{0}reduce{1}]"
+			增加2: "[c/FF6464:{0}increase{1}]"
+
+			性格: {
+				鲁莽: Reckless
+				胆小: Timid
+				强壮: Strong
+				勇敢: Brave
+				暴躁: Grumpy
+				活泼: lively
+				坚强: Be strong
+				倔强: Stubborn
+				耿直: frank
+			}
+		}
+
+		BattlePetSkill: {
+			强攻:
+				'''
+				      Enhanced damage
+				Passive: 20% increased Damage
+				'''
+			狂暴:
+				'''
+				Rage
+				Active: Increases your attack and speed for a short time
+				'''
+			嗜血:
+				'''
+				bloodthirsty
+				Passive: Deals 20% more damage to bleeding units and drains health
+				'''
+			嗜血幻象:
+				'''
+				Bloodthirsty illusions
+				Active: Creates an afterimage larger than self, increasing the size of the collision and inflicting bleeding
+				Rage continues to activate during the spell's effect, and goes on cooldown with it after it ends
+				'''
+			节能:
+				'''
+				energy conservation
+				Passive: 30% less experience required to level up
+				'''
+			飞羽:
+				'''
+				remex
+				Active: Fires feathers at enemies, dealing damage and reducing defense
+				'''
+			撕裂:
+				'''
+				tear
+				Passive: Inflicts a bleeding effect
+				'''
+			治愈神羽:
+				'''
+				Heal the god feather
+				Active: Fires the feather in a random direction, healing the player closest to the feather after a while
+				'''
+		}
+	}
+}

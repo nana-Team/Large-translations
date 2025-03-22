@@ -1,0 +1,775 @@
+Mods: {
+	DDmod: {
+		NPCs: {
+			#生命守卫
+			LifeGuard: {
+				DisplayName: Life Guardian
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/SuspiciousHeartStone] summon
+					EntryName: Life Guardian
+					DespawnMessage: Try again.
+					EntryName1: Life Guardian - First stage
+					EntryName2: Life Guardian - Second stage
+					EntryName3: Life Guardian - Third phase
+				}
+			}
+
+			LifeServant.DisplayName: Life minions
+			LifeWarrior.DisplayName: Life warrior
+
+			#星辰守卫
+			StarGuard: {
+				DisplayName: Mana Guardian
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/SuspiciousStarStone] summon
+					EntryName: Mana Guardian
+					DespawnMessage: Try again.
+					EntryName1: Mana Guardian - First stage
+					EntryName2: Mana Guardian - Second stage
+					EntryName3: Mana Guardian - Third phase
+				}
+			}
+
+			ServantOfTheStars.DisplayName: Mana minions
+
+			#觉醒生命守卫
+			大地守卫: {
+				DisplayName: Laith, the Earth Guardian
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/SuspiciousStarStone] summon
+					EntryName: Laith, the Earth Guardian
+					DespawnMessage: Try again.
+				}
+			}
+
+			大地守卫替.DisplayName: Life Guardian
+
+			#觉醒星辰守卫
+			苍穹守卫: {
+				DisplayName: Braun, the Sky Guardian
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/SuspiciousHeartStone] summon
+					EntryName: Braun, the Sky Guardian
+					DespawnMessage: Try again.
+				}
+			}
+
+			苍穹守卫替.DisplayName: Mana Guardian
+			天地守卫.EntryName: Heaven and Earth Guardian
+
+			#流星歼灭者
+			MeteorAnnihilator: {
+				DisplayName: Meteor Annihilator
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/奇怪的控制器] summon
+					EntryName: Meteor Annihilator
+				}
+			}
+
+			歼灭者导弹.DisplayName: Annihilator Missiles
+			歼灭者导弹2.DisplayName: Annihilator Missiles II
+
+			#流星掘地者
+			MeteorDigger_Head: {
+				DisplayName: Meteor Excavator
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/AlienRigController] summon
+					EntryName: Meteor Excavater
+				}
+			}
+
+			MeteorDigger_Body.DisplayName: Meteor Excavater
+			MeteorDigger_Tail.DisplayName: Meteor Excavater
+			MeteorProbe.DisplayName: Meteor Probe
+
+			#狱火蛇
+			狱火蛇头: {
+				DisplayName: Hellfire Serpent
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/火蛇卵] in Hell
+					EntryName: Hellfire Serpent
+				}
+			}
+
+			狱火蛇身.DisplayName: Hellfire Serpent
+			狱火蛇身2.DisplayName: Hellfire Serpent
+			狱火蛇尾.DisplayName: Hellfire Serpent
+			狱火小蛇头.DisplayName: Small Hellfire Serpent
+			狱火小蛇尾.DisplayName: Small Hellfire Serpent
+			狱火小蛇身.DisplayName: Small Hellfire Serpent
+
+			#哥布林巫师首领
+			GoblinSorcererChieftain: {
+				DisplayName: Goblin Sorcerer Chieftain
+
+				BossChecklistIntegration: {
+					SpawnInfo: Defeat the World Eater or the Cthulhu Brain, afterwards, it will spawn at the end of Goblin Invasions
+					EntryName: Goblin Sorcerer Chieftain
+				}
+			}
+
+			#枯萎的橡果之灵
+			WitheredAcornSpirit: {
+				DisplayName: Withered Acorn Spirit
+
+				BossChecklistIntegration: {
+					SpawnInfo: Chance to spawn when cutting trees in the Cementery
+					EntryName: Withered Acorn Spirit
+				}
+			}
+
+			#蘑菇王
+			蘑菇王: {
+				DisplayName: Mushroom King
+
+				BossChecklistIntegration: {
+					SpawnInfo: Summons by eating [i:DDmod/奇怪的蘑菇汤] in the Forest biome.
+					EntryName: Mushroom King
+				}
+			}
+
+			蘑菇怪.DisplayName: Mushroom monsters
+
+			#夜光蘑菇王
+			夜光蘑菇王: {
+				DisplayName: Glow shroom King
+
+				BossChecklistIntegration: {
+					SpawnInfo: Summons by eating[i:DDmod/发光的蘑菇汤] in the Glow shroom biome.
+					EntryName: Glow shroom King
+				}
+			}
+
+			史莱菇.DisplayName: Glow shroom monsters
+
+			#鬼牙
+			鬼牙头: {
+				DisplayName: Ghost Fangs
+
+				BossChecklistIntegration: {
+					SpawnInfo: Sponningford: Throws [I:DDmod/诡异肉块] summon at night
+					EntryName: Ghost Fangs
+				}
+			}
+
+			鬼牙尾.DisplayName: Ghost Fangs
+			鬼牙身.DisplayName: Ghost Fangs
+
+			#绿岩之视
+			绿岩之视: {
+				DisplayName: Greenstone Vision
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/绿岩信号增幅器] summon
+					EntryName: Greenstone Vision
+				}
+			}
+
+			绿岩炮.DisplayName: Greenstone Cannon
+
+			#海幽浮王
+			海幽浮王: {
+				DisplayName: Ghost Jellyfish King
+
+				BossChecklistIntegration: {
+					SpawnInfo: Fishing in the Ocean with [i:DDmod/秘制大虾] has a chance to appear
+					EntryName: Ghost Jellyfish King
+				}
+			}
+
+			海幽浮.DisplayName: Ghost Jellyfish
+			小海幽浮.DisplayName: Small Ghost Jellyfish
+
+			超级蓝史莱姆: {
+				DisplayName: Super Blue Slime
+
+				BossChecklistIntegration: {
+					SpawnInfo: Has a chance to be encountered on grass during the day, and not defeating him will give him a higher chance of spawning
+					EntryName: Super Blue Slime
+				}
+			}
+
+			矿洞幽魂: {
+				DisplayName: Mine Spirit
+
+				BossChecklistIntegration: {
+					SpawnInfo: There is a chance to encounter it underground, and defeating King Slime and not defeating him will give him a higher chance of spawning
+					EntryName: Mine Spirit
+				}
+			}
+
+			恐惧缝合体: {
+				DisplayName: Fear sutures
+
+				BossChecklistIntegration: {
+					SpawnInfo: Blood Moon summons using [i:4271].
+					EntryName: Fear sutures
+				}
+			}
+
+			恐惧滋生体.DisplayName: Fear breeders
+
+			远古幽魂: {
+				DisplayName: Ancient Spirits
+
+				BossChecklistIntegration: {
+					SpawnInfo: There is a chance to spawn in the Dungeon, and the spawn rate is greatly increased before the first defeat, so consume [i:DDmod/幽魂药水] to increase the spawn rate
+					EntryName: Ancient Spirits
+				}
+			}
+
+			丛林暴食怪: {
+				DisplayName: Jungle Gluttony
+
+				BossChecklistIntegration: {
+					SpawnInfo: After defeating the Eater of Worlds/Brain of Cthulhu, there is a chance to spawn in the Jungle, and the spawn rate is greatly increased before the first defeat, so use [i:DDmod/丛林香水] to increase the spawn rate
+					EntryName: Jungle Gluttony
+				}
+			}
+
+			丛林暴食怪根.DisplayName: Jungle Gluttony Root
+			小丛林暴食怪.DisplayName: Small jungle gluttonies
+
+			炼狱头颅: {
+				DisplayName: Inferno Skull
+
+				BossChecklistIntegration: {
+					SpawnInfo: Kill Skeletron Has a chance to spawn in the Underworld,Spawn rates are higher before the first kill, or add [i:DDmod/恶魔护符] to your inventory and favorited it to increase the chance of spawning
+					EntryName: Inferno Skull
+				}
+			}
+
+			妖精王: {
+				DisplayName: Pixie King
+
+				BossChecklistIntegration: {
+					SpawnInfo: There is a chance to spawn in Hallow, and the spawn rate is higher before the first defeat, so consume [i:DDmod/神圣仙酒] to increase the spawn chance
+					EntryName: Pixie King
+				}
+			}
+
+			突变噬魂怪: {
+				DisplayName: Mutant Eater of souls
+
+				BossChecklistIntegration: {
+					SpawnInfo: After killing the Eye of Cthulhu,There is a chance to spawn in the Corruption biome surface, and if it does not spawn within 5 minutes, the spawn chance is greatly increased
+					EntryName: Mutant Eater of souls
+				}
+			}
+
+			突变喀迈拉: {
+				DisplayName: Mutant Crimera
+
+				BossChecklistIntegration: {
+					SpawnInfo: After killing the Eye of Cthulhu,There is a chance to spawn in the Crimson biome surface, and if it does not spawn within 5 minutes, the spawn chance is greatly increased
+					EntryName: Mutant Crimera
+				}
+			}
+
+			HunterSlime: {
+				DisplayName: Hunter Slime
+
+				TownNPCMood: {
+					#真不错
+					Content: I'm feeling pretty good.
+					#无家可归
+					NoHome: You might not believe it since I'm completely made of slime, but I set my house on fire while tinkering with my strengthening platform. Obviously, I couldn't put the fire out, so mind giving me a house?
+					#空间广阔
+					LoveSpace: There's quite a lot of space here, I like it.
+					#离家远
+					FarFromHome: ""
+					#人有点多
+					DislikeCrowded: It's getting a bit crowded and I would like more space for myself, would you kindly?
+					#人太多了
+					HateCrowded: It's FAR too crowded, make some folks woof out of here or else.
+					#喜欢的生态群落
+					LikeBiome: The {BiomeName} puts me in a good mood.
+					#最爱的生态群落
+					LoveBiome: The {BiomeName} it's my favorite place since there are plentiful of wolves, you might not see them but they see you!
+					#讨厌的生态群落
+					DislikeBiome: I hate {BiomeName}, the monsters here all chew on my slimy body like I'm a walking wolf treat. As you might think, it is certainly not nice, so do me a favor and get me out of here.
+					#厌恶的生态群落
+					HateBiome: Why did you bring me to the {BiomeName}... This is one of the WORST biomes you could have me live at; at this point, you might as well just throw me to a pile of fire and watch me become a walking fire blob.
+					#喜欢的npc
+					LikeNPC: "{NPCName} is very nice to me, I really like her."
+					#最爱的npc
+					LoveNPC: I love {NPCName} the most, we're good friends
+					#讨厌的npc
+					DislikeNPC: "{NPCName}'s flintlock is scary, please don't get me near him and his flintlock, I might burst into flames."
+					#厌恶的npc
+					HateNPC: "{NPCName} is tinkering with explosives all day, please get me as far as possibility, becoming fireworks isn't something I'm very fond of."
+					#公主
+					LikeNPC_Princess: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+					Princess_LovesNPC: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+				}
+
+				say1: "Good morning "
+				say2: "Hello "
+				say3: "Good evening "
+				say4: The morning is the most comfortable~
+				say5: The weather was so nice
+				say6: it's raining~
+				say7: The sound of a thunderstorm sounds terrifying, but comfortable
+				say8: It's late at night.....
+				say9: It's late at night....., the rain is still falling~
+				say10: Warriors, you can!
+				Options1: Hunter Challenge
+				Options2: Hunter Challenge (temporarily disabled by multiplayer)
+				Options3: Get back
+				Chat1: Are you going back?
+				Chat2: Hello, I am a hunter, I am homeless now, can you provide me with a house?
+				Chat3: I'm a hunter, I can take you to challenge some monsters, but I'm only responsible for taking you, I have to do other things
+				Chat4: This feature is not currently available for multiplayer mode
+				Census.SpawnCondition: Conditions unknown
+			}
+
+			HunterSlime2: {
+				DisplayName: Hunter Slime
+
+				TownNPCMood: {
+					#真不错
+					Content: I'm feeling pretty good.
+					#无家可归
+					NoHome: You might not believe it since I'm completely made of slime, but I set my house on fire while tinkering with my strengthening platform. Obviously, I couldn't put the fire out, so mind giving me a house?
+					#空间广阔
+					LoveSpace: There's quite a lot of space here, I like it.
+					#离家远
+					FarFromHome: ""
+					#人有点多
+					DislikeCrowded: It's getting a bit crowded and I would like more space for myself, would you kindly?
+					#人太多了
+					HateCrowded: It's FAR too crowded, make some folks woof out of here or else.
+					#喜欢的生态群落
+					LikeBiome: The {BiomeName} puts me in a good mood.
+					#最爱的生态群落
+					LoveBiome: The {BiomeName} it's my favorite place since there are plentiful of wolves, you might not see them but they see you!
+					#讨厌的生态群落
+					DislikeBiome: I hate {BiomeName}, the monsters here all chew on my slimy body like I'm a walking wolf treat. As you might think, it is certainly not nice, so do me a favor and get me out of here.
+					#厌恶的生态群落
+					HateBiome: Why did you bring me to the {BiomeName}... This is one of the WORST biomes you could have me live at; at this point, you might as well just throw me to a pile of fire and watch me become a walking fire blob.
+					#喜欢的npc
+					LikeNPC: "{NPCName} is very nice to me, I really like her."
+					#最爱的npc
+					LoveNPC: I love {NPCName} the most, we're good friends
+					#讨厌的npc
+					DislikeNPC: "{NPCName}'s flintlock is scary, please don't get me near him and his flintlock, I might burst into flames."
+					#厌恶的npc
+					HateNPC: "{NPCName} is tinkering with explosives all day, please get me as far as possibility, becoming fireworks isn't something I'm very fond of."
+					#公主
+					LikeNPC_Princess: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+					Princess_LovesNPC: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+				}
+
+				Census.SpawnCondition: no conditions
+			}
+
+			冒险家史莱姆: {
+				DisplayName: Adventurer Slime
+
+				TownNPCMood: {
+					#真不错
+					Content: I'm feeling pretty good.
+					#无家可归
+					NoHome: I don't have anything I want to do now, I need a place to live, pass the time, can you provide one for me?
+					#空间广阔
+					LoveSpace: There's quite a lot of space here, I like it.
+					#离家远
+					FarFromHome: ""
+					#人有点多
+					DislikeCrowded: It's getting a bit crowded and I would like more space for myself.
+					#人太多了
+					HateCrowded: It's far too crowded, make some folks woof out of here or else.
+					#喜欢的生态群落
+					LikeBiome: The {BiomeName} puts me in a good mood.
+					#最爱的生态群落
+					LoveBiome: The {BiomeName} it's my favorite place since there are plentiful of wolves, you might not see them but they see you!
+					#讨厌的生态群落
+					DislikeBiome: I hate {BiomeName}, the monsters here all chew on my slimy body like I'm a walking wolf treat. As you might think, it is certainly not nice, so do me a favor and get me out of here.
+					#厌恶的生态群落
+					HateBiome: Why did you bring me to the {BiomeName}... This is one of the WORST biomes you could have me live at; at this point, you might as well just throw me to a pile of fire and watch me become a walking fire blob.
+					#喜欢的npc
+					LikeNPC: "{NPCName} is very nice to me, I really like her."
+					#最爱的npc
+					LoveNPC: I love {NPCName} the most, we're good friends
+					#讨厌的npc
+					DislikeNPC: "{NPCName}'s flintlock is scary, please don't get me near him and his flintlock, I might burst into flames."
+					#厌恶的npc
+					HateNPC: "{NPCName} is tinkering with explosives all day, please get me as far as possible, becoming fireworks isn't something I'm very fond of."
+					#公主
+					LikeNPC_Princess: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+					Princess_LovesNPC: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+				}
+
+				say1: "Good morning "
+				say2: "Hello "
+				say3: "Good evening "
+				Options1: Adventurer quests
+				Options2: Adventurer level
+				Chat1: Hello. Adventurer, I can take the commission here, and you can get rich rewards for completing it, which is refreshed every day, and all the commissions received after refresh will be invalid
+				Chat2: Oh no, my dear, your adventure level isn't enough, turn on the adventurer level to level up
+				Census.SpawnCondition: no conditions
+			}
+
+			委托兑换商史莱姆: {
+				DisplayName: Adventure Coin Dealer Slime
+
+				TownNPCMood: {
+					#真不错
+					Content: I'm feeling pretty good.
+					#无家可归
+					NoHome: Please give me a place to stay, thanks
+					#空间广阔
+					LoveSpace: There's quite a lot of space here, I like it.
+					#离家远
+					FarFromHome: ""
+					#人有点多
+					DislikeCrowded: It's getting a bit crowded and I would like more space for myself.
+					#人太多了
+					HateCrowded: It's far too crowded, make some folks woof out of here or else.
+					#喜欢的生态群落
+					LikeBiome: The {BiomeName} puts me in a good mood.
+					#最爱的生态群落
+					LoveBiome: The {BiomeName} it's my favorite place since there are plentiful of wolves, you might not see them but they see you!
+					#讨厌的生态群落
+					DislikeBiome: I hate {BiomeName}, the monsters here all chew on my slimy body like I'm a walking wolf treat. As you might think, it is certainly not nice, so do me a favor and get me out of here.
+					#厌恶的生态群落
+					HateBiome: Why did you bring me to the {BiomeName}... This is one of the WORST biomes you could have me live at; at this point, you might as well just throw me to a pile of fire and watch me become a walking fire blob.
+					#喜欢的npc
+					LikeNPC: "{NPCName} is very nice to me, I really like her."
+					#最爱的npc
+					LoveNPC: I love {NPCName} the most, we're good friends
+					#讨厌的npc
+					DislikeNPC: "{NPCName}'s flintlock is scary, please don't get me near him and his flintlock, I might burst into flames."
+					#厌恶的npc
+					HateNPC: "{NPCName} is tinkering with explosives all day, please get me as far as possible, becoming fireworks isn't something I'm very fond of."
+					#公主
+					LikeNPC_Princess: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+					Princess_LovesNPC: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+				}
+
+				say1: "Good morning "
+				say2: "Hello "
+				say3: "Good evening "
+				Options1: "{0} Shop{1}"
+				Options2: Select Store
+				Shop1: Materiel
+				Shop2: Armor/Talisman
+				Shop3: Accessories
+				Shop4: Potion
+				Shop5: Sundries
+				Chat1: Hello. Adventurer, I'm an Adventure Coin exchanger, I'm good friends with {0} and {1}, and you can use the Adventure Coins you get from them to exchange them for rewards with me
+				Census.SpawnCondition: no conditions
+			}
+
+			Shop: {
+				Condition1: no conditions
+				Condition2: no conditions
+				Condition3: no conditions
+				Condition4: no conditions
+				Condition5: no conditions
+				Condition6: no conditions
+				Condition7: no conditions
+				Condition8: no conditions
+			}
+
+			宠物管家史莱姆: {
+				DisplayName: Pet Butler Slime
+
+				TownNPCMood: {
+					#真不错
+					Content: I'm feeling pretty good.
+					#无家可归
+					NoHome: Please give me a place to stay, thanks
+					#空间广阔
+					LoveSpace: There's quite a lot of space here, I like it.
+					#离家远
+					FarFromHome: ""
+					#人有点多
+					DislikeCrowded: It's getting a bit crowded and I would like more space for myself.
+					#人太多了
+					HateCrowded: It's far too crowded, make some folks woof out of here or else.
+					#喜欢的生态群落
+					LikeBiome: The {BiomeName} puts me in a good mood.
+					#最爱的生态群落
+					LoveBiome: The {BiomeName} it's my favorite place since there are plentiful of wolves, you might not see them but they see you!
+					#讨厌的生态群落
+					DislikeBiome: I hate {BiomeName}, the monsters here all chew on my slimy body like I'm a walking wolf treat. As you might think, it is certainly not nice, so do me a favor and get me out of here.
+					#厌恶的生态群落
+					HateBiome: Why did you bring me to the {BiomeName}... This is one of the WORST biomes you could have me live at; at this point, you might as well just throw me to a pile of fire and watch me become a walking fire blob.
+					#喜欢的npc
+					LikeNPC: "{NPCName} is very nice to me, I really like her."
+					#最爱的npc
+					LoveNPC: I love {NPCName} the most, we're good friends
+					#讨厌的npc
+					DislikeNPC: "{NPCName}'s flintlock is scary, please don't get me near him and his flintlock, I might burst into flames."
+					#厌恶的npc
+					HateNPC: "{NPCName} is tinkering with explosives all day, please get me as far as possible, becoming fireworks isn't something I'm very fond of."
+					#公主
+					LikeNPC_Princess: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+					Princess_LovesNPC: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+				}
+
+				Options1: Battle pets
+				Options2: Heal all pets({0})
+				Options3: gratis
+				Chat1: Hello friend, I'm a pet butler and I can help you take care of some of the little ones you caught in your adventures
+				Chat2: You don't seem to have caught any pets yet, and there may be a treasure chest in the Underground Jungle that contains a pet catching talisman
+				Chat3: All your pets are healed!
+				Chat4: Sorry, your savings can't afford to pay for this medicine...
+				Chat5: All your pets are healthy, what are you doing?
+				Chat6: This little skin injury can be treated for free
+				Census.SpawnCondition: no conditions
+			}
+
+			BlackHole.DisplayName: Black Hole
+			Moridor.DisplayName: Moridor
+			ChaosBall.DisplayName: Chaos Ball
+			EnchantedVoodooDollNPC.DisplayName: Enchanted Voodoo Doll
+			FishermanPuppet.DisplayName: Fisherman Puppet
+			AcornSpirit.DisplayName: Acorn Spirit
+			BraveGrassSlime.DisplayName: Brave Grass Slime
+			FlyingBlueSlime.DisplayName: Flying Blue Slime
+			FossilSlime.DisplayName: Fossil Slime
+			GrassSlime.DisplayName: Grass Slime
+			StarSlime.DisplayName: Star Slime
+			僵尸.DisplayName: Zombie
+			恶魔眼.DisplayName: Demon Eye
+			仙人掌史莱姆.DisplayName: Cactus Slime
+			胡萝卜精.DisplayName: Carrot monster
+			腐败爬行者.DisplayName: Corrupt Creeper
+			微型流星机器TYA型.DisplayName: Micro Meteor Machine TY-A type
+			微型流星机器TYB型.DisplayName: Micro Meteor Machine TY-B type
+			绿岩史莱姆.DisplayName: Greenstone Slime
+			绿岩史莱姆2.DisplayName: Greenstone Slime
+			绿岩侦察机.DisplayName: Greenstone reconnaissance aircraft
+			星辰守卫替.DisplayName: Bulan,Mana Guardian
+			生命守卫替.DisplayName: Laith,Life Guardian
+			星心守卫.DisplayName: Bulanles,Starheart Guardian
+			邪魔史莱姆.DisplayName: 邪魔史莱姆
+			迷失之眼.DisplayName: Lost Eyes
+			金毛幼鸟.DisplayName: Golden juvenile birds
+		}
+
+		#Boss图鉴
+		NPCBestiary: {
+			#星辰守卫
+			StarGuard: The Guardian of the Stars itself. If you truly aspire to be a powerful mage, shall you proof your worth to this deity through your journey; you will regain your old powers.
+			ServantOfTheStars: Loyal servants of the Guardian of the Stars, they will act according to their master's orders.
+			苍穹守卫: After you defeat the Wall of Flesh, they become your new challenge.
+			#大地守卫
+			LifeGuard: The Guardian of Life itself. Should your true ambition be regaining the life that you once lost, you must demonstrate your might to this guardian throughout your journey. Only then shall you reclaim the strength of your former self.
+			LifeServant: Devoted followers of the Guardian of Life, they will execute the commands of their master.
+			LifeWarrior: Once a mere servant now an expert warrior made for killing.
+			大地守卫: After you defeat the Wall of Flesh, they become your new challenge.
+			星心守卫: You've defeated the Moon Lords, but there's still a long way to go, and they're testing your mettle once again
+			#流星掘地者
+			MeteorDigger: Advanced technology from aliens came to Terra with the help of meteorites to break the barrier, the purpose is to mine all the resources of this planet.
+			MeteorProbe: The detectors released by the Meteor Digger will not only attack nearby enemies, but also look for nearby minerals.
+			#流星歼灭者
+			MeteorAnnihilator: Advanced technology from aliens, with the help of meteorites to break the barrier, came to the continent of Terra, with the purpose of monitoring and capturing advanced creatures for research.
+			#狱火蛇
+			狱火蛇:
+				'''
+				The Serpentine Dragon King of ancient times ruled Hell, but because of the powerful existence, they were exterminated, his race was all turned into skeletons, and in order to fight, he burned his body to the extreme
+				As his resentment saved him from death, his resentment infected his people, and he was sealed in the underworld before he could regain his full strength.
+				Until the ancient spirit of light and darkness is released and his soul is resurrected, but he loses himself and wanders in the underworld.
+				'''
+			#鬼牙
+			鬼牙:
+				'''
+				This giant flesh worm roams the skies looking for its next meal
+				He liked the lump of flesh that was compressed from a large amount of flesh
+				He prefers to eat the giant Didi monster to human flesh and blood
+				'''
+			#恐惧缝合体
+			恐惧缝合体: This blood-red sarcoma often wanders under the blood moon, creating fear, overlooking the earth with malice, and exiled in the night sky out of fear, using the darkness to escape the predators of the evil gods
+			恐惧滋生体: A monster spawned by a dread stitch
+			#超级蓝史莱姆
+			超级蓝史莱姆: This blue slime eats something that is not normal, making him bigger and stronger than normal
+			#矿洞幽魂
+			矿洞幽魂: The polymer of the miners' souls, enslaved souls who yearn for freedom but can't, eventually turn into the shadow of their lives in the midst of their grudges, and wander the place of death all day long
+			#哥布林巫师首领
+			GoblinSorcererChieftain: The Chieftain of Goblin Sorcery. His grasp of shadowflame is very strong; due to this power, he can create and close worm holes at will to summon low-rank sorceres. Even though hes powerful, there are stronger members in the Goblin family than him.
+			#蘑菇王
+			蘑菇王: Magically spawned mushrooms to grow into self-consciousness and grow larger
+			蘑菇怪: The Mushroom King's child, following his mother
+			#夜光蘑菇王
+			夜光蘑菇王: In the Glow shroom field underground, there is a strong magical aura, which also causes the mushroom to grow wildly and act independently
+			史莱菇: The child of the Glow shroom King, following his mother
+			#海幽浮
+			海幽浮王: A large, ghostly jellyfish creature, usually male, responsible for leading and protecting his colony
+			海幽浮: A normal-sized ghostly jellyfish creature, usually a female, responsible for raising the next generation to grow a large population
+			小海幽浮: The ghostly jellyfish, which was born not long ago, is small and agile
+			#绿岩之视
+			绿岩之视: Using a large robotic eyeball made of greenstone, he does not actively destroy any objects, but will activate the annihilation command if attacked
+			绿岩炮: The power of the cannon of the Greenstone Vision cannot be underestimated
+			#小怪
+			AcornSpirit: An acorn which soul once resided in a powerful warrior. They are neutral creatures made by and to protect the Forest, they turn aggresive if you chop down trees near them.
+			StarSlime: A slime which absorbed stars. Unlikely many other slimes, star slimes only appear at night due to them dissapearing at day.
+			胡萝卜精: Carrots may absorb some of their magical powers as they grow up, allowing them to act on their own
+			绿岩史莱姆: A slime combined with greenstone, nothing special
+			绿岩史莱姆2: I don't know who equipped this greenstone slime with a propeller
+			绿岩侦察机: With intelligent AI, he is no different from a low-level creature
+			#精英怪
+			WitheredAcornSpirit: Amalgamation between human and corrupt souls.
+			炼狱头颅: The skull of an ancient devil, he will have some fire magic before he is alive, because the devil's blood in his body has not been completely lost, so he is not completely dead, but his actions will consume a lot of energy, so he usually sleeps to maintain his life
+			丛林暴食怪: The taproot of the Jungle Gluttony has a very ferocious mouth
+			小丛林暴食怪: The secondary root of the Jungle Gluttony, which is used to shred prey to allow the Largemouth to feed
+			远古幽魂: The founder of the Lunatic Cult and the original believer of a great being, with his cursed blessing, will live forever without rest, offering loyalty and faith to the revival of the gods
+			突变喀迈拉: Stronger, bigger, more ferocious mutant bloody monsters
+			突变噬魂怪: An unusually ferocious mutant corrupt monster whose saliva is very disgusting
+			妖精王: The Hallow is home to a large number of pixie, and a powerful pixie king will emerge from this group to protect the pixie from them
+			#宠物
+			迷失之眼: This eyeball is not quite the same as the Devil's Eye, and I don't know where it came from
+			金毛幼鸟: A few golden feathers grew on his head, making him stand out from the rest
+			#城镇NPC
+			HunterSlime: A slime that is also a hunter. He burnt down his house, a bit silly mayhaps.
+			冒险家史莱姆: A slime, also an adventurer, who is now temporarily living in your town and helping everyone with some things
+		}
+
+		#Boss对话
+		NPCDialogue: {
+			StarGuard: {
+				#第一阶段
+				Dialogue: As the one to hold sway over the flow of mana in this realm, I am duly impressed.
+				Dialogue2: Shall ye part ways with one of the three chains that doth withhold thy complete magical potential.
+				Dialogue3: If thou dost not fear death, come at me again to try and extricate the remaining chains that one carries. Thou holdest potential; I will await thee.
+				Dialogue4: Maximum mana increased to 100
+				#第二阶段
+				Dialogue5: Once again, thou hast emerged victorious over me. Thy skills are remarkable.
+				Dialogue6: Thou shalt now part ways with the second chain that doth withhold thy magic power.
+				Dialogue7: Hesitate not to contest me anew, shouldst thou crave a confrontation with mine utmost embodiment, and thereby affirm thy worthiness of my power.
+				Dialogue8: Maximum mana increased to 200
+				#第三阶段
+				Dialogue9: Verily magnificent, I am joyously pleased.
+				Dialogue10: Thy dedication hath truly borne fruit. Thou hast proven thyself worthy of my strength. I shall now remove the limit on thy remaining power.
+				Dialogue11: Hmm, indeed. Here be the loot that rightfully belongs to thee. Farewell, young warrior.
+				Dialogue12: Maximum mana increased to 300
+				#第三次之后
+				Dialogue13: ""
+				#远古守卫对话
+				Dialogue14: You're really impressive
+				Dialogue15: It means that you are ready to meet our challenge again
+				Dialogue16: A combination of two of our mighties
+				Dialogue17: Right now
+				Dialogue18: We will become one
+				Dialogue19: Get ready for our challenge!
+				#远古守卫对话第二次召唤
+				Dialogue20: Challenge us again? Come on!
+				#远古守卫击败对话
+				Dialogue21: Not bad
+				#如果没有击败月总
+				Dialogue22: But don't rejoice too soon
+				Dialogue23: We'll meet again
+				Dialogue24: See you later
+				Dialogue25: "1"
+				ArousalDialogue1: And with that, it is the land of Terra that will usher in that chaotic crisis again
+				ArousalDialogue2: You never stop there until you unleash the chaos again
+				ArousalDialogue3: Your ambition, or your faith, is leading you step by step into the abyss
+				ArousalDialogue4: And we, too, are no longer the same
+				ArousalDialogue5: Transforming that wall of flesh and blood had drained us of almost all our energy
+				ArousalDialogue6: And its destruction also returns the energy we have lost
+				ArousalDialogue7: This is another challenge, but unlike before, we will act together
+				ArousalDialogue8: Don't admit defeat? Then come again!
+				ArousalDialogue9: Want to keep challenging us? We will do our best to fight you!
+				ArousalDialogue10: Find your location and we will limit your range of movement
+				ArousalDialogue11: Well done, but don't take it lightly
+				ArousalDialogue12: Very good
+				ArousalDialogue13: You are different from everyone else, and we see in your eyes the belief that we want to change the world
+				ArousalDialogue14: We think you deserve that power
+				ArousalDialogue15: Now, we're going to open the source of Terra for you
+				ArousalDialogue16: At this point, the power of life and magic will reverberate in the jungle and the fluorescent mushroom forest
+				ArousalDialogue17: But the chaos has fallen back on Terra
+				ArousalDialogue18: It's like the Dryad who we silently helped behind the scenes five hundred years ago
+				ArousalDialogue19: Remember everything we say and keep it a secret from her
+			}
+
+			LifeGuard: {
+				#第一阶段
+				Dialogue: As the Guardian of Life, doth acknowledge the power thou dost possess
+				Dialogue2: I shall remove the restraint confining thy initial life limits. If thy heart doth yearn for greater power, come again to face me.
+				Dialogue3: Anticipate with eagerness the approaching contest that shall be our rematch!
+				Dialogue4: Life cap increased to 200
+				#第二阶段
+				Dialogue5: I am astounded that thou hast once again triumphed over me! Very well, I shall now lift the second limit on thy life.
+				Dialogue6: But dost thou truly believe this to be the zenith of my abilities?
+				Dialogue7: Manifest the might of thy heart and confront me in mine utmost form. I do ardently await the conclusion of this battle.
+				Dialogue8: Life cap increased to 300
+				#第三阶段
+				Dialogue9: You are indeed incredibly strong! Haha!
+				Dialogue10: I haven't endured such agony in my ultimate form for many cycles. Thou bearest a pure heart, and thou art deserving of my rewards.
+				Dialogue11: Continue to thrive with thy final life limits unlocked!
+				Dialogue12: Life cap increased to 400
+				#第三次之后
+				Dialogue13: ""
+				#远古守卫对话
+				Dialogue14: I really didn't expect that the mighty Moon Lord could be defeated in your hands
+				Dialogue15: You wake us up again
+				Dialogue16: Come on, try again
+				Dialogue17: Right now
+				Dialogue18: We will become one
+				Dialogue19: Get ready for our challenge!
+				#远古守卫对话第二次召唤
+				Dialogue20: Challenge us again? Come on!
+				#远古守卫击败对话
+				Dialogue21: Not bad
+				#如果没有击败月总
+				Dialogue22: You can defeat the combined form of the two of us
+				Dialogue23: Take your loot
+				Dialogue24: See you later
+				Dialogue25: "1"
+				ArousalDialogue1: It was hard to believe that the seal that had bound the power of light and darkness for nearly five hundred years had been shattered in an instant
+				ArousalDialogue2: You're different from the other challengers who aspire to get their hands on the Terra's Roots
+				ArousalDialogue3: The land of Terra has changed once again because of you
+				ArousalDialogue4: And we, too, are no longer the same
+				ArousalDialogue5: Transforming that wall of flesh and blood had drained us of almost all our energy
+				ArousalDialogue6: And its destruction also returns the energy we have lost
+				ArousalDialogue7: This is another challenge, but unlike before, we will act together
+				ArousalDialogue8: Don't admit defeat? Then come again!
+				ArousalDialogue9: Want to keep challenging us? We will do our best to fight you!
+				ArousalDialogue10: Find your location and we will limit your range of movement
+				ArousalDialogue11: Well done, but don't take it lightly
+				ArousalDialogue12: Very good
+				ArousalDialogue13: Now, you have proven your incomparable abilities
+				ArousalDialogue14: We think you deserve that power
+				ArousalDialogue15: Now, we're going to open the source of Terra for you
+				ArousalDialogue16: At this point, the power of life and magic will reverberate in the jungle and the fluorescent mushroom forest
+				ArousalDialogue17: We are impressed by your efforts to unleash the power of light and darkness
+				ArousalDialogue18: If you have the ability, you have to pay the responsibility for it, even the price of it
+				ArousalDialogue19: It wasn't early, and she seemed to have discovered something
+			}
+
+			旅商: {
+				Dialogue1: Rare goods at affordable prices
+				Dialogue2: You only need {0} to buy <{1}>
+			}
+
+			树妖: {
+				Dialogue1: Wait!
+				Dialogue2: What just happened?
+				Dialogue3: I can feel that there is an energy that is intimately connected to the world and seems to be able to resonate with the world itself
+				Dialogue4: After they left, I felt that the world had changed a little
+				Dialogue5: Don't you want to tell me those details? Maybe it has something to do with you
+			}
+
+			#卖东西
+			Shop: {
+				Condition1: Reach Adventurer Level 1
+				Condition2: Reach Adventurer Level 2
+				Condition3: Reach Adventurer Level 3
+				Condition4: Reach Adventurer Level 4
+				Condition5: Reach Adventurer Level 5
+				Condition6: Reach Adventurer Level 6
+				Condition7: Reach Adventurer Level 7
+				Condition8: Reach Adventurer Level 8
+			}
+		}
+	}
+}

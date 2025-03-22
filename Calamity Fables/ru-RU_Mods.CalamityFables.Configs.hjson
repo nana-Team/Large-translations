@@ -2,59 +2,59 @@ EntryTitle.CooldownDisplay: ""
 EntryTooltip.CooldownDisplay: ""
 
 FablesConfig: {
-	DisplayName: Main Config
+	DisplayName: Основная конфигурация
 
 	SectionTitle: {
-		Graphics: Visual Effects
-		UI: User Interface
+		Graphics: Визуальные эффекты
+		UI: Пользовательский интерфейс
 	}
 
 	VanillaCooldownDisplay: {
-		Tooltip: Makes potion sickness and chaos state display in the cooldown rack instead of the buff list
-		Label: "[i:{0}] Cooldown Display For Vanilla Debuffs"
+		Tooltip: Отображать дебаффы послезельевой болезни и состояния хаоса в разделе перезарядок, а не баффов
+		Label: "[i:{0}] Показывать перезарядку ванильных дебаффов"
 	}
 
 	CooldownDisplay: {
+		Label: Показывать перезарядку
 		Tooltip: ""
-		Label: Cooldown Display
 	}
 
 	ChromaticAbberationMultiplier: {
-		Tooltip: Strength multiplier for the chromatic abberation VFX used by some items.
-		Label: "[i:{0}] Chromatic Abberation VFX Multiplier"
+		Label: "[i:{0}] Множитель эффекта хроматической аберрации"
+		Tooltip: Множитель силы для эффекта хроматической аберрации, используемого некоторыми вещами в моде
 	}
 
 	ScreenshakeMultiplier: {
-		Tooltip: Strength multiplier for screenshake effects from the mod.
-		Label: "[i:{0}] Screenshake Multiplier"
+		Label: "[i:{0}] Множитель тряски экрана"
+		Tooltip: Множитель силы для эффекта тряски экрана, используемого некоторыми вещами в моде
 	}
 
 	ParticleLimit: {
-		Tooltip: Maximum amount of particles that can exist at once. Might cause telegraphs to be less visible if lowered too much
-		Label: "[i:{0}] Maximum Particle Count"
+		Label: "[i:{0}] Максимальное количество частиц"
+		Tooltip: Определяет максимальное количество частиц, которые могут существовать одновременно. Учтите, что если указать слишком низкое значение, то эффекты предупреждения атак могут стать менее заметны.
 	}
 
 	BossIntroCardsActivated: {
-		Tooltip: Toggles the introduction card VFX that appears when a boss spawns
-		Label: "[i:{0}] Boss Intro Cards"
+		Label: "[i:{0}] Анимация представления босса"
+		Tooltip: Включает эффект анимации представления боссов при их призыве
 	}
 }
 
 CalCompatConfig: {
-	DisplayName: Calamity Compatibility
+	DisplayName: Совместимость с Calamity
 
 	UseCalamityMusic: {
-		Tooltip: If the Calamity Music Mod is enabled, plays the Calamity OST equivalent of the respective Fables track, if one exists
-		Label: "[i:{0}] Use Calamity Music"
+		Label: "[i:{0}] Использовать музыку Calamity"
+		Tooltip: При включённом Calamity Music Mod заменяет соответствующие треки из Fables на треки из Calamity
 	}
 
 	ReplaceCalamity: {
-		Tooltip: Remove Calamity content that has a Fables equivalent. Calamity items that use replaced content in their recipes will be able to use the matching Fables items
-		Label: "[i:{0}] Remove Duplicate Calamity Content"
+		Label: "[i:{0}] Удалить повторяющийся контент"
+		Tooltip: Удаляет контент Calamity, имеющий аналог в Fables. Аналоги предметов из Fables также можно будет использовать в рецептах Calamity
 	}
 
 	RemoveCalamityLoreFluff: {
-		Tooltip: Removes Calamity items that may contradict Fables lore (Lore items for now, potentially others in the future)
-		Label: "[i:{0}] Remove Lore Items"
+		Label: "[i:{0}] Удалить предмет истории"
+		Tooltip: Удаляет предметы истории из Calamity, которые могут противоречить лору Fables
 	}
 }

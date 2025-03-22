@@ -621,12 +621,12 @@
 			}
 
 			CarrionDetonatorStaff: {
-				DisplayName: Carrion Detonator Staff
+				DisplayName: Посох детонации падали
 				Tooltip:
 					'''
-					Fires lacerating sand gusts capable of severing flesh chunks from enemies
-					Flesh chunks merge together, increasing their size and potency
-					Right click to detonate all flesh chunks
+					Запускает раздирающие песчаные порывы, способные отрывать куски от врагов
+					Куски полти сливаются, что увеличивает их размер и силу
+					Нажмите ПКМ, чтобы взорвать все существующие куски плоти
 					'''
 			}
 

@@ -631,33 +631,33 @@
 			}
 
 			DeadStormlionLarvaCageItem: {
-				DisplayName: Dead Stormlion Larva Cage
-				Tooltip: "'Something's off...'"
+				DisplayName: Клетка с мёртвой личинкой штормового льва
+				Tooltip: «Что-то не так...»
 			}
 
 			IntestinalScarf: {
-				DisplayName: Intestinal Scarf
+				DisplayName: Кишечный шарф
 				Tooltip:
 					'''
-					Strong hits make you vomit food buffs as damaging projectiles
-					You can eat the vomited food back up to regain the buff
-					Eating the vomit grants additional regeneration and stats
-					[c/b3b2af:'Would you like an after-dinner mint, monsieur?']
+					Получение большого количества урона заставляет вас выблёвывать бафф от еды в качестве наносящего урон снаряда
+					Вы можете съесть выблеванную еду, чтобы восстановить бафф
+					Поедание блевоты даёт дополнительную регенерацию и увеличивает характеристики
+					[c/b3b2af:'Желаете ли вы послеобеденную мяту, мсье?']
 					'''
 			}
 
 			StormlionChewtoy: {
-				DisplayName: Stormlion Chewtoy
-				Tooltip: Summons a tiny, bashful Desert Scourge to follow you
+				DisplayName: Жевательная игрушка штормого льва
+				Tooltip: Призывает маленького, застенчивого Пустынного Бича следовать за вами
 			}
 
 			StormlionLarvaCageItem: {
-				DisplayName: Stormlion Larva Cage
+				DisplayName: Клетка с личинкой штормового льва
 				Tooltip: ""
 			}
 
 			StormlionWhip: {
-				DisplayName: Stormlion Whip
+				DisplayName: Хлыст штормого льва
 				Tooltip:
 					'''
 					Your summons will focus tagged enemies
@@ -668,19 +668,19 @@
 			}
 
 			TornElectrosac: {
-				DisplayName: Torn Electrosac
+				DisplayName: Шипастая электрокиста
 				Tooltip:
 					'''
-					A surprisingly bouncy organ that can be dribbled around
-					Builds up charge passively, which gets released when throwing the ball
-					The throw deals more damage as the electrosac reaches further
-					'We Ball!!!'
+					На удивленеи прыгучий орган, который может отскакивать от поверхностей
+					Пассивно накапливает заряд, который высвобождается при броске шара
+					Чем дальше летит электрокиста, тем больше урона она наносит
+					'ГООООЛ!!!'
 					'''
 			}
 
 			BouncyDart: {
 				DisplayName: Прыгучий дротик
-				Tooltip: Отскакивает между врагов
+				Tooltip: Отскакивает между врагами
 			}
 
 			BrambleStaff: {
@@ -709,52 +709,52 @@
 			}
 
 			CloudySpikeBall: {
-				DisplayName: Cloudy Spike Ball
+				DisplayName: Шипастый облачный шар
 				Tooltip: ""
 			}
 
 			CrackshotColt: {
-				DisplayName: Crackshot Colt
+				DisplayName: Кольт трескострел
 				Tooltip:
 					'''
-					Right click to toss a coin into the air
-					Bullets ricochet off coins into nearby enemies
-					Coin tosses consume copper coins
+					Нажмите ПКМ, чтобы подбросить монетку в оздух
+					Пули рикошетят от монет в ближайшего врага
+					Подбрасывание монеты тратит медную монету
 					'''
 			}
 
 			DesertProwlerHat: {
-				DisplayName: Desert Prowler Hat
-				Tooltip: 4% increased ranged damage and 20% chance to not consume ammo
+				DisplayName: Шляпа пустынного бродяги
+				Tooltip: Урон стрелка увеличен на 4%, 20% шанс не потратить боеприпасы
 			}
 
 			DesertProwlerPants: {
-				DisplayName: Desert Prowler Pants
-				Tooltip: 12% increased movement speed and immunity to the Mighty Wind debuff
+				DisplayName: Штаны пустынного бродяги
+				Tooltip: Скорость передвижения увеличена на 12%, а также иммунитет к «Сильному ветру»
 			}
 
 			DesertProwlerShirt: {
-				DisplayName: Desert Prowler Shirt
-				Tooltip: 4% increased ranged damage
+				DisplayName: Рубаха пустынного бродяги
+				Tooltip: Урон стрелка увеличен на 4%
 			}
 
 			EyetoothRipper: {
-				DisplayName: Eyetooth Ripper
+				DisplayName: Вырыватель глазных зубов
 				Tooltip:
 					'''
-					Clogs up with gore when striking enemies
-					Right click to expel the clogged up gore
-					[c/A1A1A1:'What are you, some sort of circular-saw man?']
+					Забивается кровью при ударах по врагам
+					Нажмите ПКМ, чтобы выбросить забившуюся кровь
+					[c/A1A1A1:'Что ты вообще такое? Какой-то тип человека-циркулярной пилы']
 					'''
 			}
 
 			FanaticalMask: {
-				DisplayName: Fanatical Mask
+				DisplayName: Фантастичесская маска
 				Tooltip:
 					'''
-					Dealing damage charges up energy within the mask
-					Release once the mask is fully charged to unleash the monster you’ve become
-					[c/C12E0F:"If all hope is lost, pray you are killed before they lower their masks"]
+					Нанесение урона накапливает энергию внутри маски
+					Выпустите её, когда маска полностью заряжена, чтобы высвободить монстра, которым вы стали
+					[c/C12E0F:"Если надежды уже нет, то молись о том, что смерть настигнет тебя предже, чем они снимут маску"]
 					'''
 			}
 

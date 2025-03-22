@@ -2,8 +2,8 @@
 	CalamityFables: {
 		Tiles: {
 			StormlionLarvaBanner.MapEntry: Знамя
-			HookstaffBuriedTile.MapEntry: Крюковидный посох
-			HookstaffTile.MapEntry: Крюковидный посох
+			HookstaffBuriedTile.MapEntry: Клюка
+			HookstaffTile.MapEntry: Клюка
 			NautilusPedestal.MapEntry: ""
 			GrapplerSpawnerTile.MapEntry: Спаунер
 			MagnetizerSpawnerTile.MapEntry: Спаунер
@@ -19,113 +19,113 @@
 			WulfrumRoverBanner.MapEntry: Знамя
 			NautilusCrossingTheDunes.MapEntry: Картина
 			ScourgekillerPaintingTile.MapEntry: Картина
-			WulfrumAcrobaticsPackPoster.MapEntry: Poster
-			WulfrumBathtub.MapEntry: Wulfrum Bathtub
-			WulfrumBed.MapEntry: Wulfrum Bed
-			WulfrumBulkContainer.MapEntry: Wulfrum Bulk Storage
-			WulfrumBulkDoorClosed.MapEntry: Wulfrum Bulk Door
-			WulfrumBulkDoorOpen.MapEntry: Wulfrum Door
-			WulfrumCanister.MapEntry: Wulfrum Canister
-			WulfrumComputer.MapEntry: Wulfrum Computer
-			WulfrumComputerPoster.MapEntry: Poster
-			WulfrumCrate.MapEntry: Wulfrum Crate
-			WulfrumDesk.MapEntry: Wulfrum Desk
-			WulfrumDiggingTurtlePoster.MapEntry: Poster
-			WulfrumDoorClosed.MapEntry: Wulfrum Door
-			WulfrumDoorOpen.MapEntry: Wulfrum Door
-			WulfrumFidgetPoster.MapEntry: Poster
-			WulfrumFridge.MapEntry: Wulfrum Fridge
-			WulfrumGrapplerPoster.MapEntry: Poster
-			WulfrumGyratorPoster.MapEntry: Poster
-			WulfrumHatchClosed.MapEntry: Wulfrum Hatch
-			WulfrumHatchOpen.MapEntry: Wulfrum Hatch
-			WulfrumLocker.MapEntry: Wulfrum Storage Locker
-			WulfrumMagnetizerPoster.MapEntry: Poster
-			WulfrumModularChair.MapEntry: Wulfrum Modular Chair
-			WulfrumMortarPoster.MapEntry: Poster
-			WulfrumOfficeChair.MapEntry: Wulfrum Office Chair
-			WulfrumPowerArmorPoster.MapEntry: Poster
-			WulfrumReinforcedCrate.MapEntry: Wulfrum Crate
-			WulfrumRollerPoster.MapEntry: Poster
-			WulfrumRoverPoster.MapEntry: Poster
-			WulfrumSink.MapEntry: Wulfrum Sink
-			WulfrumSmallCanister.MapEntry: Wulfrum Canister
-			WulfrumTable.MapEntry: Wulfrum Table
-			WulfrumToilet.MapEntry: Wulfrum Toilet
-			WulfrumTubeLight.MapEntry: Wulfrum Tube Light
-			WulfrumWashingMachine.MapEntry: Wulfrum Washing Machine
-			WulfrumWashingMachinePoster.MapEntry: Poster
-			WulfrumWideComputer.MapEntry: Wulfrum Computer
-			WulfrumWorkbench.MapEntry: Wulfrum Workbench
-			WulfrumWorkshop.MapEntry: Wulfrum Workshop
-			Wulfrum1x1Piles.MapEntry: Scrap
-			Wulfrum1x1PilesEcho.MapEntry: Scrap
-			Wulfrum3x2Piles.MapEntry: Scrap
-			Wulfrum3x2PilesEcho.MapEntry: Scrap
-			WulfrumChestLocked.MapEntry: Locked Wulfrum Chest
-			WulfrumLandfill.MapEntry: Wulfrum Landfill
-			WulfrumLure.MapEntry: Wulfrum Lure
-			WulfrumPipes.MapEntry: Wulfrum Pipe
-			WulfrumRotorLandfill.MapEntry: Wulfrum Landfill
-			WulfrumSmokingPipes.MapEntry: Wulfrum Pipe
-			CloudSpriteBanner.MapEntry: Banner
-			HookstaffBuriedTileEcho.MapEntry: Hookstaff
-			HookstaffTileEcho.MapEntry: Hookstaff
-			StormlionBanner.MapEntry: Banner
-			WulfrumBigRotorLandfill.MapEntry: Wulfrum Landfill
-			DustyCrates.MapEntry: Crate
-			DustyCratesEcho.MapEntry: Crate
-			TripodTorchTile.MapEntry: Torch
-			BrokenDummy.MapEntry: Dummy
-			BrokenDummyEcho.MapEntry: Dummy
-			SandstoneCampfireTile.MapEntry: Campfire
-			SandyTentTile.MapEntry: Tent
-			MakeshiftStoolTile.MapEntry: Stool
-			DesertBrazierTile.MapEntry: Brazier
-			DesertBrickPillarTile.MapEntry: Desert Brick Pillar Tile
-			SandstonePillarTile.MapEntry: Sandstone Pillar Tile
-			ShatteredTabletPaintingTile.MapEntry: Painting
-			DustyBricks.MapEntry: Dusty Bricks
-			GrimyGrate.MapEntry: Grimy Grate
-			IndustrialWulfrumTubeLight.MapEntry: Industrial Wulfrum Tube Light
-			BunkerScreenRubble.MapEntry: Bunker Screen
-			BunkerScreenRubbleEcho.MapEntry: Bunker Screen
-			BunkerShelfRubble.MapEntry: Bunker Shelf
-			BunkerShelfRubbleEcho.MapEntry: Bunker Shelf
-			BunkerWarningSignRubble.MapEntry: Bunker Warning Sign
-			BunkerWarningSignRubbleEcho.MapEntry: Bunker Warning Sign
-			BunkerChairRubble.MapEntry: Bunker Chair
-			BunkerChairRubbleEcho.MapEntry: Bunker Chair
-			BunkerLongTableRubble.MapEntry: Bunker Long Table
-			BunkerLongTableRubbleEcho.MapEntry: Bunker Long Table
-			BunkerTableRubble.MapEntry: Bunker Table
-			BunkerTableRubbleEcho.MapEntry: Bunker Table
-			BunkerWorkshopRubble.MapEntry: Bunker Workshop
-			BunkerWorkshopRubbleEcho.MapEntry: Bunker Workshop
-			BunkerWorkshop.MapEntry: Bunker Workshop
-			WulfrumVault.MapEntry: Wulfrum Vault
-			WulfrumVaultLocked.MapEntry: Locked Wulfrum Vault
-			WulfrumDeskLamp.MapEntry: Wulfrum Desk Lamp
-			WulfrumLamppost.MapEntry: Wulfrum Lamppost
+			WulfrumAcrobaticsPackPoster.MapEntry: Постер
+			WulfrumBathtub.MapEntry: Ванна
+			WulfrumBed.MapEntry: Кровать
+			WulfrumBulkContainer.MapEntry: Контейнер
+			WulfrumBulkDoorClosed.MapEntry: Дверь
+			WulfrumBulkDoorOpen.MapEntry: Дверь
+			WulfrumCanister.MapEntry: Канистра
+			WulfrumComputer.MapEntry: Компьютер
+			WulfrumComputerPoster.MapEntry: Постер
+			WulfrumCrate.MapEntry: Ящик
+			WulfrumDesk.MapEntry: Тумбочка
+			WulfrumDiggingTurtlePoster.MapEntry: Постер
+			WulfrumDoorClosed.MapEntry: Дверь
+			WulfrumDoorOpen.MapEntry: Дверь
+			WulfrumFidgetPoster.MapEntry: Постер
+			WulfrumFridge.MapEntry: Холодильник
+			WulfrumGrapplerPoster.MapEntry: Постер
+			WulfrumGyratorPoster.MapEntry: Постер
+			WulfrumHatchClosed.MapEntry: Люк
+			WulfrumHatchOpen.MapEntry: Люк
+			WulfrumLocker.MapEntry: Шкафчик
+			WulfrumMagnetizerPoster.MapEntry: Постер
+			WulfrumModularChair.MapEntry: Кресло
+			WulfrumMortarPoster.MapEntry: Постер
+			WulfrumOfficeChair.MapEntry: Кресло
+			WulfrumPowerArmorPoster.MapEntry: Постер
+			WulfrumReinforcedCrate.MapEntry: Ящик
+			WulfrumRollerPoster.MapEntry: Постер
+			WulfrumRoverPoster.MapEntry: Постер
+			WulfrumSink.MapEntry: Раковина
+			WulfrumSmallCanister.MapEntry: Канистра
+			WulfrumTable.MapEntry: Стол
+			WulfrumToilet.MapEntry: Унитаз
+			WulfrumTubeLight.MapEntry: Настенная лампа
+			WulfrumWashingMachine.MapEntry: Стиральная машина
+			WulfrumWashingMachinePoster.MapEntry: Постер
+			WulfrumWideComputer.MapEntry: Компьютер
+			WulfrumWorkbench.MapEntry: Верстак
+			WulfrumWorkshop.MapEntry: Мастерская
+			Wulfrum1x1Piles.MapEntry: Металлолом
+			Wulfrum1x1PilesEcho.MapEntry: Металлолом
+			Wulfrum3x2Piles.MapEntry: Металлолом
+			Wulfrum3x2PilesEcho.MapEntry: Металлолом
+			WulfrumChestLocked.MapEntry: Закрытый сундук
+			WulfrumLandfill.MapEntry: Груда вульфрумового металлолома
+			WulfrumLure.MapEntry: Вульфрумовый маячок
+			WulfrumPipes.MapEntry: Труба
+			WulfrumRotorLandfill.MapEntry: Груда вульфрумового металлолома
+			WulfrumSmokingPipes.MapEntry: Труба
+			CloudSpriteBanner.MapEntry: Знамя
+			HookstaffBuriedTileEcho.MapEntry: Клюка
+			HookstaffTileEcho.MapEntry: Клюка
+			StormlionBanner.MapEntry: Знамя
+			WulfrumBigRotorLandfill.MapEntry: Груда вульфрумового металлолома
+			DustyCrates.MapEntry: Ящик
+			DustyCratesEcho.MapEntry: Ящик
+			TripodTorchTile.MapEntry: Факел
+			BrokenDummy.MapEntry: Манекен
+			BrokenDummyEcho.MapEntry: Манекен
+			SandstoneCampfireTile.MapEntry: Костёр
+			SandyTentTile.MapEntry: Палатка
+			MakeshiftStoolTile.MapEntry: Табуретка
+			DesertBrazierTile.MapEntry: Чаша с огнём
+			DesertBrickPillarTile.MapEntry: Колонна из песчаного кирпича
+			SandstonePillarTile.MapEntry: Колонна из песчаника
+			ShatteredTabletPaintingTile.MapEntry: Скрижаль
+			DustyBricks.MapEntry: Пыльный кирпич
+			GrimyGrate.MapEntry: Грязная решётка
+			IndustrialWulfrumTubeLight.MapEntry: Настенная лампа
+			BunkerScreenRubble.MapEntry: Экран
+			BunkerScreenRubbleEcho.MapEntry: Экран
+			BunkerShelfRubble.MapEntry: Полка
+			BunkerShelfRubbleEcho.MapEntry: Полка
+			BunkerWarningSignRubble.MapEntry: Предупреждающий знак
+			BunkerWarningSignRubbleEcho.MapEntry: Предупреждающий знак
+			BunkerChairRubble.MapEntry: Стул
+			BunkerChairRubbleEcho.MapEntry: Стул
+			BunkerLongTableRubble.MapEntry: Стол
+			BunkerLongTableRubbleEcho.MapEntry: Стол
+			BunkerTableRubble.MapEntry: Стол
+			BunkerTableRubbleEcho.MapEntry: Стол
+			BunkerWorkshopRubble.MapEntry: Мастерская
+			BunkerWorkshopRubbleEcho.MapEntry: BМастерская
+			BunkerWorkshop.MapEntry: Мастерская
+			WulfrumVault.MapEntry: Схрон со снаряжением
+			WulfrumVaultLocked.MapEntry: Закрытый схрон со снаряжением
+			WulfrumDeskLamp.MapEntry: Настольная лампа
+			WulfrumLamppost.MapEntry: Фонарь
 		}
 
-		Conditions.InNautilusChamber: Inside the Sealed Chamber
+		Conditions.InNautilusChamber: Можно найти в тайной пещере
 
 		Compat: {
 			BossChecklist: {
 				DesertScourge: {
-					SpawnInfo: Выманите на поверхность с помощью [i:{0}][i:{1}][i:{2}] одной из личинок штормового льва.
-					Despawn: Пустынный бич снова скрывается в песках пустыни...
+					SpawnInfo: Выманите его из песков пустыни при помощи [i:{0}][i:{1}][i:{2}] личинок — его любимого лакомства.
+					Despawn: Пустынный бич вновь зарывается глубоко под пески пустыни...
 				}
 
 				Crabulon: {
-					SpawnInfo: Появляется естественным образом в грибных пещерах, если ещё небыл побеждён. Привлеките его внимание вручную, поковыряв грибную траву с помощью [i:{0}].
-					Despawn: В грибных пещерах своно воцаряется тишины...
+					SpawnInfo: Изредка выглядывает из почвы пещер светящихся грибов, если ещё не был убит до этого — потревожьте его в этот момент, чтобы начать бой. В качестве альтернативы для призыва, привлеките его внимание [i:{0}] клюкой, стоя на траве светящихся грибов.
+					Despawn: В пещерах светящихся грибов снова воцаряется тишина...
 				}
 
 				Nautilus: {
-					SpawnInfo: Встретьте одинокого солдата в потайной комнате, засыпанной под песками [i:{0}] древнего кладбища.
-					Despawn: Наутилус одолел вас в дуэли!
+					SpawnInfo: Встретьтесь с одиноким воином в тайной пещере, сокрытой в глубине пустыни, и вызовите его на дуэль. Пещеру можно отыскать под древним кладбищем, что до сих пор находится где-то на поверхности пустыни.
+					Despawn: Похоже, в этой дуэли победа достаётся Наутилусу...
 				}
 			}
 		}
@@ -317,12 +317,12 @@
 		Items: {
 			BucketOfLarvae: {
 				DisplayName: Ведро личинок штормового льва
-				Tooltip: Содержит, казалось бы, бесконечное количество личинок
+				Tooltip: Сколько личинок из него ни доставай, оно никогда не опустеет
 			}
 
 			DeadStormlionLarvaItem: {
 				DisplayName: Мёртвая личинка штормового льва
-				Tooltip: «Идеальная закуска для любого пустынного хищника»
+				Tooltip: «Настоящие лакомство для пустынных хищников, больших и маленьких»
 			}
 
 			DesertScourgeBossMask: {
@@ -352,11 +352,11 @@
 
 			StormlionLarvaItem: {
 				DisplayName: Личинка штормового льва
-				Tooltip: «Они скитаются лишь на поверхности пустынных дюн... Может, они чувствуют опасность снизу?»
+				Tooltip: «Стоит вынести их на поверхность, как они начинают дёргаться от страха... быть может, они чувствуют опасность от чего-то, что глубоко под ними?»
 			}
 
 			CrabulonRelicItem: {
-				DisplayName: Реликвия Крабулон
+				DisplayName: Реликвия Крабулона
 				Tooltip: ""
 			}
 
@@ -371,12 +371,12 @@
 			}
 
 			Hookstaff: {
-				DisplayName: Крюковидный посох
+				DisplayName: Клюка
 				Tooltip:
 					'''
-					Используется чтобы тыкать и ковырять мицелий в грибном биоме
+					Используется для ковыряния в мицелии светящихся грибов
 					Можно использовать только стоя на грибной траве
-					Это может спровоцировать некоторых здешних существ...
+					Будьте готовы к тому, что тыкая куда попало вы навлечёте на себя гнев местных существ
 					'''
 			}
 
@@ -401,7 +401,7 @@
 			}
 
 			AmnesiaItem: {
-				DisplayName: Когда-нибудь, на границе космоса
+				DisplayName: Однажды где-то на краю вселенной
 				Tooltip: ""
 			}
 
@@ -441,29 +441,30 @@
 			}
 
 			Electrocells: {
-				DisplayName: Электроячейки
+				DisplayName: Электроклетки
 				Tooltip:
 					'''
-					При получении 50 или более ед. урона расходуется сгусток электроячеек, электрофирирующих ближайших врагов
-					«Эта органическая слизь хрестит и обжигает при косании»
+					Расходуется при получении вами более 50 ед. урона за раз
+					Выпускает цепную молнию в ближайших врагов, мгновенно отскакивающую от одного к другому
+					«Эта органическая слизь изредка потрескивает и жжётся на ощупь»
 					'''
 			}
 
 			ScourgeSpineHeadPlacer: {
-				DisplayName: Окаменевшая голоса морского бича
+				DisplayName: Окаменевшая пасть морского бича
 				Tooltip:
 					'''
 					Размещает на земле декоративные окаменелости бича
-					Нажмите Вверх/Вниз, чтобы изменить нправление позвоночника
+					Нажмите Вверх/Вниз, чтобы изменить наклон позвоночника
 					'''
 			}
 
 			ScourgeSpinePlacer: {
-				DisplayName: Окаменевшая спина морского бича
+				DisplayName: Окаменевший позвоночник морского бича
 				Tooltip:
 					'''
 					Размещает на земле декоративные окаменелости бича
-					Нажмите Вверх/Вниз, чтобы изменить нправление позвоночника
+					Нажмите Вверх/Вниз, чтобы изменить наклон позвоночника
 					'''
 			}
 
@@ -471,8 +472,8 @@
 				DisplayName: Панцирная клешня
 				Tooltip:
 					'''
-					Призывает духа панцирного грязевого краба
-					«Наполнен грибной слизью!»
+					Призывает духа грязевого краба
+					«Напичкана грибной слизью!»
 					'''
 			}
 
@@ -486,47 +487,49 @@
 				Tooltip:
 					'''
 					Изменяет ваш голос
-					«Отлично подходит для подражания голоса зомбифицированных тупов!»
+					«Отлично подходит для подражания голосу ожившего трупа!»
 					'''
 			}
 
 			InkyBluePendant: {
-				DisplayName: Чернильно-синяя подвестка
+				DisplayName: Кулон с синими чернилами
 				Tooltip:
 					'''
-					Призывает стража в черничной шапочке сражаться за вас
-					Нажмите ПКМ рядом с поверхностью, чтобы стража вмазался в землю и начал излучать ауру, исцеляющую вас и других игроков
-					На вмазавшемся страже также можно прыгать как на батуте
-					Вы можете призвать только одного стража в чернильной шапочке, занимающего 2 слота миньонов
+					Призывает стража в чернильной шапочке сражаться за вас
+					Нажмите ПКМ над каким-либо блоком, чтобы заставить стража пустить корни в этом месте
+					Пока страж находится в этом состоянии, вокруг него образуется исцеляющая аура
+					На пустившем корни страже также можно прыгать как на батуте
+					Можно призвать только одного стража в чернильной шапочке
+					Занимает 2 слота миньонов
 					'''
 			}
 
 			LuminousMixture: {
-				DisplayName: Светяшщаяся микстура
-				Tooltip: Даёт кратковременный прилив сил при использовании исцеляющих предметов
+				DisplayName: Светяшщийся раствор
+				Tooltip: Даёт кратковременный прилив сил после использовании исцеляющих предметов
 			}
 
 			MoldyPicklaw: {
-				DisplayName: Проплесневевшая кирколапа
+				DisplayName: Заплесневевший коготок
 				Tooltip:
 					'''
-					Превращает мягкие почвы и обычный камень в мицелий
-					Мицелий, будучи хрупким, разрушается по несколько блоков за раз
+					Превращает обычные виды почвы и камня в мягкий мицелий
+					Мицелий настолько хрупок, что разрушается по нескольку блоков за раз при выкапывании
 					'''
 			}
 
 			MushroomBoots: {
 				DisplayName: Грибные ботинки
-				Tooltip: Оставляет за вами шрибной след
+				Tooltip: Оставляет за вами след из грибов
 			}
 
 			MyceliumMoldItem: {
-				DisplayName: Проплесневевший мицелий
-				Tooltip: Не такой хрупкий, как его обычная версия
+				DisplayName: Заплесневевший мицелий
+				Tooltip: Заметно прочнее, чем обычный мицелий
 			}
 
 			OrnamentalHookstaff: {
-				DisplayName: Декорантивный крюковидный посох
+				DisplayName: Декоративная клюка
 				Tooltip: ""
 			}
 
@@ -534,9 +537,9 @@
 				DisplayName: Заросшая клешня
 				Tooltip:
 					'''
-					Выпускает грибную клешню, хватающую ваших врагов
-					Маленьких врагов можно двигать и бросать, а также бить их об землюS
-					Большим врагам можно наносить дополнительный урон, натягивая и открывая от них клешню
+					Выпускает грибную клешню, что хватает врагов и притягивает их к вам
+					Врагами небольшого размера можно свободно размахивать, кидаться, а также бить их об землю
+					Врагов большого размера можно разрывать на части
 					'''
 			}
 
@@ -546,12 +549,13 @@
 			}
 
 			SerratedFiberCloak: {
-				DisplayName: Островолокнистый плащ
+				DisplayName: Накидка из островолоконной ткани
 				Tooltip:
 					'''
-					Заменяет ваш крюк тремя мощными мицелиевыми крюками
-					Hold the grapple key down to create a temporary hookpoint, letting you slingshot yourself through the air at high speed
-					Only one hookpoint may exist at a time
+					Заменяет ваш экипированный крюк тремя мощными мицелиевыми крюками
+					Удерживайте клавишу крюка, чтобы установить на месте курсора временный мицелиевый карабин
+					Если коснуться карабина, прицепившись к нему крюками, вас с огромной скоростью запульнёт в соответствующем направлении
+					Можно установить только один мицелиевый карабин
 					'''
 			}
 
@@ -561,56 +565,58 @@
 			}
 
 			SporePod: {
-				DisplayName: Spore Pod
+				DisplayName: Стручок червоточины
 				Tooltip:
 					'''
-					Places down a warp pod you can teleport back to anytime
-					Click the warp pod on the fullscreen map to teleport
-					The warp pod withers when teleported to or when you die
+					Устанавливает стручок червоточины, к которому можно телепортироваться в любой момент, нажав на его иконку на карте
+					Стручок завянет после первой же телепортации к нему или после вашей смерти
+					Перезаряжается 1 минуту 30 секунд
 					'''
 			}
 
 			Sporethrower: {
-				DisplayName: Sporethrower
+				DisplayName: Споромёт
 				Tooltip:
 					'''
-					Generates its own ammunition from a homegrown mushroom
-					Reduced effectiveness when over-exerting the mushroom
-					Ignores 5 points of enemy Defense
+					Использует споры светящегося гриба, растущего под соплом, в качестве боеприпасов
+					Если использовать оружие непрерывно в течение некоторого времени, гриб может выдохнуться
+					Споромёт будет значительно менее эффективен, если стрелять из выдохшегося гриба
+					Игнорирует 5 ед. защиты врага
 					'''
 			}
 
 			SyringeGun: {
-				DisplayName: Syringe Gun
+				DisplayName: Инъекционный пистолет
 				Tooltip:
 					'''
-					Landing all 3 shots infects the target
-					Infected enemies erupt into mana-rich mushrooms on death, spreading the infection to nearby monsters
+					Попадание всеми тремя шприцами по врагу заразит его
+					Трупы заражённых врагов взрываются и выпускают несколько восстанавливающих ману грибов, а также облако спор, заражающее других врагов вокруг
 					'''
 			}
 
 			TechwearSporeMask: {
-				DisplayName: Techwear Spore Mask
-				Tooltip: "'Due to aesthetics being prioritized over functionality, this mask does not actually protect against spores...'"
+				DisplayName: Респиратор от Techwear
+				Tooltip: «Для компании производителя важнее всего было именно то, как выглядит эта маска. Оно и видно — ни от каких спор эта маска не защищает.»
 			}
 
 			PeculiarPot: {
-				DisplayName: Peculiar Pot
+				DisplayName: Странноватый горшочек
 				Tooltip:
 					'''
-					A ceramic pot containing a strange fluid
-					Allows you to turn into tar and retract into the pot, reducing damage taken by {0}
-					You're unable to attack while inside the pot, and the pot will shatter after taking more than {1} damage
+					Керамический горшочек, наполненный необычной жидкостью
+					Позволяет вам превратиться в дёготь и спрятаться в горшочке
+					Пока вы находитесь в горшочке, вы не сможете использовать какое-либо оружие, однако при этом вы будете получать на {0} ед. меньше урона
+					Горшочек разобьётся вдребезги, если вы получите более {1} ед. урона, после чего ему потребуется некоторое время на восстановление
 					'''
 			}
 
 			AmpstringBow: {
-				DisplayName: Ampstring Bow
+				DisplayName: Лук со струной-усилителем
 				Tooltip:
 					'''
-					Right clicking launches conductive needles
-					Needles arc electricity between each other
-					Enemies caught in the electric field are more vulnerable to arrows
+					Нажмите ПКМ, чтобы выстрелить иглой-проводником
+					Между иглами автоматически образуется электрическая дуга
+					Враги, попавшие под действие этой электрической дуги, будут получать больше урона от стрел
 					'''
 			}
 
@@ -687,17 +693,19 @@
 			}
 
 			BundleOfCaltrops: {
-				DisplayName: Bundle of Caltrops
+				DisplayName: Мешок с рогульками
 				Tooltip:
 					'''
-					Charges up caltrops as the flail spins, release to launch
-					Dealing damage with the flail charges caltrops more quickly
+					Удерживайте ЛКМ, чтобы раскручивать мешок вокруг себя словно кистень и накапливать рогульки для броска
+					Отпустите ЛКМ, чтобы бросить все накопившиеся рогульки перед собой
+					Чем дольше вы раскручиваете мешок вокруг себя, тем больше рогулек вы сможете бросить
+					Удары самим мешком во время раскручивания позволяет накапливать рогульки для броска значительно быстрее
 					'''
 			}
 
 			CloudInAMace: {
-				DisplayName: Cloud in a Mace
-				Tooltip: Shatters on tile impact, sending enemies high into the air
+				DisplayName: Облако в кистени
+				Tooltip: Разбивается вдребезги при столкновении с блоками или врагами, выпуская мощное облако, сильно отталкивающее и врагов и вас самих
 			}
 
 			CloudySpikeBall: {

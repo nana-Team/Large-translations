@@ -114,18 +114,18 @@
 		Compat: {
 			BossChecklist: {
 				DesertScourge: {
-					SpawnInfo: Lure out the Desert Scourge using [i:{0}][i:{1}][i:{2}] tasty stormlion grubs.
-					Despawn: The Desert Scourge dissapears below the shifting sands...
+					SpawnInfo: Выманите на поверхность с помощью [i:{0}][i:{1}][i:{2}] одной из личинок штормового льва.
+					Despawn: Пустынный бич снова скрывается в песках пустыни...
 				}
 
 				Crabulon: {
-					SpawnInfo: Can naturally spawn peeking out in the mushroom caves before its defeat. Draw its attention by using a [i:{0}] hookstaff on mushroom grass.
-					Despawn: The mushroom caves become silent again...
+					SpawnInfo: Появляется естественным образом в грибных пещерах, если ещё небыл побеждён. Привлеките его внимание вручную, поковыряв грибную траву с помощью [i:{0}].
+					Despawn: В грибных пещерах своно воцаряется тишины...
 				}
 
 				Nautilus: {
-					SpawnInfo: Meet the lone soldier in a hidden chamber buried beneath the dunes... an ancient [i:{0}] graveyard marks the spot!
-					Despawn: Nautilus wins the duel!
+					SpawnInfo: Встретьте одинокого солдата в потайной комнате, засыпанной под песками [i:{0}] древнего кладбища.
+					Despawn: Наутилус одолел вас в дуэли!
 				}
 			}
 		}

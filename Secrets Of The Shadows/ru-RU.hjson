@@ -1189,8 +1189,8 @@ Mods: {
 			}
 
 			SnakeEyes: {
-				DisplayName: Snake Eyes
-				Tooltip: Увеличивает шанс критического удара на 7%
+				DisplayName: Змеиные глаза
+				Tooltip: Увеличивают шанс критического удара на 7%
 			}
 
 			AquaticEclipse: {
@@ -1207,21 +1207,21 @@ Mods: {
 			}
 
 			BoneClapper: {
-				DisplayName: Bone Clapper
+				DisplayName: Хлопатель костей
 				Tooltip:
 					'''
-					Charge to increase damage up to 450%
-					Takes 2 seconds to reach max charge
+					Заряжайте для увеличения урона вплоть до 450%
+					Для полной зарядки требуется 2 секунды
 					'''
 			}
 
 			CardiacCollapse: {
-				DisplayName: Cardiac Collapse
+				DisplayName: Сердечный приступ
 				Tooltip:
 					'''
-					Charge to increase damage up to 800%
-					Takes 3.5 seconds to reach max charge
-					Killed enemies regenerate health
+					Заряжайте для увеличения урона вплоть до 800%
+					Для полной зарядки требуется 3,5 секунды
+					Убийство врагов восстанавливает здоровье
 					'''
 			}
 
@@ -1238,11 +1238,11 @@ Mods: {
 			}
 
 			CrabClaw: {
-				DisplayName: Crab Claw
+				DisplayName: Клешня краба
 				Tooltip:
 					'''
-					Charge to increase damage up to 800%
-					Takes 4 seconds to reach max charge
+					Заряжайте для увеличения урона вплоть до 800%
+					Для полной зарядки требуется 4 секунды
 					'''
 			}
 
@@ -1275,41 +1275,41 @@ Mods: {
 			}
 
 			DuneSplicer: {
-				DisplayName: Dune Splicer
+				DisplayName: Соединитель дюн
 				Tooltip:
 					'''
-					Launches out a swarm of short-range, homing spikes
-					Charge to increase damage up to 350%
-					Takes 4 seconds to reach max charge
+					Запускает множество самонаводящихся шмпов, пролетающих малое расстояние
+					Заряжайте для увеличения урона вплоть до 350%
+					Для полной зарядки требуется 4 секунды
 					'''
 			}
 
 			Hellbreaker: {
-				DisplayName: Hellbreaker
+				DisplayName: Адский крушитель
 				Tooltip:
 					'''
-					Charge to increase damage up to 600%
-					Takes 4.5 seconds to reach max charge
+					Заряжайте для увеличения урона вплоть до 600%
+					Для полной зарядки требуется 4,5 секунды
 					'''
 			}
 
 			IrradiatedChainReactor: {
-				DisplayName: Irradiated Chain-Reactor
+				DisplayName: Радиоактивный цепной реактор
 				Tooltip:
 					'''
-					Charge to increase damage up to 500%
-					Launches out spores that deal 50% damage
-					Takes 1.66 seconds to reach max charge
+					Заряжайте для увеличения урона вплоть до 500%
+					Выпускает споры, наносящие 50% урона
+					Для полной зарядки требуется 1,66 секунды
 					'''
 			}
 
 			MantisGrip: {
-				DisplayName: Mantis Grip
+				DisplayName: Клешня богомола
 				Tooltip:
 					'''
-					Charge to increase damage up to 500%
-					The initial charge consumes no void
-					Takes 4 seconds to reach max charge
+					Заряжайте для увеличения урона вплоть до 500%
+					Первый уроаень заряда не требует пустоты
+					Для полной зарядки требуется 4 секунды
 					'''
 			}
 
@@ -1317,32 +1317,32 @@ Mods: {
 				DisplayName: Pulverizer
 				Tooltip:
 					'''
-					Charge to increase damage up to 500%
-					The initial charge consumes no void
-					Takes 3 seconds to reach max charge
-					Laser deals 60% of the total damage
+					Заряжайте для увеличения урона вплоть до 500%
+					Первый уроаень заряда не требует пустоты
+					Для полной зарядки требуется 3 секунды
+					Лазеры наносят 60% от всего урона
 					'''
 			}
 
 			SoulEater: {
-				DisplayName: Soul Eater
+				DisplayName: Поедатель душ
 				Tooltip:
 					'''
-					Charge to increase damage up to 1000%
-					Takes 2.5 seconds to reach max charge
-					Killed enemies regenerate mana and void
+					Заряжайте для увеличения урона вплоть до 1000%
+					Для полной зарядки требуется 2,5 секунды
+					Убийство врагов восстанавливают ману и пустоту
 					'''
 			}
 
 			SpiderCrusher: {
-				DisplayName: Fly Catcher
+				DisplayName: Мухобойка
 				Tooltip:
 					'''
-					Charge to increase damage up to 180%
-					Releases spider webs that slow hit enemies
-					Releases more when charged
-					Takes 2.5 seconds to reach max charge
-					'That's really clever actually'
+					Заряжайте для увеличения урона вплоть до 180%
+					Запускает замедляющуу врагов паутину
+					Чем больше заряд, тем больше паутины запускается
+					Для полной зарядки требуется 2,5 секунды
+					«Это в самом деле крайне умно»
 					'''
 			}
 

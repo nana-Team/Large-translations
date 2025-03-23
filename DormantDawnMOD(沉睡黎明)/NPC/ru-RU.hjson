@@ -152,15 +152,15 @@
 			鬼牙身.DisplayName: Призрачный левиафан
 
 			绿岩之视: {
-				DisplayName: Зеленокаменное видение
+				DisplayName: Зеленитовый смотритель
 
 				BossChecklistIntegration: {
 					SpawnInfo: Используйте [i:DDmod/绿岩信号增幅器] в любом месте.
-					EntryName: Зеленокаменное видение
+					EntryName: Зеленитовый смотритель
 				}
 			}
 
-			绿岩炮.DisplayName: Зеленокаменная пушка
+			绿岩炮.DisplayName: Зеленитовая пушка
 
 			海幽浮王: {
 				DisplayName: Глубоководный фантом

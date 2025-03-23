@@ -50,7 +50,7 @@ VerdantChestplate: {
 	Tooltip:
 		'''
 		Увеличивает урон призывателя на 7%
-		Увеличивает максимальное число миньонов на 1
+		Увеличивает максимальное количество миньонов на 1
 		'''
 }
 
@@ -68,7 +68,7 @@ VerdantLeggings: {
 	Tooltip:
 		'''
 		Увеличивает регенерацию здоровья
-		Увеличивает максимальное число миньонов на 1
+		Увеличивает максимальное количество миньонов на 1
 		На траве, по которой вы прошлись, начинают расти цветы
 		'''
 }
@@ -512,11 +512,11 @@ PinkDyeBulb: {
 }
 
 PinkPuff: {
-	DisplayName: Pink Puff
+	DisplayName: Розовый росток
 	Tooltip:
 		'''
-		Creates a Puff microbiome around it
-		'Deceptively light'
+		Создает вокруг себя пухоцветы 
+		«Обманчиво легкий» 
 		'''
 }
 
@@ -568,46 +568,46 @@ WaterPlantItem: {
 }
 
 WisplantSeeds: {
-	DisplayName: Wisplant Seeds
+	DisplayName: Семена цветка мудрости
 	Tooltip: ""
 }
 
 PuffBlockItem: {
-	DisplayName: Block of Puff
-	Tooltip: "'Very soft!'"
+	DisplayName: Блок розового пуха
+	Tooltip: «Очень мягкий!» 
 }
 
 SnailStatueItem: {
-	DisplayName: Snail Statue
+	DisplayName: Статуя улитки
 	Tooltip:
 		'''
-		A statue of a large snail
-		There's a plaque on the bottom
+		Статуя большой улитки
+		К низу прикреплена табличка
 		'''
 }
 
 HarvestedPickipuffItem: {
-	DisplayName: Pickipuff (Harvested)
+	DisplayName: Пухоцвет (Собранный)
 	Tooltip:
 		'''
-		Can only be placed on lush leaves
-		Can be picked to harvest Puff
-		Regrows after a while
+		Можно разместить только на листьях изобилия
+		Можно собрать, чтобы получить розовый пух
+		Через некоторое время отрастает заново
 		'''
 }
 
 MarigoldItem: {
-	DisplayName: Marigold
-	Tooltip: "'Smells...metallic...and faintly of magic.'"
+	DisplayName: Календула
+	Tooltip: «Пахнет ... металлом... и слегка магией» 
 }
 
 PickipuffItem: {
-	DisplayName: Pickipuff
+	DisplayName: Пухоцвет
 	Tooltip:
 		'''
-		Can only be placed on lush leaves
-		Can be picked to harvest Puff
-		Regrows after a while
+		Можно разместить только на листьях изобилия
+		Можно собрать, чтобы получить розовый пух
+		Через некоторое время отрастает заново
 		'''
 }
 
@@ -742,8 +742,8 @@ VerdantYellowPetalChestBlock: {
 }
 
 WisplantCandelabraItem: {
-	DisplayName: Wisplant Candelabra
-	Tooltip: Increases nearby growth rate
+	DisplayName: Фитолампа из цветов мудрости
+	Tooltip: Увеличивает скорость роста близжайших растений
 }
 
 VerdantPylonItem: {
@@ -782,7 +782,7 @@ MysteriaWoodWallItem: {
 }
 
 PuffWallItem: {
-	DisplayName: Puff Wall
+	DisplayName: Стена из розового пуха
 	Tooltip: ""
 }
 
@@ -807,11 +807,11 @@ VerdantVineWallItem: {
 }
 
 WisplantInfusedMudBoulder: {
-	DisplayName: Wisplant-Infused Lush Soil Ball
+	DisplayName: Почва изобилия с цветком мудрости
 	Tooltip:
 		'''
-		'You just stuck two things together, it's not magic' - Everybody
-		'Magic isn't always a spectacle' - Wizards
+		«Ты просто склеил две штуки, это не магия»  - Все
+		«Магия не всегда должна быть зрелищем»  - Волшебники
 		'''
 }
 
@@ -871,7 +871,7 @@ MysteriaFlotinyItem: {
 }
 
 PuffSlimeSmallItem: {
-	DisplayName: Puff Slime
+	DisplayName: Розовый пушистый слизячок
 	Tooltip: ""
 }
 
@@ -881,13 +881,13 @@ RedGrassSnail: {
 }
 
 ExpertPlantGuide: {
-	DisplayName: Expert Guide to Plant Fiber Cordage
+	DisplayName: Продвинутое рукововодство по волокнистым веревкам 
 	Tooltip:
 		'''
-		Allows mastery of a very niche element
-		Vines can be harvested from the Verdant
-		Vines harvested from the Verdant place significantly faster
-		Vines climb upwards when there's no space below
+		Позволяет освоить не самые полезные навыки
+		Позволяет собирать лозу в цветении
+		Лоза, собранная в цветении, устанавливается значительно быстрее
+		Лозы ставятся сверху, если нет места снизу
 		'''
 }
 
@@ -902,22 +902,22 @@ FlotieOfWrathItem: {
 }
 
 HealingFlowerItem: {
-	DisplayName: Yellow Sprout
+	DisplayName: Желтый Росток
 	Tooltip:
 		'''
-		Increases healing from potions by 20%
-		Increases mana healing from potions by 30%
-		Provides a tiny bit of light
-		'You are followed by the strength of willpower'
+		Увеличивает эффект от зелий лечения на 20%
+		Увеличивает эффект от зелий маны на 30%
+		Даёт слабое освещение
+		«Вы переполнены решимостью» 
 		'''
 }
 
 Lightbloom: {
-	DisplayName: Lightbloom
+	DisplayName: Светоцвет
 	Tooltip:
 		'''
-		Increases life regeneration when in light
-		The stronger the light, the larger the increase
+		Увеличивает регенерацию здоровья при нахождении на свету
+		Чем сильнее свет, тем больше увеличение
 		'''
 }
 
@@ -1077,11 +1077,11 @@ PinkPetal: {
 }
 
 PuffMaterial: {
-	DisplayName: Puff
+	DisplayName: Розовый пух
 	Tooltip:
 		'''
-		Light and soft to the touch
-		Tastes bad
+		Лёгкий и мягенький пушок
+		На вкус противен...
 		'''
 }
 
@@ -1091,8 +1091,8 @@ RedPetal: {
 }
 
 WisplantItem: {
-	DisplayName: Wisplant
-	Tooltip: "'Soft like clouds'"
+	DisplayName: Цветок мудрости
+	Tooltip: «Мягкий как облачко» 
 }
 
 YellowBulb: {
@@ -1126,11 +1126,11 @@ HeartOfGrowth: {
 }
 
 MagicWisplant: {
-	DisplayName: Magic-Infused Wisplant
+	DisplayName: Наполненный магией цветок мудрости
 	Tooltip:
 		'''
-		'A powerful aura of druidic energy surrounds it'
-		Speeds up all natural growth in an area by a dramatic amount
+		«Его окутывает мощная аура энергии друидов» 
+		Сильно ускоряет рост всего живого в радиусе действия
 		'''
 }
 
@@ -1170,13 +1170,13 @@ BouncebloomItem: {
 }
 
 CloudsproutPuff: {
-	DisplayName: Cloudsprout
+	DisplayName: Пухоблако
 	Tooltip:
 		'''
-		Floating bounce pad
-		Remains even upon world exit
-		Left click on an existing cloud to remove it
-		Right click for two seconds to remove all cloudsprouts
+		Парящая платформа-батут
+		Остаётся на месте даже после выхода из мира
+		Нажатие левой кнопки мыши по существующему облаку удалит его
+		Ужерживание правой кнопки мыши две секунды удалит все облака
 		'''
 }
 
@@ -1321,11 +1321,11 @@ AquamarineStaff: {
 }
 
 LushDagger: {
-	DisplayName: Lush Splinter
+	DisplayName: Шипы изобилия
 	Tooltip:
 		'''
-		Thrown in triplets
-		'Nature's nuisance of choice'
+		Выпускаются по три за раз
+		«Это всего лишь часть естественного порядка вещей...» 
 		'''
 }
 
@@ -1350,8 +1350,8 @@ MudBoulderItem: {
 }
 
 SpikedPuffball: {
-	DisplayName: Spiked Puffball
-	Tooltip: Floats in the air for half a minute, then drops
+	DisplayName: Шипастый комок пуха
+	Tooltip: Парит в воздухе 30 секунд, а затем падает
 }
 
 VerdantStaff: {

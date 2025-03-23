@@ -913,7 +913,7 @@ HealingFlowerItem: {
 }
 
 Lightbloom: {
-	DisplayName: Светоцвет
+	DisplayName: Лучесвет
 	Tooltip:
 		'''
 		Увеличивает регенерацию здоровья при нахождении на свету

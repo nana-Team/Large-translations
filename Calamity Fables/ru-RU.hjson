@@ -661,9 +661,10 @@
 				Tooltip:
 					'''
 					{$CommonItemTooltip.Whips}
-					Hold left click to hook the whip into enemies
-					Hooked enemies build up static electricity, minion damage expedites this
-					Release left click to detonate static electricity
+					Удерживайте ЛКМ, чтобы зацепиться за врага
+					На врагах, за которых вы зацепились, будет накапливаться статичное электричество
+					Атаки миньонов ускоряют накопление электричества
+					Отпустите ЛКМ, чтобы вызвать взрыв статичного электричества
 					'''
 			}
 
@@ -684,11 +685,11 @@
 			}
 
 			BrambleStaff: {
-				DisplayName: Bramble Staff
+				DisplayName: Посох колючего куста
 				Tooltip:
 					'''
-					Summons a pair of orbital tumbleweeds
-					Hitting a tumbleweed with a whip sends it flying forwards
+					Призывает два перекати-поля вращаться вокруг вас
+					Атакуйте перекати-поля хлыстом, чтобы откинуть их вперёд
 					'''
 			}
 
@@ -768,33 +769,33 @@
 			}
 
 			PlasmaRod: {
-				DisplayName: Plasma Rod
+				DisplayName: Плазменный жезл
 				Tooltip:
 					'''
-					A powerful staff that waxes and wanes with the user's mana
-					Fires huge, searing bolts when you are full on mana, with at least {0} max mana
-					Fires darts of plasma when you don't have full mana
-					The plasma darts home in and deal extra damage to enemies marked by the large bolt
+					Мощный посох, сила которого зависит от оставшегося количества вашей маны
+					При полном запасе маны (от {0} ед.) выпускает огромный снаряд-молнию
+					При неполном запасе маны выпускает небольшие плазменные снаряды
+					Плазменные снаряды самонаводятся и наносят дополнительный урон врагам, отмеченным снарядом-молнией
 					'''
 			}
 
 			PontiffsPiper: {
-				DisplayName: Pontiff's Piper
+				DisplayName: Дудочник понтифика
 				Tooltip:
 					'''
-					Summons a bagpipe squid ontop of your head
-					The bagpipe squid can empower other minions, and will gain power as your health lowers
-					Increases your max number of minions by 1
-					[c/a97171:'...An engraving is found on the bottom of the plate, which reads “To Giovanni Battista Pamphili: My utmost apologies“']
+					Призывает кальмара-дудочника на вашей голове
+					Кальмар-дудочник может усиливать ваших миньонов и будет становиться сильнее по мере снижения вашего здоровтя
+					Увеличивает максимальное количество миньонов на 1
+					[c/a97171:«...На нижней стороне тарелки есть гравировка: “Джованни Баттиста Памфили: мои глубочайшие извинения“»]
 					'''
 			}
 
 			SpikedBall: {
-				DisplayName: Spiked Ball
+				DisplayName: Шипастый шар
 				Tooltip:
 					'''
-					Hold SHIFT to throw the ball with a ballistic trajectory
-					'God gives its toughest zombies to its spikiest balls'
+					Удерживайте SHIFT, чтобы бросить шар по изогнутой траектории
+					«Бог даёт самых крепких зомби своим самым стальным шарам»
 					'''
 			}
 
@@ -809,52 +810,52 @@
 			}
 
 			WoodenDart: {
-				DisplayName: Wooden Dart
+				DisplayName: Деревянный дрочик
 				Tooltip: ""
 			}
 
 			MarniteArchitectHeadgear: {
-				DisplayName: Marnite Architect Headgear
-				Tooltip: Increases block placement range by 5
+				DisplayName: Мранитовый головной убор архитектора
+				Tooltip: Увеличивает дальность размещения блоков на 5
 			}
 
 			MarniteArchitectToga: {
-				DisplayName: Marnite Architect Toga
-				Tooltip: Increases tile placement speed by 50%
+				DisplayName: Мранитовая мантия архитектора
+				Tooltip: Увеличивает скорость размещения блоков на 50%
 			}
 
 			MarniteDeconstructor: {
-				DisplayName: Marnite Deconstructor
+				DisplayName: Мранитовый расщепитель
 				Tooltip:
 					'''
-					Its engine generates hardlight rays capable of excavating walls from a long distance
-					Ignores 10 points of enemy Defense
+					Его механизм генерирует лучи яркого света, способные разрушать стены с большого расстояния
+					Игнорирует 10 ед. защиты врага
 					'''
 			}
 
 			MarniteRepulsionShield: {
-				DisplayName: Marnite Repulsion Shield
+				DisplayName: Мранитовый репульсионный щит
 				Tooltip:
 					'''
-					Enemies behind you are struck by high-knockback hardlight quills
-					[c/FFF191:Backstabbers Beware!]
+					Враги, находящиеся за вами, поражаются твёрдосветовыми иглами, обладающие сильным отбрасыванием
+					[c/FFF191:Скажем нет ударам в спину!]
 					'''
 			}
 
 			MarniteObliterator: {
-				DisplayName: Marnite Obliterator
+				DisplayName: Мранитовый уничтожитель
 				Tooltip:
 					'''
-					Uses a diamond focus to project a long-range digging beam of light
-					Ignores 5 points of enemy Defense
+					Использует алмазную фокусировку для проецирования длинноволнового добывающего луча света
+					Игнорирует 5 ед. защиты врага
 					'''
 			}
 
 			CoralCage: {
-				DisplayName: Coral Cage
+				DisplayName: Коралловая клетка
 				Tooltip:
 					'''
-					Summons a little dragonfish
+					Вызывает маленькую драконью рыбу
 					'A Coral Corral, if you will'
 					'''
 			}

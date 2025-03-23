@@ -280,35 +280,35 @@ RockBook: {
 }
 
 ChlorophytePlant: {
-	DisplayName: Chloroflower Sprout
+	DisplayName: Черенок хлороцвета
 	Tooltip:
 		'''
-		Grows renewable chlorophyte
-		'A jagged rock somehow brimming with life'
+		Выращивает возобновляемый хлорофит
+		«Острый камень, наполненный жизнью» 
 		'''
 }
 
 FloatingCrystalItem: {
-	DisplayName: Floating Crystal
+	DisplayName: Парящий кристалл
 	Tooltip:
 		'''
-		Can be placed mid-air
-		Can be grappled to
+		Можно поставить в воздухе
+		Можно зацепиться крюком
 		'''
 }
 
 GreenCrystalItem: {
-	DisplayName: Green Crystal
-	Tooltip: "'Not as sharp as it looks'"
+	DisplayName: Зелёный кристалл
+	Tooltip: «Не такой уж и острый, как может показатся» 
 }
 
 HangingCrystalItem: {
-	DisplayName: Hanging Crystal
+	DisplayName: Висячий Кристалл
 	Tooltip:
 		'''
-		Spawns healing plants when placed
-		Can be turned on/off with wiring
-		'Glows with a gentle power'
+		Создаёт лечебные растения при размещении
+		Можно включать/выключать с помощью проводов
+		«Светится мягкой силой» 
 		'''
 }
 
@@ -1502,20 +1502,20 @@ LushGrassSeeds: {
 }
 
 BlueDyeBulb: {
-	DisplayName: Skyblue Itoh Peony
+	DisplayName: Небесно-голубой ито-пион
 	Tooltip:
 		'''
-		'A wonderfully vibrant colour!'
+		«Невероятно энергичный цвет!» 
 		Used to make Blue Dye
 		'''
 }
 
 WhiteDyeBulb: {
-	DisplayName: Moth Orchid
+	DisplayName: Фаленопсис
 	Tooltip:
 		'''
-		'A wonderfully joyful colour!'
-		Used to make Silver Dye
+		«Невероятно радостный цвет!» 
+		Используется в приготовлении серебристого красителя
 		'''
 }
 
@@ -1623,14 +1623,14 @@ PassionflowerBlock: {
 }
 
 ChlorovineWand: {
-	DisplayName: Chlorovine
+	DisplayName: Хлоролоза
 	Tooltip:
 		'''
-		Allows the user to build a Chlorovine
-		The vine works like a rope and can be used in any open space
-		These vines use [i:{0}] to build, and drop them on being destroyed
-		A magical energy lets you climb significantly faster
-		Right click Chlorovines while holding this to remove them
+		Позволяет игроку создавать хлоролозы
+		Эта лоза работает как веревка и может быть поставлена в любом открытом пространстве
+		Для постройки этих лоз используется [i:{0}], они также выпадают при разрушении
+		Магическая природа хлоролоз позволяет карабкаться значительно быстрее
+		Правый клик по лозам, держа это в руках, чтобы удалить их
 		'''
 }
 
@@ -1670,10 +1670,10 @@ LunarJellyTerrariumItem: {
 }
 
 GlassFlowerItem: {
-	DisplayName: Glassflower
+	DisplayName: Стеклянный цветок
 	Tooltip:
 		'''
-		Disables the Verdant biome in the nearby area, allowing for use of other biomes
-		'How frail...'
+		Отключает биом цветения поблизости, открывая доступ к другим биомам
+		«Такой хрупкий...» 
 		'''
 }

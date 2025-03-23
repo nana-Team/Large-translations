@@ -800,12 +800,12 @@
 			}
 
 			ToxicBlowpipe: {
-				DisplayName: Toxic Blowpipe
+				DisplayName: Ядовитая духовая трубка
 				Tooltip:
 					'''
-					Left-click to coat your Darts with defense-reducing acid
-					Right-click to coat your Darts with life-draining neurotoxin
-					The chemicals are particularly volatile when combined...
+					Используйте ЛКМ, чтобы стрелять дротиками покрытыми кислотой, снижающей защиту врагов
+					Используйте ПКМ, чтобы стрелять дротиками покрытыми нейротоксином, истощающем здоровье врагов
+					Смешивать эти вещиства может быть взрывоопасно...
 					'''
 			}
 
@@ -856,70 +856,70 @@
 				Tooltip:
 					'''
 					Вызывает маленькую драконью рыбу
-					'A Coral Corral, if you will'
+					«Или коралловая кораль, если угодно»
 					'''
 			}
 
 			DriedFishTail: {
-				DisplayName: Dried Fish Tail
+				DisplayName: Хвост засхоше рыбы
 				Tooltip: ""
 			}
 
 			DuatsFavor: {
-				DisplayName: Duat's Favor
+				DisplayName: Снихождение Дуата
 				Tooltip:
 					'''
-					Unlocks an ability toggle to the left of the inventory
-					The toggle lets you choose the appearance of gravestones dropped on death
-					You can also disable graves with the toggle
-					Biome graves don't count towards the formation of a graveyard
+					Разблокирует переключатель слева от инвентаря
+					Переключатель позволяет изменить внешний вид надгробий, выпадающих при смерти
+					В переключателе также можно отключить выпадение надгробий
+					Биомные надгробья также не считаются за нагробья для кладбища
 					'''
 			}
 
 			FossilizedLarynx: {
-				DisplayName: Fossilized Larynx
+				DisplayName: Окаменевшая гортань
 				Tooltip:
 					'''
-					Changes your voice
-					'Great for impersonating dried out fossil friends!'
+					Изменяет ваш голос
+					«Отлично подходит для подражания голосу древних и высохших друзей!»
 					'''
 			}
 
 			GhostlySeasaddle: {
-				DisplayName: Ghostly Seasaddle
-				Tooltip: Summons a rideable Velocicampus mount
+				DisplayName: Призрачное морское седло
+				Tooltip: Призывает ездового велоцикампуса
 			}
 
 			PossessedTrident: {
-				DisplayName: Possessed Trident
-				Tooltip: Conjures a ghostly companion with every thrust
+				DisplayName: Одержимый трезубец
+				Tooltip: Призывает призрачного союзника при каждом использовании
 			}
 
 			SeaRiderGreaves: {
-				DisplayName: Sailfish Greaves
+				DisplayName: Поножи рыбы-парусника
 				Tooltip:
 					'''
-					Movement speed increased by 5%
-					Grants the ability to swim
-					'The boots have webbed feet...'
+					Увеличивает скорость передвижения на 5%
+					Позволяет плавать
+					«Ботинки с перепончатыми ногами...»
 					'''
 			}
 
 			SeaRiderHelmet: {
-				DisplayName: Sailfish Helmet
+				DisplayName: Шлем рыбы-парусника
 				Tooltip:
 					'''
-					8% increased melee critical strike chance
-					'A slightly dusty helmet, commonly issued for the Sea Kingdom guards'
+					Увеличивает шанс критического удара в ближнем бою на 8%
+					«Немного пыльный шлем, которых обычно выдаётся стражам Морского королевства»
 					'''
 			}
 
 			SeaRiderTunic: {
-				DisplayName: Sailfish Tunic
+				DisplayName: Туника рыбы-парусника
 				Tooltip:
 					'''
-					6% increased melee damage
-					'Tunic adorned with the coat of arms of a long-disbanded regiment of seahorse riders'
+					Увеличивает урон в ближнем бою на 6%
+					«Туника, украшенная гербом давно расформированного полка всадников морских коней»
 					'''
 			}
 

@@ -140,16 +140,16 @@
 			史莱菇.DisplayName: Светящиеся грибные монстры
 
 			鬼牙头: {
-				DisplayName: Призрачный левиафан
+				DisplayName: Призрачный охотник
 
 				BossChecklistIntegration: {
 					SpawnInfo: Бросьте [I:DDmod/诡异肉块] ночью.
-					EntryName: Призрачный левиафан
+					EntryName: Призрачный охотник
 				}
 			}
 
-			鬼牙尾.DisplayName: Призрачный левиафан
-			鬼牙身.DisplayName: Призрачный левиафан
+			鬼牙尾.DisplayName: Призрачный охотник
+			鬼牙身.DisplayName: Призрачный охотник
 
 			绿岩之视: {
 				DisplayName: Зеленитовый смотритель

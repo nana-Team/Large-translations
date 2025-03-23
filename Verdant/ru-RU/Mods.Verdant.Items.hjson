@@ -568,7 +568,7 @@ WaterPlantItem: {
 }
 
 WisplantSeeds: {
-	DisplayName: Семена цветка мудрости
+	DisplayName: Семена цветка духа
 	Tooltip: ""
 }
 
@@ -742,7 +742,7 @@ VerdantYellowPetalChestBlock: {
 }
 
 WisplantCandelabraItem: {
-	DisplayName: Фитолампа из цветов мудрости
+	DisplayName: Фитолампа из цветов духа
 	Tooltip: Увеличивает скорость роста близжайших растений
 }
 
@@ -807,7 +807,7 @@ VerdantVineWallItem: {
 }
 
 WisplantInfusedMudBoulder: {
-	DisplayName: Почва изобилия с цветком мудрости
+	DisplayName: Почва изобилия с цветком духа
 	Tooltip:
 		'''
 		«Ты просто склеил две штуки, это не магия»  - Все
@@ -1091,7 +1091,7 @@ RedPetal: {
 }
 
 WisplantItem: {
-	DisplayName: Цветок мудрости
+	DisplayName: Цветок духа
 	Tooltip: «Мягкий как облачко» 
 }
 
@@ -1126,7 +1126,7 @@ HeartOfGrowth: {
 }
 
 MagicWisplant: {
-	DisplayName: Наполненный магией цветок мудрости
+	DisplayName: Наполненный магией цветок духа
 	Tooltip:
 		'''
 		«Его окутывает мощная аура энергии друидов» 
@@ -1135,22 +1135,22 @@ MagicWisplant: {
 }
 
 Microcosm: {
-	DisplayName: Microcosm
+	DisplayName: Микрокосм
 	Tooltip:
 		'''
-		Creates a miniscule Verdant biome anywhere
-		Caution! This overrides a LARGE area (minimum 60x60 tiles on a small world)
-		Make sure you use this in a place you don't care about!
-		'A realm in glass, shines brightly'
+		Создаёт крошечный биом цветения в любом месте мира
+		Внимание! Это изменит ОГРОМНУЮ область (минимум 60x60 блоков в маленьком мире)
+		Убедитесь, что используете это в месте, которое вам не жалко!
+		«Сияющее царство внутри стекла» 
 		'''
 }
 
 PassionflowerBulb: {
-	DisplayName: Passionflower Bulb
+	DisplayName: Луковица пассифлоры
 	Tooltip:
 		'''
-		Right click to open
-		'Smells of citrus and sweetness'
+		Правый клик, чтобы открыть
+		«Пахнет душистым цитрусом» 
 		'''
 }
 
@@ -1282,13 +1282,13 @@ VerdantFishingRod: {
 }
 
 YellowPetalFloater: {
-	DisplayName: Cloudsprout
+	DisplayName: Пухоблако
 	Tooltip:
 		'''
-		Floating bounce pad
-		Remains even upon world exit
-		Left click on an existing cloud to remove it
-		Right click for two seconds to remove all cloudsprouts
+		Парящая платформа-батут
+		Остаётся на месте даже после выхода из мира
+		Нажатие левой кнопки мыши по существующему облаку удалит его
+		Ужерживание правой кнопки мыши две секунды удалит все облака
 		'''
 }
 
@@ -1614,11 +1614,11 @@ PlainMicrocosm: {
 }
 
 PassionflowerBlock: {
-	DisplayName: Passionflower Sprout
+	DisplayName: Черенок пассифлоры
 	Tooltip:
 		'''
-		Regrows slowly
-		'A subtle yet comforting scent comes off of the remaining petals'
+		Медленно отрастает
+		«Оставшиеся лепестки источают тонкий, но успокаивающий аромат» 
 		'''
 }
 
@@ -1635,13 +1635,13 @@ ChlorovineWand: {
 }
 
 ShellSnailCage: {
-	DisplayName: Shell Snail Cage
-	Tooltip: Flighty, but hardy.
+	DisplayName: Клетка с панцирной улиткой
+	Tooltip: Глупая, но стойкая
 }
 
 ShellSnailItem: {
-	DisplayName: Shell Snail
-	Tooltip: Rock-solid cuteness.
+	DisplayName: Панцирная улитка
+	Tooltip: Милая как камень
 }
 
 CanopySnailItem: {

@@ -8,7 +8,7 @@
            new(480f, SirNautilus.RegularSpeech, new TextSnippet(". . .", Color.White, 0.2f, 1.8f, null, TextSnippet.AppearFadingFromTop)), portraits["bored"]);
 
         public static readonly TextboxInfo Intro_SecondTextbox = new(
-            new(480f, SirNautilus.RegularSpeech, new TextSnippet("Mm?"),
+            new(480f, SirNautilus.RegularSpeech, new TextSnippet("Хм?"),
                 new TextSnippet(" ", characterDelay: 0.6f),
                 new TextSnippet("О-о! Какая встреча! ", size: 1.1f, displacement: SmallEmpathisWave),
                 new TextSnippet("Не ожидал встретить "),
@@ -18,7 +18,7 @@
 
         public static readonly TextboxInfo Intro_ThirdTextbox = new(
             new(480f, SirNautilus.RegularSpeech, new TextSnippet("Скажи, не встречал ли ты "),
-                new TextSnippet("братьев по оружию", SeaKingdomForcesColor),
+                new TextSnippet("товарищей по оружию", SeaKingdomForcesColor),
                 new TextSnippet(" вроде меня? Я отбился от своего отряда... и с тех пор прошло немало.")
                 ), portraits["curious"]);
         public static readonly TextboxInfo Intro_FourthTextbox = new(
@@ -65,7 +65,7 @@
             //------------------------------------------------------------------
             new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Как страж "),
                 new TextSnippet("Морского королевства", SeaKingdomForcesColor),
-                new TextSnippet(", моя голова - желанный трофей..."),
+                new TextSnippet(", моя голова — желанный трофей..."),
                 new TextSnippet("...!", Color.White, characterDelay: 0.2f),
                 new TextSnippet(" Хотя заполучить её будет подвигом немалым!")
                 ), portraits["laughing"])
@@ -74,7 +74,7 @@
         //Dialogue he uses after hes been defeated once
         public static readonly TextboxInfo[] Main_PostDefeatTextboxes = new TextboxInfo[]
         {
-            new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Я давно перестал считать дни. Раз судьба заперла меня здесь - я посвятил себя тренировкам!", Color.White)), portraits["neutral"]),
+            new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Я давно перестал считать дни. Раз судьба заперла меня здесь — я посвятил себя тренировкам!", Color.White)), portraits["neutral"]),
             //------------------------------------------------------------------
             new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("ВАУ!", Color.White, 0.04f, 1.1f, displacement: TextSnippet.SmallRandomDisplacement),
                new TextSnippet(" Наш поединок разбросал мои кости по всей пещере... К счастью, они всегда возвращаются!", Color.White)
@@ -82,7 +82,7 @@
             //------------------------------------------------------------------
             new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Прости, если повторяюсь... Призраки - создания привычки.", Color.White)), portraits["suspicious"]),
             //------------------------------------------------------------------
-            new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Повидав твоё мастерство, уверен - тебя ждёт великая слава! "),
+            new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Повидав твоё мастерство, уверен — тебя ждёт великая слава! "),
                 new TextSnippet("Если спросят, говори, что учился у меня!", Color.White, 0.03f, 1.1f, displacement:SmallEmpathisWave))
                 , portraits["starstruckhands"], QuadrilateralBoxWithPortraitUI.ShakyPortrait),
             //------------------------------------------------------------------
@@ -96,7 +96,7 @@
             new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Сигнатий?", new Color(40, 220, 220), 0.03f, 1.1f),
                 new TextSnippet(" Мой верный скакун. ", Color.White),
                 new TextSnippet("Он", Color.White, 0.025f, 0.9f, displacement: TextSnippet.SmallRandomDisplacement),
-                new TextSnippet("…", Color.White, 0.4f, 0.9f, displacement: TextSnippet.SmallRandomDisplacement),
+                new TextSnippet("...", Color.White, 0.4f, 0.9f, displacement: TextSnippet.SmallRandomDisplacement),
                 new TextSnippet(" проявил куда больше верности, чем я. Рад, что он со мной.")
                 ), portraits["curious"]),
 
@@ -123,10 +123,10 @@
         //Dialogue he uses after winning a duel
         public static readonly TextboxInfo[] Main_PlayerBeatenTextboxes = new TextboxInfo[]
         {
-            new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Снаряжение подкачало... Найди достойный клинок - и повторим.")
+            new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Снаряжение подкачало... Найди достойный клинок — и повторим.")
                 ), portraits["neutral"]),
             //------------------------------------------------------------------
-            new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Ах, не кори себя за поражение. Поражение - ступень к росту.")), portraits["neutral"]),
+            new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Ах, не кори себя за поражение. Поражение — ступень к росту.")), portraits["neutral"]),
             //------------------------------------------------------------------
             new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Не печалься, не каждая битва оканчивается победой. А проиграть "),
                 new TextSnippet("Сигнатию", new Color(40, 220, 220), 0.04f, 1.1f),
@@ -170,13 +170,13 @@
                 ), portraits["surprisedhands"], QuadrilateralBoxWithPortraitUI.ShakyPortrait)
         };
 
-        public static readonly TextboxInfo Main_RareNautilusNohitTextbox = new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Terraria - Наутилус без урона", Color.White, 0.05f, 2.5f, apparition: TextSnippet.AppearFadingFromTop))
+        public static readonly TextboxInfo Main_RareNautilusNohitTextbox = new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Terraria — Наутилус без урона", Color.White, 0.05f, 2.5f, apparition: TextSnippet.AppearFadingFromTop))
                 , portraits["starstruckhands"], QuadrilateralBoxWithPortraitUI.ShakyPortrait);
 
         //Dialogue he uses right after beating him in less than 20 seconds
         public static readonly TextboxInfo[] Main_NautilusOutmatchedTextboxes = new TextboxInfo[]
         {
-            new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Твоё оружие слишком мощнон! Как вообще тренироваться в таких условиях?!", Color.White, displacement: TextSnippet.SmallRandomDisplacement)), portraits["unamused"]),
+            new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Твоё оружие слишком мощно! Как вообще тренироваться в таких условиях?!", Color.White, displacement: TextSnippet.SmallRandomDisplacement)), portraits["unamused"]),
             //------------------------------------------------------------------
             new(new(480f, SirNautilus.RegularSpeech, new TextSnippet("Пф!", Color.White, 0.05f, 1.1f, displacement: TextSnippet.RandomDisplacement),
                 new TextSnippet(" Надеюсь, не гордишься победой, что далась слишком легко. ", Color.White),
@@ -192,13 +192,13 @@
                 new TextSnippet(" Это ты усмирил "),
                 new TextSnippet("подземный гул", Color.White, 0.025f, 1f, displacement: TextSnippet.SmallRandomDisplacement),
                 new TextSnippet("? "),
-                new TextSnippet("Мои кости - не лучший обед, но обвал пещеры был бы проблемой... Спасибо!")
+                new TextSnippet("Мои кости — не лучший обед, но обвал пещеры был бы проблемой... Спасибо!")
                 ), portraits["neutral"], QuadrilateralBoxWithPortraitUI.ShakyPortrait);
 
         //One-time dialogue that appears after entering Hardmode
         public static readonly TextboxInfo Progression_HardmodeReached = new(
             new(480f, SirNautilus.RegularSpeech,
-                new TextSnippet("Связь с загробным миром слаба, но даже так чувствую - духов будто с цепи слетели."),
+                new TextSnippet("Связь с загробным миром слаба, но даже так чувствую — духов будто с цепи слетели."),
                 new TextSnippet(" Думается мне, тут замешан ты.", Color.White, 0.025f, 0.8f)
                 ), portraits["curious"]);
 
@@ -221,7 +221,7 @@
         #region Pre defeat
         public static readonly TextboxInfo Lore_FirstWhoAreYou = new(
             new(480f, SirNautilus.RegularSpeech, new TextSnippet("Я - ", Color.White, 0.025f, 1.1f, displacement: TextSnippet.SmallWaveDisplacement),
-                new TextSnippet("Сэр Наутилус", SeaKingdomForcesColor, 0.025f, 1.2f, displacement: TextSnippet.SmallWaveDisplacement),
+                new TextSnippet("Господин Наутилус", SeaKingdomForcesColor, 0.025f, 1.2f, displacement: TextSnippet.SmallWaveDisplacement),
                 new TextSnippet(", ", Color.White, 0.025f, 1.1f, displacement: TextSnippet.SmallWaveDisplacement),
                 new TextSnippet("Рыцарь Морей", SeaKingdomForcesColor, 0.03f, 1.2f, displacement: TextSnippet.SmallWaveDisplacement),
                 new TextSnippet(" служивший при дворе ", Color.White, 0.025f, 1.1f, displacement: TextSnippet.SmallWaveDisplacement),
@@ -249,7 +249,7 @@
         //------------------------------------------------------------------
         public static readonly TextboxInfo Lore_WhyHere = new(
             new(480f, SirNautilus.RegularSpeech, new TextSnippet("Я", Color.White),
-                new TextSnippet("—", Color.White, characterDelay: 0.5f),
+                new TextSnippet("-", Color.White, characterDelay: 0.5f),
                 new TextSnippet("э-э... уединение помогает сосредоточиться. Тренирую не только тело, но и дух! "),
                 new TextSnippet("Чтобы... ", Color.White, characterDelay: 0.1f),
                 new TextSnippet("взглянуть внутрь себя и узреть свои"),
@@ -290,7 +290,7 @@
             new(480f, SirNautilus.RegularSpeech, new TextSnippet("А эти ", Color.White, characterDelay: 0.05f),
                 new TextSnippet("захватчики", UndeadForcesColor, 0.1f, 1.1f),
                 new TextSnippet("!.. ", Color.White, characterDelay: 0.05f),
-                new TextSnippet("Они были не живыми! Это были НАШИ павшие -", Color.White),
+                new TextSnippet("Они были не живыми! Это были НАШИ павшие —", Color.White),
                 new TextSnippet(" не только воины, но все!", Color.White),
                 new TextSnippet(" Семьи, друзья, дети... мои...", Color.White, characterDelay: 0.05f, displacement: TextSnippet.SmallRandomDisplacement)
                 ), portraits["enraged"]);
@@ -344,7 +344,7 @@
         public static readonly TextboxInfo Lore_SecondWhatNowPostDefeat = new(
             new(480f, SirNautilus.RegularSpeech, new TextSnippet("Шум прибоя сменился шепотом песка и ничто не в силах вернуть его"),
                 new TextSnippet("...", Color.White, characterDelay: 0.4f),
-                new TextSnippet(" Время ушло, а я - его пережиток.", Color.White, characterDelay: 0.025f, displacement: TextSnippet.SmallRandomDisplacement)
+                new TextSnippet(" Время ушло, а я — его пережиток.", Color.White, characterDelay: 0.025f, displacement: TextSnippet.SmallRandomDisplacement)
                 ), portraits["suspicious"]);
 
         public static readonly TextboxInfo Lore_ThirdWhatNowPostDefeat = new(
@@ -357,7 +357,7 @@
 
         public static readonly TextboxInfo Lore_FifthWhatNowPostDefeat = new(
             new(480f, SirNautilus.RegularSpeech, new TextSnippet("Ты", new Color(175, 220, 20), 0.06f, 1.5f, displacement: TextSnippet.RandomDisplacement),
-                new TextSnippet("! Иди вперёд - за меня!", Color.White, 0.06f, 1.5f, displacement: TextSnippet.RandomDisplacement)
+                new TextSnippet("! Иди вперёд — за меня!", Color.White, 0.06f, 1.5f, displacement: TextSnippet.RandomDisplacement)
                 ), portraits["starstruckhands"], QuadrilateralBoxWithPortraitUI.ShakyPortrait);
 
         public static readonly TextboxInfo Lore_SixthWhatNowPostDefeat = new(
@@ -365,7 +365,7 @@
                 ), portraits["laughing"], QuadrilateralBoxWithPortraitUI.ShakyPortrait);
 
         public static readonly TextboxInfo Lore_SeventhWhatNowPostDefeat = new(
-            new(480f, SirNautilus.RegularSpeech, new TextSnippet("Смотри на мир широко, а мои печали - забудь, как забыл их я!")
+            new(480f, SirNautilus.RegularSpeech, new TextSnippet("Смотри на мир широко, а мои печали — забудь, как забыл их я!")
                 ), portraits["laughing"], GiveKeepsakeToPlayer, false);
 
         public static readonly TextboxInfo Lore_EighthWhatNowPostDefeat = new(
@@ -376,7 +376,7 @@
 
         //------------------------------------------------------------------
         public static readonly TextboxInfo Lore_FirstWhatsUp = new(
-            new(480f, SirNautilus.RegularSpeech, new TextSnippet("Если не считать твоих визитов - здесь всё так же скучно.")
+            new(480f, SirNautilus.RegularSpeech, new TextSnippet("Если не считать твоих визитов — здесь всё так же скучно.")
                 ), portraits["neutral"]);
 
         public static readonly TextboxInfo Lore_SecondWhatsUp = new(

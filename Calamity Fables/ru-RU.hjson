@@ -924,60 +924,60 @@
 			}
 
 			WarriorsAmphora: {
-				DisplayName: Warrior's Amphora
+				DisplayName: Амфора воина
 				Tooltip:
 					'''
-					Grants the ability to teleport to the location of your death
-					Click your death marker on the fullscreen map to teleport
-					Teleporting consumes one recall potion, and the cooldown scales with how far you died
+					Позволяет телепортироваться на место вашей смерти
+					Нажмите на метку смерти на полноэкранной карте, чтобы телепортироваться к ней
+					Телепортация использует одно зелье возврата, а перезарядка зависит от того, насколько далеко вы умерли
 					'''
 			}
 
 			CelestialDreamcassette: {
-				DisplayName: Celestial Dreamcassette
+				DisplayName: Небесная грёза-кассета
 				Tooltip:
 					'''
-					Allows the user to see the world differently
-					'Dissonant harps echo from the cassette...'
+					Позволяет видеть мир по-другому
+					«Из кассеты эхом раздаются диссонирующие арфы...»
 					'''
 			}
 
 			CloudSpriteInABottle: {
-				DisplayName: Cloud Sprite in a Bottle
-				Tooltip: "'It audibly buzzes around within the bottle'"
+				DisplayName: Облачная сущность в бутылке
+				Tooltip: «Она зычно мотается внутри бутылки»
 			}
 
 			GoldenDreamcassette: {
-				DisplayName: Golden Dreamcassette
+				DisplayName: Золотая грёза-кассета
 				Tooltip:
 					'''
-					Allows the user to see the world differently
-					'Angelic chants echo from the cassette...'
+					Позволяет видеть мир по-другому
+					«Из кассеты эхом раздаётся ангельское пение...»
 					'''
 			}
 
 			OldworldDreamcassette: {
-				DisplayName: Old World Dreamcassette
+				DisplayName: Старинная грёза-кассета
 				Tooltip:
 					'''
-					Allows the user to see the world differently
-					'Thunder cracks echo from the cassette...'
+					Позволяет видеть мир по-другому
+					«Из кассеты эхом раздаются раскаты грома...»
 					'''
 			}
 
 			HeroOfHellChestplate: {
-				DisplayName: Hero of Hell Chestplate
+				DisplayName: Нагрудник героя ада
 				Tooltip: ""
 			}
 
 			HeroOfHellGreaves: {
-				DisplayName: Hero of Hell Greaves
+				DisplayName: Поножи героя ада
 				Tooltip: ""
 			}
 
 			HeroOfHellMask: {
-				DisplayName: Hero of Hell Mask
-				Tooltip: "'Save me...'"
+				DisplayName: Маска героя ада
+				Tooltip: «Спаси меня...»
 			}
 
 			OldHunterHat: {

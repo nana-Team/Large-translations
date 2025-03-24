@@ -1,0 +1,68 @@
+[img]https://i.imgur.com/ArPhxjn.png[/img]
+
+[b]Orchid Mod[/b] — это мод, специализированный на предвнеении нового контента в игру. Однако, вы не найдёте тут новой брони, аксессуаров и оружий для ванильных классов, ибо мод конценрируется именно на добавлении новых классов с их уникальными и местами сложными механиками.
+
+[h1]Текущая версия : 1.5.0.2[/h1]
+- Портированно на версию 1.4.4 Террарии
+- Полностью добавлен класс хранителя, имеющего контент на протяжении всех игры
+
+[img]https://i.imgur.com/kcLoweG.png[/img]
+На данный момент, Orchid Mod добавляет несколько классов: [b]шаман[/b], [b]алхимик[/b], [b]картёжник[/b] и [b]хранитель[/b].
+
+Эти новые классы созданы для опытных игроков, которые хотят получить совешенно новый игровой опыт. Играть за них может быть намного труднее, чем за ванильные классы, а для получения хорошего урона придётся применить больше усилий.
+
+[h1]Хранитель[/h1]
+[b]Хранитель[/b] - своеобразный танк, использущий [b]павизы[/b], [b]перчатки[/b] и мощные [b]боевые молоты[/b] для сокрушения врагов и самозащиты.
+Уникальные [b]руны[/b] позволят наносить переожический урон врагам, а [b]штандарты[/b] обеспечат полезными в бою бонусами.
+
+Оружие хранителя при использовании расходует шкалы [b]удара рукой[/b] и [b]блока[/b], которые восстанавливаются эффективней всего при использовании паравильной ротации оружия.
+
+[i]Правильное чередование оборонительных и атакующих способностей — ключ к победе.[/i]
+
+[b]Класс хранителя имеет контент на протяжении всей игры, что делает его пригодным для комфортного и полного прохождения.[/b]
+
+[h1]Alchemist - up to Wall of Flesh[/h1] 
+The [b]Alchemist[/b] is a slow, but powerful fighter, carefully mixing deadly chemicals to create powerful [b]Combos[/b] and [b]Reactions[/b].
+
+Weapons do very little by themselves, and have to be mixed with others in order to be effective. Unique [b]Hidden Reactions[/b] can also be discovered to help one along the way!
+
+[i]Experimentation and patience are the key to mastering the Alchemist class, as its high damage potential is hidden behind various combos for the player to discover.[/i]
+
+[b]The Alchemist class currently has content up to the Wall of Flesh. It is dated, but playable[/b]
+
+[h1]Gambler - up to Wall of Flesh[/h1]
+The [b]Gambler[/b] uses a [b]Deck[/b] filled with unique [b]Cards[/b] to overcome their opponents.
+
+Each card has a very unique attack pattern that the player must master in order to fight effectively, as they [b]cannot choose which one to draw[/b].
+
+[b]Chips[/b] and [b]Dice[/b] will help with gaps in the player's offensives by providing unique timing-based attack patterns and buffs.
+
+[i]By breaking the conventional way of dealing damage, the Gambler class provides a unique take on fights. Some good advice would be to collect various cards, and always adapt one’s deck to the situations to come.[/i]
+
+[b]The Gambler class currently has content up to the Wall of Flesh. It is dated, but playable[/b]
+
+[h1]Shaman - unavailable[/h1]
+[strike]The [b]Shaman[/b] is a master of the elements, and uses the power of [b]Fire[/b], [b]Water[/b], [b]Air[/b], [b]Earth[/b] and [b]Spirit[/b] to damage their enemies.
+
+Each weapon is tied to an element, and attacking with it will charge a corresponding elemental bond. Once fully charged, bonds can be released, and will aid the shaman as they swap to their next weapon.
+
+The more active [b]Elemental Bonds[/b] a shaman has, the more powerful a shaman becomes.
+
+[i]The Shaman class requires the use of multiple weapons, attaining its true potential by maintaining as many active bonds as possible.[/i][/strike]
+
+[b]The Shaman class is currently being reworked from the ground up, and its items are currently not available[/b]
+
+[img]https://i.imgur.com/hbZMoD5.png[/img]
+[list]
+[*] Official [img]https://i.imgur.com/6aABPKy.png[/img] [b][url=https://terrariamods.wiki.gg/wiki/Orchid_Mod]Orchid Mod wiki[/url][/b] (needs wiki love!)
+[*] Official [img]https://i.imgur.com/GB1M4Hv.png[/img] [b][url=https://discord.gg/zhW9dm2]Discord channel[/url][/b]
+[/list]
+
+[img]https://i.imgur.com/mLDdw3h.png[/img]
+[list]
+[*] [b]Barometz[/b] for contributing various sprites and item ideas, as well as creating and maintaining the Orchid Mod wiki.
+[*] [b]IceBeam[/b] and [b]Feedza[/b] for maintaining sections of the Orchid Mod wiki.
+[*] [b]direwolf420[/b] and [b]S-Pladison[/b] for extensive coding help, and cross-mod compatibility.
+[*] [b]Amber[/b], [b]BluNinja[/b], [b]catsounds[/b], [b]multibanana[/b], and [b]Draka[/b] for contributing sprites, artwork, and ideas.
+[*] [b]A91[/b], [b]Circadian[/b], [b]Kyle[/b], [b]ChozoChorizo[/b], [b]TheLoneGamer[/b], and [b]Xrylene[/b] for considerable balance and design feedback.
+[*] [b]GitGudWO[/b] for the trailers and videos above.

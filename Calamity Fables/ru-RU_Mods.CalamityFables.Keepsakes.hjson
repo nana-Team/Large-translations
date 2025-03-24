@@ -1,15 +1,15 @@
 Names: {
-	NautilusPendant: Royal Pendant
-	NautilusPendant1: Royal Pendant (1)
-	NautilusPendant2: Royal Pendant (2)
-	OgsculePendant: Ogscule Pendant
+	NautilusPendant: Королевский кулон
+	NautilusPendant1: Королевский кулон (1)
+	NautilusPendant2: Королевский кулон (2)
+	OgsculePendant: Кулон Огскула
 }
 
 Descriptions: {
-	NautilusPendant: Given to members of the Royal Remora Squadron.
-	NautilusPendant1: Given to new seaguards. 1
-	NautilusPendant2: Given to new seaguards. 2
-	OgsculePendant: Ocsculaire
+	NautilusPendant: Вручается членам Королевской Эскадры «Ремора».
+	NautilusPendant1: Выдаётся новым морским стражам. 1
+	NautilusPendant2: Выдаётся новым морским стражам. 2
+	OgsculePendant: Огскуленность
 }
 
 NameColors: {

@@ -1016,9 +1016,9 @@
 				DisplayName: Привод скитальца
 				Tooltip:
 					'''
-					Activates a protective matrix that can absorb 50 damage and grants 10 defense
-					However, the systems are fickle and the shield will need 10 seconds to charge up fully
-					Getting hit during the shield recharge period will reset it back to zero
+					Активирует защитную матрицу, дающую 10 ед защиты и способную поглдотить до 50 ед. урона
+					После разрушения матрицы, ей потребуется 10 секунд на восстановление
+					Получения урона во время восстановления сбросит его прогресс
 					Можно переработать промывателем на запчасти
 					'''
 			}

@@ -981,45 +981,45 @@
 			}
 
 			OldHunterHat: {
-				DisplayName: Old Hunter Hat
-				Tooltip: "'Attire fashioned after the appearance of hunters from a faraway land'"
+				DisplayName: Шляпа старого охотника
+				Tooltip: «Этот наряд вошёл в моду сразу после появления охотников из дальних земель»
 			}
 
 			OldHunterPants: {
-				DisplayName: Old Hunter Pants
-				Tooltip: "'Attire fashioned after the appearance of hunters from a faraway land'"
+				DisplayName: Штаны старого охотника
+				Tooltip: «Этот наряд вошёл в моду сразу после появления охотников из дальних земель»
 			}
 
 			OldHunterShirt: {
-				DisplayName: Old Hunter Shirt
-				Tooltip: "'Attire fashioned after the appearance of hunters from a faraway land'"
+				DisplayName: Куртка старого охотника
+				Tooltip: «Этот наряд вошёл в моду сразу после появления охотников из дальних земель»
 			}
 
 			AbandonedWulfrumHelmet: {
-				DisplayName: Abandoned Wulfrum Helmet
+				DisplayName: Забытый вульфрумовый шлем
 				Tooltip:
 					'''
-					A worn and rusty helmet ressembling older models of wulfrum armor
-					Transforms the holder into a wulfrum robot
-					Can also be worn in the helmet slot as a regular helm
-					[c/83B87E:This rather flimsy armor was commonly worn by scavengers and looters]
-					[c/83B87E:Its versatility and common nature led it to be used as currency in trades]
+					Изношенный и ржавый шлем, напоминающий старые модели вульфрумовой брони
+					Превращает владельца в вульфрумового робота
+					Можно также носить в слоте головы как обычный шлем
+					[c/83B87E:Эта довольно хлипкая броня была распространена среди мародёров и грабителей]
+					[c/83B87E:Благодаря своей универсальности и простоте она превратилась в некую валюту, применяемую в торговле]
 					'''
 			}
 
 			EnergyCore: {
-				DisplayName: Energy Core
-				Tooltip: It pulses with energy
+				DisplayName: Энергетическое ядро
+				Tooltip: Пульсирует энергией
 			}
 
 			RoverDrive: {
-				DisplayName: Rover Drive
+				DisplayName: Привод скитальца
 				Tooltip:
 					'''
 					Activates a protective matrix that can absorb 50 damage and grants 10 defense
 					However, the systems are fickle and the shield will need 10 seconds to charge up fully
 					Getting hit during the shield recharge period will reset it back to zero
-					Can also be scrapped at an extractinator
+					Можно переработать промывателем на запчасти
 					'''
 			}
 

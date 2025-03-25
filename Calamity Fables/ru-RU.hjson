@@ -347,7 +347,7 @@
 
 			StormlionLarvaBannerItem: {
 				DisplayName: Знамя личинки штормового льва
-				Tooltip: Увеличены урон и защита в бою против: Личинка шторомового льва
+				Tooltip: Игроки поблизости получают бонус против: Личинка шторомового льва
 			}
 
 			StormlionLarvaItem: {
@@ -421,7 +421,7 @@
 			}
 
 			RollerSpawner: {
-				DisplayName: Спаунер котка
+				DisplayName: Спаунер катка
 				Tooltip: ""
 			}
 
@@ -1017,266 +1017,266 @@
 				Tooltip:
 					'''
 					Активирует защитную матрицу, дающую 10 ед защиты и способную поглдотить до 50 ед. урона
-					После разрушения матрицы, ей потребуется 10 секунд на восстановление
+					Из-за своей нестабильности, матрице требуется 10 секунд на восстановление после разрушения
 					Получения урона во время восстановления сбросит его прогресс
 					Можно переработать промывателем на запчасти
 					'''
 			}
 
 			WulfrumAcrobaticsPack: {
-				DisplayName: Wulfrum Acrobatics Pack
+				DisplayName: Вульфрумовый акробатический набор
 				Tooltip:
 					'''
-					This mess of cogs and wires in a box retools the winch mechanism of hooks to transform them into a wulfrum slingshot
-					The wulfrum slingshot trades the ability to reel you back in for advanced rope physics, letting you swing around the hook as you please
-					Holding the UP key while grappled will slowly retract the hook
-					Additionally, the pack automatically attempts to grapple a nearby wall if it detects danger from fall damage
-					This safety feature won't activate if the down key is being held
-					Provides moderate light
-					8% increased movement speed
+					Ящик перепутанных болтов и проводов, заменяющий ваш крюк на вульфрумовый канат
+					Вульфрумовый канат имеет продвинутую физику, позволяющую взбираться по нему и раскачиваться на нём как вам угодно
+					Ужерживайте клавишу ВВЕРХ, чтобы взщобраться вверх по канату
+					Набор также быдет пытаться автоматически зацепиться за ближайшую поверхность, если вам угрожает получение урона от падения
+					Эта система сохранения не сработает, если во время падения удерживать клавишу ВНИЗ
+					Излучает умеренное количество света
+					Увеличивает скорость передвижения на 8%
 					'''
 			}
 
 			WulfrumBlunderbuss: {
-				DisplayName: Wulfrum Blunderbuss
+				DisplayName: Вульфрумовый мушкетон
 				Tooltip:
 					'''
-					Consumes wulfrum scrap or silver coins to fire
-					Ignores 3 points of enemy Defense
-					[c/83B87E:"The good thing about Wulfrum is that while it breaks fast, it can be reused even faster"]
-					[c/83B87E:"In fact, it is quite common for a robot to be turned into ammo right after it stops functioning"]
+					Использует вульфрумовый металлолом или серебряные монеты для стрельбы 
+					Игнорирует 3 ед. защиты врага
+					[c/83B87E:«Основной плюс вульфрумовых механизмов в том, что если они ломаются быстро, то чинятся ещё быстрее»]
+					[c/83B87E:«Довольно часто можно встретить робота, который превратился в боеприпасы прямо после поломки»]
 					'''
 			}
 
 			WulfrumController: {
-				DisplayName: Wulfrum Controller
+				DisplayName: Вульфрумовый контроллер
 				Tooltip:
 					'''
-					Summons a wulfrum droid to fight for you
-					Hold right click while holding the remote to switch all of your drones into supercharge mode
-					Supercharged droids will stop attacking and focus wulfrum energy onto you
-					The beam provides extra regeneration and defense
-					Can also be used to heal other players by keeping your mouse cursor close enough to them
+					Призывает вульфрумового дроида сражаться за вас
+					Удерживайте ПКМ, держа в руках контроллер, чтобы переключить всех ваших дронов в режим сверхзаряда
+					В режиме сверхзаряда дроиды перестают атаковать и начинают концентрировать вульфрумовую энергию на вас
+					Концентрация вальфрумовой энергии ускоряет регенерацию здоровья и увеличивает вашу защиту
+					Также можно использовать для лечения других игроков, если расположить курсор достаточно близко к ним
 					'''
 			}
 
 			WulfrumDiggingTurtle: {
-				DisplayName: Wulfrum Digging Turtle
+				DisplayName: Вульфрумовая черепаха-копатель
 				Tooltip:
 					'''
-					Throws a rickety mining contraption to dig out a small tunnel
-					In case of an emergency, right click to instantly detonate all your digging turtles
+					Бросает неустойчивую горнодобывающую машину, вскапывающую небольшой туннель
+					В чрезвычайных ситуациях нажмите ПКМ, чтобы мгновенно взорвать всех копающих черепах
 					'''
 			}
 
 			WulfrumDrill: {
-				DisplayName: Wulfrum Drill
+				DisplayName: Вульфрумовый бур
 				Tooltip: ""
 			}
 
 			WulfrumFusionCannon: {
-				DisplayName: Experimental Wulfrum Fusion Array
+				DisplayName: Прототип вульфрумового многопоточного ускорителя масс
 				Tooltip:
 					'''
-					Fires quick bursts of medium-range pellets
-					[c/878787:"Who needs whips when you can simply become the summon yourself?"]
+					Стреляет быстрыми сериями снарядов средней дальности
+					[c/878787:«Кому нужны хлысты, когда вы можете призывать самого себя?»]
 					'''
 			}
 
 			WulfrumHat: {
-				DisplayName: Wulfrum Hat & Goggles
+				DisplayName: Вульфрумовая шляпа с очками
 				Tooltip:
 					'''
-					10% increased whip range
-					Comes equipped with hair extensions
+					Увеличивает длину хлыста на 10%
+					Идёт в комплекте с париком
 					'''
 			}
 
 			WulfrumJacket: {
-				DisplayName: Wulfrum Jacket
-				Tooltip: 5% increased damage reduction
+				DisplayName: Вульфрумовая куртка
+				Tooltip: Увеличивает сопротивление урону на 5%
 			}
 
 			WulfrumMetalScrap: {
-				DisplayName: Wulfrum Metal Scrap
+				DisplayName: Вульфрумовый металлалом
 				Tooltip: ""
 			}
 
 			WulfrumOveralls: {
-				DisplayName: Wulfrum Overalls
-				Tooltip: Movement speed increased by 5%
+				DisplayName: Вульфрумовый комбинезон
+				Tooltip: Увеличивает скорость передвижения на 5%
 			}
 
 			WulfrumProsthesis: {
-				DisplayName: Wulfrum Prosthesis
+				DisplayName: Вульфрумовый протез
 				Tooltip:
 					'''
-					Casts a wulfrum bolt
-					Right click to drain mana from creatures in front of you
-					[c/83B87E:Technology and magic have been forever locked in an arms race of imitation and retaliation]
-					[c/83B87E:At times they work in tandem, as seen in certain prosthetic limbs]
+					Запускает вульфрумовый заряд
+					Нажмите ПКМ, чтобы выкачать ману из существ перед вами
+					[c/83B87E:Технология и магия вовлечены в бесконечное противостояние, где одна копирует другую]
+					[c/83B87E:Порой они работают в тандеме, как видно на примере некоторых протезов]
 					'''
 			}
 
 			WulfrumScaffoldKit: {
-				DisplayName: Wulfrum Scaffold Kit
+				DisplayName: Вульфрумовый набор строительных лесов
 				Tooltip:
 					'''
-					Places down temporary metal scaffolding. Uses up one wulfrum metal scrap for 40 tiles built
-					Scaffold needs to be adjacent to a solid tile to be placed down
-					[c/83B87E:'For when you need something built fast and don't need it to last.']
+					Устанавливает временные металлические леса. Расходует один металлический вульфрумовый металлолом на 40 построенных блоков
+					Для установки лесов необходимо, чтобы они прилегали к цельному блоку
+					[c/83B87E:«Когда нужно построить что-то быстро, а долговечность не важна»]
 					'''
 			}
 
 			WulfrumScrewdriver: {
-				DisplayName: Wulfrum Screwdriver
+				DisplayName: Вульфрумовая отвёртка
 				Tooltip:
 					'''
-					Can be used to rapidly and royally screw over any foe, provided they're weak enough
-					Striking an enemy has a chance to give you a wulfrum screw, that you can throw back at them by right clicking
-					Hitting a flung screw with the screwdriver will boost its damage and speed, sending it hurling forwards at high speeds
-					[c/83B87E:"Who makes flatheads this large?? The hell am I supposed to use it for, the thing could take an eye out!"]
-					[c/83B87E:"…Ah."]
+					Используется для быстрой и жестокой расправы над любым врагом, если он достаточно слаб
+					При нанесении ударов по врагу у вас есть шанс получить вульфрумовый винт, который вы можете бросить обратно во врага, нажав ПКМ
+					Если ударить отвёрткой по брошенному винту, это увеличит его урон и скорость, отправляя его вперёд на большой скорости
+					[c/83B87E:«Кто делает плоскую головку отвёртки настолько большой? Как я вообще могу этим работать?! Ей же можно глаз открутить!»]
+					[c/83B87E:«...Ау»]
 					'''
 			}
 
 			WulfrumTreasurePinger: {
-				DisplayName: Wulfrum Treasure Pinger
+				DisplayName: Вульфрумовый искатель сокровищ
 				Tooltip:
 					'''
-					Helps you find metal that's hopefully more valuable than wulfrum
-					This contraption seems incredibly shoddy. [c/fc4903:It'll break sooner than later for sure]
+					Находит поблизости металлы, которые, надеемся, ценнее вульфрума
+					Это устройство выглядит крайне ненадёжным. [c/fc4903:Он определённо сломается раньше, чем вы думаете]
 					'''
 			}
 
 			StormlionBannerItem: {
-				DisplayName: Stormlion Banner
-				Tooltip: Nearby Players get a bonus against: Stormlion
+				DisplayName: Знамя штормового льва
+				Tooltip: Игроки поблизости получают бонус против: Штормовой лев
 			}
 
 			GeodeCrawlerBannerItem: {
-				DisplayName: Geode Crawler Banner
-				Tooltip: Nearby Players get a bonus against: Geode Crawler
+				DisplayName: Знамя жеодного ползуна
+				Tooltip: Игроки поблизости получают бонус против: Жеодный ползун
 			}
 
 			CloudSpriteBannerItem: {
-				DisplayName: Cloud Sprite Banner
-				Tooltip: Nearby Players get a bonus against: Cloud Sprite
+				DisplayName: Знамя облачного духа
+				Tooltip: Игроки поблизости получают бонус против: Облачный дух
 			}
 
 			WulfrumGrapplerBannerItem: {
-				DisplayName: Wulfrum Grappler Banner
-				Tooltip: Nearby Players get a bonus against: Wulfrum Grappler
+				DisplayName: Знамя вульфрумового зацепщика
+				Tooltip: Игроки поблизости получают бонус против: Вульфрумовый зацепщик
 			}
 
 			WulfrumMagnetizerBannerItem: {
-				DisplayName: Wulfrum Magnetizer Banner
-				Tooltip: Nearby Players get a bonus against: Wulfrum Magnetizer
+				DisplayName: Знамя вульфрумового магнетизера
+				Tooltip: Игроки поблизости получают бонус против: Вульфрумовый магнетизера
 			}
 
 			WulfrumMortarBannerItem: {
-				DisplayName: Wulfrum Mortar Banner
-				Tooltip: Nearby Players get a bonus against: Wulfrum Mortar
+				DisplayName: Знамя вульфрумового миномётчика
+				Tooltip: Игроки поблизости получают бонус против: Вульфрумовый миномётчик
 			}
 
 			WulfrumNexusBannerItem: {
-				DisplayName: Wulfrum Nexus Banner
-				Tooltip: Nearby Players get a bonus against: Wulfrum Nexus
+				DisplayName: Знамя вульфрумового узла
+				Tooltip: Игроки поблизости получают бонус против: Вульфрумовый узел
 			}
 
 			WulfrumRollerBannerItem: {
-				DisplayName: Wulfrum Roller Banner
-				Tooltip: Nearby Players get a bonus against: Wulfrum Roller
+				DisplayName: Знамя вульфрумового котка
+				Tooltip: Игроки поблизости получают бонус против: Вульфрумовый каток
 			}
 
 			WulfrumRoverBannerItem: {
-				DisplayName: Wulfrum Rover Banner
-				Tooltip: Nearby Players get a bonus against: Wulfrum Rover
+				DisplayName: Знамя вульфрумового скитальца
+				Tooltip: Игроки поблизости получают бонус против: Вульфрумовый скиталец
 			}
 
 			CeilingChisel: {
-				DisplayName: Ceiling Chisel
-				Tooltip: Carves out cracks in ceilings, letting a stream of dust flow down
+				DisplayName: Потолочкая стаместка
+				Tooltip: Вырезает царапины в потолке, заставляя его осыпаться
 			}
 
 			CorruptRockySandstoneWallItem: {
-				DisplayName: Rocky Ebonsandstone Wall
+				DisplayName: Скалистая эбонитовая песчаниковая стена
 				Tooltip: ""
 			}
 
 			CrimsonRockySandstoneWallItem: {
-				DisplayName: Rocky Crimsandstone Wall
+				DisplayName: Скалистая багряная песчаниковая стена
 				Tooltip: ""
 			}
 
 			DesertBrazier: {
-				DisplayName: Desert Brazier
+				DisplayName: Жаровня пустыни
 				Tooltip: ""
 			}
 
 			DesertBrazierSpectral: {
-				DisplayName: Spectral Desert Brazier
+				DisplayName: Призрачная жаровня пустыни
 				Tooltip: ""
 			}
 
 			DesertBrickPillar: {
-				DisplayName: Desert Brick Pillar
+				DisplayName: Столб из песчанникового кирпича
 				Tooltip: ""
 			}
 
 			HallowedRockySandstoneWallItem: {
-				DisplayName: Rocky Pearlsandstone Wall
+				DisplayName: Скажистая жемчужная песчаниковая стена
 				Tooltip: ""
 			}
 
 			MakeshiftStool: {
-				DisplayName: Makeshift Stool
+				DisplayName: Самодельный табурет
 				Tooltip: ""
 			}
 
 			MirageDust: {
-				DisplayName: Mirage Dust
-				Tooltip: Can be powdered down on the floor to create a column of ghostly floating dust
+				DisplayName: Пыль миража
+				Tooltip: Можно рассыпать на полу, чтобы создать столб призрачной летающей пыли
 			}
 
 			NautilusCrossingTheDunesItem: {
-				DisplayName: Nautilus Crossing the Dunes
-				Tooltip: "'H. Vihn'"
+				DisplayName: Картина «Наутилус, рассекатель песчаных дюн»
+				Tooltip: «Х. Винь»
 			}
 
 			RockySandstoneWallItem: {
-				DisplayName: Rocky Sandstone Wall
+				DisplayName: Скалистая песчаниковая стена
 				Tooltip: ""
 			}
 
 			SandstoneCampfire: {
-				DisplayName: Sandstone Campfire
+				DisplayName: Песчаниковый костёр
 				Tooltip: "{$ItemTooltip.Campfire}"
 			}
 
 			SandstoneCampfireSpectral: {
-				DisplayName: Spectral Sandstone Campfire
+				DisplayName: Призрачный песчаниковый костёр
 				Tooltip: "{$ItemTooltip.Campfire}"
 			}
 
 			SandstonePillar: {
-				DisplayName: Sandstone Pillar
-				Tooltip: Can be hammered to add or remove cracks
+				DisplayName: Песчаниковый столб
+				Tooltip: Ударьте молотом, чтобы добавить или убрать терщены
 			}
 
 			SandyTent: {
-				DisplayName: Sandy Tent
+				DisplayName: Песчаная палатка
 				Tooltip: ""
 			}
 
 			ScourgekillerPainting: {
-				DisplayName: Scourgekiller
-				Tooltip: "'Unearthed by J. Ding'"
+				DisplayName: Картина «Бичеубийца»
+				Tooltip: «Обнаружено Дж. Дингом»
 			}
 
 			ShatteredTabletPainting: {
-				DisplayName: Shattered Tablet
-				Tooltip: "'Unearthed by J. Ding'"
+				DisplayName: Разбитая скрижаль
+				Tooltip: «Обнаружено Дж. Дингом»
 			}
 
 			SpectralWater: {

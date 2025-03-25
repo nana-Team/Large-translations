@@ -2125,37 +2125,37 @@ Mods: {
 			}
 
 			SOTSRubyGemLock: {
-				DisplayName: Рубиновый замок Веспера
+				DisplayName: Рубиновый замок Весперы
 				Tooltip: ""
 			}
 
 			SOTSSapphireGemLock: {
-				DisplayName: Сапфировый замок Веспера
+				DisplayName: Сапфировый замок Весперы
 				Tooltip: ""
 			}
 
 			SOTSEmeraldGemLock: {
-				DisplayName: Изумрудный замок Веспера
+				DisplayName: Изумрудный замок Весперы
 				Tooltip: ""
 			}
 
 			SOTSTopazGemLock: {
-				DisplayName: Топазовый замок Веспера 
+				DisplayName: Топазовый замок Весперы
 				Tooltip: ""
 			}
 
 			SOTSAmethystGemLock: {
-				DisplayName: Аметичтовый замок Веспера
+				DisplayName: Аметичтовый замок Весперы
 				Tooltip: ""
 			}
 
 			SOTSDiamondGemLock: {
-				DisplayName: Алмазный замок Веспера
+				DisplayName: Алмазный замок Весперы
 				Tooltip: ""
 			}
 
 			SOTSAmberGemLock: {
-				DisplayName: Янтарный замок Веспера
+				DisplayName: Янтарный замок Весперы
 				Tooltip: ""
 			}
 

@@ -229,86 +229,86 @@
 			HostileDirectStrike.DisplayName: a strong blow
 			MauricingScourgeHead.DisplayName: Maurice
 			SandstoneGraveyardGhost.DisplayName: Ghost
-			AshenGraveMarkerProjectile.DisplayName: Ashen Grave Marker
-			AshenHeadstoneProjectile.DisplayName: Ashen Headstone
-			AshenTombstoneProjectile.DisplayName: Ashen Tombstone
-			AshenGravestoneProjectile.DisplayName: Ashen Gravestone
-			CoralGraveMarkerProjectile.DisplayName: Coral Grave Marker
-			CoralTombstoneProjectile.DisplayName: Coral Tombstone
-			ReefGraveMarkerProjectile.DisplayName: Reef Grave Marker
-			ReefTombstoneProjectile.DisplayName: Reef Tombstone
-			CorruptCrossGraveMarkerProjectile.DisplayName: Corrupt Cross Grave Marker
-			CorruptObeliskProjectile.DisplayName: Corrupt Obelisk
-			CorruptTombstoneProjectile.DisplayName: Corrupt Tombstone
-			CorruptGraveMarkerProjectile.DisplayName: Corrupt Grave Marker
-			CrimsonTombstoneProjectile.DisplayName: Crimson Tombstone
-			CrimsonGraveMarkerProjectile.DisplayName: Crimson Grave Marker
-			CrimsonHeadstoneProjectile.DisplayName: Crimson Headstone
-			CrimsonCrossGraveMarkerProjectile.DisplayName: Crimson Cross Grave Marker
-			CrimtaneTombstoneProjectile.DisplayName: Crimtane Tombstone
-			CrimtaneObeliskProjectile.DisplayName: Crimtane Obelisk
-			CrimtaneHeadstoneProjectile.DisplayName: Crimtane Headstone
-			CrimtaneGraveMarkerProjectile.DisplayName: Crimtane Grave Marker
-			CrystalTombstoneProjectile.DisplayName: Crystal Tombstone
-			CrystalHeadstoneProjectile.DisplayName: Crystal Headstone
-			CrystalGraveMarkerProjectile.DisplayName: Crystal Grave Marker
-			CrystalGravestoneProjectile.DisplayName: Crystal Gravestone
-			DemoniteHeadstoneProjectile.DisplayName: Demonite Headstone
-			DemoniteObeliskProjectile.DisplayName: Demonite Obelisk
-			DemoniteTombstoneProjectile.DisplayName: Demonite Tombstone
-			DemoniteGraveMarkerProjectile.DisplayName: Demonite Grave Marker
-			FrozenHeadstoneProjectile.DisplayName: Frozen Headstone
-			FrozenTombstoneProjectile.DisplayName: Frozen Tombstone
-			FrozenGraveMarkerProjectile.DisplayName: Frozen Grave Marker
-			FrozenObeliskProjectile.DisplayName: Frozen Obelisk
-			GoldenFrozenHeadstoneProjectile.DisplayName: Golden Frozen Headstone
-			GoldenFrozenTombstoneProjectile.DisplayName: Golden Frozen Tombstone
-			GoldenFrozenGraveMarkerProjectile.DisplayName: Golden Frozen Grave Marker
-			GoldenFrozenObeliskProjectile.DisplayName: Golden Frozen Obelisk
-			GoldenMycelialCrossGraveMarkerProjectile.DisplayName: Golden Mycelial Cross Grave Marker
-			GoldenMycelialGraveMarkerProjectile.DisplayName: Golden Mycelial Grave Marker
-			GoldenMycelialHeadstoneProjectile.DisplayName: Golden Mycelial Headstone
-			GoldenMycelialTombstoneProjectile.DisplayName: Golden Mycelial Tombstone
-			GoldenSandstoneGravestoneProjectile.DisplayName: Golden Sandstone Gravestone
-			GoldenSandstoneTombstoneProjectile.DisplayName: Golden Sandstone Tombstone
-			GoldenSandstoneObeliskProjectile.DisplayName: Golden Sandstone Obelisk
-			GoldenSandstoneHeadstoneProjectile.DisplayName: Golden Sandstone Headstone
-			BambooGraveMarkerProjectile.DisplayName: Bamboo Grave Marker
-			JungleGraveMarkerProjectile.DisplayName: Jungle Grave Marker
-			JungleCrossGraveMarkerProjectile.DisplayName: Jungle Cross Grave Marker
-			JungleHeadstoneProjectile.DisplayName: Jungle Headstone
-			LihzahrdGravestoneProjectile.DisplayName: Lihzahrd Gravestone
-			LihzahrdTombstoneProjectile.DisplayName: Lihzahrd Tombstone
-			LihzahrdGraveMarkerProjectile.DisplayName: Lihzahrd Grave Marker
-			LihzahrdHeadstoneProjectile.DisplayName: Lihzahrd Headstone
-			MantleGraveMarkerProjectile.DisplayName: Mantle Grave Marker
-			MantleHeadstoneProjectile.DisplayName: Mantle Headstone
-			MantleTombstoneProjectile.DisplayName: Mantle Tombstone
-			MantleGravestoneProjectile.DisplayName: Mantle Gravestone
-			MycelialHeadstoneProjectile.DisplayName: Mycelial Headstone
-			MycelialGravestoneProjectile.DisplayName: Mycelial Gravestone
-			MycelialGraveMarkerProjectile.DisplayName: Mycelial Grave Marker
-			MycelialTombstoneProjectile.DisplayName: Mycelial Tombstone
-			PearlstoneTombstoneProjectile.DisplayName: Pearlstone Tombstone
-			PearlwoodGraveMarkerProjectile.DisplayName: Pearlwood Grave Marker
-			PearlstoneGraveMarkerProjectile.DisplayName: Pearlstone Grave Marker
-			PearlstoneGravestoneProjectile.DisplayName: Pearlstone Gravestone
-			SandstoneGraveMarkerProjectile.DisplayName: Sandstone Grave Marker
-			SandstoneTombstoneProjectile.DisplayName: Sandstone Tombstone
-			SandstoneObeliskProjectile.DisplayName: Sandstone Obelisk
-			SandstoneCrossGraveMarkerProjectile.DisplayName: Sandstone Cross Grave Marker
-			PalmwoodCrossGraveMarkerProjectile.DisplayName: Palmwood Cross Grave Marker
-			PalmwoodGraveMarkerProjectile.DisplayName: Palmwood Grave Marker
+			AshenGraveMarkerProjectile.DisplayName: Ashen могильная табличка
+			AshenHeadstoneProjectile.DisplayName: Ashen надгробие
+			AshenTombstoneProjectile.DisplayName: Ashen надгробная плита
+			AshenGravestoneProjectile.DisplayName: Ashen могильная плита
+			CoralGraveMarkerProjectile.DisplayName: Coral могильная табличка
+			CoralTombstoneProjectile.DisplayName: Coral надгробная плита
+			ReefGraveMarkerProjectile.DisplayName: Reef могильная табличка
+			ReefTombstoneProjectile.DisplayName: Reef надгробная плита
+			CorruptCrossGraveMarkerProjectile.DisplayName: Corrupt могильный крест
+			CorruptObeliskProjectile.DisplayName: Corrupt обелиск
+			CorruptTombstoneProjectile.DisplayName: Corrupt надгробная плита
+			CorruptGraveMarkerProjectile.DisplayName: Corrupt могильная табличка
+			CrimsonTombstoneProjectile.DisplayName: Crimson надгробная плита
+			CrimsonGraveMarkerProjectile.DisplayName: Crimson могильная табличка
+			CrimsonHeadstoneProjectile.DisplayName: Crimson надгробие
+			CrimsonCrossGraveMarkerProjectile.DisplayName: Crimson могильный крест
+			CrimtaneTombstoneProjectile.DisplayName: Crimtane надгробная плита
+			CrimtaneObeliskProjectile.DisplayName: Crimtane обелиск
+			CrimtaneHeadstoneProjectile.DisplayName: Crimtane надгробие
+			CrimtaneGraveMarkerProjectile.DisplayName: Crimtane могильная табличка
+			CrystalTombstoneProjectile.DisplayName: Crystal надгробная плита
+			CrystalHeadstoneProjectile.DisplayName: Crystal надгробие
+			CrystalGraveMarkerProjectile.DisplayName: Crystal могильная табличка
+			CrystalGravestoneProjectile.DisplayName: Crystal могильная плита
+			DemoniteHeadstoneProjectile.DisplayName: Demonite надгробие
+			DemoniteObeliskProjectile.DisplayName: Demonite обелиск
+			DemoniteTombstoneProjectile.DisplayName: Demonite надгробная плита
+			DemoniteGraveMarkerProjectile.DisplayName: Demonite могильная табличка
+			FrozenHeadstoneProjectile.DisplayName: Frozen надгробие
+			FrozenTombstoneProjectile.DisplayName: Frozen надгробная плита
+			FrozenGraveMarkerProjectile.DisplayName: Frozen могильная табличка
+			FrozenObeliskProjectile.DisplayName: Frozen обелиск
+			GoldenFrozenHeadstoneProjectile.DisplayName: Golden Frozen надгробие
+			GoldenFrozenTombstoneProjectile.DisplayName: Golden Frozen надгробная плита
+			GoldenFrozenGraveMarkerProjectile.DisplayName: Golden Frozen могильная табличка
+			GoldenFrozenObeliskProjectile.DisplayName: Golden Frozen обелиск
+			GoldenMycelialCrossGraveMarkerProjectile.DisplayName: Golden Mycelial могильный крест
+			GoldenMycelialGraveMarkerProjectile.DisplayName: Golden Mycelial могильная табличка
+			GoldenMycelialHeadstoneProjectile.DisplayName: Golden Mycelial надгробие
+			GoldenMycelialTombstoneProjectile.DisplayName: Golden Mycelial надгробная плита
+			GoldenSandstoneGravestoneProjectile.DisplayName: Golden Sandstone могильная плита
+			GoldenSandstoneTombstoneProjectile.DisplayName: Golden Sandstone надгробная плита
+			GoldenSandstoneObeliskProjectile.DisplayName: Golden Sandstone обелиск
+			GoldenSandstoneHeadstoneProjectile.DisplayName: Golden Sandstone надгробие
+			BambooGraveMarkerProjectile.DisplayName: Bamboo могильная табличка
+			JungleGraveMarkerProjectile.DisplayName: Jungle могильная табличка
+			JungleCrossGraveMarkerProjectile.DisplayName: Jungle могильный крест
+			JungleHeadstoneProjectile.DisplayName: Jungle надгробие
+			LihzahrdGravestoneProjectile.DisplayName: Lihzahrd могильная плита
+			LihzahrdTombstoneProjectile.DisplayName: Lihzahrd надгробная плита
+			LihzahrdGraveMarkerProjectile.DisplayName: Lihzahrd могильная табличка
+			LihzahrdHeadstoneProjectile.DisplayName: Lihzahrd надгробие
+			MantleGraveMarkerProjectile.DisplayName: Mantle могильная табличка
+			MantleHeadstoneProjectile.DisplayName: Mantle надгробие
+			MantleTombstoneProjectile.DisplayName: Mantle надгробная плита
+			MantleGravestoneProjectile.DisplayName: Mantle могильная плита
+			MycelialHeadstoneProjectile.DisplayName: Mycelial надгробие
+			MycelialGravestoneProjectile.DisplayName: Mycelial могильная плита
+			MycelialGraveMarkerProjectile.DisplayName: Mycelial могильная табличка
+			MycelialTombstoneProjectile.DisplayName: Mycelial надгробная плита
+			PearlstoneTombstoneProjectile.DisplayName: Pearlstone надгробная плита
+			PearlwoodGraveMarkerProjectile.DisplayName: Pearlwood могильная табличка
+			PearlstoneGraveMarkerProjectile.DisplayName: Pearlstone могильная табличка
+			PearlstoneGravestoneProjectile.DisplayName: Pearlstone могильная плита
+			SandstoneGraveMarkerProjectile.DisplayName: Sandstone могильная табличка
+			SandstoneTombstoneProjectile.DisplayName: Sandstone надгробная плита
+			SandstoneObeliskProjectile.DisplayName: Sandstone обелиск
+			SandstoneCrossGraveMarkerProjectile.DisplayName: Sandstone могильный крест
+			PalmwoodCrossGraveMarkerProjectile.DisplayName: Palmwood могильный крест
+			PalmwoodGraveMarkerProjectile.DisplayName: Palmwood могильная табличка
 			PalmwoodShipwreckMarkerProjectile.DisplayName: Palmwood Shipwreck Marker
-			SeashellTombstoneProjectile.DisplayName: Seashell Tombstone
-			SkyGraveMarkerProjectile.DisplayName: Sky Grave Marker
-			SkyCrossGraveMarkerProjectile.DisplayName: Sky Cross Grave Marker
-			SkyGravestoneProjectile.DisplayName: Sky Gravestone
+			SeashellTombstoneProjectile.DisplayName: Seashell надгробная плита
+			SkyGraveMarkerProjectile.DisplayName: Sky могильная табличка
+			SkyCrossGraveMarkerProjectile.DisplayName: Sky могильный крест
+			SkyGravestoneProjectile.DisplayName: Sky могильная плита
 			SkyCairnProjectile.DisplayName: Sky Cairn
-			SkywareTombstoneProjectile.DisplayName: Skyware Tombstone
-			SkywareCrossGraveMarkerProjectile.DisplayName: Skyware Cross Grave Marker
-			SkywareHeadstoneProjectile.DisplayName: Skyware Headstone
-			SkywareGraveMarkerProjectile.DisplayName: Skyware Grave Marker
+			SkywareTombstoneProjectile.DisplayName: Skyware надгробная плита
+			SkywareCrossGraveMarkerProjectile.DisplayName: Skyware могильный крест
+			SkywareHeadstoneProjectile.DisplayName: Skyware надгробие
+			SkywareGraveMarkerProjectile.DisplayName: Skyware могильная табличка
 			WulfrumLureSignal.DisplayName: Signal
 			SporedCorpse.DisplayName: Spored Corpse
 			BurntCorpse.DisplayName: Burnt Corpse
@@ -1280,487 +1280,487 @@
 			}
 
 			SpectralWater: {
-				DisplayName: Spectral Water
+				DisplayName: Призрачная вода
 				Tooltip:
 					'''
-					Contains swirling spirits inside
-					Can be used on player-placed sandstone graves to make them spawn ghosts
-					Can also force sandstone light sources to appear as spectral fire
+					Содержит в себе извивающихся духов
+					Используйте на песчаниковом надгробьи, установленном игроков, чтобы возле него могли появляться призраки
+					Используйте на  песчаниковых источниках света, чтобы заставляет их гореть призрачным огнём
 					'''
 			}
 
 			TripodTorch: {
-				DisplayName: Tripod Torch
+				DisplayName: Треножный факел
 				Tooltip: ""
 			}
 
 			TripodTorchSpectral: {
-				DisplayName: Spectral Tripod Torch
+				DisplayName: Призрачный треножный факел
 				Tooltip: ""
 			}
 
 			AshenGraveMarkerItem: {
-				DisplayName: Ashen Grave Marker
+				DisplayName: Пепельная могильная табличка
 				Tooltip: ""
 			}
 
 			AshenHeadstoneItem: {
-				DisplayName: Ashen Headstone
+				DisplayName: Пепельное надгробие
 				Tooltip: ""
 			}
 
 			AshenTombstoneItem: {
-				DisplayName: Ashen Tombstone
+				DisplayName: Пепельная надгробная плита
 				Tooltip: ""
 			}
 
 			AshenGravestoneItem: {
-				DisplayName: Ashen Gravestone
+				DisplayName: Пепельная могильная плита
 				Tooltip: ""
 			}
 
 			CoralGraveMarkerItem: {
-				DisplayName: Coral Grave Marker
+				DisplayName: Коралловая могильная табличка
 				Tooltip: ""
 			}
 
 			CoralTombstoneItem: {
-				DisplayName: Coral Tombstone
+				DisplayName: Коралловая надгробная плита
 				Tooltip: ""
 			}
 
 			ReefGraveMarkerItem: {
-				DisplayName: Reef Grave Marker
+				DisplayName: Рифовая могильная табличка
 				Tooltip: ""
 			}
 
 			ReefTombstoneItem: {
-				DisplayName: Reef Tombstone
+				DisplayName: Рифовая надгробная плита
 				Tooltip: ""
 			}
 
 			CorruptCrossGraveMarkerItem: {
-				DisplayName: Corrupt Cross Grave Marker
+				DisplayName: Искажённый могильный крест
 				Tooltip: ""
 			}
 
 			CorruptObeliskItem: {
-				DisplayName: Corrupt Obelisk
+				DisplayName: Искажённый обелиск
 				Tooltip: ""
 			}
 
 			CorruptTombstoneItem: {
-				DisplayName: Corrupt Tombstone
+				DisplayName: Искажённая надгробная плита
 				Tooltip: ""
 			}
 
 			CorruptGraveMarkerItem: {
-				DisplayName: Corrupt Grave Marker
+				DisplayName: Искажённая могильная табличка
 				Tooltip: ""
 			}
 
 			CrimsonTombstoneItem: {
-				DisplayName: Crimson Tombstone
+				DisplayName: Багровая надгробная плита
 				Tooltip: ""
 			}
 
 			CrimsonGraveMarkerItem: {
-				DisplayName: Crimson Grave Marker
+				DisplayName: Багровая могильная табличка
 				Tooltip: ""
 			}
 
 			CrimsonHeadstoneItem: {
-				DisplayName: Crimson Headstone
+				DisplayName: Багровое надгробие
 				Tooltip: ""
 			}
 
 			CrimsonCrossGraveMarkerItem: {
-				DisplayName: Crimson Cross Grave Marker
+				DisplayName: Багровый могильный крест
 				Tooltip: ""
 			}
 
 			CrimtaneTombstoneItem: {
-				DisplayName: Crimtane Tombstone
+				DisplayName: Багротановая надгробная плита
 				Tooltip: ""
 			}
 
 			CrimtaneObeliskItem: {
-				DisplayName: Crimtane Obelisk
+				DisplayName: Багротановый обелиск
 				Tooltip: ""
 			}
 
 			CrimtaneHeadstoneItem: {
-				DisplayName: Crimtane Headstone
+				DisplayName: Багротановое надгробие
 				Tooltip: ""
 			}
 
 			CrimtaneGraveMarkerItem: {
-				DisplayName: Crimtane Grave Marker
+				DisplayName: Багротановая могильная табличка
 				Tooltip: ""
 			}
 
 			CrystalTombstoneItem: {
-				DisplayName: Crystal Tombstone
+				DisplayName: Кристальная надгробная плита
 				Tooltip: ""
 			}
 
 			CrystalHeadstoneItem: {
-				DisplayName: Crystal Headstone
+				DisplayName: Кристальное надгробие
 				Tooltip: ""
 			}
 
 			CrystalGraveMarkerItem: {
-				DisplayName: Crystal Grave Marker
+				DisplayName: Кристальная могильная табличка
 				Tooltip: ""
 			}
 
 			CrystalGravestoneItem: {
-				DisplayName: Crystal Gravestone
+				DisplayName: Кристальная могильная плита
 				Tooltip: ""
 			}
 
 			DemoniteHeadstoneItem: {
-				DisplayName: Demonite Headstone
+				DisplayName: Демонитовое надгробие
 				Tooltip: ""
 			}
 
 			DemoniteObeliskItem: {
-				DisplayName: Demonite Obelisk
+				DisplayName: Демонитовый обелиск
 				Tooltip: ""
 			}
 
 			DemoniteTombstoneItem: {
-				DisplayName: Demonite Tombstone
+				DisplayName: Демонитовая надгробная плита
 				Tooltip: ""
 			}
 
 			DemoniteGraveMarkerItem: {
-				DisplayName: Demonite Grave Marker
+				DisplayName: Демонитовая могильная табличка
 				Tooltip: ""
 			}
 
 			FrozenHeadstoneItem: {
-				DisplayName: Frozen Headstone
+				DisplayName: Замороженное надгробие
 				Tooltip: ""
 			}
 
 			FrozenTombstoneItem: {
-				DisplayName: Frozen Tombstone
+				DisplayName: Замороженная надгробная плита
 				Tooltip: ""
 			}
 
 			FrozenGraveMarkerItem: {
-				DisplayName: Frozen Grave Marker
+				DisplayName: Замороженная могильная табличка
 				Tooltip: ""
 			}
 
 			FrozenObeliskItem: {
-				DisplayName: Frozen Obelisk
+				DisplayName: Замороженный обелиск
 				Tooltip: ""
 			}
 
 			GoldenFrozenHeadstoneItem: {
-				DisplayName: Golden Frozen Headstone
+				DisplayName: Золотое замороженное надгробие
 				Tooltip: ""
 			}
 
 			GoldenFrozenTombstoneItem: {
-				DisplayName: Golden Frozen Tombstone
+				DisplayName: Золотая замороженная надгробная плита
 				Tooltip: ""
 			}
 
 			GoldenFrozenGraveMarkerItem: {
-				DisplayName: Golden Frozen Grave Marker
+				DisplayName: Золотая замороженная могильная табличка
 				Tooltip: ""
 			}
 
 			GoldenFrozenObeliskItem: {
-				DisplayName: Golden Frozen Obelisk
+				DisplayName: Золотой замороженный обелиск
 				Tooltip: ""
 			}
 
 			GoldenMycelialCrossGraveMarkerItem: {
-				DisplayName: Golden Mycelial Cross Grave Marker
+				DisplayName: Золотой мицеливый могильный крест
 				Tooltip: ""
 			}
 
 			GoldenMycelialGraveMarkerItem: {
-				DisplayName: Golden Mycelial Grave Marker
+				DisplayName: Золотая мицеливая могильная табличка
 				Tooltip: ""
 			}
 
 			GoldenMycelialHeadstoneItem: {
-				DisplayName: Golden Mycelial Headstone
+				DisplayName: Золотое мицеливое надгробие
 				Tooltip: ""
 			}
 
 			GoldenMycelialTombstoneItem: {
-				DisplayName: Golden Mycelial Tombstone
+				DisplayName: Золотая мицеливая надгробная плита
 				Tooltip: ""
 			}
 
 			GoldenSandstoneGravestoneItem: {
-				DisplayName: Golden Sandstone Gravestone
+				DisplayName: Золотая песчаниковая могильная плита
 				Tooltip: ""
 			}
 
 			GoldenSandstoneTombstoneItem: {
-				DisplayName: Golden Sandstone Tombstone
+				DisplayName: Золотая песчаниковая надгробная плита
 				Tooltip: ""
 			}
 
 			GoldenSandstoneObeliskItem: {
-				DisplayName: Golden Sandstone Obelisk
+				DisplayName: Золотой песчаниковый обелиск
 				Tooltip: ""
 			}
 
 			GoldenSandstoneHeadstoneItem: {
-				DisplayName: Golden Sandstone Headstone
+				DisplayName: Золотое песчаниковое надгробие
 				Tooltip: ""
 			}
 
 			BambooGraveMarkerItem: {
-				DisplayName: Bamboo Grave Marker
+				DisplayName: Бамбуковая могильная табличка
 				Tooltip: ""
 			}
 
 			JungleGraveMarkerItem: {
-				DisplayName: Jungle Grave Marker
+				DisplayName: Могильная табличка джунглей
 				Tooltip: ""
 			}
 
 			JungleCrossGraveMarkerItem: {
-				DisplayName: Jungle Cross Grave Marker
+				DisplayName: Могильный крест джунглей
 				Tooltip: ""
 			}
 
 			JungleHeadstoneItem: {
-				DisplayName: Jungle Headstone
+				DisplayName: Надгробие джунглей
 				Tooltip: ""
 			}
 
 			LihzahrdGravestoneItem: {
-				DisplayName: Lihzahrd Gravestone
+				DisplayName: Ящщеровая могильная плита
 				Tooltip: ""
 			}
 
 			LihzahrdTombstoneItem: {
-				DisplayName: Lihzahrd Tombstone
+				DisplayName: Ящщеровая надгробная плита
 				Tooltip: ""
 			}
 
 			LihzahrdGraveMarkerItem: {
-				DisplayName: Lihzahrd Grave Marker
+				DisplayName: Ящщеровая могильная табличка
 				Tooltip: ""
 			}
 
 			LihzahrdHeadstoneItem: {
-				DisplayName: Lihzahrd Headstone
+				DisplayName: Ящщеровое надгробие
 				Tooltip: ""
 			}
 
 			MantleGraveMarkerItem: {
-				DisplayName: Mantle Grave Marker
+				DisplayName: Магматическая могильная табличка
 				Tooltip: ""
 			}
 
 			MantleHeadstoneItem: {
-				DisplayName: Mantle Headstone
+				DisplayName: Магматическое надгробие
 				Tooltip: ""
 			}
 
 			MantleTombstoneItem: {
-				DisplayName: Mantle Tombstone
+				DisplayName: Магматическая надгробная плита
 				Tooltip: ""
 			}
 
 			MantleGravestoneItem: {
-				DisplayName: Mantle Gravestone
+				DisplayName: Магматическая могильная плита
 				Tooltip: ""
 			}
 
 			MycelialHeadstoneItem: {
-				DisplayName: Mycelial Headstone
+				DisplayName: Мицеливое надгробие
 				Tooltip: ""
 			}
 
 			MycelialGravestoneItem: {
-				DisplayName: Mycelial Gravestone
+				DisplayName: Мицеливая могильная плита
 				Tooltip: ""
 			}
 
 			MycelialGraveMarkerItem: {
-				DisplayName: Mycelial Grave Marker
+				DisplayName: Мицеливая могильная табличка
 				Tooltip: ""
 			}
 
 			MycelialTombstoneItem: {
-				DisplayName: Mycelial Tombstone
+				DisplayName: Мицеливая надгробная плита
 				Tooltip: ""
 			}
 
 			PearlstoneTombstoneItem: {
-				DisplayName: Pearlstone Tombstone
+				DisplayName: Жемчужная надгробная плита
 				Tooltip: ""
 			}
 
 			PearlwoodGraveMarkerItem: {
-				DisplayName: Pearlwood Grave Marker
+				DisplayName: Деревянная жемчужная могильная табличка
 				Tooltip: ""
 			}
 
 			PearlstoneGraveMarkerItem: {
-				DisplayName: Pearlstone Grave Marker
+				DisplayName: Жемчужная могильная табличка
 				Tooltip: ""
 			}
 
 			PearlstoneGravestoneItem: {
-				DisplayName: Pearlstone Gravestone
+				DisplayName: Жемчужная могильная плита
 				Tooltip: ""
 			}
 
 			SandstoneGraveMarkerItem: {
-				DisplayName: Sandstone Grave Marker
+				DisplayName: Жемчужная могильная табличка
 				Tooltip: ""
 			}
 
 			SandstoneTombstoneItem: {
-				DisplayName: Sandstone Tombstone
+				DisplayName: Песчаниковая надгробная плита
 				Tooltip: ""
 			}
 
 			SandstoneObeliskItem: {
-				DisplayName: Sandstone Obelisk
+				DisplayName: Песчаниковый обелиск
 				Tooltip: ""
 			}
 
 			SandstoneCrossGraveMarkerItem: {
-				DisplayName: Sandstone Cross Grave Marker
+				DisplayName: Песчаниковый могильный крест
 				Tooltip: ""
 			}
 
 			PalmwoodCrossGraveMarkerItem: {
-				DisplayName: Palmwood Cross Grave Marker
+				DisplayName: Пальмовый могильный крест
 				Tooltip: ""
 			}
 
 			PalmwoodGraveMarkerItem: {
-				DisplayName: Palmwood Grave Marker
+				DisplayName: Пальмовая могильная табличка
 				Tooltip: ""
 			}
 
 			PalmwoodShipwreckMarkerItem: {
-				DisplayName: Palmwood Shipwreck Marker
+				DisplayName: Пальмовый крест кораблекрушения
 				Tooltip: ""
 			}
 
 			SeashellTombstoneItem: {
-				DisplayName: Seashell Tombstone
+				DisplayName: Ракушечная надгробная плита
 				Tooltip: ""
 			}
 
 			SkyGraveMarkerItem: {
-				DisplayName: Sky Grave Marker
+				DisplayName: Небесная могильная табличка
 				Tooltip: ""
 			}
 
 			SkyCrossGraveMarkerItem: {
-				DisplayName: Sky Cross Grave Marker
+				DisplayName: Небесный могильный крест
 				Tooltip: ""
 			}
 
 			SkyGravestoneItem: {
-				DisplayName: Sky Gravestone
+				DisplayName: Небесная могильная плита
 				Tooltip: ""
 			}
 
 			SkyCairnItem: {
-				DisplayName: Sky Cairn
+				DisplayName: Небесный курган
 				Tooltip: ""
 			}
 
 			SkywareTombstoneItem: {
-				DisplayName: Skyware Tombstone
+				DisplayName: Заоблачная надгробная плита
 				Tooltip: ""
 			}
 
 			SkywareCrossGraveMarkerItem: {
-				DisplayName: Skyware Cross Grave Marker
+				DisplayName: Заоблачный могильный крест
 				Tooltip: ""
 			}
 
 			SkywareHeadstoneItem: {
-				DisplayName: Skyware Headstone
+				DisplayName: Заоблачное надгробие
 				Tooltip: ""
 			}
 
 			SkywareGraveMarkerItem: {
-				DisplayName: Skyware Grave Marker
+				DisplayName: Заоблачная могильная табличка
 				Tooltip: ""
 			}
 
 			LatticeFenceItem: {
-				DisplayName: Lattice Fence
+				DisplayName: Решётчатый забор
 				Tooltip: ""
 			}
 
 			LatticeFenceTatteredItem: {
-				DisplayName: Tattered Lattice Fence
+				DisplayName: Оборванный решётчатый забор
 				Tooltip: ""
 			}
 
 			CrabulonMusicBoxItem: {
-				DisplayName: Music Box (Mycelium Marionette)
+				DisplayName: Музыкальная шкатулка (Mycelium Marionette)
 				Tooltip: ""
 			}
 
 			DesertScourgeMusicBoxItem: {
-				DisplayName: Music Box (The Dessicated Husk)
+				DisplayName: Музыкальная шкатулка (The Dessicated Husk)
 				Tooltip: ""
 			}
 
 			SealedChamberMusicBoxItem: {
-				DisplayName: Music Box (Sealed Chamber)
+				DisplayName: Музыкальная шкатулка (Sealed Chamber)
 				Tooltip: ""
 			}
 
 			SirNautilusMusicBoxItem: {
-				DisplayName: Music Box (Beating A Dead Horseman)
+				DisplayName: Музыкальная шкатулка (Beating A Dead Horseman)
 				Tooltip: ""
 			}
 
 			TitleThemeMusicBoxItem: {
-				DisplayName: Music Box (Main Menu)
+				DisplayName: Музыкальная шкатулка (Главное меню)
 				Tooltip: ""
 			}
 
 			FrostSaplingItem: {
-				DisplayName: Everfrost Pine Sapling
+				DisplayName: Саженец вечномёрзлой сосны
 				Tooltip: ""
 			}
 
 			InkySaplingItem: {
-				DisplayName: Paleblot Bane Mushroom
+				DisplayName: Гибельный бледнопятнистый гриб
 				Tooltip: ""
 			}
 
 			MallowSaplingItem: {
-				DisplayName: Crepuscular Mallow Sapling
+				DisplayName: Саженец сумеречной мальвы
 				Tooltip: ""
 			}
 
 			MarrowSaplingItem: {
-				DisplayName: Marrow Willow Sapling
+				DisplayName: Саженец позвоночной ивы
 				Tooltip: ""
 			}
 
 			SpiderSaplingItem: {
-				DisplayName: Spider Palm Sapling
+				DisplayName: Саженец паучей пальмы
 				Tooltip: ""
 			}
 
 			WisteriaSaplingItem: {
-				DisplayName: Arctic Wisteria Sapling
+				DisplayName: Саженец арктической глицинии
 				Tooltip: ""
 			}
 

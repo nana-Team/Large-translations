@@ -1765,238 +1765,238 @@
 			}
 
 			WulfrumAcrobaticsPackPosterItem: {
-				DisplayName: Wulfrum Poster - Acrobatics Pack
+				DisplayName: Вульфрумовый постер «Акробатический набор»
 				Tooltip:
 					'''
-					'You ever tried to use wings in a cave? Awful!
-					For the explorers out there, the Acrobatics Pack™ is the way to go!'
+					«Пльзоваться крыльями в пещерах страшно неудобно?
+					Специально для вас — Акробатический набор™, который всегда поможет в подобной ситуации!»
 					'''
 			}
 
 			WulfrumAntennaItem: {
-				DisplayName: Wulfrum Antenna
+				DisplayName: Вульфрумовая антена
 				Tooltip: ""
 			}
 
 			WulfrumBathtubItem: {
-				DisplayName: Wulfrum Bathtub
+				DisplayName: Вульфрумовая ванна
 				Tooltip: ""
 			}
 
 			WulfrumBedItem: {
-				DisplayName: Wulfrum Bed
+				DisplayName: Вульфрумовая кровать
 				Tooltip: ""
 			}
 
 			WulfrumBulkContainer_FirstSlotEmpty: {
-				DisplayName: Bulk Container Slot
-				Tooltip: You shouldn't be seeing this
+				DisplayName: Ячейка грузового контейнера
+				Tooltip: Вы не должны были это видеть
 			}
 
 			WulfrumBulkContainer_FirstSlotFull: {
-				DisplayName: Bulk Container Slot
-				Tooltip: You shouldn't be seeing this
+				DisplayName: Ячейка грузового контейнера
+				Tooltip: Вы не должны были это видеть
 			}
 
 			WulfrumBulkContainer_FirstSlotUsed: {
-				DisplayName: Bulk Container Slot
-				Tooltip: You shouldn't be seeing this
+				DisplayName: Ячейка грузового контейнера
+				Tooltip: Вы не должны были это видеть
 			}
 
 			WulfrumBulkContainer_SecondSlotEmpty: {
-				DisplayName: Bulk Container Slot
-				Tooltip: You shouldn't be seeing this
+				DisplayName: Ячейка грузового контейнера
+				Tooltip: Вы не должны были это видеть
 			}
 
 			WulfrumBulkContainer_SecondSlotFull: {
-				DisplayName: Bulk Container Slot
-				Tooltip: You shouldn't be seeing this
+				DisplayName: Ячейка грузового контейнера
+				Tooltip: Вы не должны были это видеть
 			}
 
 			WulfrumBulkContainer_SecondSlotUsed: {
-				DisplayName: Bulk Container Slot
-				Tooltip: You shouldn't be seeing this
+				DisplayName: Ячейка грузового контейнера
+				Tooltip: Вы не должны были это видеть
 			}
 
 			WulfrumBulkContainer_ThirdSlotEmpty: {
-				DisplayName: Bulk Container Slot
-				Tooltip: You shouldn't be seeing this
+				DisplayName: Ячейка грузового контейнера
+				Tooltip: Вы не должны были это видеть
 			}
 
 			WulfrumBulkContainer_ThirdSlotFull: {
-				DisplayName: Bulk Container Slot
-				Tooltip: You shouldn't be seeing this
+				DisplayName: Ячейка грузового контейнера
+				Tooltip: Вы не должны были это видеть
 			}
 
 			WulfrumBulkContainer_ThirdSlotUsed: {
-				DisplayName: Bulk Container Slot
-				Tooltip: You shouldn't be seeing this
+				DisplayName: Ячейка грузового контейнера
+				Tooltip: Вы не должны были это видеть
 			}
 
 			WulfrumBulkContainerItem: {
-				DisplayName: Wulfrum Bulk Container
-				Tooltip: A giant storage crate that can store the contents of up to 3 chests
+				DisplayName: Вульфрумовый грузовой контейнер
+				Tooltip: Огромный ящик для хранения, вмеющающий содержимое до трёх сундуков
 			}
 
 			WulfrumBulkDoorItem: {
-				DisplayName: Wulfrum Bulk Door
+				DisplayName: Вульфрумовая грузовая дверь
 				Tooltip: ""
 			}
 
 			WulfrumCandleItem: {
-				DisplayName: Wulfrum Candle
+				DisplayName: Вульфрумовая свеча
 				Tooltip: ""
 			}
 
 			WulfrumCanisterItem: {
-				DisplayName: Wulfrum Canister
+				DisplayName: Вульфрумовая канистра
 				Tooltip: ""
 			}
 
 			WulfrumComplementPlasticItem: {
-				DisplayName: Wulfrum Complement Plastic Block
+				DisplayName: Комплектующий вульфрумовый пластик
 				Tooltip:
 					'''
-					A Wulfrum Plastic variant that merges with more blocks
-					Favored by advanced builders
+					Вариант вульфрумового пластика, имеющий соединения с большим количеством блоков
+					Пользуется популярностью у опытных строителей
 					'''
 			}
 
 			WulfrumComputerItem: {
-				DisplayName: Wulfrum Computer
+				DisplayName: Вульфрумовый компьютер
 				Tooltip: ""
 			}
 
 			WulfrumComputerPosterItem: {
-				DisplayName: Wulfrum Poster - Computer
+				DisplayName: Вульфрумовый постер «Компьютер»
 				Tooltip:
 					'''
-					'One whole terabyte solely dedicated to the Wulfrum Co. merchandise search engine!
-					Comes pre-installed with the latest version of Wulfrum OS DX.'
+					«Содержит целый террабайт оперативной памяти, всецельно использующийся для поисковой системы товара ООО “Вульфрум“!
+					Предоставляется с заранее установленной последней версией “Wulfrum OS DX“»
 					'''
 			}
 
 			WulfrumCrateItem: {
-				DisplayName: Wulfrum Crate
+				DisplayName: Вульфрумовый ящик
 				Tooltip: ""
 			}
 
 			WulfrumDeskItem: {
-				DisplayName: Wulfrum Desk
+				DisplayName: Вульфрумовый рабочий стол
 				Tooltip: ""
 			}
 
 			WulfrumDeskLampItem: {
-				DisplayName: Wulfrum Desk Lamp
+				DisplayName: Вульфрумовая настольная лампа
 				Tooltip: ""
 			}
 
 			WulfrumDiggingTurtlePosterItem: {
-				DisplayName: Wulfrum Poster - Digging Turtle
-				Tooltip: "'The long awaited sequel to the Digging Mole™, their turtle-y nature allows them to last a whopping THREE seconds longer before exploding!'"
+				DisplayName: Вульфрумовый постер «Черепаха-копатель»
+				Tooltip: «Долгожданное продолжение игры Кроты Онлайн™! Благодаря своей черепашости, они продерживаются на ТРИ секунды долше, прежде чем взорваться!»
 			}
 
 			WulfrumDoorItem: {
-				DisplayName: Wulfrum Door
+				DisplayName: Вульфрумовая дверь
 				Tooltip: ""
 			}
 
 			WulfrumElevatorBaseItem: {
-				DisplayName: Wulfrum Elevator Base
-				Tooltip: Connects with elevator rails and elevator stations
+				DisplayName: Вульфрамовое основание лифта
+				Tooltip: Соединяется с лифтовыми путями и лифтовыми станциями
 			}
 
 			WulfrumElevatorHoverIndicatorDown: {
 				DisplayName: ""
-				Tooltip: You shouldn't be seeing this
+				Tooltip: Вы не должны были это видеть
 			}
 
 			WulfrumElevatorHoverIndicatorUp: {
 				DisplayName: ""
-				Tooltip: You shouldn't be seeing this
+				Tooltip: Вы не должны были это видеть
 			}
 
 			WulfrumElevatorRailItem: {
-				DisplayName: Wulfrum Elevator Rail
+				DisplayName: Вольфрумовые лифтовой путь
 				Tooltip: ""
 			}
 
 			WulfrumElevatorStationItem: {
-				DisplayName: Wulfrum Elevator Station
+				DisplayName: Вольфрумовая лифтовая станция
 				Tooltip: ""
 			}
 
 			WulfrumFidgetPosterItem: {
-				DisplayName: Wulfrum Poster - Fidget Toys
-				Tooltip: "'Our incredible fidgets are included with every Wulfrum Co. purchase. Collect all One-Hundred and Fifty-One!'"
+				DisplayName: Вульфрумовый постер «Игрушки-антистресс»
+				Tooltip: «Эти невероятные антистресс-игрушки даются в подарок к каждой покупке у ООО “Вульфрум“! Соверите все 151!»
 			}
 
 			WulfrumForkAntennaItem: {
-				DisplayName: Wulfrum Fork Antenna
+				DisplayName: Вилочная вульфрумовая антена
 				Tooltip: ""
 			}
 
 			WulfrumFridgeItem: {
-				DisplayName: Wulfrum Fridge
+				DisplayName: Вульфрумовый холодильник
 				Tooltip: ""
 			}
 
 			WulfrumGlassItem: {
-				DisplayName: Wulfrum Tinted Glass
+				DisplayName: Вульфрумовое тонированное стекло
 				Tooltip: ""
 			}
 
 			WulfrumGlassWallItem: {
-				DisplayName: Wulfrum Tinted Glass Wall
+				DisplayName: Вулфрумовая тонированная стеклянная стена
 				Tooltip: ""
 			}
 
 			WulfrumGrapplerPosterItem: {
-				DisplayName: Wulfrum Poster - Grappler
-				Tooltip: "'Hang in there!'"
+				DisplayName: Вульфрумовый постер «Зацепщик»
+				Tooltip: «Я возьму это в свои руки!»
 			}
 
 			WulfrumGyratorPosterItem: {
-				DisplayName: Wulfrum Poster - Gyrator
+				DisplayName: Вульфрумовый постер «Вращатель»
 				Tooltip:
 					'''
-					'Old is new! Return to the humble beginnings of Wulfrum Co. with this timeless classic!
-					Comes free with the purchase of any other Wulfrum Co. product.'
+					«Всё новое — это хорошо забытое старое! Погрузитесь в настольгию прошлого с этой незабываемой класикой ООО “Вульфрум“!
+					Выдаётся беспластно за любую покупку в ООО “Вульфрум“»
 					'''
 			}
 
 			WulfrumHatchItem: {
-				DisplayName: Wulfrum Hatch
+				DisplayName: Вульфрумовый люк
 				Tooltip: ""
 			}
 
 			WulfrumHullItem: {
-				DisplayName: Wulfrum Hull Plating
-				Tooltip: "'Not to be confused with Wulfrum Dull Plating!'"
+				DisplayName: Вульфрумовая теплоизоляционная обшивка
+				Tooltip: «Не путать с вульфрумовой изоляционной общивкой!»
 			}
 
 			WulfrumHullWallItem: {
-				DisplayName: Wulfrum Hull Plating Wall
+				DisplayName: Вульфрумовая теплоизоляционная обшивочная стена
 				Tooltip: ""
 			}
 
 			WulfrumLampItem: {
-				DisplayName: Wulfrum Lamp
+				DisplayName: Вульфрумовая напольная лампа
 				Tooltip: ""
 			}
 
 			WulfrumLanternItem: {
-				DisplayName: Wulfrum Lantern
+				DisplayName: Вульфрумовый фонарь
 				Tooltip: ""
 			}
 
 			WulfrumLockerItem: {
-				DisplayName: Wulfrum Storage Locker
+				DisplayName: Вульфрумовый подвестной шкафчик для хранения
 				Tooltip: ""
 			}
 
 			WulfrumMagnetizerPosterItem: {
-				DisplayName: Wulfrum Poster - Magnetizer
+				DisplayName: Вульфрумовый постер «Магнитезер»
 				Tooltip:
 					'''
 					'Due to popular demand, Wulfrum Co.'s own delivery robots have finally hit the shelves!
@@ -2157,7 +2157,7 @@
 
 			BunkerChairRubbleHover: {
 				DisplayName: ""
-				Tooltip: You shouldn't be seeing this
+				Tooltip: Вы не должны были это видеть
 			}
 
 			BunkerWorkshopItem: {
@@ -2234,12 +2234,12 @@
 
 			RustyWulfrumElevatorHoverIndicatorDown: {
 				DisplayName: ""
-				Tooltip: You shouldn't be seeing this
+				Tooltip: Вы не должны были это видеть
 			}
 
 			RustyWulfrumElevatorHoverIndicatorUp: {
 				DisplayName: ""
-				Tooltip: You shouldn't be seeing this
+				Tooltip: Вы не должны были это видеть
 			}
 
 			RustyWulfrumElevatorRailItem: {

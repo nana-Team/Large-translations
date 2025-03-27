@@ -2342,88 +2342,88 @@
 		}
 
 		NPCs: {
-			DeadStormlionLarva.DisplayName: Dead Stormlion Larva
-			DesertScourge.DisplayName: Desert Scourge
-			DesertScourgeHitbox.DisplayName: Desert Scourge
-			Fibsh.DisplayName: Walbert
-			GroundBeef.DisplayName: Rotting Meat
-			ScourgeFlesh.DisplayName: Scourge Meat
-			StormlionLarva.DisplayName: Stormlion Larva
-			Stormlion.DisplayName: Stormlion
-			Crabulon.DisplayName: Crabulon
-			CrabulonSporeBomb.DisplayName: Spore Bud
-			CrabulonThrownSporeBomb.DisplayName: Spore Bud
-			PeekingCrabulon.DisplayName: Crabulon
-			SirNautilus.DisplayName: Sir Nautilus
-			SirNautilusPassive.DisplayName: Sir Nautilus
+			DeadStormlionLarva.DisplayName: Мёртвая личинка муравьиного льва
+			DesertScourge.DisplayName: Пустынный бич
+			DesertScourgeHitbox.DisplayName: Пустынный бич
+			Fibsh.DisplayName: Уолберт
+			GroundBeef.DisplayName: Гниющее мясо
+			ScourgeFlesh.DisplayName: Мясо бича
+			StormlionLarva.DisplayName: Личинка муравьиного льва
+			Stormlion.DisplayName: Муравьиный лев
+			Crabulon.DisplayName: Крабулон
+			CrabulonSporeBomb.DisplayName: Споровый бутон
+			CrabulonThrownSporeBomb.DisplayName: Споровый бутон
+			PeekingCrabulon.DisplayName: Клабулон
+			SirNautilus.DisplayName: Господин Наутилус
+			SirNautilusPassive.DisplayName: Господин Наутилус
 			ASTARCRAWLER.DisplayName: ASTAR CRAWLER
-			Potlet.DisplayName: Potlet
-			GeodeCrawler.DisplayName: Geode Crawler
-			CloudSprite.DisplayName: Cloud Sprite
-			WulfrumGrappler.DisplayName: Wulfrum Grappler
-			WulfrumMagnetizer.DisplayName: Wulfrum Magnetizer
-			WulfrumMortar.DisplayName: Wulfrum Mortar
-			WulfrumNexus.DisplayName: Wulfrum Nexus
-			WulfrumRoller.DisplayName: Wulfrum Roller
-			WulfrumRover.DisplayName: Wulfrum Rover
+			Potlet.DisplayName: Горшочник
+			GeodeCrawler.DisplayName: Жеодный ползун
+			CloudSprite.DisplayName: Облачный дух
+			WulfrumGrappler.DisplayName: Вульфрумовый зацепщик
+			WulfrumMagnetizer.DisplayName: Вульфрумовый магнитезер
+			WulfrumMortar.DisplayName: Вульфрумовый миномётчик
+			WulfrumNexus.DisplayName: Вульфрумовый узел
+			WulfrumRoller.DisplayName: Вульфрумовый каток
+			WulfrumRover.DisplayName: Вульфрумовый скиталец
 			WulfrumElevatorPlatform.DisplayName: ""
 			RustyWulfrumElevatorPlatform.DisplayName: ""
 		}
 
 		Buffs: {
 			CrabulonDOT: {
-				DisplayName: Spored
-				Description: Your lungs are filling with fungus!
+				DisplayName: Покрытый спорами
+				Description: Ваши лёгкие наполняются грибами!
 			}
 
 			BlowpipeAcid: {
-				DisplayName: Acid
-				Description: Defense reduced by 2
+				DisplayName: Кислота
+				Description: Защита снижена на 2 ед.
 			}
 
 			BlowpipeLeech: {
-				DisplayName: Neurotoxin
-				Description: Losing life
+				DisplayName: Нейротоксин
+				Description: Потеря здоровья
 			}
 
 			BlowpipeRegen: {
-				DisplayName: Refreshing Mist
-				Description: Quickly regenerating life
+				DisplayName: Освебающий туман
+				Description: Быстрая регенерация здоровья
 			}
 
 			Overamped: {
-				DisplayName: Over-Amped
-				Description: All the hair on your body is raising
+				DisplayName: Наэлектрезован
+				Description: Каждый волосок на вашем теле встаёт дыбом
 			}
 
 			PlasmaRodFried: {
-				DisplayName: Fried
-				Description: Magnetized by a powerful plasma shock
+				DisplayName: Поджаренный
+				Description: Намагничен мощным плазменным ударом
 			}
 
 			ScourgePoison: {
-				DisplayName: Scourge Poison
-				Description: Extremely fast damage to internal organs
+				DisplayName: Бич-отравление
+				Description: Черезвычайно быстрый урон по вашим внутренним органам
 			}
 
 			WulfrumDroidBuff: {
-				DisplayName: Wulfrum Droid
-				Description: The wulfrum droid will protect you
+				DisplayName: Вульфрумовый дроид
+				Description: Вас защищает вульфрумовый дроид
 			}
 
 			CrabSpiritBuff: {
-				DisplayName: Mudcrab Spirit
-				Description: Only supereffective moves will hit this shell
+				DisplayName: Дух грязевого краба
+				Description: Этот панцирь могут пробить только сверхэффекивные удары
 			}
 
 			FungalSurge: {
-				DisplayName: Fungal Surge
-				Description: Major improvements to all stats
+				DisplayName: Грибной прилив сил
+				Description: Значительно увеличивает все характеристики
 			}
 
 			InfestationDOT: {
-				DisplayName: Infested!
-				Description: Shifting tendons shape anatomy
+				DisplayName: Заражён!
+				Description: Смещение сухожилий влияет на вашу анатомию
 			}
 
 			InkyCapGuardianBuff: {

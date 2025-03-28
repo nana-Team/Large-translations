@@ -1474,52 +1474,52 @@ Mods: {
 			}
 
 			BigCrystal: {
-				DisplayName: Big Crystal
+				DisplayName: Большой кристалл
 				Tooltip: ""
 			}
 
 			Colossus: {
-				DisplayName: Colossus
+				DisplayName: Колосс
 				Tooltip:
 					'''
-					Strike with 3 slashes
-					The final slash deals 120%
-					All slashes deal triple damage to healthy foes
+					Наносит 3 удара
+					Последний удар наносит 120% урона
+					Все удары наносят тройной урон врагам с большим количеством здоровья
 					'''
 			}
 
 			EchoDisk: {
-				DisplayName: Echo Disc
-				Tooltip: Strikes with an additional disc that mirrors the first
+				DisplayName: Эхо диск
+				Tooltip: Удараяет дополнительным диском, копирующим первый
 			}
 
 			Geostorm: {
-				DisplayName: Geostorm
-				Tooltip: Bombards your cursor with crystals
+				DisplayName: Геошторм
+				Tooltip: Бомбардирует курсор кристаллами
 			}
 
 			GraniteProtector: {
-				DisplayName: Granite Protector
-				Tooltip: Reduces damage taken by 6%
+				DisplayName: Гранитный защитник
+				Tooltip: Уменьшает получаемый урон на 6%
 			}
 
 			HarvestersScythe: {
-				DisplayName: Harvester's Scythe
+				DisplayName: Коса жнеца
 				Tooltip:
 					'''
-					Increases critical strike damage by 20%
-					Enemies have a 10% chance to drop double the loot, or 20% when killed by critical strike
+					Увеличивает критический урон на 20%
+					С врагов падеает в 2 раза больше вещей с вероятностью в 10%, а если враг умер от критического улара — 20%
 					'''
 			}
 
 			MarbleDefender: {
-				DisplayName: Marble Defender
-				Tooltip: Launches attackers away from you with javelins
+				DisplayName: Мраморный защитник
+				Tooltip: Отбрасывает атакующих вас копьями
 			}
 
 			SporeSprayer: {
-				DisplayName: Spore Sprayer
-				Tooltip: Fires a burst of Spore Clouds that do 66% damage whenever an arrow is launched
+				DisplayName: Распространитель спор
+				Tooltip: Выпускает разброс споровых облаков, наносящих 66% при запуске стрелы
 			}
 
 			VibrantOre: {
@@ -1609,50 +1609,49 @@ Mods: {
 			}
 
 			DeathSpiral: {
-				DisplayName: Death Spiral
+				DisplayName: Спираль смерти
 				Tooltip:
 					'''
-					Surrounds you with lightning tentacles
-					Has a chance to apply a stacking, permanent bleed to hit enemies for 5 damage per second
+					Окружает вас наэлектризованными тентакями
+					Нанесение удара даёт шанс навсегда наложить складывающееся проклятие, наносящее 5 ед. урона в секунду за уровень
 					'''
 			}
 
 			MidnightPrism: {
-				DisplayName: Midnight Prism
+				DisplayName: Полуночная призма
 				Tooltip:
 					'''
-					Increases armor penetration by 8, critical strike chance by 5%, and max life by 40
-					Release waves of damage periodically that ignore up to 16 defense total
-					Release more waves at lower health
-					Critical strikes unleash Nightmare Arms that do 10% damage and pull enemies together
-					Has a 6 second cooldown
-					Waves disabled when hidden
+					Увеличивает пробивание брони на 8, шанс критического удара на 5% и максимальный запас здоровья на 40
+					Переодически запускает наносящие урон волны, игнорирующие 16 ед. брони
+					Чем ниже здоровье, тем больше волн запускается
+					Критические удары высвобождают Кошмарные Руки, наносящие 10% урона и стягивающие врагов вместе
+					У этой способнисти есть перезарядка в 6 секунд
+					Волны не запускаются, если видимость аксессуара отключена
 					'''
 			}
 
 			TomeOfTheReaper: {
-				DisplayName: Tome of the Reaper
-				Tooltip: Cast three scythes that move towards your cursor
+				DisplayName: Том Жнеца
+				Tooltip: Создаёт 3 косы, двигающиеся в сторону вашего курсора
 			}
 
 			ToothAche: {
-				DisplayName: Tooth Ache
-				Tooltip: Strike with 3 slashes, then toss a spinning blade for 80% damage
+				DisplayName: Зубная боль
+				Tooltip: Наносит 3 удара, а затем бросает вращающийся клинок, наносящий 80% урона
 			}
 
 			Vertebraeker: {
-				DisplayName: Vertebraeker
-				Tooltip: Strike with a flurry of slashes, then toss a spinning blade for 120% damage
+				DisplayName: Крушитель позвонков
+				Tooltip: Наносит шквал ударов, а затем бросает вращающийся клинок, наносящий 120% урона
 			}
 
 			WitchHeart: {
-				DisplayName: Witch's Heart
+				DisplayName: Сердце ведьмы
 				Tooltip:
 					'''
-					Increases critical strike chance by 5%
-					Critical strikes unleash Nightmare Arms that do 10% damage and pull enemies together
-					Has a 6 second cooldown
-					Increases max life by 20
+					Увеличивает шанс критического удара на 5% и максимальный запас здоровья на 20
+					Критические удары высвобождают Кошмарные Руки, наносящие 10% урона и стягивающие врагов вместе
+					У этой способнисти есть перезарядка в 6 секунд
 					'''
 			}
 

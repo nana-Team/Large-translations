@@ -9,7 +9,7 @@ Mods: {
 			BlastDoor: Взрывоустойчивая дверь
 			Dresser: Комод
 			Unbound: "[NONE]"
-			ACZV: Автоматически потребляется, когда пустота падает ниже нуля
+			ACZV: Автоматически используется, когда пустота опускается до нуля
 			SOTSTexturePackName: Secrets of the Shadows Texture Pack
 			Void: "Пустота: "
 			Damage: урона
@@ -20,7 +20,7 @@ Mods: {
 			VoidS: "{0} ед. пустотного {1} и {1} призывателя"
 			VoidSDouble: "{0} пустотного и {1}призываетеля {2}"
 			VoidSPercent: ??? ед. пустотного {0} и {0} призывателя
-			CV: Расходует {0} ед. пустоты
+			CV: Использует {0} ед. пустоты
 			GenSOTSOres: Генерация руд Secrets of the Shadows...
 			GenSOTSGeodes: Создание причудливых жеод...
 			InsigniaNerf: "[SOTS]: Бонусы к продолжительности полёта и мобильности снижены до победы над Люкс"
@@ -1603,9 +1603,9 @@ Mods: {
 
 			AbyssalFury: {
 				# Evil
-				DisplayName: Abyssal Fury
+				DisplayName: Ярость бездны
 				# Evil
-				Tooltip: Summons Shadow Blades from the sky to your cursor
+				Tooltip: Вызывает с неба теневые клинки в сторону вашего курсора
 			}
 
 			DeathSpiral: {
@@ -2097,33 +2097,33 @@ Mods: {
 			}
 
 			DiamondRing: {
-				DisplayName: Light-Bringer's Ring
+				DisplayName: Кольцо Люцифера
 				Tooltip: Increases damage by (defense)%
 			}
 
 			EmeraldRing: {
-				DisplayName: Leviathan's Ring
-				Tooltip: Enemies have a 14.3% chance to drop double the loot
+				DisplayName: Кольцо Левиафана
+				Tooltip: С врагов с 14,3% шансов выпадет удвоенная добыча
 			}
 
 			RubyRing: {
-				DisplayName: Beelzebub's Ring
+				DisplayName: Кольцо Вельзевула
 				Tooltip:
 					'''
-					Killed enemies have a 50% chance to drop additional hearts
-					This chance increases to 100% with critical strikes
-					Collecting hearts lengthens the duration of active buffs
+					При убийстве врага с 50% шансом с него выпадую дополнительные сердца
+					Этот шанс увеличивается до 100% при критических попаданиях
+					Подбор сердец увеличивает длительность активных баффов
 					'''
 			}
 
 			SapphireRing: {
-				DisplayName: Mammon's Ring
-				Tooltip: Generate coins when void is gained
+				DisplayName: Кольцо Мамоны
+				Tooltip: Создаёт монеты при восполнении пустоты
 			}
 
 			TopazRing: {
-				DisplayName: Accuser's Ring
-				Tooltip: Killing enemies grants a random buff for 30 seconds
+				DisplayName: Кольцо Сатаны
+				Tooltip: Убийство врага даст случайный бафф на 30 секунд
 			}
 
 			SOTSRubyGemLock: {
@@ -2348,9 +2348,9 @@ Mods: {
 
 			AcornBag: {
 				# Nature
-				DisplayName: Acorn Bag
+				DisplayName: Мешочек желудей
 				# Nature
-				Tooltip: Summons a squirrel to fight for you
+				Tooltip: Призывает белку сражаться за вас
 			}
 
 			BerryBombs: {
@@ -3091,56 +3091,56 @@ Mods: {
 
 			AbyssalTonic: {
 				# Potions
-				DisplayName: Abyssal Tonic
+				DisplayName: Тоник бездны
 				# Potions
 				Tooltip:
 					'''
-					Randomly receive 2 of the following:
-					Gills for 15 minutes
-					Flipper for 13 minutes
-					Ripple for 11 minutes
-					Calm for 9 minutes
+					Даёт 2 случайных баффа из следующего списка:
+					«{$BuffName.Gills}» на 15 минут
+					«{$BuffName.Flipper}» на 13 минут
+					«{$Mods.SOTS.Buffs.RippleBuff.DisplayName}» на 11 минут
+					«{$BuffName.Calm}«» на 9 минут
 					'''
 			}
 
 			AssassinationPotion: {
-				DisplayName: Assassination Potion
-				Tooltip: Execute enemies below 10% health
+				DisplayName: Зелье аннигиляции
+				Tooltip: Вы будите уничтожать врагов, имеющих менее 10% здоровья
 			}
 
 			BlazingTonic: {
-				DisplayName: Blazing Tonic
+				DisplayName: Пылающий тоник
 				Tooltip:
 					'''
-					Randomly receive 2 of the following:
-					Bluefire for 15 minutes
-					Inferno for 13 minutes
-					Obsidian Skin for 11 minutes
-					Magic Power for 9 minutes
-					'Is this really safe to drink?'
+					Даёт 2 случайных баффа из следующего списка:
+					«{$Mods.SOTS.Buffs.Bluefire.DisplayName}» на 15 минут
+					«{$BuffName.Inferno}» на 13 минут
+					«{$BuffName.ObsidianSkin}» на 11 минут
+					«{$BuffName.MagicPower}» на 9 минут
+					«Это вообще безопасно пить?»
 					'''
 			}
 
 			BlightfulTonic: {
-				DisplayName: Blightful Tonic
+				DisplayName: Губительный тоник
 				Tooltip:
 					'''
-					Randomly receive 2 of the following:
-					Ironskin for 15 minutes
-					Good Vibes for 13 minutes
-					Swiftness for 11 minutes
-					Regeneration for 9 minutes
+					Даёт 2 случайных баффа из следующего списка:
+					«{$BuffName.Ironskin}» на 15 минут
+					«{$Mods.SOTS.Buffs.GoodVibes.DisplayName}» на 13 минут
+					«{$BuffName.Swiftness}» на 11 минут
+					«{$BuffName.Regeneration}» на 9 минут
 					'''
 			}
 
 			BluefirePotion: {
-				DisplayName: Bluefire Potion
-				Tooltip: Killed enemies explode into flames for 40% of the damage dealt to them on the killing blow
+				DisplayName: Зелье голубого пламени
+				Tooltip: Убитые враги взорвуться огнём голубого пламени, наносящем 40% урона удара, убившего врага
 			}
 
 			BrittlePotion: {
-				DisplayName: Brittle Potion
-				Tooltip: Getting hit surrounds you with ice shards
+				DisplayName: Зелье хрупкости
+				Tooltip: При получении урона вас оружал ледяные осколки
 			}
 
 			DoubleVisionPotion: {
@@ -3153,14 +3153,14 @@ Mods: {
 			}
 
 			EtherealTonic: {
-				DisplayName: Ethereal Tonic
+				DisplayName: Эфирный тоник
 				Tooltip:
 					'''
-					Receive the following:
-					Harmony for 15 minutes
-					Lifeforce for 13 minutes
-					Regeneration for 11 minutes
-					Magic Power for 9 minutes
+					Даёт 2 случайных баффа из следующего списка:
+					«{$Mods.SOTS.Buffs.Harmony.DisplayName}» на 15 минут
+					«{$BuffName.Lifeforce}» на 13 минут
+					«{$BuffName.Regeneration}» на 11 минут
+					«{$BuffName.MagicPower}» на 9 минут
 					'''
 			}
 
@@ -4010,17 +4010,22 @@ Mods: {
 
 			AncientSteelGreatHamaxe: {
 				# Tools
-				DisplayName: Ancient Steel Great Hamaxe
+				DisplayName: Большой молотопор из древней стали
 				# Tools
-				Tooltip: Critical strikes deal 50% more damage and may also apply a stacking, permanent bleed for 5 damage per second
+				Tooltip:
+					'''
+					Критические удары наносят на 50% больше урона
+					Также может наложить на цель складывающийся дебафф кровотечения, наносящей 5 ед. урона в секунду
+					'''
 			}
 
 			AncientSteelGreatPickaxe: {
-				DisplayName: Ancient Steel Great Pickaxe
+				DisplayName: Большая кирка из древней стали
 				Tooltip:
 					'''
-					Able to mine Meteorite
-					Critical strikes deal 50% more damage and may also apply a stacking, permanent bleed for 5 damage per second
+					Может добывать метеорит
+					Критические удары наносят на 50% больше урона
+					Также может наложить на цель складывающийся дебафф кровотечения, наносящей 5 ед. урона в секунду
 					'''
 			}
 
@@ -4134,39 +4139,39 @@ Mods: {
 			}
 
 			AlmondMilk: {
-				DisplayName: Almond Milk
-				Tooltip: Refills 20 void
+				DisplayName: Миндальное молоко
+				Tooltip: Восполняет 20 ед. пустоты
 			}
 
 			CoconutMilk: {
-				DisplayName: Coconut Milk
-				Tooltip: Refills 30 void
+				DisplayName: Кокосовое молоко
+				Tooltip: Восполняет 30 ед. пустоты
 			}
 
 			CookedMushroom: {
-				DisplayName: Cooked Mushroom
+				DisplayName: Приготовленный гриб
 				Tooltip:
 					'''
-					Refills 13 void
-					Causes temporary poison
+					Восполняет 13 ед. пустоты
+					Вызывает временное отравление
 					'''
 			}
 
 			DigitalCornSyrup: {
-				DisplayName: Digital Corn Syrup
+				DisplayName: Цифровой кукурузный сироп
 				Tooltip:
 					'''
-					Refills 15 void
-					'Yes, really'
+					Восполняет 15 ед. пустоты
+					«Да, мы серьёзно»
 					'''
 			}
 
 			Chocolate: {
-				DisplayName: Chocolate
+				DisplayName: Шоколад
 				Tooltip:
 					'''
-					Refills 15 void
-					'The number one thing to bring on pirating adventures'
+					Восполняет 15 ед. пустоты
+					«Главная вещь, которую нужно взять с собой в пиратское приключение»
 					'''
 			}
 
@@ -4181,8 +4186,8 @@ Mods: {
 			}
 
 			FoulConcoction: {
-				DisplayName: Foul Concoction
-				Tooltip: Refills 4 void
+				DisplayName: Мерзкое варево
+				Tooltip: Восполняет 4 ед. пустоты
 			}
 
 			StrawberryIcecream: {
@@ -4844,37 +4849,37 @@ Mods: {
 			}
 
 			AmberChest: {
-				DisplayName: Amber Chest
+				DisplayName: Янтарный сундук
 				Tooltip: ""
 			}
 
 			AmethystChest: {
-				DisplayName: Amethyst Chest
+				DisplayName: Аметистовый сундук
 				Tooltip: ""
 			}
 
 			DiamondChest: {
-				DisplayName: Diamond Chest
+				DisplayName: Алмазный сундук
 				Tooltip: ""
 			}
 
 			EmeraldChest: {
-				DisplayName: Emerald Chest
+				DisplayName: Изумрудный сундук
 				Tooltip: ""
 			}
 
 			RubyChest: {
-				DisplayName: Ruby Chest
+				DisplayName: Рубиновый сундук
 				Tooltip: ""
 			}
 
 			SapphireChest: {
-				DisplayName: Sapphire Chest
+				DisplayName: Сапфировый сундук
 				Tooltip: ""
 			}
 
 			TopazChest: {
-				DisplayName: Topaz Chest
+				DisplayName: Топазовый сундук
 				Tooltip: ""
 			}
 

@@ -103,7 +103,7 @@ FleshWhipDefense2: {
 
 FlowerArmorCooldown: {
 	DisplayName: Перезардка распыления
-	Description: Вы временно не можете вызвать пыльцу
+	Description: Вы не можете вызвать пыльцу
 }
 
 FlyCooldown: {
@@ -118,12 +118,12 @@ GourdDecay: {
 
 PandoraCrossCooldown: {
 	DisplayName: Перезарядка баса креста
-	Description: Вы временно не можете активировать способность креста
+	Description: Вы не можете активировать способность креста
 }
 
 PandoraHandCooldown: {
 	DisplayName: Перезарядка летающих рук розария
-	Description: Летающие руки розария временно не могут появится
+	Description: Летающие руки розария не могут появится
 }
 
 Possessed: {

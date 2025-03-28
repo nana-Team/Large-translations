@@ -1,11 +1,11 @@
 BustlingGlowshroomHeal: {
 	DisplayName: Регенерация светящихся грибов
-	Description: Скороть регенерации вашего здоровья значительно увеличена
+	Description: Скороть регенерации здоровья значительно увеличена
 }
 
 DaffodilHairpinCooldown: {
 	DisplayName: Перезарядка кольца из лепестков
-	Description: Вашему кольцу из лепестков нужно время, чтобы отрасти
+	Description: Кольцу из лепестков нужно время, чтобы отрасти
 }
 
 EmbryoRevival: {
@@ -29,7 +29,7 @@ SkullFrenzyBuff: {
 
 SnottySchnozCooldown: {
 	DisplayName: Перезарядка сопливого носища
-	Description: Ваше соплебезумие перезаряжается
+	Description: Соплебезумие перезаряжается
 }
 
 BouncerDeathmark: {
@@ -83,7 +83,7 @@ HallucinationDebuff3: {
 
 HallucinationDebuff4: {
 	DisplayName: Плоть
-	Description: Ты ощущаешь свою бесполезность
+	Description: Вы ощущаете свою бесполезность
 }
 
 FleshWhipCooldown: {
@@ -93,12 +93,12 @@ FleshWhipCooldown: {
 
 FleshWhipDefense: {
 	DisplayName: Беззащитный
-	Description: Глазной хлестатель снизил вашу защиту
+	Description: Защита снижена
 }
 
 FleshWhipDefense2: {
 	DisplayName: Беззащитный
-	Description: Глазной хлестатель снизил вашу защиту
+	Description: Защита снижена
 }
 
 FlowerArmorCooldown: {
@@ -198,7 +198,7 @@ SoulSkullBuff: {
 
 SkullTotemBuff: {
 	DisplayName: Усиление черепного идола
-	Description: Увеличение урона призывателя, дальности хлыста, а также 2 дополнительных слота для миньонов
+	Description: Увеличение урона призывателя и дальности хлыста, а также 2 дополнительных слота миньонов
 }
 
 TortumorMinionBuff: {
@@ -268,7 +268,7 @@ RotGourdPetBuff: {
 
 ShroomHopperBuff: {
 	DisplayName: Грибной попрыгунчик
-	Description: Ему нравятся твои споры
+	Description: Ему нравятся ваши споры
 }
 
 SkullEmojiBuff: {
@@ -313,7 +313,7 @@ MonumentMythosCooldown: {
 
 MonumentMythosShatter: {
 	DisplayName: Сдерживание Свободы разбито
-	Description: Вы получаете в 2 раза больше урона от всех источников
+	Description: Получаемый урон от всех источников увеличен вдвое
 }
 
 InchwormBuff: {
@@ -376,7 +376,7 @@ BeeDamageBuff: {
 }
 
 BeeHealingBuff: {
-	DisplayName: опылительное лечение
+	DisplayName: Опылительное лечение
 	Description: ""
 }
 
@@ -392,7 +392,7 @@ BlueberryFrost: {
 
 StrawberryBoostBuff: {
 	DisplayName: Клубничное усиление
-	Description: Урон, шанс критического удара и отбрасывание увеличены
+	Description: Урон, шанс критического удара и сила отбрасывания увеличены
 }
 
 LeechBuff: {
@@ -406,7 +406,7 @@ ToothyDebuff: {
 }
 
 SentientKeybrandDebuff: {
-	DisplayName: Дебафф молярного мучителя
+	DisplayName: Дебафф «Молярного мучителя«
 	Description: ""
 }
 
@@ -456,12 +456,12 @@ NoseBlessingBuff: {
 }
 
 GhostBanditDefense: {
-	DisplayName: Священный щит СирентияBlueford's Holy Shield
+	DisplayName: Священный щит Сиренти
 	Description: Защита увеличена на 15 ед.
 }
 
 GlassEyeDebuff: {
-	DisplayName: Дебафф глазного хлестателя
+	DisplayName: Дебафф «Глазного хлестателя«
 	Description: ""
 }
 

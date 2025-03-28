@@ -17,51 +17,51 @@ Apotheosis: {
 	# Try to keep the following lines around the same length, if possible
 	
 	Greeting: {
-		0: Remember to breathe,
-		1: keep the plants thriving,
-		2: and return to me once you've slain the great eye.
-		3: May we find each other in good spirits soon.
+		0: Вдохни... выдохни...
+		1: Почувствую цветение растений,
+		2: и возвращайся ко мне, когда победишь великое око.
+		3: Да пребудет с нами благодать и покой.
 	}
 
 	Idle: {
 		Normal: {
-			0: I'm particularly proud of those bouncy sprouts.
-			1: We seek to harbor arbour; has it worked?
-			2: Where's my quill - hm?
-			3: '''"I", "we"; it's all the same.'''
-			4: I've nothing more to add.
-			5: Go out and smell the flowers.
-			6: Run along, now.
-			7: Have you seen a snake around here?
-			8: I remember the smell of the flowers, still.
-			9: Snails are underappreciated creatures.
-			10: The world is your garden, my friend.
-			11: No need to dawdle.
-			12: Place a pile of gold upon our grass for a surprise...
-			13: Sometimes, I recall the setting sun...
-			14: Within this world, we hope you are a blessing...
-			15: Exploration fills the soul.
-			16: Focus on the water flowing, the flowers glowing...
-			17: Cherish what you have, child.
-			18: We've grown together, haven't we?
-			19: Am...am I a good gardener?
-			20: Speak with us at a later time.
-			21: Would you enjoy more flowers? Hmm...
-			22: Do you know of any volcanoes?
-			23: Like a terrarium, I observe. Lovely, beautiful.
-			24: Share beauty with all.
-			25: I miss seeing the bees up close.
-			26: I see you walk here. Do you enjoy it?
-			27: Dance when you can, child. Dance with the flowers.
-			28: I've only so little more to say, I'm afraid.
-			29: Let nothing stop you. It's not stopped us, or me.
+			0: Я особенно горжусь этими прыгучими ростками.
+			1: Мы стремились дать приют деревьям, получилось ли?
+			2: Куда же подевалось моё перо...
+			3: «Я», «Мы»  - суть едина.
+			4: Мне более нечего изречь.
+			5: Иди же, вдохни ароматы цветов.
+			6: Ступай же, друг мой...
+			7: Не встречалась ли тебе ранее змея?
+			8: До сей поры помню я ароматы цветения.
+			9: Улитки - творения недооценённые.
+			10: Весь мир - сад твой, дружище.
+			11: Не стоит медлить.
+			12: Возложи злато на траву нашу - и узришь чудо...
+			13: Временами вспоминаю я закаты...
+			14: Да будешь ты благословением в мире сем...
+			15: Странствия наполняют дух.
+			16: Внемли потоку вод и сверканию цветов...
+			17: Цени то, что у тебя есть, дитя мое.
+			18: Мы выросли вместе, не так ли?
+			19: И вправду ли я хороший садовник?
+			20: Поговорим позже, коли время будет.
+			21: Желаешь ли больше цветов? Хмм...
+			22: Ведаешь ли ты о геенне огненной?
+			23: Как у террариума, я созерцаю. Прекрасный вид.
+			24: Неси красоту повсюду.
+			25: Тоскую по тому, как созерцал пчёл вблизи.
+			26: Чувствую твое шевствие, доволен ли ты?
+			27: Танцуй, дитя моё, пляши с цветами.
+			28: Боюсь, мне почти нечего больше сказать.
+			29: Да не будет преград на пути твоём, ибо их не было и на нашем.
 		}
 
 		EvilBoss: {
-			0: May grace befall you.
-			1: The {0} is no more.
-			2: A presence lifted from the infestation...
-			3: A lost sky is clearer now.
+			0: Да снизойдет на тебя благодать.
+			1: {0} изгнан из нашего мира.
+			2: Его присутствие исчезло из заражения...
+			3: Небеса стали немного светлее.
 		}
 
 		Thoughts: {

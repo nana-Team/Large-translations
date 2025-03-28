@@ -1,6 +1,0 @@
-Mods.Clamity..hjson
-Mods.Clamity.Items..hjson
-Mods.Clamity.Items.Weapons..hjson
-
-
-Mods.Clamity.Items.Tools.hjson

@@ -2742,12 +2742,12 @@ CatacombBrick2Item: {
 }
 
 CatacombBrickWall1Item: {
-	DisplayName: Стена из серого кирпича Катакомб
+	DisplayName: Серая кирпичная стена Катакомб
 	Tooltip: ""
 }
 
 CatacombBrickWall2Item: {
-	DisplayName: Стена из серого кирпича Катакомб
+	DisplayName: Коричневая кирпичная стена Катакомб
 	Tooltip: ""
 }
 
@@ -3082,42 +3082,42 @@ NoseTempleFancyBrickRedItem: {
 }
 
 NoseTempleFancyWallGreenItem: {
-	DisplayName: Стена из зелёной оккультной плиты
+	DisplayName: Зелёная оккультная плиточная стена
 	Tooltip: ""
 }
 
 NoseTempleFancyWallPurpleItem: {
-	DisplayName: Стена из фиолетовой оккультной плиты
+	DisplayName: Фиолетовая оккультная плиточная стена
 	Tooltip: ""
 }
 
 NoseTempleFancyWallGrayItem: {
-	DisplayName: Стена из серой оккультной плиты
+	DisplayName: Серая оккультная плиточная стена
 	Tooltip: ""
 }
 
 NoseTempleFancyWallRedItem: {
-	DisplayName: Стена из красной оккультной плиты
+	DisplayName: Красная оккультная плиточная стена
 	Tooltip: ""
 }
 
 NoseTempleWallGreenItem: {
-	DisplayName: Стена из зелёного оккультного кирпича
+	DisplayName: Зелёная оккультная кирпичная стена
 	Tooltip: ""
 }
 
 NoseTempleWallPurpleItem: {
-	DisplayName: Стена из фиолетового оккультного кирпича
+	DisplayName: Фиолетовая оккультная кирпичная стена
 	Tooltip: ""
 }
 
 NoseTempleWallGrayItem: {
-	DisplayName: Стена из серого оккультного кирпича
+	DisplayName: Серая оккультная кирпичная стена
 	Tooltip: ""
 }
 
 NoseTempleWallRedItem: {
-	DisplayName: Стена из красного оккультного кирпича
+	DisplayName: Красная оккультная кирпичная стена
 	Tooltip: ""
 }
 
@@ -3344,7 +3344,7 @@ GourdBlockGreenPlatformItem: {
 }
 
 GourdBlockGreenWallItem: {
-	DisplayName: Стена из зелёной тыквы
+	DisplayName: Зелёная тыквенная стена
 	Tooltip: ""
 }
 
@@ -3359,7 +3359,7 @@ GourdBlockLimePlatformItem: {
 }
 
 GourdBlockLimeWallItem: {
-	DisplayName: Стена из салатовой тыквы
+	DisplayName: Салатовая тыквенная стена
 	Tooltip: ""
 }
 
@@ -3374,7 +3374,7 @@ GourdBlockLimeOrangePlatformItem: {
 }
 
 GourdBlockLimeOrangeWallItem: {
-	DisplayName: Стена из салатово-оранжевой тыквы
+	DisplayName: Салатово-оранжевая тыквенная стена
 	Tooltip: ""
 }
 
@@ -3389,7 +3389,7 @@ GourdBlockOrangePlatformItem: {
 }
 
 GourdBlockOrangeWallItem: {
-	DisplayName: Стена из оранжевой тыквы
+	DisplayName: Оранжевая тыквенная стена
 	Tooltip: ""
 }
 
@@ -3404,7 +3404,7 @@ GourdBlockRedPlatformItem: {
 }
 
 GourdBlockRedWallItem: {
-	DisplayName: Стена из красной тыквы
+	DisplayName: Красная тыквенная стена
 	Tooltip: ""
 }
 
@@ -3419,7 +3419,7 @@ GourdBlockWhitePlatformItem: {
 }
 
 GourdBlockWhiteWallItem: {
-	DisplayName: Стена из белой тыквы
+	DisplayName: Белая тыквенная стена
 	Tooltip: ""
 }
 
@@ -3434,7 +3434,7 @@ GourdBlockYellowGreenPlatformItem: {
 }
 
 GourdBlockYellowGreenWallItem: {
-	DisplayName: Стена из жёлто-зелёной тыквы
+	DisplayName: Жёлто-зелёная тыквенная стена
 	Tooltip: ""
 }
 
@@ -3449,7 +3449,7 @@ GourdBlockYellowPlatformItem: {
 }
 
 GourdBlockYellowWallItem: {
-	DisplayName: Стена из жёлтой тыквы
+	DisplayName: Жёлтая тыквенная стена
 	Tooltip: ""
 }
 
@@ -3569,7 +3569,7 @@ SpookyStoneItem: {
 }
 
 SpookyStoneWallItem: {
-	DisplayName: Стена из замшелого камня
+	DisplayName: Замшелая каменная стена
 	Tooltip: ""
 }
 
@@ -3579,7 +3579,7 @@ SpookyStoneBricksItem: {
 }
 
 SpookyStoneBricksWallItem: {
-	DisplayName: Стена из замшелого камнного кирпича
+	DisplayName: Замшелая каменная кирпичная стена
 	Tooltip: ""
 }
 

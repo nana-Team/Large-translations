@@ -1,6 +1,6 @@
 Melee: {
-	ClamitasCrusherProjectile.DisplayName: Дробитель Каламидии
-	SearedShredderProjectile.DisplayName: Обожжённый измельчитель
+	ClamitasCrusherProjectile.DisplayName: Каламидиевый крушитель
+	SearedShredderProjectile.DisplayName: Выжженный измельчитель
 	RGBMurasamaProjectile.DisplayName: RGB Мурасама
 	DiseaseProjectile.DisplayName: Заболевание
 	WulfrumLeechDaggerProjectile.DisplayName: Вульфрумовый кинжал-пиявка
@@ -32,7 +32,7 @@ Magic: {
 
 Summon: {
 	Minion: {
-		HellstoneShellfishStaffMinion.DisplayName: Моллюск из адского камня
+		HellstoneShellfishStaffMinion.DisplayName: Литой моллюск
 		HellsBellsSummon.DisplayName: Колокол Ада
 		PlanterrorStaffSummon.DisplayName: Гантера
 	}

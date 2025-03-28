@@ -1,5 +1,5 @@
 ClamitasBoss: {
-	DisplayName: Каламидия, Высшая мидия
+	DisplayName: Каламидия, Высшый моллюск
 	Bestiary: Будучи проклятым самой Каламитас, гигансткий моллюск впитал в себя силу серы. Когда в нём не осталось ни капли силы океана, он превратился в Каламидию, силе которой никто не смеет противостоять.
 
 	BossChecklistIntegration: {
@@ -30,8 +30,8 @@ WallOfBronze: {
 	Bestiary: Древняя машина, хранитель более могущественной духов, чем духи после Стены из плоти. Одна из духов могут заморозить такое жаркое место, как преисподня
 
 	BossChecklistIntegration: {
-		// SpawnInfo: Right Click on a placed [i:Clamity/AncientConsole] Ancient Console in the Underworld
-		// DespawnMessage: "[c/FFD700:The titanic machine continues its endless journey through Hell.]"
+		SpawnInfo: Нажмите ПКМ по размещённой в преисподней [i:Clamity/AncientConsole] дневней консоли.
+		DespawnMessage: "[c/FFD700:Титаническая машина прекратила ваше путешествие по преисподней.]"
 	}
 }
 

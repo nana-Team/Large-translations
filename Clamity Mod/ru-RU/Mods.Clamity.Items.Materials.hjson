@@ -1,11 +1,11 @@
 HuskOfCalamity: {
-	DisplayName: Шелуха бедствия
+	DisplayName: Панцирь бедствия
 	Tooltip: Останки адского моллюска
 }
 
 ClamitousPearl: {
-	DisplayName: Пагубная жемчужина
-	Tooltip: "'Это время моллюска!'"
+	DisplayName: Бедственная жемчужина
+	Tooltip: «Время моллюсковать!»
 }
 
 CoreOfFlame: {
@@ -15,7 +15,7 @@ CoreOfFlame: {
 
 EssenceOfFlame: {
 	DisplayName: Эссенция Игниса
-	Tooltip: Эссенция существ из горячих земель
+	Tooltip: Эссенция горящих существ
 }
 
 EnchantedMetal: {

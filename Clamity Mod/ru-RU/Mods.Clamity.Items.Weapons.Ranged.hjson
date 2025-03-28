@@ -1,11 +1,11 @@
 DepthsEchoRifle: {
-	DisplayName: Винтовка глубокого эхо
-	Tooltip: Заменяет мушкетные патроны на самонаводящиеся серные снаряды
+	DisplayName: Винтовка эха глубин
+	Tooltip: Превращает мушкетные пули на самонаводящиеся серные снаряды
 }
 
 Obsidigun: {
-	DisplayName: Обсидипушка
-	Tooltip: Превращает мушкетные пули в быстро движущиеся обсидиановые пули, которые при попадании разлетаются на множество осколков
+	DisplayName: Обсидианопушка
+	Tooltip: Превращает мушкетные пули в быстро движущиеся обсидиановые пули, разлетаются на множество осколков при попадании
 }
 
 RoseBow: {
@@ -18,11 +18,12 @@ RoseBow: {
 }
 
 WitheredBoneBow: {
-	// DisplayName: Withered Bone Bow
+	// DisplayName: Wither Bane
 	/* Tooltip:
 		'''
 		Converts wooden arrow to withered bone bolts
 		Bolts creates a copy behind player on hit up to two times
 		Bolts inflict Withered and has 15 armor penetration
+		'Did I hear someone say taco?'
 		''' */
 }

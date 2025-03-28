@@ -3,7 +3,7 @@ SoulOfPyrogen: {
 	Tooltip:
 		'''
 		Увеличивает разбойный урон и урон ближнего боя на 10%
-		Истинные удары ближнего боя и скрытные удары создают выступающие из-под земли копь
+		Истинные удары ближнего боя и скрытные удары создают вылетающие из-под земли копья
 		'''
 }
 
@@ -115,21 +115,21 @@ SeaShell: {
 }
 
 TheSubcommunity: {
-	// DisplayName: The Subcommunity
-	/* Tooltip:
+	DisplayName: Подсообщество
+	Tooltip:
 		'''
 		[STATS]
-		'The part of The (Calamity) Community.'
-		'Has own specialization.'
-		[c/B00BA5:Thank you to all of my supporters who made this addon a reality!]
-		''' */
-	/* StatsList:
+		«Сердце членов сообщества (((Calamity)))»
+		«У него своя специализация»
+		[c/B00BA5:Спасибо всем вам, тем, кто поддерживал меня и помог воплотить этот мод в жизнь!]
 		'''
-		Increases mining speed by {0}%
-		Increases luck by {1} and fishing power by {2}
-		Increases tile and wall placing speed by {3}% and placing range by {4}
-		Become more powerful as you defeat bosses ({5}% Power)
-		''' */
+	StatsList:
+		'''
+		Увеличивает скорость добычи на {0}%
+		Увеличивает удачу на {1} ед. и навык рыборовной ловли на {2} ед.
+		Увеличивает скорость установки блоков и стен {3}% и её дальность на {4}
+		Усиливается с каждым побеждённым боссом ({5}% силы)
+		'''
 }
 
 MagicDiamond: {

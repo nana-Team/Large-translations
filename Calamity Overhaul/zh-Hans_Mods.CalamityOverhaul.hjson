@@ -819,12 +819,16 @@ Items: {
 
 	ForgedLash: {
 		DisplayName: 锻钢之鞭
-		Tooltip: ""
+		Tooltip: '''"不适合当废铁买"'''
 	}
 
 	CommandersClaw: {
 		DisplayName: 统帅之钳
-		Tooltip: ""
+		Tooltip:
+			'''
+			投掷到敌人身上并钳制它们
+			潜伏攻击会生成数枚毁灭者榴弹
+			'''
 	}
 
 	DraedonsRemote: {
@@ -834,6 +838,7 @@ Items: {
 			召唤EX机械三王
 			只能在夜晚使用
 			'''
+		DontUseByDeath: 当前游戏难度不允许发送信号!
 	}
 
 	CommandersStaffEX: {
@@ -897,25 +902,24 @@ Items: {
 			'''
 			放入燃料进行发电
 			右键物块可以快速放入燃料，Shft右键取出
-			[UEValue]
 			'''
 	}
 
 	ThermalBattery: {
 		DisplayName: 热能电池
-		Tooltip: "[UEValue]"
+		Tooltip: 存储一定的电能
 	}
 
 	WindGrivenGenerator: {
 		DisplayName: 风力发电机
-		Tooltip: "[UEValue]"
+		Tooltip: 随风而动，生产电能
 		UnderstandWindGriven: 需要对风力发电的工作原理有初步的了解
 		UnderstandWindGriven2: 需要在小行星上采掘破旧的风力机来了解它们的制作原理
 	}
 
 	WindGrivenGeneratorMK2: {
 		DisplayName: 风力发电机MK2
-		Tooltip: "[UEValue]"
+		Tooltip: 随风而动，生产电能
 		UnderstandWindGrivenMK2: 需要对风力发电的工作原理有深入的了解
 		UnderstandWindGrivenMK2Remind: 需要挖掘小行星上的巨型风力涡轮机来了解它们的制作原理
 	}
@@ -926,7 +930,6 @@ Items: {
 			'''
 			放入燃料进行发电
 			右键物块可以快速放入燃料，Shft右键取出
-			[UEValue]
 			'''
 	}
 
@@ -959,7 +962,6 @@ Items: {
 			护卫模式会对范围内的所有敌人造成带电减益，如果玩家在范围内，
 			并手持可充能物品，电磁塔将发射电弧为玩家远程充能
 			"工程师请勿靠近"
-			[UEValue]
 			'''
 	}
 
@@ -990,7 +992,6 @@ Items: {
 			'''
 			放置在地上后右键可以启动飞行
 			在空中按住左右键可以调整飞行方向
-			[UEValue]
 			'''
 	}
 
@@ -1001,7 +1002,6 @@ Items: {
 			用于传输电能
 			右键可快速拆除目标位置的管道并回收
 			连接发电机等能量来源，将电能传输至电池或其他用电设备
-			[UEValue]
 			'''
 	}
 
@@ -1012,7 +1012,6 @@ Items: {
 			用于传输电能
 			右键可快速拆除目标位置的管道并回收
 			从电池等储能设备中抽取电能，输送至用电设备
-			[UEValue]
 			'''
 	}
 
@@ -1031,6 +1030,15 @@ Items: {
 			'''
 			消耗能量发射激光，穿透多个敌人
 			"利用率并不高"
+			'''
+	}
+
+	HyperionBarrageEX: {
+		DisplayName: 海伯利昂自动炮EX
+		Tooltip:
+			'''
+			发射热射巡航弹，击中目标后会分裂成六个子航弹造成二次伤害
+			"物超其用"
 			'''
 	}
 }
@@ -5680,7 +5688,7 @@ RemakeItems: {
 	ModifyMythrilHood.UpdateArmorText: 在换弹过程中如果受到伤害将生成大量秘银火花
 	ModifyCobaltMask.UpdateArmorText: 在换弹过程中提高15%移动速度
 	ModifyOrichalcumHelmet.UpdateArmorText: 在换弹过程中如果受到伤害会四散溅射出大量花瓣
-	ModifyPalladiumHelmet.UpdateArmorText: 在换弹过程中如果会更快的恢复生命
+	ModifyPalladiumHelmet.UpdateArmorText: 在换弹过程中会更快的恢复生命
 	ModifyChlorophyteHelmet.UpdateArmorText: 在换弹过程中将生成滞留的孢子云
 
 	ModifyChargingStationItem: {
@@ -5692,7 +5700,6 @@ RemakeItems: {
 			也可以连接管道进行电力输送
 			手持需要充能的物品右键物块可以快捷放入
 			Shft右键可以拿出物品
-			[UEValue]
 			'''
 	}
 
@@ -5702,7 +5709,6 @@ RemakeItems: {
 			'''
 			用闪电般快速的激光轰击附近敌怪
 			需要电量才能运行
-			[UEValue]
 			'''
 	}
 
@@ -5712,7 +5718,6 @@ RemakeItems: {
 			'''
 			向附近敌怪发射激光
 			需要电量才能运行
-			[UEValue]
 			'''
 	}
 
@@ -5722,7 +5727,6 @@ RemakeItems: {
 			'''
 			向附近敌怪投掷易碎的冰雾炸弹
 			需要电量才能运行
-			[UEValue]
 			'''
 	}
 
@@ -5732,7 +5736,6 @@ RemakeItems: {
 			'''
 			以霰弹枪的方式向附近的敌怪发射子弹
 			需要电量才能运行
-			[UEValue]
 			'''
 	}
 
@@ -5742,7 +5745,6 @@ RemakeItems: {
 			'''
 			向附近的敌怪发射追踪瘟疫导弹
 			需要电量才能运行
-			[UEValue]
 			'''
 	}
 
@@ -5752,7 +5754,6 @@ RemakeItems: {
 			'''
 			向附近的敌怪喷射高速水流
 			需要电量才能运行
-			[UEValue]
 			'''
 	}
 
@@ -5762,7 +5763,6 @@ RemakeItems: {
 			'''
 			用最大功率的喷火器烤熟附近敌怪
 			需要电量才能运行
-			[UEValue]
 			'''
 	}
 

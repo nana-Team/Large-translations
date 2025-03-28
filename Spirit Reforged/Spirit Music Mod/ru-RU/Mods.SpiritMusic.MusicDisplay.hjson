@@ -1,0 +1,65 @@
+ModName: Spirit Music
+Salvati: Salvati
+Sbubby: Sbubby
+By: от
+BySalvati: "{$By} {$Salvati}"
+
+Blizzard: {
+	DisplayName: Shivering Storms (тема метели)
+	Author: "{$BySalvati}"
+}
+
+CorruptNight: {
+	DisplayName: Nightmare Fuel (тема ночного искажения)
+	Author: "{$BySalvati}"
+}
+
+CrimsonNight: {
+	DisplayName: Razor's Edge (тема ночного багрянца)
+	Author: "{$BySalvati}, {$Sbubby}"
+}
+
+DesertNight: {
+	DisplayName: Kempt Dunes (тема ночной пустыни)
+	Author: "{$BySalvati}"
+}
+
+FrostLegion: {
+	DisplayName: Tougher Chill (тема Морозного легиона)
+	Author: "{$BySalvati}"
+}
+
+Granite: {
+	DisplayName: Resounding Stones (тема гранитной пещеры)
+	Author: "{$BySalvati}"
+}
+
+HallowNight: {
+	DisplayName: Wonderous Landscape (тема ночного освящения)
+	Author: "{$BySalvati}"
+}
+
+MarbleBiome: {
+	DisplayName: Regal Tunnel (тема мраморной пещеры)
+	Author: "{$BySalvati}"
+}
+
+Meteor: {
+	DisplayName: Space Rocks! (тема метеорита)
+	Author: "{$BySalvati}"
+}
+
+SnowNight: {
+	DisplayName: Icy Stars (тема ночных снегов)
+	Author: "{$BySalvati}"
+}
+
+SpiderCave: {
+	DisplayName: Xyresic Horrors (тема паучьего гнезда)
+	Author: "{$BySalvati}"
+}
+
+SkeletronPrime: {
+	DisplayName: Thermite Assault (тема Скелетрона Прайма)
+	Author: "{$BySalvati}, {$Sbubby}"
+}

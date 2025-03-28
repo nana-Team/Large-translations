@@ -1,0 +1,127 @@
+Configs: {
+	MusicConfig: {
+		DisplayName: Music Configuration
+
+		Blizzard: {
+			Label: Blizzard
+			Tooltip: Toggles the Blizzard's ("Shivering Storms") music.
+		}
+
+		CorruptNight: {
+			Label: Corrupt Night
+			Tooltip: Toggles the Corrupt Night's ("Nightmare Fuel") music.
+		}
+
+		CrimsonNight: {
+			Label: Crimson Night
+			Tooltip: Toggles the Crimson Night's ("Shivering Storms") music.
+		}
+
+		SnowNight: {
+			Label: Snow Night
+			Tooltip: Toggles the Snow Night's ("Icy Storms") music.
+		}
+
+		HallowNight: {
+			Label: Hallow Night
+			Tooltip: Toggles the Hallow Night ("Wonderous Landscape") music.
+		}
+
+		DesertNight: {
+			Label: Desert Night
+			Tooltip: Toggles the Desert Night ("Kempt Dunes") music.
+		}
+
+		FrostLegion: {
+			Label: Frost Legion
+			Tooltip: Toggles the Frost Legion's ("Tougher Chill") music.
+		}
+
+		Granite: {
+			Label: Granite
+			Tooltip: Toggles the Granite biome's ("Resounding Stones") music.
+		}
+
+		Marble: {
+			Label: Marble
+			Tooltip: Toggles the Marble biome's ("Regal Tunnel") music.
+		}
+
+		Meteor: {
+			Label: Meteor
+			Tooltip: Toggles the Meteorite biome's ("Space Rocks!") music.
+		}
+
+		Spider: {
+			Label: Spider
+			Tooltip: Toggles the Spider Cave's ("Xyresic Horrors") music.
+		}
+
+		SkeletronPrime: {
+			Label: Skeletron Prime
+			Tooltip: ""
+		}
+	}
+}
+
+Items: {
+	BlizzardBoxItem: {
+		DisplayName: Music Box (Blizzard)
+		Tooltip: ""
+	}
+
+	CorruptNightBoxItem: {
+		DisplayName: Music Box (Corrupt Night)
+		Tooltip: ""
+	}
+
+	CrimsonNightBoxItem: {
+		DisplayName: Music Box (Crimson Night)
+		Tooltip: ""
+	}
+
+	DesertNightBoxItem: {
+		DisplayName: Music Box (Desert Night)
+		Tooltip: ""
+	}
+
+	FrostLegionBoxItem: {
+		DisplayName: Music Box (Frost Legion)
+		Tooltip: ""
+	}
+
+	GraniteBoxItem: {
+		DisplayName: Music Box (Granite)
+		Tooltip: ""
+	}
+
+	HallowNightBoxItem: {
+		DisplayName: Music Box (Hallow Night)
+		Tooltip: ""
+	}
+
+	MarbleBoxItem: {
+		DisplayName: Music Box (Marble)
+		Tooltip: ""
+	}
+
+	MeteorBoxItem: {
+		DisplayName: Music Box (Meteor)
+		Tooltip: ""
+	}
+
+	SkeletronPrimeBoxItem: {
+		DisplayName: Music Box (Skeletron Prime)
+		Tooltip: ""
+	}
+
+	SnowNightBoxItem: {
+		DisplayName: Music Box (Snow Night)
+		Tooltip: ""
+	}
+
+	SpiderCaveBoxItem: {
+		DisplayName: Music Box (Spider Cave)
+		Tooltip: ""
+	}
+}

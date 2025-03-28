@@ -1,0 +1,1326 @@
+CommonTooltips: {
+	Backpack:
+		'''
+		Вмещает 4 предмета
+		Перед снятием выньте все предметы
+		'''
+	Shimmerable: "{0} трансмутируется в мерцании"
+}
+
+Kelp: {
+	DisplayName: Ламинария
+	Tooltip: Должна быть посажена под водой
+}
+
+PirateChestItem: {
+	DisplayName: Пиратский сундук
+	Tooltip: ""
+}
+
+PirateKey: {
+	DisplayName: Секретный ключ
+	Tooltip: «Пираты наверняка спрятали где-нибудь сокровища...»
+}
+
+RawFish: {
+	DisplayName: Сырая рыба
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		«Она съедобна... может, лучше сначала её приготовить?»
+		'''
+}
+
+SunkenTreasure: {
+	DisplayName: Затонувшее сокровище
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		«Возможно, внутри всё ещё хранятся сокровища»
+		'''
+}
+
+DriftwoodItem: {
+	DisplayName: Коряга
+	Tooltip: ""
+}
+
+MusselItem: {
+	DisplayName: Мидия
+	Tooltip: ""
+}
+
+CrinoidItem: {
+	DisplayName: Морская лилия
+	Tooltip: ""
+}
+
+PelicanItem: {
+	DisplayName: Пеликан
+	Tooltip: ""
+}
+
+SandPiperItem: {
+	DisplayName: Бекас
+	Tooltip: ""
+}
+
+TinyCrabItem: {
+	DisplayName: Бледный краб
+	Tooltip: ""
+}
+
+TubewormItem: {
+	DisplayName: Трубчатый червь
+	Tooltip: ""
+}
+
+CascadeChestplate: {
+	DisplayName: Нагрудник рифового охотника
+	Tooltip: Снижает входящее отбрасывание на 50%
+}
+
+CascadeHelmet: {
+	DisplayName: Шлем рифового охотника
+	Tooltip: Позволяет дышать под водой
+}
+
+CascadeLeggings: {
+	DisplayName: Поножи рифового охотника
+	Tooltip: Увеличивает скорость передвижения в воде на 15%
+}
+
+JellyfishStaff: {
+	DisplayName: Посох медузы
+	Tooltip: Призывает крошечную медузу сражаться за вас!
+}
+
+Lifesaver: {
+	DisplayName: Спасатель
+	Tooltip:
+		'''
+		Призывает ездовую манту
+		Она не может передвигаться по земле, но зато может быстро вылетать из под воды
+		'''
+}
+
+ClawCannon: {
+	DisplayName: Клешнепушка
+	Tooltip: ""
+}
+
+IridescentScale: {
+	DisplayName: Радужная чешуя
+	Tooltip: «Красиво сверкает под водой»
+}
+
+OceanPendant: {
+	DisplayName: Сокровище глубин
+	Tooltip: Значительно улучшает передвижение под водой
+}
+
+ReefSpear: {
+	DisplayName: Рифовый пронзатель
+	Tooltip: Нажмите ПКМ, чтобы метнуть трезубец, увеличив урон основной атаки
+}
+
+SkullSentry: {
+	DisplayName: Череп плотоядки
+	Tooltip: Призывает череп, заражённый червями-плотоядками, стреляющий красной слизью во врагов
+}
+
+UrchinStaff: {
+	DisplayName: Ежеметатель
+	Tooltip: ""
+}
+
+GarInAJar: {
+	Tooltip: ""
+	DisplayName: Аквариум с панцирной щукой
+}
+
+GarItem: {
+	DisplayName: Панцирная щука
+	Tooltip: ""
+}
+
+SavannaDirtItem: {
+	DisplayName: Сухая земля
+	Tooltip: ""
+}
+
+GoldGarItem: {
+	DisplayName: Золотая панцирная щука
+	Tooltip: ""
+}
+
+Sushi: {
+	DisplayName: Суши
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		Позволяет дышать под водой
+		«Холодные и свежие!»
+		'''
+}
+
+Nigiri: {
+	DisplayName: Нигири
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		Даёт возможность плавать
+		«Точное искусство»
+		'''
+}
+
+HoneySalmon: {
+	DisplayName: Лосось в медовой глазури
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		Ускоряет регенерацию здоровья
+		'''
+}
+
+FishChips: {
+	DisplayName: Рыбные чипсы
+	Tooltip: "{$BuffDescription.WellFed}"
+}
+
+CrystalFish: {
+	DisplayName: Кристальный лосось
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed2}
+		Усиливает магическую силу
+		'''
+}
+
+RawMeat: {
+	DisplayName: Сырое мясо
+	Tooltip: «Оно съедобно... может, лучше сначала её приготовить?»
+}
+
+CookedMeat: {
+	DisplayName: Жареное мясо
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		«Идеальная прожарка»
+		'''
+}
+
+GoldenCaviar: {
+	DisplayName: Золотая икра
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed3}
+		«Вершина гастрономии»
+		'''
+}
+
+GarBannerItem.DisplayName: Знамя панцирной щуки
+
+CoconutMilk: {
+	DisplayName: Кокосовое молоко
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		«Без стакана!»
+		'''
+}
+
+DiverBody: {
+	DisplayName: Древние латы ныряльщика
+	Tooltip: ""
+}
+
+DiverHead: {
+	DisplayName: Древний шлем ныряльщика
+	Tooltip: ""
+}
+
+DiverLegs: {
+	DisplayName: Древние штаны ныряльщика
+	Tooltip: ""
+}
+
+SailorCap: {
+	DisplayName: Бескозырка
+	Tooltip: «Отдать паруса!»
+}
+
+StrippedBambooItem: {
+	DisplayName: Очищенный бамбук
+	Tooltip: ""
+}
+
+BambooBarrelItem: {
+	DisplayName: Бамбуковая бочка
+	Tooltip: ""
+}
+
+BambooBenchItem: {
+	DisplayName: Бамбуковая скамья
+	Tooltip: ""
+}
+
+BambooBirdCageItem: {
+	DisplayName: Бамбуковая клетка
+	Tooltip: Некоторых птиц можно посадить в клетку с помощью ПКМ
+}
+
+BambooPikeItem: {
+	DisplayName: Бамбуковая пика
+	Tooltip: ""
+}
+
+BambooPotItem: {
+	DisplayName: Бамбуковый горшок
+	Tooltip: ""
+}
+
+SteamedMussels: {
+	DisplayName: Паровые мидии
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		«Свежие и нежные»
+		'''
+}
+
+JellyCandle: {
+	DisplayName: Медузная свеча
+	Tooltip: Призывает парящую медузу, приследующую вас
+}
+
+SmallDriftwoodItem: {
+	DisplayName: Маленькая коряга
+	Tooltip: «Выглядит эстетично»
+}
+
+MediumDriftwoodItem: {
+	DisplayName: Средняя коряга
+	Tooltip: «Выглядит эстетично»
+}
+
+LargeDriftwoodItem: {
+	DisplayName: Большая коряга
+	Tooltip: «Выглядит эстетично»
+}
+
+DriftwoodChestplate: {
+	DisplayName: Коряговый нагрудник
+	Tooltip: ""
+}
+
+DriftwoodHelmet: {
+	DisplayName: Коряговый шлем
+	Tooltip: ""
+}
+
+DriftwoodLeggings: {
+	DisplayName: Коряговые поножи
+	Tooltip: ""
+}
+
+DriftwoodPlatformItem: {
+	DisplayName: Коряговая платформа
+	Tooltip: ""
+}
+
+DriftwoodSword: {
+	DisplayName: Коряговый меч
+	Tooltip: ""
+}
+
+DriftwoodWallItem: {
+	DisplayName: Коряговая стена
+	Tooltip: ""
+}
+
+Cloudstalk: {
+	DisplayName: Облакостебель
+	Tooltip: «Встречается на большой высоте»
+}
+
+CloudstalkSeed: {
+	DisplayName: Семя облакостебля
+	Tooltip: ""
+}
+
+DoubleJumpPotion: {
+	DisplayName: Зелье бриза
+	Tooltip: Даёт временный двойной прыжок
+}
+
+FlightPotion: {
+	DisplayName: Зелье взлёта
+	Tooltip: Увеличивает время полёта на 25%
+}
+
+HangingCloudstalkItem: {
+	DisplayName: Свисающий облакостебель
+	Tooltip: ""
+}
+
+FloatingDriftwood: {
+	DisplayName: Плавающая коряга
+	Tooltip: ""
+}
+
+FishCrate: {
+	DisplayName: Упаковочный ящик
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+Ambergris: {
+	DisplayName: Амбра
+	Tooltip:
+		'''
+		Чрезвычайно ценная
+		«Вам лучше не знать её происхождение...»
+		'''
+}
+
+MessageBottle: {
+	DisplayName: Записка в бутилке
+	Tooltip:
+		'''
+		Призывает ездовой плот
+		Навык рыболовной ловли на плоту увеличивается
+		'''
+}
+
+GoldKillifishItem: {
+	DisplayName: Золотая рыба килли
+	Tooltip: ""
+}
+
+KillifishItem: {
+	DisplayName: Рыба килли
+	Tooltip: ""
+}
+
+KillifishBannerItem.DisplayName: Знамя рыбы килли
+
+BambooHalberd: {
+	DisplayName: Бамбуковая алебарда
+	Tooltip: ""
+}
+
+BambooKendoBlade: {
+	DisplayName: Бамбуковый синай
+	Tooltip: Нажмите ПКМ, чтобы совершить рывок вперёд
+}
+
+KoiTotem: {
+	DisplayName: Тотем кои
+	Tooltip:
+		'''
+		Увеличивает навык рыболовной ловли игроков вокруг себя
+		Имеет шанс восстановить последнию использованную наживку
+		'''
+}
+
+FairyWhistle: {
+	DisplayName: Свисток феи
+	Tooltip: Призывает защитную фею, которая парит рядом с вами
+}
+
+TermiteItem: {
+	DisplayName: Термит
+	Tooltip: ""
+}
+
+StarPowder: {
+	DisplayName: Звёздная пыль
+	Tooltip: Бросьте на траву, чтобы наполнить её сиянием звёзд!
+}
+
+TermiteJar: {
+	DisplayName: Банка с термитами
+	Tooltip: «Экологический кошмар»
+}
+
+ButterflyStaff: {
+	DisplayName: Посох неземной бабочки
+	Tooltip:
+		'''
+		Призывает магическую бабочку, сражающуюся за вас
+		«Рождена в порыве весеннего цветения»
+		'''
+}
+
+PoolNoodle: {
+	DisplayName: Палка для плаванья
+	Tooltip:
+		'''
+		3 ед. урона от метки призывателя
+		{$CommonItemTooltip.Whips}
+		Попавшие под удар враги могут взрываться пузырями
+		'''
+}
+
+ToucaneItem: {
+	DisplayName: Туканожезл
+	Tooltip: Призывает разъярённого тукана сражаться за вас
+}
+
+QuenchPotion: {
+	DisplayName: Зелье закалки
+	Tooltip: Увеличивает длительность эффектов остальных зелий на 25%
+}
+
+LivingBaobabLeafWallItem: {
+	DisplayName: Живая стена из листвы баобаба
+	Tooltip: ""
+}
+
+LivingBaobabWallItem: {
+	DisplayName: Живая стена из баобаба
+	Tooltip: ""
+}
+
+LivingBaobabLeafWand: {
+	DisplayName: Жезл живой листвы баобаба
+	Tooltip: ""
+}
+
+LivingBaobabWand: {
+	DisplayName: Жезл живого баобаба
+	Tooltip: ""
+}
+
+WrithingSticks: {
+	DisplayName: Шевелящиеся палки
+	Tooltip: Призывают дружелюбный перекати-поле, который следует за вами
+}
+
+BaobabFruit: {
+	DisplayName: Плод баобаба
+	Tooltip: "{$BuffDescription.WellFed}"
+}
+
+SavannaGrassSeeds: {
+	DisplayName: Семена саванной травы
+	Tooltip: ""
+}
+
+LeatherBackpack: {
+	DisplayName: Кожаный рюкзак
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		'Удобный, практичный и при этом стильный'
+		'''
+}
+
+Caryocar: {
+	DisplayName: Кариокар
+	Tooltip: ""
+}
+
+CustardApple: {
+	DisplayName: Кремовое яблоко
+	Tooltip: ""
+}
+
+BeachUmbrellaItem: {
+	DisplayName: Пляжный зонт
+	Tooltip: ""
+}
+
+BigBuoy: {
+	DisplayName: Большой буй
+	Tooltip: "{$ItemTooltip.CoralTorch}"
+}
+
+SmallBuoy: {
+	DisplayName: Малый буй
+	Tooltip: "{$ItemTooltip.CoralTorch}"
+}
+
+LoungeChairItem: {
+	DisplayName: Шезлонг
+	Tooltip: ""
+}
+
+Omelette: {
+	DisplayName: Омлет
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed2}
+		'Идеально приготовлен'
+		'''
+}
+
+OstrichEgg: {
+	DisplayName: Яйцо страуса
+	Tooltip: "{$BuffDescription.WellFed}"
+}
+
+DrywoodItem: {
+	DisplayName: Сухая древесина
+	Tooltip: ""
+}
+
+DrywoodBow: {
+	DisplayName: Лук из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodBreastplate: {
+	DisplayName: Нагрудник из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodGreaves: {
+	DisplayName: Поножи из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodHammer: {
+	DisplayName: Молот из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodHelmet: {
+	DisplayName: Шлем из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodSword: {
+	DisplayName: Меч из сухой древесины
+	Tooltip: ""
+}
+
+HuntingRifle: {
+	DisplayName: Охотничья винтовка
+	Tooltip: Урон увеличивается при стрельбе с места и по дальним целям
+}
+
+SafariHat: {
+	DisplayName: Сафари-шляпа
+	Tooltip: ""
+}
+
+SafariShorts: {
+	DisplayName: Сафари-шорты
+	Tooltip: ""
+}
+
+SafariVest: {
+	DisplayName: Сафари-жилет
+	Tooltip: ""
+}
+
+SunStaff: {
+	DisplayName: Скипетр рассвета
+	Tooltip: Испускает поток солнечного света
+}
+
+SavannaMusicBoxItem: {
+	DisplayName: Музыкальная шкатулка (Саванна)
+	Tooltip: ""
+}
+
+DrywoodBathtubItem: {
+	DisplayName: Ванна из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodBedItem: {
+	DisplayName: Кровать из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodBookcaseItem: {
+	DisplayName: Книжный шкаф из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodCandelabraItem: {
+	DisplayName: Канделябр из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodCandleItem: {
+	DisplayName: Свеча из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodChairItem: {
+	DisplayName: Стул из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodClockItem: {
+	DisplayName: Часы из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodCouchItem: {
+	DisplayName: Диван из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodDresserItem: {
+	DisplayName: Комод из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodLampItem: {
+	DisplayName: Лампа из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodPianoItem: {
+	DisplayName: Пианино из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodSinkItem: {
+	DisplayName: Раковина из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodTableItem: {
+	DisplayName: Стол из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodToiletItem: {
+	DisplayName: Туалет из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodWorkBenchItem: {
+	DisplayName: Верстак из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodLanternItem: {
+	DisplayName: Фонарь из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodSofaItem: {
+	DisplayName: Софа из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodChestItem: {
+	DisplayName: Сундук из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodDoorItem: {
+	DisplayName: Дверь из сухой древесины
+	Tooltip: ""
+}
+
+DriftwoodBarrelItem: {
+	DisplayName: Бочка из коряги
+	Tooltip: ""
+}
+
+DriftwoodBathtubItem: {
+	DisplayName: Ванна из коряги
+	Tooltip: ""
+}
+
+DriftwoodBedItem: {
+	DisplayName: Кровать из коряги
+	Tooltip: ""
+}
+
+DriftwoodBenchItem: {
+	DisplayName: Скамья из коряги
+	Tooltip: ""
+}
+
+DriftwoodBookcaseItem: {
+	DisplayName: Книжный шкаф из коряги
+	Tooltip: ""
+}
+
+DriftwoodCandelabraItem: {
+	DisplayName: Канделябр из коряги
+	Tooltip: ""
+}
+
+DriftwoodCandleItem: {
+	DisplayName: Свеча из коряги
+	Tooltip: ""
+}
+
+DriftwoodChairItem: {
+	DisplayName: Стул из коряги
+	Tooltip: ""
+}
+
+DriftwoodChandelierItem: {
+	DisplayName: Люстра из коряги
+	Tooltip: ""
+}
+
+DriftwoodClockItem: {
+	DisplayName: Часы из коряги
+	Tooltip: ""
+}
+
+DriftwoodDoorItem: {
+	DisplayName: Дверь из коряги
+	Tooltip: ""
+}
+
+DriftwoodDresserItem: {
+	DisplayName: Комод из коряги
+	Tooltip: ""
+}
+
+DriftwoodLampItem: {
+	DisplayName: Лампа из коряги
+	Tooltip: ""
+}
+
+DriftwoodPianoItem: {
+	DisplayName: Пианино из коряги
+	Tooltip: ""
+}
+
+DriftwoodSinkItem: {
+	DisplayName: Раковина из коряги
+	Tooltip: ""
+}
+
+DriftwoodTableItem: {
+	DisplayName: Стол из коряги
+	Tooltip: ""
+}
+
+DriftwoodToiletItem: {
+	DisplayName: Туалет из коряги
+	Tooltip: ""
+}
+
+DriftwoodWorkBenchItem: {
+	DisplayName: Верстак из коряги
+	Tooltip: ""
+}
+
+HerosMemorialStatueItem: {
+	DisplayName: Памятник героя
+	Tooltip: Живи вечно
+}
+
+DustyFieldsItem: {
+	DisplayName: Пыльные поля
+	Tooltip: "'S. Yaki'"
+}
+
+OrangeSkiesItem: {
+	DisplayName: Оранжевые небеса
+	Tooltip: "'S. Yaki'"
+}
+
+StrongWindsItem: {
+	DisplayName: Сильные ветра
+	Tooltip: "'S. Yaki'"
+}
+
+WaningSunItem: {
+	DisplayName: Угасающее солнце
+	Tooltip: "'E. Sibellius'"
+}
+
+ScarecrowItem: {
+	DisplayName: Пугало
+	Tooltip: ""
+}
+
+BotanistBody: {
+	DisplayName: Фартук ботаника
+	Tooltip: ""
+}
+
+BotanistHat: {
+	DisplayName: Соломенная шляпа с подсолнухом
+	Tooltip: Поднимает настроение
+}
+
+BotanistLegs: {
+	DisplayName: Штаны ботаника
+	Tooltip: Скорость передвижения увеличена на 10%
+}
+
+BeachTowel: {
+	DisplayName: Пляжное полотенце
+	Tooltip: "'Сохраняет сухость, но лучше не прыгать с ним в воду !'"
+}
+
+BikiniBottom: {
+	DisplayName: Низ бикини
+	Tooltip: "'Кому нужна броня, когда можно бегать под солнцем!'"
+}
+
+BikiniTop: {
+	DisplayName: Верх бикини
+	Tooltip: "'Несмотря на ожидания, он не даёт никакой защиты.'"
+}
+
+SwimmingTrunks: {
+	DisplayName: Плавки
+	Tooltip: "'Не защищают, но выглядят стильно.'"
+}
+
+TintedGlasses: {
+	DisplayName: Тонированные очки
+	Tooltip: "'Придают стиль, так что лучше не снимать их даже ночью.'"
+}
+
+WheatgrassSeedPouch: {
+	DisplayName: Мешочек с семенами пырея
+	Tooltip:
+		'''
+		Разбрасывает семена, покрывая траву пыреем
+		'Шуршит и покачивается в руке'
+		'''
+}
+
+RoyalKhopesh: {
+	DisplayName: Королевский хопеш
+	Tooltip: ""
+}
+
+SavannaSandstormMusicBoxItem: {
+	Tooltip: ""
+	DisplayName: Музыкальная шкатулка (Песчаная буря)
+}
+
+FishLure: {
+	DisplayName: Рыболовная приманка
+	Tooltip:
+		'''
+		{$ItemTooltip.CoralTorch}
+		Привлекает стаи рыб в ближайшие водоёмы
+		'''
+}
+
+DrywoodPlatformItem: {
+	DisplayName: Платформа из сухой древесины
+	Tooltip: ""
+}
+
+SavannaDirtWallItem: {
+	DisplayName: Саванная земляная стена
+	Tooltip: ""
+}
+
+GravelItem: {
+	DisplayName: Гравий
+	Tooltip: ""
+}
+
+MagmastoneItem: {
+	DisplayName: Магматический камень
+	Tooltip: ""
+}
+
+SavannaCrateHardmode: {
+	DisplayName: Сафари-ящик
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SavannaCrate: {
+	DisplayName: Саванный ящик
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+MineralSlag: {
+	DisplayName: Минеральный шлак
+	Tooltip: Можно переработать в обогатителе
+}
+
+HyenaBannerItem.DisplayName: Знамя гиены
+OstrichBannerItem.DisplayName: Знамя страуса
+
+SavannaCampfireItem: {
+	DisplayName: Саванный костёр
+	Tooltip: "{$ItemTooltip.Campfire}"
+}
+
+SavannaFountainItem: {
+	DisplayName: Фонтан саванны
+	Tooltip: ""
+}
+
+DrywoodFenceItem: {
+	DisplayName: Ограждение из сухой древесины
+	Tooltip: ""
+}
+
+DrywoodWallItem: {
+	DisplayName: Стена из сухой древесины
+	Tooltip: ""
+}
+
+ZiplineGun: {
+	DisplayName: Рельсовый пистолет
+	Tooltip:
+		'''
+		Создаёт трос в точке прицела для перемещения
+		Для удаления тросса наведитесь на них или нажмите ПКМ
+		'Не путать с рельсотроном'
+		'''
+	AssistantOn: Помощник: Вкл (ПКМ)
+	AssistantOff: Помощник: Выкл (ПКМ)
+}
+
+FrostbiteItem: {
+	DisplayName: Ледяная дрожь
+	Tooltip: Вызывает снежную бурю перед вами
+}
+
+RogueCrest: {
+	DisplayName: Герб разбойника
+	Tooltip:
+		'''
+		Призывает ржавый меч, сражающийся за вас
+		Не занимает слот прислужника
+		Иногда накладывает эффкет "Открытые раны", заставляя врагов истекать кровью при ударе в ближнем бою или хлыстом
+		'''
+}
+
+GildedScarab: {
+	DisplayName: Позолоченный скарабей
+	Tooltip:
+		'''
+		При получении урона временно усиливает защиту
+		Чем больше урон, тем выше бонус к защите
+		'''
+}
+
+SparrowItem: {
+	DisplayName: Воробей
+	Tooltip: ""
+}
+
+Blunderbuss: {
+	DisplayName: Бундербус
+	Tooltip: Стреляет широким веером пуль
+}
+
+SafekeeperRing: {
+	DisplayName: Кольцо хранителя
+	Tooltip:
+		'''
+		Незначительно увеличивает урон по нежити
+		"От него исходит жуткий свет"
+		'''
+}
+
+PeevedTumblerBannerItem.DisplayName: Знамя раздражённого кочевника
+
+LeatherHood: {
+	DisplayName: Капюшон стрелка
+	Tooltip: Увеличивает шанс критического удара на 5%
+}
+
+LeatherLegs: {
+	DisplayName: Сапоги стрелка
+	Tooltip: ""
+}
+
+LeatherPlate: {
+	DisplayName: Нагрудник стрелка
+	Tooltip: ""
+}
+
+ExplorerTreadsItem: {
+	DisplayName: Походные сапоги
+	Tooltip:
+		'''
+		+5% к скорости передвижения за каждые 10% потерянного здоровья  
+		50% шанс избежать ловушек и опасностей  
+		Таким ботинкам даже горы нипочём
+		'''
+}
+
+LeatherCloakItem: {
+	DisplayName: Кожаный плащ
+	Tooltip:
+		'''
+		Дает иммунитет к порывам ветра в песчаных бурях  
+		Увеличивает скорость передвижения на 5% и разгон бега на 15%
+		'''
+}
+
+CactusStaff: {
+	DisplayName: Кактусовый посох
+	Tooltip: Призывает кактусовые стены для защиты
+}
+
+PearlString: {
+	DisplayName: Жемчужное ожерелье
+	Tooltip:
+		'''
+		Поверженные враги оставляют больше монет  
+		"Кажется, удача улыбается тебе"
+		'''
+}
+
+DrywoodChandelierItem: {
+	DisplayName: Люстра из сухой древесины
+	Tooltip: ""
+}
+
+DriftwoodLanternItem: {
+	DisplayName: Фонарь из коряги
+	Tooltip: ""
+}
+
+DriftwoodFenceItem: {
+	DisplayName: Забор из коряги
+	Tooltip: ""
+}
+
+ArcaneNecklaceGold: {
+	DisplayName: Магическое ожерелье
+	Tooltip:
+		'''
+		Увеличивает максимальный запас маны на 20  
+		Попавшие под удар враги иногда роняют звёзды маны
+		'''
+}
+
+ArcaneNecklacePlatinum: {
+	DisplayName: "{$ArcaneNecklaceGold.DisplayName}"
+	Tooltip: "{$ArcaneNecklaceGold.Tooltip}"
+}
+
+PinBlue: {
+	DisplayName: Синий значок
+	Tooltip: ""
+}
+
+PinGreen: {
+	DisplayName: Зелёный значок
+	Tooltip: ""
+}
+
+PinRed: {
+	DisplayName: Красный значок
+	Tooltip: ""
+}
+
+PinYellow: {
+	DisplayName: Жёлтый значок
+	Tooltip: ""
+}
+
+PinHive: {
+	DisplayName: Значок улья
+	Tooltip: ""
+}
+
+PinButterfly: {
+	DisplayName: Значок бабочки
+	Tooltip: ""
+}
+
+PinFaeling: {
+	DisplayName: Значок фелинга
+	Tooltip: ""
+}
+
+PinSavanna: {
+	DisplayName: Значок саванны
+	Tooltip: ""
+}
+
+PinCuriosity: {
+	DisplayName: Значок любопытства
+	Tooltip: ""
+}
+
+PinSky: {
+	DisplayName: Значок неба
+	Tooltip: ""
+}
+
+PinSword: {
+	DisplayName: Значок меча
+	Tooltip: ""
+}
+
+TornMapPiece: {
+	DisplayName: Фрагмент карты
+	Tooltip: Открывает область на карте
+}
+
+FashionableBackpack: {
+	DisplayName: Модный рюкзак
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		"Современно, элегантно и всё ещё практично."
+		'''
+}
+
+HikingBackpack: {
+	DisplayName: Походный рюкзак
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		"Практичный, надёжный и, что главное, удобный"
+		'''
+}
+
+Minipack: {
+	DisplayName: Мини-рюкзак
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		"Минимализм во всём, даже в весе!"
+		'''
+}
+
+PinkPack: {
+	DisplayName: Розовый рюкзак
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		"Самый лучший цвет!"
+		'''
+}
+
+PouchPack: {
+	DisplayName: Походный мешок
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		"Простая, удобная, но не мешало бы застёжку покрепче..."
+		'''
+}
+
+DyeCrateItem: {
+	DisplayName: Ящик с красителями
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		"Пахнет... неожиданно приятно!"
+		'''
+}
+
+SavannaNightMusicBoxItem: {
+	DisplayName: Музыкальная шкатулка (Ночь в саванне)
+	Tooltip: ""
+}
+
+SavannaPylonItem: {
+	DisplayName: Пилон Саванны
+	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+CraneFeather: {
+	DisplayName: Перо журавля
+	Tooltip: Увеличивает манёвренность в воздухе
+}
+
+TatteredMap: {
+	DisplayName: Потрёпанная карта
+	Tooltip: ""
+}
+
+CrescentMelon: {
+	DisplayName: Полумесячная дыня
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		{$ItemTooltip.ManaRegenerationPotion}
+		'''
+}
+
+MidnightApple: {
+	DisplayName: Ночное яблоко
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		{$ItemTooltip.ManaRegenerationPotion}
+		"Искрится, как зёздное небо"
+		'''
+}
+
+NightSky: {
+	DisplayName: Ночное небо
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed2}
+		{$ItemTooltip.ManaRegenerationPotion}
+		"На вкус как сама вселенная"
+		'''
+}
+
+Pearlberry: {
+	DisplayName: Жемчужная ягода
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		{$ItemTooltip.ManaRegenerationPotion}
+		"Сияет и переливается..."
+		'''
+}
+
+DriftwoodBow: {
+	DisplayName: Лук из коряги
+	Tooltip: ""
+}
+
+DriftwoodHammer: {
+	DisplayName: Молот из коряги
+	Tooltip: ""
+}
+
+RemedyPotion: {
+	DisplayName: Противоядное зелье
+	Tooltip:
+		'''
+		Даёт иммунитет к следующим эффектам:
+		[list]
+		'''
+}
+
+CloudstalkBoxItem: {
+	DisplayName: Горшок с облачным стеблем
+	Tooltip: ""
+}
+
+OceanSlimeBannerItem.DisplayName: Баннер кокосового слайма
+
+OceanDepthsBoxItem: {
+	DisplayName: Музыкальная шкатулка (Глубины океана)
+	Tooltip: ""
+}
+
+OstrichPants: {
+	DisplayName: Штаны страуса
+	Tooltip: ""
+}
+
+CampfireSpit: {
+	DisplayName: Шампурный станок
+	Tooltip: Можно установить на костёр
+}
+
+KillieFishbowl: {
+	DisplayName: Аквариум с килли рыбкой
+	Tooltip: "'Может, в следующий раз взять побольше?'"
+}
+
+SparrowCageItem: {
+	DisplayName: Клетка с воробьём
+	Tooltip: ""
+}

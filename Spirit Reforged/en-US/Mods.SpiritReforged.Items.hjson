@@ -1,0 +1,1330 @@
+CommonTooltips: {
+	Backpack:
+		'''
+		Holds 4 items
+		You must empty this before taking it off
+		'''
+	Shimmerable: "{0} Transforms in shimmer"
+}
+
+Kelp: {
+	DisplayName: Kelp
+	Tooltip: Must be planted in water
+}
+
+PirateChestItem: {
+	DisplayName: Pirate Chest
+	Tooltip: ""
+}
+
+PirateKey: {
+	DisplayName: Secret Key
+	Tooltip: "'The pirates must have hidden treasure somewhere...'"
+}
+
+RawFish: {
+	DisplayName: Raw Fish
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		'Can be eaten...maybe cook it first?'
+		'''
+}
+
+SunkenTreasure: {
+	DisplayName: Sunken Treasure
+	Tooltip:
+		'''
+		Right-click to open
+		'Perhaps it is still full of valuable treasure'
+		'''
+}
+
+DriftwoodItem: {
+	DisplayName: Driftwood
+	Tooltip: ""
+}
+
+MusselItem: {
+	DisplayName: Mussel
+	Tooltip: ""
+}
+
+CrinoidItem: {
+	DisplayName: Crinoid
+	Tooltip: ""
+}
+
+PelicanItem: {
+	DisplayName: Pelican
+	Tooltip: ""
+}
+
+SandPiperItem: {
+	DisplayName: Sand Piper
+	Tooltip: ""
+}
+
+TinyCrabItem: {
+	DisplayName: Palecrab
+	Tooltip: ""
+}
+
+TubewormItem: {
+	DisplayName: Tubeworm
+	Tooltip: ""
+}
+
+CascadeChestplate: {
+	DisplayName: Reef Hunter Chestplate
+	Tooltip: 50% knockback resistance
+}
+
+CascadeHelmet: {
+	DisplayName: Reef Hunter Helmet
+	Tooltip: Allows for breathing underwater
+}
+
+CascadeLeggings: {
+	DisplayName: Reef Hunter Greaves
+	Tooltip: 15% increased movement in water
+}
+
+JellyfishStaff: {
+	DisplayName: Jellyfish Staff
+	Tooltip: Summons a tiny jellyfish to fight for you!
+}
+
+Lifesaver: {
+	DisplayName: Lifesaver
+	Tooltip:
+		'''
+		Summons a rideable manta ray mount
+		The manta Ray is incapable of movement on land, but can hover over liquids
+		'''
+}
+
+ClawCannon: {
+	DisplayName: Claw Cannon
+	Tooltip: ""
+}
+
+IridescentScale: {
+	DisplayName: Iridescent Scale
+	Tooltip: "'Glints beautifully under the water'"
+}
+
+OceanPendant: {
+	DisplayName: Merfolk's Treasure
+	Tooltip: Greatly enhanced underwater movement
+}
+
+ReefSpear: {
+	DisplayName: Reef Piercer
+	Tooltip: Right click to throw the trident, increasing damage taken by the main attack
+}
+
+SkullSentry: {
+	DisplayName: Maneater Skull
+	Tooltip: Summons a skull infested by maneater worms that fire red mucus at nearby enemies
+}
+
+UrchinStaff: {
+	DisplayName: Urchin Lobber
+	Tooltip: ""
+}
+
+GarInAJar: {
+	Tooltip: ""
+	DisplayName: Gar in a Jar
+}
+
+GarItem: {
+	DisplayName: Gar
+	Tooltip: ""
+}
+
+SavannaDirtItem: {
+	DisplayName: Coarse Dirt
+	Tooltip: ""
+}
+
+GoldGarItem: {
+	DisplayName: Gold Gar
+	Tooltip: ""
+}
+
+Sushi: {
+	DisplayName: Sushi
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		Provides underwater breathing
+		'Cold and fresh!'
+		'''
+}
+
+Nigiri: {
+	DisplayName: Nigiri
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		Provides free movement in water
+		'The perfect cut'
+		'''
+}
+
+HoneySalmon: {
+	DisplayName: Honey-Glazed Salmon
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		'The perfect mix of sweet and salty!'
+		'''
+}
+
+FishChips: {
+	DisplayName: Fish n' Chips
+	Tooltip: "{$BuffDescription.WellFed}"
+}
+
+CrystalFish: {
+	DisplayName: Crystallized Salmon
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed2}
+		Boosts magic power
+		'''
+}
+
+RawMeat: {
+	DisplayName: Raw Meat
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		'Can be eaten...maybe cook it first?'
+		'''
+}
+
+CookedMeat: {
+	DisplayName: Cooked Meat
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		'Roasted to perfection'
+		'''
+}
+
+GoldenCaviar: {
+	DisplayName: Golden Caviar
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed3}
+		'The pinnacle of gastronomy'
+		'''
+}
+
+GarBannerItem.DisplayName: Gar Banner
+
+CoconutMilk: {
+	DisplayName: Coconut Milk
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		'No cup needed!'
+		'''
+}
+
+DiverBody: {
+	DisplayName: Ancient Diver's Plate
+	Tooltip: ""
+}
+
+DiverHead: {
+	DisplayName: Ancient Diver's Helmet
+	Tooltip: ""
+}
+
+DiverLegs: {
+	DisplayName: Ancient Diver's Pants
+	Tooltip: ""
+}
+
+SailorCap: {
+	DisplayName: Sailor Cap
+	Tooltip: "'All aboard!'"
+}
+
+StrippedBambooItem: {
+	DisplayName: Stripped Bamboo
+	Tooltip: ""
+}
+
+BambooBarrelItem: {
+	DisplayName: Bamboo Barrel
+	Tooltip: ""
+}
+
+BambooBenchItem: {
+	DisplayName: Bamboo Bench
+	Tooltip: ""
+}
+
+BambooBirdCageItem: {
+	DisplayName: Bamboo Bird Cage
+	Tooltip: Some birds can be placed inside using right click
+}
+
+BambooPikeItem: {
+	DisplayName: Bamboo Pike
+	Tooltip: ""
+}
+
+BambooPotItem: {
+	DisplayName: Bamboo Pot
+	Tooltip: ""
+}
+
+SteamedMussels: {
+	DisplayName: Steamed Mussels
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		'Fresh and delightful'
+		'''
+}
+
+JellyCandle: {
+	DisplayName: Jelly Candle
+	Tooltip: Summons a floating jellyfish to follow you around
+}
+
+SmallDriftwoodItem: {
+	DisplayName: Small Driftwood
+	Tooltip: "'Aesthetically pleasing'"
+}
+
+MediumDriftwoodItem: {
+	DisplayName: Medium Driftwood
+	Tooltip: "'Aesthetically pleasing'"
+}
+
+LargeDriftwoodItem: {
+	DisplayName: Large Driftwood
+	Tooltip: "'Aesthetically pleasing'"
+}
+
+DriftwoodChestplate: {
+	DisplayName: Driftwood Chestplate
+	Tooltip: ""
+}
+
+DriftwoodHelmet: {
+	DisplayName: Driftwood Helmet
+	Tooltip: ""
+}
+
+DriftwoodLeggings: {
+	DisplayName: Driftwood Leggings
+	Tooltip: ""
+}
+
+DriftwoodPlatformItem: {
+	DisplayName: Driftwood Platform
+	Tooltip: ""
+}
+
+DriftwoodSword: {
+	DisplayName: Driftwood Sword
+	Tooltip: ""
+}
+
+DriftwoodWallItem: {
+	DisplayName: Driftwood Wall
+	Tooltip: ""
+}
+
+Cloudstalk: {
+	DisplayName: Cloudstalk
+	Tooltip: "'Usually found high up'"
+}
+
+CloudstalkSeed: {
+	DisplayName: Cloudstalk Seeds
+	Tooltip: ""
+}
+
+DoubleJumpPotion: {
+	DisplayName: Zephyr Potion
+	Tooltip: Temporarily grants a double jump
+}
+
+FlightPotion: {
+	DisplayName: Soaring Potion
+	Tooltip: Increases the duration of flight by 25%
+}
+
+HangingCloudstalkItem: {
+	DisplayName: Hanging Cloudstalk
+	Tooltip: ""
+}
+
+FloatingDriftwood: {
+	DisplayName: Floating Driftwood
+	Tooltip: ""
+}
+
+FishCrate: {
+	DisplayName: Packing Crate
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+Ambergris: {
+	DisplayName: Ambergris
+	Tooltip:
+		'''
+		Highly valuable
+		'You don't want to know where this came from'
+		'''
+}
+
+MessageBottle: {
+	DisplayName: Message in a Bottle
+	Tooltip:
+		'''
+		Summons a raft mount
+		Increased fishing power while on the raft
+		'''
+}
+
+GoldKillifishItem: {
+	DisplayName: Gold Killifish
+	Tooltip: ""
+}
+
+KillifishItem: {
+	DisplayName: Killifish
+	Tooltip: ""
+}
+
+KillifishBannerItem.DisplayName: Killifish Banner
+
+BambooHalberd: {
+	DisplayName: Bamboo Halberd
+	Tooltip: ""
+}
+
+BambooKendoBlade: {
+	DisplayName: Bamboo Kendo Blade
+	Tooltip: Right click to dash forward
+}
+
+KoiTotem: {
+	DisplayName: Koi Totem
+	Tooltip:
+		'''
+		Increases fishing skill when placed nearby
+		Occasionally replenishes the bait that was last used
+		'''
+}
+
+FairyWhistle: {
+	DisplayName: Fairy Whistle
+	Tooltip: Calls a protective fairy that hovers around you
+}
+
+TermiteItem: {
+	DisplayName: Termite
+	Tooltip: ""
+}
+
+StarPowder: {
+	DisplayName: Starpowder
+	Tooltip: Throw onto grass to imbue it with starlight!
+}
+
+TermiteJar: {
+	DisplayName: Termite Jar
+	Tooltip: "'An ecological nightmare'"
+}
+
+ButterflyStaff: {
+	DisplayName: Ethereal Butterfly Staff
+	Tooltip:
+		'''
+		Summons a magical butterfly to fight for you
+		'Formed from a perfect cherry blossom'
+		'''
+}
+
+PoolNoodle: {
+	DisplayName: Pool Noodle
+	Tooltip:
+		'''
+		3 summon tag damage
+		{$CommonItemTooltip.Whips}
+		Struck enemies may release bubbly explosions when hit by summons
+		'''
+}
+
+ToucaneItem: {
+	DisplayName: Toucane
+	Tooltip: Summons an angry toucan to fight for you
+}
+
+QuenchPotion: {
+	DisplayName: Quench Potion
+	Tooltip: Other potions last 25% longer
+}
+
+LivingBaobabLeafWallItem: {
+	DisplayName: Living Baobab Leaf Wall
+	Tooltip: ""
+}
+
+LivingBaobabWallItem: {
+	DisplayName: Living Baobab Wall
+	Tooltip: ""
+}
+
+LivingBaobabLeafWand: {
+	DisplayName: Living Baobab Leaf Wand
+	Tooltip: ""
+}
+
+LivingBaobabWand: {
+	DisplayName: Living Baobab Wand
+	Tooltip: ""
+}
+
+WrithingSticks: {
+	DisplayName: Writhing Sticks
+	Tooltip: Summons a friendly tumbleweed to follow you around
+}
+
+BaobabFruit: {
+	DisplayName: Baobab Fruit
+	Tooltip: "{$BuffDescription.WellFed}"
+}
+
+SavannaGrassSeeds: {
+	DisplayName: Savanna Grass Seeds
+	Tooltip: ""
+}
+
+LeatherBackpack: {
+	DisplayName: Leather Backpack
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		'Comfortable, practical, and still dashing'
+		'''
+}
+
+Caryocar: {
+	DisplayName: Caryocar
+	Tooltip: "{$BuffDescription.WellFed}"
+}
+
+CustardApple: {
+	DisplayName: Custard Apple
+	Tooltip: "{$BuffDescription.WellFed}"
+}
+
+BeachUmbrellaItem: {
+	DisplayName: Beach Umbrella
+	Tooltip: ""
+}
+
+BigBuoy: {
+	DisplayName: Big Buoy
+	Tooltip: "{$ItemTooltip.CoralTorch}"
+}
+
+SmallBuoy: {
+	DisplayName: Small Buoy
+	Tooltip: "{$ItemTooltip.CoralTorch}"
+}
+
+LoungeChairItem: {
+	DisplayName: Lounge Chair
+	Tooltip: ""
+}
+
+Omelette: {
+	DisplayName: Omelette
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed2}
+		'Perfectly cooked'
+		'''
+}
+
+OstrichEgg: {
+	DisplayName: Ostrich Egg
+	Tooltip: "{$BuffDescription.WellFed}"
+}
+
+DrywoodItem: {
+	DisplayName: Drywood
+	Tooltip: ""
+}
+
+DrywoodBow: {
+	DisplayName: Drywood Bow
+	Tooltip: ""
+}
+
+DrywoodBreastplate: {
+	DisplayName: Drywood Breastplate
+	Tooltip: ""
+}
+
+DrywoodGreaves: {
+	DisplayName: Drywood Greaves
+	Tooltip: ""
+}
+
+DrywoodHammer: {
+	DisplayName: Drywood Hammer
+	Tooltip: ""
+}
+
+DrywoodHelmet: {
+	DisplayName: Drywood Helmet
+	Tooltip: ""
+}
+
+DrywoodSword: {
+	DisplayName: Drywood Sword
+	Tooltip: ""
+}
+
+HuntingRifle: {
+	DisplayName: Hunting Rifle
+	Tooltip: Deals more damage to distant targets and when standing still
+}
+
+SafariHat: {
+	DisplayName: Safari Hat
+	Tooltip: ""
+}
+
+SafariShorts: {
+	DisplayName: Safari Shorts
+	Tooltip: ""
+}
+
+SafariVest: {
+	DisplayName: Safari Vest
+	Tooltip: ""
+}
+
+SunStaff: {
+	DisplayName: Sunrise Scepter
+	Tooltip: Casts the light of the sun down in front of you
+}
+
+SavannaMusicBoxItem: {
+	DisplayName: Music Box (Savanna)
+	Tooltip: ""
+}
+
+DrywoodBathtubItem: {
+	DisplayName: Drywood Bathtub
+	Tooltip: ""
+}
+
+DrywoodBedItem: {
+	DisplayName: Drywood Bed
+	Tooltip: ""
+}
+
+DrywoodBookcaseItem: {
+	DisplayName: Drywood Bookcase
+	Tooltip: ""
+}
+
+DrywoodCandelabraItem: {
+	DisplayName: Drywood Candelabra
+	Tooltip: ""
+}
+
+DrywoodCandleItem: {
+	DisplayName: Drywood Candle
+	Tooltip: ""
+}
+
+DrywoodChairItem: {
+	DisplayName: Drywood Chair
+	Tooltip: ""
+}
+
+DrywoodClockItem: {
+	DisplayName: Drywood Clock
+	Tooltip: ""
+}
+
+DrywoodCouchItem: {
+	DisplayName: Drywood Couch
+	Tooltip: ""
+}
+
+DrywoodDresserItem: {
+	DisplayName: Drywood Dresser
+	Tooltip: ""
+}
+
+DrywoodLampItem: {
+	DisplayName: Drywood Lamp
+	Tooltip: ""
+}
+
+DrywoodPianoItem: {
+	DisplayName: Drywood Piano
+	Tooltip: ""
+}
+
+DrywoodSinkItem: {
+	DisplayName: Drywood Sink
+	Tooltip: ""
+}
+
+DrywoodTableItem: {
+	DisplayName: Drywood Table
+	Tooltip: ""
+}
+
+DrywoodToiletItem: {
+	DisplayName: Drywood Toilet
+	Tooltip: ""
+}
+
+DrywoodWorkBenchItem: {
+	DisplayName: Drywood Work Bench
+	Tooltip: ""
+}
+
+DrywoodLanternItem: {
+	DisplayName: Drywood Lantern
+	Tooltip: ""
+}
+
+DrywoodSofaItem: {
+	DisplayName: Drywood Sofa
+	Tooltip: ""
+}
+
+DrywoodChestItem: {
+	DisplayName: Drywood Chest
+	Tooltip: ""
+}
+
+DrywoodDoorItem: {
+	DisplayName: Drywood Door
+	Tooltip: ""
+}
+
+DriftwoodBarrelItem: {
+	DisplayName: Driftwood Barrel
+	Tooltip: ""
+}
+
+DriftwoodBathtubItem: {
+	DisplayName: Driftwood Bathtub
+	Tooltip: ""
+}
+
+DriftwoodBedItem: {
+	DisplayName: Driftwood Bed
+	Tooltip: ""
+}
+
+DriftwoodBenchItem: {
+	DisplayName: Driftwood Bench
+	Tooltip: ""
+}
+
+DriftwoodBookcaseItem: {
+	DisplayName: Driftwood Bookcase
+	Tooltip: ""
+}
+
+DriftwoodCandelabraItem: {
+	DisplayName: Driftwood Candelabra
+	Tooltip: ""
+}
+
+DriftwoodCandleItem: {
+	DisplayName: Driftwood Candle
+	Tooltip: ""
+}
+
+DriftwoodChairItem: {
+	DisplayName: Driftwood Chair
+	Tooltip: ""
+}
+
+DriftwoodChandelierItem: {
+	DisplayName: Driftwood Chandelier
+	Tooltip: ""
+}
+
+DriftwoodClockItem: {
+	DisplayName: Driftwood Clock
+	Tooltip: ""
+}
+
+DriftwoodDoorItem: {
+	DisplayName: Driftwood Door
+	Tooltip: ""
+}
+
+DriftwoodDresserItem: {
+	DisplayName: Driftwood Dresser
+	Tooltip: ""
+}
+
+DriftwoodLampItem: {
+	DisplayName: Driftwood Lamp
+	Tooltip: ""
+}
+
+DriftwoodPianoItem: {
+	DisplayName: Driftwood Piano
+	Tooltip: ""
+}
+
+DriftwoodSinkItem: {
+	DisplayName: Driftwood Sink
+	Tooltip: ""
+}
+
+DriftwoodTableItem: {
+	DisplayName: Driftwood Table
+	Tooltip: ""
+}
+
+DriftwoodToiletItem: {
+	DisplayName: Driftwood Toilet
+	Tooltip: ""
+}
+
+DriftwoodWorkBenchItem: {
+	DisplayName: Driftwood Work Bench
+	Tooltip: ""
+}
+
+HerosMemorialStatueItem: {
+	DisplayName: A Hero's Memorial
+	Tooltip: Live on forever
+}
+
+DustyFieldsItem: {
+	DisplayName: Dusty Fields
+	Tooltip: "'S. Yaki'"
+}
+
+OrangeSkiesItem: {
+	DisplayName: Orange Skies
+	Tooltip: "'S. Yaki'"
+}
+
+StrongWindsItem: {
+	DisplayName: Strong Winds
+	Tooltip: "'S. Yaki'"
+}
+
+WaningSunItem: {
+	DisplayName: Waning Sun
+	Tooltip: "'E. Sibellius'"
+}
+
+ScarecrowItem: {
+	DisplayName: Scarecrow
+	Tooltip: ""
+}
+
+BotanistBody: {
+	DisplayName: Botanist Apron
+	Tooltip: ""
+}
+
+BotanistHat: {
+	DisplayName: Sunflower Strawhat
+	Tooltip: Keeps you happy
+}
+
+BotanistLegs: {
+	DisplayName: Botanist Joggers
+	Tooltip: 10% increased movement speed
+}
+
+BeachTowel: {
+	DisplayName: Beach Towel
+	Tooltip: "'It keeps you dry, but make sure you don't jump in the water with it on!'"
+}
+
+BikiniBottom: {
+	DisplayName: Bikini Bottom
+	Tooltip: "'Who needs armor anyways when you can run free in the sun!'"
+}
+
+BikiniTop: {
+	DisplayName: Bikini Top
+	Tooltip: "'Despite what one may expect, it really doesn't provide any sort of defense.'"
+}
+
+SwimmingTrunks: {
+	DisplayName: Swimming Trunks
+	Tooltip: "'They don't provide much in the way of defense, but they're undeniably stylish.'"
+}
+
+TintedGlasses: {
+	DisplayName: Tinted Glasses
+	Tooltip: "'They help sell the look, so it's best to keep them on even when it's dark.'"
+}
+
+WheatgrassSeedPouch: {
+	DisplayName: Wheatgrass Seed Pouch
+	Tooltip:
+		'''
+		Throws a spread of seeds which grow wheatgrass on grass
+		'Shakes and swishes in your hand'
+		'''
+}
+
+RoyalKhopesh: {
+	DisplayName: Royal Khopesh
+	Tooltip: ""
+}
+
+SavannaSandstormMusicBoxItem: {
+	Tooltip: ""
+	DisplayName: Music Box (Duststorm)
+}
+
+FishLure: {
+	DisplayName: Fish Lure
+	Tooltip:
+		'''
+		{$ItemTooltip.CoralTorch}
+		Attracts schools of fish to nearby waters
+		'''
+}
+
+DrywoodPlatformItem: {
+	DisplayName: Drywood Platform
+	Tooltip: ""
+}
+
+SavannaDirtWallItem: {
+	DisplayName: Coarse Dirt Wall
+	Tooltip: ""
+}
+
+GravelItem: {
+	DisplayName: Gravel
+	Tooltip: ""
+}
+
+MagmastoneItem: {
+	DisplayName: Magmastone
+	Tooltip: ""
+}
+
+SavannaCrateHardmode: {
+	DisplayName: Safari Crate
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SavannaCrate: {
+	DisplayName: Grassland Crate
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+MineralSlag: {
+	DisplayName: Mineral Slag
+	Tooltip: Can be used at the Extractinator
+}
+
+HyenaBannerItem.DisplayName: Hyena Banner
+OstrichBannerItem.DisplayName: Ostrich Banner
+
+SavannaCampfireItem: {
+	DisplayName: Savanna Campfire
+	Tooltip: "{$ItemTooltip.Campfire}"
+}
+
+SavannaFountainItem: {
+	DisplayName: Savanna Water Fountain
+	Tooltip: ""
+}
+
+DrywoodFenceItem: {
+	DisplayName: Drywood Fence
+	Tooltip: ""
+}
+
+DrywoodWallItem: {
+	DisplayName: Drywood Wall
+	Tooltip: ""
+}
+
+ZiplineGun: {
+	DisplayName: Rail-gun
+	Tooltip:
+		'''
+		Creates a rail at the cursor position to carry players
+		Rails can be removed when hovered over or by using right click
+		'Not to be confused with the railgun'
+		'''
+	AssistantOn: Right click to enable assistant
+	AssistantOff: Right click to disable assistant
+}
+
+FrostbiteItem: {
+	DisplayName: Frostbite
+	Tooltip: Conjures a blizzard in front of you
+}
+
+RogueCrest: {
+	DisplayName: Rogue's Crest
+	Tooltip:
+		'''
+		Summons a rusted sword to fight for you
+		This sword does not take up minion slots
+		Occasionally inflicts Open Wounds, causing enemies to bleed when struck with melee or whip attacks
+		'''
+}
+
+GildedScarab: {
+	DisplayName: Gilded Scarab
+	Tooltip:
+		'''
+		Getting hit provides a temporary buff to defense
+		Provides more defense based on damage taken
+		'''
+}
+
+SparrowItem: {
+	DisplayName: Sparrow
+	Tooltip: ""
+}
+
+Blunderbuss: {
+	DisplayName: Blunderbuss
+	Tooltip: Fires a wide spread of bullets
+}
+
+SafekeeperRing: {
+	DisplayName: Safekeeper's Ring
+	Tooltip:
+		'''
+		Slightly increases damage dealt against undead
+		'It gives off an eerie light'
+		'''
+}
+
+PeevedTumblerBannerItem.DisplayName: Peeved Tumbler Banner
+
+LeatherHood: {
+	DisplayName: Marksman's Hood
+	Tooltip: Increases critical strike chance by 5%
+}
+
+LeatherLegs: {
+	DisplayName: Marksman's Boots
+	Tooltip: ""
+}
+
+LeatherPlate: {
+	DisplayName: Marksman's Plate
+	Tooltip: ""
+}
+
+ExplorerTreadsItem: {
+	DisplayName: Explorer's Treads
+	Tooltip:
+		'''
+		+5% Movement speed for every 10% missing health
+		50% chance to avoid traps and hazards
+		'Makes exploring temples a walk in the park'
+		'''
+}
+
+LeatherCloakItem: {
+	DisplayName: Leather Cloak
+	Tooltip:
+		'''
+		Immunity to mighty wind from sandstorms
+		Increases movement speed by 5% and run acceleration by 15%
+		'''
+}
+
+CactusStaff: {
+	DisplayName: Cactus Staff
+	Tooltip: Summons cactus walls to protect you
+}
+
+PearlString: {
+	DisplayName: Pearl String
+	Tooltip:
+		'''
+		Slain enemies drop more coins
+		'You feel lucky'
+		'''
+}
+
+DrywoodChandelierItem: {
+	DisplayName: Drywood Chandelier
+	Tooltip: ""
+}
+
+DriftwoodLanternItem: {
+	DisplayName: Driftwood Lantern
+	Tooltip: ""
+}
+
+DriftwoodFenceItem: {
+	DisplayName: Driftwood Fence
+	Tooltip: ""
+}
+
+ArcaneNecklaceGold: {
+	DisplayName: Arcane Necklace
+	Tooltip:
+		'''
+		Increases maximum mana by 20
+		Hit enemies may drop mana stars
+		'''
+}
+
+ArcaneNecklacePlatinum: {
+	DisplayName: "{$ArcaneNecklaceGold.DisplayName}"
+	Tooltip: "{$ArcaneNecklaceGold.Tooltip}"
+}
+
+PinBlue: {
+	DisplayName: Blue Pin
+	Tooltip: ""
+}
+
+PinGreen: {
+	DisplayName: Green Pin
+	Tooltip: ""
+}
+
+PinRed: {
+	DisplayName: Red Pin
+	Tooltip: ""
+}
+
+PinYellow: {
+	DisplayName: Yellow Pin
+	Tooltip: ""
+}
+
+PinHive: {
+	DisplayName: Hive Pin
+	Tooltip: ""
+}
+
+PinButterfly: {
+	DisplayName: Butterfly Pin
+	Tooltip: ""
+}
+
+PinFaeling: {
+	DisplayName: Faeling Pin
+	Tooltip: ""
+}
+
+PinSavanna: {
+	DisplayName: Savanna Pin
+	Tooltip: ""
+}
+
+PinCuriosity: {
+	DisplayName: Curiosity Pin
+	Tooltip: ""
+}
+
+PinSky: {
+	DisplayName: Sky Pin
+	Tooltip: ""
+}
+
+PinSword: {
+	DisplayName: Sword Pin
+	Tooltip: ""
+}
+
+TornMapPiece: {
+	DisplayName: Torn Map Piece
+	Tooltip: Reveals the surrounding map
+}
+
+FashionableBackpack: {
+	DisplayName: Fashionable Backpack
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		'Sleek, modern, but none the less effective'
+		'''
+}
+
+HikingBackpack: {
+	DisplayName: Hiking Backpack
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		'Utilitarian, durable, and most of all, comfortable'
+		'''
+}
+
+Minipack: {
+	DisplayName: Minipack
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		'Small, light, and super compact'
+		'''
+}
+
+PinkPack: {
+	DisplayName: Pink Pack
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		'The best color, useful, and great visibility at a distance'
+		'''
+}
+
+PouchPack: {
+	DisplayName: Pouch Pack
+	Tooltip:
+		'''
+		{$CommonTooltips.Backpack}
+		'Simple, comfy, and prone to spills'
+		'''
+}
+
+DyeCrateItem: {
+	DisplayName: Dye Crate
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		'It smells...surprisingly pleasant!'
+		'''
+}
+
+SavannaNightMusicBoxItem: {
+	DisplayName: Music Box (Savanna Night)
+	Tooltip: ""
+}
+
+SavannaPylonItem: {
+	DisplayName: Savanna Pylon
+	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+CraneFeather: {
+	DisplayName: Crane Feather
+	Tooltip: Increases aerial agility
+}
+
+TatteredMap: {
+	DisplayName: Tattered Map
+	Tooltip: ""
+}
+
+CrescentMelon: {
+	DisplayName: Crescent Melon
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		{$ItemTooltip.ManaRegenerationPotion}
+		'''
+}
+
+MidnightApple: {
+	DisplayName: Midnight Apple
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		{$ItemTooltip.ManaRegenerationPotion}
+		'Sparkles like the night sky'
+		'''
+}
+
+NightSky: {
+	DisplayName: Night Sky
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed2}
+		{$ItemTooltip.ManaRegenerationPotion}
+		'Tastes like the cosmos'
+		'''
+}
+
+Pearlberry: {
+	DisplayName: Pearlberry
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		{$ItemTooltip.ManaRegenerationPotion}
+		'Glimmers and shines brightly...'
+		'''
+}
+
+DriftwoodBow: {
+	DisplayName: Driftwood Bow
+	Tooltip: ""
+}
+
+DriftwoodHammer: {
+	DisplayName: Driftwood Hammer
+	Tooltip: ""
+}
+
+RemedyPotion: {
+	DisplayName: Remedy Potion
+	Tooltip:
+		'''
+		Grants immunity to the following effects:
+		[list]
+		'''
+}
+
+CloudstalkBoxItem: {
+	DisplayName: Cloudstalk Planter Box
+	Tooltip: ""
+}
+
+OceanSlimeBannerItem.DisplayName: Coconut Slime Banner
+
+OceanDepthsBoxItem: {
+	DisplayName: Music Box (Ocean Depths)
+	Tooltip: ""
+}
+
+OstrichPants: {
+	DisplayName: Ostrich Pants
+	Tooltip: "'Almost lifelike!'"
+}
+
+CampfireSpit: {
+	DisplayName: Fire Spit
+	Tooltip: Can be placed on campfires
+}
+
+KillieFishbowl: {
+	DisplayName: Killie Fishbowl
+	Tooltip: "'Maybe a bigger bowl next time?'"
+}
+
+SparrowCageItem: {
+	DisplayName: Sparrow Cage
+	Tooltip: ""
+}

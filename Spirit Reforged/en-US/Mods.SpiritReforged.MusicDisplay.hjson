@@ -1,0 +1,24 @@
+ModName: Spirit Reforged
+Salvati: Salvati
+Sbubby: Sbubby
+BySalvati: "{$By} {$Salvati}"
+
+Duststorm: {
+	DisplayName: Drifting Prairie (Duststorm Theme)
+	Author: "{$By} {$Sbubby}"
+}
+
+Savanna: {
+	DisplayName: Savanna
+	Author: "{$BySalvati}, {$Sbubby}"
+}
+
+SavannaNight: {
+	DisplayName: Savanna Night
+	Author: "{$BySalvati}"
+}
+
+DeepOcean: {
+	DisplayName: Deep Ocean
+	Author: "{$BySalvati}"
+}

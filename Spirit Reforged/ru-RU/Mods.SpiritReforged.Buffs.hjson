@@ -1,0 +1,99 @@
+EmpoweredSwim: {
+	DisplayName: Водная грация
+	Description: Теперь вода эта ваша стихия
+}
+
+MantarayBuff: {
+	DisplayName: Спасательный скат
+	Description: Быстрый, как морская волна!
+}
+
+JellyfishMinion_Buff: {
+	DisplayName: Медуза
+	Description: Миленькая, упругая медуза сражается за вас!
+}
+
+JellyfishBuff: {
+	DisplayName: Дружелюбная медуза
+	Description: Эта медуза просто обожает путешествовать вместе с вами!
+}
+
+DoubleJumpPotionBuff: {
+	DisplayName: Бризовый прыжок
+	Description: Даёт временных двойной прыжок
+}
+
+FlightPotionBuff: {
+	DisplayName: Взлёт
+	Description: Увеличивает время полёта на 25%
+}
+
+BottleMountBuff: {
+	DisplayName: Плот
+	Description: Посылаем сигнал бедствия...
+}
+
+FairyMinion_Buff: {
+	DisplayName: Феи
+	Description: Эй! Осторожно!
+}
+
+Impaled: {
+	DisplayName: Пронзён
+	Description: Ай, больно в ноге!
+}
+
+KoiTotemBuff: {
+	DisplayName: Тотем кои
+	Description: Увеличивает навык рыболовной ловли
+}
+
+ButterflyMinion_Buff: {
+	DisplayName: Неземная бабочка
+	Description: Неземная бабочка сражается за вас
+}
+
+ToucanMinion_Buff: {
+	DisplayName: Тукан
+	Description: Тукан сражается за вас
+}
+
+QuenchPotion_Buff: {
+	DisplayName: Закалка
+	Description: Другие зелья длятся на 25% дольше
+}
+
+TumblerPetBuff: {
+	DisplayName: Дружелюбное перекати-поле
+	Description: Игривое перекати-поле приследует вас
+}
+
+Frozen: {
+	DisplayName: Обморожение
+	Description: Скорость передвижения врагов снижена
+}
+
+GildedScarabBuff: {
+	DisplayName: Щит скоробея
+	Description: Защита увеличена на {0} ед.
+}
+
+PoolNoodleBubbleBuff: {
+	DisplayName: Пузырьковая тайна
+	Description: Вы нашли девнию рукопись лора Spirit... Оставайся с нами в ожидании нашего супербосса — Тёмной стали, Павшей звезды!
+}
+
+ExplorerSpeed: {
+	DisplayName: Скорость исследователя
+	Description: Ваша скорость значительно увеличена
+}
+
+RemedyPotionBuff: {
+	DisplayName: Целебный эффект
+	Description: Даёт невосприимчивость к некоторым дебаффам
+}
+
+OpenWounds: {
+	DisplayName: Открытые раны
+	Description: Вы уязвимы к кровотечению
+}

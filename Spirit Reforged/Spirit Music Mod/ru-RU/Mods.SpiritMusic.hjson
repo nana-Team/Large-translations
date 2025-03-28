@@ -1,0 +1,127 @@
+Configs: {
+	MusicConfig: {
+		DisplayName: Конфигурация музыки
+
+		Blizzard: {
+			Label: Метель
+			Tooltip: Включает музыку метели: «Shivering Storms»
+		}
+
+		CorruptNight: {
+			Label: Ночное искажение
+			Tooltip: Включает музыку ночного искажения: «Nightmare Fuel»
+		}
+
+		CrimsonNight: {
+			Label: Ночной багрянец
+			Tooltip: Включает музыку ночного багрянца: «Shivering Storms»
+		}
+
+		SnowNight: {
+			Label: Ночные снега
+			Tooltip: Включает музыку ночных снегов: «Icy Storms»
+		}
+
+		HallowNight: {
+			Label: Ночное освящение
+			Tooltip: Включает музыку ночного освязщения: «Wonderous Landscape»
+		}
+
+		DesertNight: {
+			Label: Ночная пустыня
+			Tooltip: Включает музыку ночной пустыни: «Kempt Dunes»
+		}
+
+		FrostLegion: {
+			Label: МОрозный легион
+			Tooltip: Включает музыку Морозного легиона: «Tougher Chill»
+		}
+
+		Granite: {
+			Label: Гранитная пещера
+			Tooltip: Включает музыку гранитной пещеры: «Resounding Stones»
+		}
+
+		Marble: {
+			Label: Мраморная пещера
+			Tooltip: Включает музыку мраморного биома: «Regal Tunnel»
+		}
+
+		Meteor: {
+			Label: Место падения метеорита
+			Tooltip: Включает музыку места педания метеорита: «Space Rocks!»
+		}
+
+		Spider: {
+			Label: Паучье гнездо
+			Tooltip: Включает музыку паучьей пещеры: «Xyresic Horrors»
+		}
+
+		SkeletronPrime: {
+			Label: Скелетрон Прайм
+			Tooltip: Включает музыку Скелетрона Прайма: «Thermite Assault»
+		}
+	}
+}
+
+Items: {
+	BlizzardBoxItem: {
+		DisplayName: Музыкальная шкатулка (Метель)
+		Tooltip: ""
+	}
+
+	CorruptNightBoxItem: {
+		DisplayName: Музыкальная шкатулка (Ночное искажение)
+		Tooltip: ""
+	}
+
+	CrimsonNightBoxItem: {
+		DisplayName: Музыкальная шкатулка (Ночной багрянец)
+		Tooltip: ""
+	}
+
+	DesertNightBoxItem: {
+		DisplayName: Музыкальная шкатулка (Ночная пустыня)
+		Tooltip: ""
+	}
+
+	FrostLegionBoxItem: {
+		DisplayName: Музыкальная шкатулка (Морозный легион)
+		Tooltip: ""
+	}
+
+	GraniteBoxItem: {
+		DisplayName: Музыкальная шкатулка (Гранитная пещера)
+		Tooltip: ""
+	}
+
+	HallowNightBoxItem: {
+		DisplayName: Музыкальная шкатулка (Ночное освящение)
+		Tooltip: ""
+	}
+
+	MarbleBoxItem: {
+		DisplayName: Музыкальная шкатулка (Мраморная пещера)
+		Tooltip: ""
+	}
+
+	MeteorBoxItem: {
+		DisplayName: Музыкальная шкатулка (Место падения метеорита)
+		Tooltip: ""
+	}
+
+	SkeletronPrimeBoxItem: {
+		DisplayName: Музыкальная шкатулка (Скелетрон Прайм)
+		Tooltip: ""
+	}
+
+	SnowNightBoxItem: {
+		DisplayName: Музыкальная шкатулка (Ночные снега)
+		Tooltip: ""
+	}
+
+	SpiderCaveBoxItem: {
+		DisplayName: Музыкальная шкатулка (Паучье гнездо)
+		Tooltip: ""
+	}
+}

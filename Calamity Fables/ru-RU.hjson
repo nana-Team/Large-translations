@@ -451,7 +451,7 @@
 			}
 
 			ScourgeSpineHeadPlacer: {
-				DisplayName: Окаменевшая пасть морского бича
+				DisplayName: Окаменевшый череп морского бича
 				Tooltip:
 					'''
 					Размещает на земле декоративные окаменелости бича
@@ -539,7 +539,7 @@
 					'''
 					Выпускает грибную клешню, хватающую врагов и притягивающую их к вам
 					Врагами небольшого размера можно свободно размахивать, кидаться, а также бить их об землю
-					Врагов большого размера можно разрывать на части
+					Врагам большого размера можно наносить дополнительный урон, натягивая и открывая от них клешню
 					'''
 			}
 
@@ -1871,7 +1871,7 @@
 				DisplayName: Вульфрумовый постер «Компьютер»
 				Tooltip:
 					'''
-					«Содержит целый террабайт оперативной памяти, всецельно использующийся для поисковой системы товара ООО “Вульфрум“!
+					«Содержит целый террабайт оперативной памяти, всецельно использующийся для поисковой системы товара Вульфрум Компарейшен!
 					Предоставляется с заранее установленной последней версией “Wulfrum OS DX“»
 					'''
 			}
@@ -1928,7 +1928,7 @@
 
 			WulfrumFidgetPosterItem: {
 				DisplayName: Вульфрумовый постер «Игрушки-антистресс»
-				Tooltip: «Эти невероятные антистресс-игрушки даются в подарок к каждой покупке у ООО “Вульфрум“! Соверите все 151!»
+				Tooltip: «Эти невероятные антистресс-игрушки даются в подарок к каждой покупке у Вульфрум Компарейшен! Соверите все 151!»
 			}
 
 			WulfrumForkAntennaItem: {
@@ -1960,8 +1960,8 @@
 				DisplayName: Вульфрумовый постер «Вращатель»
 				Tooltip:
 					'''
-					«Всё новое — это хорошо забытое старое! Погрузитесь в настольгию прошлого с этой незабываемой класикой ООО “Вульфрум“!
-					Выдаётся беспластно за любую покупку в ООО “Вульфрум“»
+					«Всё новое — это хорошо забытое старое! Погрузитесь в настольгию прошлого с этой незабываемой класикой Вульфрум Компарейшен!
+					Выдаётся беспластно за любую покупку в Вульфрум Компарейшен»
 					'''
 			}
 
@@ -1999,42 +1999,42 @@
 				DisplayName: Вульфрумовый постер «Магнитезер»
 				Tooltip:
 					'''
-					'Due to popular demand, Wulfrum Co.'s own delivery robots have finally hit the shelves!
-					[c/EED202:WARNING!] Do not attempt to transport iron-based products.'
+					«После многочисленных просьб и отзывов, роботы-доставщики от Вульфрум Компарейшен теперь на всех прилавках Земли!
+					[c/EED202:ПРЕДУПРЕЖДЕНИЕ!] Не перевозите металлы, содержащие железо»
 					'''
 			}
 
 			WulfrumModularChairItem: {
-				DisplayName: Wulfrum Modular Chair
+				DisplayName: Вульфрумовый модульный стул
 				Tooltip: ""
 			}
 
 			WulfrumMortarPosterItem: {
-				DisplayName: Wulfrum Poster - Mortar
+				DisplayName: Вульфрумовый постер «Миномётчик»
 				Tooltip:
 					'''
-					'Can't be bothered to deal with trespassers yourself?
-					With only a handful of these defensive units, your property will be kept safe while suffering from minimal collateral damage!'
+					«Не хотите сами разбираться со злоумышлиниками?
+					Купите всего несколько подобных устройств, и ваша собственность будет в безопасности, а ущерб — минимален!»
 					'''
 			}
 
 			WulfrumOfficeChairItem: {
-				DisplayName: Wulfrum Office Chair
+				DisplayName: Вульфрумовый офисный стул
 				Tooltip: ""
 			}
 
 			WulfrumPlasticItem: {
-				DisplayName: Wulfrum Plastic Block
+				DisplayName: Вульфрумовый пластик
 				Tooltip: ""
 			}
 
 			WulfrumPlasticWallItem: {
-				DisplayName: Wulfrum Plastic Wall
+				DisplayName: Вульфрумовая пластиковая стена
 				Tooltip: ""
 			}
 
 			WulfrumPlatformItem: {
-				DisplayName: Wulfrum Platform
+				DisplayName: Вульфрумовая платформа
 				Tooltip: ""
 			}
 
@@ -2299,12 +2299,12 @@
 
 			DebugItem2: {
 				Tooltip: ""
-				DisplayName: Debug Item2
+				DisplayName: Предмет отладки2
 			}
 
 			DebugItem: {
 				Tooltip: ""
-				DisplayName: Debug Item
+				DisplayName: Предмет отладки
 			}
 
 			BlendmodeTest: {
@@ -2366,8 +2366,8 @@
 			WulfrumNexus.DisplayName: Вульфрумовый узел
 			WulfrumRoller.DisplayName: Вульфрумовый каток
 			WulfrumRover.DisplayName: Вульфрумовый скиталец
-			WulfrumElevatorPlatform.DisplayName: ""
-			RustyWulfrumElevatorPlatform.DisplayName: ""
+			WulfrumElevatorPlatform.DisplayName: Вульфрумовая платформа лифта
+			RustyWulfrumElevatorPlatform.DisplayName: Ржавая вульрфумовая платформа лифта
 		}
 
 		Buffs: {

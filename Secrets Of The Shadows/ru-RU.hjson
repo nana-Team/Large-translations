@@ -171,7 +171,7 @@ Mods: {
 			PHO: " пре-хардмодная руда"
 			T2D2A: " броня Армии Древних 2 тира"
 			T2DD2A: " аксессуар Армии Древних 2 тира"
-			DE: " Dissolving Element"
+			DE: " иссекающий элемент"
 			EF: " элементальный фрагмент"
 			EP: " элементальное покрытие"
 			AS: " семя цветка"
@@ -585,7 +585,7 @@ Mods: {
 				DisplayName: Туманное видение
 				Tooltip:
 					'''
-					Увеличивает урон на 15% и дарует иммунитет практически ко всем дебаффам
+					Увеличивает урон на 15% и дарует невосприимчивость к большенству дебаффов
 					«Проклят»
 					'''
 			}
@@ -664,7 +664,7 @@ Mods: {
 					Снижает расход пустоты на 8%
 					Увеличивает получаемое количество пустоты на 4 ед. и максимальный запас пустоты на 50 ед.
 					Ваша шкала пустоты будет восполнятся при получении урона
-					Даёт иммунитет к дебаффам «{$BuffName.BrokenArmor}» и «{$BuffName.Ichor}» 
+					Даёт невосприимчивость к дебаффам «{$BuffName.BrokenArmor}» и «{$BuffName.Ichor}» 
 					'''
 			}
 
@@ -1091,7 +1091,7 @@ Mods: {
 					'''
 					Критические удары с 50% шансом нанесут на 30 ед. больше урона
 					Увеличивает шанс критического удара на 2%
-					Даёт иммунитет к дебаффам «{$BuffName.Poison}» и {$BuffName.Bleeding}»
+					Даёт невосприимчивость к дебаффам «{$BuffName.Poison}» и {$BuffName.Bleeding}»
 					'''
 			}
 
@@ -1101,7 +1101,7 @@ Mods: {
 					'''
 					Критические удары будут наносить на 40 ед. больше урона
 					Увеличивает шанс критичсекого удара на 4%
-					Даёт иммунитет к дебаффам «{$BuffName.Poison}» и {$BuffName.Bleeding}»
+					Даёт невосприимчивость к дебаффам «{$BuffName.Poison}» и {$BuffName.Bleeding}»
 					'''
 			}
 
@@ -1158,7 +1158,7 @@ Mods: {
 					'''
 					Увеличивает шанс критического удара на 20%
 					Критические удары будут наносить на 40 ед. больше урона
-					Даёт иммунитет к дебаффам «{$BuffName.Poison}» и {$BuffName.Bleeding}»
+					Даёт невосприимчивость к дебаффам «{$BuffName.Poison}» и {$BuffName.Bleeding}»
 					'''
 			}
 
@@ -1678,8 +1678,8 @@ Mods: {
 			}
 
 			ZephyrousZeppelin: {
-				DisplayName: Zephyrous Zeppelin
-				Tooltip: Surrounded by a ring of razorwater that deals 75% damage
+				DisplayName: Циркулярный Цеппелин
+				Tooltip: Окружён циркулярной пилой из воды, наносящей 75% урона
 			}
 
 			PyramidCrate: {
@@ -1739,48 +1739,48 @@ Mods: {
 			}
 
 			DissolvingElement: {
-				DisplayName: Dissolving Nature
+				DisplayName: Иссекающий элемент природы
 				# Fragments
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingNature: {
-				DisplayName: Dissolving Nature
+				DisplayName: Иссекающий элемент природы
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingEarth: {
-				DisplayName: Dissolving Earth
+				DisplayName: DИссекающий элемент земли
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingAurora: {
-				DisplayName: Dissolving Aurora
+				DisplayName: Иссекающий элемент зари
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingDeluge: {
-				DisplayName: Dissolving Deluge
+				DisplayName: Иссекающий элемент потопа
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingAether: {
-				DisplayName: Dissolving Aether
+				DisplayName: Иссекающий элемент эфира
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingUmbra: {
-				DisplayName: Dissolving Umbra
+				DisplayName: Иссекающий элемент тени
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingNether: {
-				DisplayName: Dissolving Nether
+				DisplayName: Иссекающий элемент незера
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingBrilliance: {
-				DisplayName: Dissolving Brilliance
+				DisplayName: Иссекающий элемент блеска
 				Tooltip: Temporary Tooltip
 			}
 
@@ -1885,40 +1885,40 @@ Mods: {
 			}
 
 			WorldlyPolarizer: {
-				DisplayName: Worldly Polarizer
+				DisplayName: Мировой поляризатор
 				Tooltip:
 					'''
-					Increases damage, endurance, and movement speed by 3%
-					Changes the effects of worldly dissolving elements in your inventory
+					Увеличивает урон, спопротивление урону и скрость передвижения на 3%
+					Изменяет эффект мировых иссекающих элементов в вашем инвентаре
 					'''
 			}
 
 			ThermalPolarizer: {
-				DisplayName: Thermal Polarizer
+				DisplayName: Термальный поляризатор
 				Tooltip:
 					'''
-					Increases max life, mana, and void by 20
-					Changes the effects of thermal dissolving elements in your inventory
+					Увеличивает максимальный запас здоровья, маны и пустоты на 20
+					Изменяет эффект термальных иссекающих элементов в вашем инвентаре
 					'''
 			}
 
 			ExoticPolarizer: {
-				DisplayName: Exotic Polarizer
+				DisplayName: Экзотический поляризатор
 				Tooltip:
 					'''
-					Increases jump speed, life regeneration, and void gain by 2
-					Changes the effects of exotic dissolving elements in your inventory
+					Увеличивает скорость прыжка, скорость регенерации и получаемое количество пустоты на 2 ед.
+					Изменяет эффект экзотических иссекающих элементов в вашем инвентаре
 					'''
 			}
 
 			UltimatePolarizer: {
-				DisplayName: Ultimate Polarizer
+				DisplayName: Ультимативный поляризатор
 				Tooltip:
 					'''
-					Increases damage, endurance, and movement speed by 3%
-					Increases max life, mana, and void by 20
-					Increases jump speed, life regeneration, and void gain by 2
-					Changes the effects of all dissolving elements in your inventory
+					Увеличивает урон, спопротивление урону и скрость передвижения на 3%
+					Увеличивает максимальный запас здоровья, маны и пустоты на 20
+					Увеличивает скорость прыжка, скорость регенерации и получаемое количество пустоты на 2 ед.
+					Изменяет эффект всех иссекающих элементов в вашем инвентаре
 					'''
 			}
 
@@ -2467,8 +2467,8 @@ Mods: {
 			}
 
 			PlatinumDart: {
-				DisplayName: Platinum Dart
-				Tooltip: A heavy dart that sticks to enemies, slowing them down drastically
+				DisplayName: Платиновый дротик
+				Tooltip: Тяжёлый дротик, который застревает во врагах, замедляя их
 			}
 
 			PlatinumScythe: {
@@ -2482,7 +2482,7 @@ Mods: {
 			}
 
 			WardingCharm: {
-				DisplayName: Warding Charm
+				DisplayName: Защитный амулет
 				Tooltip: ""
 			}
 
@@ -2494,7 +2494,7 @@ Mods: {
 			}
 
 			HologlassWall: {
-				DisplayName: Стена покрытия из твёрдого света
+				DisplayName: Стена из твердосветового покрытия
 				Tooltip: ""
 			}
 
@@ -2514,21 +2514,21 @@ Mods: {
 			}
 
 			TwilightGyroscope: {
-				DisplayName: Twilight Gyroscope
+				DisplayName: Сумрачный гироском
 				Tooltip:
 					'''
-					Increases jump height and flight speed
-					Increases movement speed by 20%
-					Hold down to fall quickly to the floor
-					Provides immunity to fall damage
+					Увеличивает высоту прыжка и скорость полёта
+					Увеличивает скорость передвижения на 20%
+					Удерживайте ВНИЗ, чтобы увеличить скорость падения
+					Даёт невосприимчивость к урону от падения
 					'''
 			}
 
 			ArclightOrbs: {
+				# # # # Iron Chests
+				DisplayName: Световые шары
 				# FromChests
-				DisplayName: Arclight Orbs
-				# FromChests
-				Tooltip: Throw a cluster of thunder orbs that explode into chain lightning for 80% damage
+				Tooltip: Бросает несколько громовых шаров, которые взрываются отскакивающими от врага к врагу молниями, наносящими 80% урона
 			}
 
 			ArcStaffMk2: {
@@ -2711,33 +2711,37 @@ Mods: {
 			}
 
 			TwilightAssassinsCirclet: {
-				DisplayName: Twilight Assassin Circlet
+				DisplayName: Венок сумрачного ассасина
 				Tooltip: Gamer
 			}
 
 			TwilightAssassinsChestplate: {
-				DisplayName: Twilight Assassin Chestplate
+				DisplayName: Нагрудник сумрачного ассасина
 				Tooltip:
 					'''
-					Increases max minions by 1
-					Increases melee and void critical strike chance by 10%
-					Increases life regeneration by 2 and void regeneration speed by 10%
+					Увеличивает максимальное количество миньонов на 1
+					Увеличивает шанс пустотного критического удара и  шанс критичесокго удара ближнего боя на 10%
+					Ускоряет регенерацию здоровья на 2 ед. и увеличисвает скорость восполнение пустоты на 10%
 					'''
 			}
 
 			TwilightAssassinsLeggings: {
-				DisplayName: Twilight Assassin Leggings
+				DisplayName: Поножи сумрачного ассасина
 				Tooltip:
 					'''
-					Increases movement speed by 15%
+					Увеличивает скорость передвижения на 15%
 					Blink Pack decreased cooldown by 20%
-					Slightly increased jump speed
+					Немного увеличивает скорость прыжка
 					'''
 			}
 
 			TwilightFishingPole: {
-				DisplayName: Twilight Fishing Pole
-				Tooltip: Casts two lines at once and allows the catching of Planetarium Crates anywhere
+				DisplayName: Сумрачная удочка
+				Tooltip:
+					'''
+					Бросает сразу 2 поплавка
+					Позволяет вылявливать ящики Планетариума в любом месте
+					'''
 			}
 
 			TwilightShard: {
@@ -2772,7 +2776,7 @@ Mods: {
 			}
 
 			HardlightFabricator: {
-				DisplayName: Станок по производству твёрдого света
+				DisplayName: Станок по производству твёрдосвета
 				Tooltip: Используется для создания потусторонней мебели и экиперовки
 			}
 
@@ -2940,7 +2944,7 @@ Mods: {
 				Tooltip:
 					'''
 					Раз в минуту, замораживает вашу шкалу пустоты на 15 секунд
-					Дарует невоспреимчевость к дебаффаи «{$BuffName.Slow}», «{$BuffName.Chilled}», «{$BuffName.Frozen}» и «{$BuffName.Frostburn}»
+					Дарует невосприимчивость к дебаффаи «{$BuffName.Slow}», «{$BuffName.Chilled}», «{$BuffName.Frozen}» и «{$BuffName.Frostburn}»
 					Увеличивает скорость передвижения на 10%
 					'''
 			}
@@ -2967,12 +2971,12 @@ Mods: {
 
 			FrostArtifactChestplate: {
 				DisplayName: Нагрудник морозной реликвии
-				Tooltip: Увеличивает шанс стрелкового критического удара и критического удара в ближнем бою на 16%
+				Tooltip: Увеличивает шанс стрелкового критического удара и критического удара ближнего боя на 16%
 			}
 
 			FrostArtifactHelmet: {
 				DisplayName: Маска морозной реликвии
-				Tooltip: Увеличивает урон в ближнем бою и стрелковый урон на 14%
+				Tooltip: Увеличивает урон ближнего боя и стрелковый урон на 14%
 			}
 
 			FrostArtifactTrousers: {
@@ -3238,23 +3242,23 @@ Mods: {
 			}
 
 			StarlightTonic: {
-				DisplayName: Starlight Tonic
+				DisplayName: Звёздносветовой тоник
 				Tooltip:
 					'''
-					Receive the following:
-					Assassination for 15 minutes
-					Magic Power for 13 minutes
-					Heartreach for 11 minutes
-					Mana Regeneration for 9 minutes
+					Даёт следующие баффы:
+					«{$Mods.SOTS.Buffs.Assassination.DisplayName}» на 15 минут
+					«{$BuffName.MagicPower}» на 13 минут
+					«{$BuffName.Heartreach}» на 11 минут
+					«{$BuffName.ManaRegeneration}» на 9 минут
 					'''
 			}
 
 			VibePotion: {
-				DisplayName: Vibe Potion
+				DisplayName: Атмосферное зелье
 				Tooltip:
 					'''
-					Increases attack speed by 20% while not moving and by 5% while moving
-					Increases life regeneration by 4 while not moving
+					Увеличивает скорость атаки на 20%, когда вы неподвижны, и на 5%, когда вы движетесь
+					Ускоряет регенерацию здоровья на 4 ед. (2 ОЗ/сек), когда вы неподвижны
 					'''
 			}
 
@@ -3553,8 +3557,8 @@ Mods: {
 			}
 
 			SpiritGlove: {
-				DisplayName: Spirit Glove
-				Tooltip: Increases void regeneration speed by 5% and melee critical strike chance by 8%
+				DisplayName: Перчатка духа
+				Tooltip: Увеличивает скорость восполнения пустоты на 5% и шанс критичесого удара ближнего боя на 8%
 			}
 
 			SpiritShield: {
@@ -3611,11 +3615,11 @@ Mods: {
 			}
 
 			VoidenBracelet: {
-				DisplayName: Voiden Bracelet
+				DisplayName: Пустотный браслет
 				Tooltip:
 					'''
-					Increases void damage and magic damage by 8%
-					Reduces void cost by 8%
+					Увеличивает пустотный и магический урон на 8%
+					Снижает расход пустоты на 8%
 					'''
 			}
 
@@ -3786,7 +3790,7 @@ Mods: {
 			}
 
 			Traingun: {
-				DisplayName: Train Gun
+				DisplayName: Пушка поездов
 				Tooltip: ""
 			}
 
@@ -4120,11 +4124,11 @@ Mods: {
 			}
 
 			VioletStar: {
-				DisplayName: Violet Crescent
+				DisplayName: Фиолетовый полумесяц
 				Tooltip:
 					'''
-					Permanently increases max void by 50 and void regeneration speed 5%
-					Can only be used once
+					Навсегда увеличивает максимальный запас пустоты на 50 ед. и скорость её восполнения на 5%
+					Можно использовать только 1 раз
 					'''
 			}
 
@@ -4246,7 +4250,7 @@ Mods: {
 				Tooltip:
 					'''
 					Даёт невосприимчивость к отбрасыванию и огненным блокам
-					Даёт иммунитет к большенству дебаффов
+					Даёт невосприимчивость к большенству дебаффов
 					Увеличивает получаемое количество пустоты на 2 ед. и скорость регенерации здоровья на 1 ед. (0,5 ОЗ/сек)
 					Снижает получаемый урон на 5% и увеличивает шанс критического удара на 4%
 					Вокруг вас будет двазаться 4 снаряды
@@ -4913,7 +4917,7 @@ Mods: {
 			}
 
 			HardlightBlock: {
-				DisplayName: Покрытие из твёрдого света
+				DisplayName: Твёрдосветовое покрытие
 				Tooltip: ""
 			}
 
@@ -4923,22 +4927,22 @@ Mods: {
 			}
 
 			HardlightAlloy: {
-				DisplayName: Сплав твёрдого света
+				DisplayName: Твёрдосветовой сплав
 				Tooltip: ""
 			}
 
 			StarlightAlloy: {
-				DisplayName: Starlight Alloy
+				DisplayName: Звёздносветовой сплав
 				Tooltip: ""
 			}
 
 			HardlightChair: {
-				DisplayName: Стул из твёрдого света
+				DisplayName: Твёрдосветовой стул
 				Tooltip: ""
 			}
 
 			HardlightTable: {
-				DisplayName: Стол из твёрдого света
+				DisplayName: Твёрдосветовой стол
 				Tooltip: ""
 			}
 
@@ -6474,65 +6478,65 @@ Mods: {
 		}
 
 		TerminalClusterTextList: {
-			0: Reduces max life and mana by 10
-			1: Increases ranged damage by 3%, up to 12% total
-			2: Reduces max void by 20 while in the inventory
-			3: Increases void damage by 3%, up to 12% total
-			4: Reduces life regeneration by 2
-			5: Increases melee damage by 3%, up to 12% total
-			6: Increases void drain by 0.5 while in the inventory
-			7: Increases summon damage by 3%, up to 12% total
+			0: Снижает максимальный запас здоровья и маны на 10 ед.
+			1: Увелиичивает стрелковый урон на 3%, если это значение не превышает 12%
+			2: Снижает максимальный запас пустоты на 20 ед. при нахождении в инветаре
+			3: Увелчивает пустотный урон на 3%, если это значение не превышает 12%
+			4: Замедляет регенерацию здоровья на 2 ед. (1 ОЗ/сек)
+			5: Увеличивает урон ближнего боя на 3, если это значение не превышает 12%
+			6: Увеличивает поглощение пустоты на 0,5 ед. при нахождении в инветаре
+			7: Увеличивает урон призывателя на 3%, если это значение не превышает 12%
 		}
 
 		MachinaBoosterText:
 			'''
-			Allows flight and slow fall
-			Increases void gain by 1
-			Press '{0}' to gain fast, multidirectional flight at the cost of 5 void
-			Increases void drain by 3 while active
+			Позвоялет летать и парить
+			Увеличивает получаемое количство пустоты на 1 ед.
+			Нажмите клавишу «Переключить режим полёта» ({0}), чтобы ускорить полёт во всех направлениях за 5 ед. пустоты в секунду
+			Увеличивает поглощение пустоты на 3 ед., когда эффект активен
 			'''
 		MachinaBoosterText2:
 			'''
-			Allows flight and slow fall
-			Increases void gain by 1
-			Press '{0}' to gain fast, multidirectional flight at the cost of 5 void
-			Increases void drain by 3 while active
+			Позвоялет летать и парить
+			Увеличивает получаемое количство пустоты на 1 ед.
+			Нажмите клавишу «Переключить режим полёта» ({0}), чтобы ускорить полёт во всех направлениях за 5 ед. пустоты в секунду
+			Увеличивает поглощение пустоты на 3 ед., когда эффект активен
 			'''
 		BlinkPackText:
 			'''
-			Press '{0}' to blink towards your cursor
-			Blinking through enemies will deal damage and trigger a lower cooldown, but can only be done up to 3 times in quick succession
-			Provides some immunity after dashing
-			Negates fall damage
+			Нажмите клавишу «Телепортация» ({0}), чтобы телепортироваться в место вашего курсора
+			Телепортация через врагов наносит им урон и отменяет перезарядку способности, но это сработает не более 3 раз подряд
+			Даёт кратковременную неуязвимость после рывка
+			Даёт невосприимчивость к урону от падения
 			'''
 		BlinkPackText2:
 			'''
-			Press '{0}' to blink towards your cursor
-			Blinking through enemies will deal damage and trigger a lower cooldown, but can only be done up to 3 times in quick succession
-			Provides some immunity after dashing
-			Negates fall damage
+			Нажмите клавишу «Телепортация» ({0}), чтобы телепортироваться в место вашего курсора
+			Телепортация через врагов наносит им урон и отменяет перезарядку способности, но это сработает не более 3 раз подряд
+			Даёт кратковременную неуязвимость после рывка
+			Даёт невосприимчивость к урону от падения
 			'''
 		TwilightAssassinsCircletText:
 			'''
-			Increases max minions and sentries by 1
-			Increases minion and melee damage by 7%
-			Increases max void by 50
-			Provides a Holo Eye minion to assist in combat
-			Press '{0}' to make it launch a destabilizing beam that applies 4 levels of destabilized, but only once per enemy
-			Destabilized enemies gain a 5% flat chance to be critically striked
-			Costs 6 void to launch
-			Holo Eye remains active in the inventory when favorited or while worn in vanity slots, but cannot attack
+			Увеличивает максимальное количество миньонов и стражей на 1
+			Увеличивает урон призывателя и ближнего боя на 7%
+			Увеличивает максимальный запас пустоты на 50 ед.
+			Призывает голографический глаз помогать вам в бою
+			Нажмите клавишу «Бонус комплекта брони» ({0}), чтобы выпустить дестабилизирующий луч, который может наложить дестабилизацию на 4 врагов
+			У дестибилизированных врагов на 5% больше шанс получить критический удар. На этот шанс не влияют остальные бонусы к шансу критического удара
+			Запуск луча расходует 6 ед. пустоты
+			Голографический глаз продолжит летать с вами, если добавить венок в изобранное или поместить его в слот украшений, но тогда он не сможет атаковать
 			'''
 		TwilightAssassinsCircletText2:
 			'''
-			Increases max minions and sentries by 1
-			Increases minion and melee damage by 7%
-			Increases max void by 50
-			Provides a Holo Eye minion to assist in combat
-			Press '{0}' to make it launch a destabilizing beam that applies 4 levels of destabilized, but only once per enemy
-			Destabilized enemies gain a 5% flat chance to be critically striked
-			Costs 6 void to launch
-			Holo Eye remains active in the inventory when favorited or while worn in vanity slots, but cannot attack
+			Увеличивает максимальное количество миньонов и стражей на 1
+			Увеличивает урон призывателя и ближнего боя на 7%
+			Увеличивает максимальный запас пустоты на 50 ед.
+			Призывает голографический глаз помогать вам в бою
+			Нажмите клавишу «Бонус комплекта брони» ({0}), чтобы выпустить дестабилизирующий луч, который может наложить дестабилизацию на 4 врагов
+			У дестибилизированных врагов на 5% больше шанс получить критический удар. На этот шанс не влияют остальные бонусы к шансу критического удара
+			Запуск луча расходует 6 ед. пустоты
+			Голографический глаз продолжит летать с вами, если добавить венок в изобранное или поместить его в слот украшений, но тогда он не сможет атаковать
 			'''
 
 		UndoArrow: {

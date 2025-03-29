@@ -1,0 +1,18 @@
+ChaosState: Teleportation Cooldown
+PotionSickness: Healing Cooldown
+Electrocells: Electrocell Discharge Cooldown
+PeculiarPotLife: Peculiar Pot Durability
+WarpPod: Warp Pod Cooldown
+WarriorsAmphora: Death Warp Cooldown
+WulfrumBastionRecharge: Wulfrum Bastion Cooldown
+WulfrumBastionDurability: Power Armor Durability
+WulfrumRoverDriveDurability: Protective Matrix Durability
+WulfrumRoverDriveRecharge: Protective Matrix Recharge
+
+SettingOption: {
+	Label: "Cooldown Style: "
+	Fancy: Fancy
+	Square: Square
+	Compact: Compact
+	Disabled: Hidden
+}

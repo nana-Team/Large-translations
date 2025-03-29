@@ -131,187 +131,187 @@ Mods: {
 		}
 
 		Projectiles: {
-			AntlionChunk.DisplayName: Antlion Chunk
-			DesertScourgeElectroblast.DisplayName: a voltful blast
-			DesertScourgeFallingSkull.DisplayName: Desert Scourge's Skull
-			PlatformElectrification.DisplayName: over 2000 volts
-			StormlionChunk.DisplayName: Stormlion Chunk
-			CrabulonClawHitbox.DisplayName: Crabulon
-			CrabulonDropHitbox.DisplayName: Crabulon
-			CrabulonSporeSeed.DisplayName: Spore Seed
-			CrabulonStomp.DisplayName: fungal shockwave
-			LingeringSporeGas.DisplayName: Spore Gas
-			SporedSkeleton.DisplayName: a spored corpse
-			NautilusDashSlice.DisplayName: Nautilus' complete mastery over his trident
-			NautilusTrident.DisplayName: Trident
-			SandstoneBoulder.DisplayName: a sandstone boulder
-			SignathionSpectralBolt.DisplayName: Spectral Water
-			ElectrocellDischarge.DisplayName: Unstable Discharge
-			CrabSpirit.DisplayName: Crab Spirit
-			InfestationExplosionHitbox.DisplayName: Mycelium Explosion
-			InfestationRot.DisplayName: Rot
-			InkyCapGuardian.DisplayName: Inky Cap Guardian
-			InkyCapSporeBomb.DisplayName: Seed
-			ManaMushroom.DisplayName: Mana Mushroom
-			MushSlingshot.DisplayName: Mushroom Hook
-			OvergrownClawProjectile.DisplayName: Claw
-			OvergrownClawSlamHitbox.DisplayName: Seismic Shock
-			SerratedMyceliumHook.DisplayName: Serrated Thread
-			SporePodSplort.DisplayName: Splort
-			SporethrowerJet.DisplayName: Spores
-			SyringeGunDart.DisplayName: Syringe
-			WarpPod.DisplayName: Warp Pod
-			PeculiarPotTarBlot.DisplayName: Tar Blot
-			PeculiarPotTarRing.DisplayName: Tar
-			PeculiarPotTarTrail.DisplayName: Tar
-			AmpstringArrow.DisplayName: Ampstring Arrow
-			AmpstringNeedle.DisplayName: Ampstring Needle
-			CarrionDetonatorMeatBlast.DisplayName: Meatblast
-			CarrionDetonatorMeatChunk.DisplayName: Meatball
-			CarrionDetonatorWindWave.DisplayName: Wind Slice
-			MiniElectroblast.DisplayName: BALLIN' BLAST
-			RegurgitatedBuff.DisplayName: Regurgitated Meal
-			StormlionWhipProjectile.DisplayName: Stormlion Whip
-			TinyScourgePet.DisplayName: Tiny Scourge
-			TornElectrosacBall.DisplayName: BALLING SO HARD
-			AcidExplosion.DisplayName: Acid Explosion
-			BouncyDartProj.DisplayName: Bouncy Dart
-			BrambleMinion.DisplayName: Tumbleweed
-			BundleOfCaltropsProjectile.DisplayName: Bundle of Caltrops
-			Caltrop.DisplayName: Caltrop
-			CloudInAMaceProjectile.DisplayName: Cloud in a Mace
-			CloudySpikeBallProjectile.DisplayName: Cloudy Spiky Ball
-			CrackshotBlast.DisplayName: Blast
-			CrackshotCoin.DisplayName: Coin
-			DesertScourgeLightningStrike.DisplayName: Thunder Strike
-			EyetoothMincedMeat.DisplayName: Minced Meat
-			EyetoothRipperProjectile.DisplayName: Eyetooth Ripper
-			FanaticalMaskGlobule.DisplayName: Blood Cell
-			FanaticalMaskProjectile.DisplayName: Fanatical Mask
-			FanaticalMaskTendril.DisplayName: Blood Tendril
-			LeechExplosion.DisplayName: Neurotoxin Explosion
-			ObsidianThrowingDaggerProj.DisplayName: Dagger
-			PlasmaRodBlast.DisplayName: Plasma Blast
-			PlasmaRodBoltExplosion.DisplayName: Plasma Explosion
-			PlasmaRodDart.DisplayName: Plasma Dart
-			PontiffsPiperBloodShot.DisplayName: Blood Shot
-			PontiffsPiperBuffNotes.DisplayName: Toot
-			PontiffsPiperNotes.DisplayName: Toot
-			PontiffsPiperSquid.DisplayName: Blood Piper
-			SpikedBallFragment.DisplayName: Shrapnel
-			SpikedBallProjectile.DisplayName: Spiked Ball
-			WoodenDartProj.DisplayName: Wooden Dart
-			MarniteDeconstructorProj.DisplayName: Marnite Deconstructor
-			MarniteRepulsionHitbox.DisplayName: Repulsion Matrix
-			MarniteObliteratorProj.DisplayName: Marnite Obliterator
-			LittleDragonfish.DisplayName: Little Dragonfish
-			NautilusGhostApparition.DisplayName: Nautilus
-			PossessedTridentProjectile.DisplayName: Trident
-			WulfrumBolt.DisplayName: Bolt
-			WulfrumDiggingTurtleProjectile.DisplayName: Digging Turtle
-			WulfrumDrillProj.DisplayName: Drill
-			WulfrumDroid.DisplayName: Wulfrum Droid
-			WulfrumEnergyBurst.DisplayName: Bolt
-			WulfrumFusionBolt.DisplayName: Fusion Bolt
-			WulfrumHook.DisplayName: Wulfrum Slingshot
-			WulfrumManaDrain.DisplayName: Mana Drain
-			WulfrumScaffoldKitHoldout.DisplayName: Wulfrum Scaffold Kit
-			WulfrumScrapBullet.DisplayName: High Speed Scrap
-			WulfrumScrapFalling.DisplayName: Falling Wulfrum Scrap
-			WulfrumScrew.DisplayName: Screw
-			WulfrumScrewdriverProj.DisplayName: Screwdriver
-			CloudSpriteFist.DisplayName: Cloudy Fist
-			WulfrumMortarExplosion.DisplayName: Explosion
-			WulfrumMortarShell.DisplayName: Gyro Shell
-			WulfrumNexusShot.DisplayName: energy bolt
-			WulfrumScrapProjectile.DisplayName: Scrap
-			GroundStomp.DisplayName: a shockwave
-			HostileDirectStrike.DisplayName: a strong blow
-			MauricingScourgeHead.DisplayName: Maurice
-			SandstoneGraveyardGhost.DisplayName: Ghost
-			AshenGraveMarkerProjectile.DisplayName: Ashen могильная табличка
-			AshenHeadstoneProjectile.DisplayName: Ashen надгробие
-			AshenTombstoneProjectile.DisplayName: Ashen надгробная плита
-			AshenGravestoneProjectile.DisplayName: Ashen могильная плита
-			CoralGraveMarkerProjectile.DisplayName: Coral могильная табличка
-			CoralTombstoneProjectile.DisplayName: Coral надгробная плита
-			ReefGraveMarkerProjectile.DisplayName: Reef могильная табличка
-			ReefTombstoneProjectile.DisplayName: Reef надгробная плита
-			CorruptCrossGraveMarkerProjectile.DisplayName: Corrupt могильный крест
-			CorruptObeliskProjectile.DisplayName: Corrupt обелиск
-			CorruptTombstoneProjectile.DisplayName: Corrupt надгробная плита
-			CorruptGraveMarkerProjectile.DisplayName: Corrupt могильная табличка
-			CrimsonTombstoneProjectile.DisplayName: Crimson надгробная плита
-			CrimsonGraveMarkerProjectile.DisplayName: Crimson могильная табличка
-			CrimsonHeadstoneProjectile.DisplayName: Crimson надгробие
-			CrimsonCrossGraveMarkerProjectile.DisplayName: Crimson могильный крест
-			CrimtaneTombstoneProjectile.DisplayName: Crimtane надгробная плита
-			CrimtaneObeliskProjectile.DisplayName: Crimtane обелиск
-			CrimtaneHeadstoneProjectile.DisplayName: Crimtane надгробие
-			CrimtaneGraveMarkerProjectile.DisplayName: Crimtane могильная табличка
-			CrystalTombstoneProjectile.DisplayName: Crystal надгробная плита
-			CrystalHeadstoneProjectile.DisplayName: Crystal надгробие
-			CrystalGraveMarkerProjectile.DisplayName: Crystal могильная табличка
-			CrystalGravestoneProjectile.DisplayName: Crystal могильная плита
-			DemoniteHeadstoneProjectile.DisplayName: Demonite надгробие
-			DemoniteObeliskProjectile.DisplayName: Demonite обелиск
-			DemoniteTombstoneProjectile.DisplayName: Demonite надгробная плита
-			DemoniteGraveMarkerProjectile.DisplayName: Demonite могильная табличка
-			FrozenHeadstoneProjectile.DisplayName: Frozen надгробие
-			FrozenTombstoneProjectile.DisplayName: Frozen надгробная плита
-			FrozenGraveMarkerProjectile.DisplayName: Frozen могильная табличка
-			FrozenObeliskProjectile.DisplayName: Frozen обелиск
-			GoldenFrozenHeadstoneProjectile.DisplayName: Golden Frozen надгробие
-			GoldenFrozenTombstoneProjectile.DisplayName: Golden Frozen надгробная плита
-			GoldenFrozenGraveMarkerProjectile.DisplayName: Golden Frozen могильная табличка
-			GoldenFrozenObeliskProjectile.DisplayName: Golden Frozen обелиск
-			GoldenMycelialCrossGraveMarkerProjectile.DisplayName: Golden Mycelial могильный крест
-			GoldenMycelialGraveMarkerProjectile.DisplayName: Golden Mycelial могильная табличка
-			GoldenMycelialHeadstoneProjectile.DisplayName: Golden Mycelial надгробие
-			GoldenMycelialTombstoneProjectile.DisplayName: Golden Mycelial надгробная плита
-			GoldenSandstoneGravestoneProjectile.DisplayName: Golden Sandstone могильная плита
-			GoldenSandstoneTombstoneProjectile.DisplayName: Golden Sandstone надгробная плита
-			GoldenSandstoneObeliskProjectile.DisplayName: Golden Sandstone обелиск
-			GoldenSandstoneHeadstoneProjectile.DisplayName: Golden Sandstone надгробие
-			BambooGraveMarkerProjectile.DisplayName: Bamboo могильная табличка
-			JungleGraveMarkerProjectile.DisplayName: Jungle могильная табличка
-			JungleCrossGraveMarkerProjectile.DisplayName: Jungle могильный крест
-			JungleHeadstoneProjectile.DisplayName: Jungle надгробие
-			LihzahrdGravestoneProjectile.DisplayName: Lihzahrd могильная плита
-			LihzahrdTombstoneProjectile.DisplayName: Lihzahrd надгробная плита
-			LihzahrdGraveMarkerProjectile.DisplayName: Lihzahrd могильная табличка
-			LihzahrdHeadstoneProjectile.DisplayName: Lihzahrd надгробие
-			MantleGraveMarkerProjectile.DisplayName: Mantle могильная табличка
-			MantleHeadstoneProjectile.DisplayName: Mantle надгробие
-			MantleTombstoneProjectile.DisplayName: Mantle надгробная плита
-			MantleGravestoneProjectile.DisplayName: Mantle могильная плита
-			MycelialHeadstoneProjectile.DisplayName: Mycelial надгробие
-			MycelialGravestoneProjectile.DisplayName: Mycelial могильная плита
-			MycelialGraveMarkerProjectile.DisplayName: Mycelial могильная табличка
-			MycelialTombstoneProjectile.DisplayName: Mycelial надгробная плита
-			PearlstoneTombstoneProjectile.DisplayName: Pearlstone надгробная плита
-			PearlwoodGraveMarkerProjectile.DisplayName: Pearlwood могильная табличка
-			PearlstoneGraveMarkerProjectile.DisplayName: Pearlstone могильная табличка
-			PearlstoneGravestoneProjectile.DisplayName: Pearlstone могильная плита
-			SandstoneGraveMarkerProjectile.DisplayName: Sandstone могильная табличка
-			SandstoneTombstoneProjectile.DisplayName: Sandstone надгробная плита
-			SandstoneObeliskProjectile.DisplayName: Sandstone обелиск
-			SandstoneCrossGraveMarkerProjectile.DisplayName: Sandstone могильный крест
-			PalmwoodCrossGraveMarkerProjectile.DisplayName: Palmwood могильный крест
-			PalmwoodGraveMarkerProjectile.DisplayName: Palmwood могильная табличка
-			PalmwoodShipwreckMarkerProjectile.DisplayName: Palmwood Shipwreck Marker
-			SeashellTombstoneProjectile.DisplayName: Seashell надгробная плита
-			SkyGraveMarkerProjectile.DisplayName: Sky могильная табличка
-			SkyCrossGraveMarkerProjectile.DisplayName: Sky могильный крест
-			SkyGravestoneProjectile.DisplayName: Sky могильная плита
-			SkyCairnProjectile.DisplayName: Sky Cairn
-			SkywareTombstoneProjectile.DisplayName: Skyware надгробная плита
-			SkywareCrossGraveMarkerProjectile.DisplayName: Skyware могильный крест
-			SkywareHeadstoneProjectile.DisplayName: Skyware надгробие
-			SkywareGraveMarkerProjectile.DisplayName: Skyware могильная табличка
-			WulfrumLureSignal.DisplayName: Signal
-			SporedCorpse.DisplayName: Spored Corpse
-			BurntCorpse.DisplayName: Burnt Corpse
+			AntlionChunk.DisplayName: Кусок муравьиного льва
+			DesertScourgeElectroblast.DisplayName: Многовольтный взрыв
+			DesertScourgeFallingSkull.DisplayName: Череп Пустынного бича
+			PlatformElectrification.DisplayName: Удар током более 2000 вольт
+			StormlionChunk.DisplayName: Кусок штормового льва
+			CrabulonClawHitbox.DisplayName: Крабулон
+			CrabulonDropHitbox.DisplayName: Крабулон
+			CrabulonSporeSeed.DisplayName: Споровое семя
+			CrabulonStomp.DisplayName: Грибная ударная волна
+			LingeringSporeGas.DisplayName: Споровый газ
+			SporedSkeleton.DisplayName: Проросший грибами труп
+			NautilusDashSlice.DisplayName: Мастерское владение трезубцем Наутилуса
+			NautilusTrident.DisplayName: Трезубец
+			SandstoneBoulder.DisplayName: Песчаниковый валун
+			SignathionSpectralBolt.DisplayName: Призрачная вода
+			ElectrocellDischarge.DisplayName: Нестабильный разряд
+			CrabSpirit.DisplayName: Дух краба
+			InfestationExplosionHitbox.DisplayName: Мицелиевый взрыв
+			InfestationRot.DisplayName: Гниль
+			InkyCapGuardian.DisplayName: Страж в чернильной шамочке
+			InkyCapSporeBomb.DisplayName: Семя
+			ManaMushroom.DisplayName: Мана-гриб
+			MushSlingshot.DisplayName: Грибной крюк
+			OvergrownClawProjectile.DisplayName: Клешня
+			OvergrownClawSlamHitbox.DisplayName: Землятрясение
+			SerratedMyceliumHook.DisplayName: Колючая нить
+			SporePodSplort.DisplayName: Брызг
+			SporethrowerJet.DisplayName: Споры
+			SyringeGunDart.DisplayName: Шприц
+			WarpPod.DisplayName: Стручок червоточины
+			PeculiarPotTarBlot.DisplayName: Смоляной брызг
+			PeculiarPotTarRing.DisplayName: Смола
+			PeculiarPotTarTrail.DisplayName: Смола
+			AmpstringArrow.DisplayName: Стрела струны-усилителя
+			AmpstringNeedle.DisplayName: Игла струны-усилителя
+			CarrionDetonatorMeatBlast.DisplayName: Мясовзрыв
+			CarrionDetonatorMeatChunk.DisplayName: Мясной шар
+			CarrionDetonatorWindWave.DisplayName: Ветряной разрез
+			MiniElectroblast.DisplayName: КРУТЕЦКИЙ ВЗРЫВ
+			RegurgitatedBuff.DisplayName: Отрыгнутая еда
+			StormlionWhipProjectile.DisplayName: Хлыст штормового льва
+			TinyScourgePet.DisplayName: Крошка бич
+			TornElectrosacBall.DisplayName: ШЕДЕВРОМЯЧ
+			AcidExplosion.DisplayName: Кислотный взрыв
+			BouncyDartProj.DisplayName: Отскакивающий дротик
+			BrambleMinion.DisplayName: Перекати-поле
+			BundleOfCaltropsProjectile.DisplayName: Мешок ежей
+			Caltrop.DisplayName: Ёж
+			CloudInAMaceProjectile.DisplayName: Облако в булаве
+			CloudySpikeBallProjectile.DisplayName: Шипастый облачный шар
+			CrackshotBlast.DisplayName: Взрыв
+			CrackshotCoin.DisplayName: Монета
+			DesertScourgeLightningStrike.DisplayName: Удар грома
+			EyetoothMincedMeat.DisplayName: Мясной шарф
+			EyetoothRipperProjectile.DisplayName: Зубоглаз-потрошитель
+			FanaticalMaskGlobule.DisplayName: Тромбоцит
+			FanaticalMaskProjectile.DisplayName: Маска фанатика
+			FanaticalMaskTendril.DisplayName: Кровавый вырост
+			LeechExplosion.DisplayName: Взрыв нейротоксина
+			ObsidianThrowingDaggerProj.DisplayName: Нож
+			PlasmaRodBlast.DisplayName: Плазменный выстрел
+			PlasmaRodBoltExplosion.DisplayName: Плазменный взрыв
+			PlasmaRodDart.DisplayName: Плазменный выстрел
+			PontiffsPiperBloodShot.DisplayName: Кровавый плевок
+			PontiffsPiperBuffNotes.DisplayName: Зуб
+			PontiffsPiperNotes.DisplayName: Зуб
+			PontiffsPiperSquid.DisplayName: Кальмар-дудочника
+			SpikedBallFragment.DisplayName: Осколок
+			SpikedBallProjectile.DisplayName: Колючий шар
+			WoodenDartProj.DisplayName: Деревянный дротик
+			MarniteDeconstructorProj.DisplayName: Мранитовый расщипитель
+			MarniteRepulsionHitbox.DisplayName: Репульсионная матрица
+			MarniteObliteratorProj.DisplayName: Мранитовый уничтожитель
+			LittleDragonfish.DisplayName: Маленькая драконья рыба
+			NautilusGhostApparition.DisplayName: Наутилус
+			PossessedTridentProjectile.DisplayName: Трезубец
+			WulfrumBolt.DisplayName: Выстрел
+			WulfrumDiggingTurtleProjectile.DisplayName: Черепаха-копатель
+			WulfrumDrillProj.DisplayName: Бур
+			WulfrumDroid.DisplayName: Вульфрумовый дроид
+			WulfrumEnergyBurst.DisplayName: Выстерл
+			WulfrumFusionBolt.DisplayName: Фузионный выстрел
+			WulfrumHook.DisplayName: Вульфрумовый канат
+			WulfrumManaDrain.DisplayName: Похищение маны
+			WulfrumScaffoldKitHoldout.DisplayName: Вульфрумовый набор строительных лесов
+			WulfrumScrapBullet.DisplayName: Высокосокростной металлалом
+			WulfrumScrapFalling.DisplayName: Падающий вульфрумовый металлалом
+			WulfrumScrew.DisplayName: Винт
+			WulfrumScrewdriverProj.DisplayName: Отвёртка
+			CloudSpriteFist.DisplayName: Облачный удар
+			WulfrumMortarExplosion.DisplayName: Вхрыв
+			WulfrumMortarShell.DisplayName: Вульфрумовый заряд
+			WulfrumNexusShot.DisplayName: Энергетический выстрел
+			WulfrumScrapProjectile.DisplayName: Металлалом
+			GroundStomp.DisplayName: Ударная волна
+			HostileDirectStrike.DisplayName: Сильный удар
+			MauricingScourgeHead.DisplayName: Остантки
+			SandstoneGraveyardGhost.DisplayName: Призрак
+			AshenGraveMarkerProjectile.DisplayName: Пепельная могильная табличка
+			AshenHeadstoneProjectile.DisplayName: Пепльное надгробие
+			AshenTombstoneProjectile.DisplayName: Пепельнпя надгробная плита
+			AshenGravestoneProjectile.DisplayName: Пепельная могильная плита
+			CoralGraveMarkerProjectile.DisplayName: Коралловая могильная табличка
+			CoralTombstoneProjectile.DisplayName: Коралловая надгробная плита
+			ReefGraveMarkerProjectile.DisplayName: Рифовая могильная табличка
+			ReefTombstoneProjectile.DisplayName: Рифовая надгробная плита
+			CorruptCrossGraveMarkerProjectile.DisplayName: Икажённый могильный крест
+			CorruptObeliskProjectile.DisplayName: Икажённый обелиск
+			CorruptTombstoneProjectile.DisplayName: Икажённая надгробная плита
+			CorruptGraveMarkerProjectile.DisplayName: Икажённая могильная табличка
+			CrimsonTombstoneProjectile.DisplayName: Багровая надгробная плита
+			CrimsonGraveMarkerProjectile.DisplayName: Багровая могильная табличка
+			CrimsonHeadstoneProjectile.DisplayName: Багровое надгробие
+			CrimsonCrossGraveMarkerProjectile.DisplayName: Багровый могильный крест
+			CrimtaneTombstoneProjectile.DisplayName: Багротановая надгробная плита
+			CrimtaneObeliskProjectile.DisplayName: Багротановый обелиск
+			CrimtaneHeadstoneProjectile.DisplayName: Багротановое надгробие
+			CrimtaneGraveMarkerProjectile.DisplayName: Багротановая могильная табличка
+			CrystalTombstoneProjectile.DisplayName: Кристальная надгробная плита
+			CrystalHeadstoneProjectile.DisplayName: Кристальное надгробие
+			CrystalGraveMarkerProjectile.DisplayName: Кристальная могильная табличка
+			CrystalGravestoneProjectile.DisplayName: Кристальная могильная плита
+			DemoniteHeadstoneProjectile.DisplayName: Демонитовое надгробие
+			DemoniteObeliskProjectile.DisplayName: Демонитовый обелиск
+			DemoniteTombstoneProjectile.DisplayName: Демонитовая надгробная плита
+			DemoniteGraveMarkerProjectile.DisplayName: Демонитовая могильная табличка
+			FrozenHeadstoneProjectile.DisplayName: Замороженное надгробие
+			FrozenTombstoneProjectile.DisplayName: Замороженная надгробная плита
+			FrozenGraveMarkerProjectile.DisplayName: Замороженная могильная табличка
+			FrozenObeliskProjectile.DisplayName: Замороженный обелиск
+			GoldenFrozenHeadstoneProjectile.DisplayName: Золотое замороженное надгробие
+			GoldenFrozenTombstoneProjectile.DisplayName: Золотая замороженная надгробная плита
+			GoldenFrozenGraveMarkerProjectile.DisplayName: Золотая замороженная могильная табличка
+			GoldenFrozenObeliskProjectile.DisplayName: Золотой замороженный обелиск
+			GoldenMycelialCrossGraveMarkerProjectile.DisplayName: Золотой мицеливый могильный крест
+			GoldenMycelialGraveMarkerProjectile.DisplayName: Золотая мицеливая могильная табличка
+			GoldenMycelialHeadstoneProjectile.DisplayName: Золотая мицеливая надгробие
+			GoldenMycelialTombstoneProjectile.DisplayName: Золотая мицеливая надгробная плита
+			GoldenSandstoneGravestoneProjectile.DisplayName: Золотая песчаниковая могильная плита
+			GoldenSandstoneTombstoneProjectile.DisplayName: Золотая песчаниковая надгробная плита
+			GoldenSandstoneObeliskProjectile.DisplayName: Золотой песчаниковый обелиск
+			GoldenSandstoneHeadstoneProjectile.DisplayName: Золотое песчаниковое надгробие
+			BambooGraveMarkerProjectile.DisplayName: Бамбуковая могильная табличка
+			JungleGraveMarkerProjectile.DisplayName: Могильная табличка джунглей
+			JungleCrossGraveMarkerProjectile.DisplayName: Могильный крест джунглей
+			JungleHeadstoneProjectile.DisplayName: Надгробие джунглей 
+			LihzahrdGravestoneProjectile.DisplayName: Ящщеровая могильная плита
+			LihzahrdTombstoneProjectile.DisplayName: Ящщеровая надгробная плита
+			LihzahrdGraveMarkerProjectile.DisplayName: Ящщеровая могильная табличка
+			LihzahrdHeadstoneProjectile.DisplayName: Ящщеровое надгробие
+			MantleGraveMarkerProjectile.DisplayName: Магматическая могильная табличка
+			MantleHeadstoneProjectile.DisplayName: Магматическое надгробие
+			MantleTombstoneProjectile.DisplayName: Магматическая надгробная плита
+			MantleGravestoneProjectile.DisplayName: Магматическая могильная плита
+			MycelialHeadstoneProjectile.DisplayName: Мицеливое надгробие
+			MycelialGravestoneProjectile.DisplayName: Мицеливая могильная плита
+			MycelialGraveMarkerProjectile.DisplayName: Мицеливая могильная табличка
+			MycelialTombstoneProjectile.DisplayName: Мицеливая надгробная плита
+			PearlstoneTombstoneProjectile.DisplayName: Жемчужная надгробная плита
+			PearlwoodGraveMarkerProjectile.DisplayName: Деревянная жемчужная могильная табличка
+			PearlstoneGraveMarkerProjectile.DisplayName: Жемчужная могильная табличка
+			PearlstoneGravestoneProjectile.DisplayName: Жемчужная могильная плита
+			SandstoneGraveMarkerProjectile.DisplayName: Песчаниковая могильная табличка
+			SandstoneTombstoneProjectile.DisplayName: Песчаниковая надгробная плита
+			SandstoneObeliskProjectile.DisplayName: Песчаниковый обелиск
+			SandstoneCrossGraveMarkerProjectile.DisplayName: Песчаниковый могильный крест
+			PalmwoodCrossGraveMarkerProjectile.DisplayName: Пальмовый могильный крест
+			PalmwoodGraveMarkerProjectile.DisplayName: Пальмовая могильная табличка
+			PalmwoodShipwreckMarkerProjectile.DisplayName: Пальмовый крест кораблекрушения
+			SeashellTombstoneProjectile.DisplayName: Ракушечная надгробная плита
+			SkyGraveMarkerProjectile.DisplayName: Небесная могильная табличка
+			SkyCrossGraveMarkerProjectile.DisplayName: Небесный могильный крест
+			SkyGravestoneProjectile.DisplayName: Небесная могильная плита
+			SkyCairnProjectile.DisplayName: Небесный курган
+			SkywareTombstoneProjectile.DisplayName: Заоблачная надгробная плита
+			SkywareCrossGraveMarkerProjectile.DisplayName: Заоблачный могильный крест
+			SkywareHeadstoneProjectile.DisplayName: Заоблачное надгробие
+			SkywareGraveMarkerProjectile.DisplayName: Заоблачная могильная табличка
+			WulfrumLureSignal.DisplayName: Сигнал
+			SporedCorpse.DisplayName: Покрытый спорами труп
+			BurntCorpse.DisplayName: Обгоревший труп
 		}
 
 		Items: {
@@ -744,11 +744,11 @@ Mods: {
 			}
 
 			EyetoothRipper: {
-				DisplayName: Клыкоруб
+				DisplayName: Зубоглаз-потрошитель
 				Tooltip:
 					'''
-					Забивается кровью при ударах по врагам
-					Нажмите ПКМ, чтобы выбросить забившуюся кровь
+					Забивается мясом при ударах по врагам
+					Нажмите ПКМ, чтобы выбросить забившееся мясо
 					[c/A1A1A1:«Что ты вообще такое? Какой-то тип человека-циркулярной пилы?»]
 					'''
 			}
@@ -2465,7 +2465,7 @@ Mods: {
 			}
 
 			TinyScourgePetBuff: {
-				DisplayName: Дитя бича
+				DisplayName: Крошка бич
 				Description: Видит только цель перед собой
 			}
 

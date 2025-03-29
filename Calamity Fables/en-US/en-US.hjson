@@ -56,7 +56,7 @@ Mods: {
 			WulfrumWashingMachine.MapEntry: Wulfrum Washing Machine
 			WulfrumWashingMachinePoster.MapEntry: Poster
 			WulfrumWideComputer.MapEntry: Wulfrum Computer
-			WulfrumWorkbench.MapEntry: Wulfrum Workbench
+			WulfrumWorkbench.MapEntry: Wulfrum Work Bench
 			WulfrumWorkshop.MapEntry: Wulfrum Workshop
 			Wulfrum1x1Piles.MapEntry: Scrap
 			Wulfrum1x1PilesEcho.MapEntry: Scrap
@@ -602,6 +602,7 @@ Mods: {
 					A ceramic pot containing a strange fluid
 					Allows you to turn into tar and retract into the pot, reducing damage taken by {0}
 					You're unable to attack while inside the pot, and the pot will shatter after taking more than {1} damage
+					Damage ramps back up from zero over a short period of time after exiting the pot
 					'''
 			}
 
@@ -887,7 +888,7 @@ Mods: {
 				DisplayName: Sailfish Greaves
 				Tooltip:
 					'''
-					Movement speed increased by 5%
+					5% increased movement speed
 					Grants the ability to swim
 					'The boots have webbed feet...'
 					'''
@@ -997,7 +998,11 @@ Mods: {
 
 			EnergyCore: {
 				DisplayName: Energy Core
-				Tooltip: It pulses with energy
+				Tooltip:
+					'''
+					It pulses with energy
+					Can only be obtained by destroying a Wulfrum machine while a Nexus is empowering it
+					'''
 			}
 
 			RoverDrive: {
@@ -1092,7 +1097,7 @@ Mods: {
 
 			WulfrumOveralls: {
 				DisplayName: Wulfrum Overalls
-				Tooltip: Movement speed increased by 5%
+				Tooltip: 5% increased movement speed
 			}
 
 			WulfrumProsthesis: {
@@ -2100,7 +2105,7 @@ Mods: {
 			}
 
 			WulfrumWorkbenchItem: {
-				DisplayName: Wulfrum Workbench
+				DisplayName: Wulfrum Work Bench
 				Tooltip: ""
 			}
 
@@ -2244,9 +2249,9 @@ Mods: {
 				DisplayName: Wire Spool
 				Tooltip:
 					'''
-					Can be placed on solid tiles, but also lamps
+					Can be placed on solid tiles and lamps
 					Press Up/Down to adjust the wire curvature
-					"What are these, some kind of Calamity Cables??"
+					'What are these, some kind of Calamity Cables??'
 					'''
 			}
 
@@ -2326,6 +2331,30 @@ Mods: {
 			DustyBricksLichenItem: {
 				DisplayName: Drab Lichen
 				Tooltip: ""
+			}
+
+			CrabulonBossMaskAlt1: {
+				DisplayName: Fungal Crabulon Mask
+				Tooltip: ""
+			}
+
+			CrabulonBossMaskAlt2: {
+				DisplayName: Hairy Crabulon Mask
+				Tooltip: ""
+			}
+
+			SirNautilusTreasureBag: {
+				DisplayName: Treasure Bag (Sir Nautilus)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			SandstoneAccentBrickItem: {
+				DisplayName: Sandstone Accent Brick
+				Tooltip:
+					'''
+					A Sandstone Brick variant that merges better with sandy tiles
+					Favored by advanced builders
+					'''
 			}
 		}
 

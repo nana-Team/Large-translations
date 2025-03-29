@@ -1,20 +1,19 @@
 Names: {
 	NautilusPendant: Royal Pendant
-	NautilusPendant1: Royal Pendant (1)
-	NautilusPendant2: Royal Pendant (2)
-	OgsculePendant: Ogscule Pendant
+	Test: Test Pendant
 }
 
 Descriptions: {
 	NautilusPendant: Given to members of the Royal Remora Squadron.
-	NautilusPendant1: Given to new seaguards. 1
-	NautilusPendant2: Given to new seaguards. 2
-	OgsculePendant: Ocsculaire
+	Test: Test test debug hello
 }
 
 NameColors: {
 	NautilusPendant: FFCC41
-	NautilusPendant1: FFCC41
-	NautilusPendant2: FFCC41
-	OgsculePendant: FF0900
+	Test: FF0900
+}
+
+TabNames: {
+	Open: Keepsakes
+	Close: Close
 }

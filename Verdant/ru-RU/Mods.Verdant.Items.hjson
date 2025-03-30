@@ -985,74 +985,74 @@ Shellfish: {
 }
 
 BowlFruit: {
-	DisplayName: Bowl Fruit
+	DisplayName: Фрукт-чашечник
 	Tooltip:
 		'''
-		Minor improvements to all stats
-		'Warter'
+		Немного повышает все характеристики
+		«Жидкий внутри» 
 		'''
 }
 
 Dropberry: {
-	DisplayName: Dropberry
+	DisplayName: Росинка
 	Tooltip:
 		'''
-		Minor improvements to all stats
-		'Smells like petrichor'
+		Немного повышает все характеристики
+		«Пахнет как дождь» 
 		'''
 }
 
 FloralTea: {
-	DisplayName: Floral Tea
+	DisplayName: Цветочный чай
 	Tooltip:
 		'''
-		Minor improvements to all stats
-		'A snakes' special recipe'
+		Немного повышает все характеристики
+		«Особый рецепт мудрой змеи» 
 		'''
 }
 
 Grapecherry: {
-	DisplayName: Grapecherry
+	DisplayName: Вишнеград
 	Tooltip:
 		'''
-		Minor improvements to all stats
-		'An odd but tasty combination'
+		Немного повышает все характеристики
+		«Странное, но вкусное сочетание» 
 		'''
 }
 
 HoneyNuggets: {
-	DisplayName: Honey Nuggets
+	DisplayName: Медовые наггетсы
 	Tooltip:
 		'''
-		Minor improvements to all stats
-		'Exceptionally good despite the origin'
+		Немного повышает все характеристики
+		«Исключительно хороши, несмотря на происхождение» 
 		'''
 }
 
 Mystuber: {
-	DisplayName: Mystuber
+	DisplayName: Загадочный клубень
 	Tooltip:
 		'''
-		Minor improvements to all stats
-		'Perplexing! Confounding! Befuddling!'
+		Немного повышает все характеристики
+		«Удивительно! Парадоксально! Необъяснимо!» 
 		'''
 }
 
 Walnut: {
-	DisplayName: Walnut
+	DisplayName: Грецкий орех
 	Tooltip:
 		'''
-		Minor improvements to all stats
-		'Your teeth will see better days'
+		Немного повышает все характеристики
+		«Твои зубы познают лучшие дни» 
 		'''
 }
 
 Waterberry: {
-	DisplayName: Waterberry
+	DisplayName: Водяника
 	Tooltip:
 		'''
-		Minor improvements to all stats
-		'Almost like candy!'
+		Немного повышает все характеристики
+		«Прям как ледянцы!» 
 		'''
 }
 

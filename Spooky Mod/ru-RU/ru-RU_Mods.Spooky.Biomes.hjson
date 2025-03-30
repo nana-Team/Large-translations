@@ -59,6 +59,6 @@ SpiderCaveBiome: {
 }
 
 HallucinationZone: {
-	DisplayName: Галлюцинация
-	TownNPCDialogueName: Галлюцинация
+	DisplayName: Зона галлюцинации
+	TownNPCDialogueName: Зона галлюцинации
 }

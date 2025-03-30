@@ -121,13 +121,13 @@ Apotheosis: {
 		}
 
 		WoF: {
-			0: A powerful spirit has been released...
-			1: With us...more free, you'll begin to see a couple changes.
-			2: You might've already noticed a couple. Anyhow,
-			3: as thanks, take this. I...I don't need it anymore.
-			4: ...and while you're here,
-			5: know that I will reward you for defeating more evils;
-			6: so check in sometimes, hm?
+			0: Могущественные дуих высвобождены...
+			1: Теперь, когда мы... свободнее, ты начнёшь замечать перемены.
+			2: Ты возможно уже заметил некоторые. Тем не менее,
+			3: В качестве благодарности возьми это. Мне... мне это более не потребуется.
+			4: ...и пока ты еще тут,
+			5: Помни, что за каждое поверженное зло ждёт награда.
+			6: Наведывайся временами, хорошо?
 		}
 
 		AnyMech: {

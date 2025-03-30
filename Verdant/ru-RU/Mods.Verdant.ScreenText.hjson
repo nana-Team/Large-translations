@@ -131,44 +131,44 @@ Apotheosis: {
 		}
 
 		AnyMech: {
-			0: One of those machines are vanquished.
-			1: Well done! I've been making something...
-			2: It's...odd, but fun. We hope you enjoy it.
+			0: Один из тех механизмов повержен.
+			1: Прекрасно! Я смастерил кое-что...
+			2: Оно... странноватое, но надеюсь, тебе понравится.
 		}
 
 		Plantera: {
-			0: The horrific plant is dead.
-			1: This frees up many opportunities;
-			2: this is a smaller boon, but we hope it helps.
-			3: You may now create more of these yourself as well.
-			4: Feel free to take these as well,
-			5: With these, we are certain they'll help.
+			0: Чудовищное растение повержено.
+			1: Это открывает новые возможности;
+			2: Дар скромен, но, надеемся, полезен.
+			3: Отныне и ты властен создавать подобные.
+			4: Можешь также взять и это,
+			5: Мы уверены, оно пригодится.
 		}
 
 		Golem: {
-			0: The Temple's protector felled.
-			1: This is a bit of a...passion project, of mine.
-			2: We don't know if it'll help much,
-			3: but we suspect it'll be fun.
-			4: Best of luck.
+			0: Защитник Храма пал.
+			1: Это... Наш маленький эксперимент.
+			2: Не знаем, насколько он поможет,
+			3: но уверены, что будет занятно.
+			4: Да пребудет с тобой удача.
 		}
 
 		Cultist: {
-			0: Those charlatans dead, hm?
-			1: Their practice was a dangerous idiocy.
-			2: Less and less threats are...up close, I see.
-			3: Perhaps we can offer a sliver of our power,
-			4: to your boon. Enjoy.
+			0: Ну что, те самозванцы наконец сгинули?
+			1: Их ритуалы были опасной глупостью.
+			2: Угроз становится... меньше, как вижу.
+			3: Можем поделиться крупицей нашей силы,
+			4: в знак благодарности. Пользуйся.
 		}
 
 		MoonLord: {
-			0: I suspect that's the final fight.
-			1: We don't know what else you have planned;
-			2: and we have little more to give.
-			3: It's been a lot of fun,
-			4: a lot of work,
-			5: and I think we need a break.
-			6: Perhaps you'll see something new in the future.
+			0: Полагаю, это был последний бой.
+			1: Нам неведомо, что ты задумал дальше;
+			2: И наши дары почти иссякли.
+			3: Мы радовались,
+			4: мы трудились,
+			5: и теперь Нам нужно отдохнуть.
+			6: Возможно, в будущем увидишь нечто новое.
 		}
 	}
 
@@ -204,127 +204,127 @@ Apotheosis: {
 	
 	ItemInteractions: {
 		WiltedFlower: {
-			0: A daisy, my favourite flower.
-			1: Shame it's been so long, hm?
-			2: Ah, and feel free to ask me about anything.
-			3: We're an open book.
+			0: Ромашка... Мой любимый цветок.
+			1: Жаль, что так давно не виделись, а?
+			2: Можешь спрашивать о чём угодно.
+			3: Мы открытая книга.
 		}
 
 		ApotheosisBook: {
-			0: My old notebook.
-			1: I remember writing in it all the time,
-			2: I still get the itch to, here and there.
-			3: Oh well, we can't use it anymore.
-			4: It's bizarre enough to regard it at all,
-			5: considering the...last time I wrote in it.
+			0: Мой старый дневник.
+			1: Помню, как заполнял его страницу за страницей...
+			2: У меня до сих пор руки чешутся что-то записать. 
+			3: Но теперь он бесполезен для нас.
+			4: Странно даже держать его в руках,
+			5: учитывая... последнюю запись.
 		}
 
 		LushLeaf: {
-			0: The leaves that surround us;
-			1: beautiful, in a way.
+			0: Листья, окружающие нас;
+			1: В них есть нечто, что пленяет взор..
 		}
 
 		Lightbulb: {
-			0: My last light, it helped for a long time.
-			1: Hopefully its light helps you as well.
+			0: Мой последний свет, он помогал долгое время.
+			1: Надеюсь, его свет поможет и вам.
 		}
 
 		YellowBulb: {
-			0: My favourite flower,
-			1: I spread it around this land.
-			2: How pleasant...
+			0: Мои любимые цветы,
+			1: Я рассадил их по этим землям.
+			2: Как же приятно...
 		}
 
 		Wisplant: {
-			0: We really started...experimenting with these.
-			1: Not sure why, but they were fun.
+			0: Мы действительно начали... экспериментировать с ними.
+			1: Не уверен зачем, но было занятно.
 		}
 
-		PuffMaterial: Honestly, we just wanted to see if we could make these.
-		Halfsprout: A curious little sprout, hm?
-		MysteriaClump: Always good to, ah, branch out a bit.
-		PinkPetal: Don't tell Red Petal - this is my favourite.
-		RedPetal: Don't tell Pink Petal - this is my favourite.
+		PuffMaterial: Честно говоря, мы просто хотели узнать, сможем ли создать подобное.
+		Halfsprout: Любопытный маленький росток, да?
+		MysteriaClump: Всегда полезно, как сказать, немного расшириться.
+		PinkPetal: Только не говори красномым лепесткам, что розовые мои любимые.
+		RedPetal: Только не говори розовым лепесткам, что красные мои любимые.
 
 		CrudePaintbrush: {
-			0: Ah, my old paintbrush.
-			1: Apologies, it's a bit rushed,
-			2: but we know it's a useful tool.
+			0: Ах, моя старая кисть.
+			1: Прости, она немного косая,
+			2: но всё ещё полезна.
 		}
 
 		Bouncebloom: {
-			0: We were...still figuring things out.
-			1: Fun, though.
+			0: Тогда мы ещё выясняли как... всё работет
+			1: Забавная кстати вещичка.
 		}
 
 		Cloudsprout: {
-			0: To be honest, we can't tell you why we did this.
-			1: It sure is pretty, hm?
+			0: Честно, не помню, зачем мы их создали.
+			1: Зато они красивые, правда?
 		}
 
 		ThornBlock: ...
-		FlotieItem: We love this little guy.
-		FlotinyItem: We love this guy too.
-		LushWingletItem: One of the first...
+		FlotieItem: Обожаем эту очаровашку.
+		FlotinyItem: И эту тоже обожаем.
+		LushWingletItem: Одно из первых творений...
 
 		Propellerpad: {
-			0: One of my favourites.
-			1: Simple, clean, natural, silent.
-			2: What more can you ask for?
+			0: Один из моих любимых.
+			1: Просто, изящно, натурально, бесшумно.
+			2: Чего еще можно желать?
 		}
 
 		Mudsquid: {
-			0: Probably our proudest achievements.
-			1: I've never seen, much less used, anything like it.
-			2: Not that we've had much magic before...
+			0: Наше, пожалуй, главное достижение.
+			1: Никогда не видел ничего подобного, и тем уж более не использовал.
+			2: Хотя до этого у нас и магии-то не было...
 		}
 
-		SproutInAGlove: Sometimes, simplicity is key.
-		VineHook: This guy's always having the time of his life.
+		SproutInAGlove: Все гениальное просто
+		VineHook: Этот парнишка вечно в восторге от жизни
 
 		ExpertPlantGuide: {
-			0: Ah, my old book.
-			1: I wrote this a few years ago...
-			2: How time flies.
+			0: Ах, моя старая книга.
+			1: Писал её много лет назад...
+			2: Как время летит.
 		}
 
 		ApotheoticSoul: {
 			0: ...
-			1: ...not to dive too far in,
-			2: but this is a small sample of our power.
-			3: It's something you've earned,
-			4: and you've done well to get here.
-			5: I doubt you'll need more,
-			6: and we hope you understand what we've given you.
-			7: The world cares for you,
-			8: as you do it.
+			1: ...если не вдаваться в подробности,
+			2: это частица нашей силы
+			3: Ты заслужил её,
+			4: пройдя столь долгий путь.
+			5: Вряд ли тебе нужно еще что-то,
+			6: и надеюсь, ты осознаёшь ценность дара.
+			7: Наши земли заботятся о тебе,
+			8: прямо как и ты о них.
 		}
 
 		LushDagger: {
-			0: Violence is something we cannot avoid,
-			1: but we hope you avoid it with our plants.
+			0: Насилие это вещь неизбежная,
+			1: но пусть наши растения помогут избежать его
 		}
 
 		BowlFruit: {
-			0: Ah, a Bowlfruit. Pretty thing.
-			1: Perhaps you can share how it tastes?
+			0: Ах, чашечник. Красавец.
+			1: Не расскажешь мне, каков он на вкус?
 		}
 
 		Dropberry: {
-			0: These berries are lovely.
-			1: If only I could remember their taste.
+			0: Эти ягоды прекрасны.
+			1: Если бы только я мог вспомнить их вкус...
 		}
 
-		FloralTea: Useful when on the road, isn't it?
+		FloralTea: Полезно в дороге, не так ли?
 
 		Grapecherry: {
-			0: As a scientist, sometimes...
-			1: Sometimes you make a mistake.
+			0: Учёный иной раз...
+			1: совершает ошибки.
 		}
 
-		Mystuber: Fried or not, it's good for the heart.
-		Walnut: Sometimes...keep it simple.
-		Waterberry: Plentiful...if only...
-		HoneyNuggets: Bees are magic. Cherish them.
+		Mystuber: Жареный или нет, для сердца полезно.
+		Walnut: Иногда... лучше не мудрить.
+		Waterberry: В изобилии... Если бы только...
+		HoneyNuggets: Пчёлы это магия. Береги их.
 	}
 }

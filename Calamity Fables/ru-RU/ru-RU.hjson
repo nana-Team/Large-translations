@@ -2505,7 +2505,7 @@ Mods: {
 			}
 
 			MarniteLiftBuff: {
-				DisplayName: Марнитовый подъём
+				DisplayName: Марнитовый лифт
 				Description: А ты вообще..?
 			}
 

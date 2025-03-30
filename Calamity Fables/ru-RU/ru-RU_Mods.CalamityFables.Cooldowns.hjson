@@ -11,8 +11,8 @@ WulfrumRoverDriveRecharge: Перезарядка защитной матриц�
 
 SettingOption: {
 	Label: "Стиль перезарядки: "
-	Fancy: Fancy
-	Square: Square
-	Compact: Compact
-	Disabled: Hidden
+	Fancy: причудливый
+	Square: квадратный
+	Compact: компактный
+	Disabled: скрыта
 }

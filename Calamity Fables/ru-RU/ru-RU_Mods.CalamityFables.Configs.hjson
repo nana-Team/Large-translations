@@ -45,12 +45,12 @@ CalCompatConfig: {
 
 	UseCalamityMusic: {
 		Label: "[i:{0}] Использовать саундтрек из Calamity"
-		Tooltip: Если установлен Calamity Music Mod, заменяет всю музыку Fables на соответствующие треки из Calamity (при их наличии)
+		Tooltip: Если установлен Calamity Music Mod, то вся музыка Fables будет заменена на соответствующие треки из Calamity (при их наличии)
 	}
 
 	ReplaceCalamity: {
 		Label: "[i:{0}] Удалить повторяющийся контент из Calamity"
-		Tooltip: Удаляет контент Calamity, имеющий аналоги в Fables. Предметы Calamity, для создания которым необходимы заменённые предметы, будут использовать аналоги из Fables вместо них.
+		Tooltip: Удаляет контент Calamity, аналоги которого есть в Fables. Предметы Calamity, для создания которых необходимы заменённые предметы, будут использовать аналоги из Fables.
 	}
 
 	RemoveCalamityLoreFluff: {

@@ -2,57 +2,57 @@ ItemTooltipExtras: {
 	StormlionWhipExtraTagDamage: +{0} ед. урона от метки по зацепленным врагам
 	AmpstringBowElectricFieldDamage: "{0} ед. урона от электической дуги в тик"
 	CarrionDetonatorStaffDetonationDamage: от {0} до {1} ед. урона за взрыв
-	TornElectrosacFullyChargedDamage: Fully charged throws deal {0} extra damage in an AoE
+	TornElectrosacFullyChargedDamage: "{0} ед. урона по площади при полностью заряженном ударе"
 	ComicallySlowSpeed: Смехотворная скорость
 	CannotCrit: Не может наносить критические урады
 }
 
 ArmorSetBonus: {
 	MarniteArchitect: {
-		Title: Marnite Lift - You can summon a lift under your feet to reach higher up
-		Tooltip1: The lift gets summoned when the mount hotkey gets pressed [c/D4C870:without any mounts equipped]
-		Tooltip2: Using the Up and Down keys can change the lift's height
+		Title: Мранитовый лифт: Вы можете призвать лифт под собой для подъёма на небольшую высоту
+		Tooltip1: Лифт призывается при нажатии клавиши вызова ездового питомца [c/D4C870:без экипированного ездового питомца]
+		Tooltip2: Нажатием клавиш ВВЕРХ и ВНИЗ можно изменять высоту лифта
 	}
 
 	DesertProwler: {
-		Title: Dust Devil - Running on the ground swirls up a dust devil around you
-		Tooltip1: When the dust devil is fully charged, you can perform a charged sandstorm jump by jumping and holding UP
-		Tooltip2: During the boosted jump, gain an extra {0}% ranged damage
+		Title: Песчаный дьявол: Бег по земле поднимет вокруг вас песчаный вихрь
+		Tooltip1: Когда вихрь будет полностью заряжен, зажмите клавишу ВВЕРХ и нажмите прыжок, совершить прыжок песчаной бури
+		Tooltip2: ВО время этого прыжка вы получаете {0}% бонуса к стрелковому урону
 	}
 
 	Sailfish: {
-		Title: Royal Steed - You can call forth a royal jousting Velocicampus to ride upon
-		Tooltip1: The steed gets summoned when the mount hotkey gets pressed [c/be9137:without any mounts equipped]
-		Tooltip2: "{0}% increased melee critical strike chance when riding the mount"
-		Tooltip3: Spears and jousting lances gain an extra {0} damage boost
+		Title: Королевский скакун: Вы можете призвать ездового велицикампуса королевской гвардии
+		Tooltip1: Велоцикампус призывается при нажатии клавиши вызова ездового питомца [c/be9137:без экипированного ездового питомца]
+		Tooltip2: На велицикампусе, шанс критического удара ближнего боя увеличивается на {0}%
+		Tooltip3: Обычные и рыцарские копья получают {0} бонуса у урону
 	}
 
 	Wulfrum: {
-		Title: Wulfrum Bastion - Double tap DOWN while dismounted to equip wulfrum power armor
-		Tooltip1: While the armor is active your defensive stats are increased, but you can only use the integrated fusion cannon
-		Tooltip2: Calling down the armor consumes one piece of [c/b0e97a:wulfrum metal scrap], and the armor will lose durability faster when hit
-		ExpandCannonInfo: Hold SHIFT to see the stats of the fusion cannon
+		Title: Вульфрумовый бастион: Дважды нажмите ВНИЗ без ездового питомца, чтобы облачиться в силовую вульфрумовую броню
+		Tooltip1: Пока броня активна, вы можете использовать только встроенный ускоритель масс, а защитные характеристики будут увеличены
+		Tooltip2: Вызов брони расходует один кусок [c/b0e97a:вульфрумового металлолома]; броня быстрее изнашивается при получении ударов
+		ExpandCannonInfo: Удерживайте SHIFT, чтобы просмотреть характеристики ускорителя масс
 	}
 }
 
-SirNautilusPhase1Name: Nautilus and Signathion
+SirNautilusPhase1Name: Наутилус и Сигнатий
 
 MapIcons: {
-	SealedChamber: Sealed Chamber
-	WarpPod: Warp Pod
+	SealedChamber: Запечатанная пещера
+	WarpPod: Стручок червоточины
 }
 
-ModMenus.ElysiumMenu: Gilded Neverland
+ModMenus.ElysiumMenu: Злотой Неверленд
 
 WorldgenTasks: {
-	VanityTrees: Performing esoteric forestry
-	SealedChamber: Staining a sanctuary with blood
-	DesertGraveyard: Burying the fallen
-	ScourgeFossils: Drying up sealife
-	Hookstaff: Rustling mycelium
-	WulfrumScrapyard: Discarding broken machinery
-	CleanupPass: Tidying up decorations
-	DebugDesertWorld: The Rapture
+	VanityTrees: Занимаемся эзотерическим лесоводством...
+	SealedChamber: Осталвяем следы крови в святилище...
+	DesertGraveyard: Хороним погибших...
+	ScourgeFossils: Высушиваем морских существ...
+	Hookstaff: Ковыряемся в мицелии...
+	WulfrumScrapyard: Утилизируем сломанную технику...
+	CleanupPass: Приводим декорации в порядок...
+	DebugDesertWorld: Восторгаемся...
 }
 
 DesertGravestones: {
@@ -107,31 +107,31 @@ DesertGravestones: {
 
 DeathMessages: {
 	DesertScourgeChungry: {
-		1: "{0} became pulp for orange juice."
-		2: "{0} is the bait now."
-		3: "{0} became a nice snack."
-		4: "{0} was seasoning for the main course."
+		1: Игрок {0} стал мякатью апелисинового сока.
+		2: Игрок {0} стал наживкой.
+		3: Игрок {0} стал хорошей закуской.
+		4: Игрок {0} стал приправой к основному блюду.
 	}
 
 	DesertScourgeSkullCrush: {
-		1: "{0} was mauriced."
+		1: Игрок {0} was mauriced."
 		2: Gravity was a calamity to {0}'s kingdom.
 		3: "[i:{1}][i:{1}][i:{1}] {0} [i:{1}][i:{1}][i:{1}]"
-		4: "{0} got boned."
-		5: "{0} fell victim to Newton�s law of gravity."
+		4: Игрок {0} был расплющен костями.
+		5: Игрок {0} стал жертвой закона всемирного тяготения.
 	}
 
 	DesertScourgeAntlionSpit: "{0} was melted away."
 
 	DesertScourgeElectroblast: {
-		1: "{0} had a death to ponder."
-		2: "{0} had quite the shocking experience."
-		3: "{0} will have quite the electricity bill this month."
+		1: Игроку {0} следовало бы обдумать свою смерть.
+		2: Игрок {0} испытал довольно шокирующий опыт.
+		3: У игрока {0} будет достаточно солидный счёт за электричество в этом месяце.
 	}
 
 	CrabulonSpores: {
-		1: "{0} became part of the mycelial hive mind."
-		2: The mushroom caves deemed {0} as a fitting new host.
+		1: Игрок {0} стал частью коллективного мицелиевого разума.
+		2: Грибные пещеры сочли игрока {0} подходящим новым носителем.
 		3: "{0} erupted into spores."
 		4: "{0} has been assimilated."
 		5: "{0} will make for a nice ceiling ornament."

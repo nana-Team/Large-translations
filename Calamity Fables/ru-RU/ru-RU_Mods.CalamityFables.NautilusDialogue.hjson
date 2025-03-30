@@ -10,7 +10,7 @@ RandomPreDefeatTextbox1: <m:SmallWave><d:0.03><s:0.6>...Эти <c:f74d4d><s:0.65
 RandomPreDefeatTextbox2: Не могу подвести <c:2cdcff>соратников</c> вновь...<d:0.05><m:SmallWave> Я обязан стать сильнее.
 RandomPreDefeatTextbox3: Благодарен за то, что вскрыл мою гробницу... но я не уйду. Должен стоять на страже, пока <c:f74d4d><m:Empathis>они</m></c> не вернулись закончить то, что начали.
 RandomPreDefeatTextbox4: Как страж <c:2cdcff>Морского королевства</c>, моя голова — желанный трофей...<d:0.2>...!</d> Хотя заполучить её будет подвигом немалым!
-FirstFightTextbox: <s:1.1><m:SmallShake>Ah!</s></m> These old bones have not seen battle in a long time, but I have still been training rigorously!<d:0.6> </d><c:ffd144><d:0.04><s:1.3><a:FromTop><m:Shake>En garde!
+FirstFightTextbox: <s:1.1><m:SmallShake>Ah!</s></m> Пускай моё костлявое тело уже и позабыло настоящие войны и сражения, свои суровые тренировки я не пропускал!<d:0.6> </d><c:ffd144><d:0.04><s:1.3><a:FromTop><m:Shake>En garde!
 RandomPostDefeatTextbox1: Я давно перестал считать дни. Раз судьба заперла меня здесь — я посвятил себя тренировкам!
 RandomPostDefeatTextbox2: <d:0.04><s:1.1><m:SmallShake>ВАУ!</d></s></m> Наш поединок разбросал мои кости по всей пещере... К счастью, они всегда возвращаются!
 RandomPostDefeatTextbox3: Прости, если повторяюсь... Призраки — создания привычки.

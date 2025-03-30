@@ -1,20 +1,19 @@
 Names: {
 	NautilusPendant: Королевский кулон
-	NautilusPendant1: Королевский кулон (1)
-	NautilusPendant2: Королевский кулон (2)
-	OgsculePendant: Кулон Огскула
+	Test: Тестовый кулон
 }
 
 Descriptions: {
 	NautilusPendant: Вручается членам Королевской Эскадры «Ремора».
-	NautilusPendant1: Выдаётся новым морским стражам. 1
-	NautilusPendant2: Выдаётся новым морским стражам. 2
-	OgsculePendant: Огскуленность
+	Test: Test test debug hello
 }
 
 NameColors: {
 	NautilusPendant: FFCC41
-	NautilusPendant1: FFCC41
-	NautilusPendant2: FFCC41
-	OgsculePendant: FF0900
+	Test: FF0900
+}
+
+TabNames: {
+	Open: Памятные трофеи
+	Close: Закрыть
 }

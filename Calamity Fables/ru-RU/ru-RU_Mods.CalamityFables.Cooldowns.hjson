@@ -1,0 +1,18 @@
+ChaosState: Перезарядка телепортации
+PotionSickness: Перезарядка исцеления
+Electrocells: Перезарядка разряда электроклеток
+PeculiarPotLife: Оставшееся время формы странноватого горшка
+WarpPod: Перезарядка телепортации стручка
+WarriorsAmphora: Перезарядка к месту смерти
+WulfrumBastionRecharge: Перезарядка вульфрумовых доспехов
+WulfrumBastionDurability: Оставшееся время вульфрумовых доспехов
+WulfrumRoverDriveDurability: Оставшееся время защитной матрицы
+WulfrumRoverDriveRecharge: Перезарядка защитной матрицы
+
+SettingOption: {
+	Label: "Стиль перезарядки: "
+	Fancy: Fancy
+	Square: Square
+	Compact: Compact
+	Disabled: Hidden
+}

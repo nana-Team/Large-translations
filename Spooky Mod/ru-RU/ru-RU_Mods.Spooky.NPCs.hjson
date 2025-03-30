@@ -92,7 +92,7 @@ Skeletoid1.DisplayName: Скелетоид
 Skeletoid2.DisplayName: Скелетоид
 Skeletoid3.DisplayName: Скелетоид
 Skeletoid4.DisplayName: Скелетоид
-SkeletoidBig.DisplayName: Большой Иоанн
+SkeletoidBig.DisplayName: Большой Джон
 BoneStackerBase.DisplayName: Плита Катакомб
 BoneStacker1.DisplayName: Костяная плита
 BoneStacker2.DisplayName: Костяная плита
@@ -113,7 +113,7 @@ PhantomSkeletoid.DisplayName: Призрак
 ZomboidPyromancer.DisplayName: Зомбоид-пиромант
 ZomboidSuspiciomancer.DisplayName: Зомбоид-подозревант
 //catacombs layer 2
-CatacombCrusherSpawner.DisplayName: Спавнер древнего крушителя
+CatacombCrusherSpawner.DisplayName: Спаунер древнего крушителя
 CatacombCrusher1.DisplayName: Древний крушитель
 CatacombCrusher2.DisplayName: Древний крушитель
 CatacombCrusher3.DisplayName: Древний крушитель

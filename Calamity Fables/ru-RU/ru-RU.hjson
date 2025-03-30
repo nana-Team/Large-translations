@@ -23,8 +23,8 @@ Mods: {
 			WulfrumBathtub.MapEntry: Ванна
 			WulfrumBed.MapEntry: Кровать
 			WulfrumBulkContainer.MapEntry: Контейнер
-			WulfrumBulkDoorClosed.MapEntry: Дверь
-			WulfrumBulkDoorOpen.MapEntry: Дверь
+			WulfrumBulkDoorClosed.MapEntry: Грузовая дверь
+			WulfrumBulkDoorOpen.MapEntry: Грузовая дверь
 			WulfrumCanister.MapEntry: Канистра
 			WulfrumComputer.MapEntry: Компьютер
 			WulfrumComputerPoster.MapEntry: Постер
@@ -39,20 +39,20 @@ Mods: {
 			WulfrumGyratorPoster.MapEntry: Постер
 			WulfrumHatchClosed.MapEntry: Люк
 			WulfrumHatchOpen.MapEntry: Люк
-			WulfrumLocker.MapEntry: Шкафчик
+			WulfrumLocker.MapEntry: Подвестной шкафчик
 			WulfrumMagnetizerPoster.MapEntry: Постер
-			WulfrumModularChair.MapEntry: Кресло
+			WulfrumModularChair.MapEntry: Модульное кресло
 			WulfrumMortarPoster.MapEntry: Постер
-			WulfrumOfficeChair.MapEntry: Кресло
+			WulfrumOfficeChair.MapEntry: Офисное кресло
 			WulfrumPowerArmorPoster.MapEntry: Постер
-			WulfrumReinforcedCrate.MapEntry: Ящик
+			WulfrumReinforcedCrate.MapEntry: Укреплённый ящик
 			WulfrumRollerPoster.MapEntry: Постер
 			WulfrumRoverPoster.MapEntry: Постер
 			WulfrumSink.MapEntry: Раковина
 			WulfrumSmallCanister.MapEntry: Канистра
 			WulfrumTable.MapEntry: Стол
 			WulfrumToilet.MapEntry: Унитаз
-			WulfrumTubeLight.MapEntry: Настенная лампа
+			WulfrumTubeLight.MapEntry: Люминесцентная лампа
 			WulfrumWashingMachine.MapEntry: Стиральная машина
 			WulfrumWashingMachinePoster.MapEntry: Постер
 			WulfrumWideComputer.MapEntry: Компьютер
@@ -63,16 +63,16 @@ Mods: {
 			Wulfrum3x2Piles.MapEntry: Металлолом
 			Wulfrum3x2PilesEcho.MapEntry: Металлолом
 			WulfrumChestLocked.MapEntry: Закрытый сундук
-			WulfrumLandfill.MapEntry: Груда вульфрумового металлолома
+			WulfrumLandfill.MapEntry: Груда металлолома
 			WulfrumLure.MapEntry: Вульфрумовый маячок
 			WulfrumPipes.MapEntry: Труба
-			WulfrumRotorLandfill.MapEntry: Груда вульфрумового металлолома
+			WulfrumRotorLandfill.MapEntry: Груда металлолома
 			WulfrumSmokingPipes.MapEntry: Труба
 			CloudSpriteBanner.MapEntry: Знамя
 			HookstaffBuriedTileEcho.MapEntry: Клюка
 			HookstaffTileEcho.MapEntry: Клюка
 			StormlionBanner.MapEntry: Знамя
-			WulfrumBigRotorLandfill.MapEntry: Груда вульфрумового металлолома
+			WulfrumBigRotorLandfill.MapEntry: Груда металлолома
 			DustyCrates.MapEntry: Ящик
 			DustyCratesEcho.MapEntry: Ящик
 			TripodTorchTile.MapEntry: Факел
@@ -87,7 +87,7 @@ Mods: {
 			ShatteredTabletPaintingTile.MapEntry: Скрижаль
 			DustyBricks.MapEntry: Пыльный кирпич
 			GrimyGrate.MapEntry: Грязная решётка
-			IndustrialWulfrumTubeLight.MapEntry: Настенная лампа
+			IndustrialWulfrumTubeLight.MapEntry: Индустриальная люминесцентная лампа
 			BunkerScreenRubble.MapEntry: Экран
 			BunkerScreenRubbleEcho.MapEntry: Экран
 			BunkerShelfRubble.MapEntry: Полка
@@ -96,8 +96,8 @@ Mods: {
 			BunkerWarningSignRubbleEcho.MapEntry: Предупреждающий знак
 			BunkerChairRubble.MapEntry: Стул
 			BunkerChairRubbleEcho.MapEntry: Стул
-			BunkerLongTableRubble.MapEntry: Стол
-			BunkerLongTableRubbleEcho.MapEntry: Стол
+			BunkerLongTableRubble.MapEntry: Большой стол
+			BunkerLongTableRubbleEcho.MapEntry: Большой стол
 			BunkerTableRubble.MapEntry: Стол
 			BunkerTableRubbleEcho.MapEntry: Стол
 			BunkerWorkshopRubble.MapEntry: Мастерская
@@ -119,7 +119,7 @@ Mods: {
 				}
 
 				Crabulon: {
-					SpawnInfo: Изредка выглядывает из почвы пещер светящихся грибов, если ещё не был убит до этого — потревожьте его в этот момент, чтобы начать бой. В качестве альтернативы для призыва, привлеките его внимание [i:{0}] клюкой, стоя на траве светящихся грибов.
+					SpawnInfo: Изредка выглядывает из почвы пещер светящихся грибов, если ещё не был убит до этого — потревожьте его в этот момент, чтобы начать бой. В качестве альтернативы, привлеките его внимание [i:{0}] клюкой, стоя на траве светящихся грибов.
 					Despawn: В пещерах светящихся грибов снова воцаряется тишина...
 				}
 
@@ -197,7 +197,7 @@ Mods: {
 			PontiffsPiperBloodShot.DisplayName: Кровавый плевок
 			PontiffsPiperBuffNotes.DisplayName: Зуб
 			PontiffsPiperNotes.DisplayName: Зуб
-			PontiffsPiperSquid.DisplayName: Кальмар-дудочника
+			PontiffsPiperSquid.DisplayName: Кальмар-дудочник
 			SpikedBallFragment.DisplayName: Осколок
 			SpikedBallProjectile.DisplayName: Колючий шар
 			WoodenDartProj.DisplayName: Деревянный дротик
@@ -211,7 +211,7 @@ Mods: {
 			WulfrumDiggingTurtleProjectile.DisplayName: Черепаха-копатель
 			WulfrumDrillProj.DisplayName: Бур
 			WulfrumDroid.DisplayName: Вульфрумовый дроид
-			WulfrumEnergyBurst.DisplayName: Выстерл
+			WulfrumEnergyBurst.DisplayName: Выстрел
 			WulfrumFusionBolt.DisplayName: Фузионный выстрел
 			WulfrumHook.DisplayName: Вульфрумовый канат
 			WulfrumManaDrain.DisplayName: Похищение маны
@@ -221,26 +221,26 @@ Mods: {
 			WulfrumScrew.DisplayName: Винт
 			WulfrumScrewdriverProj.DisplayName: Отвёртка
 			CloudSpriteFist.DisplayName: Облачный удар
-			WulfrumMortarExplosion.DisplayName: Вхрыв
+			WulfrumMortarExplosion.DisplayName: Взрыв
 			WulfrumMortarShell.DisplayName: Вульфрумовый заряд
 			WulfrumNexusShot.DisplayName: Энергетический выстрел
-			WulfrumScrapProjectile.DisplayName: Металлалом
+			WulfrumScrapProjectile.DisplayName: Металлолом
 			GroundStomp.DisplayName: Ударная волна
 			HostileDirectStrike.DisplayName: Сильный удар
-			MauricingScourgeHead.DisplayName: Остантки
+			MauricingScourgeHead.DisplayName: Останки
 			SandstoneGraveyardGhost.DisplayName: Призрак
 			AshenGraveMarkerProjectile.DisplayName: Пепельная могильная табличка
-			AshenHeadstoneProjectile.DisplayName: Пепльное надгробие
-			AshenTombstoneProjectile.DisplayName: Пепельнпя надгробная плита
+			AshenHeadstoneProjectile.DisplayName: Пепельное надгробие
+			AshenTombstoneProjectile.DisplayName: Пепельная надгробная плита
 			AshenGravestoneProjectile.DisplayName: Пепельная могильная плита
 			CoralGraveMarkerProjectile.DisplayName: Коралловая могильная табличка
 			CoralTombstoneProjectile.DisplayName: Коралловая надгробная плита
 			ReefGraveMarkerProjectile.DisplayName: Рифовая могильная табличка
 			ReefTombstoneProjectile.DisplayName: Рифовая надгробная плита
-			CorruptCrossGraveMarkerProjectile.DisplayName: Икажённый могильный крест
-			CorruptObeliskProjectile.DisplayName: Икажённый обелиск
-			CorruptTombstoneProjectile.DisplayName: Икажённая надгробная плита
-			CorruptGraveMarkerProjectile.DisplayName: Икажённая могильная табличка
+			CorruptCrossGraveMarkerProjectile.DisplayName: Искажённый могильный крест
+			CorruptObeliskProjectile.DisplayName: Искажённый обелиск
+			CorruptTombstoneProjectile.DisplayName: Искажённая надгробная плита
+			CorruptGraveMarkerProjectile.DisplayName: Искажённая могильная табличка
 			CrimsonTombstoneProjectile.DisplayName: Багровая надгробная плита
 			CrimsonGraveMarkerProjectile.DisplayName: Багровая могильная табличка
 			CrimsonHeadstoneProjectile.DisplayName: Багровое надгробие
@@ -322,7 +322,7 @@ Mods: {
 
 			DeadStormlionLarvaItem: {
 				DisplayName: Мёртвая личинка штормового льва
-				Tooltip: «Настоящие лакомство для пустынных хищников, больших и маленьких»
+				Tooltip: «Настоящее лакомство для пустынных хищников, больших и маленьких»
 			}
 
 			DesertScourgeBossMask: {
@@ -375,7 +375,7 @@ Mods: {
 				Tooltip:
 					'''
 					Используется для ковыряния в мицелии светящихся грибов
-					Можно использовать, только стоя на грибной траве
+					Можно использовать только стоя на грибной траве
 					Будьте готовы к тому, что если вы будете тыкать где попало, то навлечёте на себя гнев местных существ
 					'''
 			}
@@ -444,7 +444,7 @@ Mods: {
 				DisplayName: Электроклетки
 				Tooltip:
 					'''
-					Расходуются при получении вами более 50 ед. урона за раз
+					Расходуются при получении вами 50 ед. урона или больше за раз
 					Выпускают цепную молнию в ближайших врагов, мгновенно отскакивающую между ними
 					«Эта органическая слизь изредка потрескивает и обжигает при прикосновении»
 					'''
@@ -498,7 +498,7 @@ Mods: {
 					Призывает стража в чернильной шапочке сражаться за вас
 					Нажмите ПКМ над каким-либо блоком, чтобы заставить стража пустить корни в этом месте
 					Пока страж находится в этом состоянии, вокруг него образуется исцеляющая аура
-					На пустившем корни страже также можно прыгать как на батуте
+					На пустившем корни страже также можно прыгать, как на батуте
 					Можно призвать только одного стража в чернильной шапочке
 					Занимает 2 слота призываемых миньонов
 					'''
@@ -537,9 +537,9 @@ Mods: {
 				DisplayName: Заросшая клешня
 				Tooltip:
 					'''
-					Выпускает грибную клешню, хватающую врагов и притягивающую их к вам
+					Выпускает грибную клешню, способную хватать ваших врагов
 					Врагами небольшого размера можно свободно размахивать, кидаться, а также бить их об землю
-					Врагам большого размера можно наносить дополнительный урон, натягивая и открывая от них клешню
+					Врагам большого размера можно наносить дополнительный урон, натягивая и отрывая от них клешню
 					'''
 			}
 
@@ -600,14 +600,14 @@ Mods: {
 			}
 
 			PeculiarPot: {
-				DisplayName: Странноватый горшочек
+				DisplayName: Необычный горшочек
 				Tooltip:
 					'''
-					Керамический горшочек, наполненный необычной жидкостью
+					Керамический горшочек, наполненный странной жидкостью
 					Позволяет вам превратиться в дёготь и спрятаться в горшочке
 					Пока вы находитесь в горшочке, вы не сможете использовать какое-либо оружие, однако при этом вы будете получать на {0} ед. меньше урона
-					Горшочек разобьётся вдребезги, если вы получите более {1} ед. урона, после чего ему потребуется некоторое время на восстановление
-					Damage ramps back up from zero over a short period of time after exiting the pot
+					Горшочек разобьётся вдребезги, если вы получите более {1} ед. урона
+					Прочность горшочка начнёт постепенно восстанавливаться, если вылезти из него и немного подождать
 					'''
 			}
 
@@ -673,7 +673,7 @@ Mods: {
 				DisplayName: Шипастая электрокиста
 				Tooltip:
 					'''
-					На удивленеи прыгучий орган, который может отскакивать от поверхностей
+					На удивление прыгучий орган, который может отскакивать от поверхностей
 					Пассивно накапливает заряд, который высвобождается при броске шара
 					Чем дальше летит электрокиста, тем больше урона она наносит
 					«ГО-О-О-О-Л!!!»
@@ -689,7 +689,7 @@ Mods: {
 				DisplayName: Посох колючего куста
 				Tooltip:
 					'''
-					Призывает два перекати-поля вращаться вокруг вас
+					Призывает два перекати-поля, вращающихся вокруг вас
 					Атакуйте перекати-поля хлыстом, чтобы откинуть их вперёд
 					'''
 			}
@@ -707,7 +707,7 @@ Mods: {
 
 			CloudInAMace: {
 				DisplayName: Облако в булаве
-				Tooltip: Разбивается вдребезги при столкновении с блоками или врагами, выпуская мощное облако, сильно отталкивающее и врагов, и вас самих
+				Tooltip: Разбивается вдребезги при столкновении с блоками, выпуская мощное облако, сильно отталкивающее и врагов, и вас самих
 			}
 
 			CloudySpikeBall: {
@@ -734,7 +734,7 @@ Mods: {
 				DisplayName: Штаны пустынного мародёра
 				Tooltip:
 					'''
-					Увеличивает скорость передвижения на 12%,
+					Увеличивает скорость передвижения на 12%
 					Даёт невосприимчивость к «Сильному ветру»
 					'''
 			}
@@ -856,7 +856,7 @@ Mods: {
 				DisplayName: Коралловая клетка
 				Tooltip:
 					'''
-					Вызывает маленькую драконью рыбу
+					Призывает маленькую драконью рыбу
 					«Или коралловая кораль, если угодно»
 					'''
 			}
@@ -873,7 +873,7 @@ Mods: {
 					Разблокирует переключатель слева от инвентаря
 					Переключатель позволяет изменить внешний вид надгробий, выпадающих при смерти
 					В переключателе также можно отключить выпадение надгробий
-					Биомные надгробья также не считаются за нагробья для кладбища
+					Биомные надгробья не считаются за нагробья для кладбища
 					'''
 			}
 
@@ -929,7 +929,7 @@ Mods: {
 				Tooltip:
 					'''
 					Позволяет телепортироваться к месту вашей смерти 
-					Нажмите на метку смерти на полной карте для телепортации
+					Нажмите на метку смерти на полноэкранной карте, чтобы телепортироваться
 					Телепортация расходует одно зелье возврата, а время отката зависит от расстояния до места смерти
 					'''
 			}
@@ -1048,8 +1048,8 @@ Mods: {
 					'''
 					Использует для стрельбы вульфрумовый металлолом или серебряные монеты
 					Игнорирует 3 ед. защиты врага
-					[c/83B87E:«Основной плюс вульфрумовых механизмов в том, что если они ломаются быстро, то чинятся ещё быстрее»]
-					[c/83B87E:«Довольно часто можно встретить робота, который превратился в боеприпасы прямо после поломки»]
+					[c/83B87E:«Основной плюс вульфрумовых механизмов в том, что даже если они ломаются быстро, то чинятся ещё быстрее»]
+					[c/83B87E:«Довольно часто можно встретить робота, который превратился в боеприпасы сразу после поломки»]
 					'''
 			}
 
@@ -1084,7 +1084,7 @@ Mods: {
 				Tooltip:
 					'''
 					Стреляет быстрыми сериями снарядов средней дальности
-					[c/878787:«Кому нужны хлысты, когда вы можете призывать самого себя?»]
+					[c/878787:«Кому нужны хлысты, когда вы можете просто призывать самого себя?»]
 					'''
 			}
 
@@ -1127,7 +1127,8 @@ Mods: {
 				DisplayName: Вульфрумовый набор строительных лесов
 				Tooltip:
 					'''
-					Устанавливает временные металлические леса. Расходует один металлический вульфрумовый металлолом на 40 построенных блоков
+					Устанавливает временные металлические леса
+					Расходует один металлический вульфрумовый металлолом на 40 построенных блоков
 					Для установки лесов необходимо, чтобы они прилегали к цельному блоку
 					[c/83B87E:«Когда нужно построить что-то быстро, а долговечность не важна»]
 					'''
@@ -1139,9 +1140,9 @@ Mods: {
 					'''
 					Может стремительно скрутить врага, если он достаточно слаб
 					При нанесении ударов по врагу вы иногда получаете вульфрумовый винт, который вы можете бросить, нажав ПКМ
-					Если ударить отвёрткой по брошенному винту, это увеличит его урон, а сам он полетит вперёд на большой скорости
+					Если ударить отвёрткой по брошенному винту, его урон увеличится, а также он полетит вперёд на большой скорости
 					[c/83B87E:«Кто делает плоскую головку отвёртки настолько большой? Как я вообще могу этим работать?! Ей же можно глаз открутить!»]
-					[c/83B87E:«...Ау»]
+					[c/83B87E:«...А-а»]
 					'''
 			}
 
@@ -1862,7 +1863,7 @@ Mods: {
 				DisplayName: Комплектующий вульфрумовый пластик
 				Tooltip:
 					'''
-					Вариант вульфрумового пластика, имеющий соединения с большим количеством блоков
+					Вариант вульфрумового пластика, способный соединяться с большим количеством блоков
 					Пользуется популярностью у опытных строителей
 					'''
 			}
@@ -2132,7 +2133,7 @@ Mods: {
 			}
 
 			WulfrumLandfillItem: {
-				DisplayName: Вульфрумовый мусор
+				DisplayName: Груда вульфрумового металлолома
 				Tooltip: «Металлолом спрессован настолько плотно, что его уже не извлечь...»
 			}
 
@@ -2152,7 +2153,7 @@ Mods: {
 
 			WulfrumRotorItem: {
 				DisplayName: Вульфрумовый роторный модуль
-				Tooltip: «Мелкая ржавая шестерня застряла в обломках»
+				Tooltip: «Мелкая ржавая шестерня намертво вросла в обломки»
 			}
 
 			WulfrumSmokingPipesItem: {
@@ -2326,7 +2327,7 @@ Mods: {
 				DisplayName: Большой вульфрумовый проводник-выхлоп
 				Tooltip:
 					'''
-					Выпускает пар при подключении к верхней/боковым сторонам магистрали
+					Выпускает пар при подключении к верхней или боковым сторонам магистрали
 					Льёт воду при подключении к нижней стороне, окрашивая её в тускло-зелёный цвет
 					'''
 			}
@@ -2335,7 +2336,7 @@ Mods: {
 				DisplayName: Вульфрумовый проводник-выхлоп
 				Tooltip:
 					'''
-					Выпускает пар при подключении к верхней/боковым сторонам магистрали
+					Выпускает пар при подключении к верхней или боковым сторонам магистрали
 					Льёт воду при подключении к нижней стороне, окрашивая её в тускло-зелёный цвет
 					'''
 			}
@@ -2364,7 +2365,7 @@ Mods: {
 				DisplayName: Акцентный песчаниковый кирпич
 				Tooltip:
 					'''
-					Вариант песчаникового кирпича, который лучше соединяется с другими блоками
+					Вариант песчаникового кирпича, который лучше соединяется с другими блоками из песка
 					Пользуется популярностью у опытных строителей
 					'''
 			}
@@ -2416,13 +2417,13 @@ Mods: {
 			}
 
 			BlowpipeRegen: {
-				DisplayName: Оживляющий туман
+				DisplayName: Освежающий туман
 				Description: Регенерация здоровья увеличена
 			}
 
 			Overamped: {
 				DisplayName: Сверхзаряд
-				Description: Каждый волосок на теле встаёт дыбом
+				Description: Каждый волосок на вашем теле встаёт дыбом
 			}
 
 			PlasmaRodFried: {
@@ -2432,7 +2433,7 @@ Mods: {
 
 			ScourgePoison: {
 				DisplayName: Яд бича
-				Description: Нанесение урона внутренним органам
+				Description: Нанесение сильного урона внутренним органам
 			}
 
 			WulfrumDroidBuff: {
@@ -2476,11 +2477,11 @@ Mods: {
 			}
 
 			TarsMark: {
-				DisplayName: Метка Дёгтя
+				DisplayName: Метка дёгтя
 				Description:
 					'''
 					Дёготь пульсирует в ваших венах...
-					Весь получаемый урон снижен
+					Весь получаемый урон снижен на
 					'''
 			}
 
@@ -2495,7 +2496,7 @@ Mods: {
 
 			TinyScourgePetBuff: {
 				DisplayName: Крошка бич
-				Description: Видит только цель перед собой
+				Description: Видит цель только перед собой
 			}
 
 			BrambleMinionBuff: {

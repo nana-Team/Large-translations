@@ -1,0 +1,79 @@
+ExampleForLocalizers: <d:0.5>The d tag, or <delay:1></d> are tags used to indicate the time between letters. Used for empathis, usually</d>. <c:FF0000>The c tag is the color tag, uses a hex code.</c> <s:3> the s tag, or <size:0.2>size tag</s> changes the font size multiplier.</s>. The <a:FromTop> appear tag denotes animations used by characters when appearing </a>, and similarly, the <m:Shake> movement tag</m> denotes the movement of the text after it has appeared; The keys for the potential animations can be found in CharacterDisplacements.cs. <s:2> Tags can be <s:4>nested</s>, for convenience </s>. As a note, all tags only care about the first letter used, so you could use <s:1>, <size:1>, or <spaghetti:1>, and they all would work! Also, you're not obligated to close tags that trail at the end of a setence. You just have to close them if you want to prevent them from interfering with the rest of the setence
+CharacterName: Господин Наутилус
+Asleep: <s:1.8><d:0.2><a:FromTop>. . .
+IntroWakeup: Хм?<d:0.6> </d><s:1.1><m:Empathis>О-о! Какая встреча! </s></m>Не ожидал встретить <c:afdc14><s:1.1>сухопутника</c></s> в этих коварных пучинах...
+IntroSecond: Скажи, не встречал ли ты <c:2cdcff>товарищей по оружию</c> вроде меня? Я отбился от своего отряда... и с тех пор прошло немало...
+IntroThird: <d:0.25><s:1.1>... </s></d>Неужто нет?<d:0.4> </d><m:SmallShake><s:1.1>Ха!</s></m> Ну что же, подожду ещё. Время терпит...
+IntroFourth: К конце концов, до атаки <d:0.04><s:1.1><m:SmallShake><c:f74d4d>врага</c></m></s></d> ещё есть время...
+PostIntroDuelProposition: А ты полон огня, дружище. Пока время позволяет<d:0.4>-</d> не хочешь ли скрасить досуг старой рыбины <c:ffd144><s:1.1><m:Empathis>дружеской дуэлью?
+RandomPreDefeatTextbox1: <m:SmallWave><d:0.03><s:0.6>...Эти <c:f74d4d><s:0.65>проклятые твари</c></s> могут вернуться... Я должен быть готов...
+RandomPreDefeatTextbox2: Не могу подвести <c:2cdcff>соратников</c> вновь...<d:0.05><m:SmallWave> Я обязан стать сильнее.
+RandomPreDefeatTextbox3: Благодарен за то, что вскрыл мою гробницу... но я не уйду. Должен стоять на страже, пока <c:f74d4d><m:Empathis>они</m></c> не вернулись закончить то, что начали.
+RandomPreDefeatTextbox4: Как страж <c:2cdcff>Морского королевства</c>, моя голова — желанный трофей...<d:0.2>...!</d> Хотя заполучить её будет подвигом немалым!
+FirstFightTextbox: <s:1.1><m:SmallShake>Ah!</s></m> These old bones have not seen battle in a long time, but I have still been training rigorously!<d:0.6> </d><c:ffd144><d:0.04><s:1.3><a:FromTop><m:Shake>En garde!
+RandomPostDefeatTextbox1: Я давно перестал считать дни. Раз судьба заперла меня здесь — я посвятил себя тренировкам!
+RandomPostDefeatTextbox2: <d:0.04><s:1.1><m:SmallShake>ВАУ!</d></s></m> Наш поединок разбросал мои кости по всей пещере... К счастью, они всегда возвращаются!
+RandomPostDefeatTextbox3: Прости, если повторяюсь... Призраки — создания привычки.
+RandomPostDefeatTextbox4: Повидав твоё мастерство, уверен — тебя ждёт великая слава! <m:Empathis><s:1.1><d:0.03>Если спросят, говори, что учился у меня!
+RandomPostDefeatTextbox5: А я уже благодарил за то, что ты стряхнул пыль с моих костей? В черепе песка было на год вперёд!
+RandomPostDefeatTextbox6: Хоть и не сравнить с ощущением морской прохлады на чешуе... <m:SmallWave>но в бою я чувствую себя живым!
+RandomPostDefeatTextbox7: <s:1.1><d:0.03><c:28dcdc>Сигнатий?</c></d></s> Мой верный скакун. <m:SmallShake><s:0.9>Он<d:0.13>...</d></s></m> проявил куда больше верности, чем я. Рад, что он со мной.
+RandomPostDefeatTextbox8: <s:1.2><m:SmallShake>Надпись на могиле гласила: <s:1.5><m:Shake><d:0.15>ЧТО-О-О?
+LongTimeNoSee1: <d:0.05><s:1.1><m:SmallShake>О! </m></s></d>Снова ты! Чувствую, стал сильнее. Мир щедр на испытания...
+LongTimeNoSee2: Вижу, обзавёлся новым оружием! Увы, я обучен лишь <c:af0616><d:0.05><s:1.1>ретиарию</s></d></c>, а моя сеть истлела.
+DuelWinTextbox1: Снаряжение подкачало... Найди достойный клинок — и повторим.
+DuelWinTextbox2: Ах, не кори себя за поражение. Поражение — ступень к росту.
+DuelWinTextbox3: Не печалься, не каждая битва оканчивается победой. А проиграть <c:28dcdc><s:1.1><d:0.04>Сигнатию</d></s></c> и мне вовсе не стыдно! Мы — идеальный тандем.
+DuelLoseTextbox1: <c:ffd144><s:1.1><m:SmallWave>Реванш?</m></s></c> На сей раз я <m:Shake>выбью</m> из тебя дух!
+DuelLoseTextbox2: Столько лет не дрался <s:1.2><m:Wave>НАСТОЛЬКО</m></s> зажигательно! Ещё разок?
+DuelLoseTextbox3: Уже вернулся? Столь азартные до битв редко встречаются!
+DuelLoseTextbox4: Ха! Этот азарт<d:0.2>...</d>  думал, уже не испытаю его!
+NohitTextbox1: <m:Shake><d:0.04><s:1.5>Ты уклонился от всех ударов?!</m></d></s> В былые времена тебя бы носили на руках в <c:af0616>кровавых играх</c> колизея...
+NohitTextbox2: ...Не смог задеть тебя ни разу... Видимо, практика решает всё!
+NohitTextboxRare: <d:0.05><s:2.5><a:FromTop>Terraria — Наутилус без урона
+OutmatchedTextbox1: <m:SmallShake>Твоё оружие слишком мощно! Как вообще тренироваться в таких условиях?!
+OutmatchedTextbox2: <m:Shake><d:0.05><s:1.1>Пф!</s></d></m> Надеюсь, не гордишься победой, что далась слишком легко. <d:0.04><s:0.6> ...Но без обид.
+ProgressionDesertScourge: <m:SmallShake><s:1.1>А!</s></m> Это ты усмирил <m:SmallShake>подземный гул</m>? Мои кости — не лучший обед, но обвал пещеры был бы проблемой... Спасибо!
+ProgressionHardmode: Связь с загробным миром слаба, но даже так чувствую — духов будто с цепи слетели. <s:0.8>  Думается мне, тут замешан ты.
+DoppelgangerEasterEgg: <m:SmallShake><s:1.1>Хм!</s></m> Ну и ну, едва узнал тебя в моих доспехах.  Шлем любопытный... и эти детали<d:0.15>... </d><s:1.1><m:SmallShake>А!</s></m> Неважно! Дурацкие мысли иногда лезут.
+LoreWhoAreYou1: <m:SmallWave><s:1.1>Я —<s:1.2><c:2cdcff>сэр Наутилус</c></s>, <c:2cdcff><s:1.2><d:0.03>Рыцарь Морей</d></s></c> служивший при дворе <c:2cdcff><s:1.2>Короля Амидиаса</s></c>, владыки великого <c:2cdcff><s:1.2>Морского королевства</s></c>!
+LoreWhoAreYou2: Не слышал о нём? Должно быть, ты из далёких краёв!
+LoreWhatAreYouDoing: ...Я готовлюсь к угрозе. Эти <d:0.06><m:SmallShake><c:f74d4d>убийцы</c></m></d>  обязательно вернутся<d:0.4>...</d><d:0.04> да, эти <d:0.05><c:f74d4d>мерзкие твари</c></d>... они вернутся... и на сей раз я буду готов.
+LoreWhyHere: Я<d:0.5>-</d> э-э... уединение помогает сосредоточиться. Тренирую не только тело, но и дух! <d:0.1>Чтобы... </d>взглянуть внутрь себя и узреть свои<d:0.15>...</d> слабости.
+LorePreDefeatWhatNow1: <d:0.04><s:3><a:FromTop>...
+LorePreDefeatWhatNow2: ...Ха! Какой любопытный. Видимо, я слишком привык к молчанию <d:0.05><s:1.1><c:28dcdc>Сигнатия</d></s></c>.
+LorePreDefeatWhatNow3: Открою больше, если <c:ffd144>победишь меня в поединке!</c><d:0.5>-</d> Покажи свою силу, свою доблесть. Докажи, что достоин знать мою историю!
+LoreWhatReallyHappened1: <d:2> </d><m:SmallShake><s:1.3><d:0.2>...</d><d:0.1>Я знаю, что <c:2cdcff>королевство</c> пало. </m></d></s><d:0.04>...Даже бежав, я чувствовал, как вода кипит от пламени.
+LoreWhatReallyHappened2: <d:0.05>А эти <d:0.1><s:1.1><c:f74d4d>захватчики</c></s></d><d:0.05>...!! </d>Они были не живыми! Это были НАШИ павшие — не только воины, но все!<d:0.05><m:SmallShake> Семьи, друзья, дети... мои...
+LoreWhatReallyHappened3: <m:SmallShake><s:1.6><d:1.2>...</s></d></m><d:0.04> О, <s:1.1><c:2cdcff>Король Амидиас</c></s><d:0.6>...
+LoreWhatReallyHappened4: Если б я не бежал! Мои кости до сих пор горят от стыда! <m:SmallShake>Стыд и есть то, приковало меня к этой проклятой пещере!
+LoreWhatHappenedToYou1: <d:0.04>Я бежал сюда, под толщу океана. Но... <s:1.1><d:0.1><c:f74d4d>мертвецы</c></d></s> несли пламя, что выжгло воду... А я иссох, как рыба на солнце.
+LoreWhatHappenedToYou2: Наш вид может жить без воды недолго... Разрушения заточили меня здесь навеки.
+LoreSanity1: <d:0.06>Безумие не обошло меня. </d><d:0.04>Бывали моменты, когда я видел сны, вновь переживая воспоминания о той битве. Те, кто пал, защищая наш народ, вспыхивали пламенем, присоединясь к <c:f74d4d>рядам нежити</c>...
+LoreSanity2: <d:0.04>Н-но в этих кошмарах не мог понять — против кого? На чьей стороне? Но, пробуждаясь здесь... я вспоминаю: я бежал. И умер в одиночестве.
+LorePostDefeatWhatNow1: Не знаю<d:0.15>...</d> останусь здесь<d:0.15>...</d> выбора у меня всё равно нет.
+LorePostDefeatWhatNow2: Шум прибоя сменился шепотом песка и ничто не в силах вернуть его<d:0.4>...</d><m:SmallShake> Время ушло, а я — его пережиток.
+LorePostDefeatWhatNow3: <d:0.4><s:3><a:FromTop>...
+LorePostDefeatWhatNow4: Прости за мрачность! Не хочу, чтобы мои печали отпугнули тебя.
+LorePostDefeatWhatNow5: <m:Shake><s:1.5><d:0.06><c:afdc14>Ты</c>! Иди вперёд — за меня!
+LorePostDefeatWhatNow6: Мне утешительно осознавать, что ты продолжишь расти и меняться.
+LorePostDefeatWhatNow7: Смотри на мир широко, а мои печали — забудь, как забыл их я!
+LorePostDefeatWhatNow8: Вот, прими этот <c:2cdcff>королевский медальон</c> как знак нашей связи. Немного, но я очень надеюсь, что ты будешь навещать старую рыбину!
+LoreWhatsUp1: Если не считать твоих визитов — здесь всё так же скучно
+LoreWhatsUp2: Скажи<d:0.2>...</d> встречал ли ты других моих сородичей? Хотел бы знать, остались ли они...
+
+Buttons: {
+	StartFightPreDefeat: Вызов
+	StartFightPostDefeat: Тренировка
+	StartFightHypedUp1: О да!
+	StartFightHypedUp2: Вперёд!
+	LoreButtonPreDefeat: Кто ты?
+	LoreButtonWhatHappened: Как ты?
+	WhyHerePreDefeat: Почему здесь?
+	WhatAreYouDoingPreDefeat: Чем занимаешься?
+	WhatHappenedPostDefeat: Что с тобой случилось?
+	HowDidYouStaySanePostDefeat: Как ты остался в здравом уме?
+	WhatNowPreDefeat: Что дальше?
+	WhatNowPostDefeat: Что дальше?
+	WhatsUpPostDefeat: Как дела?
+}

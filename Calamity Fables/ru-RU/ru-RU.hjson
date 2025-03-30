@@ -607,6 +607,7 @@ Mods: {
 					Позволяет вам превратиться в дёготь и спрятаться в горшочке
 					Пока вы находитесь в горшочке, вы не сможете использовать какое-либо оружие, однако при этом вы будете получать на {0} ед. меньше урона
 					Горшочек разобьётся вдребезги, если вы получите более {1} ед. урона, после чего ему потребуется некоторое время на восстановление
+					Damage ramps back up from zero over a short period of time after exiting the pot
 					'''
 			}
 
@@ -1009,7 +1010,11 @@ Mods: {
 
 			EnergyCore: {
 				DisplayName: Энергетическое ядро
-				Tooltip: Пульсирует энергией
+				Tooltip:
+					'''
+					Пульсирует энергией
+					Можно получить только с вульфрумовых машин, усиленных вульфрумовыми узлами
+					'''
 			}
 
 			RoverDrive: {
@@ -1180,8 +1185,8 @@ Mods: {
 			}
 
 			WulfrumNexusBannerItem: {
-				DisplayName: Знамя вульфрумового нексуса
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый нексус"
+				DisplayName: Знамя вульфрумового узла
+				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый узел"
 			}
 
 			WulfrumRollerBannerItem: {
@@ -2256,7 +2261,7 @@ Mods: {
 				DisplayName: Моток проводов
 				Tooltip:
 					'''
-					Можно разместить на твёрдых блоках или светильниках
+					Можно поставить на твёрдых блоках и светильниках
 					Нажмите ВВЕРХ/ВНИЗ, чтобы изменить изгиб провода
 					«Это что, Calamity Cables?»
 					'''
@@ -2339,6 +2344,30 @@ Mods: {
 				DisplayName: Мрачный лишайник
 				Tooltip: ""
 			}
+
+			CrabulonBossMaskAlt1: {
+				DisplayName: Маска Крабулона с грибами
+				Tooltip: ""
+			}
+
+			CrabulonBossMaskAlt2: {
+				DisplayName: Маска Крабулона с наростами
+				Tooltip: ""
+			}
+
+			SirNautilusTreasureBag: {
+				DisplayName: Мешок с сокровищами (Господин Наутилус)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			SandstoneAccentBrickItem: {
+				DisplayName: Акцентный песчаниковый кирпич
+				Tooltip:
+					'''
+					Вариант песчаникового кирпича, который лучше соединяется с другими блоками
+					Пользуется популярностью у опытных строителей
+					'''
+			}
 		}
 
 		NPCs: {
@@ -2363,7 +2392,7 @@ Mods: {
 			WulfrumGrappler.DisplayName: Вульфрумовый зацепщик
 			WulfrumMagnetizer.DisplayName: Вульфрумовый магнетизер
 			WulfrumMortar.DisplayName: Вульфрумовый миномётчик
-			WulfrumNexus.DisplayName: Вульфрумовый нексус
+			WulfrumNexus.DisplayName: Вульфрумовый узел
 			WulfrumRoller.DisplayName: Вульфрумовый каток
 			WulfrumRover.DisplayName: Вульфрумовый скиталец
 			WulfrumElevatorPlatform.DisplayName: ""

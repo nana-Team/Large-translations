@@ -10,7 +10,7 @@
 
 
 [b]Текущие разработчики:[/b]
-Battle Bee, Chromadisc, Daim, Enreden, GabeHasWon, GramOfSalt, Gavran, IbanPlay, Kambing, Lunatix, MarieArk, Mayhemm, Moonburn, Omanora, Phupperbat, Piky, Pixlgray, Pkpseudo, Popo, RoverdriveX, Runefield, Sabi, Salvati, Sbubby, Skeletony, Sok, Spooktacular, Splet, Zach
+Battle Bee, Chromadisc, Daim, Enreden, GabeHasWon, GramOfSalt, Gavran, IbanPlay, Kambing, Lunatix, MarieArk, Mayhemm, Moonburn, Omanora, Phupperbat, Piky, Pixlgray, Pkpseudo, Popo, RoverdriveX, Runefield, Sabi, Salvati, Sbubby, Skeletony, Sok, Spooktacular, Splet и Zach
 
 [b]Бывшие разработчики и люди, оказавшие помощь в создании проекта:[/b]
-Lucille Karma, Mrrp, Vaikyia, JaceDaDorito
+Lucille Karma, Mrrp, Vaikyia и JaceDaDorito

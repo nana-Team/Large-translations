@@ -411,7 +411,7 @@ Mods: {
 			}
 
 			MagnetizerSpawner: {
-				DisplayName: Спаунер магнетизера
+				DisplayName: Спаунер магнетизёра
 				Tooltip: ""
 			}
 
@@ -1177,8 +1177,8 @@ Mods: {
 			}
 
 			WulfrumMagnetizerBannerItem: {
-				DisplayName: Знамя вульфрумового магнетизера
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый магнетизер"
+				DisplayName: Знамя вульфрумового магнетизёра
+				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый магнетизёр"
 			}
 
 			WulfrumMortarBannerItem: {
@@ -1187,8 +1187,8 @@ Mods: {
 			}
 
 			WulfrumNexusBannerItem: {
-				DisplayName: Знамя вульфрумового узла
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый узел"
+				DisplayName: Знамя вульфрумового узла связи
+				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый узел связи"
 			}
 
 			WulfrumRollerBannerItem: {
@@ -2394,7 +2394,7 @@ Mods: {
 			WulfrumGrappler.DisplayName: Вульфрумовый цеплятель
 			WulfrumMagnetizer.DisplayName: Вульфрумовый магнетизёр
 			WulfrumMortar.DisplayName: Вульфрумовый миномётчик
-			WulfrumNexus.DisplayName: Вульфрумовое связующее звено
+			WulfrumNexus.DisplayName: Вульфрумовое узел связи
 			WulfrumRoller.DisplayName: Вульфрумовый каток
 			WulfrumRover.DisplayName: Вульфрумовый скиталец
 			WulfrumElevatorPlatform.DisplayName: ""

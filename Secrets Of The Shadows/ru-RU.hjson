@@ -893,7 +893,7 @@ Mods: {
 			}
 
 			ShieldofDesecar: {
-				DisplayName: Щит иссушения
+				DisplayName: Изсушаващ щит
 				Tooltip:
 					'''
 					За каждые 4 пустых слота в инвентаре вы получаете 1 ед. защиты
@@ -902,7 +902,7 @@ Mods: {
 			}
 
 			ShieldofStekpla: {
-				DisplayName: Щит наполненности
+				DisplayName: Напълнен щит
 				Tooltip:
 					'''
 					За каждые 4 пустых слота в инвентаре вы получаете 1% шанса критического удара
@@ -1071,8 +1071,8 @@ Mods: {
 				DisplayName: Окровавленная монета
 				Tooltip:
 					'''
-					Критические удары имеют шанс 50% нанести на 20 ед. урона больше
-					При получении вы с шансом в 50% начнёте истекать кровью
+					Критические удары имеют 50% шанс нанести на 20 ед. больше урона
+					При получении урона есть 50% шанс получить дебафф «{$BuffName.Bleeding}»
 					'''
 			}
 
@@ -1080,8 +1080,8 @@ Mods: {
 				DisplayName: Очищенная монета
 				Tooltip:
 					'''
-					Критические удары имеют шанс 50% нанести на 20 ед. урона больше
-					При получении вы с шансом в 50% отравитесь
+					Критические удары имеют 50% шанс нанести на 20 ед. больше урона
+					При получении урона есть 50% шанс получить дебафф «{$BuffName.Poisoned}»
 					'''
 			}
 
@@ -1091,7 +1091,7 @@ Mods: {
 					'''
 					Критические удары с 50% шансом нанесут на 30 ед. больше урона
 					Увеличивает шанс критического удара на 2%
-					Даёт невосприимчивость к дебаффам «{$BuffName.Poison}» и {$BuffName.Bleeding}»
+					Даёт невосприимчивость к дебаффам «{$BuffName.Poisoned}» и «{$BuffName.Bleeding}»
 					'''
 			}
 
@@ -1101,7 +1101,7 @@ Mods: {
 					'''
 					Критические удары будут наносить на 40 ед. больше урона
 					Увеличивает шанс критичсекого удара на 4%
-					Даёт невосприимчивость к дебаффам «{$BuffName.Poison}» и {$BuffName.Bleeding}»
+					Даёт невосприимчивость к дебаффам «{$BuffName.Poisoned}» и «{$BuffName.Bleeding}»
 					'''
 			}
 
@@ -1158,7 +1158,7 @@ Mods: {
 					'''
 					Увеличивает шанс критического удара на 20%
 					Критические удары будут наносить на 40 ед. больше урона
-					Даёт невосприимчивость к дебаффам «{$BuffName.Poison}» и {$BuffName.Bleeding}»
+					Даёт невосприимчивость к дебаффам «{$BuffName.Poisoned}» и «{$BuffName.Bleeding}»
 					'''
 			}
 
@@ -1359,18 +1359,18 @@ Mods: {
 
 			DoorPants: {
 				# DoorItems
-				DisplayName: Door Pants
+				DisplayName: Дверные штаны
 				# DoorItems
 				Tooltip:
 					'''
-					Accelerates horizontal movement when going through doors
-					Builds up speed while standing in doors
+					Увеличивает горизонтальную скорость передвижения при прохождени через дверь
+					Скорость накапливается, пока вы стоите в дверях
 					'''
 			}
 
 			BandOfDoor: {
-				DisplayName: Band of Door
-				Tooltip: "'Open the door to the ultimate form of travel'"
+				DisplayName: Браслет двери
+				Tooltip: «Открывает двери к совершенному виду путешествий»
 			}
 
 			TaintedPrismDye: {
@@ -1514,7 +1514,7 @@ Mods: {
 
 			MarbleDefender: {
 				DisplayName: Мраморный защитник
-				Tooltip: Отбрасывает атакующих вас копьями
+				Tooltip: Атакующие вас враги будут отброшены копьями
 			}
 
 			SporeSprayer: {
@@ -2401,8 +2401,8 @@ Mods: {
 			}
 
 			PricklyPearShield: {
-				DisplayName: Prickly Pear Shield
-				Tooltip: Getting hit releases Cactus Spines that poison nearby enemies
+				DisplayName: Щит опунции
+				Tooltip: Разбрасывает кактусовые колючки при получении урона, отравляющие ближайших врагов
 			}
 
 			Scatterseed: {
@@ -4269,8 +4269,8 @@ Mods: {
 			}
 
 			CrestofDasuver: {
-				DisplayName: Crest of Dasuver
-				Tooltip: Increases critical strike chance by 6%
+				DisplayName: Амбивалентен герб
+				Tooltip: Увеличивает шанс критичесого удара на 6%
 			}
 
 			DigitalDaito: {
@@ -5361,11 +5361,11 @@ Mods: {
 			}
 
 			TinyPlanetoid: {
-				DisplayName: Tiny Planetoid
+				DisplayName: Крошечный планетоид
 				Tooltip:
 					'''
-					Increases max void by 50
-					Allows the control of gravity
+					Увеличивает максимальный запас пустоты на 50 ед.
+					Позволяет менять гравитацию
 					'''
 			}
 

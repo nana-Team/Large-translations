@@ -53,6 +53,15 @@ BigBone: {
 	}
 }
 
+SpookFishron: {
+	DisplayName: Ужасающий Рыброн
+
+	BossChecklistIntegration: {
+		SpawnInfo: Рыбачьте в океане во время Тыквенной луны, используя [i:Spooky/SinisterSnailItem] в качестве наживки.
+		DespawnMessage: Все игроки стали плохим суши.
+	}
+}
+
 //boss stuff
 BigFlowerPot.DisplayName: Гигантский цветочный горшок
 BigFlower.DisplayName: Солнечный цветок
@@ -85,6 +94,7 @@ OrroTail.DisplayName: Орро
 BoroTongue.DisplayName: Язык Боро
 PhantomSkull.DisplayName: Призрачный череп
 OrbitingBooger.DisplayName: Козявочный шар
+SpookSharkron.DisplayName: Жуткий акулон
 //hallucinations
 TheMan.DisplayName: Сущность
 //catacombs layer 1
@@ -277,6 +287,7 @@ PuttySlime2.DisplayName: Мастичный слизень
 PuttySlime3.DisplayName: Мастичный слизень
 ScarecrowShotgunner.DisplayName: Одержимое пугало
 ShroomHopper.DisplayName: Грибной прыгунчик
+SinisterSnail.DisplayName: Зловещая улитка
 SpookyDance.DisplayName: Жуткий танцующий призрак
 TinyGhost1.DisplayName: Приведеньеце
 TinyGhost2.DisplayName: Приведеньеце

@@ -2013,7 +2013,7 @@ Biojets: {
 	DisplayName: Биоускоритель
 	Tooltip:
 		'''
-		Позволяет летать и парить
+		Позволяет летать и плавно парить
 		Удерживайте ВНИЗ, чтобы парить
 		«Может создать неприятный беспорядок»
 		'''
@@ -2566,7 +2566,7 @@ SnotWings: {
 	DisplayName: Крылья соплежука
 	Tooltip:
 		'''
-		Позволяет летать и парить
+		Позволяет летать и плавно парить
 		«Ужас...»
 		'''
 }
@@ -2854,6 +2854,11 @@ RotGourdBox: {
 SpiderCaveBox: {
 	DisplayName: Музыкальная шкатулка (Паучий грот)
 	Tooltip: "[c/A88554:«It's Just Spider Stuff»] от BananaLizard"
+}
+
+SpookFishronBox: {
+	DisplayName: Музыкальная шкатулка (Ужасающий Рыброн)
+	Tooltip: "[c/DE8533:«Bad Sushi»] от BananaLizard"
 }
 
 SpookyBiomeDayBox: {
@@ -3862,5 +3867,87 @@ SpookyBiomeTorchItem: {
 
 SpookyHellTorchItem: {
 	DisplayName: Факел глазастой долины
+	Tooltip: ""
+}
+
+SpookFishronTrophyItem: {
+	DisplayName: Трофей Ужасающего Рыброна
+	Tooltip: ""
+}
+
+SpookFishronRelicItem: {
+	DisplayName: Реликвия Ужасающего Рыброна
+	Tooltip: ""
+}
+
+SpookFishronWings: {
+	DisplayName: Крылья Ужасающего Рыброна
+	Tooltip:
+		'''
+		Позволяют летать и плавно парить
+		Позволяют быстро передвигаться в воде
+		'''
+}
+
+SpookFishronBow: {
+	DisplayName: Огнештормовой муссон
+	Tooltip: Стреляет шквалом самонаводящихся огненных снарядов
+}
+
+SpookFishronFlail: {
+	DisplayName: Пылающий кистенерон
+	Tooltip:
+		'''
+		Выпускает самонаводящиеся пузыри, которые долго остаются в воздухе после остановки
+		Чем дольше раскручивается кистен, тем больше он выпустит пузерей при броске
+		'''
+}
+
+SpookFishronGun: {
+	DisplayName: Тыквенный пряностел
+	Tooltip: Выпускает струю огня тыквенных пряностей
+}
+
+SpookFishronStaff: {
+	DisplayName: Жезл жуткрона
+	Tooltip:
+		'''
+		Призывает сильных жутких свинронов сражаться за вас
+		Каждый свинрон занимает 2 слота миньонов
+		'''
+}
+
+SpookFishronTome: {
+	DisplayName: Бритвенный жутконадо
+	Tooltip: Выпускает оргромные и медленно движущиеся огненные торнадо
+}
+
+SinisterSnailItem: {
+	DisplayName: Зловещая улитка
+	Tooltip: ""
+}
+
+SinisterShell: {
+	DisplayName: Зловещая ракушка
+	Tooltip: Призывает гиганскую зловещую улитку
+}
+
+SpookFishronMask: {
+	DisplayName: Маска Ужасающего Рыброна
+	Tooltip: ""
+}
+
+BossBagSpookFishron: {
+	DisplayName: Мешок с сокровищами (Ужасающий Рыброн)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PumpkinSpiceLatte: {
+	DisplayName: Кофе с тыквенными пряностями
+	Tooltip: Не расходуется
+}
+
+SinisterSnailCageItem: {
+	DisplayName: Террариум с зловещей улиткой
 	Tooltip: ""
 }

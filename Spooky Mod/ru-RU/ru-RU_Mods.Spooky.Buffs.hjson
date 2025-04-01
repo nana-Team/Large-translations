@@ -509,3 +509,13 @@ PuttyPetBuff: {
 	DisplayName: Банда мастичных слизней
 	Description: Мастички прыгают за вами
 }
+
+SinisterSnailBuff: {
+	DisplayName: Зловещая улитка
+	Description: Воплощение типа литературного героя «Большая улитка»
+}
+
+SpookFishronMinionBuff: {
+	DisplayName: Жуткий свинрон
+	Description: Свинроны защищают вас
+}

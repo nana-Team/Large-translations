@@ -12,7 +12,7 @@ SpookySpirit: {
 
 	BossChecklistIntegration: {
 		SpawnInfo: Нажмите ПКМ по проклятой статуе, расположенной на заболоченном кладбище, ночью, держа [i:Spooky/EMFReader] в своём инвентаре.
-		DespawnMessage: Жуткий дух запугал всех игроков.
+		DespawnMessage: Жуткий дух запугал всех игроков!
 	}
 }
 
@@ -58,7 +58,7 @@ SpookFishron: {
 
 	BossChecklistIntegration: {
 		SpawnInfo: Рыбачьте в океане во время Тыквенной луны, используя [i:Spooky/SinisterSnailItem] в качестве наживки.
-		DespawnMessage: Все игроки стали плохим суши.
+		DespawnMessage: Все игроки пали жатвой очень оригинального босса.
 	}
 }
 

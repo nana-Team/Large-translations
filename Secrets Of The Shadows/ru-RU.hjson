@@ -185,7 +185,7 @@ Mods: {
 		}
 
 		BossAwoken: {
-			Advisor: The Advisor has awoken!
+			Advisor: Аналитик пробудился!
 			PharaohsCurse: Проклятье Фараона пробудилось!
 			Lux: Люкс пробудилась!
 			Glowmoth: Светляк пробудился!
@@ -216,7 +216,7 @@ Mods: {
 
 		DropCondition: {
 			DefeatSubspaceSerpent: Выпадает после победы над Субпространственным змем
-			DefeatAdvisor: Drops if Advisor has been defeated
+			DefeatAdvisor: Выпадает после победы над Аналитиком
 			DefeatPharaohsCurseBefor: До победы над Проклятьем Фараона
 			DefeatPharaohsCurse: После победы над Проклятьем Фараона
 			DefeatEyeofCthulhuBefor: До победы над Глазом Ктулху
@@ -260,7 +260,7 @@ Mods: {
 				# Abandoned Village
 				DisplayName: Слиток древней стали
 				# Abandoned Village
-				Tooltip: «Древний прототип стали, использовавшийся различными цивилизациями... и гоблинами»
+				Tooltip: «Древний прототип стали, использовавшийся различными великими цивилизациями... и гоблинами»
 			}
 
 			AncientSteelHalberd: {
@@ -356,7 +356,7 @@ Mods: {
 			}
 
 			AdvisorRelic: {
-				DisplayName: The Advisor Relic
+				DisplayName: Реликвия Аналитика
 				Tooltip: ""
 			}
 
@@ -2204,7 +2204,7 @@ Mods: {
 			}
 
 			ObsidianEruption: {
-				DisplayName: Obsidian Eruption
+				DisplayName: Обсидиановое извержение
 				Tooltip: ""
 			}
 
@@ -2294,7 +2294,7 @@ Mods: {
 
 			AdvisorMusicBox: {
 				# MusicBoxes
-				DisplayName: Music Box (Advisor)
+				DisplayName: Музыкальная шкатулка (Аналитик)
 				Tooltip: ""
 			}
 
@@ -2874,7 +2874,7 @@ Mods: {
 			}
 
 			TheAdvisorBossBag: {
-				DisplayName: Treasure Bag
+				DisplayName: Мешок с сокровищами (Аналитик)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -5186,7 +5186,7 @@ Mods: {
 			}
 
 			AdvisorTrophy: {
-				DisplayName: Advisor Trophy
+				DisplayName: Трофей Аналитика
 				Tooltip: ""
 			}
 
@@ -5910,8 +5910,8 @@ Mods: {
 				'''
 			Vibrant:
 				'''
-				Increases void gain by 2
-				Vibrant Pistol fires three shots at once at the cost of accuracy
+				Увеличивает получаемое количество пустоты на 2 ед.
+				Вибропистолет будет выпускать сразу по три выстрела, вместо одного
 				'''
 			Vespera: Увеличивает максимальный запас пустоты на 25 ед. и получаемое количество пустоты на 50%
 			NatureWreath: Призывает 3 цветочные лозы сражаться за вас
@@ -5940,14 +5940,12 @@ Mods: {
 			PatchLeather: Summons a flock of flying snakes to assist in combat
 			Voidspace:
 				'''
-				
 				Все атаки накладывают дебафф «Субпространственное пламя», наносящий 10 ед. урона в секунду
 				Если враг умирает под действием этого дебаффа, он взрывается, нанося ближайшим врагам урон, равный сумме полученного от дебаффа урона
 				Враги, получившие урон таким образом, также получают дебафф «Субпространственное пламя»
 				'''
 			Elemental:
 				'''
-				
 				Враги на вашем пути, получившие урон во время телепортации, будут временно замороженны во времени
 				Снижает время перезарядки телепорта на 6 секунд и увеличивает дальность поражения при телепортации на 50%
 				Урон от телепортации будет увеличиваться в зависимости от бонусов к пустотнуму урону
@@ -6089,20 +6087,20 @@ Mods: {
 			PermafrostPlatingBlastDoorTileOpen.MapEntry: Permafrost Plating Blast Door
 
 			GemChestTile: {
-				MapEntry0: Gem Chest
-				MapEntry1: Locked Gem Chest
-				MapEntry2: Gem Chest
-				MapEntry3: Locked Gem Chest
-				MapEntry4: Gem Chest
-				MapEntry5: Locked Gem Chest
-				MapEntry6: Gem Chest
-				MapEntry7: Locked Gem Chest
-				MapEntry8: Gem Chest
-				MapEntry9: Locked Gem Chest
-				MapEntry10: Gem Chest
-				MapEntry11: Locked Gem Chest
-				MapEntry12: Gem Chest
-				MapEntry13: Locked Gem Chest
+				MapEntry0: Самоцветный сундук
+				MapEntry1: Закрытый самоцветный сундук
+				MapEntry2: Самоцветный сундук
+				MapEntry3: Закрытый самоцветный сундук
+				MapEntry4: Самоцветный сундук
+				MapEntry5: Закрытый самоцветный сундук
+				MapEntry6: Самоцветный сундук
+				MapEntry7: Закрытый самоцветный сундук
+				MapEntry8: Самоцветный сундук
+				MapEntry9: Закрытый самоцветный сундук
+				MapEntry10: Самоцветный сундук
+				MapEntry11: Закрытый самоцветный сундук
+				MapEntry12: Самоцветный сундук
+				MapEntry13: Закрытый самоцветный сундук
 			}
 
 			OtherworldCrateTile.MapEntry: Otherworld Crate Tile
@@ -6142,12 +6140,12 @@ Mods: {
 			TheAdvisorHead: {
 				# Boss
 				# Advisor
-				DisplayName: The Advisor
+				DisplayName: Аналитик
 
 				BossChecklistIntegration: {
-					EntryName: The Advisor
-					SpawnInfo: Destroy the 4 tethered Otherworldly Constructs of the Planetarium
-					DespawnMessage: The Advisor is no longer after you
+					EntryName: Аналитик
+					SpawnInfo: Уничтожьте 4 свяхнных конструкта потусторонности Планетариума.
+					DespawnMessage: Аналитик больше не прислеждует вас.
 				}
 			}
 
@@ -6369,7 +6367,7 @@ Mods: {
 			BossName: {
 				PutridPinky: Гнилостный пинки
 				PharaohsCurse: Проклятье Фараона
-				TheAdvisor: The Advisor
+				TheAdvisor: Аналитик
 				Polaris: Полярный
 				Lux: Люкс
 				SubspaceSerpent: Субпространственный змей
@@ -6379,7 +6377,7 @@ Mods: {
 			BossDescription: {
 				PutridPinky: Используйте {0} в любом биоме
 				PharaohsCurse: Нажмите на {0} в Проклятой Пирамиде
-				TheAdvisor: Destroy the 4 tethered Otherworldly Constructs of the Planetarium
+				TheAdvisor: Уничтожьте 4 свяхаггыъ конструкта потусторонности Планетариума
 				Polaris: Активируйте {0} в снегах с помощью {1}
 				Lux: Разгневайте духа хаоса
 				SubspaceSerpent: Разрушите пространственную брешь с помощью {0}

@@ -1,7 +1,7 @@
 ItemTooltipExtras: {
 	StormlionWhipExtraTagDamage: +{0} ед. урона от метки по зацепленным врагам
 	AmpstringBowElectricFieldDamage: "{0} ед. урона от электической дуги в тик"
-	CarrionDetonatorStaffDetonationDamage: от {0} до {1} ед. урона за взрыв
+	CarrionDetonatorStaffDetonationDamage: От {0} до {1} ед. урона за взрыв
 	TornElectrosacFullyChargedDamage: "{0} ед. урона по площади при полностью заряженном ударе"
 	ComicallySlowSpeed: Смехотворная скорость
 	CannotCrit: Не может наносить критические урады

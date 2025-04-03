@@ -64,7 +64,7 @@ VerdantHelm: {
 }
 
 VerdantLeggings: {
-	DisplayName: Поножи цветенея
+	DisplayName: Поножи цветения
 	Tooltip:
 		'''
 		Ускоряет регенерацию здоровья
@@ -114,22 +114,22 @@ GemsparkAquamarineWallOfflineItem: {
 }
 
 BeehiveBlock: {
-	DisplayName: Bumblebee Hive
+	DisplayName: Шмелиный улей
 	Tooltip:
 		'''
-		Spawns bees, which pollinate nearby flowers
-		Can be harvested after enough bees return with pollen for some goodies
-		'The buzzing is mildly concerning'
+		Призывает пчёл, которые опыляют близжайшие цветы
+		Когда пчёлы принесут достаточно пыльцы, можно собрать 
+		«Это жужжание слегка настораживает» 
 		'''
 }
 
 Bush2x2Item: {
-	DisplayName: Decorative Bush
-	Tooltip: Can be trimmed with [i:{0}].
+	DisplayName: Декоративный куст
+	Tooltip: Можно подстричь с помощью [i:{0}].
 }
 
 Bush3x3Item: {
-	DisplayName: "{$Mods.Verdant.Items.Bush2x2Item.DisplayName} (Large)"
+	DisplayName: "{$Mods.Verdant.Items.Bush2x2Item.DisplayName} (Большой)"
 	Tooltip: "{$Mods.Verdant.Items.Bush2x2Item.Tooltip}"
 }
 
@@ -174,7 +174,7 @@ LushClockItem: {
 }
 
 LushDresserItem: {
-	DisplayName: Камод изобилия
+	DisplayName: Комод изобилия
 	Tooltip: ""
 }
 
@@ -234,8 +234,8 @@ VerdantWoodChestBlock: {
 }
 
 ThePlantItem: {
-	DisplayName: The Plant
-	Tooltip: "'in real'"
+	DisplayName: «Растение» 
+	Tooltip: «Серьёзно, это просто растение» 
 }
 
 ApotheoticPaintingItem: {

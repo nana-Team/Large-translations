@@ -773,3 +773,13 @@ YhogoStickBuff: {
 	DisplayName: Godseeker Pogo
 	Description: You're riding a Yhogo Stick
 }
+
+BirdsculeBuff: {
+	DisplayName: Birdscule Buff
+	Description: Best not let it peck your scalp
+}
+
+DebrisMount: {
+	DisplayName: Debris Mount
+	Description: They used to ride these back in the days
+}

@@ -1,100 +1,100 @@
 AmogusBuff: {
 	# When the april is fooled
-	DisplayName: Stratus Astronaut
+	DisplayName: Небосводный астронавт
 	# April fools
-	Description: amogus
+	Description: амогус
 }
 
 DarksunSpiritBuff: {
 	# Light pets
-	DisplayName: Darksun Spirits
+	DisplayName: Духи тёмного солнца
 	# Light pets
-	Description: The Darksun Spirits have decided to follow you!
+	Description: За вами сделуют духи тёмного солнца!
 }
 
 EnredBuff: {
-	DisplayName: Cosmic Assistant
-	Description: He's here to help!
+	DisplayName: Космический ассистент
+	Description: Здесь, чтобы помочь!
 }
 
 DiggerBuff: {
-	DisplayName: Rebuilt Digger
-	Description: Summons a piece of digging machinery to light your way
+	DisplayName: Пересобранный копатель
+	Description: Копательный механизм, освещающий ваш путь
 }
 
 GodrgeBuff: {
-	DisplayName: Godrge
-	Description: Pathetic.
+	DisplayName: Богрдж
+	Description: Жалкое зрелище
 }
 
 HeatBuff: {
-	DisplayName: Chaos Skulls
-	Description: Here to judge you for your sins... not really
+	DisplayName: Черепаха хаоса
+	Description: Здесь, что судить вас за грехи... или нет
 }
 
 ImpBuff: {
-	DisplayName: Minimpious
-	Description: Hey!
+	DisplayName: Импуша
+	Description: Эй!
 }
 
 PhantomBuff: {
-	DisplayName: Freed Phantom Spirit
-	Description: Finally free, but still follows you!
+	DisplayName: Свободный фантомный дух
+	Description: Хотя наконец свободен, решил следовать за вами!
 }
 
 ProBuff: {
-	DisplayName: The Profaned Armada
-	Description: Providence and her army shines holy light through the dark
+	DisplayName: Осквернённая армада
+	Description: Провиденс и её армия рассеивают тьму святым светом
 }
 
 PylonBuff: {
-	DisplayName: Proto-Amplifier
-	Description: Supercharges other proto-bots
+	DisplayName: Протоусилитель
+	Description: Сверхзаряжает прочие протоботы
 }
 
 SeerBuff: {
-	DisplayName: Sightseeing Tour
-	Description: Seeing the world together
+	DisplayName: Разведчик-проводник
+	Description: Разведуем же мир вместе
 }
 
 SolarBunBuff: {
-	DisplayName: Sun Bun
-	Description: Bask under thy divine light
+	DisplayName: Солнечная булочка
+	Description: Грейтесь под сим божественным светом
 }
 
 SupJewelBuff: {
-	DisplayName: Superstitious Jewel
-	Description: Pure is impure
+	DisplayName: Драгоценность суеверий
+	Description: Чистое - это нечистое
 }
 
 VanityCoreBuff: {
-	DisplayName: Core of Vanity
-	Description: Everyone gets along!
+	DisplayName: Ядро косметики
+	Description: Все друзья!
 }
 
 YeetBuff: {
-	DisplayName: Litfish
-	Description: A baby sunskater will follow you now.
+	DisplayName: Мелкорыб
+	Description: За вам следует маленький солнечный скиталец
 }
 
 AnthozoanBuff: {
 	# Mounts
-	DisplayName: Cambrian Crustacean
+	DisplayName: Кембрийское ракообразное
 	# Mounts
-	Description: This one won't throw rocks at you
+	Description: Он не будет бросать в вас камни
 }
 
 AuricTeslaBuff: {
-	DisplayName: Auric Tesla
+	DisplayName: Ауритовая тесла
 	Description:
 		'''
-		Yharim Car
-		Yharim Car
+		Яриммобиль
+		Яриммобиль
 		'''
 }
 
 BikeBuff: {
-	DisplayName: Profaned Cycle
+	DisplayName: Осквернённый байк
 	Description: For when you really need to get somewhere, in style.
 }
 
@@ -187,70 +187,70 @@ SsandBuff: {
 
 AresBuff: {
 	# Exos
-	DisplayName: Toy XF-Ares
+	DisplayName: Игрушечный ВУ-Арес
 	# Exos
-	Description: He appears
+	Description: Он появляется
 }
 
 ExoMayhemBuff: {
-	DisplayName: Toy Exo Mechs
-	Description: Perfected entertainment providers
+	DisplayName: Игрушечные Экзо-механизмы
+	Description: Идеальные увеселители
 }
 
 ThanatosBuff: {
-	DisplayName: Toy XM-Thanatos
-	Description: T(oy t) han(at)os
+	DisplayName: Игрушечный ВМ-Танатос
+	Description: Тaн(ат)ос
 }
 
 TwinsBuff: {
-	DisplayName: Toy XS-Apollo and Artemis
-	Description: Here they are
+	DisplayName: Игрушечные ВП-Аполлон и Артемида
+	Description: А вот и они
 }
 
 AmberBuff: {
 	# Scuttlers
-	DisplayName: Amber Scuttler
+	DisplayName: Янтарный беглец
 	# Scuttlers
 	Description: Still won't let go of its gem
 }
 
 AmethystBuff: {
-	DisplayName: Amethyst Scuttler
+	DisplayName: Аметистовый беглец
 	Description: Still won't let go of its gem
 }
 
 BejeweledBuff: {
-	DisplayName: Bejeweled Scuttler
+	DisplayName: Самоцветный беглец
 	Description: Still won't let go of its gems
 }
 
 CrystalBuff: {
-	DisplayName: Crystal Scuttler
+	DisplayName: Кристальный беглец
 	Description: Still won't let go of its crystal
 }
 
 DiamondBuff: {
-	DisplayName: Diamond Scuttler
+	DisplayName: Алмазный беглец
 	Description: Still won't let go of its gem
 }
 
 EmeraldBuff: {
-	DisplayName: Emerald Scuttler
+	DisplayName: Изумрудный беглец
 	Description: Still won't let go of its gem
 }
 
 RubyBuff: {
-	DisplayName: Ruby Scuttler
+	DisplayName: Рубиновый беглец
 	Description: Still won't let go of its gem
 }
 
 SapphireBuff: {
-	DisplayName: Sapphire Scuttler
+	DisplayName: Сапфировый беглец
 	Description: Still won't let go of its gem
 }
 
 TopazBuff: {
-	DisplayName: Topaz Scuttler
+	DisplayName: Топазовый беглец
 	Description: Still won't let go of its gem
 }
 
@@ -262,8 +262,8 @@ AeroBuff: {
 }
 
 AndroombaBuff: {
-	DisplayName: Androomba
-	Description: Nyoooom!
+	DisplayName: Андробот-пылесос
+	Description: Вжуууух!
 }
 
 AquaBuff: {
@@ -287,7 +287,7 @@ BeeBuff: {
 }
 
 BlockarozBuff: {
-	DisplayName: A Cube
+	DisplayName: Куб
 	Description: I take this as a declaration
 }
 
@@ -298,7 +298,7 @@ BuppyBuff: {
 
 BrimberryBuff: {
 	DisplayName: Brimstone Berry
-	Description: It�s a long way up from hell�
+	Description: It’s a long way up from hell…
 }
 
 CalamityBABYBuff: {
@@ -397,8 +397,8 @@ FistuloidBuff: {
 }
 
 FogBuff: {
-	DisplayName: Fogbound
-	Description: Augh
+	DisplayName: Туманокованный
+	Description: Агх
 }
 
 FollyBuff: {
@@ -407,12 +407,12 @@ FollyBuff: {
 }
 
 GeorgeBuff: {
-	DisplayName: George
-	Description: George
+	DisplayName: Джордж
+	Description: Джордж
 }
 
 GoozmaBuff: {
-	DisplayName: Goozma
+	DisplayName: Гузма
 	Description: The last trace of that which has been erased from time itself...
 }
 
@@ -432,13 +432,13 @@ HoodiedolistBuff: {
 }
 
 JaredBuff: {
-	DisplayName: Eidolon Wyrm
-	Description: Up from the depths
+	DisplayName: Эйдолонский змий
+	Description: Из самых глубин
 }
 
 JellyBuff: {
-	DisplayName: Astral Gelatin
-	Description: A relic of a long forgotten past
+	DisplayName: Астральный желатин
+	Description: Реликвия давно забытого прошлого
 }
 
 JunkoBuff: {
@@ -482,7 +482,7 @@ NuggetBuff: {
 }
 
 OmegaSquidBuff: {
-	DisplayName: Omega Cultists
+	DisplayName: Омега-культисты
 	Description: Your own little devotes
 }
 
@@ -502,8 +502,8 @@ PillagerBuff: {
 }
 
 PolterBuff: {
-	DisplayName: Polter-Chan
-	Description: Poooolteeer chaaaaaaaaaaannnn
+	DisplayName: Полтер-тян
+	Description: Поооолтер тяяяяяяяян
 }
 
 PuppoBuff: {
@@ -512,7 +512,7 @@ PuppoBuff: {
 }
 
 ReaperBuff: {
-	DisplayName: Buff Man
+	DisplayName: Накачанный мужик
 	Description: You could say this is a... buff buff
 }
 
@@ -537,47 +537,47 @@ RoverSpindleBuff: {
 }
 
 RustyBuff: {
-	DisplayName: Rusty Mimic
+	DisplayName: Ржавый мимик
 	Description: Good thing there aren't bigger ones
 }
 
 SadStoneBuff: {
-	DisplayName: Sad Rock
+	DisplayName: Грустный камень
 	Description: ":("
 }
 
 ScorchingFuryshronBuff: {
 	DisplayName: Scorching Dukapitated
-	Description: Don't do Scoria kids
+	Description: Не употребляйте магматит, дети
 }
 
 ScourgeBuff: {
 	DisplayName: Twin Pests
-	Description: Blaaaargh^2
+	Description: Благх в квадрате
 }
 
 SentiPet: {
-	DisplayName: The Sentinels
-	Description: The Cosmic Terrors watch over you
+	DisplayName: Стражи
+	Description: За вам наблюдают космическиу ужасы
 }
 
 SepulcherBuff: {
-	DisplayName: Fallen Sepulchling
+	DisplayName: Падший Могуля
 	Description:
 		'''
-		A dark construct composed of the long deceased souls of the innocent...
-		Cute
+		Тёмный конструк, состоящий из давно умерших душ невинных людей...
+		Мило
 		'''
 }
 
 SepulcherBuffNeo: {
-	DisplayName: Sepulchling
-	Description: THIS ONE is benevolent
+	DisplayName: Могуля
+	Description: Какой же он ДОБРЫЙ
 }
 
 ShartBuff: {
-	DisplayName: The Sharks
-	Description: No they can't play hockey
+	DisplayName: Акулы
+	Description: Нет, они не играю в хокей
 }
 
 SigBuff: {
@@ -591,13 +591,13 @@ SkaterBuff: {
 }
 
 SlimeBuff: {
-	DisplayName: Slime Demigods
-	Description: Heirs to the throne
+	DisplayName: Полубоги слизней
+	Description: Наследники престола
 }
 
 SmaulerBuff: {
-	DisplayName: Smauler
-	Description: Chow~
+	DisplayName: Мучишка
+	Description: Кусь~
 }
 
 StasisArmoredBuff: {
@@ -616,13 +616,13 @@ SWPetBuff: {
 }
 
 TerminalRockBuff: {
-	DisplayName: Xeroc's Pet Rock
-	Description: '''"This does put a smile on my face..." '''
+	DisplayName: Камень-питомец Ксерока
+	Description: '''"Везкий повод для улыбки..." '''
 }
 
 TUBBUFF: {
-	DisplayName: T.U.B
-	Description: A tentacle monster is following you
+	DisplayName: ТАБ
+	Description: За вами следует тентаклиевый монстр
 }
 
 UngodlyBuff: {
@@ -641,12 +641,12 @@ WyrmBuff: {
 }
 
 YharimSquidBuff: {
-	DisplayName: Auric Squiddo
+	DisplayName: Ауритовый кальмар
 	Description: He's gone so far in life
 }
 
 ZygoteBuff: {
-	DisplayName: Ghastly Zygote
+	DisplayName: Призрачная зигота
 	Description: He might be a bit problematic...
 }
 
@@ -669,7 +669,7 @@ ProtoRingBuff: {
 
 SandTransformationBuff: {
 	DisplayName: Sand Elemental Transformation
-	Description: heh.
+	Description: хех
 }
 
 SignutTransformationBuff: {
@@ -697,7 +697,7 @@ DustChimeBuff: {
 }
 
 HarbingerOfWorkBuff: {
-	DisplayName: Harbinger Of Work
+	DisplayName: Предвестник работы
 	Description:
 		'''
 		Their passion overheats
@@ -760,26 +760,16 @@ NurseryBellBuff: {
 }
 
 MorshuBuff: {
-	DisplayName: Morshu
-	Description: Rope coil? Gel? Bombs? You want it? It's yours my friend, as long as you have a giant ruby...
+	DisplayName: Моршу
+	Description: Моток верёвки, гель, бомбы? Тебе всё это нужно? Оно твоё, мой друг, если у тебя есть огромный рубин...
 }
 
 DraedonCartBuff: {
-	DisplayName: Draedon Cart
+	DisplayName: Дрэйдононетка
 	Description: train2
 }
 
 YhogoStickBuff: {
 	DisplayName: Godseeker Pogo
 	Description: You're riding a Yhogo Stick
-}
-
-BirdsculeBuff: {
-	DisplayName: Birdscule Buff
-	Description: Best not let it peck your scalp
-}
-
-DebrisMount: {
-	DisplayName: Debris Mount
-	Description: They used to ride these back in the days
 }

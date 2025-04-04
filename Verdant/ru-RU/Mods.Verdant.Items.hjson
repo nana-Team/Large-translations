@@ -1448,26 +1448,26 @@ HoneyHeart: {
 }
 
 FruitIconGreen: {
-	DisplayName: Spicy Pepper
+	DisplayName: Острый перец
 	Tooltip: ""
 }
 
 FruitIconRed: {
-	DisplayName: Sweet Apple
+	DisplayName: Сладкое яблоко
 	Tooltip: ""
 }
 
 FruitIconYellow: {
-	DisplayName: Honey Drop
+	DisplayName: Капля мёда
 	Tooltip: ""
 }
 
 ApotheoticSoul: {
-	DisplayName: Apotheotic Murmur
+	DisplayName: Шёпот Апофеоза
 	Tooltip:
 		'''
-		The barest essence of an apotheosis
-		'You can hear whizzing and dancing'
+		Сама суть Апофеоза
+		«Ты можешь слышать свист и танцы» 
 		'''
 }
 

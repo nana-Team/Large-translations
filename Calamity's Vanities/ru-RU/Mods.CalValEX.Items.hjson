@@ -2318,15 +2318,6 @@ RottenHotdog: {
 		'''
 }
 
-RottenKey: {
-	DisplayName: Гнилой ключ
-	Tooltip:
-		'''
-		Призывает кусок Разума улья
-		'Ключ к умиротворению скопления микробов'
-		'''
-}
-
 RottingCalamitousArtifact: {
 	DisplayName: Гниющий бедственный артефакт
 	Tooltip:
@@ -4408,9 +4399,25 @@ YellowSolution: {
 	Tooltip: Можно продать
 }
 
+
 KnowledgeFogbound: {
-	DisplayName: История - Туманокованный
+	DisplayName: Fogbound
 	Tooltip: ""
+	Lore:
+		'''
+		Undoubtedly one of the most threatening beings in Terraria, for even I nearly lost my life in my encounter with him.
+		Upon readying my final blow against the Death God, he cowardly split his soul from his body in hopes to evade his demise.
+		His incorporeal form returned to haunt me as the Fogbound, and attempted to cut my life short before I could formulate a strategic retreat.
+		Fortunately, however, he had a fatal weakness: as his physical body withered away, so too did the brain that his ghostly form still relied on.
+		Using his newfound lack of wits to my advantage, I led him into a carefully laid trap containing sealing runes placed by the Archmage.
+		It was a success. I swiftly sealed the spirit away inside the nearest object to myself, with fate deeming my jester an adequate vessel.
+		Ironic that of all the gods, it was the one who's domain was Death that feared dying the most.
+		'''
+	ShortTooltip:
+		'''
+		[c/E3AF40:Whispers from on high dance in your ears...]
+		[c/BEBEBE:Press "Left Shift" to listen closer]
+		'''
 }
 
 SulphuricDye: {
@@ -4586,5 +4593,132 @@ YhogoStick: {
 
 AstralUndergroundMusicBox: {
 	DisplayName: Музыкальная шкатулка (Астральные пещеры)
+	Tooltip: ""
+}
+
+AuricFirework: {
+	DisplayName: Auric Firework
+	Tooltip: Explodes into fireworks shaped like nearly any item in the game
+}
+
+OgliveBranch: {
+	DisplayName: Oglive Branch
+	Tooltip: ""
+}
+
+NamelessDeityPlush: {
+	DisplayName: Nameless Deity Plush
+	Tooltip: Нажмите ПКМ, чтобы бросить!
+}
+
+NamelessDeityEXPlush: {
+	DisplayName: Nameless Deity Plush (EX)
+	Tooltip:
+		'''
+		Can be shrunken with Shimmer
+		Right click to throw!
+		'''
+}
+
+BottledSulphurousWater: {
+	DisplayName: Bottled Sulphurous Water
+	Tooltip: Probably not healthy to drink
+}
+
+Corruppuccino: {
+	DisplayName: Corruppuccino
+	Tooltip:
+		'''
+		Summons a tired Hive Mind and its family
+		'Drink up!'
+		'''
+}
+
+EntropicNoxusPlush: {
+	DisplayName: Entropic Noxus Plush
+	Tooltip: Нажмите ПКМ, чтобы бросить!
+}
+
+PaintedGoggles: {
+	DisplayName: Painted Goggles
+	Tooltip:
+		'''
+		Use this to toggle Calamity's Vanities' April Fools boss sprites
+		Can only be used in singleplayer
+		Does not work while Infernum Mode is enabled
+		'''
+	Enabled: Painted sprites forcefully enabled
+	Disabled: Painted sprites forcefully disabled
+}
+
+MarsPlush: {
+	DisplayName: Mars Plush
+	Tooltip: Нажмите ПКМ, чтобы бросить!
+}
+
+AvatarPlush: {
+	DisplayName: Avatar of Emptiness Plush
+	Tooltip: Нажмите ПКМ, чтобы бросить!
+}
+
+AvatarEXPlush: {
+	DisplayName: Avatar of Emptiness Plush (EX)
+	Tooltip:
+		'''
+		Can be shrunken with Shimmer
+		Right click to throw!
+		'''
+}
+
+Fool: {
+	DisplayName: The Fool
+	Tooltip: "'Maple'"
+}
+
+FoolEX: {
+	DisplayName: The Fool (EX)
+	Tooltip: "'Maple'"
+}
+
+SignathionPlush: {
+	DisplayName: Signathion Plush
+	Tooltip: Нажмите ПКМ, чтобы бросить!
+}
+
+SeaguardShield: {
+	DisplayName: Seaguard Shield
+	Tooltip:
+		'''
+		'Maybe he would have won the fight
+		...if his shield wasn't made of paper mache'
+		'''
+}
+
+DustyGuitar: {
+	DisplayName: Dusty Guitar
+	Tooltip:
+		'''
+		'Full of music to soothe the soul
+		and sand'
+		'''
+}
+
+WulfrumGrappler: {
+	DisplayName: Wulfrum Grabbler
+	Tooltip:
+		'''
+		Grabbed tiles act as pivot point from which the user swings forward from
+		Reach: 15
+		Launch Velocity: 8
+		'''
+}
+
+DarklightMushroomCap: {
+	DisplayName: Darklight Mushroom Cap
+	Tooltip: ""
+}
+
+MushroomCap: {
+	DisplayName: Mushroom Cap
 	Tooltip: ""
 }

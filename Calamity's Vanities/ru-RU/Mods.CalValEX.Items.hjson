@@ -1,13 +1,13 @@
 AmogusItem: {
 	# April fools!
-	DisplayName: Polus Communicator
+	DisplayName: Полюс-коммуникатор
 	# April fools!
 	Tooltip:
 		'''
-		Summons a Stratus Astronaut
-		UNOBTAINABLE OUTSIDE APRIL FOOLS
-		Cheating this item in may have disastrous consequences
-		Hates alien dinosaurs
+		Призывает небесного астронавта
+		ДОСТУПНО ТОЛЬКО НА ПЕРВОЕ АПРЕЛЯ
+		Читерство этого предмета может привести к катастрофическим последствиям
+		Ненавидит динозавров-пришельцев
 		'''
 }
 
@@ -714,7 +714,7 @@ EarthShield: {
 }
 
 Invishield: {
-	DisplayName: Compensation
+	DisplayName: Компенсация
 	Tooltip: Can be sold
 }
 
@@ -1480,194 +1480,194 @@ NuggetLicense: {
 
 AnahitaPlushThrowable: {
 	# Plushies
-	DisplayName: Compensation
+	DisplayName: Компенсация
 	# Plushies
-	Tooltip: Deprecated item
+	Tooltip: Устаревший предмет
 }
 
 ApolloPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 AquaticScourgePlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 AresPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 ArtemisPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 AstrageldonPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 AstrumAureusPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 AstrumDeusPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 BrimstoneElementalPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 BumblefuckPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 CalaFumoYeetable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 CeaselessVoidPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 ClonePlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 CrabulonPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 CryogenPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 DesertScourgePlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 DevourerofGodsPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 DraedonPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 GiantClamPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 HiveMindPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 JaredPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 LeviathanPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 MaulerPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 MirePlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 NuclearTerrorPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 OldDukePlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 PerforatorPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 PlaguebringerGoliathPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 PolterghastPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 ProfanedGuardianPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 ProvidencePlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 RavagerPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 SandSharkPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 SignusPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 SlimeGodPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 StormWeaverPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 ThanatosPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 YharonPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 BubbleMachine: {
@@ -2063,11 +2063,11 @@ SmallSandPail: {
 }
 
 SmallSandPlushie: {
-	DisplayName: Small Sand Plushie
+	DisplayName: Плюшевый песочек
 	Tooltip:
 		'''
-		Summons a Rare Miniature Sand Elemental
-		'An elemental's favorite toy!'
+		Призывает мини-версию редкого песчаного элементаля
+		«Любимая игрушка элементаля!»
 		'''
 }
 
@@ -2268,12 +2268,12 @@ NuggetinaBiscuit: {
 }
 
 PlaguebringerPowerCell: {
-	DisplayName: Compensation
+	DisplayName: Компенсация
 	Tooltip: Can be sold for a decent price
 }
 
 PristineExcalibur: {
-	DisplayName: Compensation
+	DisplayName: Компенсация
 	Tooltip: Could be sold for a decent price
 }
 
@@ -2584,18 +2584,18 @@ ZygoteinaBucket: {
 }
 
 HypnosPlushThrowable: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 MirePlushThrowableP1: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 MirePlushThrowableP2: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 PutridShroom: {
@@ -2783,7 +2783,7 @@ BlightedEggBlock: {
 }
 
 Bloodstone: {
-	DisplayName: Compensation
+	DisplayName: Компенсация
 	Tooltip: Can be sold
 }
 
@@ -3481,7 +3481,7 @@ Hesfine: {
 }
 
 InactivePowerFactory: {
-	DisplayName: Compensation
+	DisplayName: Компенсация
 	Tooltip: Can be sold
 }
 
@@ -3892,203 +3892,203 @@ TableCoral: {
 }
 
 AnahitaPlush: {
-	DisplayName: Anahita Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевая Анахита
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 ApolloPlush: {
-	DisplayName: Apollo Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Апполон
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 AquaticScourgePlush: {
-	DisplayName: Aquatic Scourge Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Акватический бич
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 AresPlush: {
-	DisplayName: Ares Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Арес
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 ArtemisPlush: {
-	DisplayName: Artemis Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевая Артемида
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 AstrageldonPlush: {
-	DisplayName: Astrageldon Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Астрагельдон
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 AstrumAureusPlush: {
-	DisplayName: Astrum Aureus Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Астрам Ареус
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 AstrumDeusPlush: {
-	DisplayName: Astrum Deus Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Астрам Деус
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 BrimstoneElementalPlush: {
-	DisplayName: Brimstone Elemental Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Серный элементаль
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 BumblefuckPlush: {
-	DisplayName: Dragonfolly Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Псевдодракон
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 CalamitasFumo: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 CeaselessVoidPlush: {
-	DisplayName: Ceaseless Void Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевая Нескончаемая пустота
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 ClonePlush: {
-	DisplayName: Calamitas Clone Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Клон Каламитас
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 CrabulonPlush: {
-	DisplayName: Crabulon Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Крабулон
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 CryogenPlush: {
-	DisplayName: Cryogen Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Криогне
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 DesertScourgePlush: {
-	DisplayName: Desert Scourge Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плющевый Пустынный бич
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 DevourerofGodsPlush: {
-	DisplayName: Devourer of Gods Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Пожиратель богов
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 DraedonPlush: {
-	DisplayName: Draedon Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Дрэйдон
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 GiantClamPlush: {
-	DisplayName: Giant Clam Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый гигансткий моллюск
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 HiveMindPlush: {
-	DisplayName: Hive Mind Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Разум улья
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 HypnosPlush: {
-	DisplayName: Hypnos Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Гипноз
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 JaredPlush: {
-	DisplayName: Primordial Wyrm Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Первозданный змей
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 LeviathanPlush: {
-	DisplayName: Leviathan Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Левиафан
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 MaulerPlush: {
-	DisplayName: Mauler Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый мучитель
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 MirePlushP1: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 MirePlushP2: {
-	DisplayName: Compensation
-	Tooltip: Deprecated item
+	DisplayName: Компенсация
+	Tooltip: Устаревший предмет
 }
 
 NuclearTerrorPlush: {
-	DisplayName: Nuclear Terror Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый ядерный террор
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 OldDukePlush: {
-	DisplayName: Old Duke Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевыйв Старый герцог
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 PerforatorPlush: {
-	DisplayName: Perforator Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Перфоратор
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 PlaguebringerGoliathPlush: {
-	DisplayName: Plaguebringer Goliath Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевая Разносчица чумы, Голиаф
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 PolterghastPlush: {
-	DisplayName: Polterghast Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Полтергаст
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 ProfanedGuardianPlush: {
-	DisplayName: Profaned Guardian Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Осквернённый страж
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 ProvidencePlush: {
-	DisplayName: Providence Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевая Провиденс
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 RavagerPlush: {
-	DisplayName: Ravager Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Разрушитель
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 SandSharkPlush: {
-	DisplayName: Great Sand Shark Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевая великая песчаная акула
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 SignusPlush: {
-	DisplayName: Signus Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Сигнус
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 SlimeGodPlush: {
-	DisplayName: Slime God Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Бог слизней
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 StormWeaverPlush: {
-	DisplayName: Storm Weaver Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Штормовой ткач
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 ThanatosPlush: {
-	DisplayName: Thanatos Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Танатос
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 YharonPlush: {
-	DisplayName: Yharon Plushie
-	Tooltip: Right click to throw!
+	DisplayName: Плюшевый Ярон
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 PongMachine: {
@@ -4111,12 +4111,12 @@ RespirationShrine: {
 }
 
 Ribrod: {
-	DisplayName: Compensation
+	DisplayName: Компенсация
 	Tooltip: Can be sold
 }
 
 RoxFake: {
-	DisplayName: Compensation
+	DisplayName: Компенсация
 	Tooltip: Can be sold
 }
 
@@ -4198,7 +4198,7 @@ ViolemurStatue: {
 }
 
 SulphurColumn: {
-	DisplayName: Compensation
+	DisplayName: Компенсация
 	Tooltip: Can be sold
 }
 
@@ -4347,7 +4347,7 @@ HallowedBrickWall: {
 }
 
 MossyGravelWall: {
-	DisplayName: Compensation
+	DisplayName: Компенсация
 	Tooltip: Can be sold
 }
 
@@ -4396,7 +4396,7 @@ XenoSolution: {
 }
 
 YellowSolution: {
-	DisplayName: Compensation
+	DisplayName: Компенсация
 	Tooltip: Can be sold
 }
 
@@ -4436,8 +4436,8 @@ GoozmaPlush: {
 }
 
 GoozmaPlushThrowable: {
-	Tooltip: Deprecated item
-	DisplayName: Compensation
+	Tooltip: Устаревший предмет
+	DisplayName: Компенсация
 }
 
 Aeroplate: {
@@ -4492,12 +4492,12 @@ TestDye: {
 
 MireP1Plush: {
 	DisplayName: Shielded Cragmaw Mire Plushie
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 MireP2Plush: {
 	DisplayName: Slimy Cragmaw Mire Plushie
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 CalamitasPlush: {
@@ -4511,12 +4511,12 @@ CalamitasPlush: {
 
 ShadowPlush: {
 	DisplayName: Forgotten Shadow of Calamitas Plushie
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 BereftVassalPlush: {
 	DisplayName: Bereft Vassal Plushie
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 Ohio: {
@@ -4558,32 +4558,32 @@ DevourerofGodsEXPlush: {
 
 ExodygenPlush: {
 	DisplayName: Exodygen Plush
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 ExotrexiaPlush: {
 	DisplayName: Exotrexia Plush
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 AstigmageddonPlush: {
 	DisplayName: Astigmageddon Plush
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 CataractacombPlush: {
 	DisplayName: Cataractacomb Plush
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 ConjunctivirusPlush: {
 	DisplayName: Conjunctivirus Plush
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 PolyphemalusPlush: {
 	DisplayName: Polyphemalus Plush
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 YhogoStick: {
@@ -4608,7 +4608,7 @@ OgliveBranch: {
 
 NamelessDeityPlush: {
 	DisplayName: Nameless Deity Plush
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 NamelessDeityEXPlush: {
@@ -4636,7 +4636,7 @@ Corruppuccino: {
 
 EntropicNoxusPlush: {
 	DisplayName: Entropic Noxus Plush
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 PaintedGoggles: {
@@ -4653,12 +4653,12 @@ PaintedGoggles: {
 
 MarsPlush: {
 	DisplayName: Mars Plush
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 AvatarPlush: {
 	DisplayName: Avatar of Emptiness Plush
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 AvatarEXPlush: {
@@ -4682,7 +4682,7 @@ FoolEX: {
 
 SignathionPlush: {
 	DisplayName: Signathion Plush
-	Tooltip: Right click to throw!
+	Tooltip: Нажмите ПКМ, чтобы бросить!
 }
 
 SeaguardShield: {

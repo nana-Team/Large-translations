@@ -1,21 +1,21 @@
 # This file contains all the translations for ModConfig elements.
 
 CalValEXConfig: {
-	DisplayName: Config
+	DisplayName: Конфигурация
 
 	DisableVanityDrops: {
-		Label: Disable All Drops
-		Tooltip: Disables all of the mod's direct drops
+		Label: Отключить выпадение новых предметов
+		Tooltip: С существ больше не будут выпадать предметы, добавляемые модом
 	}
 
 	ConfigBossBlocks: {
-		Label: Disable Boss Block Drops
-		Tooltip: Makes it so that bosses and their bags no longer drop blocks
+		Label: Отключить выпадение блоков с боссов
+		Tooltip: С боссов и их мешков с сокровищами больше не будут выпадать строительные блоки
 	}
 
 	FatDog: {
-		Label: True Size
-		Tooltip: Makes a certain pet a lot larger when true
+		Label: Истинный размер
+		Tooltip: Изменяет размер одного из питомцев на натуральную величину
 	}
 
 	SupCombo: {
@@ -38,10 +38,10 @@ CalValEXConfig: {
 		Tooltip: Makes it so that the Pitbull pet doesn't bark at rare enemies
 	}
 
-	Headers.NPCs: NPCs
+	Headers.NPCs: Существа
 
 	TownNPC: {
-		Label: Disable Town NPCs
+		Label: Отключить городских жителей
 		Tooltip: Prevents the Oracle and Jelly Priestess from spawning
 	}
 

@@ -12,1470 +12,1470 @@ AmogusItem: {
 }
 
 ShadesBane: {
-	DisplayName: The Shade's Bane
+	DisplayName: Проклятие тени
 	Tooltip:
 		'''
-		Makes cursed fireballs erupt from enemies on true melee hits
-		Right click to unleash fireballs in random directions along with an onyx dart
-		'Edgy sword #2940358304' 
+		Из врагов, после истинного удара ближнего боя, извергяются проклятые огненные шары
+		Нажмите <right>, чтобы выпустить в случайных направлениях шары и выстрелить ониксовым дротиком
+		'Очередной мрачный меч №2940358304' 
 		'''
 }
 
 Nyanthrop: {
-	DisplayName: Nyanthrop
-	Tooltip: Fires typhoons in random directions
+	DisplayName: Нянтроп
+	Tooltip: Выстреливает тайфунами в случайных направлениях
 }
 
 KnowledgeMeldosaurus: {
-	DisplayName: Meldosaurus
+	DisplayName: История - Литозавр
 	Tooltip:
 		'''
-		The Meldosaurus...
-		A dreaded creature birthed from the wills of decay. Nobody knows why it exists, and what it wants...
-		HUGH! Glad he's gone now!!! Him being inside me was making me itchy!
+		Литозавр...
+		Ужасное существо, порождённое волей тлена. Никто не знает, зачем оно существует и чего хочет...
+		ФУХ! Рад, что он умер! Когда он был внутри меня, всё так чесалось!
 		'''
 }
 
 MeldosaurusMask: {
-	DisplayName: Meldosaurus Mask
+	DisplayName: Маска Литозавра
 	Tooltip: ""
 }
 
 MeldosaurusTrophy: {
-	DisplayName: Meldosaurus Trophy
+	DisplayName: Трофей Литозавра
 	Tooltip: ""
 }
 
 MeldosaurusMusicBox: {
-	DisplayName: Music Box (Meldosaurus)
+	DisplayName: Музыкальная шкатулка (Литозавр)
 	Tooltip: ""
 }
 
 MeldosaurusBag: {
-	DisplayName: Treasure Bag
+	DisplayName: Мешок с сокровищами (Литозавр)
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 JharimHead: {
-	DisplayName: Jungle Tyrant Jharim's Decapitated Head
+	DisplayName: Отрубленная голова Тирана джунглей, Джарима
 	Tooltip:
 		'''
-		Summons the Jungle Tyrant
-		Does not work outside of April Fools
+		Призывает Тирана джунглей
+		Не работает вне дня дурака
 		'''
 }
 
 FogG: {
-	DisplayName: Purified Fog
+	DisplayName: Очищенный туман
 	Tooltip:
 		'''
-		Summons the Fogbound
-		':Why:'
+		Призывает Туманокованного
+		'зачем'
 		'''
 }
 
 AstJRItem: {
 	# Critters
-	DisplayName: Astragelly Slime
+	DisplayName: Астрагелевый слизень
 	Tooltip: ""
 }
 
 BlightolemurItem: {
-	DisplayName: Bleamur
+	DisplayName: Морлемур
 	Tooltip: ""
 }
 
 BlinkerItem: {
-	DisplayName: Blinker
+	DisplayName: Мигатель
 	Tooltip: ""
 }
 
 CrystalFlyItem: {
-	DisplayName: Profaned Butterfly
+	DisplayName: Осквернённая бабочка
 	Tooltip: ""
 }
 
 EyedolItem: {
-	DisplayName: Eyedol
+	DisplayName: Взордол
 	Tooltip: ""
 }
 
 GAstJRItem: {
-	DisplayName: Gold Astragelly Slime
+	DisplayName: Золотой астрагелевый слизень
 	Tooltip: ""
 }
 
 GodSlayerSlugItem: {
-	DisplayName: God Slayer Slug
+	DisplayName: Пулень богоубийцы
 	Tooltip: ""
 }
 
 GoldenIsopodItem: {
-	DisplayName: Gold Isopod
+	DisplayName: Золотой изопод
 	Tooltip: ""
 }
 
 GoldEyedolItem: {
-	DisplayName: Gold Eyedol
+	DisplayName: Золотой взордол
 	Tooltip: ""
 }
 
 GoldViolemurItem: {
-	DisplayName: Gold Violemur
+	DisplayName: Золотой пурлемур
 	Tooltip: ""
 }
 
 IsopodItem: {
-	DisplayName: Abyssal Isopod
+	DisplayName: Глубинный изопод
 	Tooltip: ""
 }
 
 VaporoflyItem: {
-	DisplayName: Vaporofly
+	DisplayName: Испаромуха
 	Tooltip: ""
 }
 
 NeuroFlyItem: {
-	DisplayName: Neuro Fly
+	DisplayName: Нейромуха
 	Tooltip: ""
 }
 
 OrthobabItem: {
-	DisplayName: Orthocera Hatchling
+	DisplayName: Личинка ортоцеры
 	Tooltip: ""
 }
 
 PerfoGrubItem: {
-	DisplayName: Perforator Grub
+	DisplayName: Личинка Перфоратора
 	Tooltip: ""
 }
 
 PlagueFrogItem: {
-	DisplayName: Plagued Frog
+	DisplayName: Чумная лягушка
 	Tooltip: ""
 }
 
 ProvFlyItem: {
-	DisplayName: Profaned Butterfly
+	DisplayName: Осквернённая бабочка
 	Tooltip: ""
 }
 
 SandTurtleItem: {
-	DisplayName: Sand Turtle
+	DisplayName: Песчаная черепаха
 	Tooltip: ""
 }
 
 SwearshroomItem: {
-	DisplayName: Swearshroom
+	DisplayName: Гриблец
 	Tooltip: ""
 }
 
 ViolemurItem: {
-	DisplayName: Violemur
+	DisplayName: Пурлемур
 	Tooltip: ""
 }
 
 XerocodileItem: {
-	DisplayName: Awakened Xerocodile
+	DisplayName: Пробужденный ксерокрок
 	Tooltip: ""
 }
 
 BlightedAstralDye: {
 	# Dyes
-	DisplayName: Ethereal Dye
+	DisplayName: Эфирный краситель
 	# Dyes
-	Tooltip: Unobtainable
+	Tooltip: Нельзя получить
 }
 
 BlighedAstralPinkDye: {
-	DisplayName: Blighted Astral Purple Dye
+	DisplayName: Пурпурный краситель астральной заразы
 	Tooltip: ""
 }
 
 BlighedAstralYellowDye: {
-	DisplayName: Blighted Astral Yellow Dye
+	DisplayName: Жёлтый краситель астральной заразы
 	Tooltip: ""
 }
 
 DraedonHologramDye: {
-	DisplayName: Draedon's Hologram Dye
+	DisplayName: Краситель голограммы Дрэйдона
 	Tooltip: ""
 }
 
 BackpackServer: {
 	# Backs
-	DisplayName: Backpack Server
+	DisplayName: Рюкзак-сервер
 	# Backs
-	Tooltip: "'Draedon's eyes are on you' "
+	Tooltip: "'За вам следит Дрэйдон'"
 }
 
 PrismShell: {
-	DisplayName: Prism Shell
-	Tooltip: "'Lookin' sharp' "
+	DisplayName: Панцирь-призма
+	Tooltip: "'Выглядит острым'"
 }
 
 # Balloons
-ApolloBallonSmall.DisplayName: Apollo Balloon
+ApolloBallonSmall.DisplayName: Шарик Аполлона
 
 ArtemisBalloonSmall: {
-	DisplayName: Artemis Balloon
-	Tooltip: "'From the Moon, Knowledge'"
+	DisplayName: Шарик Артемиды
+	Tooltip: "'С Луны, Знание'"
 }
 
 ApolloBalloon: {
-	DisplayName: XS Leash-03
-	Tooltip: "'Houston...'"
+	DisplayName: ВП-03 на поводке
+	Tooltip: "'Хьюстон...'"
 }
 
 ArtemisBalloon: {
-	DisplayName: XS Leash-01
-	Tooltip: "'Hunting has never been easier'"
+	DisplayName: ВП-01 на поводке
+	Tooltip: "'Охота ещё никогда не была настолько лёгкой'"
 }
 
 AuricBalloon: {
-	DisplayName: Auric Balloon
-	Tooltip: "'You're lucky I didn't make you get every other balloon for this.'"
+	DisplayName: Ауритовый шарик
+	Tooltip: "'Вам везёт, что я не сделал его рецепт из всех видов шариков'"
 }
 
 BoB2: {
-	DisplayName: Bundle of Water Balloons
+	DisplayName: Связка водных шариков
 	Tooltip:
 		'''
-		The Party Girl can tie this for you
-		'How did none of them pop down there?'
+		Тусовщица может привязать это для вас
+		'Как ни один из них ещё не лопнул?'
 		'''
 }
 
 BoxBalloon: {
-	DisplayName: Cuboidal Balloon
+	DisplayName: Шарик-кубомедуза
 	Tooltip:
 		'''
-		The Party Girl can tie this for you
-		'Feeling square'
+		Тусовщица может привязать это для вас
+		'Моё настроение в квадрате'
 		'''
 }
 
 ChaosBalloon: {
-	DisplayName: Puffer Balloon
+	DisplayName: Шарик-иглобрюх
 	Tooltip:
 		'''
-		The Party Girl can tie this for you
-		'May go off any minute now...'
+		Тусовщица может привязать это для вас
+		'Может в любой момент лопнуть...'
 		'''
 }
 
 ExoTwinsBalloon: {
-	DisplayName: XS Leash Bundle
-	Tooltip: "'smile.'"
+	DisplayName: Связка ВП на поводке
+	Tooltip: "'улыбнись'"
 }
 
 FoilAtlantis: {
-	DisplayName: Foil Atlantis
-	Tooltip: "'A miniature, inflatable replica of the magical halberd'"
+	DisplayName: Атлантида из фольги
+	Tooltip: "'Миниатюрная надувная копия магической алебарды'"
 }
 
 FoilSpoon: {
-	DisplayName: Foil Spoon
-	Tooltip: "'spoon'"
+	DisplayName: Ложка из фольги
+	Tooltip: "'ложка'"
 }
 
 Mirballoon: {
-	DisplayName: Mirage Balloon
+	DisplayName: Шарик миражей
 	Tooltip:
 		'''
-		The Party Girl can tie this for you
-		'Keep away from sharp objects!'
+		Тусовщица может привязать это для вас
+		'Держать вдали от острых предметов!'
 		'''
 }
 
 OldMirage: {
-	DisplayName: Ancient Mirage Balloon
+	DisplayName: Древний шарик миражей
 	Tooltip:
 		'''
-		'Keep away from the ocean'
-		'Balloons are nasty pollutants'
+		'Держите подальше от океана'
+		'Воздушные шары - вредные загрязнители окружающей среды'
 		'''
 }
 
 ProfanedBalloon: {
-	DisplayName: Profaned Balloon
-	Tooltip: "'Patronage for Providence!'"
+	DisplayName: Осквернённый шарик
+	Tooltip: "'Дань уважения Провиденс!'"
 }
 
 ShuttleBalloon: {
-	DisplayName: Shuttle Balloon
-	Tooltip: "'Marketable Martian'"
+	DisplayName: Шарик-шаттл
+	Tooltip: "'Марсианин на продажу'"
 }
 
 SignusBalloon: {
-	DisplayName: Cosmic Lantern Balloon
-	Tooltip: "'Keep away from ectoplasm'"
+	DisplayName: Шарик-космилампа
+	Tooltip: "'Держите вдали от эктоплазмы'"
 }
 
 SkullBalloon: {
-	DisplayName: Skull Balloon
-	Tooltip: "'Looks like there's still a brain inside this one'"
+	DisplayName: Шарик-череп
+	Tooltip: "'Кажется, внутри него ещё остался мозг'"
 }
 
 WulfrumBalloon: {
-	DisplayName: Wulfrum Gyro Balloon
-	Tooltip: "'I'm Using Tilt Controls!'"
+	DisplayName: Шарик-вульфрумовый вращатель
+	Tooltip: "'Я использую наклонный управление!'"
 }
 
 SigCape: {
-	DisplayName: Signus' Cape
-	Tooltip: Mask yourself in the shadows
+	DisplayName: Накидка Сигнуса
+	Tooltip: "'Сокройте себя в тенях'"
 }
 
 YharimCape: {
-	DisplayName: Tyrant's Cape
-	Tooltip: Not the true one, but still regal and elegant
+	DisplayName: Накидка Тирана
+	Tooltip: "'Может и не истинная, но всё же царственная и элегантная'"
 }
 
 YharimCapeBaby: {
-	DisplayName: Auric Mantle
-	Tooltip: "'Still not the true one, looks like a kid's toy'"
+	DisplayName: Ауритовая мантия
+	Tooltip: "'Всё ещё не истинная, да и выглядит словно детская игрушка'"
 }
 
 DraedonHelmet: {
 	# Hats
-	DisplayName: Arsenal Soldier Helmet
+	DisplayName: Шлем солдата Арсенала
 	# Hats
 	Tooltip:
 		'''
-		Changes appearance depending on held item damage type
-		CURRENTLY UNSTABLE
+		Меняет вид в зависимости от типа урона текущего оружия
+		НА ДАННЫЙ МОМЕНТ НЕСТАБИЛЕН
 		'''
 }
 
 Aestheticrown: {
-	DisplayName: Aestheticrest
-	Tooltip: Biteki-Chan
+	DisplayName: Эстетикрона
+	Tooltip: Битэки-тян
 }
 
 AncientAuricTeslaHelm: {
-	DisplayName: Ancient Auric Tesla Helm
-	Tooltip: A polished piece of an ancient armor
+	DisplayName: Древний ауритовый тесла-шлем
+	Tooltip: Полированная часть древней брони
 }
 
 AncientPerennialFlower: {
-	DisplayName: Ancient Perennial Tulip
-	Tooltip: "'I'm a pretty girl!'"
+	DisplayName: Древний многолетний тюльпан
+	Tooltip: "'Я такая красивая!'"
 }
 
 AstrachnidCranium: {
-	DisplayName: Astrachnid Cranium
+	DisplayName: Краниум астрахида
 	Tooltip: ""
 }
 
 AstrumDeusMask: {
-	DisplayName: Blighted Deus Mask
-	Tooltip: "'A faded star reignited' "
+	DisplayName: Маска заражённого бога
+	Tooltip: "'Вновь засиявшая тусклая звезда'"
 }
 
 AureicFedora: {
-	DisplayName: Aureic Fedora
-	Tooltip: "'Just don't tip it on someone directly'"
+	DisplayName: Ареусова федора
+	Tooltip: "'Главное напрямую её никому не наклоняйте'"
 }
 
 BanditHat: {
-	DisplayName: Bandit's Hat
+	DisplayName: Шляпа бандита
 	Tooltip: ""
 }
 
 BelladonnaHat: {
-	DisplayName: Belladona Spirit Hat
-	Tooltip: Poisonous, but stylish
+	DisplayName: Шляпа духа белладонны
+	Tooltip: Ядовито, но со стилем
 }
 
 BigWorm: {
-	DisplayName: Large Perforator Mask
-	Tooltip: "'In the anne-lead'"
+	DisplayName: Маска большого Перфоратора
+	Tooltip: "'Очень мдалегантно'"
 }
 
 BirbHat: {
-	DisplayName: Follyhat
-	Tooltip: The one hat to rule them all
+	DisplayName: Псевдошляпа
+	Tooltip: Одна Шляпа, чтоб ими управлять
 }
 
 BloodyMaryHat: {
-	DisplayName: Bloody Mary Hat
-	Tooltip: Feeling elegant
+	DisplayName: Шляпа Кровавой Мэри
+	Tooltip: Элегантно
 }
 
 CalaCirclet: {
-	DisplayName: Calamity Circlet
-	Tooltip: Cursed?
+	DisplayName: Бедственный венец
+	Tooltip: Проклято?
 }
 
 ClamMask: {
-	DisplayName: Clamitous Hat
-	Tooltip: "'That's a typo, right?'"
+	DisplayName: Шляпа Моллюсмитас
+	Tooltip: "'Это ведь опечатка?'"
 }
 
 CoralMask: {
-	DisplayName: Belching Coral Mask
-	Tooltip: "'It's big brine time'"
+	DisplayName: Маска изрыгающего коралла
+	Tooltip: "'Самое время мариновать продукты'"
 }
 
 CosmicCone: {
-	DisplayName: The Cosmic Cone
-	Tooltip: A hat so pointy it could pierce the heavens
+	DisplayName: Космический колпак
+	Tooltip: Шляпа настолько остроконечная, что могла бы пронзить небеса
 }
 
 Cryocap: {
-	DisplayName: Cryocap
-	Tooltip: Brain Freeze!
+	DisplayName: Криошляпа
+	Tooltip: Заморозка мозга!
 }
 
 CultistHood: {
-	DisplayName: Cultist Assassin Hood
+	DisplayName: Капюшон культиста-ассасина
 	Tooltip: ""
 }
 
 DemonshadeHood: {
-	DisplayName: Ancient Demonshade Helm
+	DisplayName: Древний тенедемонический шлем
 	Tooltip: ""
 }
 
 DevilfishMask1: {
-	DisplayName: Curly Devil Fish Mask
-	Tooltip: Edgy
+	DisplayName: Изогнутая маска рыбы-дьявола
+	Tooltip: 'Остро'
 }
 
 DevilfishMask2: {
-	DisplayName: Pointed Devil Fish Mask
-	Tooltip: Edgier
+	DisplayName: Заострённая маска рыбы-дьявола
+	Tooltip: 'Острее'
 }
 
 DevilfishMask3: {
-	DisplayName: Exposed Devil Fish Mask
-	Tooltip: Rubbing salt on the wound
+	DisplayName: Открытая маска рыбы-дьявола
+	Tooltip: 'Словно соль на рану'
 }
 
 DummyMask: {
-	DisplayName: Dummy Mask
-	Tooltip: The only dummy here is you
+	DisplayName: Маска манекена
+	Tooltip: 'Видимо, больше его не поставят у окна дорогого магазина'
 }
 
 EarthenHelmet: {
-	DisplayName: Earthen Helmet
+	DisplayName: Землистый шлем
 	Tooltip: ""
 }
 
 EidoMask: {
-	DisplayName: Eidolist Mask
+	DisplayName: Маска эйдолиста
 	Tooltip: ""
 }
 
 FallenPaladinsHelmet: {
-	DisplayName: "Fallen Paladin's Helmet "
+	DisplayName: "Шлем падшего паладина"
 	Tooltip: ""
 }
 
 FlakHeadCrab: {
-	DisplayName: Flak Head Crab
-	Tooltip: It appears you have a parasite
+	DisplayName: Головной зенитный краб
+	Tooltip: Кажется, у вас появился паразит
 }
 
 GammaHelmet: {
-	DisplayName: Gamma Sludge
-	Tooltip: I'm Radioactive!
+	DisplayName: Гамма-жижа
+	Tooltip: Она радиоактивна!
 }
 
 GruelingMask: {
-	DisplayName: Grueling Mask
-	Tooltip: Yaaagh!
+	DisplayName: Ужасающая маска
+	Tooltip: Аааааа!
 }
 
 MaulerMask: {
-	DisplayName: Mauler Mask
-	Tooltip: Mauling faces since the 80s
+	DisplayName: Маска мучителя
+	Tooltip: Мучает лица с самых 80-х
 }
 
 MidWorm: {
-	DisplayName: Medium Perforator Mask
-	Tooltip: "'Worming its way to the top!'"
+	DisplayName: Маска среднего Перфоратора
+	Tooltip: "'Он дочервит до самой вершины иерархии!'"
 }
 
 OlTrashtooth: {
-	DisplayName: Ol Trashtooth
+	DisplayName: Старая пасть мусорщика
 	Tooltip: ""
 }
 
 OmegaBlue: {
-	DisplayName: Ancient Omega Blue Helmet
-	Tooltip: You are beneath my notice, wyrm!
+	DisplayName: Древний омега-синий шлем
+	Tooltip: Ты недостоин моего внимания, змий!
 }
 
 OracleBeanie: {
-	DisplayName: Oracle's Beanie
+	DisplayName: Шапка оракула
 	Tooltip: ""
 }
 
 PerennialFlower: {
-	DisplayName: Perennial Tulip
-	Tooltip: "'Am I a pretty girl?'"
+	DisplayName: Многолетний тюльпан
+	Tooltip: "'Я ведь красивая?'"
 }
 
 PolterMask: {
-	DisplayName: Odd Polterghast Mask
+	DisplayName: Странная маска Полтергаста
 	Tooltip: ""
 }
 
 ProfanedCultistMask: {
-	DisplayName: Profaned Cultist Mask
+	DisplayName: Осквернённая маска культиста
 	Tooltip: ""
 }
 
 ScornEaterMask: {
-	DisplayName: Scorn Eater Mask
-	Tooltip: The searing fire blazes fiercly
+	DisplayName: Маска презренного пожирателя
+	Tooltip: Пекущий огонь яростно пылает
 }
 
 SeaCrown: {
-	DisplayName: Sea Empress Crown
-	Tooltip: Wearing this will make you feel royal
+	DisplayName: Корона морской императрицы
+	Tooltip: Надев это, вы почувствуете себя королевских кровей.
 }
 
 SlimeGodMask: {
-	DisplayName: Slime God Core Mask
+	DisplayName: Маска ядра Бога слизней
 	Tooltip: ""
 }
 
 SmallWorm: {
-	DisplayName: Small Perforator Mask
-	Tooltip: "'The worm-st one of the bunch'"
+	DisplayName: Маска маленького Перфоратора
+	Tooltip: "'Самый червивый в их группе'"
 }
 
 SpectralstormHat: {
-	DisplayName: Spectralstorm Hat
-	Tooltip: "'The actual dumbest idea ever submitted to suggestions'"
+	DisplayName: Шляпа спектрального шторма
+	Tooltip: "'Наитупейшая идея, когда-либо предоставленная на рассмотрение'"
 }
 
 SquidHat: {
-	DisplayName: The Squid Hat
-	Tooltip: Splattershot sold separately
+	DisplayName: Шляпа-кальмар
+	Tooltip: Брызгалка продаётся отдельно
 }
 
 StonePile: {
-	DisplayName: Stone Pile
-	Tooltip: "'Requires a strong head to wear'"
+	DisplayName: Куча камней
+	Tooltip: "'Для ношения необходима крепкая голова'"
 }
 
 TerminalMask: {
-	DisplayName: Terminal Facemask
+	DisplayName: Терминальная маска
 	Tooltip:
 		'''
-		Through bloodshed and turmoil new sight is attained,
-		through eyes of a God forgotten
+		Сквозь кровь и хаос обретается новый взгляд,
+		глазами забытого Бога
 		'''
 }
 
 TrueCosmicCone: {
-	DisplayName: True Cosmic Cone
-	Tooltip: "'A cosmically large hat so pointy it could pierce through dimensions' "
+	DisplayName: Истинный космический колпак
+	Tooltip: "'Космически огромная шляпа, настолько остроконечная, что способна пронзить измерения'"
 }
 
 UnloadedHelm: {
-	DisplayName: Unloaded Helm
-	Tooltip: Still reeks
+	DisplayName: Разгруженный шлем
+	Tooltip: До сих пор воняет
 }
 
 DraedonLeggings: {
 	# Legs
-	DisplayName: Arsenal Soldier Leggings
+	DisplayName: Поножи солдата Арсенала
 	# Legs
 	Tooltip:
 		'''
-		CURRENTLY UNSTABLE
-		Well, not really, only the other pieces are,
-		but why would you use these without them? 
+		НА ДАННЫЙ МОМЕНТ НЕСТАБИЛЬНЫ
+		Ну, не совсем, только другие часть нестабильны,
+		но зачем вам носить эти поножи без них? 
 		'''
 }
 
 AstrachnidTentacles: {
-	DisplayName: Astrachnid Legs
+	DisplayName: Ноги астрахида
 	Tooltip: ""
 }
 
 BrimmySpirit: {
-	DisplayName: Brimstone Flames
+	DisplayName: Серные огни
 	Tooltip: ""
 }
 
 CultistLegs: {
-	DisplayName: Cultist Assassin Pants
+	DisplayName: Штаны культиста-ассасина
 	Tooltip: ""
 }
 
 DemonshadePants: {
-	DisplayName: Ancient Demonshade Greaves
+	DisplayName: Древние тенедемонические поножи
 	Tooltip: ""
 }
 
 DraedonLegs: {
-	DisplayName: Draedon Legs
+	DisplayName: Ноги Дрэйдона
 	Tooltip: ""
 }
 
 EarthenLeggings: {
-	DisplayName: Earthen Leggings
+	DisplayName: Землистые поножи
 	Tooltip: ""
 }
 
 FallenPaladinsGreaves: {
-	DisplayName: "Fallen Paladin's Greaves "
+	DisplayName: "Поножи падшего паладина"
 	Tooltip: ""
 }
 
 PolterStockings: {
-	DisplayName: Odd Polterghast Stockings
+	DisplayName: Странный чулки Полтергаста
 	Tooltip: ""
 }
 
 SignusNether: {
-	DisplayName: Nether Spirit
-	Tooltip: Gaining literal nether regions
+	DisplayName: Адский дух
+	Tooltip: Буквально завоёвываем то, что снизу
 }
 
 TerrorLegs: {
-	DisplayName: Terror Legs
-	Tooltip: "'They're twitching'"
+	DisplayName: Ноги террора
+	Tooltip: "'Они дёргаются'"
 }
 
 AstBandana: {
 	# Scarves
-	DisplayName: Astral Bandana
+	DisplayName: Астральная бандана
 	# Scarves
-	Tooltip: "'Space Age Fashion!'"
+	Tooltip: "'Мода космической эры!'"
 }
 
 BloodwormScarf: {
-	DisplayName: Bloodworm Scarf
-	Tooltip: That bloody creature is trying to burrow into your neck!
+	DisplayName: Кровавый шарф-червь
+	Tooltip: Проклятое существо пытается вцепиться вам в шею!
 }
 
 CosmicWormScarf: {
-	DisplayName: Cosmic Worm Scarf
-	Tooltip: "'Spacetime Fashion!'"
+	DisplayName: Космический шарф-червь
+	Tooltip: "'Мода пространства-времени!'"
 }
 
 DesertMedallion: {
-	DisplayName: Budget Desert Medallion
-	Tooltip: Because the other one is too cursed to wear
+	DisplayName: Бюджетный пустынный медальон
+	Tooltip: Другой слишком проклят, чтобы носить
 }
 
 PermaScarf: {
-	DisplayName: Permafrost's Scarf
-	Tooltip: Stay Frosty
+	DisplayName: Шарф Пермафроста
+	Tooltip: 'Не горячитесь'
 }
 
 ProviCrystal: {
-	DisplayName: Unholy Charm
-	Tooltip: A rare treasure gifted from the profaned goddess
+	DisplayName: Нечестивый талисман
+	Tooltip: Редкое сокровище, дарованное осквернённой богиней
 }
 
 RapturedWormScarf: {
-	DisplayName: Raptured Worm Scarf
-	Tooltip: So stylish it bends the fabric of reality!
+	DisplayName: Вознесённый шарф-червь
+	Tooltip: Настолько стильный, что сминает ткань реальности!
 }
 
 SignusEmblem: {
-	DisplayName: Signus Emblem
-	Tooltip: Contains some abyssal energy
+	DisplayName: Эмблема Сигнуса
+	Tooltip: Содержит частицу энергии бездны
 }
 
 StormBandana: {
-	DisplayName: Storm Bandanna
-	Tooltip: "'Electrifying Fashion!'"
+	DisplayName: Штормовая бандана
+	Tooltip: "'Электрофицирующая мода!'"
 }
 
 UniversalWormScarf: {
-	DisplayName: Universal Worm Scarf
-	Tooltip: "'Eat it all, without bending reality' "
+	DisplayName: Вселенский шарф-червь
+	Tooltip: "'Ешь всё, но давай без сминания ткани реальности' "
 }
 
 YharonShackle: {
-	DisplayName: Yharon's Shackle
-	Tooltip: It barely fits you...
+	DisplayName: Кандалы Ярона
+	Tooltip: Они вам даже не в пору...
 }
 
 AureusShield: {
 	# Shields
-	DisplayName: Aureus Bulwark
+	DisplayName: Оплот Ареуса
 	# Shields
-	Tooltip: Smaller in execution
+	Tooltip: Выполненный в миниатюре
 }
 
 EarthShield: {
-	DisplayName: Tower Shield of the Elemental
-	Tooltip: "'Looks sturdy, but it's actually soft, useless stone!'"
+	DisplayName: Башенный щит элементов
+	Tooltip: "'Выглядит крепким, но на самом деле это мягкий, бесполезный камень!'"
 }
 
 Invishield: {
 	DisplayName: Компенсация
-	Tooltip: Can be sold
+	Tooltip: Можно продать
 }
 
 TrilobiteShield: {
-	DisplayName: Trilobuckler
-	Tooltip: "'An ancient shield that's too old to block attacks'"
+	DisplayName: Трилобаклер
+	Tooltip: "'Древний щит, слишком старый, чтобы блокировать атаки'"
 }
 
 AresChestplate: {
 	# Shirts
-	DisplayName: XF Model Chestplate
+	DisplayName: Модель нагрудника ВУ-09
 	# Shirts
 	Tooltip:
 		'''
-		Summons four toy weapons to extend around you
-		'What do you MEAN they don't look the same?!?' 
+		Призывает четыре игрушечных оружия, которые окружают вас
+		'Как СМЕЕШЬ ты говорить, они не похожи?!' 
 		'''
 }
 
 DraedonChestplate: {
-	DisplayName: Arsenal Soldier Chestplate
+	DisplayName: Нагрудник солдата Арсенала
 	Tooltip:
 		'''
-		Changes appearance depending on held item damage type
-		CURRENTLY UNSTABLE 
+		Меняет вид в зависимости от типа урона текущего оружия
+		НА ДАННЫЙ МОМЕНТ НЕСТАБИЛЕН
 		'''
 }
 
 AstrachnidThorax: {
-	DisplayName: Astrachnid Thorax
+	DisplayName: Торакс астрахида
 	Tooltip: ""
 }
 
 BelladonnaCloak: {
-	DisplayName: Belladonna Spirit Cloak
-	Tooltip: The latest in fashion, all natural
+	DisplayName: Плащ духа белладонны
+	Tooltip: Всё по последнему писку моды, натуральное
 }
 
 BloodyMaryDress: {
-	DisplayName: Bloody Mary Dress
+	DisplayName: Платье Кровавой Мэри
 	Tooltip: ""
 }
 
 BrimmyBody: {
-	DisplayName: Brimstone Elemental Suit
+	DisplayName: Костюм Серного элементаля
 	Tooltip: ""
 }
 
 Cryocoat: {
-	DisplayName: Cryocoat
+	DisplayName: Криольто
 	Tooltip: ""
 }
 
 CultistRobe: {
-	DisplayName: Cultist Assassin Robe
+	DisplayName: Одеяние культиста-ассасина
 	Tooltip: ""
 }
 
 DemonshadeRobe: {
-	DisplayName: Ancient Demonshade Breastplate
+	DisplayName: Древний тенедемонический нагрудник
 	Tooltip: ""
 }
 
 DraedonBody: {
-	DisplayName: Draedon Thorax
+	DisplayName: Торакс Дрэйдона
 	Tooltip: ""
 }
 
 EarthenBreastplate: {
-	DisplayName: Earthen Breastplate
+	DisplayName: Землистый нагрудник
 	Tooltip: ""
 }
 
 FallenPaladinsPlateMail: {
-	DisplayName: Fallen Paladin's Plate Mail
+	DisplayName: Латы падшего паладина
 	Tooltip: ""
 }
 
 PerennialDress: {
-	DisplayName: Perennial Dress
-	Tooltip: Flowering out
+	DisplayName: Многолетнее платье
+	Tooltip: Всё в цветах
 }
 
 Polterskirt: {
-	DisplayName: Odd Polterghast Dress
+	DisplayName: Странное платье Полтергаста
 	Tooltip: ""
 }
 
 ProfanedCultistRobes: {
-	DisplayName: Profaned Cultist Robes
+	DisplayName: Осквернённое одеяние культиста
 	Tooltip: ""
 }
 
 ReaperSharkArms: {
-	DisplayName: Reaper Shark Arms
-	Tooltip: Hitting the gym was never this easy!
+	DisplayName: Руки акулы-жнеца
+	Tooltip: Заниматься в качалке никогда не было настолько легко!
 }
 
 BurningEye: {
 	# Transformations
-	DisplayName: Burning Eye
+	DisplayName: Горящий глаз
 	# Transformations
-	Tooltip: Engulfs the wearer in Brimstone Flames
+	Tooltip: Окутывает владельца серными огнями
 }
 
 CloudWaistbelt: {
-	DisplayName: Valkyrian Garments
-	Tooltip: Surrounds the wearer with clouds
+	DisplayName: Наряд валькирий
+	Tooltip: Окутывает владельца облаками
 }
 
 ProtoRing: {
-	DisplayName: Prototype Ring
-	Tooltip: Transforms the wearer into a small mech
+	DisplayName: Прототип-кольцо
+	Tooltip: Превращает в маленького меха
 }
 
 SandyBangles: {
-	DisplayName: Sandy Bangles
-	Tooltip: Encompasses the wearer in sand
+	DisplayName: Песочные браслеты
+	Tooltip: Окутывает владельца песком
 }
 
 Signus: {
-	DisplayName: Twilight Charm
+	DisplayName: Сумеречный талисман
 	Tooltip:
 		'''
-		Transforms the wearer into a nether spirit 
-		'One with the void'
+		Превращает в адского духа
+		'Един с пустотой'
 		'''
 }
 
 AeroWings: {
 	# Wings
-	DisplayName: Aero Wings
+	DisplayName: Аэро-крылья
 	# Wings
 	Tooltip:
 		'''
-		'It's a windy day'
-		Horizontal speed: 1
-		Acceleration multiplier: 1
-		Flight time: 32 
+		'Какой ветренный день'
+		Горизонтальная скорость: 1
+		Множитель ускорения: 1
+		Время полёта: 32
 		'''
 }
 
 FollyWings: {
-	DisplayName: Folly Wings
+	DisplayName: Псевдокрылья
 	Tooltip:
 		'''
-		'Fly like an eagle'
-		Horizontal speed: 9
-		Acceleration multiplier: 2.5
-		Flight time: 210 
+		'Летай, словно орёл'
+		Горизонтальная скорость: 9
+		Множитель ускорения: 2.5
+		Время полёта: 210
 		'''
 }
 
 GodspeedBoosters: {
-	DisplayName: Godspeed Boosters
+	DisplayName: Богоскоростные усилители
 	Tooltip:
 		'''
-		'Devout propulsion!'
-		Horizontal speed: 9
-		Acceleration multiplier: 2.7
-		Flight time: 200 
+		'Богоугодная тяга!'
+		Горизонтальная скорость: 9
+		Множитель ускорения: 2.7
+		Время полёта: 200 
 		'''
 }
 
 JunglePhoenixWings: {
-	DisplayName: Chicken Wings
+	DisplayName: Куриные крылья
 	Tooltip:
 		'''
-		'Hot and ready'
-		Horizontal speed: 11.5
-		Acceleration multiplier: 2.9
-		Flight time: 140 
+		'С пылу с жару'
+		Горизонтальная скорость: 11.5
+		Множитель ускорения: 2.9
+		Время полёта: 140 
 		'''
 }
 
 LeviWings: {
-	DisplayName: Leviathan Fin Wings
+	DisplayName: Крылья-плавники Левиафан
 	Tooltip:
 		'''
-		'Flip flop'
-		Horizontal speed: 6.75
-		Acceleration multiplier: 1.4
-		Flight time: 120 
+		'Хлюп-хлоп'
+		Горизонтальная скорость: 6.75
+		Множитель ускорения: 1.4
+		Время полёта: 120 
 		'''
 }
 
 OldVoidWings: {
-	DisplayName: Revoided Wings
+	DisplayName: Вакуумные крылья
 	Tooltip:
 		'''
-		'Literally carried out of the darkness'
-		Horizontal speed: 9
-		Acceleration multiplier: 2.5
-		Flight time: 250 
+		'Буквально созданы из тьмы'
+		Горизонтальная скорость: 9
+		Множитель ускорения: 2.5
+		Время полёта: 250 
 		'''
 }
 
 OldWings: {
-	DisplayName: Old Duke Wings
+	DisplayName: Крылья Старого герцога
 	Tooltip:
 		'''
-		'Toxic propulsion!'
-		Horizontal speed: 9.5
-		Acceleration multiplier: 2.7
-		Flight time: 190 
+		'Токсичная тяга!'
+		Горизонтальная скорость: 9.5
+		Множитель ускорения: 2.7
+		Время полёта: 190 
 		'''
 }
 
 PlaguePack: {
-	DisplayName: Beelzebooster
+	DisplayName: Вельзебустер
 	Tooltip:
 		'''
-		'And they wonder how bees can get themselves off the ground...'
-		Horizontal speed: 7.8
-		Acceleration multiplier: 1.9
-		Flight time: 170 
+		'А они ещё задумываются, каким образом пчёлы летают...'
+		Горизонтальная скорость: 7.8
+		Множитель ускорения: 1.9
+		Время полёта: 170 
 		'''
 }
 
 PlaugeWings: {
-	DisplayName: Plaguebringer Wings
+	DisplayName: Крылья разносчицы чумы
 	Tooltip:
 		'''
-		'Nanomachines not included'
-		Horizontal speed: 7.75
-		Acceleration multiplier: 1.5
-		Flight time: 150 
+		'Наномашины в комплект не входят'
+		Горизонтальная скорость: 7.75
+		Множитель ускорения: 1.5
+		Время полёта: 150 
 		'''
 }
 
 ScryllianWings: {
-	DisplayName: Scryllian Wings
+	DisplayName: Крылья сциллара
 	Tooltip:
 		'''
-		'RISE!'
-		Horizontal speed: 6.5
-		Acceleration multiplier: 1
-		Flight time: 60 
+		'ВОССТАНЬ!'
+		Горизонтальная скорость: 6.5
+		Множитель ускорения: 1
+		Время полёта: 60 
 		'''
 }
 
 TerminalWings: {
-	DisplayName: Wings of Termina
+	DisplayName: Крылья Термины
 	Tooltip:
 		'''
-		Through death and destruction new heights are attained
-		on wings of a pandemonic butterfly 
-		Horizontal speed: 1
-		Acceleration multiplier: 1
-		Flight time: 60 
+		Сквозь смерть и разрушение достигаются новые высоты
+		на крыльях адской бабочки 
+		Горизонтальная скорость: 1
+		Множитель ускорения: 1
+		Время полёта: 60 
 		'''
 }
 
 VoidWings: {
-	DisplayName: Void Wings
+	DisplayName: Пустотные крылья
 	Tooltip:
 		'''
-		'Let the darkness carry you'
-		Horizontal speed: 9
-		Acceleration multiplier: 2.5
-		Flight time: 230 
+		'Позволь тьме понести себя'
+		Горизонтальная скорость: 9
+		Множитель ускорения: 2.5
+		Время полёта: 230 
 		'''
 }
 
 WulfrumHelipack: {
-	DisplayName: Wulfrum Helipack
+	DisplayName: Вульфрумовый верторанец
 	Tooltip:
 		'''
-		Extremely faulty
-		Horizontal speed: 0.8
-		Acceleration multiplier: 0.8
-		Flight time: 0.6 
+		'Крайне некачественный'
+		Горизонтальная скорость: 0.8
+		Множитель ускорения: 0.8
+		Время полёта: 0.6 
 		'''
 }
 
 MawHook: {
 	# Hooks
-	DisplayName: Cragmaw Spinehook
+	DisplayName: Позвоночник скалозева
 	# Hooks
 	Tooltip:
 		'''
-		'Prehistoric pull power!'
-		Reach: 31
-		Launch Velocity: 18
-		Pull Velocity: 17 
+		'Доисторическая сила притягивания!'
+		Дальность: 31
+		Скорость вылета: 18
+		Скорость притягивания: 17 
 		'''
 }
 
-MawTeeth.DisplayName: Maw Jaw
+MawTeeth.DisplayName: Пасть скалозева
 
 PolterHook: {
-	DisplayName: Ghastly Chains
+	DisplayName: Призрачные цепи
 	Tooltip:
 		'''
-		'Let the eternally suffering souls pull you forward!'
-		Reach: 46
-		Launch Velocity: 16
-		Pull Velocity: 20 
+		'Пусть вечно страдающие души тянут вас вперёд!'
+		Дальность: 46
+		Скорость вылета: 16
+		Скорость притягивания: 20 
 		'''
 }
 
-PhantomHook.DisplayName: Phantom Hook
+PhantomHook.DisplayName: Фантомный крюк
 
 ProfanedEnergyHook: {
-	DisplayName: Profaned Energy Hook
+	DisplayName: Осквернённый энергокрюк
 	Tooltip:
 		'''
-		'Jerk the holy chains'
-		Reach: 37
-		Launch Velocity: 16
-		Pull Velocity: 30 
+		'Сбрось святые оковы'
+		Дальность: 37
+		Скорость вылета: 16
+		Скорость притягивания: 30 
 		'''
 }
 
-ProfanedHook.DisplayName: Profaned Hook
+ProfanedHook.DisplayName: Осквернённый крюк
 
 RavaHook: {
-	DisplayName: Ravager Claw
+	DisplayName: Коготь Разрушителя
 	Tooltip:
 		'''
-		'Here to gouge out your eyes'
-		Reach: 43
-		Launch Velocity: 18
-		Pull Velocity: 20 
+		'Здесь, чтобы выколоть вам глаза'
+		Дальность: 43
+		Скорость вылета: 18
+		Скорость притягивания: 20 
 		'''
 }
 
-RavaClaw.DisplayName: Ravager Claw
+RavaClaw.DisplayName: Коготь Разрушителя
 
 ScavaHook: {
-	DisplayName: Ancient Scavenger Claw
+	DisplayName: Древний коготь мусорщика
 	Tooltip:
 		'''
-		'Here to gouge out your eyes, runic style!'
-		Reach: 50
-		Launch Velocity: 19
-		Pull Velocity: 25 
+		'Здесь, чтобы выколоть вам глаза, в рунном стиле!'
+		Дальность: 50
+		Скорость вылета: 19
+		Скорость притягивания: 25 
 		'''
 }
 
-ScavaClaw.DisplayName: Scavenger Claw
+ScavaClaw.DisplayName: Коготь мусорщика
 
 XMLightningHook: {
-	DisplayName: XM-Lightning Hook
+	DisplayName: Молниеносный крюк ВМ-05
 	Tooltip:
 		'''
-		'Snap at lightning speed!'
-		Cannot be used while Chaos State is active
-		Reach: 60
-		Launch Velocity: 62
-		Pull Velocity: 35 
+		'Хлыстает со скоростью молнии!'
+		Нельзя использоваьт, пока активен дебафф «{$BuffName.ChaosState}»
+		Дальность: 60
+		Скорость вылета: 62
+		Скорость притягивания: 35 
 		'''
 }
 
-THanosHook.DisplayName: T Hanos Hook
+THanosHook.DisplayName: Крюк Т-Аноса
 
 ExodiumMoon: {
 	# Misc
-	DisplayName: Exodium Orbiter
+	DisplayName: Экзодиевый спутник
 	# Misc
-	Tooltip: A world revolving
+	Tooltip: Мир вертится
 }
 
 AntarcticEssence: {
 	# Light Pets
-	DisplayName: Antarctic Essence
+	DisplayName: Антарктическая эссенция
 	# Light Pets
 	Tooltip:
 		'''
-		UNOBTAINABLE
-		Does nothing for now 
+		НЕЛЬЗЯ ПОЛУЧИТЬ
+		На данный момент ничего не делает
 		'''
 }
 
 AstralBinoculars: {
-	DisplayName: Astral Binoculars
-	# Provides a moderate amount of light in the abyss
+	DisplayName: Астральный бинокль
+	# Обеспечивает умеренным количеством света в бездне
 	Tooltip:
 		'''
-		Summons a Sightseeing Tour
-		'You can see something in the distance'
-		Provides a moderate amount of light in the abyss 
+		Призывает разведчика-проводника
+		'Вдалеке что-то есть'
+		Обеспечивает умеренным количеством света в бездне
 		'''
 }
 
 ConstructionRemote: {
-	DisplayName: Construction Remote
+	DisplayName: Пусть управления экскаватором
 	Tooltip:
 		'''
-		Summons a small digger to follow you and light your way
-		Caution: Pairing with a repair unit will result in supercharging! 
+		Призывает маленького копателя, следующего за вами и освещающего путь
+		Внимание: сопряжение с ремонтным модулем приведет к перегрузке!
 		'''
 }
 
 CoreofVanity: {
-	DisplayName: Core of Vanity
+	DisplayName: Ядро косметики
 	Tooltip:
 		'''
-		Summons pet Heat Sprits and a Sunskater to follow you
-		'The frozen one is taking a break'
-		Provides a large amount of light in the abyss 
+		Призывает духа тепла и солнечного скитальца, следующих за вами
+		'Замороженный отдыхает'
+		Обеспечивает большим количеством света в бездне
 		'''
 }
 
 CosmicBubble: {
-	DisplayName: Cosmic Bubble
+	DisplayName: Космический пузырь
 	Tooltip:
 		'''
-		Summons the cosmic assistant to help you in your endeavors
-		'Enreden's developer pet, without him this mod likely wouldn't be here' 
-		Provides a gigantic amount of light in the abyss
+		Призывает космического ассистента, помогающего в ваших начинаниях
+		'Питомец Эндерена, без него этот мод, скорее всего, не существовал бы.' 
+		Обеспечивает невероятным количеством света в бездне
 		'''
 }
 
 DarksunSigil: {
-	DisplayName: Darksun Sigil
+	DisplayName: Печать тёмного солнца
 	Tooltip:
 		'''
-		Summons Darksun Spirits to follow you
-		Provides a gigantic amount of light in the abyss 
+		Призывает духов тёмного солнца, следующих за вами
+		Обеспечивает невероятным количеством света в бездне
 		'''
 }
 
 DivineFly: {
-	DisplayName: Divine Fly
+	DisplayName: Божественная муха
 	Tooltip:
 		'''
-		Summons a Grand Entity
-		'Ascension'
-		Provides a large amount of light in the abyss 
+		Призывает Великую сущность
+		'Вознесение'
+		Обеспечивает большим количеством света в бездне
 		'''
 }
 
 EssenceofDisorder: {
-	DisplayName: Essence of Disorder
+	DisplayName: Эссенция беспорядка
 	Tooltip:
 		'''
-		Summons a pair of Heat Spirits to light your way 
-		'Come burn with me' 
-		Provides a moderate amount of light in the abyss
+		Призывает пару духов тепла, освещающих ваш путь
+		'Сгорим же вместе' 
+		Обеспечивает умеренным количеством света в бездне
 		'''
 }
 
 EssenceofYeet: {
-	DisplayName: Essence of Yeet
+	DisplayName: Эссенция вжух
 	Tooltip:
 		'''
-		Summons a small Sunskater
-		'Sunfish gang, sunfish gang.'
-		Provides a small amount of light in the abyss 
+		Призывает маленького солнечного скитальца
+		'Банда-банда, банда рыб'
+		Обеспечивает небольшим количеством света в бездне 
 		'''
 }
 
 HolyTorch: {
-	DisplayName: The Holy Torch
+	DisplayName: Святой факел
 	Tooltip:
 		'''
-		Attracts an annoying fairy
-		Provides a large amount of light in the abyss 
+		Привлекает надоедливую фею
+		Обеспечивает большим количеством света в бездне
 		'''
 }
 
 PhantominaJar: {
-	DisplayName: Phantom in a Jar
+	DisplayName: Фантом в банке
 	Tooltip:
 		'''
-		Summons a Phantom Spirit to light your way
-		'Don't even think about it.'
-		Provides a large amount of light in the abyss 
+		Призывает фантомного духа, освещающего ваш путь
+		'Даже не думай об этом'
+		Обеспечивает большим количеством света в бездне 
 		'''
 }
 
 ProfanedHeart: {
-	DisplayName: Profaned Heart
+	DisplayName: Осквернённое сердце
 	Tooltip:
 		'''
-		Summons a miniature Providence, accompanied by her guardians
-		'Nothing but the purest of furies'
-		Provides a large amount of light in the abyss 
+		Призывает миниатюрную Провиденс, в сопровождении своих Стражей
+		'Самая первозданная из фурий'
+		Обеспечивает большим количеством света в бездне 
 		'''
 }
 
 SunBun: {
-	DisplayName: Sun Bun
+	DisplayName: Солнечная булочка
 	Tooltip:
 		'''
-		Summons the Sun Bun
-		Boosts Bunny spawnrates a tiny bit
-		'The bun above all'
-		Provides a large amount of light in the abyss
+		Призывает солнечного кролика
+		Немного увеличивает скорость появления кроликов
+		'Булочка превыше всего'
+		Обеспечивает большим количеством света в бездне
 		'''
 }
 
 SuperstitiousJewel: {
-	DisplayName: Superstitious Jewel
+	DisplayName: Драгоценность суеверий
 	Tooltip:
 		'''
-		Summons an Elemental, two Endothermic Runes, and two Phantom Sharks to follow you, emitting a crazy amount of light
-		'It looks like glass, but the magic is real' 
-		Provides a colossal amount of light in the abyss
+		Призывает элементаля, две эндотермические руны и двух фантомных акул, следующих за вами и излучающих безумное количество света
+		'Выглядит как стекло, но волшебство настоящее' 
+		Обеспечивает невероятным количеством света в бездне
 		'''
 }
 
 WulfrumTransmitter: {
-	DisplayName: Wulfrum Transmitter
+	DisplayName: Вульфрумовый передатчик
 	Tooltip:
 		'''
-		Summons a Prototype Wulfrum Amplifier
-		'It's making a lot of dial up noises'
-		Provides a small amount of light in the abyss 
+		Призывает прототип вульфрумового усилителя
+		'Издает много звуков старого модема'
+		Обеспечивает небольшим количеством света в бездне
 		'''
 }
 
 AuricCarKey: {
 	# Mounts
-	DisplayName: Auric Car Key
+	DisplayName: Ключ от ауритовой машины
 	# Mounts
 	Tooltip:
 		'''
-		Summons a rideable Auric Tesla mount
-		Mortally reduces health and damage if a boss is nearby 
-		'Yharim Car'
+		Призывает управляемую ауритовую теслу
+		Смертельно снижает здоровье и урон, если поблизости находится босс 
+		'Яриммобиль'
 		'''
 }
 
 BloodstoneCarriageItem: {
-	DisplayName: Bloodstone Invitation
+	DisplayName: Приглашение кровавого камня
 	Tooltip:
 		'''
-		Summons a rideable Bloodflare Carriage mount
-		Reduces damage and health while a boss is nearby 
-		'An invitation to take a merry little stroll on a ride made of the deceased!'
+		Призывает управляемый экипаж кровавой вспышки
+		Cнижает здоровье и урон, если поблизости находится босс 
+		'Приглашение совершить весёлую небольшую прогулку на транспорте, сделанном из усопших!'
 		'''
 }
 
 CrackedFossil: {
-	DisplayName: Crab Fossil
+	DisplayName: Ископаемый краб
 	Tooltip:
 		'''
-		Summons a rideable Anthozoan Crab mount
-		Reduces damage and health when a boss is nearby 
-		'It's moving...'
+		Призывает ездового антозойного краба
+		Cнижает здоровье и урон, если поблизости находится босс
+		'Оно движется...'
 		'''
 }
 
 FloatyCarpetItem: {
-	DisplayName: Floaty Carpet
+	DisplayName: Ковёр-поплавок
 	Tooltip:
 		'''
-		Summons a rideable floaty carpet mount
-		'A floating carpet made out of a real Floaty!'
+		Призывает управляемый ковёр-поплавок
+		'Летающий ковёр, сделанный из настоящих морских поплавков!'
 		'''
 }
 
 GodRiderItem: {
-	DisplayName: God Rider Kit
+	DisplayName: Набор бога скейтбордистов
 	Tooltip:
 		'''
-		Summons a rideable God Rider Hoverbike mount
-		Reduces damage and health when a boss is nearby 
-		'Devour miles in the blink of an eye'
+		Призывает управляемый ховербайк бога скейтбордистов
+		Cнижает здоровье и урон, если поблизости находится босс 
+		'Достигай расстояния в километры в мгновение ока'
 		'''
 }
 
 HadarianTail: {
-	DisplayName: Hadarian Egg
+	DisplayName: Яйцо хадариана
 	Tooltip:
 		'''
-		Summons a rideable Hadrian mount
-		Reduces damage and health when a boss is nearby 
+		Призывает ездового хадариана
+		Cнижает здоровье и урон, если поблизости находится босс 
 		'''
 }
 
 InfectedController: {
-	DisplayName: Diseased Joystick
+	DisplayName: Нездоровый джойстик
 	Tooltip:
 		'''
-		Summons a rideable Plaguebringer mount
-		Reduces damage and health when a boss is nearby 
-		'It's emitting 8 bit buzzing'
+		Призывает ездовую Разносчицу чумы
+		Cнижает здоровье и урон, если поблизости находится босс 
+		'Издаёт восьмибитное жжужание'
 		'''
 }
 
 LeviathanEgg: {
-	DisplayName: Leviathan Egg
+	DisplayName: Яйцо Левиафан
 	Tooltip:
 		'''
-		Summons a rideable young Leviathan mount
-		Reduces damage and health when a boss is nearby 
+		Призывает ездовую малышку Левиафан
+		Cнижает здоровье и урон, если поблизости находится босс
 		'''
 }
 
 PopUpShop: {
-	DisplayName: Pop-up Shop
+	DisplayName: Донат-магазин
 	Tooltip:
 		'''
-		Summons a rideable Morshu mount
-			Consumes a Copper Coin from the coin slots every 5 seconds and becomes super-sonic
-			If there are no Copper Coins in the coin slots then Morshu becomes crippled 
+		Призывает ездового Моршу
+		  Потребляет медную монету из слотов для монет каждые 5 секунд и становится сверхзвуковым.
+		  Если в слотах для монет нет медных монет, Моршу становится калекой
 		'''
 }
 
 ProfanedBattery: {
-	DisplayName: Holy Crystal Core
-	Tooltip: Charged core of a Profaned Guardian
+	DisplayName: Святое кристальное ядро
+	Tooltip: Заряженное ядро Осквернённого стража
 }
 
 ProfanedCycleItem: {
-	DisplayName: Profaned Cycle
+	DisplayName: Осквернённый байк
 	Tooltip:
 		'''
-		Summons a rideable Profaned Cycle mount
-		Dramatically reduces health and damage if a boss is nearby 
-		'When you need to get somewhere, in style'
+		Призывает управляемый осквернённый байк
+		Значительно снижает здоровье и урон, если поблизости находится босс
+		'Когда нужно куда-то добраться, со стилем.'
 		'''
 }
 
 ProfanedFrame: {
-	DisplayName: Profaned Frame
-	Tooltip: Some sort of ancient framework
+	DisplayName: Осквернённая рама
+	Tooltip: Создана по древней технологии
 }
 
 ProfanedWheels: {
-	DisplayName: Hot Wheels
-	Tooltip: "'Wheels made of pure profaned energy'"
+	DisplayName: Горячие колёса
+	Tooltip: "'Колёса из чистой осквернённой энергии'"
 }
 
 RadJuice: {
-	DisplayName: Radioactive Carton
+	DisplayName: Радиоактивная пачка сока
 	Tooltip:
 		'''
-		Summons a rideable Nuclear Terror mount
-		Reduces damage and health when a boss is nearby 
-		'You probably shouldn't drink this'
+		Призывает ездовой ядерный террор
+		Cнижает здоровье и урон, если поблизости находится босс
+		'Вероятно, это не следует пить'
 		'''
 }
 
 ShadowShedding: {
-	DisplayName: Shadow Shedding
+	DisplayName: Теневой клок
 	Tooltip:
 		'''
-		Summons a rideable Hive Mind mount thing
-		Reduces damage and health when a boss is nearby 
-		'Infestation!'
+		Призывает ездовой... разум улья?..
+		Cнижает здоровье и урон, если поблизости находится босс
+		'Заражение!'
 		'''
 }
 
 SilvaJeepItem: {
-	DisplayName: Silvian Jeep Keys
+	DisplayName: Ключи от сильвийского джипа
 	Tooltip:
 		'''
-		Summons a rideable Silvan Jeep mount
-		Greatly reduces health and damage if a boss is nearby 
-		'It's time for a safari'
+		Призывает управляемый сильвийский джип
+		Сильно снижает здоровье и урон, если поблизости находится босс
+		'Время сафари'
 		'''
 }
 
 WulfrumKeys: {
-	DisplayName: Wulfrum Keys
+	DisplayName: Вульфрумовые ключи
 	Tooltip:
 		'''
-		Summons a rideable Wulfrum Tank mount
-		Reduces damage and health when a boss is nearby 
-		'You already know how to operate it... somehow...'
+		Призывает ездовой вульфрумовый танк
+		Cнижает здоровье и урон, если поблизости находится босс
+		'Вы уже знаете как управлять им... как-то...'
 		'''
 }
 
 YharonsAnklet: {
-	DisplayName: Infernal Message Book
+	DisplayName: Книга инфернального зова
 	Tooltip:
 		'''
-		Summons a rideable lesser Yharon mount
-		'This is my message...' 
+		Призывает ездового Ярончика
+		'Это мой зов...' 
 		'''
 }
 
 AlarmClock: {
 	# Pandemonium Box
-	DisplayName: Alarm Clock
+	DisplayName: Будильник
 	# Pandemonium Box
-	Tooltip: Spare parts for your travels
+	Tooltip: Запасные части для ваших путешествий
 }
 
 NurseryBell: {
-	DisplayName: Nursery Bell
-	Tooltip: Our best friends...
+	DisplayName: Детский колокольчикv
+	Tooltip: Наши лучшие друзья...
 }
 
 DustChime: {
-	DisplayName: Dust Chime
-	Tooltip: The winds of progress!
+	DisplayName: Пыльный колокольчик
+	Tooltip: Ветра прогресса!
 }
 
 BestInstrument: {
-	DisplayName: Best Instrument
-	Tooltip: Pieces of your journey
+	DisplayName: Лучший инструмент
+	Tooltip: Фрагменты вашего путешествия
 }
 
 HarbingerOfWork: {
-	DisplayName: Harbinger of Work
-	Tooltip: Feels like robot love!
+	DisplayName: Предвестник работы
+	Tooltip: Словно любовь робота!
 }
 
 MaladyBells: {
-	DisplayName: Malady Bells
-	Tooltip: Starting anew!
+	DisplayName: Колокольчик хвори
+	Tooltip: Начинаем заново!
 }
 
 SpiritDinerBell: {
-	DisplayName: Dead Ringer
-	Tooltip: Halfway there
+	DisplayName: Мертвозвон
+	Tooltip: Половина пути пройдена
 }
 
 AltarBell: {
-	DisplayName: Altar Bell
-	Tooltip: The gods from the heavens on the palm of your hand
+	DisplayName: Алтарный корокол
+	Tooltip: Боги небес на вашей ладони
 }
 
 TubRune: {
-	DisplayName: T.U.B. Rune
-	Tooltip: Change the world...
+	DisplayName: Руна ТАБа
+	Tooltip: Измените мир...
 }
 
 VaselineBell: {
-	DisplayName: Vaseline Bell
-	Tooltip: "'All at once I come alive, it's a rebirth!'"
+	DisplayName: Вазелиновый колокольчик
+	Tooltip: "'Внезапно я оживаю, это перерождение!!'"
 }
 
 WormBell: {
-	DisplayName: Slither Charm
+	DisplayName: Скользящий медальон
 	Tooltip:
 		'''
-		'But does it ring any bells?
-		That I don't mention the hell?' 
+		'Но звенит ли он?
+		Я не упоминал об аде?' 
 		'''
 }
 
 ScratchedGong: {
-	DisplayName: Scratched Gong
+	DisplayName: Потрёпанный гонг
 	Tooltip:
 		'''
-		'Your patience is admirable
-		You will soon be rewarded...'
+		'Ваше терпение достойно восхищения
+		Скоро вы будете вознаграждены...'
 		'''
 }
 
 PandemoniumBox: {
-	DisplayName: Pandemonium Box
+	DisplayName: Ящик пандемониума
 	Tooltip:
 		'''
-		The end of our journey, your zenith
-		Summons every pet you've met in your path
-		'And I wish I was the only one to leave'
+		Конец вашего путешествия, ваш зенит
+		Призывает каждого питомца, что вы встретили на пути
+		'И я хотел бы быть единственным, кто останется'
 		'''
 }
 
 NuggetLicense: {
 	# Town pets
-	DisplayName: Nugget License
+	DisplayName: Наггетсовый паспорт
 	# Town pets
-	Tooltip: Use to adopt a nugget for your town
+	Tooltip: Используйте, чтобы заселить в городе наггетс
 }
 
 AnahitaPlushThrowable: {
@@ -1672,915 +1672,923 @@ YharonPlushThrowable: {
 
 BubbleMachine: {
 	# Tiles
-	DisplayName: Effervescent Bubbler
+	DisplayName: Шипучий пузырник
 	# Tiles
-	Tooltip: "'That's like, groovy mannn'"
+	Tooltip: "'Вот так, чувак'"
 }
 
-MeldBlockItem.DisplayName: Meld Block
+MeldBlockItem.DisplayName: Литой блок
 
 WulfrumPlating: {
-	DisplayName: Wulfrum Brick
+	DisplayName: Вульфрумовый кирпич
 	Tooltip: ""
 }
 
 ThanatosPlating: {
-	DisplayName: XM-05 Armor Plating
+	DisplayName: Покрытие брони ВМ-05
 	Tooltip: ""
 }
 
 ThanatosPlatingVent: {
-	DisplayName: XM-05 Armor Plating (Vent)
+	DisplayName: Покрытие брони ВМ-05 (вентиляция)
 	Tooltip: ""
 }
 
 MeldosaurusRelic: {
-	DisplayName: Meldosaurus Relic
+	DisplayName: Реликвия Литозавра
 	Tooltip: ""
 }
 
 BleachBallItem: {
-	DisplayName: Bleach Ball Beach Ball
-	Tooltip: Careful, might pop
+	DisplayName: Пляжный мячик-хлоромячик
+	Tooltip: Осторожно, может лопнуть
 }
 
 ChaoticPuffball: {
-	DisplayName: Chaotic Puffball
-	Tooltip: "'It probably won't detonate...'"
+	DisplayName: Хаотический иглошар
+	Tooltip: "'Взорвётся? Не должен...'"
 }
 
 BlightedAstralPinkDye: {
-	DisplayName: Blighted Astral Pink Dye
+	DisplayName: Розовый краситель астральной заразы
 	Tooltip: ""
 }
 
 BlightedAstralYellowDye: {
-	DisplayName: Blighted Astral Yellow Dye
+	DisplayName: Жёлтый краситель астральной заразы
 	Tooltip: ""
 }
 
 ApolloBalloonSmall: {
-	DisplayName: Apollo Balloon
-	Tooltip: "'Stirred to go among wild beasts'"
+	DisplayName: Шарик Аполлона
+	Tooltip: "'Тот, кто знает себя, ясен духом'"
 }
 
 Eidcape: {
-	DisplayName: Eidolist's Cape
-	Tooltip: Whispers of the deep can be heard through the weavings of this eldritch fabric...
+	DisplayName: Накидка эйдолиста
+	Tooltip: Шепот глубин слышен сквозь плетение этой запретной ткани...
 }
 
 Birbhat: {
-	DisplayName: Follyhat
-	Tooltip: "'The one hat to rule them all'"
+	DisplayName: Псевдошляпа
+	Tooltip: "'Одна Шляпа, чтоб ими управлять'"
 }
 
 Calacirclet: {
-	DisplayName: Circlet of Calamity
-	Tooltip: "'Cursed?'"
+	DisplayName: Венец бедствия
+	Tooltip: "'Проклято?'"
 }
 
 ShroomiteVisage: {
-	DisplayName: Shroomite Visage
+	DisplayName: Гнибнитовый лик
 	Tooltip: ""
 }
 
 Permascarf: {
-	DisplayName: Permafrost's Scarf
-	Tooltip: Stay Frosty
+	DisplayName: Шарф Пермафроста
+	Tooltip: 'Не горячитесь'
 }
 
 Polterhook: {
-	DisplayName: Polterhook
+	DisplayName: Полтеркрюк
 	Tooltip: ""
 }
 
 MysteryPainting: {
-	DisplayName: Mystery Painting
-	Tooltip: <right> for a random painting
+	DisplayName: Загадочная картина
+	Tooltip: Нажмите <right>, чтобы получить случайную картину
 }
 
 NuclearFumes: {
-	DisplayName: Nuclear Fumes
-	Tooltip: "'Don't inhale them'"
+	DisplayName: Ядерные пары
+	Tooltip: "'Не вдыхайте их'"
 }
 
 OldCassette: {
-	DisplayName: Old Cassette
+	DisplayName: Старая кассета
 	Tooltip:
 		'''
-		Favorite this item to activate player afterimages
-		'It contains some edgy anime episodes from the 90's'
+		Пометьте как избранное, чтобы игрок оставлял за собой послеобразы
+		'Содержит несколько типичных эпизодов аниме 90-х годов'
 		'''
 }
 
 AcidLamp: {
-	DisplayName: Acid Lamp
+	DisplayName: Кислотная лампа
 	Tooltip:
 		'''
-		Summons a Sulphurous Skater Nymph
-		'There seems to be an egg inside'
+		Призывает нимфу-сернистую водомерку
+		'Кажется, внутри яйцо'
 		'''
 }
 
 AerialiteBubble: {
-	DisplayName: Aerialite Bubble
+	DisplayName: Аэриалитовый пузырь
 	Tooltip:
 		'''
-		Summons a duo of Aero Slimes
-		'An odd sphere covered in light gel'
+		Призывает пару аэрослизней
+		'Странная сфера, покрытая светящимся гелем'
 		'''
 }
 
 ArmoredScrap: {
-	DisplayName: Armored Scrap
+	DisplayName: Бронированный металлолом
 	Tooltip:
 		'''
-		Summons a small Stasis Probe
-		'Can't be salvaged, but attracts a probe friend!'
+		Призывает маленький стазисный зонд
+		'Спасти его уже невозможно, но он привлекает другие зонды!'
 		'''
 }
 
 AstraEGGeldon: {
-	DisplayName: AstraEGGeldon
+	DisplayName: Астраяйгельдон
 	Tooltip:
 		'''
-		Summons a calamitous amalgamate to accompany you
-		'Now you can stop asking how I was born'
+		Призывает ужасное слияние, следующее за вами
+		'Может хоть теперь вы перестанете спрашивать, как я родился'
 		'''
 }
 
 AstralInfectedIcosahedron: {
-	DisplayName: Astral Infected Icosahedron
+	DisplayName: Астрально-инфицированный икосаэдр
 	Tooltip:
 		'''
-		Transforms into an Aureophage
-		'Roll for initiative!'
+		Трансформируется в Ареусофага
+		'Бросок на инициативу!'
 		'''
 }
 
 AuricBottle: {
-	DisplayName: Auric Bottle
-	Tooltip: Summons a Godly Squid to follow you
+	DisplayName: Ауритовая банка
+	Tooltip: Призывает божественного кальмара, следующего за вами
 }
 
 BambooStick: {
-	DisplayName: Strange Bamboo Stick
+	DisplayName: Странная бамбуковая палка
 	Tooltip:
 		'''
-		Summons a Red Panda pet
-		'Its scent attracts a unique animal'
+		Призывает красную панду
+		'Её аромат привлекает уникальное животное'
 		'''
 }
 
 BleuBlob: {
-	DisplayName: Bleu Blob
-	Tooltip: Summons some cool blue dudes
+	DisplayName: Блю-блоп
+	Tooltip: Призывает крутых парней
 }
 
 BrimberryItem: {
-	DisplayName: Brimstone Berry
+	DisplayName: Серная ягода
 	Tooltip:
 		'''
-		Summons an ancient fruit
-		'Often used as offering to the Brimstone Goddess'
+		Призывает древний фрукт
+		'Когда-то использовалось как подношение Серному элементалю'
 		'''
 }
 
 BubbledFin: {
-	DisplayName: Bubbled Fin
+	DisplayName: Запузыренный плавник
 	Tooltip:
 		'''
-		Summons a Smauler
-		'How did it even get in there?'
+		Призывает мучишку
+		'Как он сюда попал?'
 		'''
 }
 
 BubbleGum: {
-	DisplayName: Bubble Gum
-	Tooltip: Summons a divine entity
+	DisplayName: Жвачка
+	Tooltip: Призывает божественную сущность
 }
 
 CalamitousSoulArtifact: {
-	DisplayName: Calamitous Soul Artifact
+	DisplayName: Бедственный артефакт душ
 	Tooltip:
 		'''
-		Entropy
-		Summons a benevolent necropede
-		[c/C61B40:After crawling for decades in everlasting agony]
-		[c/C61B40:the mobile graveyard finally finds a true friend.]
+		Энтропия
+		Призывает верную некроножку
+		[c/C61B40:Спустя десятилетия мучительного ползания]
+		[c/C61B40:передвижное кладбище наконец находит настоящего друга]
 		'''
 }
 
 CanofWyrms: {
-	DisplayName: Can of Wyrms
+	DisplayName: Банка со змиями
 	Tooltip:
 		'''
-		Summons an Eidolon Inchwyrm
-		'It's surprising how the deep adapted to the scraps above'
+		Призывает эйдолонского змийка
+		'Удивительно, насколько глубина приспособилась к металлолому поверхности'
 		'''
 }
 
 CharredChopper: {
-	DisplayName: Charred Chopper
+	DisplayName: Обугленный тесак
 	Tooltip:
 		'''
-		Summons a decapitated Sulphurous Fishron that inhaled Scoria fumes
-		'A burning knife measuring a thousand degrees!'
+		Призывает обезглавленного сернистого Рыброна, вдохнувшего пары магматитовой руды
+		'Нож, раскалённый до тысячи градусов!'
 		'''
 }
 
 ClamHermitMedallion: {
-	DisplayName: Clam Hermit Medallion
+	DisplayName: Медальон моллюска-отшельника
 	Tooltip:
 		'''
-		Summons a Clam Hermit
-		'Holding this makes your hands feel clammy'
+		Призывает моллюска-отшельника
+		'От этого в руках становится влажно'
 		'''
 }
 
 ClawShroom: {
-	DisplayName: Clawshroom
+	DisplayName: Когтегриб
 	Tooltip:
 		'''
-		Summons a small Crabulon
-		'Snip snap!'
+		Призывает Крабулончика
+		'Чик-чик!'
 		'''
 }
 
 CoolShades: {
-	DisplayName: Cool Shades
+	DisplayName: Холодные солнцезащитные очки
 	Tooltip:
 		'''
-		Summons a miniature Cryogen
-		'Rad'
+		Призывает Криогенчика
+		'Крут'
 		'''
 }
 
 CooperShortsword: {
-	DisplayName: Cooper Shortsword
+	DisplayName: Медный кинжал
 	Tooltip:
 		'''
-		Summons an oddly shapped small Cryogen
-		'Unleash the power of cool'
+		Призывает странного Криогенчика
+		'Высвободите силу крутизны'
 		'''
 }
 
 CorrodedCleaver: {
-	DisplayName: Corroded Cleaver
+	DisplayName: Разъеденный рассекатель
 	Tooltip:
 		'''
-		Summons a decapitated Sulphurous Fishron
-		'Slice n' Dice'
+		Призывает обезглавленного сернистого Рыброна
+		'Кубиками, кубиками режь'
 		'''
 }
 
 CosmicRapture: {
-	DisplayName: Cosmic Rapture
-	Tooltip: Summons the Devourer of the cosmos to follow you
+	DisplayName: Космический восторг
+	Tooltip: Призывает Пожирателя космоса, следующего за вами
 }
 
 Cube: {
-	DisplayName: A Cube
+	DisplayName: Куб
 	Tooltip:
 		'''
-		Summons a cube
-		Causes sickened star deities to blight
-		'Heil the Cube Lord'
+		Призывает куб
+		Вызывает заражение инфицированных звёздных божеств
+		'Слава лорду Кубу'
 		'''
 }
 
 CursedLockpick: {
-	DisplayName: Cursed Lockpick
+	DisplayName: Проклятая отмычка
 	Tooltip:
 		'''
-		Summons a Rusty Mimic
-		'Rusty and crusty'
+		Призывает ржавого мимика
+		'Ржавый и вялый'
 		'''
 }
 
 DecayingFishtail: {
-	DisplayName: Decaying Fishtail
+	DisplayName: Настенный рыбий хвост
 	Tooltip:
 		'''
-		Summons a pet catfish...?
-		'Only an unholy nightmarish abomination would want something this putrid'
+		Призывает рыбу-кошку?..
+		'Лишь нечестивое кошмарное отродье могло пожелать нечто настолько отвратительное'
 		'''
 }
 
 DeepseaLantern: {
-	DisplayName: Deep Sea Lantern
+	DisplayName: Глубоководный фонарь
 	Tooltip:
 		'''
-		Summons a Fathomable Eel
-		"'Might call upon a creature looking for food'"
+		Призывает непостижимого угря
+		"'Может привлечь существо, ищущее пропитание'"
 		'''
 }
 
 DespairMask: {
-	DisplayName: Despair Mask
+	DisplayName: Маска отчаяния
 	Tooltip:
 		'''
-		Summons a sad stone
-		'It reeks of depression'
+		Призывает грустный камень
+		'От неё разит депрессией'
 		'''
 }
 
 DocilePheromones: {
-	DisplayName: Docile Pheromones
+	DisplayName: Особые феромоны
 	Tooltip:
 		'''
-		Summons a small Draconic Swarmer
-		'Lemon extract, with a hint of pepper'
+		Призывает маленього драконьего роителя
+		'Экстракт лимона с ноткой перца'
 		'''
 }
 
 DoggoCollar: {
-	DisplayName: Doggo Collar
-	Tooltip: Summons a pet Chihuahua
+	DisplayName: Собачий ошейник
+	Tooltip: Призывает чихуахуа
 }
 
 DriedLocket: {
-	DisplayName: Dried Locket
+	DisplayName: Сушёный медальон
 	Tooltip:
 		'''
-		Summons a Desert Pest
-		'There's a worm wriggling in it'
+		Призывает пустынного паразита
+		'В нём трепыхается червяк'
 		'''
 }
 
 DustyBadge: {
-	DisplayName: Dusty Badge
+	DisplayName: Пыльный знак
 	Tooltip:
 		'''
-		Summons the Great Sand Shark's Great Grandson
-		'Bereft to the core'
+		Призывает великого внука великой песчаной акулы
+		'Лишён всякой храбрости'
 		'''
 }
 
 Eggstone: {
-	DisplayName: Eggstone
+	DisplayName: Яйцекамень
 	Tooltip:
 		'''
-		Hatches into a baby Bohldohr
-		'Wait, it's alive?!'
+		Вылупляется в малыша-бурлыжнека
+		'Стойте, оно живое?!'
 		'''
 }
 
 CloudCandy: {
-	DisplayName: Cloud Candy
+	DisplayName: Облачная конфета
 	Tooltip:
 		'''
-		Summons a Miniature Cloud Elemental
-		'An elemental's favorite sweet!'
+		Призывает миниатюрного Облачного элементаля
+		'Любимая сладость элементаля!'
 		'''
 }
 
 MiniatureElementalHeart: {
-	DisplayName: Miniature Elemental Heart
+	DisplayName: Миниатюрное сердце элементов
 	Tooltip:
 		'''
-		Summons all of the Miniature Elementals
-		'It's like you're running a daycare or something...'
+		Призывает всех миниатюрных элементалей
+		'Словно детский сад...'
 		'''
 }
 
 RareBrimtulip: {
-	DisplayName: Rare Brimtulip
+	DisplayName: Редкий серотюльпан
 	Tooltip:
 		'''
-		Summons a Rare Brimling
-		'An elemental's favorite flower!'
+		Призывает редкого серняша
+		'Любимый цветок элементаля!'
 		'''
 }
 
 SmallSandPail: {
-	DisplayName: Small Sand Lamp
+	DisplayName: Маленькая песчаная лампа
 	Tooltip:
 		'''
-		Summons a Miniature Sand Elemental
-		'An elemental's favorite toy!'
+		Призывает миниатюрного Песочного элементаля
+		'Любимая игрушка элементаля!'
 		'''
 }
 
 SmallSandPlushie: {
-	DisplayName: Плюшевый песочек
+	DisplayName: Маленькая песчаная плюшевая игрушка
 	Tooltip:
 		'''
-		Призывает мини-версию редкого песчаного элементаля
-		«Любимая игрушка элементаля!»
+		Призывает редкого миниатюрного Песочного элементаля
+		'Любимая игрушка элементаля!'
 		'''
 }
 
 StrangeMusicNote: {
-	DisplayName: Strange Music Note
+	DisplayName: Странная музыкальная нота
 	Tooltip:
 		'''
-		Summons a Vibrant Siren Child
-		'An elemental's favorite sound!'
+		Призывает энергичного ребенка-Сирену
+		'Любимый звук элементаля!'
 		'''
 }
 
 ExoGemstone: {
-	DisplayName: Exo Gemstone
-	Tooltip: Summons the full miniaturized exo ensemble
+	DisplayName: Экзо-самоцвет
+	Tooltip: Призывает полный миниатюрный экзо-ансамбль
 }
 
 GeminiMarkImplants: {
-	DisplayName: Gemini Mark Implants
+	DisplayName: Имплантаты марки Близнецы
 	Tooltip:
 		'''
-		Summons smaller replicas of the advanced surveillance ships
-		'22 Vision'
+		Призывает уменьшенные копии передовых разведывательных кораблей
+		'Зрение 22'
 		'''
 }
 
 GunmetalRemote: {
-	DisplayName: Dark Gunmetal Remote
+	DisplayName: Пульт управления из тёмного металла
 	Tooltip:
 		'''
-		Summons a shorter and friendlier version of the high-tech digger
-		'T Hanos'
+		Призывает более короткую и удобную версию высокотехнологичного экскаватора
+		'Т Анос'
 		'''
 }
 
 OminousCore: {
-	DisplayName: Ominous Core
+	DisplayName: Зловещее ядро
 	Tooltip:
 		'''
-		Summons a toy variant of the diabolical monstrosity
-		'The rotting mechanism emits surprisingly friendly fumes'
+		Призывает игрушечный вариант дьявольского чудовища
+		'Гниющий механизм выделяет удивительно приятные пары'
 		'''
 }
 
 ExtraFluffyFeather: {
-	DisplayName: Extra Fluffy Feather
+	DisplayName: Экстрамягкое перо
 	Tooltip:
 		'''
-		Summons a Mini Birb
-		'Attracts the last of a species'
+		Призывает мини-бёрда
+		'Привлекает последнего из своего рода'
 		'''
 }
 
 ExtraFluffyFeatherClump: {
-	DisplayName: Extra Fluffy Feather Clump
+	DisplayName: Клок экстрамягких перьев
 	Tooltip:
 		'''
-		Summons beasts, so horrific, that you will die
-		'ISEJFDOIJNJSNFDGUISDBJNGSDJG'
+		Призывает чудовищ, настолько ужасных, что вы умрёте
+		'ИСЕЙФДОЙДЖНСНФДГУИСДБДЖНГСДЖГ'
 		'''
 }
 
 Finality: {
-	DisplayName: Finality
+	DisplayName: Завершённость
 	Tooltip:
 		'''
-		Summons a pet Rock
-		The stone before was merely a shell for the true creation, 
-		the Creator's first and favorite source of entertainment
+		Призывает Камень
+		Камень был лишь оболочкой для истинного творения, 
+		первого и любимого развлечения Творца
 		'''
 }
 
 FlareRune: {
-	DisplayName: Flare Rune
+	DisplayName: Вспышкоруна
 	Tooltip:
 		'''
-		Summons Avalon, an ascended Profaned Guardian infused with profaned and cosmic energy
-		'WuH'
+		Призывает Авалона, вознесённого Осквернённого стража, слившегося с осквернённой и космической энергиями
+		'Ась?'
 		'''
 }
 
 FROM: {
-	DisplayName: Frog-Only Memory
+	DisplayName: Плашка опергушки
 	Tooltip:
 		'''
-		Summons a virtual private entity
-		'There's also a serial code...?'
+		Призывает цифровую приватную сущность
+		'Здесь есть серийный код?..'
 		'''
 }
 
 Geminga: {
-	DisplayName: Geminga
+	DisplayName: Геминга
 	Tooltip:
 		'''
-		Summons a swarm of 11 lesser star deities
-		'A highly condensed star'
+		Призывает рой из одиннадцати младших звёздных божеств
+		'Крайне плотная звезда'
 		'''
 }
 
 GodSlayerDoll: {
-	DisplayName: God Slayer Doll
+	DisplayName: Кукла богоубийцы
 	Tooltip:
 		'''
-		Summons a small Cosmic Assassin, Stasis Probe, and Dark Energy
-		'The sentinels will recognize a new leader'
+		Приызвает космического ассасина, стазисный зонд и тёмную энергию
+		'Стражи признают нового лидера'
 		'''
 }
 
 HauntedPebble: {
-	DisplayName: Haunted Pebble
+	DisplayName: Одержимый булыжник
 	Tooltip:
 		'''
-		Summons a Phantom Debris larvae
-		'Spookay~'
+		Призывает фантомную личинку обломком
+		'Страшнааа~'
 		'''
 }
 
 HeartoftheSharks: {
-	DisplayName: Heart of the Sharks
+	DisplayName: Сердце акул
 	Tooltip:
 		'''
-		Summons a trio of sharks
-		'It's time for shark week!'
+		Призывает тройку акул
+		'Неделя акул!'
 		'''
 }
 
 InkyArtifact: {
-	DisplayName: Inky Artifact
+	DisplayName: Чернильное артефакт
 	Tooltip:
 		'''
-		Summons a pair of Omega Blue Cultists
-		'For Omega version 50% off!!'
+		Призывает пару омега-синих культистов
+		'За омега-версию 50% скидка!'
 		'''
 }
 
 InkyPollution: {
-	DisplayName: Inky Pollution
+	DisplayName: Чернильный раствор
 	Tooltip:
 		'''
-		Summons a baby squid
-		'It's a shame what we do to the environment'
+		Призывает кальмарика
+		'Как горько видеть то, что мы делаем с природой'
 		'''
 }
 
 IonizedJellyCrystal: {
-	DisplayName: Ionized Jelly Crystal
+	DisplayName: Ионизированный желейный кристалл
 	Tooltip:
 		'''
-		Summons the pinnacle of slime evolution
+		Призывает вершину эволюции слизней.
 
 
-		'Did you ever hear the tragedy of Goozma The Amorphous Deity? I thought not. It's not a story the Tyrant would tell you.
-		It's an Overseer legend. Goozma was the ultimate evolution of all slimes, so powerful it could influence the cells that comprise all other slime.
-		It could even create new slime gods, with affinities to the world's biomes.
-		The energy of the world is a pathway to many abilities some consider to be unnatural.
-		It became so powerful that the only thing it was afraid of was losing it's power, which eventually, of course, it did.
-		Unfortunately, Goozma's power grew so great for it to become a temporal anomaly.
-		A temporal anomaly which a power beyond our universe had no choice but to erase, so that it never existed in the first place.
-		Ironic. The very growth in power which made Goozma a deity in the first place, was also the cause of its demise'
+		'Слышали ли вы трагедию Гузмы, Аморфного божества? Вряд ли. Не та это история, которую вам может рассказать Тиран
+		Это легенда Надзирателя. Гузма был высшей эволюцией всех слизней, настолько могущественным, что мог влиять на клетки, составляющие всех остальных слизней
+		Он даже мог создавать новых Богов слизней, связанных с биомами мира
+		Энергия мира - это путь ко многим способностям, которые некоторые считают неестественными
+		Он стал настолько могущественным, что единственное, чего он боялся, это потерять свою силу... что, в конечном итоге, конечно же и произошло
+		К сожалению, сила Гузмы выросла настолько, что он стал временной аномалией
+		Временной аномалией, которую силе за пределами нашей вселенной ничего не оставалось, как стереть, словно она никогда и не существовала
+		Иронично. Тот самый рост силы, который сделал Гузму божеством, стал причиной его гибели'
 		'''
 }
 
 MeatyWormTumor: {
-	DisplayName: Meaty Worm Tumor
+	DisplayName: Мясистый червь-опухоль
 	Tooltip:
 		'''
-		Summons a ball of flesh with a small Perforator sticking out
-		'May contain tied worms'
+		Призывает шарик плоти с торчащим наружу маленьким Перфоратором
+		'может содержать связанных червей'
 		'''
 }
 
 MirrorMatter: {
-	DisplayName: Mirror Matter
+	DisplayName: Зеркальная материя
 	Tooltip:
 		'''
-		Summons a small piece of Dark Energy
-		'They always say breaking mirrors is bad luck'
+		Призывает кусочек тёмной энергии
+		'Зеркало разбить к несчастью, примета такая'
 		'''
 }
 
 MoistLocket: {
-	DisplayName: Moist Locket
+	DisplayName: Влажный медальон
 	Tooltip:
 		'''
-		Summons a small Aquatic Pest
-		Likes to play with beach balls and plushies
-		'There's a worm wriggling in it'
+		Призывает акватического паразита
+		'В нём трепыхается червяк'
 		'''
 }
 
 NuggetinaBiscuit: {
-	DisplayName: Nugget in a Biscuit
+	DisplayName: Наггетс в бисквите
 	Tooltip:
 		'''
-		Summons the Jungle Nugget
-		'An alluring treat no jungle nugget can resist!'
+		Призывает Наггетс джунглей
+		'Соблазнительное лакомство, перед которым не устоит ни один Наггетс джунглей!'
 		'''
 }
 
 PlaguebringerPowerCell: {
 	DisplayName: Компенсация
-	Tooltip: Can be sold for a decent price
+	Tooltip: Можно продать по высокой цене
 }
 
 PristineExcalibur: {
 	DisplayName: Компенсация
-	Tooltip: Could be sold for a decent price
+	Tooltip: Можно продать по высокой цене
 }
 
 ProfanedChewToy: {
-	DisplayName: Profaned Chew Toy
+	DisplayName: Осквернённая жевательная игрушка
 	Tooltip:
 		'''
-		Summons an ungodly radical dude
-		'Seems dusty'
+		Вызывает безбожного радикального чувака
+		'Выглядит пыльной'
 		'''
 }
 
 PurifiedFog: {
-	DisplayName: Purified Fog
+	DisplayName: Очищенный туман
 	Tooltip:
 		'''
-		Summons a creature of stygian depths
-		'Keep him bound'
+		Призывает создание стигийских глубин
+		'Не выпускайте его'
 		'''
 }
 
 ReaperoidPills: {
-	DisplayName: Reaperoid Pills
+	DisplayName: Жнецуальные таблетки
 	Tooltip:
 		'''
-		Summons a walking Reaper
-		'So that's how they got so buff...'
+		Призывает ходящего жнеца
+		'Значит, вот как они настолько накачались...'
 		'''
 }
 
 RepurposedMonitor: {
-	DisplayName: Repurposed Monitor
-	Tooltip: Summons a faulty repair bot to follow you
+	DisplayName: Изменённый монитор
+	Tooltip: Призывает неисправного ремонтного робота, следующего за вами
 }
 
 RottenHotdog: {
-	DisplayName: Rotten Hotdog
+	DisplayName: Гнилой хотдог
 	Tooltip:
 		'''
-		Summons a Pitbull puppy
-		Barks when any rare enemies are nearby
-		'Delicious...'
+		Призывает питбульчика
+		Лает, когда рядом находятся редкие существа
+		'Вкуснотища...'
+		'''
+}
+
+RottenKey: {
+	DisplayName: Гнилой ключ
+	Tooltip:
+		'''
+		Призывает кусок Разума улья
+		'Ключ к умиротворению скопления микробов'
 		'''
 }
 
 RottingCalamitousArtifact: {
-	DisplayName: Rotting Calamitous Artifact
+	DisplayName: Гниющий бедственный артефакт
 	Tooltip:
 		'''
-		Summons a pet Sepulchling
-		'The grave rises'
+		Призывает Могулю
+		'Могила восстаёт'
 		'''
 }
 
 RoverSpindle: {
-	DisplayName: Rover Spindle
+	DisplayName: Вал скитальца
 	Tooltip:
 		'''
-		Summons a suspiciously familiar Wulfrum Robot
-		'Crusty'
+		Вызывает подозрительно знакомого вульфрумового робота
+		'Хлипкий'
 		'''
 }
 
 RuinedBandage: {
-	DisplayName: Ruined Bandage
+	DisplayName: Испорченный бинт
 	Tooltip:
 		'''
-		Summons Euros
-		'le punch, le smash, and break a hand'
+		Призывает Евроса
+		'Ла бей, ла круши, ла руки ломай'
 		'''
 }
 
 AmberGeode: {
-	DisplayName: Amber Geode
+	DisplayName: Янтарная жеода
 	Tooltip:
 		'''
-		Summons an Amber Scuttler
-		'Could contain a scuttler'
+		Призывает янтарного беглеца
+		'Могло бы содержать беглеца'
 		'''
 }
 
 AmethystGeode: {
-	DisplayName: Amethyst Geode
+	DisplayName: Аметистовая жеода
 	Tooltip:
 		'''
-		Summons an Amythest Scuttler
-		'May contain a scuttler'
+		Призывает аметистового беглеца
+		'Имеет возможность содержать беглеца'
 		'''
 }
 
 BejeweledSpike: {
-	DisplayName: Bejeweled Spike
+	DisplayName: Самоцветная жеода
 	Tooltip:
 		'''
-		Summons a rainbow Bejeweled Scuttler
-		'A blend of every flavor in one package'
+		Призывает радужного самоцветного беглеца
+		'Смесь всех вкусов в одной обёртке'
 		'''
 }
 
 CrystalGeode: {
-	DisplayName: Crystal Geode
+	DisplayName: Кристальная жеода
 	Tooltip:
 		'''
-		Summons a Crystal Scuttler
-		'Might contain a scuttler'
+		Призывает кристального беглеца
+		'Может содержать беглеца'
 		'''
 }
 
 DiamondGeode: {
-	DisplayName: Diamond Geode
+	DisplayName: Алмазная жеода
 	Tooltip:
 		'''
-		Summons a Diamond Scuttler
-		'Can contain a scuttler'
+		Призывает алмазного беглеца
+		'Cпособен содержать беглеца'
 		'''
 }
 
 EmeraldGeode: {
-	DisplayName: Emerald Geode
+	DisplayName: Изумрудная жеода
 	Tooltip:
 		'''
-		Summons an Emerald Scuttler
-		'Should contain a scuttler'
+		Призывает изумрудного беглеца
+		'Должна содержать беглеца'
 		'''
 }
 
 RubyGeode: {
-	DisplayName: Ruby Geode
+	DisplayName: Рубиновая жеода
 	Tooltip:
 		'''
-		Summons a Ruby Scuttler
-		'Possibly contains a scuttler'
+		Призывает рубинового беглеца
+		'Возможно содержит беглеца'
 		'''
 }
 
 SapphireGeode: {
-	DisplayName: Sapphire Geode
+	DisplayName: Сапфировая жеода
 	Tooltip:
 		'''
-		Summons an Sapphire Scuttler
-		'Capable of containing a scuttler'
+		Призывает сапфирового беглеца
+		'Способна содержать беглеца'
 		'''
 }
 
 TopazGeode: {
-	DisplayName: Topaz Geode
+	DisplayName: Топазовая жеода
 	Tooltip:
 		'''
-		Summons an Topaz Scuttler
-		'Potentially contains a scuttler'
+		Призывает топазового беглеца
+		'В теории содержит беглеца'
 		'''
 }
 
 ShadowCloth: {
-	DisplayName: Shadow Cloth
-	Tooltip: Summons an assassin to lurk behind you
+	DisplayName: Теневая ткань
+	Tooltip: Призывает убийцу, прячущегося за вашей спиной
 }
 
 Sirember: {
-	DisplayName: ":Sirember:"
+	DisplayName: "Незабысиренка"
 	Tooltip:
 		'''
-		Summons the wrath of the water elemental
-		'Alway Rember...'
+		Призывает гнев Водного элементаля
+		'Всегда помни...'
 		'''
 }
 
 SkullCluster: {
-	DisplayName: Skull Cluster
+	DisplayName: Груда черепов
 	Tooltip:
 		'''
-		Summons a miniature necrotic flesh golem
-		'Two skulls pop out of the pile with glowing eyes'
+		Призывает некротического големика из плоти
+		'Из груды выскакивают два черепа с горящими глазами'
 		'''
 }
 
 SlightlyMoistbutalsoSlightlyDryLocket: {
-	DisplayName: Slightly Moist, but also Slightly Dry Locket
+	DisplayName: Слегка влажный, но также и слегка сушёный медальон
 	Tooltip:
 		'''
-		Summons a Slightly Moisturized Pest
-		'There's a worm wriggling in it'
+		Призывает слегка увлажненного паразита
+		'В нём трепыхается червяк'
 		'''
 }
 
 SlimeDeitysSoul: {
-	DisplayName: Slime Deity's Soul
+	DisplayName: Душа бога слизней
 	Tooltip:
 		'''
-		Summons a miniature Slime God core, orbitted by its guards
-		'Power hungry for rot'
+		Призывает ядрышко Бога слизней, в окружении своих паладинов
+		'Сила, голодная до гнили'
 		'''
 }
 
 SmolEldritchHoodie: {
-	DisplayName: Smol Eldritch Hoodie
+	DisplayName: Маленькое жуткое худи
 	Tooltip:
 		'''
-		Summons a hooded Eidolist
-		'Baby's first hood'
+		Призывает эйдолиста в худи
+		'Первый капюшон малыша'
 		'''
 }
 
 SoulShard: {
-	DisplayName: Soul Shard
+	DisplayName: Осколок души
 	Tooltip:
 		'''
-		Summons an Eidolon Wyrm to follow you
+		Призывает эйдолонского змия, следующего за вами
 		'The madness of the abyss echoes through your flesh'
 		'''
 }
 
 SpaceJunk: {
-	DisplayName: Space Junk
-	Tooltip: Summons the forgotten blob of the astral meteor
+	DisplayName: Космический мусор
+	Tooltip: Призывает забытого слизня астрального метеорита
 }
 
 StormMedal: {
-	DisplayName: Storm Medal
+	DisplayName: Штормовая медаль
 	Tooltip:
 		'''
-		Summons a young Storm Weaver
-		'Heads or worms?'
+		Призывает молодого Штормового ткача
+		'Червь или решка?'
 		'''
 }
 
 SunDriedShrimp: {
-	DisplayName: Sun Dried Shrimp
+	DisplayName: Вяленые креветки
 	Tooltip:
 		'''
-		Summons a little sick sneeze dragon
-		'A crispy snack favored by Cnidrions'
+		Призывает больного дракончика
+		'Хрустящая закуска, любимая гидроидами'
 		'''
 }
 
 SuspiciousLookingChineseCrown: {
-	DisplayName: Suspicious Looking Chinese Crown
+	DisplayName: Подозрительно выглядящая китайская корона
 	Tooltip:
 		'''
-		Summons the pure child of cosmic wraith 
-		'She's coming'
+		Призывает дитя чистого космического гнева
+		'Она идёт'
 		'''
 }
 
 SuspiciousLookingGBC: {
-	DisplayName: Suspicious Looking GBC
+	DisplayName: Подозрительно выглядящее ГБК
 	Tooltip:
 		'''
-		Summons an abandonded roomba rescued from a trash heap
-		'What could this mean?'
+		Призывает брошенного робота-пылесоса, спасённого из кучи мусора
+		'Что это может значить?'
 		'''
 }
 
 TheDragonball: {
-	DisplayName: The Dragonball
+	DisplayName: Драконья сфера
 	Tooltip:
 		'''
-		Summons a spherical Dragonfolly
-		Causes failed dragon clones to have identity crises
-		'Uh oh'
+		Призывает круглого Псевдодракона
+		Вызывает у неудачных клонов драконов кризис личности
+		'Ух ох'
 		'''
 }
 
 TheSeaKingsCoin: {
-	DisplayName: The Sea King's Coin
+	DisplayName: Монетка морского короля
 	Tooltip:
 		'''
-		Summons both the Aquatic and Desert Pests
-		'Blessed with pest power'
+		Призывает акватического и пустынного паразитов
+		'Благословлено силой паразитов'
 		'''
 }
 
 ToyScythe: {
-	DisplayName: Toy Scythe
+	DisplayName: Игрушечная коса
 	Tooltip:
 		'''
-		Summons a small Polter-Chan
-		'Belongs to a mischievous spirit'
+		Призывает маленькую Полтер-тян
+		'Собственность озорного духа'
 		'''
 }
 
 TundraBall: {
-	DisplayName: Tundra Ball
+	DisplayName: Тундровая мячик
 	Tooltip:
 		'''
-		Summons a very angry puppy
-		'A chew toy said to have the power to tame the angriest of dogs'
+		Призывает очень злого щенка
+		'Жевательная игрушка, которая, как говорят, способна приручить самую злую из собак'
 		'''
 }
 
 UglyTentacle: {
-	DisplayName: Ugly Tentacle
+	DisplayName: Уродливое щупальце
 	Tooltip:
 		'''
-		Summons T.U.B
-		'fat'
+		Призывает ТАБа
+		'толстяк'
 		'''
 }
 
 WulfrumController: {
-	DisplayName: Wulfrum Control Panel
-	Tooltip: Allows the user to control an army of mechs
+	DisplayName: Вульфрумовая панель управления
+	Tooltip: Позволяет управлять армией мехов
 }
 
 ZygoteinaBucket: {
-	DisplayName: Zygote in a Bucket
-	Tooltip: Summons an ancient ghastly fetus
+	DisplayName: Зигота в ведре
+	Tooltip: Призывает древнего призрачного зародыша
 }
 
 HypnosPlushThrowable: {
@@ -2599,1346 +2607,1346 @@ MirePlushThrowableP2: {
 }
 
 PutridShroom: {
-	DisplayName: Aromatic Shroom
+	DisplayName: Ароматный гриб
 	Tooltip:
 		'''
-		Causes the great fungus crab's Crab Shrooms to become passive, but also enrage upon defeat
-		Keeps the small fungal crab on your head, even when moving
-		'Smells like cheese...?'
+		Делает грибы большого грибного Краба становиться пассивными, но также приводит его в ярость после поражения
+		Маленький грибной краб удерживается на вашей голове, даже во время передвижения
+		'Пахнет сыром?..'
 		'''
 }
 
 SparrowMeat: {
-	DisplayName: Sparrow Meat
-	Tooltip: There's a bit of pink cloth in it
+	DisplayName: Воробьиное мясо
+	Tooltip: В нём немного розовой ткани
 }
 
 Termipebbles: {
-	DisplayName: Termipebbles
+	DisplayName: Термигалька
 	Tooltip:
 		'''
-		Used to craft Terminus-themed vanities
-		'Do NOT eat.'
+		Используется для создания предметов с темой Терминуса
+		'Есть НЕЛЬЗЯ'
 		'''
 }
 
 AstralMusicBox: {
-	DisplayName: Music Box (Astral Blight)
+	DisplayName: Музыкальная шкатулка (Астральная зараза)
 	Tooltip: ""
 }
 
 AuricTrashCan: {
-	DisplayName: Auric Trash Can
-	Tooltip: "'I've lost control of my life'"
+	DisplayName: Ауритовый мусорный бак
+	Tooltip: "'Я потерял контроль за своей жизнью'"
 }
 
 TiedBoB2: {
-	DisplayName: Tied Water Balloons
+	DisplayName: Привязанные водные шарики
 	Tooltip: ""
 }
 
 TiedBoxBalloon: {
-	DisplayName: Tied Box Balloon
+	DisplayName: Привязанный квадратный шарик
 	Tooltip: ""
 }
 
 TiedChaosBalloon: {
-	DisplayName: Tied Chaos Balloon
+	DisplayName: Привязанный хаотический шарик
 	Tooltip: ""
 }
 
 TiedMirageBalloon: {
-	DisplayName: Tied Mirage Balloon
+	DisplayName: Привязанный шарик миражей
 	Tooltip: ""
 }
 
 AstragellySlimeBanner: {
-	DisplayName: Astragelly Slime Banner
+	DisplayName: Знамя астрагелевого слизня
 	Tooltip: ""
 }
 
 BleamurBanner: {
-	DisplayName: Bleamur Banner
+	DisplayName: Знамя морлемура
 	Tooltip: ""
 }
 
 CalamitasBanner: {
-	DisplayName: Acursed Banner
+	DisplayName: Знамя проклятого
 	Tooltip: ""
 }
 
 EyedolBanner: {
-	DisplayName: Eyedol Banner
+	DisplayName: Знамя взордола
 	Tooltip: ""
 }
 
 GodSlayerSlugBanner: {
-	DisplayName: God Slayer Slug Banner
+	DisplayName: Знамя пуленя богоубийцы
 	Tooltip: ""
 }
 
 IsopodBanner: {
-	DisplayName: Isopod Banner
+	DisplayName: Знамя изопода
 	Tooltip: ""
 }
 
 SandTurtleBanner: {
-	DisplayName: Sand Turtle Banner
+	DisplayName: Знамя песчаной черепахи
 	Tooltip: ""
 }
 
 VeilBanner: {
-	DisplayName: Veil Banner
-	Tooltip: Great for blocking out the sun!
+	DisplayName: Знамя из вуали
+	Tooltip: Отлично подходит для защиты от солнца!
 }
 
 ViolemurBanner: {
-	DisplayName: Violemur Banner
+	DisplayName: Знамя пурлемура
 	Tooltip: ""
 }
 
 XerocodileBanner: {
-	DisplayName: Xerocodile Banner
+	DisplayName: Знамяe ксерокрока
 	Tooltip: ""
 }
 
 AstralClay: {
-	DisplayName: Blighted Astral Clay
+	DisplayName: Заражённая астральная глина
 	Tooltip: ""
 }
 
 AstralDirt: {
-	DisplayName: Blighted Astral Dirt
+	DisplayName: Заражённая астральная земля
 	Tooltip: ""
 }
 
 AstralHardenedSand: {
-	DisplayName: Hardened Blighted Astral Sand
+	DisplayName: Затвердевший заражённый астральный песок
 	Tooltip: ""
 }
 
 AstralIce: {
-	DisplayName: Blighted Astral Ice
+	DisplayName: Заражённый астральный лёд
 	Tooltip: ""
 }
 
 AstralSand: {
-	DisplayName: Blighted Astral Sand
+	DisplayName: Заражённый астральный песок
 	Tooltip: ""
 }
 
 AstralSandstone: {
-	DisplayName: Blighted Astral Sandstone
+	DisplayName: Заражённый астральный песчаник
 	Tooltip: ""
 }
 
 AstralSnow: {
-	DisplayName: Blighted Astral Snow
+	DisplayName: Заражённый астральный снег
 	Tooltip: ""
 }
 
 AstralTreeWood: {
-	DisplayName: Xenomonolith
+	DisplayName: Ксеномонолит
 	Tooltip: ""
 }
 
 Xenostone: {
-	DisplayName: Xenostone
+	DisplayName: Ксенокамень
 	Tooltip: ""
 }
 
 AstralBrick: {
-	DisplayName: Blighted Astral Brick
+	DisplayName: Заражённый астральный кирпич
 	Tooltip: ""
 }
 
 AstralGrass: {
-	DisplayName: Blighted Astral Grass Seeds
-	Tooltip: Places grass on blighted astral dirt
+	DisplayName: Семена астральной заразы
+	Tooltip: Сажает траву на заражённой астральной земле
 }
 
 AstralPearlBlock: {
-	DisplayName: Astral Pearl Block
+	DisplayName: Астральный жемчуг
 	Tooltip: ""
 }
 
 AstralPlating: {
-	DisplayName: Astral Plating
+	DisplayName: Астральное покрытие
 	Tooltip: ""
 }
 
 AuricBrick: {
-	DisplayName: Auric Brick
+	DisplayName: Ауритовый кирпич
 	Tooltip: ""
 }
 
 AzufreSludge: {
-	DisplayName: Azufre Sludge
+	DisplayName: Лазурная слякоть
 	Tooltip: ""
 }
 
 BlightedEggBlock: {
-	DisplayName: Blighted Egg Block
+	DisplayName: Заражённое яйцо
 	Tooltip: ""
 }
 
 Bloodstone: {
 	DisplayName: Компенсация
-	Tooltip: Can be sold
+	Tooltip: Можно продать
 }
 
 BloodstoneBrick: {
-	DisplayName: Bloodstone Brick
+	DisplayName: Кирпич из кровавого камня
 	Tooltip: ""
 }
 
 ChiseledBloodstone: {
-	DisplayName: Chiseled Bloodstone
-	Tooltip: Used to make Bloodstone furniture
+	DisplayName: Отделанный кровавый камень
+	Tooltip: Используется для создания мебели из кровавого камня
 }
 
 EidolicSlab: {
-	DisplayName: Eidolic Slab
+	DisplayName: Эйдолонская балка
 	Tooltip: ""
 }
 
 FrostflakeBrick: {
-	DisplayName: Frostflake Brick
+	DisplayName: Снежинковые кирпичи
 	Tooltip: ""
 }
 
 HallowedBrick: {
-	DisplayName: Hallowed Brick
+	DisplayName: Освящённый кирпич
 	Tooltip: ""
 }
 
 MeldBlock: {
-	DisplayName: Meld Block
+	DisplayName: Литой блок
 	Tooltip: ""
 }
 
 Necrostone: {
-	DisplayName: Necrostone
+	DisplayName: Некрокамень
 	Tooltip: ""
 }
 
 PhantowaxBlock: {
-	DisplayName: Phantowax Block
+	DisplayName: Фантовоск
 	Tooltip: ""
 }
 
 PlagueHiveWand: {
-	DisplayName: Plague Hive Wand
-	Tooltip: Places Plague Hives
+	DisplayName: Жезл чумного улья
+	Tooltip: Размещает чумные ульи
 }
 
 PolishedAstralMonolith: {
-	DisplayName: Polished Astral Monolith
+	DisplayName: Полированный астральный монолит
 	Tooltip: ""
 }
 
 PolishedXenomonolith: {
-	DisplayName: Polished Xenomonolith
+	DisplayName: Полированный ксеномонолит
 	Tooltip: ""
 }
 
 ShadowBrick: {
-	DisplayName: Shade Brick
+	DisplayName: Тенекирпич
 	Tooltip: ""
 }
 
 AgedBlueprint: {
-	DisplayName: Aged Blueprint
-	Tooltip: Do Not Distribute?
+	DisplayName: Картина «Старый чертёж»
+	Tooltip: Не распространять?
 }
 
 AstrumAureusLog: {
-	DisplayName: Astrum Aureus Blueprint
-	Tooltip: Do Not Distribute
+	DisplayName: Картина «Чертёж Аструм Ареуса»
+	Tooltip: Не распространять
 }
 
 BumblebirbLog: {
-	DisplayName: "[SCRAPPED] Yharon Cloning Project Blueprint"
-	Tooltip: Do Not Distribute
+	DisplayName: "Картина «Чертёж проекта по клонированию Ярона» [УТИЛИЗИРОВАННО]"
+	Tooltip: Не распространять
 }
 
 CalamitasLog: {
-	DisplayName: Calamitas Cloning Project Blueprint
-	Tooltip: Do Not Distribute
+	DisplayName: Картина «Чертёж проекта по клонированию Каламитас»
+	Tooltip: Не распространять
 }
 
 DestroyerLog: {
-	DisplayName: Destroyer Blueprint
-	Tooltip: Do Not Distribute
+	DisplayName: Картина «Чертёж Уничтожителя»
+	Tooltip: Не распространять
 }
 
 DogLog: {
-	DisplayName: Cosmilite Plating Blueprint
-	Tooltip: Do Not Distribute
+	DisplayName: Картина «Чертёж космилитового покрытия»
+	Tooltip: Не распространять
 }
 
 MurasamaLog: {
-	DisplayName: Murasama Blueprint
-	Tooltip: Do Not Distribute
+	DisplayName: Картина «Чертёж Мурасамы»
+	Tooltip: Не распространять
 }
 
 OrthoceraLog: {
-	DisplayName: Orthocera Exile Plan
-	Tooltip: Please Distribute
+	DisplayName: Картина «План ортоцеры-изгнаника»
+	Tooltip: Прошу распространять
 }
 
 PlagueLog: {
-	DisplayName: Plague Blueprint
-	Tooltip: Do Not Distribute
+	DisplayName: Картина «Чертёж чумы»
+	Tooltip: Не распространять
 }
 
 PrimeLog: {
-	DisplayName: Skeletron Prime Blueprint
-	Tooltip: Do Not Distribute
+	DisplayName: Картина «Чертёж Скелетрона Прайма»
+	Tooltip: Не распространять
 }
 
 SamLog: {
-	DisplayName: Murasama Blueprint EX
-	Tooltip: Do Not Distribute
+	DisplayName: Картина «Чертёж Мурасамы EX»
+	Tooltip: Не распространять
 }
 
 TwinsLog: {
-	DisplayName: Twins Blueprint
-	Tooltip: Do Not Distribute
+	DisplayName: Картина «Чертёж Близнецов»
+	Tooltip: Не распространять
 }
 
 YharmorLog: {
-	DisplayName: Auric Armor Blueprint
-	Tooltip: Do Not Distribute
+	DisplayName: Картина «Чертёж ауритовой брони»
+	Tooltip: Не распространять
 }
 
 BoiMachine: {
-	DisplayName: Binding of Anahita Machine
+	DisplayName: Игровой автомат «Жертвоприношение Анахиты»
 	Tooltip:
 		'''
-		INCOMPLETE ITEM, EXTREMELY UNSTABLE
-		Roguelike game
+		НЕЗАВЕРШЁННЫЙ ПРЕДМЕТ, КРАЙНЕ НЕСТАБИЛЕН
+		Игра жанра роуглайк
 		'''
 }
 
 BrimstoneHeart: {
-	DisplayName: Hanging Brimstone Heart
-	Tooltip: Plus Up
+	DisplayName: Подвесное серное сердце
+	Tooltip: +жизнь
 }
 
 AstJar: {
-	DisplayName: Astral Jelly Jar
+	DisplayName: Банка астрального желе
 	Tooltip: ""
 }
 
 BleamurPerch: {
-	DisplayName: Bleamur Perch
+	DisplayName: Насест морлемура
 	Tooltip: ""
 }
 
 BlinkerInABottle: {
-	DisplayName: Blinker in a Bottle
+	DisplayName: Мигатель в банке
 	Tooltip: ""
 }
 
 CrystalFlyJar: {
-	DisplayName: Crystal Butterfly Jar
+	DisplayName: Банка с кристальной бабочкой
 	Tooltip: ""
 }
 
 EyedolTerrarium: {
-	DisplayName: Eyedol Cage
+	DisplayName: Клетка с взордолом
 	Tooltip: ""
 }
 
 GAstJar: {
-	DisplayName: Gold Astral Jelly Jar
+	DisplayName: Насест золотого морлемура
 	Tooltip: ""
 }
 
 GoldenIsopodTerrarium: {
-	DisplayName: Gold Isopod Cage
+	DisplayName: Террариум с золотым изоподом
 	Tooltip: ""
 }
 
 GoldEyedolTerrarium: {
-	DisplayName: Gold Eyedol Cage
+	DisplayName: Клетка с золотым взордолом
 	Tooltip: ""
 }
 
 GoldViolemurMonolith: {
-	DisplayName: Gold Violemur Perch
+	DisplayName: Насест золотого пурлемура
 	Tooltip: ""
 }
 
 IsopodTerrarium: {
-	DisplayName: Isopod Cage
+	DisplayName: Террариум с изоподом
 	Tooltip: ""
 }
 
 NukeJar: {
-	DisplayName: Vaporofly in a Jar
+	DisplayName: Испаромуха в банке
 	Tooltip: ""
 }
 
 OrthoJar: {
-	DisplayName: Orthocera in a Jar
+	DisplayName: Ортоцера в банке
 	Tooltip: ""
 }
 
 PlagueFrogTerrarium: {
-	DisplayName: Plagued Frog Cage
+	DisplayName: Террариум с чумной лягушкой
 	Tooltip: ""
 }
 
 ProvFlyJar: {
-	DisplayName: Blazing Butterfly Jar
+	DisplayName: Пылающая бабочка в банке
 	Tooltip: ""
 }
 
 SandTurtleCage: {
-	DisplayName: Sand Turtle Cage
+	DisplayName: Террариум с песчаной черепахой
 	Tooltip: ""
 }
 
 SlugTerrarium: {
-	DisplayName: God Slayer Slug Cage
+	DisplayName: Террариум с пуленем богоубийцы
 	Tooltip: ""
 }
 
 SwearshroomCage: {
-	DisplayName: Swearshroom Cage
+	DisplayName: Террариум с гриблецом
 	Tooltip: ""
 }
 
 ViolemurMonolith: {
-	DisplayName: Violemur Perch
+	DisplayName: Насест пурлемура
 	Tooltip: ""
 }
 
 XerocodileCage: {
-	DisplayName: Xerocodile Cage
+	DisplayName: Террариум с ксерокроком
 	Tooltip: ""
 }
 
 CalamityLamp: {
-	DisplayName: Brimstone Flambeau
-	Tooltip: Something malicious is brewing
+	DisplayName: Серный светоч
+	Tooltip: Трижды ночь плюс дважды мгла
 }
 
 CosmiliteChairEX: {
-	DisplayName: Cosmilite Monobloc Chair
+	DisplayName: Космилитовый стул-моноблок
 	Tooltip: ""
 }
 
 DecommissionedDaedalusGolem: {
-	DisplayName: Decommissioned Daedalus Golem
+	DisplayName: Списанный голем Дедала
 	Tooltip: "'4.3%...'"
 }
 
 DemonShield: {
-	DisplayName: Demon Ram Shield
-	Tooltip: "'It's too big to wear'"
+	DisplayName: Таранный щит демона
+	Tooltip: "'Слишком большой для использования'"
 }
 
 DisrepairUnit: {
-	DisplayName: Disrepair Unit
-	Tooltip: "'You're sick in the head'"
+	DisplayName: Неисправный бот
+	Tooltip: "'Ты на голову больной'"
 }
 
 Evolution: {
-	DisplayName: Toy Evolution
-	Tooltip: "'Pondering the orb...'"
+	DisplayName: Игрушечная эволюция
+	Tooltip: "'Думательный шар...'"
 }
 
 AgedRustGamingTable: {
-	DisplayName: Aged Lab Gaming Table
-	Tooltip: G@m3 0n1
+	DisplayName: Старый лабораторный игровой стол
+	Tooltip: Игр@ н@ч1ть
 }
 
 RustGamingTable: {
-	DisplayName: Lab Gaming Table
-	Tooltip: Game On!
+	DisplayName: Лабораторный игровой стол
+	Tooltip: Игру начать!
 }
 
 RustGamingTable2: {
-	DisplayName: Lab Gaming Table 2
-	Tooltip: "'Technically a spinoff'"
+	DisplayName: Лабораторный игровой стол 2
+	Tooltip: "'Спинофф'"
 }
 
 OldAstralBathtubItem: {
-	DisplayName: Xenomonolith Bathtub
+	DisplayName: Ксеномонолитная ванна
 	Tooltip: ""
 }
 
 OldAstralBedItem: {
-	DisplayName: Xenomonolith Bed
+	DisplayName: Ксеномонолитная кровать
 	Tooltip: ""
 }
 
 OldAstralBookshelfItem: {
-	DisplayName: Xenomonolith Bookcase
+	DisplayName: Ксеномонолитный книжный шкаф
 	Tooltip: ""
 }
 
 OldAstralCandelabraItem: {
-	DisplayName: Xenomonolith Candelabra
+	DisplayName: Ксеномонолитный подсвечник
 	Tooltip: ""
 }
 
 OldAstralCandleItem: {
-	DisplayName: Xenomonolith Candle
+	DisplayName: Ксеномонолитная свеча
 	Tooltip: ""
 }
 
 OldAstralChairItem: {
-	DisplayName: Xenomonolith Chair
+	DisplayName: Ксеномонолитный стул
 	Tooltip: ""
 }
 
 OldAstralChandelierItem: {
-	DisplayName: Xenomonolith Chandelier
+	DisplayName: Ксеномонолитная люстра
 	Tooltip: ""
 }
 
 OldAstralChestItem: {
-	DisplayName: Xenomonolith Chest
+	DisplayName: Ксеномонолитный сундук
 	Tooltip: ""
 }
 
 OldAstralClockItem: {
-	DisplayName: Xenomonolith Grandfather Clock
+	DisplayName: Ксеномонолитные напольные часы
 	Tooltip: ""
 }
 
 OldAstralDoorItem: {
-	DisplayName: Xenomonolith Door
+	DisplayName: Ксеномонолитная дверь
 	Tooltip: ""
 }
 
 OldAstralDresserItem: {
-	DisplayName: Xenomonolith Dresser
+	DisplayName: Ксеномонолитный комод
 	Tooltip: ""
 }
 
 OldAstralLampItem: {
-	DisplayName: Xenomonolith Lamp
+	DisplayName: Ксеномонолитная напольная лампа
 	Tooltip: ""
 }
 
 OldAstralLanternItem: {
-	DisplayName: Xenomonolith Lantern
+	DisplayName: Ксеномонолитный фонарь
 	Tooltip: ""
 }
 
 OldAstralPianoItem: {
-	DisplayName: Xenomonolith Pipe Organ
+	DisplayName: Ксеномонолитный орган
 	Tooltip: ""
 }
 
 OldAstralSinkItem: {
-	DisplayName: Xenomonolith Sink
+	DisplayName: Ксеномонолитная раковина
 	Tooltip: ""
 }
 
 OldAstralSofaItem: {
-	DisplayName: Xenomonolith Bench
+	DisplayName: Ксеномонолитная скамья
 	Tooltip: ""
 }
 
 OldAstralTableItem: {
-	DisplayName: Xenomonolith Table
+	DisplayName: Ксеномонолитный стол
 	Tooltip: ""
 }
 
 OldAstralWorkbenchItem: {
-	DisplayName: Xenomonolith Work Bench
+	DisplayName: Ксеномонолитный верстак
 	Tooltip: ""
 }
 
 AuricBathtubItem: {
-	DisplayName: Auric Bathtub
+	DisplayName: Ауритовая ванна
 	Tooltip: ""
 }
 
 AuricBedItem: {
-	DisplayName: Auric Bed
+	DisplayName: Ауритовая кровать
 	Tooltip: ""
 }
 
 AuricBookshelfItem: {
-	DisplayName: Auric Bookcase
+	DisplayName: Ауритовый книжный шкаф
 	Tooltip: ""
 }
 
 AuricCandelabraItem: {
-	DisplayName: Auric Candelabra
+	DisplayName: Ауритовый подсвечник
 	Tooltip: ""
 }
 
 AuricCandleItem: {
-	DisplayName: Auric Candle
+	DisplayName: Ауритовая свеча
 	Tooltip: ""
 }
 
 AuricChairItem: {
-	DisplayName: Auric Chair
+	DisplayName: Ауритовый стул
 	Tooltip: ""
 }
 
 AuricChandelierItem: {
-	DisplayName: Auric Chandelier
+	DisplayName: Ауритовая люстра
 	Tooltip: ""
 }
 
 AuricChestItem: {
-	DisplayName: Auric Chest
+	DisplayName: Ауритовый сундук
 	Tooltip: ""
 }
 
 AuricClockItem: {
-	DisplayName: Auric Grandfather Clock
+	DisplayName: Ауритовые напольные часы
 	Tooltip: ""
 }
 
 AuricDoorItem: {
-	DisplayName: Auric Door
+	DisplayName: Ауритовая дверь
 	Tooltip: ""
 }
 
 AuricDresserItem: {
-	DisplayName: Auric Dresser
+	DisplayName: Ауритовый комод
 	Tooltip: ""
 }
 
 AuricLampItem: {
-	DisplayName: Auric Lamp
+	DisplayName: Ауритовая напольная лампа
 	Tooltip: ""
 }
 
 AuricLanternItem: {
-	DisplayName: Auric Lantern
+	DisplayName: Ауритовый фонарь
 	Tooltip: ""
 }
 
 AuricManufacturer: {
-	DisplayName: Auric Manufacturer
-	Tooltip: Used for special crafting
+	DisplayName: Ауритовый завод
+	Tooltip: Используется для создания особых предметов
 }
 
 AuricPianoItem: {
-	DisplayName: Auric Piano
+	DisplayName: Ауритовое пианино
 	Tooltip: ""
 }
 
 AuricPlatformItem: {
-	DisplayName: Chiseled Auric Platform
+	DisplayName: Отделанная ауритовая платформа
 	Tooltip: ""
 }
 
 AuricSinkItem: {
-	DisplayName: Auric Sink
+	DisplayName: Ауритовая раковина
 	Tooltip: ""
 }
 
 AuricSofaItem: {
-	DisplayName: Auric Sofa
+	DisplayName: Ауритовый диван
 	Tooltip: ""
 }
 
 AuricTableItem: {
-	DisplayName: Auric Table
+	DisplayName: Ауритовый стол
 	Tooltip: ""
 }
 
 AuricWorkbenchItem: {
-	DisplayName: Auric Work Bench
+	DisplayName: Ауритовый верстак
 	Tooltip: ""
 }
 
 BloodstoneBathtubItem: {
-	DisplayName: Bloodstone Bathtub
+	DisplayName: Ванна из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneBedItem: {
-	DisplayName: Bloodstone Bed
+	DisplayName: Кровать из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneBookshelfItem: {
-	DisplayName: Bloodstone Bookcase
+	DisplayName: Книжный шкаф из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneCandelabraItem: {
-	DisplayName: Bloodstone Candelabra
+	DisplayName: Подсвечник из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneCandleItem: {
-	DisplayName: Bloodstone Candle
+	DisplayName: Свеча из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneChairItem: {
-	DisplayName: Bloodstone Chair
+	DisplayName: Стул из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneChandelierItem: {
-	DisplayName: Bloodstone Chandelier
+	DisplayName: Люстра из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneChestItem: {
-	DisplayName: Bloodstone Chest
+	DisplayName: Сундук из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneClockItem: {
-	DisplayName: Bloodstone Grandfather Clock
+	DisplayName: Напольные часы из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneDoorItem: {
-	DisplayName: Bloodstone Door
+	DisplayName: Дверь из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneDresserItem: {
-	DisplayName: Bloodstone Dresser
+	DisplayName: Комод из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneLampItem: {
-	DisplayName: Bloodstone Lamp
+	DisplayName: Напольная лампа из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneLanternItem: {
-	DisplayName: Bloodstone Lantern
+	DisplayName: Фонарь из кровавого камня
 	Tooltip: ""
 }
 
 BloodstonePianoItem: {
-	DisplayName: Bloodstone Piano
+	DisplayName: Пианино из кровавого камня
 	Tooltip: ""
 }
 
 BloodstonePlatformItem: {
-	DisplayName: Chiseled Bloodstone Platform
+	DisplayName: Отделанная платформа из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneSinkItem: {
-	DisplayName: Bloodstone Sink
+	DisplayName: Раковина из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneSofaItem: {
-	DisplayName: Bloodstone Sofa
+	DisplayName: Диван из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneTableItem: {
-	DisplayName: Bloodstone Table
+	DisplayName: Стол из кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneWorkbenchItem: {
-	DisplayName: Bloodstone Work Bench
+	DisplayName: Верстак из кровавого камня
 	Tooltip: ""
 }
 
 NecroticTorch: {
-	DisplayName: Necrotic Torch
+	DisplayName: Некротический факел
 	Tooltip: ""
 }
 
 Ravamper: {
-	DisplayName: Necrotic Bonfire
-	Tooltip: Praise the sun!
+	DisplayName: Некротический костёр
+	Tooltip: Восславь солнце!
 }
 
 PhantowaxBathtubItem: {
-	DisplayName: Phantowax Bathtub
+	DisplayName: Фантовосковая ванна
 	Tooltip: ""
 }
 
 PhantowaxBedItem: {
-	DisplayName: Phantowax Bed
+	DisplayName: Фантовосковая кровать
 	Tooltip: ""
 }
 
 PhantowaxBookshelfItem: {
-	DisplayName: Phantowax Bookcase
+	DisplayName: Фантовосковый книжный шкаф
 	Tooltip: ""
 }
 
 PhantowaxCandelabraItem: {
-	DisplayName: Phantowax Candelabra
+	DisplayName: Фантовосковый подсвечник
 	Tooltip: ""
 }
 
 PhantowaxCandleItem: {
-	DisplayName: Phantowax Candle
+	DisplayName: Фантовосковая свеча
 	Tooltip: ""
 }
 
 PhantowaxChairItem: {
-	DisplayName: Phantowax Chair
+	DisplayName: Фантовосковый стул
 	Tooltip: ""
 }
 
 PhantowaxChandelierItem: {
-	DisplayName: Phantowax Chandelier
+	DisplayName: Фантовосковая люстра
 	Tooltip: ""
 }
 
 PhantowaxChestItem: {
-	DisplayName: Phantowax Chest
+	DisplayName: Фантовосковый сундук
 	Tooltip: ""
 }
 
 PhantowaxClockItem: {
-	DisplayName: Phantowax Grandfather Clock
+	DisplayName: Фантовосковый напольные часы
 	Tooltip: ""
 }
 
 PhantowaxDoorItem: {
-	DisplayName: Phantowax Door
+	DisplayName: Фантовосковая дверь
 	Tooltip: ""
 }
 
 PhantowaxDresserItem: {
-	DisplayName: Phantowax Dresser
+	DisplayName: Фантовосковой комод
 	Tooltip: ""
 }
 
 PhantowaxLampItem: {
-	DisplayName: Phantowax Lamp
+	DisplayName: Фантовосковая напольная лампа
 	Tooltip: ""
 }
 
 PhantowaxLanternItem: {
-	DisplayName: Phantowax Lantern
+	DisplayName: Фантовосковой фонарь
 	Tooltip: ""
 }
 
 PhantowaxPianoItem: {
-	DisplayName: Phantowax Piano
+	DisplayName: Фантовосковое пианино
 	Tooltip: ""
 }
 
 PhantowaxPlatformItem: {
-	DisplayName: Phantowax Platform
+	DisplayName: Фантовосковая платформа
 	Tooltip: ""
 }
 
 PhantowaxSinkItem: {
-	DisplayName: Phantowax Sink
+	DisplayName: Фантовосковая раковина
 	Tooltip: ""
 }
 
 PhantowaxSofaItem: {
-	DisplayName: Phantowax Sofa
+	DisplayName: Фантовосковой диван
 	Tooltip: ""
 }
 
 PhantowaxTableItem: {
-	DisplayName: Phantowax Table
+	DisplayName: Фантовосковой стол
 	Tooltip: ""
 }
 
 PhantowaxWorkbenchItem: {
-	DisplayName: Phantowax Work Bench
+	DisplayName: Фантовосковой верстак
 	Tooltip: ""
 }
 
 WulfrumGlobe: {
-	DisplayName: Wulfrum Globe
-	Tooltip: Spin spin spin
+	DisplayName: Вульфрумовый глобус
+	Tooltip: 'Круть-круть-круть'
 }
 
 HeartoftheCommunity: {
-	DisplayName: Heart of the Community
-	Tooltip: My greatest creation, handle it with care
+	DisplayName: Сердце сообщества
+	Tooltip: 'Моё величайшее творение, обращайтесь с ним бережно'
 }
 
 Help: {
-	DisplayName: Stuck Orthocera
+	DisplayName: Застрявшая ортоцера
 	Tooltip:
 		'''
-		Can be fed Green Mushrooms
-		'Help me'
+		Можно кормить зелёными грибами
+		'Вытащи меня'
 		'''
 }
 
 Hesfine: {
-	DisplayName: Orthocera Jacuzzi
-	Tooltip: "':Grab:'"
+	DisplayName: Ортоцера в джакузи
+	Tooltip: "'Буль-буль'"
 }
 
 InactivePowerFactory: {
 	DisplayName: Компенсация
-	Tooltip: Can be sold
+	Tooltip: Можно продать
 }
 
 JunkArt: {
-	DisplayName: Reconstructed Particle Accelerator
-	Tooltip: "'Reassembled from old blueprints. The flower inside has grown vibrantly after five years.'"
+	DisplayName: Реконструированный ускоритель частиц
+	Tooltip: "'Собран по старым чертежам. Цветок внутри за пять лет вырос пышным и ярким'"
 }
 
 MireAquarium: {
-	DisplayName: Mire Aquarium
-	Tooltip: "'Hopefully it doesn't try to break out...'"
+	DisplayName: Аквариум со скалозевом
+	Tooltip: "'Надеюсь, он не попытается вырваться на свободу...'"
 }
 
 AquaticMonolith: {
-	DisplayName: Tiny Decapitated Leviathan Head
-	Tooltip: Why would you even want this
+	DisplayName: Маленькая отрубленная голова Левиафан
+	Tooltip: Как это вам только в голову пришло
 }
 
 AuroraMonolith: {
-	DisplayName: Bittercold Construct
+	DisplayName: Морозный конструкт
 	Tooltip: "'][[]][][][][[]'"
 }
 
 CalamitousMonolith: {
-	DisplayName: Calamitous Ritual Basin
-	Tooltip: The fire dances above it with entertaining intent
+	DisplayName: Бедственный ритуальный бассейн
+	Tooltip: Огонь пляшет над ним, словно развлекаясь
 }
 
 DimensionalMonolith: {
-	DisplayName: Dimensional Obelisk
-	Tooltip: It appears to be trying to signal something, with no success
+	DisplayName: Пространственный обелиск
+	Tooltip: Кажется, он пытается подать сигнал, но безуспешно
 }
 
 ExoMonolith: {
-	DisplayName: Gunmetal Mechanism
+	DisplayName: Механизм из тёмного металла
 	Tooltip: ""
 }
 
 InfernalMonolith: {
-	DisplayName: Infernal Altar
-	Tooltip: The flame roars with uselessness
+	DisplayName: Инфернальный алтарь
+	Tooltip: Пламя рычит бесполезностью
 }
 
 PlagueMonolith: {
-	DisplayName: Plague Dialysis Machine
+	DisplayName: Чумной диализатор
 	Tooltip: ""
 }
 
 UnholyMonolith: {
-	DisplayName: Profaned Fountain
-	Tooltip: "'No, it doesn't change any liquid colors'"
+	DisplayName: Фонтан осквернённой воды
+	Tooltip: "'Нет, он не меняет цвет жидкости'"
 }
 
 MoulderingAltarItem: {
-	DisplayName: Mouldering Altar
-	Tooltip: Counts as a demon altar
+	DisplayName: Гнилостный алтарь
+	Tooltip: Считается демоническим алтарём
 }
 
 AccidentalAbominationn: {
-	DisplayName: Accidental Abomination
-	Tooltip: "'Maple'"
+	DisplayName: Картина «Случайная мерзость»
+	Tooltip: "'Мейпл'"
 }
 
 BlazingConflict: {
-	DisplayName: Blazing Conflict
+	DisplayName: Картина «Пылающий конфликт»
 	Tooltip:
 		'''
-		'Fire vs fire'
+		'Огонь против огня'
 		'Yharex'
 		'''
 }
 
 CalamiteaTime: {
-	DisplayName: Calamitea Time
-	Tooltip: Original by 'caligulas,' repainted by 'Maple'
+	DisplayName: Картина «Время бедопития»
+	Tooltip: Оригинал от 'Калигуласа', перерисовано 'Мейпл'
 }
 
 CalamityFriends: {
-	DisplayName: Little Buddies
+	DisplayName: Картина «Маленькие приятели»
 	Tooltip:
 		'''
-		'Friends!'
-		'Mochi'
+		'Друзья!'
+		'Мочи'
 		'''
 }
 
 CalamityPaint: {
-	DisplayName: An Ancient Calamity
-	Tooltip: "'Blockaroz'"
+	DisplayName: Картина «Древнее бедствие»
+	Tooltip: "'Блоказор'"
 }
 
 CalamityPaintRetold: {
-	DisplayName: A Calamity
-	Tooltip: "'IbanPlay'"
+	DisplayName: Картина «Бедствие»
+	Tooltip: "'ИбанПлей'"
 }
 
 CirrusBooze: {
-	DisplayName: A Fine Chalice
+	DisplayName: Картина «Отличная чаша»
 	Tooltip:
 		'''
-		'A fine chalice indeed'
-		'TimerFun'
+		'И вправду отличная чаша'
+		'ТаймерФан'
 		'''
 }
 
 Clam: {
-	DisplayName: Ohayou!
-	Tooltip: "'Yharex'"
+	DisplayName: Огайоу!
+	Tooltip: "'Ярекс'"
 }
 
 CosmicTerror: {
-	DisplayName: Cosmic Terror
-	Tooltip: "'Giacomo'"
+	DisplayName: Картина «Космический ужас»
+	Tooltip: "'Гиакомо'"
 }
 
 DarkMagic: {
-	DisplayName: Dark Magic
-	Tooltip: "'Maple'"
+	DisplayName: Картина «Тёмная магия»
+	Tooltip: "'Мейпл'"
 }
 
 DraedonPopcorn: {
-	DisplayName: The Mechanical Gamer
-	Tooltip: "'Maple'"
+	DisplayName: Картина «Механический геймер»
+	Tooltip: "'Мейпл'"
 }
 
 Duality: {
-	DisplayName: Duality
-	Tooltip: "'Maple'"
+	DisplayName: Картина «Дуализм»
+	Tooltip: "'Мейпл'"
 }
 
 Espelho: {
-	DisplayName: Espelho
-	Tooltip: "'Triangle'"
+	DisplayName: Картина «Эспелхо»
+	Tooltip: "'Триангл'"
 }
 
 EyeofXeroc: {
-	DisplayName: The Eye of Xeroc
-	Tooltip: "'PokerFace'"
+	DisplayName: Картина «Глаз Ксерока»
+	Tooltip: "'ПокерФейс'"
 }
 
 Frozen: {
-	DisplayName: Frozen
-	Tooltip: "'Maple'"
+	DisplayName: Картина «Заморожен»
+	Tooltip: "'Мейпл'"
 }
 
 GallusYharus: {
-	DisplayName: Gallus Yharus
+	DisplayName: Картина «Ярос Ванус»
 	Tooltip:
 		'''
-		'A grand thank you to a wonderful woman and guardian'
-		'Willow'
+		'Огромное спасибо за замечательную женщину и стража'
+		'Уиллоу'
 		'''
 }
 
 LostSouls: {
-	DisplayName: Lost Souls
+	DisplayName: Картина «Потерянные души»
 	Tooltip:
 		'''
-		'Lost and Afraid'
-		'Maple'
+		'Потерянные и напуганные'
+		'Мейпл'
 		'''
 }
 
 ModIconPainting: {
-	DisplayName: Calamity's Vanities
-	Tooltip: "'IbanPlay and Enamoured'"
+	DisplayName: Картина «Каламити Ванитис»
+	Tooltip: "'ИбанПлей и Энамоуред'"
 }
 
 NotLikeHome: {
-	DisplayName: Not Like Home
+	DisplayName: Картина «Не как дома»
 	Tooltip:
 		'''
-		'Friends!'
-		'Maple'
+		'Друзья!'
+		'Мейпл'
 		'''
 }
 
 OldModIconPainting: {
-	DisplayName: Calamity's Vanities (old)
+	DisplayName: Картина «Каламити Ванитис» (старая)
 	Tooltip:
 		'''
-		'Old!!!'
-		'Yharex'
+		'Старьё!!!'
+		'Ярекс'
 		'''
 }
 
 OldUCMMPainting: {
-	DisplayName: Vanilla Calamity Mod Music (old)
+	DisplayName: Картина «Мод Vanilla Calamity Music» (старая)
 	Tooltip:
 		'''
-		'Vintage tunes'
+		'Ностальгические вайбы'
 		'Heart Plus Up!'
 		'''
 }
 
 Plague22: {
-	DisplayName: "22"
+	DisplayName: "Картина «22»"
 	Tooltip:
 		'''
-		'Accursed number'
-		'Willow'
+		'Проклятое число'
+		'Уиллоу'
 		'''
 }
 
 RogueExtractor: {
-	DisplayName: Rogue Extractor
+	DisplayName: Картина «Дикая добывающая машина»
 	Tooltip:
 		'''
-		'Maple'
+		'Мейпл'
 
 		'''
 }
 
 Scourgy: {
-	DisplayName: Scourgy
-	Tooltip: "'Maple'"
+	DisplayName: Картина «Бич-серное чудовище»
+	Tooltip: "'Мейпл'"
 }
 
 Signut: {
-	DisplayName: Signut
+	DisplayName: Картина «Сигорех»
 	Tooltip:
 		'''
-		'Don't judge me, being trapped in ice for a long time does stuff to your mind'
-		'Yharex'
+		'Не осуждайте, долгое заключение во льду плохо влияет на рассудок'
+		'Ярекс'
 		'''
 }
 
 SleepingGiant: {
-	DisplayName: Sleeping Behemoth
-	Tooltip: "'Maple'"
+	DisplayName: Картина «Спящий великан»
+	Tooltip: "'Мейпл'"
 }
 
 Snouts: {
-	DisplayName: Snouts
-	Tooltip: "'Maple'"
+	DisplayName: Картина «Пятачки»
+	Tooltip: "'Мейпл'"
 }
 
 SundayAfternoon: {
-	DisplayName: A Sunday Afternoon in the World of Calamity
-	Tooltip: "'Maple'"
+	DisplayName: Картина «Воскресный полдень в мире Каламити»
+	Tooltip: "'Мейпл'"
 }
 
 SwearingShroom: {
-	DisplayName: Angry Shroom
-	Tooltip: "'Maple'"
+	DisplayName: Картина «Злой гриб»
+	Tooltip: "'Мейпл'"
 }
 
 TheGreatSandworm: {
-	DisplayName: The Great Sandworm
-	Tooltip: "'Maple'"
+	DisplayName: Картина «Великий песчаный червь»
+	Tooltip: "'Мейпл'"
 }
 
 TheYhar: {
-	DisplayName: ":THE_YHAR:"
-	Tooltip: "'You gotta admit, he's a very cool dude despite his crimes'"
+	DisplayName: "Картина «ЯР»"
+	Tooltip: "'Согласитесь, несмотря на все свои преступления, он крут'"
 }
 
 UCMMPainting: {
-	DisplayName: Vanilla Calamity Mod Music
+	DisplayName: Картина «Мод Vanilla Calamity Music»
 	Tooltip:
 		'''
-		'World of sound'
-		'IbanPlay'
+		'Мир звуков'
+		'ИбанПлей'
 		'''
 }
 
 UnholyTrip: {
-	DisplayName: Unholy Trip
-	Tooltip: "'Triangle'"
+	DisplayName: Картина «Нечестивая поездка»
+	Tooltip: "'Триангл'"
 }
 
 VVanities: {
-	DisplayName: V for Vanities!
+	DisplayName: Картина «В - это Ванитис!»
 	Tooltip:
 		'''
-		'V!'
-		'Willow'
+		'В!'
+		'Уиллоу'
 		'''
 }
 
 WilliamPainting: {
-	DisplayName: Calamity's Vanities (alt)
-	Tooltip: "'Giacomo'"
+	DisplayName: Картина «Каламити Ванитис» (альтернативная)
+	Tooltip: "'Гиакомо'"
 }
 
 WormHeaven: {
-	DisplayName: Worm to the Heavens
+	DisplayName: Картина «Червь в небесах»
 	Tooltip:
 		'''
-		'One day...'
-		'Maple'
+		'Однажды...'
+		'Мейпл'
 		'''
 }
 
 Yharlamitas: {
-	DisplayName: Calamity Moment
-	Tooltip: Wait...
+	DisplayName: Картина «Каламити момент»
+	Tooltip: Подождите...
 }
 
 PlagueDialysis: {
-	DisplayName: Swarmer Conservation Tube
-	Tooltip: "'Sealed away for eternity'"
+	DisplayName: Консервационный контейнер с роителем
+	Tooltip: "'Навечно запечатан'"
 }
 
 AcidGun: {
-	DisplayName: Acid Tape Dispenser
-	Tooltip: Places an infinite amount of Sulphurous Vines
+	DisplayName: Кислотный диспенсер ленты
+	Tooltip: Размещает бесконечное количество Сернистых лиан
 }
 
 Anemone: {
-	DisplayName: Potted Anemone
+	DisplayName: Анемон в горшке
 	Tooltip: ""
 }
 
 AstralOldPurple: {
-	DisplayName: Potted Purple Xenomonolith
+	DisplayName: Пурпурный ксеномонолит в горшке
 	Tooltip: ""
 }
 
 AstralOldYellow: {
-	DisplayName: Potted Yellow Xenomonolith
+	DisplayName: Жёлтый ксеномонолит в горшке
 	Tooltip: ""
 }
 
 BelchingCoral: {
-	DisplayName: Sulphuric Coral
-	Tooltip: "'Don't put your bare hand into it'"
+	DisplayName: Сернистый коралл
+	Tooltip: "'Не суйте туда голую руку'"
 }
 
 BloodstoneRoses: {
-	DisplayName: Bloodstone Roses
+	DisplayName: Розы кровавого камня
 	Tooltip: ""
 }
 
 BotanicPot: {
-	DisplayName: Botanic Bonsai
+	DisplayName: Ботанический бонсай
 	Tooltip: ""
 }
 
 BrainCoral: {
-	DisplayName: Potted Brain Coral
+	DisplayName: Мозговой коралл в горшке
 	Tooltip: ""
 }
 
 EidolonTree: {
-	DisplayName: Eidolic Tree
+	DisplayName: Эйдолонское дерево
 	Tooltip: ""
 }
 
 FanCoral: {
-	DisplayName: Potted Fan Coral
+	DisplayName: Веерообразный коралл в горшке
 	Tooltip: ""
 }
 
 FleshThing: {
-	DisplayName: Living Grass
-	Tooltip: A strange fleshy substance birthed by the crimson and cared for by Draedon
+	DisplayName: Живая трава
+	Tooltip: Странная мясистая субстанция, порожденная багрянцем и взращенная Дрэйдоном
 }
 
 HolyStudedBonsai: {
-	DisplayName: Holy Studded Bonsai
+	DisplayName: Бонсай со священными шипами
 	Tooltip: ""
 }
 
 MonolithPot: {
-	DisplayName: Potted Astral Monolith
+	DisplayName: Астральный монолит в горшке
 	Tooltip: ""
 }
 
 NetherTree: {
-	DisplayName: Twisting Nether Sapling
-	Tooltip: Vicious
+	DisplayName: Саженец искривлённой пустоты
+	Tooltip: Зло
 }
 
 NetherTreeBig: {
-	DisplayName: Twisting Nether Tree
-	Tooltip: Vehement
+	DisplayName: Дерево искривлённой пустоты
+	Tooltip: Неистоство
 }
 
 OddMushroomPot: {
-	DisplayName: Odd Mushroom Pot
-	Tooltip: Now you can grow your own shrooms!... Not really
+	DisplayName: Странный гриб в горшке
+	Tooltip: Вы можете выращивать свои собственные грибы!.. не совсем
 }
 
 PottedDecapoditaSprout: {
-	DisplayName: Potted Decapodita Sprout
-	Tooltip: Have a fungus
+	DisplayName: Саженец десятинога в горшке
+	Tooltip: Держи гриб
 }
 
 SSCoral: {
-	DisplayName: Potted Sunken Coral
+	DisplayName: Затерянный коралл в горшке
 	Tooltip: ""
 }
 
 SulphurousCactus: {
-	DisplayName: Potted Sulphurous Cactus
+	DisplayName: Сернистый картус в горшке
 	Tooltip: ""
 }
 
 SulphurousPlanter: {
-	DisplayName: Acid Vine Planter
-	Tooltip: You are baffled by how they are standing up
+	DisplayName: Сеятель сернистой лозы
+	Tooltip: Вы сбиты с толку тем, как они стоят
 }
 
 TableCoral: {
-	DisplayName: Potted Table Coral
+	DisplayName: Настольный коралл в горшке
 	Tooltip: ""
 }
 
 AnahitaPlush: {
 	DisplayName: Плюшевая Анахита
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 ApolloPlush: {
-	DisplayName: Плюшевый Апполон
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Аполлон
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 AquaticScourgePlush: {
 	DisplayName: Плюшевый Акватический бич
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 AresPlush: {
 	DisplayName: Плюшевый Арес
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 ArtemisPlush: {
 	DisplayName: Плюшевая Артемида
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 AstrageldonPlush: {
 	DisplayName: Плюшевый Астрагельдон
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 AstrumAureusPlush: {
-	DisplayName: Плюшевый Астрам Ареус
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Аструм Ареус
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 AstrumDeusPlush: {
-	DisplayName: Плюшевый Астрам Деус
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Аструм Деус
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 BrimstoneElementalPlush: {
 	DisplayName: Плюшевый Серный элементаль
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 BumblefuckPlush: {
 	DisplayName: Плюшевый Псевдодракон
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 CalamitasFumo: {
@@ -3948,67 +3956,67 @@ CalamitasFumo: {
 
 CeaselessVoidPlush: {
 	DisplayName: Плюшевая Нескончаемая пустота
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 ClonePlush: {
 	DisplayName: Плюшевый Клон Каламитас
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 CrabulonPlush: {
 	DisplayName: Плюшевый Крабулон
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 CryogenPlush: {
-	DisplayName: Плюшевый Криогне
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Криоген
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 DesertScourgePlush: {
-	DisplayName: Плющевый Пустынный бич
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Пустынный бич
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 DevourerofGodsPlush: {
 	DisplayName: Плюшевый Пожиратель богов
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 DraedonPlush: {
 	DisplayName: Плюшевый Дрэйдон
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 GiantClamPlush: {
-	DisplayName: Плюшевый гигансткий моллюск
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый гигантский моллюск
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 HiveMindPlush: {
 	DisplayName: Плюшевый Разум улья
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 HypnosPlush: {
-	DisplayName: Плюшевый Гипноз
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Гипнос
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 JaredPlush: {
-	DisplayName: Плюшевый Первозданный змей
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Первозданный змий
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 LeviathanPlush: {
-	DisplayName: Плюшевый Левиафан
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевая Левиафан
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 MaulerPlush: {
 	DisplayName: Плюшевый мучитель
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 MirePlushP1: {
@@ -4023,416 +4031,401 @@ MirePlushP2: {
 
 NuclearTerrorPlush: {
 	DisplayName: Плюшевый ядерный террор
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 OldDukePlush: {
-	DisplayName: Плюшевыйв Старый герцог
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Старый герцог
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 PerforatorPlush: {
 	DisplayName: Плюшевый Перфоратор
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 PlaguebringerGoliathPlush: {
 	DisplayName: Плюшевая Разносчица чумы, Голиаф
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 PolterghastPlush: {
 	DisplayName: Плюшевый Полтергаст
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 ProfanedGuardianPlush: {
 	DisplayName: Плюшевый Осквернённый страж
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 ProvidencePlush: {
 	DisplayName: Плюшевая Провиденс
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 RavagerPlush: {
 	DisplayName: Плюшевый Разрушитель
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 SandSharkPlush: {
-	DisplayName: Плюшевая великая песчаная акула
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевая Великая песчаная акула
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 SignusPlush: {
 	DisplayName: Плюшевый Сигнус
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 SlimeGodPlush: {
 	DisplayName: Плюшевый Бог слизней
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 StormWeaverPlush: {
 	DisplayName: Плюшевый Штормовой ткач
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 ThanatosPlush: {
 	DisplayName: Плюшевый Танатос
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 YharonPlush: {
 	DisplayName: Плюшевый Ярон
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 PongMachine: {
-	DisplayName: Pong Machine
+	DisplayName: Автомат для игры в пинг-понг
 	Tooltip:
 		'''
-		INCOMPLETE ITEM, EXTREMELY UNSTABLE
-		Pong game
+		НЕЗАВЕРШЁННЫЙ ПРЕДМЕТ, КРАЙНЕ НЕСТАБИЛЕН
+		Пинг-понг
 		'''
 }
 
 RespirationShrine: {
-	DisplayName: Respiration Shrine
+	DisplayName: Святилище дыхания
 	Tooltip:
 		'''
-		Provides infinite breath in the Abyss within a certain radius, for your Abyss base needs.
-		Deactivating will near instantly cause you to start drowning
-		'Basically cheating.'
+		Обеспечивает бесконечным запасом воздуха в бездне в пределах определенного радиуса
+		Отключение мгновенно приведет к тому, что вы начнёте тонуть
+		'Короче, читы'
 		'''
 }
 
 Ribrod: {
 	DisplayName: Компенсация
-	Tooltip: Can be sold
+	Tooltip: Можно продать
 }
 
 RoxFake: {
 	DisplayName: Компенсация
-	Tooltip: Can be sold
+	Tooltip: Можно продать
 }
 
 SailfishTrophy: {
-	DisplayName: Sailfish Trophy
+	DisplayName: Настенный марлин
 	Tooltip:
 		'''
-		'What if it were you 
-		hanging up on this wall?'
+		'А если бы вас 
+		повесили на эту стену?'
 		'''
 }
 
 SchematicDisplay: {
-	DisplayName: Schematic Display
+	DisplayName: Схематичный дисплей
 	Tooltip:
 		'''
-		Displays a letter
-		<right> to display another letter
+		Отображает букву
+		Нажмите <right>, чтобы сменить букву
 		'''
 }
 
 Se: {
-	DisplayName: Tubeman of Entropy
+	DisplayName: Человек-труба энтропии
 	Tooltip:
 		'''
-		Inflates into a flailing Sepulcher balloon
-		'Embrace chaos'
+		Надувается, превращаясь в трепыхающийся шарик-могильщик
+		'Прими хаос'
 		'''
 }
 
 StarstruckSynthesizer: {
-	DisplayName: Starstruck Synthesizer
-	Tooltip: Used for special crafting
+	DisplayName: Синтезатор падающей звезды
+	Tooltip: Используется для создания особых предметов
 }
 
 C: {
-	DisplayName: Statue of Calamity
-	Tooltip: A tale begins
+	DisplayName: Статуя бедствия
+	Tooltip: История начинается
 }
 
 EyedolStatue: {
-	DisplayName: Eyedol Statue
+	DisplayName: Статуя взордола
 	Tooltip: ""
 }
 
 IsopodStatue: {
-	DisplayName: Abyssal Isopod Statue
+	DisplayName: Статуя глубинного изопода
 	Tooltip: ""
 }
 
 Knight: {
-	DisplayName: Earthen Knight Statue
-	Tooltip: "'Not tournament legal'"
+	DisplayName: Статуя землистого рыцаря
+	Tooltip: "'Не соответствует правилам турнира'"
 }
 
 NukeFlyStatue: {
-	DisplayName: Vaporofly Statue
+	DisplayName: Статуя испаромухи
 	Tooltip: ""
 }
 
 PlagueFrogStatue: {
-	DisplayName: Plague Frog Statue
+	DisplayName: Статуя чумной лягушки
 	Tooltip: ""
 }
 
 Provibust: {
-	DisplayName: Profaned Idol
-	Tooltip: "'I shall die for you m'lord'"
+	DisplayName: Осквернённый идол
+	Tooltip: "'Я умру за вас, мой господин'"
 }
 
 ShrineoftheTides: {
-	DisplayName: Shrine of the Tides
-	Tooltip: My gift to the Water Elemental
+	DisplayName: Святилище Приливов
+	Tooltip: Мой подарок Водному элементалю
 }
 
 ViolemurStatue: {
-	DisplayName: Violemur Statue
+	DisplayName: Статуя пурлемура
 	Tooltip: ""
 }
 
 SulphurColumn: {
 	DisplayName: Компенсация
-	Tooltip: Can be sold
+	Tooltip: Можно продать
 }
 
 SulphurGeyser: {
-	DisplayName: Steam Geyser
+	DisplayName: Паровой гейзер
 	Tooltip:
 		'''
-		Right click to cycle between variants
-		'Hazardous! Be careful!'
+		Нажмите <right>, чтобы сменить вариант
+		'Опасно! Будьте осторожны!'
 		'''
 }
 
 SulphuricTank: {
-	DisplayName: Sulphuric Tank
-	Tooltip: ZZZX93
+	DisplayName: Сернистый контейнер
+	Tooltip: 'ZZZX93'
 }
 
 SunkenLamp: {
-	DisplayName: Sunken Lamp
-	Tooltip: Trippy
+	DisplayName: Затерянная напольная лампа
+	Tooltip: 'Прикольная'
 }
 
 TerminusShrine: {
-	DisplayName: Terminus Shrine
-	Tooltip: An altar made to hold the apocalyptic artifact
+	DisplayName: Святилище Терминуса
+	Tooltip: Алтарь, созданный для хранения апокалиптического артефакта
 }
 
 TerminusShrine2: {
-	DisplayName: Terminus Shrine Level 2
-	Tooltip: An altar witholding an apocalyptic artifact
+	DisplayName: Святилище Терминуса (2 уровень)
+	Tooltip: Алтарь, на котором хранится апокалиптический артефакт
 }
 
 TerminusShrine3: {
-	DisplayName: Terminus Shrine Level 3
-	Tooltip: The End.
+	DisplayName: Святилище Терминуса (3 уровень)
+	Tooltip: Конец.
 }
 
 Tesla: {
-	DisplayName: Storm Coil
-	Tooltip: Zap
+	DisplayName: Штормовая катушка
+	Tooltip: 'Бзз'
 }
 
 VisceralAltarItem: {
-	DisplayName: Visceral Altar
-	Tooltip: Counts as a crimson altar
+	DisplayName: Висцеральный алтарь
+	Tooltip: Считается багряным алтарём
 }
 
 VoidPortal: {
-	DisplayName: Void Portal
-	Tooltip: The void calls out
+	DisplayName: Пустотный портал
+	Tooltip: 'Пустота взывает'
 }
 
 YellowSeaFountain: {
-	DisplayName: Yellow Sea Fountain
+	DisplayName: Фонтан жёлтого моря
 	Tooltip: ""
 }
 
 AstralDirtWall: {
-	DisplayName: Blighted Astral Dirt Wall
+	DisplayName: Заражённая астральная земляная стена
 	Tooltip: ""
 }
 
 AstralGrassWall: {
-	DisplayName: Blighted Astral Grass Wall
+	DisplayName: Заражённая астральная травяная стена
 	Tooltip: ""
 }
 
 AstralHardenedSandWall: {
-	DisplayName: Hardened Blighted Astral Sand Wall
+	DisplayName: Стена из затвердевшего заражённого астрального песка
 	Tooltip: ""
 }
 
 AstralIceWall: {
-	DisplayName: Blighted Astral Ice Wall
+	DisplayName: Стена из заражённого астрального льда
 	Tooltip: ""
 }
 
 AstralSandstoneWall: {
-	DisplayName: Blighted Astral Sandstone Wall
+	DisplayName: Стена из заражённого астрального песчаника
 	Tooltip: ""
 }
 
 XenomonolithWall: {
-	DisplayName: Xenomonolith Wall
+	DisplayName: Ксеномонолитная стена
 	Tooltip: ""
 }
 
 XenostoneWall: {
-	DisplayName: Xenostone Wall
+	DisplayName: Ксенокаменная стена
 	Tooltip: ""
 }
 
 AstralBrickWall: {
-	DisplayName: Blighted Astral Brick Wall
+	DisplayName: Стена из заражённого астрального кирпича
 	Tooltip: ""
 }
 
 AstralPearlWall: {
-	DisplayName: Astral Pearl Wall
+	DisplayName: Стена из астрального жемчуга
 	Tooltip: ""
 }
 
 AstralPlatingWall: {
-	DisplayName: Astral Plating Wall
+	DisplayName: Стена из астрального покрытия
 	Tooltip: ""
 }
 
 AuricBrickWall: {
-	DisplayName: Auric Brick Wall
+	DisplayName: Ауритовая кирпичная стена
 	Tooltip: ""
 }
 
 BlightedEggWall: {
-	DisplayName: Blighted Egg Wall
+	DisplayName: Стена из заражённых яиц
 	Tooltip: ""
 }
 
 BloodstoneBrickWall: {
-	DisplayName: Bloodstone Brick Wall
+	DisplayName: Стена из кирпича кровавого камня
 	Tooltip: ""
 }
 
 BloodstoneWall: {
-	DisplayName: Bloodstone Wall
+	DisplayName: Стена из кровавого камня
 	Tooltip: ""
 }
 
 ChiseledBloodstoneBrickWall: {
-	DisplayName: Chiseled Bloodstone Brick Wall
+	DisplayName: Отделанная стена из кирпича кровавого камня
 	Tooltip: ""
 }
 
 EidolicSlabWall: {
-	DisplayName: Eidolic Slab Wall
+	DisplayName: Эйдолонская стена из плитки
 	Tooltip: ""
 }
 
 FrostflakeWall: {
-	DisplayName: Frostflake Brick Wall
+	DisplayName: Стена из снежинкового кирпича
 	Tooltip: ""
 }
 
 HallowedBrickWall: {
-	DisplayName: Hallowed Brick Wall
+	DisplayName: Стена из освящённого кирпича
 	Tooltip: ""
 }
 
 MossyGravelWall: {
 	DisplayName: Компенсация
-	Tooltip: Can be sold
+	Tooltip: Можно продать
 }
 
 NecrostoneWall: {
-	DisplayName: Necrostone Wall
+	DisplayName: Некрокаменная стена
 	Tooltip: ""
 }
 
 PhantowaxWall: {
-	DisplayName: Phantowax Wall
+	DisplayName: Фантовосковая стена
 	Tooltip: ""
 }
 
 PlagueHiveWall: {
-	DisplayName: Plague Hive Wall
+	DisplayName: Стена чумного улья
 	Tooltip: ""
 }
 
 PolishedAstralMonolithWall: {
-	DisplayName: Polished Astral Monolith Wall
+	DisplayName: Полированная стена из астрального монолита
 	Tooltip: ""
 }
 
 PolishedXenomonolithWall: {
-	DisplayName: Polished Xenomonolith Wall
+	DisplayName: Полированная ксеномонолитная стена
 	Tooltip: ""
 }
 
 ShadowBrickWall: {
-	DisplayName: Shade Brick Wall
+	DisplayName: Тенекирпичная стена
 	Tooltip: ""
 }
 
 WulfrumPanelWall: {
-	DisplayName: Wulfrum Panel Wall
+	DisplayName: Вульфрумовая панельная стена
 	Tooltip: ""
 }
 
 XenoSolution: {
-	DisplayName: Blighted Astral Solution
+	DisplayName: Заразный астральный раствор
 	Tooltip:
 		'''
-		Used by the Clentaminator
-		Spreads the Astral Blight
+		Используется «Очистителем»
+		Распространяет астральную заразу
 		'''
 }
 
 YellowSolution: {
 	DisplayName: Компенсация
-	Tooltip: Can be sold
+	Tooltip: Можно продать
 }
 
 KnowledgeFogbound: {
-	DisplayName: Fogbound
+	DisplayName: История - Туманокованный
 	Tooltip: ""
-	Lore:
-		'''
-		Undoubtedly one of the most threatening beings in Terraria, for even I nearly lost my life in my encounter with him.
-		Upon readying my final blow against the Death God, he cowardly split his soul from his body in hopes to evade his demise.
-		His incorporeal form returned to haunt me as the Fogbound, and attempted to cut my life short before I could formulate a strategic retreat.
-		Fortunately, however, he had a fatal weakness: as his physical body withered away, so too did the brain that his ghostly form still relied on.
-		Using his newfound lack of wits to my advantage, I led him into a carefully laid trap containing sealing runes placed by the Archmage.
-		It was a success. I swiftly sealed the spirit away inside the nearest object to myself, with fate deeming my jester an adequate vessel.
-		Ironic that of all the gods, it was the one who's domain was Death that feared dying the most.
-		'''
-	ShortTooltip:
-		'''
-		[c/E3AF40:Whispers from on high dance in your ears...]
-		[c/BEBEBE:Press "Left Shift" to listen closer]
-		'''
 }
 
 SulphuricDye: {
-	DisplayName: Sulphuric Dye
+	DisplayName: Сернистый краситель
 	Tooltip: ""
 }
 
 TyrantFeed: {
-	DisplayName: Tyrant Feed
-	Tooltip: Potassium
+	DisplayName: Картина «Новостной канал Тирана»
+	Tooltip: Калий
 }
 
 GoozmaPlush: {
 	Tooltip: ""
-	DisplayName: Goozma Plushie
+	DisplayName: Плюшевый Гузма
 }
 
 GoozmaPlushThrowable: {
@@ -4441,284 +4434,157 @@ GoozmaPlushThrowable: {
 }
 
 Aeroplate: {
-	DisplayName: Aeroplate
+	DisplayName: Аэропластина
 	Tooltip: ""
 }
 
 AeroplateWall: {
-	DisplayName: Aeroplate Wall
+	DisplayName: Стена из аэропластин
 	Tooltip: ""
 }
 
 ProvidenceAltar: {
-	DisplayName: Holder of the Profaned Godess' Core
-	Tooltip: Holds the core of the Profaned Goddess
+	DisplayName: Держать ядра осквернённой богини
+	Tooltip: Держит ядро осквернённой богини
 }
 
 PolterCable: {
-	DisplayName: Polter Cable
+	DisplayName: Полтеркабель
 	Tooltip: ""
 }
 
 PolterRemote: {
-	DisplayName: Polter Remote
+	DisplayName: Полтерпульт
 	Tooltip: ""
 }
 
 PolterDrawOrderer: {
-	DisplayName: Polter Draw Orderer
+	DisplayName: Полтеррисовальщик
 	Tooltip: ""
 }
 
 PolterRemoteChainer: {
-	DisplayName: Polter Remote Chainer
+	DisplayName: Полтерудалённыйцепник
 	Tooltip: ""
 }
 
 Booger: {
-	DisplayName: Grand Marquis Block
-	Tooltip: "'Booger'"
+	DisplayName: Блок великого маркиза
+	Tooltip: "'Козявки'"
 }
 
 FriendExtinguisher: {
-	DisplayName: Friend Extinguisher
-	Tooltip: Toggles Fanny the Flame
+	DisplayName: Друг-огнетушитель
+	Tooltip: Включает/выключает Фанни Огонька
 }
 
 TestDye: {
-	DisplayName: Test Dye
+	DisplayName: Тестовый краситель
 	Tooltip: ""
 }
 
 MireP1Plush: {
-	DisplayName: Shielded Cragmaw Mire Plushie
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый скалистый скалозев с щитом
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 MireP2Plush: {
-	DisplayName: Slimy Cragmaw Mire Plushie
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый склизкий скалистый скалозев
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 CalamitasPlush: {
-	DisplayName: Calamitas Plushie
+	DisplayName: Плюшевая Каламитас
 	Tooltip:
 		'''
-		'A dark artifact that must be handled with care'
-		Right click to throw!
+		'Тёмный артефакт, с которым нужно обращаться осторожно'
+		Нажмите <right>, чтобы бросить!
 		'''
 }
 
 ShadowPlush: {
-	DisplayName: Forgotten Shadow of Calamitas Plushie
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевая Забытая тень Каламитас
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 BereftVassalPlush: {
-	DisplayName: Bereft Vassal Plushie
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Обездоленный вассал
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 Ohio: {
-	DisplayName: Ohio
-	Tooltip: "'Chroma'"
+	DisplayName: Огайо
+	Tooltip: "'Хрома'"
 }
 
 DraedonCart: {
-	DisplayName: Draedon Cart
-	Tooltip: "'Draedon's true greatest invention'"
+	DisplayName: Дрэйдононетка
+	Tooltip: "'Настоящее величайшее изобретение Дрэйдона'"
 }
 
 LeviathanEXPlush: {
-	DisplayName: Leviathan Plushie (EX)
+	DisplayName: Плюшевая Левиафан (EX)
 	Tooltip:
 		'''
-		Can be shrunken with Shimmer
-		Right click to throw!
+		Можно уменьшить, бросив в мерцание
+		Нажмите <right>, чтобы бросить!
 		'''
 }
 
 YharonEXPlush: {
-	DisplayName: Yharon Plushie (EX)
+	DisplayName: Плюшевый Ярон (EX)
 	Tooltip:
 		'''
-		Can be shrunken with Shimmer
-		Right click to throw!
+		Можно уменьшить, бросив в мерцание
+		Нажмите <right>, чтобы бросить!
 		'''
 }
 
 DevourerofGodsEXPlush: {
-	DisplayName: Devourer of Gods Plushie (EX)
+	DisplayName: Плюшевый Пожиратель богов (EX)
 	Tooltip:
 		'''
-		Can be shrunken with Shimmer
-		Right click to throw!
+		Можно уменьшить, бросив в мерцание
+		Нажмите <right>, чтобы бросить!
 		'''
 }
 
 ExodygenPlush: {
-	DisplayName: Exodygen Plush
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Экзодиген
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 ExotrexiaPlush: {
-	DisplayName: Exotrexia Plush
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Экзотронерекс
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 AstigmageddonPlush: {
-	DisplayName: Astigmageddon Plush
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Астигеддон
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 CataractacombPlush: {
-	DisplayName: Cataractacomb Plush
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Катаратомб
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 ConjunctivirusPlush: {
-	DisplayName: Conjunctivirus Plush
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Конъюнктивирус
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 PolyphemalusPlush: {
-	DisplayName: Polyphemalus Plush
-	Tooltip: Нажмите ПКМ, чтобы бросить!
+	DisplayName: Плюшевый Полифецефалус
+	Tooltip: Нажмите <right>, чтобы бросить!
 }
 
 YhogoStick: {
-	DisplayName: Godseeking Pogo Stick
-	Tooltip: "'Yharim would most definitely hate you for this'"
+	DisplayName: Богоищущий джампер
+	Tooltip: "'Ярим определённо возненавидит вас за это'"
 }
 
 AstralUndergroundMusicBox: {
-	DisplayName: Astral Underground Music Box
-	Tooltip: ""
-}
-
-AuricFirework: {
-	DisplayName: Auric Firework
-	Tooltip: Explodes into fireworks shaped like nearly any item in the game
-}
-
-OgliveBranch: {
-	DisplayName: Oglive Branch
-	Tooltip: ""
-}
-
-NamelessDeityPlush: {
-	DisplayName: Nameless Deity Plush
-	Tooltip: Нажмите ПКМ, чтобы бросить!
-}
-
-NamelessDeityEXPlush: {
-	DisplayName: Nameless Deity Plush (EX)
-	Tooltip:
-		'''
-		Can be shrunken with Shimmer
-		Right click to throw!
-		'''
-}
-
-BottledSulphurousWater: {
-	DisplayName: Bottled Sulphurous Water
-	Tooltip: Probably not healthy to drink
-}
-
-Corruppuccino: {
-	DisplayName: Corruppuccino
-	Tooltip:
-		'''
-		Summons a tired Hive Mind and its family
-		'Drink up!'
-		'''
-}
-
-EntropicNoxusPlush: {
-	DisplayName: Entropic Noxus Plush
-	Tooltip: Нажмите ПКМ, чтобы бросить!
-}
-
-PaintedGoggles: {
-	DisplayName: Painted Goggles
-	Tooltip:
-		'''
-		Use this to toggle Calamity's Vanities' April Fools boss sprites
-		Can only be used in singleplayer
-		Does not work while Infernum Mode is enabled
-		'''
-	Enabled: Painted sprites forcefully enabled
-	Disabled: Painted sprites forcefully disabled
-}
-
-MarsPlush: {
-	DisplayName: Mars Plush
-	Tooltip: Нажмите ПКМ, чтобы бросить!
-}
-
-AvatarPlush: {
-	DisplayName: Avatar of Emptiness Plush
-	Tooltip: Нажмите ПКМ, чтобы бросить!
-}
-
-AvatarEXPlush: {
-	DisplayName: Avatar of Emptiness Plush (EX)
-	Tooltip:
-		'''
-		Can be shrunken with Shimmer
-		Right click to throw!
-		'''
-}
-
-Fool: {
-	DisplayName: The Fool
-	Tooltip: "'Maple'"
-}
-
-FoolEX: {
-	DisplayName: The Fool (EX)
-	Tooltip: "'Maple'"
-}
-
-SignathionPlush: {
-	DisplayName: Signathion Plush
-	Tooltip: Нажмите ПКМ, чтобы бросить!
-}
-
-SeaguardShield: {
-	DisplayName: Seaguard Shield
-	Tooltip:
-		'''
-		'Maybe he would have won the fight
-		...if his shield wasn't made of paper mache'
-		'''
-}
-
-DustyGuitar: {
-	DisplayName: Dusty Guitar
-	Tooltip:
-		'''
-		'Full of music to soothe the soul
-		and sand'
-		'''
-}
-
-WulfrumGrappler: {
-	DisplayName: Wulfrum Grabbler
-	Tooltip:
-		'''
-		Grabbed tiles act as pivot point from which the user swings forward from
-		Reach: 15
-		Launch Velocity: 8
-		'''
-}
-
-DarklightMushroomCap: {
-	DisplayName: Darklight Mushroom Cap
-	Tooltip: ""
-}
-
-MushroomCap: {
-	DisplayName: Mushroom Cap
+	DisplayName: Музыкальная шкатулка (Астральные пещеры)
 	Tooltip: ""
 }

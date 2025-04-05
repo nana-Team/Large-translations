@@ -2,14 +2,14 @@ Mods: {
 	CalamityFables: {
 		Tiles: {
 			StormlionLarvaBanner.MapEntry: Знамя
-			HookstaffBuriedTile.MapEntry: Клюка
-			HookstaffTile.MapEntry: Клюка
+			HookstaffBuriedTile.MapEntry: Багор
+			HookstaffTile.MapEntry: Багор
 			NautilusPedestal.MapEntry: ""
-			GrapplerSpawnerTile.MapEntry: Спаунер
-			MagnetizerSpawnerTile.MapEntry: Спаунер
-			MortarSpawnerTile.MapEntry: Спаунер
-			RollerSpawnerTile.MapEntry: Спаунер
-			RoverSpawnerTile.MapEntry: Спаунер
+			GrapplerSpawnerTile.MapEntry: Голограмма
+			MagnetizerSpawnerTile.MapEntry: Голограмма
+			MortarSpawnerTile.MapEntry: Голограмма
+			RollerSpawnerTile.MapEntry: Голограмма
+			RoverSpawnerTile.MapEntry: Голограмма
 			GeodeCrawlerBanner.MapEntry: Знамя
 			WulfrumGrapplerBanner.MapEntry: Знамя
 			WulfrumMagnetizerBanner.MapEntry: Знамя
@@ -29,7 +29,7 @@ Mods: {
 			WulfrumComputer.MapEntry: Компьютер
 			WulfrumComputerPoster.MapEntry: Постер
 			WulfrumCrate.MapEntry: Ящик
-			WulfrumDesk.MapEntry: Тумбочка
+			WulfrumDesk.MapEntry: Рабочий стол
 			WulfrumDiggingTurtlePoster.MapEntry: Постер
 			WulfrumDoorClosed.MapEntry: Дверь
 			WulfrumDoorOpen.MapEntry: Дверь
@@ -39,7 +39,7 @@ Mods: {
 			WulfrumGyratorPoster.MapEntry: Постер
 			WulfrumHatchClosed.MapEntry: Люк
 			WulfrumHatchOpen.MapEntry: Люк
-			WulfrumLocker.MapEntry: Подвестной шкафчик
+			WulfrumLocker.MapEntry: Подвесной шкафчик
 			WulfrumMagnetizerPoster.MapEntry: Постер
 			WulfrumModularChair.MapEntry: Модульное кресло
 			WulfrumMortarPoster.MapEntry: Постер
@@ -81,13 +81,13 @@ Mods: {
 			SandstoneCampfireTile.MapEntry: Костёр
 			SandyTentTile.MapEntry: Палатка
 			MakeshiftStoolTile.MapEntry: Табуретка
-			DesertBrazierTile.MapEntry: Чаша с огнём
+			DesertBrazierTile.MapEntry: Жаровня
 			DesertBrickPillarTile.MapEntry: Колонна из песчаного кирпича
 			SandstonePillarTile.MapEntry: Колонна из песчаника
 			ShatteredTabletPaintingTile.MapEntry: Скрижаль
 			DustyBricks.MapEntry: Пыльный кирпич
 			GrimyGrate.MapEntry: Грязная решётка
-			IndustrialWulfrumTubeLight.MapEntry: Индустриальная люминесцентная лампа
+			IndustrialWulfrumTubeLight.MapEntry: Промышленная люминесцентная лампа
 			BunkerScreenRubble.MapEntry: Экран
 			BunkerScreenRubbleEcho.MapEntry: Экран
 			BunkerShelfRubble.MapEntry: Полка
@@ -119,12 +119,12 @@ Mods: {
 				}
 
 				Crabulon: {
-					SpawnInfo: Изредка выглядывает из почвы пещер светящихся грибов, если ещё не был убит до этого — потревожьте его в этот момент, чтобы начать бой. В качестве альтернативы, привлеките его внимание [i:{0}] клюкой, стоя на траве светящихся грибов.
+					SpawnInfo: Изредка выглядывает из почвы пещер светящихся грибов, если ещё не был убит до этого — потревожьте его в этот момент, чтобы начать бой. В качестве альтернативы, привлеките его внимание [i:{0}] багором, стоя на траве светящихся грибов.
 					Despawn: В пещерах светящихся грибов снова воцаряется тишина...
 				}
 
 				Nautilus: {
-					SpawnInfo: Встретьтесь с одиноким воином в тайной пещере, сокрытой в глубине пустыни, и вызовите его на дуэль. Пещеру можно отыскать под древним кладбищем, что до сих пор находится где-то на поверхности пустыни.
+					SpawnInfo: Встретьтесь с одиноким воином в пещере, сокрытой в глубине пустыни, и вызовите его на дуэль. Пещеру можно отыскать под древним кладбищем, что до сих пор находится где-то на поверхности пустыни.
 					Despawn: Похоже, в этой дуэли победа достаётся Наутилусу...
 				}
 			}
@@ -150,7 +150,7 @@ Mods: {
 			CrabSpirit.DisplayName: Дух краба
 			InfestationExplosionHitbox.DisplayName: Мицелиевый взрыв
 			InfestationRot.DisplayName: Гниль
-			InkyCapGuardian.DisplayName: Страж в чернильной шамочке
+			InkyCapGuardian.DisplayName: Страж в чернильной шапочке
 			InkyCapSporeBomb.DisplayName: Семя
 			ManaMushroom.DisplayName: Мана-гриб
 			MushSlingshot.DisplayName: Грибной крюк
@@ -371,7 +371,7 @@ Mods: {
 			}
 
 			Hookstaff: {
-				DisplayName: Клюка
+				DisplayName: Багор
 				Tooltip:
 					'''
 					Используется для ковыряния в мицелии светящихся грибов
@@ -406,27 +406,27 @@ Mods: {
 			}
 
 			GrapplerSpawner: {
-				DisplayName: Спаунер зацепщика
+				DisplayName: Голограмма зацепщика
 				Tooltip: ""
 			}
 
 			MagnetizerSpawner: {
-				DisplayName: Спаунер магнетизёра
+				DisplayName: Голограмма магнетизёра
 				Tooltip: ""
 			}
 
 			MortarSpawner: {
-				DisplayName: Спаунер миномётчика
+				DisplayName: Голограмма миномётчика
 				Tooltip: ""
 			}
 
 			RollerSpawner: {
-				DisplayName: Спаунер катка
+				DisplayName: Голограмма катка
 				Tooltip: ""
 			}
 
 			RoverSpawner: {
-				DisplayName: Спаунер скитальца
+				DisplayName: Голограмма скитальца
 				Tooltip: ""
 			}
 
@@ -529,7 +529,7 @@ Mods: {
 			}
 
 			OrnamentalHookstaff: {
-				DisplayName: Декоративная клюка
+				DisplayName: Декоративный багор
 				Tooltip: ""
 			}
 
@@ -549,7 +549,7 @@ Mods: {
 			}
 
 			SerratedFiberCloak: {
-				DisplayName: Накидка из островолоконной ткани
+				DisplayName: Накидка из цепких волокон
 				Tooltip:
 					'''
 					Заменяет ваш экипированный крюк тремя мощными мицелиевыми крюками
@@ -612,10 +612,10 @@ Mods: {
 			}
 
 			AmpstringBow: {
-				DisplayName: Лук со струной-усилителем
+				DisplayName: Лук с токопроводящей тетивой
 				Tooltip:
 					'''
-					Нажмите ПКМ, чтобы выстрелить иглой-проводником
+					Нажмите ПКМ, чтобы выстрелить токопроводящей иглой
 					Между иглами автоматически образуется электрическая дуга
 					Враги, попавшие под действие этой электрической дуги, будут получать больше урона от стрел
 					'''
@@ -633,7 +633,7 @@ Mods: {
 
 			DeadStormlionLarvaCageItem: {
 				DisplayName: Террариум с мёртвой личинкой штормового льва
-				Tooltip: «Что-то не так...»
+				Tooltip: «Что-то здесь не так...»
 			}
 
 			IntestinalScarf: {
@@ -1085,7 +1085,7 @@ Mods: {
 				Tooltip:
 					'''
 					Стреляет быстрыми сериями снарядов средней дальности
-					[c/878787:«Кому нужны хлысты, когда вы можете просто призывать самого себя?»]
+					[c/878787:«Кому нужны хлысты, когда вы можете просто призвать самого себя?»]
 					'''
 			}
 
@@ -1587,22 +1587,22 @@ Mods: {
 			}
 
 			MycelialHeadstoneItem: {
-				DisplayName: Мицеливое надгробие
+				DisplayName: Мицелиевое надгробие
 				Tooltip: ""
 			}
 
 			MycelialGravestoneItem: {
-				DisplayName: Мицеливая могильная плита
+				DisplayName: Мицелиевая могильная плита
 				Tooltip: ""
 			}
 
 			MycelialGraveMarkerItem: {
-				DisplayName: Мицеливая могильная табличка
+				DisplayName: Мицелиевая могильная табличка
 				Tooltip: ""
 			}
 
 			MycelialTombstoneItem: {
-				DisplayName: Мицеливая надгробная плита
+				DisplayName: Мицелиевая надгробная плита
 				Tooltip: ""
 			}
 
@@ -1878,7 +1878,7 @@ Mods: {
 				DisplayName: Вульфрумовый постер «Компьютер»
 				Tooltip:
 					'''
-					«Содержит целый террабайт оперативной памяти, всецельно использующийся для поисковой системы товара Вульфрум Корпорейшен!
+					«Содержит целый терабайт оперативной памяти, всецельно использующийся для поисковой системы товаров Вульфрум Корпорейшен!
 					Предоставляется с заранее установленной последней версией “Wulfrum OS DX“»
 					'''
 			}
@@ -1909,7 +1909,7 @@ Mods: {
 			}
 
 			WulfrumElevatorBaseItem: {
-				DisplayName: Вульфрамовое основание лифта
+				DisplayName: Вульфрумовое основание лифта
 				Tooltip: Соединяется с лифтовыми путями и лифтовыми станциями
 			}
 
@@ -1924,12 +1924,12 @@ Mods: {
 			}
 
 			WulfrumElevatorRailItem: {
-				DisplayName: Вольфрумовый лифтовой путь
+				DisplayName: Вульфрумовый лифтовой путь
 				Tooltip: ""
 			}
 
 			WulfrumElevatorStationItem: {
-				DisplayName: Вольфрумовая лифтовая станция
+				DisplayName: Вульфрумовая лифтовая станция
 				Tooltip: ""
 			}
 
@@ -1939,7 +1939,7 @@ Mods: {
 			}
 
 			WulfrumForkAntennaItem: {
-				DisplayName: Вилочная вульфрумовая антена
+				DisplayName: Вилочная вульфрумовая антенна
 				Tooltip: ""
 			}
 
@@ -1954,7 +1954,7 @@ Mods: {
 			}
 
 			WulfrumGlassWallItem: {
-				DisplayName: Вулфрумовая тонированная стеклянная стена
+				DisplayName: Вульфрумовая тонированная стеклянная стена
 				Tooltip: ""
 			}
 
@@ -1967,7 +1967,7 @@ Mods: {
 				DisplayName: Вульфрумовый постер «Вращатель»
 				Tooltip:
 					'''
-					«Всё новое — это хорошо забытое старое! Погрузитесь в ностальгию прошлого с этой незабываемой класикой Вульфрум Корпорейшен!
+					«Всё новое — это хорошо забытое старое! Погрузитесь в ностальгию прошлого с этой незабываемой классикой Вульфрум Корпорейшен!
 					Выдаётся беспластно за любую покупку в Вульфрум Корпорейшен»
 					'''
 			}
@@ -2007,7 +2007,7 @@ Mods: {
 				Tooltip:
 					'''
 					«После многочисленных просьб и отзывов, роботы-доставщики от Вульфрум Корпорейшен теперь будут на всех прилавках Земли!
-					[c/EED202:ВНИМАНИЕ!] Не пытайтесь перевозить изделия содержащие железо»
+					[c/EED202:ВНИМАНИЕ!] Не пытайтесь перевозить изделия, содержащие железо»
 					'''
 			}
 
@@ -2306,7 +2306,7 @@ Mods: {
 
 			DebugItem2: {
 				Tooltip: ""
-				DisplayName: Предмет отладки2
+				DisplayName: Предмет отладки 2
 			}
 
 			DebugItem: {
@@ -2321,11 +2321,11 @@ Mods: {
 
 			HookstaffDisplayIcon: {
 				Tooltip: ""
-				DisplayName: Иконка клюки
+				DisplayName: Иконка багора
 			}
 
 			WulfrumBigConduitExhaustItem: {
-				DisplayName: Большой вульфрумовый проводник-выхлоп
+				DisplayName: Большой вульфрумовый сливной патрубок
 				Tooltip:
 					'''
 					Выпускает пар при подключении к верхней или боковым сторонам магистрали
@@ -2334,7 +2334,7 @@ Mods: {
 			}
 
 			WulfrumConduitExhaustItem: {
-				DisplayName: Вульфрумовый проводник-выхлоп
+				DisplayName: Вульфрумовый сливной патрубок
 				Tooltip:
 					'''
 					Выпускает пар при подключении к верхней или боковым сторонам магистрали
@@ -2348,12 +2348,12 @@ Mods: {
 			}
 
 			CrabulonBossMaskAlt1: {
-				DisplayName: Маска Крабулона с грибами
+				DisplayName: Грибная маска Крабулона
 				Tooltip: ""
 			}
 
 			CrabulonBossMaskAlt2: {
-				DisplayName: Маска Крабулона с наростами
+				DisplayName: Заросшая маска Крабулона
 				Tooltip: ""
 			}
 
@@ -2389,12 +2389,12 @@ Mods: {
 			SirNautilusPassive.DisplayName: Господин Наутилус
 			ASTARCRAWLER.DisplayName: АСТАР ПОЛЗУН
 			Potlet.DisplayName: Горшочничек
-			GeodeCrawler.DisplayName: Жеодный ползун
+			GeodeCrawler.DisplayName: Жеодовый ползун
 			CloudSprite.DisplayName: Облачный дух
 			WulfrumGrappler.DisplayName: Вульфрумовый цеплятель
 			WulfrumMagnetizer.DisplayName: Вульфрумовый магнетизёр
 			WulfrumMortar.DisplayName: Вульфрумовый миномётчик
-			WulfrumNexus.DisplayName: Вульфрумовое узел связи
+			WulfrumNexus.DisplayName: Вульфрумовый узел связи
 			WulfrumRoller.DisplayName: Вульфрумовый каток
 			WulfrumRover.DisplayName: Вульфрумовый скиталец
 			WulfrumElevatorPlatform.DisplayName: ""

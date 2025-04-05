@@ -56,10 +56,10 @@ Mods: {
 		}
 
 		ModifyWorldGenTasks: {
-			GeneratingSurfaceStructures: Строительство наземных структур...
-			GeneratingAbandonedVillage: Строительство заброшенной деревни...
+			GeneratingSurfaceStructures: Создание наземных структур...
+			GeneratingAbandonedVillage: Создание заброшенной деревни...
 			GeneratingSkyArtifacts: Создание небесных артефактов...
-			GeneratingAPyramid: Строительство Пирамиды...
+			GeneratingAPyramid: Создание Пирамиды...
 			GeneratingGemStructures: Создание самоцветных строений...
 		}
 
@@ -174,7 +174,7 @@ Mods: {
 			EF: " элементальный фрагмент"
 			EP: " элементальное покрытие"
 			AS: " семя цветка"
-			CC: " Circuit Component"
+			CC: " элемент сдавливания"
 		}
 
 		KeyBindName: {
@@ -1208,7 +1208,7 @@ Mods: {
 			}
 
 			BoneClapper: {
-				DisplayName: Хлопатель костей
+				DisplayName: Костяной схлопыватель
 				Tooltip:
 					'''
 					Заряжайте для увеличения урона вплоть до 450%
@@ -1749,7 +1749,7 @@ Mods: {
 			}
 
 			DissolvingEarth: {
-				DisplayName: DИссекающий элемент земли
+				DisplayName: Иссекающий элемент земли
 				Tooltip: Temporary Tooltip
 			}
 
@@ -1922,15 +1922,15 @@ Mods: {
 			}
 
 			PrecariousCluster: {
-				DisplayName: Primordial Cluster
+				DisplayName: Первозданное скопление
 				Tooltip:
 					'''
-					Does the following while in your inventory:
+					Даёт следующие эффекты при нахождении в инвентаре:
 					Nature
 					Earth
 					Aurora
 					Aether
-					'A great gift for your friend's inventory!'
+					«Отличный подарок лучшему другу!»
 					'''
 			}
 
@@ -2074,11 +2074,11 @@ Mods: {
 			}
 
 			HydraulicPress: {
-				DisplayName: Hydraulic Press
+				DisplayName: Гидравлический пресс
 				Tooltip:
 					'''
-					Automatically crushes enemies that walk inside
-					Players are not safe from taking damage
+					Автоматически расплющивает проходящих через него врагов
+					Игроки не защищены от получения урона
 					'''
 			}
 
@@ -2101,14 +2101,14 @@ Mods: {
 
 			EmeraldRing: {
 				DisplayName: Кольцо Левиафана
-				Tooltip: С врагов с 14,3% шансов выпадет удвоенная добыча
+				Tooltip: С врагов с 14,3% шансом выпадет удвоенная добыча
 			}
 
 			RubyRing: {
 				DisplayName: Кольцо Вельзевула
 				Tooltip:
 					'''
-					При убийстве врага с 50% шансом с него выпадую дополнительные сердца
+					При убийстве врага с 50% шансом с него выпадут дополнительные сердца
 					Этот шанс увеличивается до 100% при критических попаданиях
 					Подбор сердец увеличивает длительность активных баффов
 					'''
@@ -2121,7 +2121,7 @@ Mods: {
 
 			TopazRing: {
 				DisplayName: Кольцо Сатаны
-				Tooltip: Убийство врага даст случайный бафф на 30 секунд
+				Tooltip: Убийство врага даст случайный 30-секундный бафф
 			}
 
 			SOTSRubyGemLock: {
@@ -2587,8 +2587,8 @@ Mods: {
 			}
 
 			CrescentStaff: {
-				DisplayName: Crescent Staff
-				Tooltip: Cast a wave of Crescents that each lock onto an enemy, and then steal life and mana from them
+				DisplayName: Посох полумесяца
+				Tooltip: Выпускает 3 полумесяца, выстреливающих в врагов, похищая их здоровье и ману
 			}
 
 			FlareDetonator: {
@@ -2925,16 +2925,16 @@ Mods: {
 			}
 
 			FrigidCrown: {
-				DisplayName: Frigid Crown
-				Tooltip: Adds an additional burst to the Shard Staff and Storm Spell
+				DisplayName: Леденящая корона
+				Tooltip: Посох осколка и «Штормовое заклинание» будут выпускать дополнительный снаряд
 			}
 
 			FrigidGreaves: {
-				DisplayName: Frigid Greaves
+				DisplayName: Леденящие поножи
 				Tooltip:
 					'''
-					Grants Ice Skates effect
-					Increases movement and void attack speed by 10%
+					{$ItemTooltip.IceSkates}
+					Увеличивает скорость передвижения и пустотных атак на 10%
 					'''
 			}
 
@@ -2954,13 +2954,13 @@ Mods: {
 			}
 
 			FrigidJavelin: {
-				DisplayName: Frigid Javelin
-				Tooltip: Throw a powerful, fast traveling javelin that ricochets of surfaces
+				DisplayName: Леденящее копьё
+				Tooltip: Бросает сильное быстролетящее копьё, отскакивающие от твёрдых поверхностей
 			}
 
 			FrigidRobe: {
-				DisplayName: Frigid Robe
-				Tooltip: Frigid Javelin gains better bouncing capabilities
+				DisplayName: Леденящая мантия
+				Tooltip: Леденящее копьё будет лучше отскакивать от поверхностей
 			}
 
 			FrostArtifact: {
@@ -3319,25 +3319,24 @@ Mods: {
 			}
 
 			CursedRobe: {
-				DisplayName: Cursed Robe
+				DisplayName: Проклятая мантия
 				Tooltip:
 					'''
-					Increases maximum mana and void by 80
-					Reduces mana and void usage by 15%
-					Summons a Ruby Monolith to your side
-					The Ruby Monolith increases your void regeneration speed by 10%
+					Увеличивает максимальный запас маны и пустоты на 80 ед.
+					Снижает расход маны и пустоты на 15%
+					Призывает за вашу спину рубиновый монолит, увеличивающий скорость восполнения пустоты на 10%
 					'''
 			}
 
 			CursedHood: {
-				DisplayName: Cursed Hood
+				DisplayName: Проклятый капюшон
 				Tooltip:
 					'''
-					Increases magic damage and void damage by 8%
-					Increases magic critical strike chance and void critical strike chance by 5%
-					The closest enemy to you is afflicted with a curse
-					Upon taking damage, cursed enemies will Flare, taking 140% additional damage and dealing 140% damage to other nearby enemies
-					This effect has a 2 second cooldown
+					Увеличивает магический и пустотный урон на 8%
+					Увеличивает шанс магического и пустотного критичсеого удара на 5%
+					На ближайшего к ваш врагу будет наложено проклятье
+					При получении им урона, проклятый враг взрывается огнём, полуая дополнительные 140% урона и наносит 140% урона другим ближайшим врагам
+					Эта способность имеет 2 секунды перезарядки
 					'''
 			}
 
@@ -4277,7 +4276,7 @@ Mods: {
 			}
 
 			DigitalDaito: {
-				DisplayName: Digital Daito
+				DisplayName: Цифровой дайто
 				Tooltip: ""
 			}
 
@@ -5268,10 +5267,10 @@ Mods: {
 			}
 
 			ChallengerRing: {
-				DisplayName: Challenger's Ring
+				DisplayName: Кольцо челленджера
 				Tooltip:
 					'''
-					Right click while favorited to invert the currently selected gem, disabling the effect of the gem and enabling the inverted effect
+					Нажмите ПКМ по предмету, когда он находится в избранном, чтобы инвентировать эффект выбранного самоцвета
 					0
 					1
 					2
@@ -5280,60 +5279,60 @@ Mods: {
 					5
 					6
 					'''
-				G0: Chain together blocks when mining, breaking up to 50 blocks at once
-				G1: Killing enemies grants a random buff for 30 seconds
-				G2: Generate coins when void is gained
-				G3: Enemies have a 14.3% chance to drop double the loot
+				G0: Объединяет добываемые и ближайшие блоки в единую цепь, позволяющую добывать до 50 блоков за раз
+				G1: Убийство врага даст случайный 30-секундный бафф
+				G2: Создаёт монеты при восполнении пустоты
+				G3: С врагов с 14,3% шансом выпадет удвоенная добыча
 				G4:
 					'''
-					Killed enemies have a 50% chance to drop additional hearts
-					This chance increases to 100% with critical strikes
-					Collecting hearts lengthens the duration of active buffs
+					При убийтсве врага с 50% шансом с него выпадут дополнительные сердца
+					Этот шанс увеличивается до 100% при критических ударах
+					Подбор сердец увеличивает длительность активных баффов
 					'''
 				G5:
 					'''
-					Increase damage based on defense, then decreases defense by a third of the damage buff
-					Increases damage by {0}%
-					Decreases defense by {1}
+					Увеличивает урон в зависимости от защиты, а затем снижает вашу защиту на треть от полученного бонуса к урону
+					Увеличивает урон на {0}%
+					Снижает защиту на {1} ед.
 					'''
-				G6: Getting hit grants a random buff for 30 seconds
+				G6: Получение удара даёт случайный 30-секундный бафф
 				# Opposite of Sloth, Diligence
 				I0:
 					'''
-					Increases block and wall placement speed by 20% and placement range by 3
-					Increases movement speed by 20%
+					Увеличивает скорость установки блоков и стен на 20%, а также дальность их установки на 3 блока
+					Увеличивает скорость передвижения на 20%
 					'''
 				# Opposite of Wrath, Patience
-				I1: Receive a random buff for 30 seconds every 20 seconds
+				I1: Даёт случайный 30-секундный бафф каждые 20 секунд
 				# Opposite of Greed, Charity
 				I2:
 					'''
-					When hurt, 10% of damage taken is converted into void
-					When using void, 10% of the void used is converted into life
+					Конвертирует 10% полученного урона в пустоту
+					Конвертирует 10% использованной пустоты в здоровье
 					'''
 				# Opposite of Envy, Kindness
 				I3:
 					'''
-					Reduce damage taken by 15%
-					Reduce damage dealt by 15%
+					Увеличивает снижение урона на 15%
+					Увеличивает наносимый урон на 15%
 					'''
 				# Opposite of Gluttony, Temperance
 				I4:
 					'''
-					Grants permanent Well Fed
-					Void consumables refill 75% less void
+					Даёт бесконечный эффект баффа «{$BuffName.WellFed}»
+					Зелья, восполняющие пустоту, будут восполнять на 75% меньше пустоты
 					'''
 				# Opposite of Pride, Humility
 				I5:
 					'''
-					You can no longer critically strike
-					Increases received to critical strike chance are converted into multiplicative increases to damage
+					Вы не сможете наносить критические удары
+					Текущий бонус к шансу критического урона конвертируется в множитель итогового урона
 					'''
 				# Opposite of Lust, Chastity
 				I6:
 					'''
-					Buffs do not decay while above 90% life
-					Getting hit while below 90% life causes all buff durations to halve
+					Оставшееся время длительности баффов останавливается, когда у вас более 90% здоровья
+					Получение урона , когда у вас более 90% здоровья, сокращает оставшееся время длительности баффов в двое
 					'''
 			}
 
@@ -5501,22 +5500,22 @@ Mods: {
 
 		ItemTooltip: {
 			DissolvingElements: {
-				DissolvingNatureNormal: Reduces damage dealt by 10% while in the inventory
-				DissolvingNatureFlipped: Increases life regeneration by 1 while in the inventory, up to 4 total
-				DissolvingEarthNormal: Reduces endurance by 10% while in the inventory
-				DissolvingEarthFlipped: Increases defense by 2 while in the inventory, up to 8 total
-				DissolvingAuroraNormal: Reduces movement speed by 20% while in the inventory
-				DissolvingAuroraFlipped: Increases movement speed by 5% while in the inventory, up to 20% total
-				DissolvingDelugeNormal: Decreases max life and mana by 10 while in the inventory
-				DissolvingDelugeFlipped: Increases ranged damage by 3% while in the inventory, up to 12% total
-				DissolvingAetherNormal: Reduces gravity while in the inventory
-				DissolvingAetherFlipped: Increases magic damage by 3% while in the inventory, up to 12% total
-				DissolvingUmbraNormal: Reduces max void by 20 while in the inventory
-				DissolvingUmbraFlipped: Increases void damage by 3% while in the inventory, up to 12% total
-				DissolvingNetherNormal: Decreases life regeneration by 2 while in the inventory
-				DissolvingNetherFlipped: Increases melee damage by 3% while in the inventory, up to 12% total
-				DissolvingBrillianceNormal: Increases void drain by 0.5 while in the inventory
-				DissolvingBrillianceFlipped: Increases summon damage by 3% while in the inventory, up to 12% total
+				DissolvingNatureNormal: Снижает наносимый урон на 10% при нахождении в инветаре
+				DissolvingNatureFlipped: Ускоряет регенерацию здоровья на 1 ед. (0,5 ОЗ/сек) за каждый элемент в инветаре, вплоть до 4 ед. (2 ОЗ/сек)
+				DissolvingEarthNormal: Снижает сопротивление урону на 10% при нахождении в инветаре
+				DissolvingEarthFlipped: Увеличивает защиту на 2 ед. за каждый элемент в инветаре, вплоть до 8 ед.
+				DissolvingAuroraNormal: Снижает скорость передвижения на 20% при нахождении в инветаре
+				DissolvingAuroraFlipped: Увеличивает скорость передвижения на 5% за каждый элемент в инвентаре, вплоть до 20%
+				DissolvingDelugeNormal: Снижает максимальный запас здоровья на 10 ед. при нахождении в инвентаре
+				DissolvingDelugeFlipped: Увеличивает стрелковый урон на 3% за каждый элемент в инветаре, вплоть до 12%
+				DissolvingAetherNormal: Ослабляет влияние гравитации при нахождении в инвентаре
+				DissolvingAetherFlipped: Увеличивает магический урон на 3% за каждый элемент в инветаре, вплоть до 12%
+				DissolvingUmbraNormal: Снижает максимальный запас пустоты на 20 ед. при нахождении в инветаре
+				DissolvingUmbraFlipped: Увеличивает пустотный урон на 3% за каждый элемент в инветаре, вплоть до 12%
+				DissolvingNetherNormal: Снижает регенерацию здоровья на 2 ед. (1 ОЗ/сек) при нахождении в инветаре
+				DissolvingNetherFlipped: Увеличивает урон ближнего боя на 3% за каждый элемент в инветаре, вплоть до 12%
+				DissolvingBrillianceNormal: Поглощает 0,5 ед. пустоты в секунду при нахождении в инветаре
+				DissolvingBrillianceFlipped: Увеличивает урон призывателя на 3% за каждый элемент в инветаре, вплоть до 12%
 			}
 		}
 
@@ -5933,9 +5932,9 @@ Mods: {
 				'''
 			Cursed:
 				'''
-				Press '{0}' to change the Ruby Monolith into an offensive stance
-				While in offensive stance, decreases the cooldown of Curse Flaring by 80%
-				However, increases void drain by 6 instead of increasing void regeneration speed by 10%
+				Нажмите клавишу «Бонус комплекта брони» ({0}), чтобы перевести рубиновый монолит в режим атаки
+				В режиме атаки, монолит снижает время перезарядки наложения проклятья на 80%
+				Однако, вместо бонуса к скорости восполнения пустоты монолит будет поглощать 6 ед. пустоты в секунду
 				'''
 			PatchLeather: Summons a flock of flying snakes to assist in combat
 			Voidspace:
@@ -6470,24 +6469,24 @@ Mods: {
 
 		PrecariousClusterTextList: {
 			0: Снижает наносимый урон на 10%
-			1: Скоряет регенерацию здоровья на 1 ед. (0,5 ОЗ/сек), если это значение не превышает 4 ед.
+			1: Скоряет регенерацию здоровья на 1 ед. (0,5 ОЗ/сек) за каждое скопление в инвентаре, вплоть до 4 ед. (2 ОЗ/сек)
 			2: Снижает сопротивление к урону на 10%
-			3: Увеличивает защиту на 2 ед., если это значение не превышает 8 ед.
+			3: Увеличивает защиту на 2 ед. за каждое скопление в инвентаре, вплоть до 8 ед.
 			4: Снижает защиту на 20%
-			5: Увеличивает скорость передвижения на 5%, если это значение не превышает 20%
+			5: Увеличивает скорость передвижения на 5% за каждое скопление в инвентаре, вплоть до 20%
 			6: Ослабляет влияние гравиации
-			7: Увеличивает магичсекий урон на 3%, если это значение не превышает 12%
+			7: Увеличивает магичсекий урон на 3% за каждое скопление в инвентаре, вплоть до 12%
 		}
 
 		TerminalClusterTextList: {
 			0: Снижает максимальный запас здоровья и маны на 10 ед.
-			1: Увелиичивает стрелковый урон на 3%, если это значение не превышает 12%
+			1: Увелиичивает стрелковый урон на 3% за каждое скопление в инвентаре, вплоть до  12%
 			2: Снижает максимальный запас пустоты на 20 ед. при нахождении в инветаре
-			3: Увелчивает пустотный урон на 3%, если это значение не превышает 12%
+			3: Увелчивает пустотный урон на 3% за каждое скопление в инвентаре, вплоть до  12%
 			4: Замедляет регенерацию здоровья на 2 ед. (1 ОЗ/сек)
-			5: Увеличивает урон ближнего боя на 3, если это значение не превышает 12%
-			6: Увеличивает поглощение пустоты на 0,5 ед. при нахождении в инветаре
-			7: Увеличивает урон призывателя на 3%, если это значение не превышает 12%
+			5: Увеличивает урон ближнего боя на 3 за каждое скопление в инвентаре, вплоть до  12%
+			6: Поглощает 0,5 ед. пустоты в секунду при нахождении в инветаре
+			7: Увеличивает урон призывателя на 3% за каждое скопление в инвентаре, вплоть до  12%
 		}
 
 		MachinaBoosterText:
@@ -6495,14 +6494,14 @@ Mods: {
 			Позвоялет летать и парить
 			Увеличивает получаемое количство пустоты на 1 ед.
 			Нажмите клавишу «Переключить режим полёта» ({0}), чтобы ускорить полёт во всех направлениях за 5 ед. пустоты в секунду
-			Увеличивает поглощение пустоты на 3 ед., когда эффект активен
+			Поглащает 3 ед. пустоты в секунду, когда эффект активен
 			'''
 		MachinaBoosterText2:
 			'''
 			Позвоялет летать и парить
 			Увеличивает получаемое количство пустоты на 1 ед.
 			Нажмите клавишу «Переключить режим полёта» ({0}), чтобы ускорить полёт во всех направлениях за 5 ед. пустоты в секунду
-			Увеличивает поглощение пустоты на 3 ед., когда эффект активен
+			Поглащает 3 ед. пустоты в секунду, когда эффект активен
 			'''
 		BlinkPackText:
 			'''

@@ -216,8 +216,8 @@ Mods: {
 			WulfrumHook.DisplayName: Вульфрумовый канат
 			WulfrumManaDrain.DisplayName: Похищение маны
 			WulfrumScaffoldKitHoldout.DisplayName: Вульфрумовый набор строительных лесов
-			WulfrumScrapBullet.DisplayName: Высокосокростной металлалом
-			WulfrumScrapFalling.DisplayName: Падающий вульфрумовый металлалом
+			WulfrumScrapBullet.DisplayName: Высокоскоростной металлолом
+			WulfrumScrapFalling.DisplayName: Падающий вульфрумовый металлолом
 			WulfrumScrew.DisplayName: Винт
 			WulfrumScrewdriverProj.DisplayName: Отвёртка
 			CloudSpriteFist.DisplayName: Облачный удар

@@ -1,4 +1,4 @@
-	Mods: {
+Mods: {
 	CalamityFables: {
 		Tiles: {
 			StormlionLarvaBanner.MapEntry: Знамя
@@ -347,7 +347,7 @@
 
 			StormlionLarvaBannerItem: {
 				DisplayName: Знамя личинки штормового льва
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Личинка шторомового льва"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}Личинка штормового льва"
 			}
 
 			StormlionLarvaItem: {
@@ -506,7 +506,7 @@
 
 			LuminousMixture: {
 				DisplayName: Светящийся раствор
-				Tooltip: Даёт кратковременный прилив сил после использовании исцеляющих предметов
+				Tooltip: Даёт кратковременный прилив сил после использования исцеляющих предметов
 			}
 
 			MoldyPicklaw: {
@@ -874,7 +874,7 @@
 					Добавляет переключатель слева от инвентаря
 					Переключатель позволяет изменить внешний вид надгробий, выпадающих при смерти
 					В переключателе также можно полностью отключить появление надгробий после смерти
-					Надгробия, соответсвующие биому, в котором вы умерли, не считаются за нагробья для создания минибиома кладбища
+					Надгробия, соответствующие биому, в котором вы умерли, не считаются за надгробья для создания минибиома кладбища
 					'''
 			}
 
@@ -1163,7 +1163,7 @@
 
 			GeodeCrawlerBannerItem: {
 				DisplayName: Знамя жеодового ползуна
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Жеодный ползун"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}Жеодовый ползун"
 			}
 
 			CloudSpriteBannerItem: {
@@ -1202,8 +1202,8 @@
 			}
 
 			CeilingChisel: {
-				DisplayName: Потолочкая стаместка
-				Tooltip: Вырезает царапины в потолке, заставляя его осыпаться
+				DisplayName: Потолочная стамеска
+				Tooltip: Делает небольшие надрезы на потолке, заставляя его осыпаться
 			}
 
 			CorruptRockySandstoneWallItem: {
@@ -1487,22 +1487,22 @@
 			}
 
 			GoldenMycelialCrossGraveMarkerItem: {
-				DisplayName: Золотой мицеливый могильный крест
+				DisplayName: Золотой мицелиевый могильный крест
 				Tooltip: ""
 			}
 
 			GoldenMycelialGraveMarkerItem: {
-				DisplayName: Золотая мицеливая могильная табличка
+				DisplayName: Золотая мицелиевая могильная табличка
 				Tooltip: ""
 			}
 
 			GoldenMycelialHeadstoneItem: {
-				DisplayName: Золотое мицеливое надгробие
+				DisplayName: Золотое мицелиевое надгробие
 				Tooltip: ""
 			}
 
 			GoldenMycelialTombstoneItem: {
-				DisplayName: Золотая мицеливая надгробная плита
+				DisplayName: Золотая мицелиевая надгробная плита
 				Tooltip: ""
 			}
 
@@ -1612,7 +1612,7 @@
 			}
 
 			PearlwoodGraveMarkerItem: {
-				DisplayName: Деревянная жемчужная могильная табличка
+				DisplayName: Могильная табличка из жемчужной древесины
 				Tooltip: ""
 			}
 
@@ -1627,7 +1627,7 @@
 			}
 
 			SandstoneGraveMarkerItem: {
-				DisplayName: Жемчужная могильная табличка
+				DisplayName: Песчаниковая могильная табличка
 				Tooltip: ""
 			}
 
@@ -1762,7 +1762,7 @@
 			}
 
 			SpiderSaplingItem: {
-				DisplayName: Саженец паучей пальмы
+				DisplayName: Саженец паучьей пальмы
 				Tooltip: ""
 			}
 
@@ -1900,7 +1900,7 @@
 
 			WulfrumDiggingTurtlePosterItem: {
 				DisplayName: Вульфрумовый постер «Черепаха-копатель»
-				Tooltip: «Долгожданное продолжение игры Кроты Онлайн™! Благодаря своей черепашости, они продерживаются на ТРИ секунды дольше, прежде чем взорваться!»
+				Tooltip: «Долгожданное продолжение игры Кроты Онлайн™! Благодаря своей черепашности, они работают на ТРИ секунды дольше, перед тем как взорваться!»
 			}
 
 			WulfrumDoorItem: {
@@ -1998,7 +1998,7 @@
 			}
 
 			WulfrumLockerItem: {
-				DisplayName: Вульфрумовый подвестной шкафчик
+				DisplayName: Вульфрумовый подвесной шкафчик
 				Tooltip: ""
 			}
 

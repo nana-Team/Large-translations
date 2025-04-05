@@ -1,4 +1,4 @@
-Mods: {
+	Mods: {
 	CalamityFables: {
 		Tiles: {
 			StormlionLarvaBanner.MapEntry: Знамя
@@ -1162,7 +1162,7 @@ Mods: {
 			}
 
 			GeodeCrawlerBannerItem: {
-				DisplayName: Знамя жеодного ползуна
+				DisplayName: Знамя жеодового ползуна
 				Tooltip: "{$CommonItemTooltip.BannerBonus}Жеодный ползун"
 			}
 

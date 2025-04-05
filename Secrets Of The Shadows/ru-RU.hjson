@@ -3062,17 +3062,17 @@ Mods: {
 			}
 
 			ShatterHeartShield: {
-				DisplayName: Shatter Heart Shield
+				DisplayName: Щит разбитого сердца
 				Tooltip:
 					'''
-					Getting hit surrounds you with ice shards
-					Increases max life by 20
+					При получении урона, вокруг вас начнут вращаться ледяные осколки
+					Увеличивает максимальный запас здоровья на 20 ед.
 					'''
 			}
 
 			ShatterShardChestplate: {
-				DisplayName: Shatter Shard Chestplate
-				Tooltip: Getting hit surrounds you with ice shards
+				DisplayName: Нагрудник ледяного осколка
+				Tooltip: При получении урона, вокруг вас начнут вращаться ледяные осколки
 			}
 
 			ShoeIce: {
@@ -3319,7 +3319,7 @@ Mods: {
 			}
 
 			CursedRobe: {
-				DisplayName: Проклятая мантия
+				DisplayName: Мантия проклинания
 				Tooltip:
 					'''
 					Увеличивает максимальный запас маны и пустоты на 80 ед.
@@ -3329,7 +3329,7 @@ Mods: {
 			}
 
 			CursedHood: {
-				DisplayName: Проклятый капюшон
+				DisplayName: Капюшон проклинания
 				Tooltip:
 					'''
 					Увеличивает магический и пустотный урон на 8%
@@ -4040,8 +4040,8 @@ Mods: {
 			}
 
 			FrigidPickaxe: {
-				DisplayName: Frigid Pickaxe
-				Tooltip: Able to mine Hellstone
+				DisplayName: Леденящая кирка
+				Tooltip: Может добывать адский камень
 			}
 
 			ManicMiner: {
@@ -5112,7 +5112,7 @@ Mods: {
 			}
 
 			FrigidHamaxe: {
-				DisplayName: Frigid Hamaxe
+				DisplayName: Леденящий молотопор
 				Tooltip: ""
 			}
 
@@ -5267,7 +5267,7 @@ Mods: {
 			}
 
 			ChallengerRing: {
-				DisplayName: Кольцо челленджера
+				DisplayName: Кольцо испытаний
 				Tooltip:
 					'''
 					Нажмите ПКМ по предмету, когда он находится в избранном, чтобы инвентировать эффект выбранного самоцвета
@@ -5921,14 +5921,14 @@ Mods: {
 				'''
 			Frigid:
 				'''
-				Frigid Javelin no longer costs void
-				Decreases void damage by 15%
+				Леденящее копьё больше не будет расходывать пустоту
+				Снижает пустотный урон на 15%
 				'''
 			FrostArtifact: Most melee and ranged attacks summon a handful of Polar Cannons that each deal 25% damage
 			ShatterShard:
 				'''
-				Increases life regeneration by 2
-				Immunity to Chilled, Frozen, and Frostburn
+				Ускоряет регенерацию здоровья на 2 ед. (1 ОЗ/сек)
+				Даёт невосприимчивость к дебаффам «{$BuffName.Chilled}», «{$BuffName.Frozen}» и «{$BuffName.Frostburn}»
 				'''
 			Cursed:
 				'''

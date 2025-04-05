@@ -69,8 +69,8 @@ Mods: {
 			WulfrumRotorLandfill.MapEntry: Груда металлолома
 			WulfrumSmokingPipes.MapEntry: Труба
 			CloudSpriteBanner.MapEntry: Знамя
-			HookstaffBuriedTileEcho.MapEntry: Клюка
-			HookstaffTileEcho.MapEntry: Клюка
+			HookstaffBuriedTileEcho.MapEntry: Багор
+			HookstaffTileEcho.MapEntry: Багор
 			StormlionBanner.MapEntry: Знамя
 			WulfrumBigRotorLandfill.MapEntry: Груда металлолома
 			DustyCrates.MapEntry: Ящик
@@ -164,8 +164,8 @@ Mods: {
 			PeculiarPotTarBlot.DisplayName: Смоляной брызг
 			PeculiarPotTarRing.DisplayName: Смола
 			PeculiarPotTarTrail.DisplayName: Смола
-			AmpstringArrow.DisplayName: Стрела струны-усилителя
-			AmpstringNeedle.DisplayName: Игла струны-усилителя
+			AmpstringArrow.DisplayName: Токопроводящая стрела
+			AmpstringNeedle.DisplayName: Токопроводящая игла
 			CarrionDetonatorMeatBlast.DisplayName: Мясовзрыв
 			CarrionDetonatorMeatChunk.DisplayName: Мясной шар
 			CarrionDetonatorWindWave.DisplayName: Ветряной разрез

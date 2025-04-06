@@ -28,7 +28,7 @@ MysteriaChest: {
 }
 
 MysteriaHelmet: {
-	DisplayName: Фата из местернии
+	DisplayName: Фата из мистернии
 	Tooltip:
 		'''
 		Увеличивает скорость добычи
@@ -239,8 +239,8 @@ ThePlantItem: {
 }
 
 ApotheoticPaintingItem: {
-	DisplayName: Apotheotic
-	Tooltip: "'Emily A.'"
+	DisplayName: Апофеозный
+	Tooltip: «Emily A.» 
 }
 
 HardyVineBook: {

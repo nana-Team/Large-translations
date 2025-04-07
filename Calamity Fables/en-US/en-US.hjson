@@ -495,7 +495,7 @@ Mods: {
 				Tooltip:
 					'''
 					Summons an Inky Cap Guardian to fight for you
-					Right click to enroot the Guardian, creating a healing aura for you and other players
+					<right> to enroot the Guardian, creating a healing aura for you and other players
 					The enrooted Guardian can also be used as a trampoline
 					You can only have one guardian summoned at once
 					Requires two minion slots
@@ -610,7 +610,7 @@ Mods: {
 				DisplayName: Ampstring Bow
 				Tooltip:
 					'''
-					Right clicking launches conductive needles
+					<right> to launch a conductive needle
 					Needles arc electricity between each other
 					Enemies caught in the electric field are more vulnerable to arrows
 					'''
@@ -622,7 +622,7 @@ Mods: {
 					'''
 					Fires lacerating sand gusts capable of severing flesh chunks from enemies
 					Flesh chunks merge together, increasing their size and potency
-					Right click to detonate all flesh chunks
+					<right> to detonate all flesh chunks
 					'''
 			}
 
@@ -657,9 +657,9 @@ Mods: {
 				Tooltip:
 					'''
 					Your summons will focus tagged enemies
-					Hold left click to hook the whip into enemies
+					Hold <left> to hook the whip into enemies
 					Hooked enemies build up static electricity, minion damage expedites this
-					Release left click to detonate static electricity
+					Release <left> to detonate static electricity
 					'''
 			}
 
@@ -711,7 +711,7 @@ Mods: {
 				DisplayName: Crackshot Colt
 				Tooltip:
 					'''
-					Right click to toss a coin into the air
+					<right> to toss a coin into the air
 					Bullets ricochet off coins into nearby enemies
 					Coin tosses consume copper coins
 					'''
@@ -737,7 +737,7 @@ Mods: {
 				Tooltip:
 					'''
 					Clogs up with gore when striking enemies
-					Right click to expel the clogged up gore
+					<right> to expel the clogged up gore
 					[c/A1A1A1:'What are you, some sort of circular-saw man?']
 					'''
 			}
@@ -781,19 +781,15 @@ Mods: {
 
 			SpikedBall: {
 				DisplayName: Spiked Ball
-				Tooltip:
-					'''
-					Hold SHIFT to throw the ball with a ballistic trajectory
-					'God gives its toughest zombies to its spikiest balls'
-					'''
+				Tooltip: Hold SHIFT to throw the ball with a ballistic trajectory
 			}
 
 			ToxicBlowpipe: {
 				DisplayName: Toxic Blowpipe
 				Tooltip:
 					'''
-					Left-click to coat your Darts with defense-reducing acid
-					Right-click to coat your Darts with life-draining neurotoxin
+					<left> to coat your Darts with defense-reducing acid
+					<right> to coat your Darts with life-draining neurotoxin
 					The chemicals are particularly volatile when combined...
 					'''
 			}
@@ -1020,13 +1016,10 @@ Mods: {
 				DisplayName: Wulfrum Acrobatics Pack
 				Tooltip:
 					'''
-					This mess of cogs and wires in a box retools the winch mechanism of hooks to transform them into a wulfrum slingshot
-					The wulfrum slingshot trades the ability to reel you back in for advanced rope physics, letting you swing around the hook as you please
-					Holding the UP key while grappled will slowly retract the hook
-					Additionally, the pack automatically attempts to grapple a nearby wall if it detects danger from fall damage
-					This safety feature won't activate if the down key is being held
-					Provides moderate light
-					8% increased movement speed
+					Retools hooks into a wulfrum slingshot with swinging physics
+					Hold UP to retract the hook
+					Automatically attempts to grapple a nearby tiles when about to take fall damage, unless DOWN is held
+					{0}% increased movement speed
 					'''
 			}
 
@@ -1046,7 +1039,7 @@ Mods: {
 				Tooltip:
 					'''
 					Summons a wulfrum droid to fight for you
-					Hold right click while holding the remote to switch all of your drones into supercharge mode
+					Hold <right> while holding the remote to switch all of your drones into supercharge mode
 					Supercharged droids will stop attacking and focus wulfrum energy onto you
 					The beam provides extra regeneration and defense
 					Can also be used to heal other players by keeping your mouse cursor close enough to them
@@ -1058,7 +1051,7 @@ Mods: {
 				Tooltip:
 					'''
 					Throws a rickety mining contraption to dig out a small tunnel
-					In case of an emergency, right click to instantly detonate all your digging turtles
+					In case of an emergency,<right> to instantly detonate all your digging turtles
 					'''
 			}
 
@@ -1105,7 +1098,7 @@ Mods: {
 				Tooltip:
 					'''
 					Casts a wulfrum bolt
-					Right click to drain mana from creatures in front of you
+					<right> to drain mana from creatures in front of you
 					[c/83B87E:Technology and magic have been forever locked in an arms race of imitation and retaliation]
 					[c/83B87E:At times they work in tandem, as seen in certain prosthetic limbs]
 					'''
@@ -1126,7 +1119,7 @@ Mods: {
 				Tooltip:
 					'''
 					Can be used to rapidly and royally screw over any foe, provided they're weak enough
-					Striking an enemy has a chance to give you a wulfrum screw, that you can throw back at them by right clicking
+					Striking an enemy has a chance to give you a wulfrum screw, that you can throw back at them by using <right>
 					Hitting a flung screw with the screwdriver will boost its damage and speed, sending it hurling forwards at high speeds
 					[c/83B87E:"Who makes flatheads this large?? The hell am I supposed to use it for, the thing could take an eye out!"]
 					[c/83B87E:"…Ah."]
@@ -2330,7 +2323,7 @@ Mods: {
 
 			DustyBricksLichenItem: {
 				DisplayName: Drab Lichen
-				Tooltip: ""
+				Tooltip: Can be placed on dusty bricks
 			}
 
 			CrabulonBossMaskAlt1: {

@@ -234,7 +234,7 @@ VerdantWoodChestBlock: {
 }
 
 ThePlantItem: {
-	DisplayName: «Растение» 
+	DisplayName: Растение
 	Tooltip: «Серьёзно, это просто растение» 
 }
 
@@ -1057,8 +1057,8 @@ Waterberry: {
 }
 
 Lightbulb: {
-	DisplayName: Lightbulb
-	Tooltip: "'Keeps Charlie away'"
+	DisplayName: Лампочка
+	Tooltip: «Чарли не приблизится» 
 }
 
 LushLeaf: {

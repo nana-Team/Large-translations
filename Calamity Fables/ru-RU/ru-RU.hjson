@@ -2525,5 +2525,5 @@ Mods: {
 	}
 }
 
-Controls.LeftClick: левую кнопку мыши
-Controls.RightClick: правую кнопку мыши
+Controls.LeftClick: ЛКМ
+Controls.RightClick: ПКМ

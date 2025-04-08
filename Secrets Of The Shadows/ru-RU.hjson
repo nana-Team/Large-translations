@@ -57,9 +57,9 @@ Mods: {
 
 		ModifyWorldGenTasks: {
 			GeneratingSurfaceStructures: Создание наземных структур...
-			GeneratingAbandonedVillage: Создание заброшенной деревни...
+			GeneratingAbandonedVillage: Строительство заброшенной деревни...
 			GeneratingSkyArtifacts: Создание небесных артефактов...
-			GeneratingAPyramid: Создание Пирамиды...
+			GeneratingAPyramid: Строительство Пирамиды...
 			GeneratingGemStructures: Создание самоцветных строений...
 		}
 
@@ -2012,23 +2012,23 @@ Mods: {
 
 			EarthenPlatingBlastDoor: {
 				# Earthen
-				DisplayName: Earthen Plating Blast Door
+				DisplayName: Взрывоустойчивая дверь из земляного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingBlastDoor: {
 				# Nature
-				DisplayName: Nature Plating Blast Door
+				DisplayName: Взрывоустойчивая дверь из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingCapsule: {
-				DisplayName: Nature Plating Capsule
+				DisplayName: Капсула из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingPlatform: {
-				DisplayName: Nature Plating Platform
+				DisplayName: ПЛатформа из природного покрытия
 				Tooltip: ""
 			}
 
@@ -2430,38 +2430,38 @@ Mods: {
 
 			GoldArkStaff: {
 				# OreItems
-				DisplayName: Gold Arc Staff
+				DisplayName: Золотой посох дуги
 				# OreItems
-				Tooltip: Deal 150% damage to up to 2 enemies surrounding the initially hit enemy
+				Tooltip: Дополнительно наносит 150% урона двум врагам, находящихся рядом с изначальной поражённой целью
 			}
 
 			GoldBattery: {
-				DisplayName: Gold Battery
+				DisplayName: Золотая батарейка
 				Tooltip:
 					'''
-					Increases void gain by 1 and max void by 20
-					When hurt, 10% of damage taken is converted into void
-					If hurt while the void meter is maxed, there is a 10% chance to be inflicted with Ichor
+					Увеличивает получаемое количество пустоты на 1 ед. и максимальный запас пустоты на 20 ед.
+					10% полученного урона конвентируются в пустоту
+					При получении урона с полной шкалой пустоты, есть 10% шанс что это удар наложет на вас дебафф «{$BuffName.Ichor}»
 					'''
 			}
 
 			GoldChakram: {
-				DisplayName: Gold Chakram
-				Tooltip: Deals more damage at the peak of its trajectory
+				DisplayName: Золотой чакрам
+				Tooltip: Наносит больше урона по достижении максимальной дальности траектории
 			}
 
 			GoldGlaive: {
-				DisplayName: Gold Glaive
-				Tooltip: Fires 3 bolts at your cursor, each dealing 75% damage
+				DisplayName: Золотая глефа
+				Tooltip: Выпускает 3 выстрела в сторону курсора, каждый из которых наносит 75% урона
 			}
 
 			PlatinumBattery: {
-				DisplayName: Platinum Battery
+				DisplayName: Платиновая батарейка
 				Tooltip:
 					'''
-					Increases void gain by 1 and max void by 20
-					When hurt, 10% of damage taken is converted into void
-					If hurt while the void meter is maxed, there is a 10% chance to be inflicted with Broken Armor
+					Увеличивает получаемое количество пустоты на 1 ед. и максимальный запас пустоты на 20 ед.
+					10% полученного урона конвентируются в пустоту
+					При получении урона с полной шкалой пустоты, есть 10% шанс что это удар наложет на вас дебафф «{$BuffName.BrokenArmor}»
 					'''
 			}
 
@@ -2471,13 +2471,17 @@ Mods: {
 			}
 
 			PlatinumScythe: {
-				DisplayName: Platinum Scythe
-				Tooltip: Attacks permanently curse enemies for 3 damage per second, stacking up to 10 times
+				DisplayName: Платиновая коса
+				Tooltip:
+					'''
+					Атаки проклинают поражённых врагов, нанося 3 ед. урона в секунду
+					Проклятье на врагах может складываться до 10 раз
+					'''
 			}
 
 			PlatinumSoulStaff: {
-				DisplayName: Platinum Soul Staff
-				Tooltip: Absorb life from up to 3 enemies at a time
+				DisplayName: Платиновый посох души
+				Tooltip: Может поглощать здоровье у 3 врагов за раз
 			}
 
 			WardingCharm: {
@@ -2729,7 +2733,7 @@ Mods: {
 				Tooltip:
 					'''
 					Увеличивает скорость передвижения на 15%
-					Blink Pack decreased cooldown by 20%
+					Снижает длительность перезарядки ранца телепортации на 20%
 					Немного увеличивает скорость прыжка
 					'''
 			}
@@ -4492,37 +4496,37 @@ Mods: {
 			}
 
 			EarthenPlatingPanelWall: {
-				DisplayName: Earthen Plating Panel Wall
+				DisplayName: Панельная стена из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingWall: {
-				DisplayName: Earthen Plating Wall
+				DisplayName: Стена из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthWall: {
-				DisplayName: Earth Wall
+				DisplayName: Земельная стена
 				Tooltip: ""
 			}
 
 			NaturePlatingPanelWall: {
-				DisplayName: Nature Plating Panel Wall
+				DisplayName: Панельная стена из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingWall: {
-				DisplayName: Nature Plating Wall
+				DisplayName: Стена из природного покрытия
 				Tooltip: ""
 			}
 
 			NatureWall: {
-				DisplayName: Nature Wall
+				DisplayName: Природная стена
 				Tooltip: ""
 			}
 
 			NetherWall: {
-				DisplayName: Nether Wall
+				DisplayName: Незерская стена
 				Tooltip: ""
 			}
 
@@ -4542,99 +4546,99 @@ Mods: {
 			}
 
 			EarthenPlatingBathtub: {
-				DisplayName: Earthen Plating Bathtub
+				DisplayName: Ванна из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingBed: {
-				DisplayName: Earthen Plating Bed
+				DisplayName: Кровать из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingBookcase: {
-				DisplayName: Earthen Plating Bookcase
+				DisplayName: Книжный шкаф из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingBulb: {
-				DisplayName: Earthen Plating Bulb
+				DisplayName: Светильник из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingChair: {
-				DisplayName: Earthen Plating Chair
+				DisplayName: Стул из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingChandelier: {
-				DisplayName: Earthen Plating Chandelier
+				DisplayName: Люстра из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingClock: {
-				DisplayName: Earthen Plating Clock
+				DisplayName: Напольные часы из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingDresser: {
-				DisplayName: Earthen Plating Dresser
+				DisplayName: Комод из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingLamp: {
-				DisplayName: Earthen Plating Lamp
+				DisplayName: Напольная лампа из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingLantern: {
-				DisplayName: Earthen Plating Lantern
+				DisplayName: Фонарь из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingPiano: {
-				DisplayName: Earthen Plating Piano
+				DisplayName: Пианино из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingPlatform: {
-				DisplayName: Earthen Plating Platform
+				DisplayName: Платформа из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingSink: {
-				DisplayName: Earthen Plating Sink
+				DisplayName: Раковина из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingSofa: {
-				DisplayName: Earthen Plating Sofa
+				DisplayName: Диван из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingStorage: {
-				DisplayName: Earthen Plating Storage
+				DisplayName: Хранилище из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingTable: {
-				DisplayName: Earthen Plating Table
+				DisplayName: Стол из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingToilet: {
-				DisplayName: Earthen Plating Toilet
+				DisplayName: Унитаз из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingTorch: {
-				DisplayName: Earthen Plating Torch
+				DisplayName: Факел из земельного покрытия
 				Tooltip: ""
 			}
 
 			EarthenPlatingWorkBench: {
-				DisplayName: Earthen Plating Work Bench
+				DisplayName: Верстак из земельного покрытия
 				# Earthen
-				Tooltip: Also functions as an anvil
+				Tooltip: Может также фукнкционировать как наковальня
 			}
 
 			GoopwoodBarrel: {
@@ -4683,89 +4687,89 @@ Mods: {
 			}
 
 			NaturePlatingBathtub: {
-				DisplayName: Nature Plating Bathtub
+				DisplayName: Ванна из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingBed: {
-				DisplayName: Nature Plating Bed
+				DisplayName: Кровать из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingBookcase: {
-				DisplayName: Nature Plating Bookcase
+				DisplayName: Книжный шкаф из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingBulb: {
-				DisplayName: Nature Plating Bulb
+				DisplayName: Светильник из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingChair: {
-				DisplayName: Nature Plating Chair
+				DisplayName: Стуль из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingChandelier: {
-				DisplayName: Nature Plating Chandelier
+				DisplayName: Люстра из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingClock: {
-				DisplayName: Nature Plating Clock
+				DisplayName: Напольные часы из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingDresser: {
-				DisplayName: Nature Plating Dresser
+				DisplayName: Комод из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingLamp: {
-				DisplayName: Nature Plating Lamp
+				DisplayName: Напольная лампа из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingLantern: {
-				DisplayName: Nature Plating Lantern
+				DisplayName: Фонарь из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingPiano: {
-				DisplayName: Nature Plating Piano
+				DisplayName: Пианино из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingSink: {
-				DisplayName: Nature Plating Sink
+				DisplayName: Раковина из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingSofa: {
-				DisplayName: Nature Plating Sofa
+				DisplayName: Диван из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingTable: {
-				DisplayName: Nature Plating Table
+				DisplayName: Стол из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingToilet: {
-				DisplayName: Nature Plating Toilet
+				DisplayName: Унитаз из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingTorch: {
-				DisplayName: Nature Plating Torch
+				DisplayName: Факел из природного покрытия
 				Tooltip: ""
 			}
 
 			NaturePlatingWorkBench: {
-				DisplayName: Nature Plating Work Bench
+				DisplayName: Верстак из природного покрытия
 				# Nature
-				Tooltip: Also functions as an anvil
+				Tooltip: Может также фукнкционировать как наковальня
 			}
 
 			PermafrostPlatingBathtub: {
@@ -4925,7 +4929,7 @@ Mods: {
 			}
 
 			BlinkPack: {
-				DisplayName: Blink Pack
+				DisplayName: Ранец телепортации
 				Tooltip: temp
 			}
 

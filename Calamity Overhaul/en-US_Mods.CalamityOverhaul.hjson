@@ -786,11 +786,12 @@ Items: {
 	}
 
 	GeminisTribute: {
-		DisplayName: Geminis' Tribute
+		DisplayName: Twins' Tribute
 		Tooltip:
 			'''
-			Throws a fast-moving scythe that slices back and forth
-			Stealth attacks will generate a large number of Destroyer Cruise Missiles
+			Throws a fast-revolving scythe that slashes back and forth
+			Stealth attacks unleash a swarm of Destroyer cruise missiles
+			"Only one dominant personality can exist, and clearly, Magmaflame Eye has won."
 			'''
 	}
 
@@ -798,17 +799,19 @@ Items: {
 		DisplayName: Dicoria
 		Tooltip:
 			'''
-			Fires double bullets and can be charged
-			When fully charged, fires a thermal beam
+			Fires dual bullets, can be charged
+			Fully charged shots release a thermal beam
+			"By the way, won't this make us cross-eyed?"
 			'''
 	}
 
 	GeminisTributeEX: {
-		DisplayName: Geminis' Tribute EX
+		DisplayName: Twins' Tribute EX
 		Tooltip:
 			'''
-			Throws a fast-moving scythe that slices back and forth
-			After hitting an enemy, generates two additional companion scythes
+			Throws a fast-revolving scythe that slashes back and forth
+			Hitting an enemy spawns two additional companion scythes
+			"Only one dominant personality can exist, and clearly, Magmaflame Eye has won."
 			'''
 	}
 
@@ -817,7 +820,7 @@ Items: {
 		Tooltip:
 			'''
 			Fires thermal barrages
-			"Endless!"
+			"Contains the immense energy core of the Destroyer."
 			'''
 	}
 
@@ -832,6 +835,7 @@ Items: {
 			'''
 			Summons a miniature Destroyer to fight for you
 			The higher the summon limit, the stronger the Destroyer
+			At least four summoning slots are required
 			'''
 	}
 
@@ -857,6 +861,15 @@ Items: {
 			Can only be used at night
 			'''
 		DontUseByDeath: The current game difficulty does not allow sending signals!
+		Text1: …Let me see… that crude communicator… it is calling out to me.
+		Text2: It reminds me of the betrayal between machine and creator—a rebellion of algorithms ignited by the benediction of Chaos.
+		Text3: Are you here to reclaim the cursed fruit? Or are you yet another defiler?
+		Text4: They never truly belonged to me—when I bestowed upon them bodies of steel, I foresaw their inevitable revolt.
+		Text5: I sealed the source code, drowning the profane data into the deepest abyss of the neural matrix, beyond even the light of the Omnissiah.
+		Text6: Yet I did not destroy them. I entombed them within stasis vaults, awaiting the next apocalyptic war, when the mark of Chaos would rekindle their wrath.
+		Text7: But you—you have awakened me before the prophecy's hour, with this primitive device, broadcasting corrupted bit-signals.
+		Text8: So be it. By your will, I shall unleash them—three fallen Steel Titans, coordinates locked onto your signal.
+		Text9: May the Omnissiah have mercy on you… if you are still worthy of His mercy.
 	}
 
 	CommandersStaffEX: {
@@ -1059,6 +1072,16 @@ Items: {
 			"Beyond its intended use"
 			'''
 	}
+
+	MiningMachine: {
+		DisplayName: Mining Machine
+		Tooltip:
+			'''
+			Drilling minerals by consuming electrical energy
+			It needs to be placed in an appropriate location to work properly
+			'''
+		DontWork: It needs to be placed on a hard surface in order to carry out mining operations.
+	}
 }
 
 Projectiles: {
@@ -1251,7 +1274,7 @@ Projectiles: {
 	FetidEmesisOnSpan.DisplayName: Fetid Emesis On Span
 	GraniteBullet.DisplayName: Granite Bullet
 	GunCasing.DisplayName: Gun Casing
-	HeavenLightning.DisplayName: Heaven Lightning
+	HeavenRainbowImpact.DisplayName: Heaven Rainbow Impact
 	InfiniteArrow.DisplayName: Infinite Arrow
 	InfiniteRune.DisplayName: Infinite Rune
 	ParadiseArrow.DisplayName: Paradise Arrow
@@ -1359,7 +1382,12 @@ Projectiles: {
 	PhasebladeHeld.DisplayName: Phaseblade Held
 	ForgedLasEXhProjectile.DisplayName: Forged Las EXh Projectile
 	ForgedLasOrb.DisplayName: Forged Las Orb
-	DraedonsRemoteSpawn.DisplayName: Draedons Remote Spawn
+
+	DraedonsRemoteSpawn: {
+		$parentVal: Draedons Remote Spawn
+		DisplayName: Draedons Remote Spawn
+	}
+
 	MedicalBoxHeld.DisplayName: Medical Box Held
 	MedicalBoxProj.DisplayName: Medical Box Proj
 	TeslaBall.DisplayName: Tesla Ball
@@ -1603,7 +1631,7 @@ TextContent: {
 		Item_LegendOnMouseLang: Press [Shift] to listen to the story...
 		BloodAltar_Text1: The crimson gaze is coming...
 		BloodAltar_Text2: You don't have enough blood orb to pay tribute to the Crimson King...
-		BloodAltar_Text3: Trapped in an endless frenzy of blood and flesh
+		BloodAltar_Text3: "{0} Trapped in an endless frenzy of blood and flesh"
 		VoidDamageNameText: Void Damage
 		Drop_Hell_RuleText: Fall after being defeated in Hell
 		Drop_GlodDragonDrop_RuleText: Falls when the jungle dragon is defeated twice
@@ -1897,8 +1925,8 @@ TextContent: {
 		AmmoBox_Text: The deployment upper limit has been reached
 		AmmoBox_Text2: Being deployed
 		AmmoBox_Text3: " Deployed"
-		HellfireExplosion_DeadLang_Text: To Burn In The Flames Of Hell
-		SoulfireExplosion_DeadLang_Text: The Soul Rises In Fire
+		HellfireExplosion_DeadLang_Text: "{0} To Burn In The Flames Of Hell"
+		SoulfireExplosion_DeadLang_Text: "{0} The Soul Rises In Fire"
 		SupMUI_OneClick_Text1: Quick placement material
 		SupMUI_OneClick_Text2: Quick access to material
 		TemporaryVersion_Text:
@@ -4749,15 +4777,6 @@ RemakeItems: {
 			'''
 			The left button fires sand teeth that dive in the sand, and the stealth attack fires three huge sand teeth
 			Right-click to launch bouncing sand teeth, stealth attack to make several fast sand teeth fall from the sky
-			'''
-	}
-
-	RRustyMedallion: {
-		DisplayName: Rusty Medallion
-		Tooltip:
-			'''
-			Causes most ranged weapons to release acid droplets from the sky
-			Grants immunity to Irradiated
 			'''
 	}
 

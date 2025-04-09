@@ -3401,13 +3401,14 @@ RemakeItems: {
 	}
 
 	RPrismaticBreaker: {
-		DisplayName: Призма Разрушитель
+		DisplayName: Призматический крушитель
 		Tooltip:
 			'''
-			Заряжается и выпускает луч радуги.
-			Правая кнопка мыши для замаха и выпуска радуги меча.
-			Этот меч получает бонусы как для ближнего, так и для дальнего боя.
-			"Сила радуги со мной!"
+			Удерживайте ЛКМ, выпустить мощный радужный лазер
+			Нажмите ПКМ, чтобы взмахнуть мечом и выпустить волну радужного света
+			Меч усиливается как от урона ближнего боя, так и от стрелкового урона
+			Кажется, принадлежит некой магической девочке
+			Излучает интенсивную космическую энергию
 			'''
 	}
 
@@ -3657,42 +3658,42 @@ RemakeItems: {
 
 	ModifyAquaticScourgeBag: {
 		DisplayName: Мешок с сокровищами (Акватический бич)
-		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+		Tooltip: Нажмите ПКМ, чтобы открыть
 	}
 
 	ModifyDesertScourgeBag: {
 		DisplayName: Мешок с сокровищами (Пустынный бич)
-		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+		Tooltip: Нажмите ПКМ, чтобы открыть
 	}
 
 	ModifyDevourerofGodBag: {
 		DisplayName: Мешок с сокровищами (Пожиратель богов)
-		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+		Tooltip: Нажмите ПКМ, чтобы открыть
 	}
 
 	ModifyExoBag: {
 		DisplayName: Ящик с сокровищами (Экзо-механизмы)
-		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+		Tooltip: Нажмите ПКМ, чтобы открыть
 	}
 
 	ModifyOldDukeBag: {
 		DisplayName: Мешок с сокровищами (Старый герцог)
-		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+		Tooltip: Нажмите ПКМ, чтобы открыть
 	}
 
 	ModifyPolterghastBag: {
 		DisplayName: Мешок с сокровищами (Полтергаст)
-		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+		Tooltip: Нажмите ПКМ, чтобы открыть
 	}
 
 	ModifyStarterBag: {
 		DisplayName: Стартовый мешок
-		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+		Tooltip: Нажмите ПКМ, чтобы открыть
 	}
 
 	ModifyYharonBag: {
 		DisplayName: Мешок с сокровищами (Ярон)
-		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+		Tooltip: Нажмите ПКМ, чтобы открыть
 	}
 
 	RAcesHigh: {
@@ -5085,7 +5086,7 @@ RemakeItems: {
 
 	RFlareGun: {
 		DisplayName: Сигнальная ракетница
-		Tooltip: '''"Не путайте его с стартовым пистолетом"'''
+		Tooltip: Не следует путать с начальным пистолетом!
 	}
 
 	RFlintlockpistol: {
@@ -5708,8 +5709,8 @@ RemakeItems: {
 	}
 
 	RWoodenBoomerang: {
-		DisplayName: Деревянный бумеранг
-		Tooltip: Скрытная атака, быстро метает три бумеранга
+		DisplayName: "{$ItemName.WoodenBoomerang}"
+		Tooltip: При скрытой атаке, бросает три больших бумеранга
 	}
 
 	RWoodenBow: {
@@ -5917,32 +5918,32 @@ RemakeItems: {
 	}
 
 	ModifyBananarang: {
-		// DisplayName: Bananarang
-		/* Tooltip:
+		DisplayName: "{$ItemName.Bananarang}"
+		Tooltip:
 			'''
-			Stealth attacks throw three massive boomerangs that launch a large number of Happy Bombs into the air upon hitting enemies.
-			Happy Bombs deal significant damage to enemies but can also harm players and friendly creatures.
-			"Happiness and danger always coexist, don't they?"
-			''' */
+			При скрытом ударе бросает три больших бумеранга, которые разбрасывают больше количество весёлых бомб при поподании по врагу
+			Весёлые бомбы наносят большой урон врагам, но и также игрокам и жителям
+			«Счастье и опасность всегда идут рядом, не так ли?»
+			'''
 	}
 
 	ModifyIceBoomerang: {
-		// DisplayName: Ice Boomerang
-		/* Tooltip:
+		DisplayName: "{$ItemName.IceBoomerang}"
+		Tooltip:
 			'''
-			Stealth attacks throw three massive boomerangs that create a freezing mist upon hitting enemies.
-			"Quite chilly to hold."
-			''' */
+			При скрытом ударе бросает три больших бумеранга, которое создают облако мороза при поподании по врагу
+			«Холодный на ощуп»
+			'''
 	}
 
 	ModifyTrimarang: {
-		// DisplayName: Trimarang
-		/* Tooltip:
+		DisplayName: "{$ItemName.Trimarang}"
+		Tooltip:
 			'''
-			Throws boomerangs in three different directions.
-			Stealth attacks enlarge the boomerangs and cause them to generate three random effects upon hitting enemies.
-			"Adults don’t make choices, so you tied your three favorite boomerangs together."
-			''' */
+			Бросает бумеранги сразу в три разные стороны
+			При скрытом ударе бросает усиленные бумеранги, вызывавющие один из трёх эффектов своих ингридиентов при поподании по врагу
+			«Вхрослые не встают перед выбором, ибо объединяют сразу три своих любимых бумеранга»
+			'''
 	}
 
 	// ModifyAncientNecroHelmet.UpdateArmorText: During the reloading process, if you are injured, a pile of bones will be thrown out.

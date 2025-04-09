@@ -5075,13 +5075,13 @@ RemakeItems: {
 	}
 
 	REnchantedBoomerang: {
-		DisplayName: Зачарованный бумеранг
-		Tooltip: Скрытная атака, быстро метает три бумеранга, при попадании вызывает падающие звезды
+		DisplayName: "{$ItemName.EnchantedBoomerang}"
+		Tooltip: При скрытом ударе бросает три больших бумеранга, обрушивающих звездопад при попадании по врагу
 	}
 
 	RFlamarang: {
-		DisplayName: Огнеранг
-		Tooltip: Скрытная атака, быстро метает три бумеранга
+		DisplayName: "{$ItemName.Flamarang}"
+		Tooltip: При скрытом ударе бросает три больших бумеранга, вызывающих взрывы при попадании по врагу
 	}
 
 	RFlareGun: {
@@ -5524,8 +5524,8 @@ RemakeItems: {
 	}
 
 	RShroomerang: {
-		DisplayName: Сумеранг
-		Tooltip: Скрытная атака, выпускает бомбу с грибными спорами
+		DisplayName: "{$ItemName.Shroomerang}"
+		Tooltip: При скрытом ударе оставляет за собой след из грибов
 	}
 
 	RSilverBow: {

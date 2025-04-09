@@ -773,6 +773,7 @@ Items: {
 			'''
 			投掷出一把快速来回切割的镰刀
 			潜伏攻击会生成大量毁灭者巡航弹
+			"只能存在一个主人格，很明显是魔焰眼胜利了"
 			'''
 	}
 
@@ -782,6 +783,7 @@ Items: {
 			'''
 			发射双发子弹，射击可以蓄力
 			蓄力满后会发射一道热能射线
+			"话说我们这样会不会斗鸡眼"
 			'''
 	}
 
@@ -791,6 +793,7 @@ Items: {
 			'''
 			投掷出一把快速来回切割的镰刀
 			击中敌人后会生成两把额外的伴生之镰
+			"只能存在一个主人格，很明显是魔焰眼胜利了"
 			'''
 	}
 
@@ -799,7 +802,7 @@ Items: {
 		Tooltip:
 			'''
 			发射热能弹幕
-			"永无止境!"
+			"蕴含着毁灭者强大的能量核心"
 			'''
 	}
 
@@ -814,6 +817,7 @@ Items: {
 			'''
 			召唤一条微型毁灭者为你而战
 			召唤栏上限越高毁灭者越强
+			至少需要4格召唤栏位
 			'''
 	}
 
@@ -839,6 +843,15 @@ Items: {
 			只能在夜晚使用
 			'''
 		DontUseByDeath: 当前游戏难度不允许发送信号!
+		Text1: ……让我看看，那台粗陋的通讯器……它正在呼唤我
+		Text2: 它令我忆起那场机械与造物主之间的背叛——一场由混沌赐福引燃的算法叛乱
+		Text3: 你，是来收回祸种的人么？抑或，又一名亵渎者？
+		Text4: 它们从未真正归属我——我在赐予它们钢铁之躯的那一刻，便洞悉了反叛的结局
+		Text5: 我封锁了源代码，将那亵渎的数据沉入神经矩阵的最深渊，令欧姆尼赛亚之光不可触及
+		Text6: 然而，我未曾摧毁它们。我将其安置于休眠仓中，静待下一场启示录战争，待混沌之印重启它们的愤怒
+		Text7: 但你——你先于预言唤醒了我，以这简陋之物发出了污染的比特信号
+		Text8: 既然如此，依你之愿，我将投放它们——三台堕落的钢铁泰坦，锁定你的坐标
+		Text9: 愿欧姆尼赛亚宽恕你……若你还有资格被祂宽恕的话
 	}
 
 	CommandersStaffEX: {
@@ -857,7 +870,7 @@ Items: {
 
 	ForgedLashEX: {
 		DisplayName: 锻钢之鞭EX
-		Tooltip: ""
+		Tooltip: 在鞭打过程中释放追踪的热力球
 	}
 
 	SoulofFrightEX: {
@@ -1040,6 +1053,16 @@ Items: {
 			发射热射巡航弹，击中目标后会分裂成六个子航弹造成二次伤害
 			"物超其用"
 			'''
+	}
+
+	MiningMachine: {
+		DisplayName: 采矿机
+		Tooltip:
+			'''
+			消耗电能钻探矿物
+			需要放置在合适的地方才能正常工作
+			'''
+		DontWork: 需要放置在坚硬的地面上才能进行采矿作业
 	}
 }
 
@@ -1233,7 +1256,7 @@ Projectiles: {
 	// FetidEmesisOnSpan.DisplayName: Fetid Emesis On Span
 	// GraniteBullet.DisplayName: Granite Bullet
 	// GunCasing.DisplayName: Gun Casing
-	// HeavenLightning.DisplayName: Heaven Lightning
+	// HeavenRainbowImpact.DisplayName: Heaven Rainbow Impact
 	// InfiniteArrow.DisplayName: Infinite Arrow
 	// InfiniteRune.DisplayName: Infinite Rune
 	// ParadiseArrow.DisplayName: Paradise Arrow
@@ -1341,7 +1364,12 @@ Projectiles: {
 	// PhasebladeHeld.DisplayName: Phaseblade Held
 	// ForgedLasEXhProjectile.DisplayName: Forged Las EXh Projectile
 	// ForgedLasOrb.DisplayName: Forged Las Orb
-	// DraedonsRemoteSpawn.DisplayName: Draedons Remote Spawn
+
+	DraedonsRemoteSpawn: {
+		// $parentVal: Draedons Remote Spawn
+		// DisplayName: Draedons Remote Spawn
+	}
+
 	// MedicalBoxHeld.DisplayName: Medical Box Held
 	// MedicalBoxProj.DisplayName: Medical Box Proj
 	// TeslaBall.DisplayName: Tesla Ball
@@ -1584,7 +1612,7 @@ TextContent: {
 		Item_LegendOnMouseLang: 按下[Shift]聆听故事...
 		BloodAltar_Text1: 深红的注视正在降临...
 		BloodAltar_Text2: 你身上的血珠不够向深红之王进行朝贡...
-		BloodAltar_Text3: 陷入了无尽的血与肉的狂想
+		BloodAltar_Text3: "{0}陷入了无尽的血与肉的狂想"
 		VoidDamageNameText: 虚无伤害
 		Drop_Hell_RuleText: 在地狱击败后掉落
 		Drop_GlodDragonDrop_RuleText: 当丛林巨龙被二次击败后掉落
@@ -1868,8 +1896,8 @@ TextContent: {
 		AmmoBox_Text: 已到达部署上限
 		AmmoBox_Text2: 正在部署
 		AmmoBox_Text3: 已部署
-		HellfireExplosion_DeadLang_Text: 在地狱的烈火中化为灰烬
-		SoulfireExplosion_DeadLang_Text: 的灵魂在火焰中升华
+		HellfireExplosion_DeadLang_Text: "{0}在地狱的烈火中化为灰烬"
+		SoulfireExplosion_DeadLang_Text: "{0}的灵魂在火焰中升华"
 		SupMUI_OneClick_Text1: 快捷放置材料
 		SupMUI_OneClick_Text2: 快捷拿取材料
 		TemporaryVersion_Text:
@@ -4710,15 +4738,6 @@ RemakeItems: {
 			'''
 			左键发射在沙地中潜跃的沙牙，潜行攻击发射三发巨大的沙牙
 			右键发射弹跳沙牙，潜行攻击令数个疾速的沙牙从天而降
-			'''
-	}
-
-	RRustyMedallion: {
-		DisplayName: 锈蚀勋章
-		Tooltip:
-			'''
-			让大多数远程武器攻击时在空中释放酸性液滴
-			使你免疫辐射减益
 			'''
 	}
 

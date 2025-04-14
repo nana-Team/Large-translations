@@ -100,7 +100,7 @@ EyeArmorMinion.DisplayName: Глазной прислужник
 EyeFlailProj.DisplayName: Скованный глаз
 EyeFlailProj2.DisplayName: Скованный глаз
 EyeRocket.DisplayName: Глазная ракета
-EyeRocketLauncherProj.DisplayName: I.C.U
+EyeRocketLauncherProj.DisplayName: ДЗН
 FleshWhipProj.DisplayName:  Глазной хлыст
 Leech.DisplayName: Пиявка
 LeechWhipProj.DisplayName: Высасывающий
@@ -208,7 +208,7 @@ LivingFleshWhipProjBlue.DisplayName: Живой глазной хлыст
 LivingFleshWhipProjRed.DisplayName: Живой глазной хлыст
 FleshBowChunk1.DisplayName: Кровяной сгусток
 FleshBowChunk2.DisplayName: Кровяной сгусток
-LivingFleshAxeEye.DisplayName: Eye
+LivingFleshAxeEye.DisplayName: Глаз
 PandoraBeanPet.DisplayName: Фон Ангустон IV, наследник престола короля Бина
 PandoraEnemySpawnChester.DisplayName: Место появления врагов ящика Пандоры
 StitchBolt.DisplayName: Выстрел ужаса
@@ -244,7 +244,7 @@ InchwormPet.DisplayName: Гусеничка
 SlendermanTentacle.DisplayName: Теневая тентакля
 HerobrineLightning.DisplayName: Молния
 DaffodilRodProj.DisplayName: Жезл подсолнуха
-SentientPaladinsHammerProj.DisplayName: Дэйв & Майк
+SentientPaladinsHammerProj.DisplayName: Майк и Дейв
 ZomboidRootThorn.DisplayName: Корень-шип
 ZomboidRootThornTelegraph.DisplayName: Предупреждение о шипах
 ZomboidRootThornFire.DisplayName: Воспламенённый корень-шип
@@ -409,7 +409,7 @@ BanditPriestBuffer.DisplayName: Магия щита
 GhostSpawner1.DisplayName: Место появления призраков
 GhostSpawner2.DisplayName: Место появления призраков
 GhostSpawner3.DisplayName: Место появления призраков
-GoblinEyeDebris.DisplayName: ОТскакивающий глаз
+GoblinEyeDebris.DisplayName: Отскакивающий глаз
 GoblinEyeDebrisGrounded.DisplayName: Отскакивающий глаз
 PeptoBubble.DisplayName: Пепто-пузырь
 EarWormSound.DisplayName: Звуковая волна

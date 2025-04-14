@@ -176,10 +176,10 @@ StinkBlast.DisplayName: Вонючий взрыв
 TonguebladeSlash.DisplayName: Мечеязык
 EggEventHandler.DisplayName: Барьер яйца
 SentientChumCasterBobber.DisplayName: Разумный поплавок
-ThornPillarSeed.DisplayName: Seed
+ThornPillarSeed.DisplayName: Семя
 ThornPillar.DisplayName: Шипастая стена
 SolarDeathbeamTelegraph.DisplayName: Предупреждение
-ChungusSpore.DisplayName: Spore
+ChungusSpore.DisplayName: Спора
 FlameIdolProj.DisplayName: Огненный идол
 NautilusSpit1.DisplayName: Кровавые чернила
 NautilusSpit2.DisplayName: Кровавые чернила
@@ -191,7 +191,7 @@ ValleySharkThorn.DisplayName: Кровавый шип
 ControllableNose.DisplayName: Управляемый нос
 ControllableNoseBooger.DisplayName: Козявка
 FlowerArmorPollen.DisplayName: Пыльца
-SkullAmuletSoul.DisplayName: Soul
+SkullAmuletSoul.DisplayName: Душа
 ThornPillarBarrierFloor.DisplayName: Барьер из шипов
 ThornPillarBarrierSide.DisplayName: Барьер из шипов
 TakeCoverTelegraph.DisplayName: Предупреждение
@@ -214,7 +214,7 @@ PandoraEnemySpawnChester.DisplayName: Место появления врагов
 StitchBolt.DisplayName: Выстрел ужаса
 BobbertExplosion.DisplayName: Бобберт
 DaffodilBowProj.DisplayName: Муза-снаряд
-DaffodilBowFly.DisplayName: Fly
+DaffodilBowFly.DisplayName: Муха
 DaffodilHandMinion.DisplayName: Растительная рука
 PandoraCrossSound.DisplayName: Бас страданий
 RotGourdMinion.DisplayName: Гнилой тупица

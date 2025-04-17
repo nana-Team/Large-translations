@@ -1672,7 +1672,7 @@ Mods: {
 			}
 
 			TinyPlanetFish: {
-				DisplayName: Planet Fish
+				DisplayName: Рыба-планета
 				Tooltip: ""
 			}
 
@@ -1682,119 +1682,119 @@ Mods: {
 			}
 
 			PyramidCrate: {
-				DisplayName: Pyramid Crate
+				DisplayName: Ящик пирамиды
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
 			Aten: {
 				# Flails
-				DisplayName: Aten
+				DisplayName: Атон
 				# Flails
 				Tooltip:
 					'''
-					Conjures stars that do 70% damage and explode for 140% damage
-					'The defunct god... now in flail form'
+					Вызывает звёзды, которые наносят 70% урона и взрываются, нанося 140% урона
+					'Почивший бог... теперь стал цепом'
 					'''
 			}
 
 			NorthStar: {
 				DisplayName: Полярная звезда
-				Tooltip: Вызывает северные звёзды, наносящие 70% урона, которые при взрыве наносят 210% урона
+				Tooltip: Вызывает северные звёзды, которые наносят 70% урона и взрываются, нанося 210% урона
 			}
 
 			Shattershine: {
-				DisplayName: Shattershine
+				DisplayName: Дробияние
 				Tooltip:
 					'''
-					Releases a cluster of sparkles upon hitting an enemy, each doing 60% damage
-					Doesn't release sparkles while charging
+					После удара по врагу запускает несколько искр, каждая из которых наносит 60% урона
+					Во время зарядки не запускает искры
 					'''
 			}
 
 			DissolvingAetherBlock: {
 				# Fragments
-				DisplayName: Purple Aether Block
+				DisplayName: Фиолетовый эфирный блок
 				Tooltip: ""
 			}
 
 			DissolvingAuroraBlock: {
-				DisplayName: Aurora Block
+				DisplayName: Блок Авроры
 				Tooltip: ""
 			}
 
 			DissolvingBrillianceBlock: {
-				DisplayName: Brilliance Block
+				DisplayName: Блок сияния
 				Tooltip: ""
 			}
 
 			DissolvingDelugeBlock: {
-				DisplayName: Deluge Block
+				DisplayName: Блок потопа
 				Tooltip: ""
 			}
 
 			DissolvingEarthBlock: {
-				DisplayName: Earth Block
+				DisplayName: Блок земли
 				Tooltip: ""
 			}
 
 			DissolvingElement: {
 				DisplayName: Иссекающий элемент природы
 				# Fragments
-				Tooltip: Temporary Tooltip
+				Tooltip: Временная подсказка
 			}
 
 			DissolvingNature: {
 				DisplayName: Иссекающий элемент природы
-				Tooltip: Temporary Tooltip
+				Tooltip: Временная подсказка
 			}
 
 			DissolvingEarth: {
 				DisplayName: Иссекающий элемент земли
-				Tooltip: Temporary Tooltip
+				Tooltip: Временная подсказка
 			}
 
 			DissolvingAurora: {
 				DisplayName: Иссекающий элемент зари
-				Tooltip: Temporary Tooltip
+				Tooltip: Временная подсказка
 			}
 
 			DissolvingDeluge: {
 				DisplayName: Иссекающий элемент потопа
-				Tooltip: Temporary Tooltip
+				Tooltip: Временная подсказка
 			}
 
 			DissolvingAether: {
 				DisplayName: Иссекающий элемент эфира
-				Tooltip: Temporary Tooltip
+				Tooltip: Временная подсказка
 			}
 
 			DissolvingUmbra: {
 				DisplayName: Иссекающий элемент тени
-				Tooltip: Temporary Tooltip
+				Tooltip: Временная подсказка
 			}
 
 			DissolvingNether: {
 				DisplayName: Иссекающий элемент незера
-				Tooltip: Temporary Tooltip
+				Tooltip: Временная подсказка
 			}
 
 			DissolvingBrilliance: {
 				DisplayName: Иссекающий элемент блеска
-				Tooltip: Temporary Tooltip
+				Tooltip: Временная подсказка
 			}
 
 			DissolvingNatureBlock: {
-				DisplayName: Nature Block
+				DisplayName: Блок природы
 				Tooltip: ""
 			}
 
 			DissolvingNetherBlock: {
-				DisplayName: Nether Block
+				DisplayName: Блок ада
 				Tooltip: ""
 			}
 
 			DissolvingUmbraBlock: {
-				DisplayName: Umbra Block
+				DisplayName: Блок тени
 				Tooltip: ""
 			}
 
@@ -2050,26 +2050,26 @@ Mods: {
 
 			NatureHydroponics: {
 				# Functional
-				DisplayName: Nature Plating Hydroponics
+				DisplayName: Природный взращиватель
 				# Functional
 				Tooltip:
 					'''
-					Automatically grows an assortment of alchemical herbs
-					Right click to harvest all fully grown herbs
-					Plants can be harvested at any time or weather
+					Автоматически выращивает различные алхимические травы
+					Нажмите ПКМ, чтобы собрать все выросшие растения
+					Растения цветут в любое время и в любую погоду
 					'''
 			}
 
 			Mineralarium: {
-				DisplayName: Mineralarium
+				DisplayName: Минерализатор
 				Tooltip:
 					'''
-					Materializes ores using trace particles in the atmosphere and voidspace
-					Ores must be mined manually
-					If no ores are currently on the platform, a random ore will be materialized
-					If an ore is left on the platform, it will continue to materialize
-					If the platform is blocked, or a combination of ores is on the platform, no ores will materialize
-					Can be stacked to hasten the production of the topmost Mineralarium
+					Материализует руду, используя треки частиц, оставшиеся в атмосфере и в пустоте
+					Руду нужно копать вручную
+					Если на платформе нет никакой руды, то появится случайная
+					Если присутствует хотя бы один блок руды, то будет появляться только руда того же типа
+					Если платформа заблокирована или на ней несколько разных руд, то новая руда не будет появляться
+					Можно ставить друг на друга для ускорения работы верхнего минерализатора
 					'''
 			}
 
@@ -2161,45 +2161,45 @@ Mods: {
 
 			BlazingClub: {
 				# Inferno
-				DisplayName: Blazing Club
+				DisplayName: Пылающая клюка
 				# Inferno
 				Tooltip:
 					'''
-					Deploys spiked mines in the air
-					Right click to launch them instead
-					Mines linger and explode into shrapnel for 10% damage
-					Deploys and launches more mines when wearing climbing related accessories
+					Подбрасывает шипастые мину в воздух
+					Нажмите ПКМ, чтобы вместо это запустить их вперёд
+					Мины замедляются и взрываются шрапнелью, наносящей 10% урона
+					Подбрасывает и запускает больше мин, когда вы носите аксессуары, связанные с карабканием
 					'''
 			}
 
 			BlazingQuiver: {
-				DisplayName: Blazing Quiver
+				DisplayName: Пылающий колчан
 				Tooltip:
 					'''
-					Increases ranged damage by 10% and greatly increases arrow speed
-					20% chance not to consume arrows
-					Converts wooden arrows into Blazing Arrows
-					Blazing Arrows ignore gravity, pierce once, and explode for 15% damage
+					Увеличивает стрелковый урон на 10% и значительно увеличивает скорость полёта стрел
+					20% шанс не потрать боеприпасы
+					Превращает деревянные стрелы в полыхающие
+					Полыхающие стрелы игнорируют гравитацию, пронзают один раз и взрываются, нанося 15% урона
 					'''
 			}
 
 			BookOfVirtues: {
-				DisplayName: Book of Virtues
+				DisplayName: КНига добродетели
 				Tooltip:
 					'''
-					Summons a Spectral Wisp that defends you from nearby enemies
-					The wisp does 75% damage on contact with enemies, and 100% with its laser
+					Призывает спектрального виспа, который будет защищать вас от ближайших врагов
+					Висп наносит 75% урона контактным уроном и 100% урона своим лазером
 					'''
 			}
 
 			IncineratorGlove: {
-				DisplayName: Incinerator Glove
+				DisplayName: Испепеляющая перчатка
 				Tooltip:
 					'''
-					Charge up a short-ranged ball of hot plasma
-					Gains 40% additional damage each charge
-					Maxes out at 80 charges
-					Only does half damage prior to firing
+					Концентрирует у вас в руке шар высокотемпереатурной плазмы, летящий на коороткое расстояние
+					Каждый заряд увеличивает урон на 40%
+					Максимально можно накопить 80 зарядов
+					До запуска наносит только половину урона
 					'''
 			}
 
@@ -2209,26 +2209,26 @@ Mods: {
 			}
 
 			PlasmaAccelerator: {
-				DisplayName: Plasma Accelerator
-				Tooltip: Fires supercharged plasma arrows
+				DisplayName: Плазменный ускоритель
+				Tooltip: Стреляет сверхзаряженными плазменными стрелами
 			}
 
 			Sharanga: {
-				DisplayName: Sharanga
-				Tooltip: Fires supercharged hellfire arrows
+				DisplayName: Шаранга
+				Tooltip: Стреляет сверхзаряженными стрелами адского огня
 			}
 
 			TheBlaspha: {
-				DisplayName: Blaspha
-				Tooltip: Launch a scatter of inferno-infused bullets which release homings embers for 50% damage
+				DisplayName: Скверна
+				Tooltip: Запускает разброс насыщенных адским огём пуль, которые запускают самонаводящиеся угли, наносящие 50% урона
 			}
 
 			WispInAJar: {
-				DisplayName: Wisp in a Jar
+				DisplayName: Висп в бутылке
 				Tooltip:
 					'''
-					Summons a Inferno Wisp that assists in combat
-					Killed enemies explode into flames for 30% of the damage dealt to them on the killing blow
+					Призывает инфернального виспа, который будет помогать вам в бою
+					Убитые враги взрываются пламенем, наносящим 30% урона от смертельного удара
 					'''
 			}
 
@@ -2282,13 +2282,13 @@ Mods: {
 			}
 
 			VorpalKnife: {
-				DisplayName: Vorpal Knife
+				DisplayName: Острейший нож
 				Tooltip:
 					'''
-					Toss a blade that lingers in the air
-					Detonate with left click, dealing 300% damage
-					Teleport with right click, slashing for 200% damage
-					Drains more void to detonate or teleport the farther away the blade is
+					Бросает клинок, зависающий в воздухе
+					Взорвите его, нажав на ЛКМ, что нанесёт 300% урона
+					Телепортируйтесь к нему, разрезав пространство нажатием ПКМ, что нанесёт 200% урона
+					Чем дальше нож, тем больше пустоты уходит и на взрыв, и на телепортацию
 					'''
 			}
 
@@ -2352,26 +2352,26 @@ Mods: {
 			}
 
 			BerryBombs: {
-				DisplayName: Berry Bombs
-				Tooltip: Throw a cluster of explosive berries
+				DisplayName: Бомбы-ягодки
+				Tooltip: Бросает несколько взрывных ягод
 			}
 
 			BiomassBarrage: {
-				DisplayName: Biomass Bloom
-				Tooltip: Launches a cluster of acorns
+				DisplayName: Цветение биомассы
+				Tooltip: Запускает несколько желудей
 			}
 
 			BiomassBlast: {
-				DisplayName: Biomass Blast
-				Tooltip: Launches an acorn that rapidly accelerates its growth upon hitting an enemy or tile
+				DisplayName: Взрыв биомассы
+				Tooltip: Запускает жёлудь, который непрерыно ускоряется, пока не встретит врага или блок
 			}
 
 			BotanicalSymbiote: {
-				DisplayName: Botanical Symbiote
+				DisplayName: Ботанический симбиот
 				Tooltip:
 					'''
-					Increases life regeneration by 1 during the day
-					Attaches a Blooming Hook to all minions
+					Во время дня увеличивает регенерацию здоровья на 1
+					Прикрепляет цветущий крюк ко всем миньонам
 					'''
 			}
 
@@ -2391,11 +2391,11 @@ Mods: {
 			}
 
 			NatureSpell: {
-				DisplayName: Flower Spell
+				DisplayName: Цветочное заклинание
 				Tooltip:
 					'''
-					Launches a seed that latches onto enemies
-					When the seed blooms, it does 500% damage
+					Запуские семя, защёлкивающиеся на враге
+					Когда семя прорастает, оно наносит 500% урона
 					'''
 			}
 
@@ -2405,27 +2405,27 @@ Mods: {
 			}
 
 			Scatterseed: {
-				DisplayName: Scatterseed
+				DisplayName: Семясажатель
 				Tooltip:
 					'''
-					Scatters seeds that latch onto enemies
-					When the seeds bloom, they do 125% damage
+					Разбрасывает семена, защелкивающиеся на врагах
+					Когда семена зацветают, они наносят 125% врона
 					'''
 			}
 
 			SporeBombs: {
-				DisplayName: Spore Bombs
+				DisplayName: Споровые бомбы
 				Tooltip:
 					'''
-					Throw a cluster of explosive spore sacks
-					Released spores deal 50% damage
-					'The toxic grenades look almost edible'
+					Запускает несколько взрывных мешков со спорами
+					Запущенные споры наносят 50% урона
+					'Эти токсичные гранаты выглядят почти съедобно'
 					'''
 			}
 
 			SporeClub: {
-				DisplayName: Spore Club
-				Tooltip: Launch a spore that may confuse enemies
+				DisplayName: Споровая клюка
+				Tooltip: Запускает спору, которая может ввести врагов в замешательство
 			}
 
 			GoldArkStaff: {
@@ -2502,7 +2502,7 @@ Mods: {
 			}
 
 			PortalPlating: {
-				DisplayName: Avaritia Portal Plating
+				DisplayName: Аваритское портальное покрытие
 				Tooltip: ""
 			}
 
@@ -2512,8 +2512,8 @@ Mods: {
 			}
 
 			MachinaBooster: {
-				DisplayName: Machina Booster
-				Tooltip: Allows flight and slow fall
+				DisplayName: Машинный ускоритель
+				Tooltip: Позволяет летать и парить
 			}
 
 			TwilightGyroscope: {
@@ -2535,58 +2535,58 @@ Mods: {
 			}
 
 			ArcStaffMk2: {
-				DisplayName: Arc Staff Mk2
+				DisplayName: Дуговой посох Mk2
 				Tooltip:
 					'''
-					Launch a massive sphere of lightning
-					Detonates at the end of its lifespan, doing 250% damage to low health, non-boss enemies, but only 100% to bosses
+					Запускает массивную шаровую молнию
+					В конце совего существования он взрывается, нанося 250% урона обычним врагам с низким здоровьем и только 100% урона боссам
 					'''
 			}
 
 			Calculator: {
-				DisplayName: Calculator
+				DisplayName: Калькулятор
 				Tooltip:
 					'''
-					Summons a pet Advisor to assist in combat
-					Instead of attacking enemies directly, the Advisor assists with your aim
-					'He really wants to help!'
+					Призывает питомца-Аналитика помогать вам в бою
+					Вместо того, чтобы атаковать враг напрямую, Аналитик помогает с наводкой вам
+					'Он действительно хочет помочь!'
 					'''
 			}
 
 			CataclysmDisc: {
-				DisplayName: Cataclysm Disc
-				Tooltip: Deals more damage at the peak of its trajectory and explodes for 300% damage
+				DisplayName: Диск катаклизма
+				Tooltip: На вершине траектории полёта наносит больше урона и взрыватеся, нанося 300% урона
 			}
 
 			CataclysmMusketPouch: {
-				DisplayName: Cataclysm Musket Pouch
+				DisplayName: Бессконечный мешок с ктаклизматичнми пулями
 				Tooltip:
 					'''
-					Grants access to infinite cataclysm bullets
-					Cataclysm bullets travel faster and more erratically than normal bullets
-					They will also incur 20% damage to an enemy surrounding the initially hit enemy
-					When favorited, bullets will be supercharged at the cost of some void
-					Supercharged bullets travel instantly, and gain increased arcing capabilies
+					Катаклизматичные пули никогда не закончатся
+					Катаклизматичные пули летят быстрее и хаотичнее обычных
+					Они также нанесут 20% урона врагу, находящемуся рядом с тем, в которого попала пуля
+					Если помечено как избранное, то пули будут сверхзарядаться, используя при этом небольшое количество пустоты
+					Суперзяряженные пули летят мгновенно и обладают повышенной способностью наносить урон вргам, окружающим поражённого
 					'''
 			}
 
 			ChainedPlasma: {
-				DisplayName: Chained Plasma
+				DisplayName: Цепляющаяся плазма
 				Tooltip:
 					'''
-					Chains between enemies for 70% damage
-					Tries to move towards your cursor
+					Скачет между врагов, нанося 70% урона
+					Пытается двигаться к вашему курсору
 					'''
 			}
 
 			CodeCorrupter: {
-				DisplayName: Code Corrupter
+				DisplayName: Заражатель кода
 				Tooltip:
 					'''
-					Fires a short ranged and a long ranged blast
-					The short ranged blast has a 70% chance to destabilize enemies while the long ranged blast has a 30% chance to destabalize enemies
-					Destabilized enemies gain a 5% flat chance to be critically striked
-					Destabilization is permanent and can stack, but the chance of applying it gets lower with each level already applied
+					Выстреливает снарядами, пролетающими короткую и большую дистанцию
+					У выстрела ближней дистанциии есть шанс 70% дестабилизировать врага, а у выстрела дальней дистанции этот шанс составляет 30%
+					Ваш шанс критического удара увеличивается плоско на 5% для всех дестабилизированных врагов
+					Дестабилизация не пропадает со временем и её уровни суммируются, но чем их больше, тем сложнее наложить следующий
 					'''
 			}
 

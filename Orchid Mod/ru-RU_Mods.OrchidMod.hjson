@@ -1,6 +1,7 @@
-﻿Keybinds: {
+Keybinds: {
 	"Alchemist Hidden Reaction.DisplayName": Секретная алхимическая реакция
 	"Alchemist Catalyst Tool Shortcut.DisplayName": Быстрый доступ к инструменту-катализатору
+	"Hidden Reaction.DisplayName": Скрытая реакция
 }
 
 Tiles: {
@@ -12,233 +13,233 @@ Tiles: {
 
 Buffs: {
 	TitanicBuff: {
-		DisplayName: Titanic Buff
 		Description: ""
+		DisplayName: Titanic Buff
 	}
 
 	LodestoneSlow: {
-		DisplayName: Lodestone Slow
 		Description: ""
+		DisplayName: Lodestone Slow
 	}
 
 	GraniteAura: {
-		DisplayName: Granite Aura
 		Description: ""
+		DisplayName: Granite Aura
 	}
 
 	AquaBump: {
-		DisplayName: Aqua Bump
 		Description: ""
+		DisplayName: Aqua Bump
 	}
 
 	ShroomHeal: {
-		DisplayName: Shroom Heal
 		Description: ""
+		DisplayName: Shroom Heal
 	}
 
 	ShamanicEmpowerment: {
-		DisplayName: Shamanic Empowerment
 		Description: ""
+		DisplayName: Shamanic Empowerment
 	}
 
 	MythrilDefense: {
-		DisplayName: Mythril Defense
 		Description: ""
+		DisplayName: Mythril Defense
 	}
 
 	DeepForestAura: {
-		DisplayName: Deep Forest Aura
 		Description: ""
+		DisplayName: Deep Forest Aura
 	}
 
 	WindStun: {
-		DisplayName: Wind Stun
 		Description: ""
+		DisplayName: Wind Stun
 	}
 
 	WindSlow: {
-		DisplayName: Wind Slow
 		Description: ""
+		DisplayName: Wind Slow
 	}
 
 	WindDamage: {
-		DisplayName: Wind Damage
 		Description: ""
+		DisplayName: Wind Damage
 	}
 
 	LeafSlow: {
-		DisplayName: Leaf Slow
 		Description: ""
+		DisplayName: Leaf Slow
 	}
 
 	HellHit: {
-		DisplayName: Hell Hit
 		Description: ""
+		DisplayName: Hell Hit
 	}
 
 	EarthTotemRevive: {
-		DisplayName: Earth Totem Revive
 		Description: ""
+		DisplayName: Earth Totem Revive
 	}
 
 	DiabolistCauterizeCooldown: {
-		DisplayName: Diabolist Cauterize Cooldown
 		Description: ""
+		DisplayName: Diabolist Cauterize Cooldown
 	}
 
 	BrokenPower: {
-		DisplayName: Broken Power
 		Description: ""
+		DisplayName: Broken Power
 	}
 
 	AbyssEmpowerment: {
-		DisplayName: Abyss Empowerment
 		Description: ""
+		DisplayName: Abyss Empowerment
 	}
 
 	RCRemoteBuff: {
-		DisplayName: Радиоуправляемый вертолётик
 		Description: Вжжжжжжж
+		DisplayName: Радиоуправляемый вертолётик
 	}
 
 	SquareMinecartBuff: {
-		DisplayName: Вагонетка
 		Description: Вы катитесь в вагонетке
+		DisplayName: Вагонетка
 	}
 
 	HarpyPotionBuff: {
+		Description: Бонусный прыжок, вызывающий шквал из перьев
 		DisplayName: Ловкость гарпии
-		Description: Дарует бонусный прыжок, вызывающий шквал из перьев
 	}
 
 	VulturePotionBuff: {
-		DisplayName: Стервятник
 		Description: Скорость появления фишек увеличена на 20%
+		DisplayName: Стервятник
 	}
 
 	ConquerorsPennantBuff: {
-		DisplayName: Трепет завоевателя
 		Description: Шанс картёжного критического удара и скорость передвижения увеличены на 10%
+		DisplayName: Трепет завоевателя
 	}
 
 	SlimeSlow: {
-		DisplayName: Слизневое замедление
 		Description: Скорость передвижения снижена
+		DisplayName: Слизневое замедление
 	}
 
 	ReactionCooldown: {
-		DisplayName: Помехи в эксперементе
 		Description: Вы не можете использовать секретные реакции
+		DisplayName: Помехи в эксперементе
 	}
 
 	FlashFreeze: {
-		DisplayName: Мгновенная заморозка
 		Description: Скорость передвижения снижена
+		DisplayName: Мгновенная заморозка
 	}
 
 	Catalyzed: {
-		DisplayName: Катализирован
 		Description: Активизирует различные алхимические свойства
+		DisplayName: Катализирован
 	}
 
 	Attraction: {
-		DisplayName: Аттаракция
 		Description: Аттарактирует ближайшие алхимические снаряды
+		DisplayName: Аттаракция
 	}
 
 	StellarTalcBuff: {
-		DisplayName: Звёздная орбита
 		Description: Снаряды звёздного талька летают вокруг вас
+		DisplayName: Звёздная орбита
 	}
 
 	StardustSamplesBuff: {
-		DisplayName: Запутанность звёздной пыли
 		Description: Подсолнухи пробы леса запутывают поражённых врагов
+		DisplayName: Запутанность звёздной пыли
 	}
 
 	SpiritedWaterBuff: {
-		DisplayName: Горячие капли
 		Description: Алхимические атаки выпускают горячие водяные огни
+		DisplayName: Горячие капли
 	}
 
 	SlimeFlaskBuff: {
-		DisplayName: Горящий образец
 		Description: Использование слизистых образцов с огненным элементом выпустит наносящие урон угли
+		DisplayName: Горящий образец
 	}
 
 	ReactiveVialsBuff: {
-		DisplayName: Реактивные элементы
 		Description: Урон вашей следующей химической смеси увеличен на 10%
+		DisplayName: Реактивные элементы
 	}
 
 	QueenBeeFlaskBuff: {
-		DisplayName: Человеческий улей
 		Description: Атака с тремя и более элементами призовёт пчёл
+		DisplayName: Человеческий улей
 	}
 
 	MushroomHeal: {
-		DisplayName: Грибные споры
 		Description: Алхимические атаки создадут больше спор
+		DisplayName: Грибные споры
 	}
 
 	MeteorSpeed: {
-		DisplayName: Метеорная манёвренность
 		Description: Невосприимчивость к отбрасыванию и увеличение скорости передвижения на 20%
+		DisplayName: Метеорная манёвренность
 	}
 
 	KingSlimeFlaskBuff: {
+		Description: Увеличивает шанс появления слизневых пузырей, призывающих шипастых слизней джунглей
 		DisplayName: Отравленный слизень
-		Description: Увеличивает шансы появления слизневых пузырей, призывающих шипастых слизней джунглей
 	}
 
 	JungleLilyExtractBuff: {
-		DisplayName: Очищающие лилии
 		Description: Каждая алхимическая атака, использующая 2 или более элемента, выпустит очищающую ауру
+		DisplayName: Очищающие лилии
 	}
 
 	IceChestFlaskBuff: {
-		DisplayName: Постоянная заморозка
 		Description: Замораживает алхимические снаряды вокруг вас и замедляет ближайших врагов
+		DisplayName: Постоянная заморозка
 	}
 
 	DemonBreathFlaskBuff: {
-		DisplayName: Демоническая вонь
 		Description: Дыхание демона будет создавать больше снарядов
+		DisplayName: Демоническая вонь
 	}
 
 	BloodMistFlaskBuff: {
-		DisplayName: Шаги в тумане
 		Description: Во время движения вы выпускаете кровавые облака
+		DisplayName: Шаги в тумане
 	}
 
 	AttractiteAuraSmall: {
-		DisplayName: Малая аттрактивная аура
 		Description: Накладывает аттракцию на ближайших врагов
+		DisplayName: Малая аттрактивная аура
 	}
 
 	GuardianSpikeBuff: {
 		DisplayName: Резкий отказ
-		Description: Увеличение противостоящего урона на 15%
+		Description: Противостоящий урона увеличена на 15%
 	}
 
 	BambooBuff: {
 		DisplayName: Бамбуковая защита
-		Description: Увеличение защиты на 25%
+		Description: Защита увеличена на 25%
 	}
 
 	GuardianGitBuff: {
 		DisplayName: Стал профи
-		Description: Увеличение скорости передвижения на 30%
+		Description: Скорости передвижения увеличено на 30%
 	}
 
 	GuardianRunePotionBuff: {
 		DisplayName: Руническое мастерство
-		Description: Увеличено количество защитных рун
+		Description: Количество защитных рун увеличено
 	}
 
 	GuardianJungleGauntletBuff: {
 		DisplayName: Дичайшее бешенство
-		Description: Увеличение скорости ближнего боя на 100%
+		Description: Скорость ближнего боя увеличена на 100%
 	}
 
 	GuardianSpiderGauntletBuff: {
@@ -263,7 +264,7 @@ Buffs: {
 
 	GuardianBuffStationBuff: {
 		DisplayName: К бою готов
-		Description: Увеличивает максимальное количество очков ударов рукой на 1 ед.
+		Description: Максимальное количество очков ударов рукой увеличено на 1 ед.
 	}
 
 	SageOwlDebuff: {
@@ -292,8 +293,8 @@ Buffs: {
 	}
 
 	HockeyQuarterstaffDebuff: {
-		DisplayName: Ви-и-и!
 		Description: Подобранный
+		DisplayName: Ви-и-и!
 	}
 
 	RubyHealing: {
@@ -312,172 +313,172 @@ AlchemistRecipe: {
 		DisplayName: Воздушные споры
 		Tooltip: Выпускает большое количество воздушных спор, не уничтожающих собой другие
 	}
-	
+
 	RecipeLesserAttractiteAura: {
 		DisplayName: Слабая аттарактирующая аура
 		Tooltip: Применяет аттаракцию к ближайшим врагам
 	}
-	
+
 	RecipeAttractiteShurikens: {
 		DisplayName: Сюрикены аттаракции
 		Tooltip: Создаёт до 5 сюрикенов аттаракции, накладывающих аттаракцию на поражённых врагов
 	}
-	
+
 	RecipeBeeSwarm: {
 		DisplayName: Пчелиный рой
 		Tooltip: Выпускает рой наносящий урон пчёл вокруг вас
 	}
-	
+
 	RecipeOilBubble: {
 		DisplayName: Масляной пузырь
 		Tooltip: Создаёт масляной пузырь-катализатор
 	}
-	
+
 	RecipePoisonBubble: {
 		DisplayName: Отравленный пузырь
 		Tooltip: Создаёт отравленный пузырь-катализатор
 	}
-	
+
 	RecipeBubbles: {
 		DisplayName: Пузыри
 		Tooltip: Выпускает пузыри по большой площади
 	}
-	
+
 	RecipeSapBubble: {
 		DisplayName: Пузырь сока
 		Tooltip: Создаёт пузырь сока-катализатор
 	}
-	
+
 	RecipeSeafoamBubble: {
 		DisplayName: Пузырь морской пены
 		Tooltip: Создаёт пузырь морской пены-катализатор
 	}
-	
+
 	RecipeSlimeBubble: {
 		DisplayName: Пузырь слизни
 		Tooltip: Создаёт слизневой пузырь-катализатор
 	}
-	
+
 	RecipeLavaSlimeBubble: {
 		DisplayName: Лавовый пузырь слизни
 		Tooltip: Создаёт лавовый пузырь слизи-катализатор
 	}
-	
+
 	RecipeSpiritedBubble: {
 		DisplayName: Одухотворённый пузырь
 		Tooltip: Создаёт одухотворённый пузырь-катализатор
 	}
-	
+
 	RecipeBurningSamples: {
 		DisplayName: Горящий образец
 		Tooltip: Использование слизистых образцов с огненным элементом выпустит наносящие урон угли
 	}
-	
+
 	RecipeDemonReeks: {
 		DisplayName: Демоническая вонь
 		Tooltip: Снаряды дыхания демона будут дублироваться
 	}
-	
+
 	RecipeFireSpores: {
 		DisplayName: Огненные споры
 		Tooltip: Выпускает большое количество огненных спор, не уничтожающих уже существующие споры
 	}
-	
+
 	RecipeGlowshroomHealing: {
 		DisplayName: Исцеление светящихся грибов
 		Tooltip: Исцеляет 25 ед. вашего здоровья
 	}
-	
+
 	RecipeJungleLilyPurification: {
 		DisplayName: Лилейное очищение
 		Tooltip: Устраняет большинство слабых дебаффов и заставляет цвести джунглевые лилии, находящиеся рядом с игроком
 	}
-	
+
 	RecipeLivingBeehive: {
 		DisplayName: Живой пчелиный улей
 		Tooltip: Любая атака, использующая 3 или более элементов, призовёт пчёл
 	}
-	
+
 	RecipeMistySteps: {
 		DisplayName: Шаги в тумане
 		Tooltip: Выпускают наносящий урон туман при движении
 	}
-	
+
 	RecipeMushroomThread: {
 		DisplayName: Грибная нить
 		Tooltip: Создайт грибную нить, которую можно использовать для создания брони
 	}
-	
+
 	RecipePermanentFreeze: {
 		DisplayName: Мгновенная заморозка
 		Tooltip: Постоянно накладывает ауру моментальной заморозки вокруг вас
 	}
-	
+
 	RecipePoisonousSlime: {
 		DisplayName: Отравленный слизень
 		Tooltip: Увеличивает шансы появления слизневых пузырей, призывающих шипастых слизней джунглей
 	}
-	
+
 	RecipeBuilderPotion: {
 		DisplayName: Зелье строителя
 		Tooltip: Даёт эффект зелья строителя на 30 секунд
 	}
-	
+
 	RecipeFeatherfallPotion: {
 		DisplayName: Зелье пёрышка
 		Tooltip: Даёт эффект зелья пёрышка на 30 секунд
 	}
-	
+
 	RecipeFlipperPotion: {
 		DisplayName: Зелье гравитации
 		Tooltip: Даёт эффект зелья гравитации на 30 секунд
 	}
-	
+
 	RecipeInvisibilityPotion: {
 		DisplayName: Зелье невидимости
 		Tooltip: Даёт эффект зелья невидимости на 30 секунд
 	}
-	
+
 	RecipeNightOwlPotion: {
 		DisplayName: Зелье ночного зрения
 		Tooltip: Даёт эффект зелья ночного зрения на 30 секунд
 	}
-	
+
 	RecipeObsidianSkinPotion: {
 		DisplayName: Зелье обсидиановой кожи
 		Tooltip: Даёт эффект зелья обсидиановой кожи на 30 секунд
 	}
-	
+
 	RecipePropulsion: {
 		DisplayName: Толчок
 		Tooltip: Подбрасывает вас вверх
 	}
-	
+
 	RecipePurifyingLilies: {
 		DisplayName: Очищающие лилии
 		Tooltip: Каждая алхимическая атака, использующая 2 или более элемента, выпустит очищающую ауру
 	}
-	
+
 	RecipeSpiritedDroplets: {
 		DisplayName: Горячие капли
 		Tooltip: Алхимические атаки выпускают горячие водяные огни
 	}
-	
+
 	RecipeStardustConfusion: {
 		DisplayName: Запутанность звёздной пыли
 		Tooltip: Подсолнухи пробы леса накладывают запутывают поражённых врагов
 	}
-	
+
 	RecipeStellarTalcOrbit: {
 		DisplayName: Звёздный тальк
 		Tooltip: Кусок звёздного талька будет кружить вокруг вас
 	}
-	
+
 	RecipeSunflowerSeeds: {
 		DisplayName: Семена подсолнуха
 		Tooltip: Разбрасывает наносящие урон семена подсолнуха вокруг вас
 	}
-	
+
 	RecipeWaterSpores: {
 		DisplayName: Водяные споры
 		Tooltip: Выпускает большое количество водяных спор, не уничтожающих уже существующие споры
@@ -574,7 +575,7 @@ Items: {
 			Увеличивает скорость восполнения концентрации веществ на 20%
 			Увеличивает максимальное количество используемых алхимических элементов на 1
 			'''
-		SetBonus: Активация достаточно количества каталистических реакций создаёт бутон цветка-катализатора
+		SetBonus: активация достаточно количества каталистических реакций создаёт бутон цветка-катализатора
 	}
 
 	AlchemistJungleLegs: {
@@ -585,7 +586,7 @@ Items: {
 	MushroomBandana: {
 		DisplayName: Фосфоресцирующая бандана
 		Tooltip: Увеличивает скорость восполнения концентрации веществ на 5%
-		SetBonus: Увеличивает максимальное количество используемых алхимических элементов на 1
+		SetBonus: увеличивает максимальное количество используемых алхимических элементов на 1
 	}
 
 	MushroomLeggings: {
@@ -1238,7 +1239,6 @@ Items: {
 	ImpDiceCup: {
 		DisplayName: Стакан для костей беса
 		Tooltip: Вам не могут выпасть 1 или 2 оч. на кости
-
 	}
 
 	LuckySprout: {
@@ -1277,18 +1277,18 @@ Items: {
 	GamblerDungeonHead: {
 		DisplayName: Головной убор Тюхе
 		Tooltip: Максимальное количество фишек увеличено на 5
-		SetBonus: Разыгрывание карт даёт от 1-2 фишки
+		SetBonus: разыгрывание карт даёт от 1-2 фишки
 	}
 
 	GamblerDungeonLegs: {
 		DisplayName: Поножи Тюхе
 		Tooltip: Увеличивает азартный урон на 10%
 	}
-	
+
 	OutlawHat: {
 		DisplayName: Шляпа изгоя
 		Tooltip: Увеличивает максимальное количество фишек на 3
-		SetBonus: Увеличивает максимальное количество повторных вытягиваний на 1
+		SetBonus: увеличивает максимальное количество повторных вытягиваний на 1
 	}
 
 	OutlawPants: {
@@ -1770,7 +1770,7 @@ Items: {
 
 	ShamanBiomeChest: {
 		DisplayName: Светящийся грибной сундук
-		Tooltip: ""	
+		Tooltip: ""
 	}
 
 	ShroomKey: {
@@ -2780,13 +2780,13 @@ Items: {
 	}
 
 	CrimtaneShield: {
-		DisplayName: Лопатка
 		Tooltip: Восстанавливает 10 ед. здоровья после успешного блока
+		DisplayName: Лопатка
 	}
 
 	SkywareShield: {
-		DisplayName: Небесный страж
 		Tooltip: Выпускает всплеск звёзд
+		DisplayName: Небесный страж
 	}
 
 	MeteoriteShield: {
@@ -2795,7 +2795,7 @@ Items: {
 	}
 
 	NightShield: {
-		DisplayName: Стикс 
+		DisplayName: Стикс
 		Tooltip: ""
 	}
 
@@ -2850,28 +2850,28 @@ Items: {
 	}
 
 	HellWarhammer: {
-		DisplayName: Гронд 
+		DisplayName: Гронд
 		Tooltip: Создаёт взрывы при полной зарядке
 	}
 
 	PirateWarhammer: {
-		DisplayName: Пиратский боевой молот
 		Tooltip: С врагов, поражённых взмахом, выпадает больше золота
+		DisplayName: Пиратский боевой молот
 	}
 
 	ChlorophyteWarhammer: {
-		DisplayName: Хлорофитовый отбойник
 		Tooltip: Выпускает облако спор
+		DisplayName: Хлорофитовый отбойник
 	}
 
 	TempleWarhammer: {
-		DisplayName: Боевой молот храма
 		Tooltip: Выпускает самонаводящиеся искры
+		DisplayName: Боевой молот храма
 	}
 
 	BeeRune: {
-		DisplayName: Руна Королевы
 		Tooltip: Напускает пчёл на ближайших врагов
+		DisplayName: Руна Королевы
 	}
 
 	HellRune: {
@@ -2885,8 +2885,8 @@ Items: {
 	}
 
 	FrostRune: {
-		DisplayName: Украшенная руна
 		Tooltip: Призывает круг из украшений
+		DisplayName: Украшенная руна
 	}
 
 	EmpressRune: {
@@ -2898,17 +2898,17 @@ Items: {
 		DisplayName: Бамбуковый шлем
 		Tooltip:
 			'''
-			Ваши очки обороны будут медленно восполняться
+			Немного увеличивает скорость восполнения очков обороны
 			Враги будут чаще выбирать вас в качестве цели
 			'''
-		SetBonus: Использование очков обороны или ударов рукой увеличивает защиту на 25%
+		SetBonus: использование очков обороны или ударов рукой увеличивает защиту на 25%
 	}
 
 	GuardianBambooChest: {
 		DisplayName: Бамбуковый нагрудник
 		Tooltip:
 			'''
-			Ваш запас очков обороны и ударов рукой будет медленно восполняться
+			Немного увеличивает скорость восполнения очков обороны и ударов рукой
 			Увеличивает максимальный запас очков обороны на 1 ед.
 			'''
 	}
@@ -2917,8 +2917,8 @@ Items: {
 		DisplayName: Бамбуковые поножи
 		Tooltip:
 			'''
-			Ваши запас ударов очков рукой будет медленно восполняться
-			Увеличивает максимальное запас очков ударов рукой на 1 ед.
+			Немного увеличивает скорость восполнения очков ударов рукой
+			Увеличивает максимальный запас очков ударов рукой на 1 ед.
 			'''
 	}
 
@@ -2939,7 +2939,7 @@ Items: {
 			Увеличивает противостоящий урон на 5%
 			Увеличивает максимальный запас очков обороны на 1 ед.
 			'''
-		SetBonus: Блоки и парирования имеют 50% шанс дать 2 оч. ударов рукой
+		SetBonus: блоки и парирования имеют 50% шанс дать 2 оч. ударов рукой
 	}
 
 	GuardianMeteoriteLegs: {
@@ -3007,7 +3007,7 @@ Items: {
 			Увеличивает максимальный запас очков обороны на 2 ед.
 			Враги будут чаще выбирать вас в качестве цели
 			'''
-		SetBonus: Ваши очки обороны будут восполняться
+		SetBonus: увеличивает скорость восполнение осков обороны
 	}
 
 	GuardianTitaniumHead: {
@@ -3122,7 +3122,7 @@ Items: {
 			Увеличивает максимальный запас очков ударов рукой на 2 ед.
 			Враги будут чаще выбирать вас в качестве цели
 			'''
-		SetBonus: Ваши очки обороны будут быстро восполняться
+		SetBonus: значительно увеличивает скорость восполнения очков оборону
 	}
 
 	GuardianMythrilHead: {
@@ -3133,7 +3133,7 @@ Items: {
 			Увеличивает максимальный запас очков обороны и ударов рукой на 1 ед.
 			Враги будут чаще выбирать вас в качестве цели
 			'''
-		SetBonus: Увеличивает шанс противостоящего критического удара на 10%
+		SetBonus: увеличивает шанс противостоящего критического удара на 10%
 	}
 
 	GuardianOrichalcumHead: {
@@ -3169,7 +3169,7 @@ Items: {
 			Экиперовка вместе с бронёй из базовых руд даст уникальный бонус косплекта
 			Враги будут чаще выбирать вас в качестве цели
 			'''
-		SetBonus: Увеличивает скорость передвижения после успешного блока или парирования
+		SetBonus: увеличивает скорость передвижения после успешного блока или парирования
 	}
 
 	GuardianRunePotion: {
@@ -3178,8 +3178,8 @@ Items: {
 	}
 
 	GuardianHoneyPotion: {
-		DisplayName: Сладнохранное зелье
-		Tooltip: Восстанавливает жизнь при блокировании и парировании
+		DisplayName: Сладкохранное зелье
+		Tooltip: Восстанавливает здоровье после блока и парирования
 	}
 
 	Guard: {
@@ -3215,7 +3215,7 @@ Items: {
 		DisplayName: Стальной кулак
 		Tooltip:
 			'''
-			Удерживайте ВВЕРХ и ВНИЗ для управления скорсотью падения во время зарядки атаки
+			Удерживайте ВВЕРХ и ВНИЗ для управления скоростью падения во время зарядки атаки
 			Полность заряженые атаки и контратаки вызывают ракетный выпад
 			'''
 	}
@@ -3244,7 +3244,7 @@ Items: {
 		Tooltip:
 			'''
 			Увеличивает защиту на 4 ед. при полной зарядке
-			При усилении увеличивает максимальный запас очков обороны на 1 ед., а также позволяет очкам обороны восполняться со временем
+			При усилении увеличивает максимальный запас очков обороны на 1 ед., а также увеличивает скорость восполнения очков обороны
 			'''
 	}
 
@@ -3253,7 +3253,7 @@ Items: {
 		Tooltip:
 			'''
 			Увеличивает защиту на 4 ед. при полной зарядке
-			При усилении увеличивает максимальный запас очков удара рукой на 1  ед., а также позволяет очкам удара рукой медленно восполняться со временем
+			При усилении увеличивает максимальный запас очков удара рукой на 1  ед., а также немного увеличивает скорость восполнения очков обороны
 			'''
 	}
 
@@ -3409,7 +3409,7 @@ Items: {
 			Увеличивает сопротивление урону, противостоящий урон и шанс противостоящего критического удара на 15%
 			Враги будут значительно чаще выбирать вас в качестве цели
 			'''
-		SetBonus: Вы будете расходовать своё здоровье вместо очков обороны и ударов рукой, если оно превышает 50% от максимального
+		SetBonus: вы будете расходовать своё здоровье вместо очков обороны и ударов рукой, если оно превышает 50% от максимального
 	}
 
 	GuardianHorizonLegs: {
@@ -3467,12 +3467,12 @@ Items: {
 	}
 
 	WardenSpider: {
-		DisplayName: Идол ракушечника
+		DisplayName: Идол паутинопокрытого
 		LeftClick: Совершает сильный укус, который исцеляет вас, если был поражён покрытый паутиной враг
 		RightClick: Выстреливает паутиной, уничтожающей врагов, у которых менее 100 ед. здоровья
 		Jump: Позволяет использвать паутину, чтобы притягиваться к блокам или другим паутинам
 		Passive: Убийства врагов восстанавливают вам 10 ед. здоровья и дарают 15 ед. защиты. Порог усиления и исцеления снижен в других формах.
-		Tooltip: Обращает вас в паука-ракушечника, даруя уникальные навыки
+		Tooltip: Обращает вас в паутинопокрытого паука, даруя уникальные навыки
 	}
 
 	SageBat: {
@@ -3630,7 +3630,7 @@ Items: {
 	}
 
 	ThoriumThorsHammerWarhammer: {
-		DisplayName: Молот Тора: Противостояние
+		DisplayName: Молот Тора: Охрана
 		Tooltip: ""
 	}
 
@@ -3651,16 +3651,16 @@ Items: {
 
 	JewelerGauntlet: {
 		DisplayName: Перчатки ювелира
-		Tooltip: Вставьте самоцвет с помощью ПКМ, чтобы получить уникальный эффект
-		Amethyst: Аметист: Атаки игнорируют значительную часть вражесокй защиты
-		Topaz: Топаз: Увеличивает время неуязвимости после парирования
-		Sapphire: Сапфир: Позволяет пользователю совершать двойной прыжок
-		Emerald: Изумруд: Позволяет пользователю совершать рывок
-		Ruby: Рубин: Значительно ускоряет регенерацию здоровья после парирования
-		Diamond: Алмаз: Пользователь будет излучать ауру света
-		Amber: Янтарь: Восстанавливает 50% очков обороны от атак заряженных попаданий
-		Aquamarine: Аквамарин: Увеличивает мобильность в воде, когда пользователь держит их в руках
-		Opal: Опал: Увеличивает скорость восстановления параметров ближайших игроков
+		Tooltip: Вставьте самоцвет с помощью ПКМ, чтобы получить ункальный эффект
+		Amethyst: "[i:Amethyst] [c/9C5ADC:Аметист]: Атаки игнорируют значительную часть вражесокй защиты"
+		Topaz: "[i:Topaz] [c/FFBA00:Топаз]: Увеличивает время неуязвимости после парирования"
+		Sapphire: "[i:Sapphire] [c/2D6ACC:Сапфир]: Позволяет пользователю совершать двойной прыжок"
+		Emerald: "[i:Emerald] [c/00A32E:Изумруд]: Позволяет пользователю совершать рывок"
+		Ruby: "[i:Ruby] [c/D92B2B:Рубин]: Значительно ускоряет регенерацию здоровья после парирования"
+		Diamond: "[i:Diamond] [c/FFC4E1:Алмаз]: Пользоватль будет излучать ауру света"
+		Amber: "[i:Amber] [c/FF8800:Янтарь]: Востанавливает 50% очков обороны от атак заряженных попаданий"
+		Aquamarine: "[i:ThoriumMod/Aquamarine] [c/6dffd8:Аквамарин]: Увеличивает мобильность в воде, когда пользователь держит их в руках"
+		Opal: "[i:ThoriumMod/Opal] [c/ef659a:Опал]: Увеличивает скорость восстановления параметров ближайших игроков"
 		None: Самоцвет не вставлен
 	}
 
@@ -3673,6 +3673,75 @@ Items: {
 		DisplayName: Ториевый боевой шест
 		Tooltip: Выпускает искры при попадании
 	}
+
+	PredatorFossil: {
+		Tooltip: ""
+		DisplayName: Окаменевший хищник
+	}
+
+	SageBatHell: {
+		DisplayName: Мудрость адской летучей мыши
+		Tooltip: ""
+	}
+
+	SageImp: {
+		DisplayName: Мудрость беса
+		Tooltip: ""
+	}
+
+	SageCorruption: {
+		DisplayName: Мудрость искажения
+		Tooltip: ""
+	}
+
+	SturdySlab: {
+		DisplayName: Крепкая пластина
+		Tooltip: Увеличивает длительность блока и парирования на 25%
+	}
+
+	ParryingMailFeral: {
+		DisplayName: Feral Braces
+		Tooltip:
+			'''
+			Увеличивает длительность блока и парирования на 25%
+			Увеличивает скорость ближнего боя на 12%
+			'''
+	}
+
+	ParryingMailHoly: {
+		DisplayName: Латы с крестом
+		Tooltip:
+			'''
+			Увеличивает длительность блока и парирования на 25%
+			Увеличивает время неуязвимости после получения урона и парирования
+			'''
+	}
+
+	ParryingMailMech: {
+		DisplayName: Освящённая кольчуга
+		Tooltip:
+			'''
+			Увеличивает длительность блока и парирования на 25%, а также скорость ближнего боя на 12%
+			Увеличивает противостоящий урон на 15% в течении 10 секунд после парирования
+			Увеличивает время неуязвимости после получения урона и парирования
+			'''
+	}
+
+	ParryingMailNinja: {
+		DisplayName: Прекрытие ассасина
+		Tooltip:
+			'''
+			Увеличивает длительность блока и парирования на 25%, а также скорость ближнего боя на 12% and dodge chance
+			Увеличивает противостоящий урон на 15% в течении 10 секунд после парирования
+			Увеличивает время неуязвимости после получения урона и парирования
+			Позволяет цепляться за стены и совершать рывок
+			'''
+	}
+
+	ThoriumFeatherWarhammer: {
+		DisplayName: Боеклюй
+		Tooltip: Делает три клёва
+	}
 }
 
 NPCs: {
@@ -3681,7 +3750,7 @@ NPCs: {
 	Chemist: {
 		DisplayName: Химик
 		Bestiary: Химик любит делиться своей страстью и запасами с любым, кто пожелает изучить алхимию. На удивление, она не превращалась в слайма. Пока что.
-		
+
 		Names: {
 			1: Элоди
 			2: Анник
@@ -3699,7 +3768,7 @@ NPCs: {
 			Content: Клёвое место для проведения экспериментов!
 			NoHome: Если бы только у меня было место для лаборатории...
 			FarFromHome: Надеюсь, лаборатория у меня дома в порядке...
-			LoveSpace:Химия в этом месте потрясающая! Понял?
+			LoveSpace: Химия в этом месте потрясающая! Понял?
 			DislikeCrowded: Вокруг так много людей, это отвлекает меня.
 			HateCrowded: Ну и как я должна экспериментировать в таком людном месте?
 			LoveBiome: "{BiomeName} — хорошее место для поиска ингредиентов."
@@ -3713,12 +3782,11 @@ NPCs: {
 			LikeNPC_Princess: Мне нравится {NPCName}.
 			Princess_LovesNPC: Мне нравится {NPCName}.
 		}
-		
+
 		UI: {
 			RHint: Подсказка к реакции
 			SHint: Специальная подсказка!
 		}
-
 
 		Dialogues: {
 			1: Спасибо, ты избавил меня от тонны проблем, а ведь могло... Давай не будем об этом.
@@ -3759,7 +3827,7 @@ NPCs: {
 	Croupier: {
 		DisplayName: Крупье
 		Bestiary: Крупье помогает игрокам поддерживать их уникальный образ жизни. Поговаривают, что он чертовски везуч, а однажды вообще выиграл, выбросив 7 на шестигранном кубике.
-		
+
 		Names: {
 			1: Капонэ
 			2: Кадиллак
@@ -3780,7 +3848,7 @@ NPCs: {
 			FarFromHome: Шеф, не то что бы мне не нравилось это место, но нет ли возможности мне вернуться, а?
 			LoveSpace: Если бы я знал, что мне достанется такой клёвый уголок, я бы раньше сюда переехал!
 			DislikeCrowded: Соседи хорошие и всё такое, но, знаешь, многовато их.
-			HateCrowded:Так много прохожих! Не могу даже ... провести вполне честную игру без того, чтобы быть увиденным!
+			HateCrowded: Так много прохожих! Не могу даже ... провести вполне честную игру без того, чтобы быть увиденным!
 			LoveBiome: "{BiomeName} идеально подходит для хранения карт в чистоте."
 			LikeBiome: В {BiomeName} прохладно, я не прочь остаться здесь.
 			DislikeBiome: "{BiomeName} не вызывает у меня неприязни, но вот мои карты видали лучшие места хранения."
@@ -3792,7 +3860,7 @@ NPCs: {
 			LikeNPC_Princess: Мне нравится {NPCName}.
 			Princess_LovesNPC: Мне нравится {NPCName}.
 		}
-		
+
 		UI: {
 			DeckBuilding: Состав колоды
 			NewDeck: Получить колоду
@@ -3866,6 +3934,15 @@ Prefixes: {
 	AngelicPrefix.DisplayName: Ангельский
 	ImpregnablePrefix.DisplayName: Неприступный
 	HaidexPrefix.DisplayName: Непонятный
+	AddPotency: " к концентрации"
+	AddMaximumChips: " к количеству фишек"
+	AddGuard: " оч. защиты"
+	AddAttackSpeed: % к скорости атаки
+	AddDuration: к длительности {0}
+	AddSize: к размеру
+	AddSpeed: к скорости
+	AddParry: парирования
+	AddBlock: блока
 }
 
 Projectiles: {
@@ -3883,7 +3960,7 @@ Projectiles: {
 	SearingOnslaughtProjectile.DisplayName: Searing Onslaught Projectile
 	RCRemoteProjectile.DisplayName: Радиоуправляемый вертолётик
 	PrototypeSecrecyProjectile.DisplayName: Секретный прототип
-	PrototypeSecrecyHitProjectile.DisplayName:  Секретный прототип
+	PrototypeSecrecyHitProjectile.DisplayName: Секретный прототип
 	MineshaftHookProjectile.DisplayName: Mineshaft Hook Projectile
 	EnchantedPaviseProj.DisplayName: Зачарованная павеза
 	LivingRuneProj.DisplayName: Пузырь сока
@@ -4089,20 +4166,21 @@ Projectiles: {
 	PredatorHarpyProjAlt.DisplayName: Перо
 	SageBeeProj.DisplayName: Жало
 	HorizonDrillProjectile.DisplayName: Бур горизонта
-	WardenSpiderProj.DisplayName: Warden Spider Proj
-	WardenSpiderWeb.DisplayName: Warden Spider Web
-	SageBatProj.DisplayName: Sage Bat Proj
-	SageBatProjAlt.DisplayName: Sage Bat Proj Alt
-	GuardianQuarterstaffAnchor.DisplayName: Guardian Quarterstaff Anchor
+	WardenSpiderProj.DisplayName: Паутинопокрытый паук
+	WardenSpiderWeb.DisplayName: Паутина паутинопокрытого паука
+	SageBatProj.DisplayName: Летучая мышь
+	SageBatProjAlt.DisplayName: Летучая мышь
+	GuardianQuarterstaffAnchor.DisplayName: Боевой шест хранителя
 	ThoriumLeafShieldProj.DisplayName: Бритвенные листья
-	DungeonQuarterstaffProjectile.DisplayName: Dungeon Quarterstaff Projectile
-	ShardQuarterstaffProjectile.DisplayName: Shard Quarterstaff Projectile
+	DungeonQuarterstaffProjectile.DisplayName: Раздвинутые моря
+	ShardQuarterstaffProjectile.DisplayName: Гармония
 	OrchidTitaniumShard.DisplayName: Титановый осколок
 	ThoriumGraniteGauntletProjectile.DisplayName: Удар сдачи
 	TempleSpikeProj.DisplayName: Смертоносный солнечный лазер
 	MechSpikeProj.DisplayName: Смертельный лазер
 	VerveineFart.DisplayName: Пердёж
 	ThoriumAquaiteQuarterstaffProjectile.DisplayName: Вихревой взмах
+	PredatorFossilProj.DisplayName: Ископаемый хищник
 }
 
 Configs: {
@@ -4199,7 +4277,7 @@ UI: {
 		NotActive: неактивна
 		NotActiveTip: (не будет отображаться в меню смешивания)
 	}
-	
+
 	AlchemistItem: {
 		Mix: Нажмите ПКМ для смешивания
 		Cost: Использует {0} ед. концентрации вещества
@@ -4210,7 +4288,7 @@ UI: {
 		Light: Элемент: Свет
 		Dark: Элемент: Тьма
 	}
-	
+
 	GamblerItem: {
 		Requires: Требует {0} {^0:карту;карты;карт} (в колоде: {1})
 		InDeck: Сейчас в колоде
@@ -4225,8 +4303,8 @@ UI: {
 		SetBoss: «Боссы»
 		SetElemental: «Элементы»
 		SetSlime: «Слизни»
-	}	
-	
+	}
+
 	GuardianItem: {
 		LeftClick: ЛКМ
 		RightClick: ПКМ
@@ -4239,7 +4317,7 @@ UI: {
 		BlockDuration: Длительность блока: {0} сек.
 		Interrupted: Прервано
 		Charged: Заряжено
-		Reinforced: Усилено
+		Reinforced: Укреплено
 		Failed: Неудача
 		Guard: "{0} оч. {^0:обороны;обороны;обороны}"
 		Slam: "{0} оч. {^0:ударов рукой;ударов рукой;ударов рукой}"
@@ -4256,13 +4334,13 @@ UI: {
 		HorizonLaceShieldStacks: Дарует 3 оч. обороны при полной зарядке
 		DamageOfDefense: Наносит противостоящий урон, равный {0}% от вашей защиты
 	}
-	
+
 	DanserItem: {
 		ImpactWeapon: -Ударное оружие-
 		PhaseWeapon: -Фазовое оружие-
 		MomentumWeapon: Momentum Weapon
 	}
-	
+
 	ReactionBook: {
 		UnknownReaction: Неизвестная реакция
 		Page: Стр.: {0}/{1}
@@ -4289,7 +4367,7 @@ DamageClasses: {
 			Description: Увеличивает максимальный запас очков обороны и ударов рукой, защиту и скорость регенерации здоровья на 3 ед.
 		}
 	}
-			
+
 	ShamanDamageClass.DisplayName: shamanic damage
 	ShapeshifterDamageClass.DisplayName: ед. дикого урона
 }

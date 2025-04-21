@@ -1,9 +1,9 @@
-﻿EndlessDamageClassTextContent.EndlessDamageClass.DisplayName: ед. неиссекаемого урона
+EndlessDamageClassTextContent.EndlessDamageClass.DisplayName: ед. неиссекаемого урона
 Tools.RecipesLoseText: Вы не можете создать этот предмет просто так
 
 Items: {
 	ElementWhip: {
-		DisplayName: Элементальных хлыст
+		DisplayName: Элементальный хлыст
 		Tooltip:
 			'''
 			{$CommonItemTooltip.Whips}
@@ -3346,13 +3346,13 @@ RemakeItems: {
 	}
 
 	RLucrecia: {
-                DisplayName: Лукреция
-                Tooltip:
-                    '''
-                    Выпускает цепь ДНК
-                    Изящество
-                    '''
-            }
+		DisplayName: Лукреция
+		Tooltip:
+			'''
+			Выпускает цепь ДНК
+			Изящество
+			'''
+	}
 
 	RMajesticGuard: {
 		DisplayName: Величественная охрана
@@ -3398,7 +3398,7 @@ RemakeItems: {
 
 	RPlagueKeeper: {
 		DisplayName: Хранитель чумы
-                Tooltip: Выпускает чумное и пчелиное облака
+		Tooltip: Выпускает чумное и пчелиное облака
 	}
 
 	RPrismaticBreaker: {
@@ -3433,7 +3433,7 @@ RemakeItems: {
 
 	RSeashineSword: {
 		DisplayName: Меч морского блеска
-                Tooltip: Стреляет водным мечевидным лучом
+		Tooltip: Стреляет водным мечевидным лучом
 	}
 
 	RSeedler: {

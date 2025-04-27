@@ -57,7 +57,7 @@ Mods: {
 			WulfrumWashingMachinePoster.MapEntry: Постер
 			WulfrumWideComputer.MapEntry: Компьютер
 			WulfrumWorkbench.MapEntry: Верстак
-			WulfrumWorkshop.MapEntry: Мастерская
+			WulfrumWorkshop.MapEntry: Вульфрумовая мастерская
 			Wulfrum1x1Piles.MapEntry: Металлолом
 			Wulfrum1x1PilesEcho.MapEntry: Металлолом
 			Wulfrum3x2Piles.MapEntry: Металлолом
@@ -728,7 +728,7 @@ Mods: {
 
 			DesertProwlerHat: {
 				DisplayName: Шляпа пустынного мародёра
-				Tooltip: Увеличивает стрелковый урон на 4% и шанс не использовать боеприпасы на 20%
+				Tooltip: Увеличивает стрелковый урон на 4% и шанс сэкономить боеприпасы на 20%
 			}
 
 			DesertProwlerPants: {

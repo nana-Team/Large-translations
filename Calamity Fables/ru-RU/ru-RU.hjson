@@ -818,7 +818,7 @@ Mods: {
 			}
 
 			MarniteArchitectToga: {
-				DisplayName: Мранитовая мантия архитектора
+				DisplayName: Мранитовая тога архитектора
 				Tooltip: Увеличивает скорость размещения блоков на 50%
 			}
 

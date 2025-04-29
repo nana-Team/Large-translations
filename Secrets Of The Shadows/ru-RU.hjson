@@ -643,7 +643,7 @@ Mods: {
 				DisplayName: Посох ауры небытия
 				Tooltip:
 					'''
-					Призывает клетку небытия, стреляющую по ближайшим врагам, в месте вашего курсора, 
+					Призывает клетку небытия, стреляющую по ближайшим врагам, в месте вашего курсора
 					Враги, находящиеся в ауре клетки, получают периодический урон
 					Нахождение в ауре клетки также усилиает ваши характеристики:
 					Увеличивает получаемое количество пустоты и сопротивление урону на 4%, а также защиту на 4 ед. и скорость регенерации здоровья на 4 ед. (2 ОЗ/сек)
@@ -2685,34 +2685,34 @@ Mods: {
 			}
 
 			StarcoreAssaultRifle: {
-				DisplayName: Starcore Assault Rifle
-				Tooltip: Fires a stream of bouncy, colorful projectiles
+				DisplayName: Штурмовая винтовка из ядра звезды
+				Tooltip: Стреляет множеством отскакивающих, разноцветных снарядов
 			}
 
 			StarshotCrossbow: {
-				DisplayName: Starshot Crossbow
-				Tooltip: Fire a star that scatters arrows in every direction
+				DisplayName: Арбалет звездопада
+				Tooltip: Стреляет звездой, запускающей стрелы во всех направлениях
 			}
 
 			SupernovaHammer: {
-				DisplayName: Supernova Hammer
+				DisplayName: Молот сверхновой
 				Tooltip:
 					'''
-					Critical strikes release 3 seekers that do 100% damage
-					Killing enemies releases 3 seekers that do 70% damage
-					Enemies killed by seekers release 2 more seekers, each doing 75% damage
-					Seekers home onto enemies, but do not attack the enemies they are released from
+					Критические удары высвобождают трёх искателей, наносящих 100% урона
+					Критические удары высвобождают трёх искателей, наносящих 70% урона
+					Враги, убитые искателями, выпускают ещё двух, каждый из которых наносит 75% урона
+					Искателя наводятся на врагов, но не атакуют тех, из которых они появились
 					'''
 			}
 
 			TerminatorAcorns: {
-				DisplayName: Terminator Acorns
-				Tooltip: Summons a Mechanically Modified Squirrel to fight for you
+				DisplayName: Механические жёлуди
+				Tooltip: Призывают механически модифицированную белку сражаться за вас
 			}
 
 			TwilightAssassinsCirclet: {
 				DisplayName: Венок сумрачного ассасина
-				Tooltip: Gamer
+				Tooltip: Игрок
 			}
 
 			TwilightAssassinsChestplate: {
@@ -2755,8 +2755,8 @@ Mods: {
 			}
 
 			UndoArrow: {
-				DisplayName: Developer Test Item
-				Tooltip: Makes all NPC have zero epicness
+				DisplayName: Тестовый предмет разработчика
+				Tooltip: Заставляет всех НИПов потерять свою эпичность
 			}
 
 			VibrancyModule: {
@@ -2780,8 +2780,8 @@ Mods: {
 				Tooltip: Используется для создания потусторонней мебели и экиперовки
 			}
 
-			LockedMeteoriteChest.DisplayName: Meteorite Chest
-			LockedSkywareChest.DisplayName: Skyware Chest
+			LockedMeteoriteChest.DisplayName: Метеоритный сундук
+			LockedSkywareChest.DisplayName: Заоблачный сундук
 
 			StrangeChest: {
 				DisplayName: Сундук Планетария
@@ -2793,7 +2793,7 @@ Mods: {
 				Tooltip:
 					'''
 					Генерирует горшки на своей верхней поверхности
-					Генераторы можно уложить друг на друго, чтобы ускорить саммый верхний
+					Генераторы можно уложить друг на друга, чтобы ускорить саммый верхний
 					«Нет, я хотел не под горшок»
 					'''
 			}
@@ -2815,42 +2815,42 @@ Mods: {
 			}
 
 			AvaritianGateway: {
-				DisplayName: Avaritia Gateway
+				DisplayName: Врата Аватарии
 				Tooltip:
 					'''
-					'A strange portal that leads nowhere'
-					Serves as the spawning location for the Advisor
+					«Странный портал, который ведёт в никуда»
+					Служит местом для появления Аналитика
 					'''
 			}
 
 			BladeGenerator: {
-				DisplayName: Blade Generator
+				DisplayName: Генератор мечей
 				Tooltip:
 					'''
-					Periodically accumulate up to 9 swords that rotate around you
-					Every 10th melee attack will launch forth the swords
+					Переодически создаёт мечи, вплоть до 9 штук; эти мечи будут вращаться вокруг вас
+					Кажадая десятая атака ближнего боя запустит вперёд четвреть мечей
 					'''
 			}
 
 			BladeNecklace: {
-				DisplayName: Blade Necklace
+				DisplayName: Мечевое ожерелье
 				Tooltip:
 					'''
-					Increases void gain by 1
-					Periodically accumulate up to 9 swords that rotate around you
-					Every 10th melee attack will launch forth the swords
-					Getting hit summons 5 Souls of Retaliation into the air
-					Every 10th void attack will release the souls in the form of a powerful laser
+					Увеличивает получаемую пустоту на 1
+					Переодически создаёт мечи, вплоть до 9 штук; эти мечи будут вращаться вокруг вас
+					Кажадая десятая атака ближнего боя запустит вперёд четвреть мечей
+					Получение урона высвободит 5 душ возмездия
+					Каждая 10-ая пустотная атака запустит душу в виде мощного лазера
 					'''
 			}
 
 			GravityAnchor: {
-				DisplayName: Gravity Anchor
-				Tooltip: Normalizes gravity and grants immunity to knockback
+				DisplayName: Гравитационный якорь
+				Tooltip: Нормализует гравитацию и дарует неуязвимость к отбрасыванию
 			}
 
 			JarOfSouls: {
-				DisplayName: Jar of Souls
+				DisplayName: Банка с душами
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -2860,8 +2860,8 @@ Mods: {
 			}
 
 			PhaseCannon: {
-				DisplayName: Phase Cannon
-				Tooltip: Fires a supercharged ball of plasma that can travel through walls
+				DisplayName: Фазовая пушка
+				Tooltip: Стреляет сверхзаряженной сферой плазмы, пролетающей сквозь блоки
 			}
 
 			SkywareKey: {
@@ -2880,17 +2880,17 @@ Mods: {
 			}
 
 			ThundershockShortbow: {
-				DisplayName: Thundershock Shortbow
-				Tooltip: Fires powerful bolts of lightning instead of arrows
+				DisplayName: Громовой короткий лук
+				Tooltip: Стреляет мощными молниями вместо стрел
 			}
 
 			TwilightBeads: {
-				DisplayName: Twilight Beads
+				DisplayName: Сумеречные бусины
 				Tooltip:
 					'''
-					Increases void gain by 1
-					Getting hit summons 5 Souls of Retaliation into the air, assuming you have less than 5 Souls active already
-					Every 10th void attack will release the souls in the form of a powerful laser
+					Увеличивают получаемую пустоту на 1
+					Если активно менее 5 душ возмездия, то получение урона высвободит 5 душ возмездия
+					Каждая 10-ая пустотная атака запустит душу в виде мощного лазера
 					'''
 			}
 
@@ -2907,21 +2907,21 @@ Mods: {
 			}
 
 			CruiseCaller: {
-				DisplayName: Cruise Caller
-				Tooltip: Summons a fleet of Penguin Copters to fight for you
+				DisplayName: Звонящий на корабль
+				Tooltip: Призывает флот пингволётов сражаться за вас
 			}
 
 			CryoCannon: {
-				DisplayName: Cryo Cannon
-				Tooltip: Uses snowballs as ammo
+				DisplayName: Криопушка
+				Tooltip: Использует снежки в качестве боеприпасов
 			}
 
 			EndothermicAfterburner: {
-				DisplayName: Endothermic Afterburner
+				DisplayName: Эндотермический дожигатель
 				Tooltip:
 					'''
-					Melee attacks send a Frost Burst behind you, dealing 70% damage and inflicting Frostburn
-					Hitting an enemy with the Frost Burst will increase movement speed and melee speed by 10% for 10 seconds
+					Атаки ближнего боя вызывают морозную вспышку позади вас, нанося 70% урона и накладывая обморожение
+					Если морозная вспышка нанесёт урон врагу, то на 10 секунд вы получите увеличение скорости передвижения и скорости ближнего боя на 10%
 					'''
 			}
 
@@ -2990,40 +2990,40 @@ Mods: {
 			}
 
 			HypericeClusterCannon: {
-				DisplayName: Hyperice Cluster Cannon
+				DisplayName: Гиперльдовая кластерная пушка
 				Tooltip: ""
 			}
 
 			IceDeployer: {
-				DisplayName: Snow Crystal
+				DisplayName: Снежный кристалл
 				Tooltip:
 					'''
-					Summons the snow-shield mount
-					While mounted, gain 8 defense
+					Призывает маунта — ледяной щит
+					Пока он призван, вы получаете 8 ед. защиты
 					'''
 			}
 
 			IcicleImpale: {
-				DisplayName: Icicle Impale
+				DisplayName: Сосулька-пронзательница
 				Tooltip:
 					'''
-					Launches large icicles
-					Regenerates void upon hit
+					Запускает большие сосульки
+					Воссанавливает пустоту при ударе
 					'''
 			}
 
 			Metalmalgamation: {
-				DisplayName: Metalmalgamation
+				DisplayName: Железнольгама
 				Tooltip:
 					'''
-					Rapidly sprays out bullets in a radius around it that deal 50% damage
-					'Guns on MY children's toy!?'
+					Непрерывно стреляет пулями, наносящими 50% урона, вокруг себя
+					«Пушки на игрушках МОИХ детей!?»
 					'''
 			}
 
 			PermafrostMedallion: {
-				DisplayName: Permafrost Medallion
-				Tooltip: Surrounds you with a blizzard of artifact probes that fire lasers at nearby enemies
+				DisplayName: Медальон вечной мерзлоты
+				Tooltip: Окружает вас метелью древних зондов, стреляющих лазерами в ближайших врагов
 			}
 
 			PolarisBossBag: {

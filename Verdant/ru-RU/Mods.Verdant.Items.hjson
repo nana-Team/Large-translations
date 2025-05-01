@@ -308,13 +308,13 @@ HangingCrystalItem: {
 		'''
 		Создаёт лечебные растения при размещении
 		Можно включать/выключать с помощью проводов
-		«Светится мягкой силой» 
+		«Излучает целебный свет» 
 		'''
 }
 
 LightbulbPaintingItem: {
-	DisplayName: Lightbulb
-	Tooltip: "'Emily A.'"
+	DisplayName: Лампочка
+	Tooltip: "«Emily A.» "
 }
 
 OvergrownBrickItem: {
@@ -493,21 +493,21 @@ HousproutItem: {
 }
 
 LightbulbSeeds: {
-	DisplayName: Lightbulb Seeds
-	Tooltip: "'These emenate the faintest light already'"
+	DisplayName: Семена лампоцвета
+	Tooltip: "«Они уже излучают слабое сияние» "
 }
 
 LilyPadItem: {
-	DisplayName: Lily Pad
-	Tooltip: Must be placed on lillies
+	DisplayName: Лист кувшинки
+	Tooltip: Можно разместить только на кувшинках
 }
 
 PinkDyeBulb: {
-	DisplayName: Calla Lily
+	DisplayName: Лилия калла
 	Tooltip:
 		'''
-		'A wonderfully bright colour!'
-		Used to make Pink Dye
+		«Поразительно яркий цвет!» 
+		Используется в изготовлении розового красителя
 		'''
 }
 
@@ -521,11 +521,11 @@ PinkPuff: {
 }
 
 RedDyeBulb: {
-	DisplayName: Perennial Geranium
+	DisplayName: Многолетняя герань
 	Tooltip:
 		'''
-		'A wonderfully bright colour!'
-		Used to make Red Dye
+		«Удивительно яркий цвет!» 
+		Используется в изготовлении красного красителя
 		'''
 }
 

@@ -816,12 +816,12 @@ WisplantInfusedMudBoulder: {
 }
 
 BulbSnail: {
-	DisplayName: Bulb Snail
-	Tooltip: Lights up the ol' road.
+	DisplayName: Лампулитка
+	Tooltip: «Освещает старую дорогу» 
 }
 
 BumblebeeItem: {
-	DisplayName: Bumblebee
+	DisplayName: Шмель
 	Tooltip: ""
 }
 
@@ -831,8 +831,8 @@ AxolotlItem: {
 }
 
 BulbboxJellyItem: {
-	DisplayName: Bulbbox Jelly
-	Tooltip: "'Squishy!'"
+	DisplayName: Люмидуза
+	Tooltip: "«Мягенькая!» "
 }
 
 MossCarpItem: {
@@ -841,18 +841,18 @@ MossCarpItem: {
 }
 
 PoolwormItem: {
-	DisplayName: Poolworm
-	Tooltip: "'Surprisingly slimy!'"
+	DisplayName: Прудовик
+	Tooltip: "«На удивление скользкий!» "
 }
 
 FlotieItem: {
-	DisplayName: Flotie
+	DisplayName: Летун
 	Tooltip: ""
 }
 
 FlotinyItem: {
-	DisplayName: Flotiny
-	Tooltip: "'Oh my lord it's so tiny'"
+	DisplayName: Летунчик
+	Tooltip: "«Божечки, какие малыши»"
 }
 
 FolifishItem: {
@@ -861,12 +861,12 @@ FolifishItem: {
 }
 
 MysteriaFlotieItem: {
-	DisplayName: Mysteria Flotie
+	DisplayName: Летун мистернии
 	Tooltip: ""
 }
 
 MysteriaFlotinyItem: {
-	DisplayName: Mysteria Flotiny
+	DisplayName: Летунчик мистернии
 	Tooltip: ""
 }
 

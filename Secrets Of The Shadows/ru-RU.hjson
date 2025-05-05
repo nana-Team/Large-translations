@@ -6,7 +6,7 @@ Mods: {
 			Dedicated: ~ Посвящённый предмет ~
 			BlastDoor: Взрывоустойчивая дверь
 			Dresser: Комод
-			Unbound: "[NONE]"
+			Unbound: "[НЕ НАЗНАЧЕНО]"
 			ACZV: Автоматически используется, когда пустота опускается до нуля
 			SOTSTexturePackName: Secrets of the Shadows Texture Pack
 			Void: "Пустота: "
@@ -50,11 +50,11 @@ Mods: {
 			NaturePlatingDresserTile: Заросший комод
 			EarthenPlatingDresserTile: Покрытый землёй комод
 			PermafrostPlatingDresserTile: Комод вечной мерзлоты
-			// TidalPlatingDresserTile: Tidal Plating Dresser
-			// OtherworldPlatingDresser: Otherworld Plating Dresser
-			// EvilPlatingDresserTile: Evil Plating Dresser
-			// InfernoPlatingDresserTile: Inferno Plating Dresser
-			// ChaosPlatingDresserTile: Chaos Plating Dresser
+			TidalPlatingDresserTile: Tidal Plating Dresser
+			OtherworldPlatingDresser: Otherworld Plating Dresser
+			EvilPlatingDresserTile: Evil Plating Dresser
+			InfernoPlatingDresserTile: Inferno Plating Dresser
+			ChaosPlatingDresserTile: Chaos Plating Dresser
 			AncientGoldDresser: Комод из древнего золота
 		}
 
@@ -64,8 +64,8 @@ Mods: {
 			GeneratingSkyArtifacts: Создание небесных артефактов...
 			GeneratingAPyramid: Строительство Пирамиды...
 			GeneratingGemStructures: Создание самоцветных строений...
-			// GeneratingPeanuts: Placing Peanuts
-			// GeneratingSanctuary: Generating Sanctuary
+			GeneratingPeanuts: Placing Peanuts
+			GeneratingSanctuary: Generating Sanctuary
 		}
 
 		AdjacentDesertGeneration.SEverywhere: Ветер развевает песок повсюду!
@@ -77,7 +77,7 @@ Mods: {
 				TPS: Настройки наборов текстур
 				GPS: Геймплейные настройки
 				BAL: Изменения баланса
-				// MS: Music Settings
+				MS: Music Settings
 			}
 
 			Label: {
@@ -97,7 +97,7 @@ Mods: {
 				AVE: Дополнительные визуальные эффекты
 				SHT: Стиль начального дома при генерации
 				NINS: Ослабленная парящая инсигния до Люкс
-				// BLZD: Alternative SOTS Music
+				BLZD: Alternative SOTS Music
 			}
 
 			Tooltip: {
@@ -164,11 +164,11 @@ Mods: {
 					Ослабляет парящую инсигнию, из-за чего она будет давать бесконечный полёт только после победы над Люкс.
 					До победы над Люкс игнистия будет удваивать ваше время полёта.
 					'''
-				/* BLZD:
+				BLZD:
 					'''
 					When on, SOTS will play the soundtrack made by Banana Lizard where applicable
 					When off, SOTS will play the soundtrack made by Heart Plus Up where applicable
-					''' */
+					'''
 			}
 		}
 
@@ -212,12 +212,12 @@ Mods: {
 
 			PhaseBiome: {
 				DisplayName: Phase Ore Clusters
-				TownNPCDialogueName: the Phase Biome
+				TownNPCDialogueName: the Phase Clusters
 			}
 
 			AnomalyBiome: {
 				DisplayName: Wormhole Anomalies
-				TownNPCDialogueName: the Anomaly Biome
+				TownNPCDialogueName: the Anomaly
 			}
 
 			PlanetariumBiome: {
@@ -226,13 +226,13 @@ Mods: {
 			}
 
 			AbandonedVillageBiome: {
-				// DisplayName: Abandoned Village
-				// TownNPCDialogueName: the Abandoned Village
+				DisplayName: Abandoned Village
+				TownNPCDialogueName: the Abandoned Village
 			}
 
 			SanctuaryBiome: {
-				// DisplayName: Sanctuary
-				// TownNPCDialogueName: the Sanctuary
+				DisplayName: Sanctuary
+				TownNPCDialogueName: the Sanctuary
 			}
 		}
 
@@ -289,7 +289,7 @@ Mods: {
 				DisplayName: Алебарда из древней стали
 				Tooltip:
 					'''
-					Разбивает врагов, заставляя следующую атаку ближнего боя проигнорировать защиту врага и гарантируя критический удар
+					Разбивает врагов, заставляя следующую атаку ближнего боя гарантированно нанести критический удар, игронрирующий защиту врага
 					Алебарда не получает бонуса от разбития
 					'''
 			}
@@ -667,7 +667,7 @@ Mods: {
 				DisplayName: Посох ауры небытия
 				Tooltip:
 					'''
-					Призывает клетку небытия, стреляющую по ближайшим врагам, в месте вашего курсора
+					Призывает клетку небытия, стреляющую по всем ближайшим врагам, в месте вашего курсора
 					Враги, находящиеся в ауре клетки, получают периодический урон
 					Нахождение в ауре клетки также усилиает ваши характеристики:
 					Увеличивает получаемое количество пустоты и сопротивление урону на 4%, а также защиту на 4 ед. и скорость регенерации здоровья на 4 ед. (2 ОЗ/сек)
@@ -954,7 +954,7 @@ Mods: {
 				Tooltip:
 					'''
 					Увеличивает количество пустоты, получаемое от еды, на 25%
-					Потребление нескольких одинаковых зелий подряд просуммирует продолжительность баффа вместо того, чтобы сбросить его к максимальному значению
+					Получение одного и того же баффа просуммирует его длительность, вместо того, чтобы сбросить его к максимальному значению
 					Снижает длительность дебаффов, при этом продлевая активные баффы
 					'''
 			}
@@ -1028,7 +1028,7 @@ Mods: {
 				Tooltip:
 					'''
 					Отображает расположение различных аномалий, в числе которых электромагнитные дыры, червоточины и телепортированные предметы, на миникарте
-					Функционирует при ношении в слоте аксессуара, в слоте украшений или если помечен как избранное в инвентаре
+					Функционирует в инвентаре и при ношении в слоте аксессуара или в слоте украшений
 					'''
 			}
 
@@ -1619,7 +1619,11 @@ Mods: {
 
 			PixelBlaster: {
 				DisplayName: Pixel Blaster
-				Tooltip: Fires a beam that melts through enemies, dealing damage 60 times per second
+				Tooltip:
+					'''
+					Fires a beam that melts through enemies, dealing damage 60 times per second
+					Receives lowered bonuses from critical strike chance boosts
+					'''
 			}
 
 			AbyssalFury: {
@@ -1735,7 +1739,7 @@ Mods: {
 
 			DissolvingAetherBlock: {
 				# Fragments
-				DisplayName: Фиолетовый эфирный блок
+				DisplayName: Эфирный блок
 				Tooltip: ""
 			}
 
@@ -1909,7 +1913,7 @@ Mods: {
 				DisplayName: Мировой поляризатор
 				Tooltip:
 					'''
-					Увеличивает урон, спопротивление урону и скрость передвижения на 3%
+					Увеличивает урон, спопротивление урону и скрость передвижения на 2%
 					Изменяет эффект мировых иссекающих элементов в вашем инвентаре
 					'''
 			}
@@ -1936,7 +1940,7 @@ Mods: {
 				DisplayName: Ультимативный поляризатор
 				Tooltip:
 					'''
-					Увеличивает урон, спопротивление урону и скрость передвижения на 3%
+					Увеличивает урон, спопротивление урону и скрость передвижения на 2%
 					Увеличивает максимальный запас здоровья, маны и пустоты на 20
 					Увеличивает скорость прыжка, скорость регенерации и получаемое количество пустоты на 2 ед.
 					Изменяет эффект всех иссекающих элементов в вашем инвентаре
@@ -2206,12 +2210,12 @@ Mods: {
 			}
 
 			BookOfVirtues: {
-				// DisplayName: Book of Virtues
-				/* Tooltip:
+				DisplayName: Book of Virtues
+				Tooltip:
 					'''
 					Summons a Spectral Wisp that defends you from nearby enemies
 					The wisp does 75% damage on contact with enemies, and 100% with its laser
-					''' */
+					'''
 			}
 
 			IncineratorGlove: {
@@ -2561,7 +2565,7 @@ Mods: {
 				Tooltip:
 					'''
 					Запускает массивную шаровую молнию
-					В конце совего существования он взрывается, нанося 250% урона обычним врагам с низким здоровьем и только 100% урона боссам
+					В конце совего существования он взрывается, нанося 200% урона обычним врагам с низким здоровьем и только 100% урона боссам
 					'''
 			}
 
@@ -2913,7 +2917,7 @@ Mods: {
 				Tooltip:
 					'''
 					Увеличивают получаемую пустоту на 1
-					Если активно менее 5 душ возмездия, то получение урона высвободит 5 душ возмездия
+					Получение урона высвобождает 5 душ возмездия
 					Каждая 10-ая пустотная атака запустит душу в виде мощного лазера
 					'''
 			}
@@ -2995,12 +2999,12 @@ Mods: {
 
 			FrostArtifactChestplate: {
 				DisplayName: Нагрудник морозной реликвии
-				Tooltip: Увеличивает шанс стрелкового критического удара и критического удара ближнего боя на 16%
+				Tooltip: Увеличивает шанс стрелкового критического удара и критического удара ближнего боя на 20%
 			}
 
 			FrostArtifactHelmet: {
 				DisplayName: Маска морозной реликвии
-				Tooltip: Увеличивает урон ближнего боя и стрелковый урон на 14%
+				Tooltip: Увеличивает урон ближнего боя и стрелковый урон на 20%
 			}
 
 			FrostArtifactTrousers: {
@@ -3323,7 +3327,7 @@ Mods: {
 
 			AcediaPlating: {
 				DisplayName: Acedia Portal Plating
-				Tooltip: "'It bares striking resemblance to luminite'"
+				Tooltip: ""
 			}
 
 			AncientGoldGate: {
@@ -3377,7 +3381,7 @@ Mods: {
 
 			CursedApple: {
 				DisplayName: Cursed Apple
-				// AltDisplayName: Golden Apple
+				AltDisplayName: Golden Apple
 				Tooltip:
 					'''
 					Summons a pet Ghost Pepper to assist after combat
@@ -3388,7 +3392,7 @@ Mods: {
 					Requires 100 souls to mark a boss
 					Some rare enemies will also require more souls to mark
 					'''
-				/* DefaultTooltip:
+				DefaultTooltip:
 					'''
 					Summons a pet Ghost Pepper to assist after combat
 					Plunder 2 Souls of Looting from every killed enemy, and store them inside your void meter
@@ -3397,8 +3401,8 @@ Mods: {
 					Enemies can be marked multiple times
 					Requires 100 souls to mark a boss
 					Some rare enemies will also require more souls to mark
-					''' */
-				/* AltTooltip:
+					'''
+				AltTooltip:
 					'''
 					Summons Friend to assist after combat
 					Plunder 3 Looting Feathers from every killed enemy, and store them inside your void meter
@@ -3407,7 +3411,7 @@ Mods: {
 					Enemies can be marked multiple times
 					Requires 100 feathers to mark a boss
 					Some rare enemies will also require more feathers to mark
-					''' */
+					'''
 			}
 
 			CursedBlade: {
@@ -3625,11 +3629,7 @@ Mods: {
 
 			SpiritTracer: {
 				DisplayName: Spirit Tracer
-				Tooltip:
-					'''
-					Fires phantom arrows
-					Can hit up to 3 enemies at a time
-					'''
+				Tooltip: Fires phantom arrows that travel instantly to up to 3 enemies at a time
 			}
 
 			SunlightAmulet: {
@@ -4254,7 +4254,7 @@ Mods: {
 				DisplayName: Avocado Soup
 				Tooltip:
 					'''
-					Refills 24 void and receive Regeneration for 60 seconds
+					Refills 24 void and grants Regeneration for 60 seconds
 					'Finally some good soup!'
 					'''
 			}
@@ -4275,7 +4275,7 @@ Mods: {
 
 			BackupBow: {
 				DisplayName: Лук поддержки
-				Tooltip: Прикрепляет к вашей спине лук, который будет стрелять позади вас стрелами, наносящими 50% урона
+				Tooltip: Луки будут выпускать дополнитульную стрелу, наносящую 50% урона, с вашей спины
 			}
 
 			Baguette: {
@@ -4453,11 +4453,7 @@ Mods: {
 
 			SpectreSpiritStorm: {
 				DisplayName: Spectre Spirit Storm
-				Tooltip:
-					'''
-					Fires phantom arrows
-					Can hit up to 4 enemies at a time
-					'''
+				Tooltip: Fires 3 phantom arrows that each travel instantly to up to 4 enemies at a time
 			}
 
 			SubspaceBoosters: {
@@ -4825,7 +4821,7 @@ Mods: {
 			}
 
 			PermafrostPlatingBench: {
-				DisplayName: Скамейка из мёрзлого покрытия
+				DisplayName: Диван из мёрзлого покрытия
 				Tooltip: ""
 			}
 
@@ -5275,7 +5271,7 @@ Mods: {
 				DisplayName: Пистолет
 				Tooltip:
 					'''
-					Стреляет тремя пулями, средняя из которых наносит 100% урона, а крайние по 50%
+					Стреляет тремя пулями, средняя из которых наносит 100% урона, а крайние по 75%
 					Превращает мушкетные пули в взрывные
 					'''
 			}
@@ -5400,7 +5396,7 @@ Mods: {
 					Starting with the item in the bottom-left inventory slot and ending with the bottom-right slot, each Clone uses a different item
 					When first summoned, the Clone will await a command for how it should use the item (left or right click) and for how long (for charge items)
 					After the first usage of the item, the Clone will now automatically use the item as specified
-					Items used by Clones are affected by Void and Summon damage bonuses
+					Items used by Clones are affected by Void and Summon damage bonuses but have damage reduced by 30% multiplicatively
 					'''
 			}
 
@@ -5544,1370 +5540,1370 @@ Mods: {
 			}
 
 			ChaosConduit: {
-				// DisplayName: Chaos Conduit
-				/* Tooltip:
+				DisplayName: Chaos Conduit
+				Tooltip:
 					'''
 					An incomplete redirector of chaos energy: it lacks a support chassis
 					When fully charged, it will focus nearby chaos energy into valid repositories
-					''' */
+					'''
 			}
 
 			OtherworldConduit: {
-				// DisplayName: Otherworld Conduit
-				/* Tooltip:
+				DisplayName: Otherworld Conduit
+				Tooltip:
 					'''
 					An incomplete redirector of otherworldly energy: it lacks a support chassis
 					When fully charged, it will focus nearby otherworldly energy into valid repositories
-					''' */
+					'''
 			}
 
 			Taco: {
-				// DisplayName: Big Taco
-				// Tooltip: Refills 40 void and grants Wrath for 3 minutes
+				DisplayName: Big Taco
+				Tooltip: Refills 40 void and grants Wrath for 3 minutes
 			}
 
 			EvilConduit: {
-				// DisplayName: Evil Conduit
-				/* Tooltip:
+				DisplayName: Evil Conduit
+				Tooltip:
 					'''
 					An incomplete redirector of evil energy: it lacks a support chassis
 					When fully charged, it will focus nearby evil energy into valid repositories
-					''' */
+					'''
 			}
 
 			InfernoConduit: {
-				// DisplayName: Inferno Conduit
-				/* Tooltip:
+				DisplayName: Inferno Conduit
+				Tooltip:
 					'''
 					An incomplete redirector of inferno energy: it lacks a support chassis
 					When fully charged, it will focus nearby inferno energy into valid repositories
-					''' */
+					'''
 			}
 
 			PermafrostConduit: {
-				// DisplayName: Permafrost Conduit
-				/* Tooltip:
+				DisplayName: Permafrost Conduit
+				Tooltip:
 					'''
 					An incomplete redirector of permafrost energy: it lacks a support chassis
 					When fully charged, it will focus nearby permafrost energy into valid repositories
-					''' */
+					'''
 			}
 
 			TidalConduit: {
-				// DisplayName: Tide Conduit
-				/* Tooltip:
+				DisplayName: Tide Conduit
+				Tooltip:
 					'''
 					An incomplete redirector of tide energy: it lacks a support chassis
 					When fully charged, it will focus nearby tide energy into valid repositories
-					''' */
+					'''
 			}
 
 			Lockpick: {
-				// DisplayName: Lockpick
-				/* Tooltip:
+				DisplayName: Lockpick
+				Tooltip:
 					'''
 					33% chance not to lose keys when unlocking chests
 					Recover scrap materials from lost keys
-					''' */
+					'''
 			}
 
 			GulaPlating: {
-				// DisplayName: Gula Plating
-				// Tooltip: ""
+				DisplayName: Gula Plating
+				Tooltip: ""
 			}
 
 			GulaPortalPlating: {
-				// DisplayName: Gula Portal Plating
-				// Tooltip: ""
+				DisplayName: Gula Portal Plating
+				Tooltip: ""
 			}
 
 			GulaGateway: {
-				// DisplayName: Gula Gateway
-				// Tooltip: ""
+				DisplayName: Gula Gateway
+				Tooltip: ""
 			}
 
 			GulaPlatingWall: {
-				// DisplayName: Gula Plating Wall
-				// Tooltip: ""
+				DisplayName: Gula Plating Wall
+				Tooltip: ""
 			}
 
 			GulaVault: {
-				// DisplayName: Gula Vault
-				// Tooltip: ""
+				DisplayName: Gula Vault
+				Tooltip: ""
 			}
 
 			Icebreaker: {
-				// DisplayName: Icebreaker
-				// Tooltip: Fires a large icicle alongside a storm of bullets
+				DisplayName: Icebreaker
+				Tooltip: Fires a large icicle alongside a storm of bullets
 			}
 
 			BCatalogue: {
-				// DisplayName: B Catalogue
-				// Tooltip: Unlocks 100% of the bestiary
+				DisplayName: B Catalogue
+				Tooltip: Unlocks 100% of the bestiary
 			}
 
 			KeepersBox: {
-				// DisplayName: Keeper's Box
-				// Tooltip: Don't lose coins upon death
+				DisplayName: Keeper's Box
+				Tooltip: Don't lose coins upon death
 			}
 
 			SoulOfTheKeeper: {
-				// DisplayName: Soul of the Keeper
-				/* Tooltip:
+				DisplayName: Soul of the Keeper
+				Tooltip:
 					'''
 					Increases mining speed by 5% and critical strike chance by 5%
 					Generate coins when hurt and don't lose coins upon death
 					Mining blocks has a chance to drop bonus resources, such as coins and silt
-					''' */
+					'''
 			}
 
 			PlagueSpitter: {
-				// DisplayName: Acid Belcher
-				/* Tooltip:
+				DisplayName: Acid Belcher
+				Tooltip:
 					'''
 					Charge up to 30 high-velocity acid balls that can be fired in quick succession
 					Struck enemies are temporarily coated in acid, increasing the damage they receive from all subsequent acid balls by 20%
 					Acid-coated enemies also take 10 damage per second per stack of acid
-					''' */
+					'''
 			}
 
 			CorpsebloomBanner: {
-				// DisplayName: Corpsebloom Banner
-				// Tooltip: ""
+				DisplayName: Corpsebloom Banner
+				Tooltip: ""
 			}
 
 			AVPot: {
-				// DisplayName: AV Pot
-				// Tooltip: ""
+				DisplayName: AV Pot
+				Tooltip: ""
 			}
 
 			TesseractSword: {
-				// DisplayName: Tesseract Sword
-				// Tooltip: Stop snooping around!
+				DisplayName: Tesseract Sword
+				Tooltip: Stop snooping around!
 			}
 
 			AVAmbient: {
-				// DisplayName: AV Ambient
-				// Tooltip: ""
+				DisplayName: AV Ambient
+				Tooltip: ""
 			}
 
 			WishingStar: {
-				// DisplayName: Wishing Star
-				// AltDisplayName: Shattered Dreams
-				/* Tooltip:
+				DisplayName: Wishing Star
+				AltDisplayName: Shattered Dreams
+				Tooltip:
 					'''
 					Temp1
 					Temp2
-					''' */
-				// DefaultTooltip: Unleash a 100 damage star and gain a random buff every 100 mana consumed with magic weapons
-				// AltTooltip: Magic weapons unleash a star for 100% damage but consume void equal to 10% of their mana cost
-				// Flavor0: "'Stay determined'"
-				// Flavor1: "'Remain firm in your aspirations'"
-				// Flavor2: "'Wish upon a shooting star'"
-				// Flavor3: "'You will find what you seek'"
-				// Flavor4: "'Control your fate'"
-				// Flavor5: "'The world is your stage'"
-				// Flavor6: "'Reap the fruits of knowledge'"
-				// Flavor7: "'Endure suffering'"
+					'''
+				DefaultTooltip: Unleash a 100 damage star and gain a random buff every 100 mana consumed with magic weapons
+				AltTooltip: Magic weapons unleash a star for 100% damage but consume void equal to 10% of their mana cost
+				Flavor0: "'Stay determined'"
+				Flavor1: "'Remain firm in your aspirations'"
+				Flavor2: "'Wish upon a shooting star'"
+				Flavor3: "'You will find what you seek'"
+				Flavor4: "'Control your fate'"
+				Flavor5: "'The world is your stage'"
+				Flavor6: "'Reap the fruits of knowledge'"
+				Flavor7: "'Endure suffering'"
 			}
 
 			JarOfPineapple: {
-				// DisplayName: Jar of Pineapple
-				// Tooltip: Summons a Nature Slime to fight for you
+				DisplayName: Jar of Pineapple
+				Tooltip: Summons a Nature Slime to fight for you
 			}
 
 			SootSlab: {
-				// DisplayName: Soot Slab
-				// Tooltip: ""
+				DisplayName: Soot Slab
+				Tooltip: ""
 			}
 
 			CorruptionSoot: {
-				// DisplayName: Ebonslate Block
-				/* Tooltip:
+				DisplayName: Ebonslate Block
+				Tooltip:
 					'''
 					A primordial mass of corrupt stone
 					Although it cannot be purified, it will also not spread the Corruption
-					''' */
+					'''
 			}
 
 			CrimsonSoot: {
-				// DisplayName: Crimslate Block
-				/* Tooltip:
+				DisplayName: Crimslate Block
+				Tooltip:
 					'''
 					A primordial mass of crimson stone
 					Although it cannot be purified, it will also not spread the Crimson
-					''' */
+					'''
 			}
 
 			StarshardSaber: {
-				// DisplayName: Starshard Saber
-				/* Tooltip:
+				DisplayName: Starshard Saber
+				Tooltip:
 					'''
 					Strike with 4 slashes that launch Starshards for 20% damage
 					Starshards apply a stacking, permanent curse
 					Right click to strike with a 150% damage slash that detonates the curse, dealing more damage the more stacks applied
 					Enemies with at least 4 stacks of the curse will end the detonation more violently
-					''' */
+					'''
 			}
 
 			FizzleStar: {
-				// DisplayName: Fizzle Star
-				/* Tooltip:
+				DisplayName: Fizzle Star
+				Tooltip:
 					'''
 					Eject a fragile star that explodes into sparks
 					Has a chance of malfunctioning, launching just sparks for 200% damage or ejecting additional stars
-					''' */
+					'''
 			}
 
 			AcidicInjection: {
-				// DisplayName: Overkill Injection
-				// Tooltip: The first application of any stackable debuff is doubled
+				DisplayName: Overkill Injection
+				Tooltip: The first application of any stackable debuff is doubled
 			}
 
 			EarthenGizmoBanner: {
-				// DisplayName: Earthen Gizmo Banner
-				// Tooltip: ""
+				DisplayName: Earthen Gizmo Banner
+				Tooltip: ""
 			}
 
 			EarthDrive: {
-				// DisplayName: Earthdrive
-				/* Tooltip:
+				DisplayName: Earthdrive
+				Tooltip:
 					'''
 					Increases melee speed by 100% of the increases received to mining speed from other sources
 					Increases mining speed by 100% of the increases received to melee speed from other sources
-					''' */
+					'''
 			}
 
 			SandstormPouch: {
-				// DisplayName: Sandstorm Pouch
-				// Tooltip: Unleash a devastating sandstorm with unlimited pierce
+				DisplayName: Sandstorm Pouch
+				Tooltip: Unleash a devastating sandstorm with unlimited pierce
 			}
 
 			PBow: {
-				// DisplayName: Compound Bow
-				// Tooltip: Fire a Compound Arrow that splits into bouncing Energy Bolts and other arrows
+				DisplayName: Compound Bow
+				Tooltip: Fire a Compound Arrow that splits into bouncing Energy Bolts and other arrows
 			}
 
 			ThroeBanner: {
-				// DisplayName: Throe Banner
-				// Tooltip: ""
+				DisplayName: Throe Banner
+				Tooltip: ""
 			}
 
 			CorruptionSootWall: {
-				// DisplayName: Ebonslate Wall
-				/* Tooltip:
+				DisplayName: Ebonslate Wall
+				Tooltip:
 					'''
 					A primordial mass of corrupt stone
 					Although it cannot be purified, it will also not spread the Corruption
-					''' */
+					'''
 			}
 
 			CrimsonSootWall: {
-				// DisplayName: Crimslate Wall
-				/* Tooltip:
+				DisplayName: Crimslate Wall
+				Tooltip:
 					'''
 					A primordial mass of crimson stone
 					Although it cannot be purified, it will also not spread the Crimson
-					''' */
+					'''
 			}
 
 			SootSlabWall: {
-				// DisplayName: Soot Slab Wall
-				// Tooltip: ""
+				DisplayName: Soot Slab Wall
+				Tooltip: ""
 			}
 
 			MagmaBeam: {
-				// DisplayName: Magma Concentrator
-				// Tooltip: Concetrate a ball of hot magma on your cursor
+				DisplayName: Magma Concentrator
+				Tooltip: Concetrate a ball of hot magma on your cursor
 			}
 
 			FortressCrasher: {
-				// DisplayName: Fortress Crasher
-				// Tooltip: Throw a drilling spear that repeatedly hits enemies, can travel through walls, and ignores 10 defense
+				DisplayName: Fortress Crasher
+				Tooltip: Throw a drilling spear that repeatedly hits enemies, can travel through walls, and ignores 10 defense
 			}
 
 			FamishedBlockCorruption: {
-				// DisplayName: Ebonbody Block
-				// Tooltip: "'Smells of disease and rot'"
+				DisplayName: Ebonbody Block
+				Tooltip: "'Smells of disease and rot'"
 			}
 
 			FamishedBlockCrimson: {
-				// DisplayName: Crimbody Block
-				// Tooltip: "'Smells of blood and rot'"
+				DisplayName: Crimbody Block
+				Tooltip: "'Smells of blood and rot'"
 			}
 
 			FamishedBanner: {
-				// DisplayName: Famished Banner
-				// Tooltip: ""
+				DisplayName: Famished Banner
+				Tooltip: ""
 			}
 
 			Blongus: {
-				// DisplayName: Blongus
-				// Tooltip: Unleash a swarm of hungry mosquitos that home and latch onto enemies before exploding, dealing increased damage based on the target's health and bleed status
+				DisplayName: Blongus
+				Tooltip: Unleash a swarm of hungry mosquitos that home and latch onto enemies before exploding, dealing increased damage based on the target's health and bleed status
 			}
 
 			SteelerWheeler: {
-				// DisplayName: Steeler Wheeler
-				// Tooltip: Increases movement speed by 5% and reduces damage taken by 3%
+				DisplayName: Steeler Wheeler
+				Tooltip: Increases movement speed by 5% and reduces damage taken by 3%
 			}
 
 			LittleWoes: {
-				// DisplayName: Little Woes
-				/* Tooltip:
+				DisplayName: Little Woes
+				Tooltip:
 					'''
 					Increases void gain by 1 during the night
 					Attaches a Little Woe to all minions
-					''' */
+					'''
 			}
 
 			TorchGunMk2: {
-				// DisplayName: Torch Gun Mk2
-				/* Tooltip:
+				DisplayName: Torch Gun Mk2
+				Tooltip:
 					'''
 					Launches a torch cluster bomb that explodes into homing torches
 					Right click to launch smaller torch bombs, consuming neither ammo nor void
 					Uses torch bombs for ammo
-					''' */
+					'''
 			}
 
 			AVMusicBox: {
-				// DisplayName: Abandoned Village Surface Music Box
-				// Tooltip: ""
+				DisplayName: Abandoned Village Surface Music Box
+				Tooltip: ""
 			}
 
 			MrBurns: {
-				// DisplayName: Mr. Burns
-				/* Tooltip:
+				DisplayName: Mr. Burns
+				Tooltip:
 					'''
 					Increases max void by 20
 					Decreases the potency of Void Shock and Void Recovery
-					''' */
+					'''
 			}
 
 			RockingHorse: {
-				// DisplayName: Rocking Horse
-				// Tooltip: Increases movement speed by 5% and void gain 2
+				DisplayName: Rocking Horse
+				Tooltip: Increases movement speed by 5% and void gain 2
 			}
 
 			AncientSteelLantern: {
-				// DisplayName: Ancient Steel Lantern
-				/* Tooltip:
+				DisplayName: Ancient Steel Lantern
+				Tooltip:
 					'''
 					Summons a Steel Lantern on your cursor that releases flames at all nearby enemies
 					Range scales with summon damage
-					''' */
+					'''
 			}
 
 			BallOGutsBanner: {
-				// DisplayName: Ball O' Guts Banner
-				// Tooltip: ""
+				DisplayName: Ball O' Guts Banner
+				Tooltip: ""
 			}
 
 			BallOWormsBanner: {
-				// DisplayName: Ball O' Worms Banner
-				// Tooltip: ""
+				DisplayName: Ball O' Worms Banner
+				Tooltip: ""
 			}
 
 			CowBanner: {
-				// DisplayName: Cow Banner
-				// Tooltip: ""
+				DisplayName: Cow Banner
+				Tooltip: ""
 			}
 
 			PintOPunch: {
-				// DisplayName: Pint O' Punch
-				/* Tooltip:
+				DisplayName: Pint O' Punch
+				Tooltip:
 					'''
 					Deals 500% critical strike damage
 					Critical strikes spawn hearts
 					'This pint packs a punch!'
-					''' */
+					'''
 			}
 
 			FishBomb: {
-				// DisplayName: Fish Bomb
-				/* Tooltip:
+				DisplayName: Fish Bomb
+				Tooltip:
 					'''
 					Catches fish by exploding in liquid
 					50% fishing power
-					''' */
+					'''
 			}
 
 			TidalPlatingWall: {
-				// DisplayName: Tidal Plating Wall
-				// Tooltip: ""
+				DisplayName: Tidal Plating Wall
+				Tooltip: ""
 			}
 
 			TidalPlatingBathtub: {
-				// DisplayName: Tidal Plating Bathtub
-				// Tooltip: ""
+				DisplayName: Tidal Plating Bathtub
+				Tooltip: ""
 			}
 
 			TidalPlatingBed: {
-				// DisplayName: Tidal Plating Bed
-				// Tooltip: ""
+				DisplayName: Tidal Plating Bed
+				Tooltip: ""
 			}
 
 			TidalPlatingBlastDoor: {
-				// DisplayName: Tidal Plating Blast Door
-				// Tooltip: ""
+				DisplayName: Tidal Plating Blast Door
+				Tooltip: ""
 			}
 
 			TidalPlatingBookcase: {
-				// DisplayName: Tidal Plating Bookcase
-				// Tooltip: ""
+				DisplayName: Tidal Plating Bookcase
+				Tooltip: ""
 			}
 
 			TidalPlatingCandle: {
-				// DisplayName: Tidal Plating Candle
-				// Tooltip: ""
+				DisplayName: Tidal Plating Candle
+				Tooltip: ""
 			}
 
 			TidalPlatingChair: {
-				// DisplayName: Tidal Plating Chair
-				// Tooltip: ""
+				DisplayName: Tidal Plating Chair
+				Tooltip: ""
 			}
 
 			TidalPlatingChandelier: {
-				// DisplayName: Tidal Plating Chandelier
-				// Tooltip: ""
+				DisplayName: Tidal Plating Chandelier
+				Tooltip: ""
 			}
 
 			TidalPlatingChest: {
-				// DisplayName: Tidal Plating Storage
-				// Tooltip: ""
+				DisplayName: Tidal Plating Storage
+				Tooltip: ""
 			}
 
 			TidalPlatingClock: {
-				// DisplayName: Tidal Plating Clock
-				// Tooltip: ""
+				DisplayName: Tidal Plating Clock
+				Tooltip: ""
 			}
 
 			TidalPlatingDresser: {
-				// DisplayName: Tidal Plating Dresser
-				// Tooltip: ""
+				DisplayName: Tidal Plating Dresser
+				Tooltip: ""
 			}
 
 			TidalPlatingLamp: {
-				// DisplayName: Tidal Plating Lamp
-				// Tooltip: ""
+				DisplayName: Tidal Plating Lamp
+				Tooltip: ""
 			}
 
 			TidalPlatingLantern: {
-				// DisplayName: Tidal Plating Lantern
-				// Tooltip: ""
+				DisplayName: Tidal Plating Lantern
+				Tooltip: ""
 			}
 
 			TidalPlatingPiano: {
-				// DisplayName: Tidal Plating Piano
-				// Tooltip: ""
+				DisplayName: Tidal Plating Piano
+				Tooltip: ""
 			}
 
 			TidalPlatingPlatform: {
-				// DisplayName: Tidal Plating Platform
-				// Tooltip: ""
+				DisplayName: Tidal Plating Platform
+				Tooltip: ""
 			}
 
 			TidalPlatingSink: {
-				// DisplayName: Tidal Plating Sink
-				// Tooltip: ""
+				DisplayName: Tidal Plating Sink
+				Tooltip: ""
 			}
 
 			TidalPlatingSofa: {
-				// DisplayName: Tidal Plating Sofa
-				// Tooltip: ""
+				DisplayName: Tidal Plating Sofa
+				Tooltip: ""
 			}
 
 			TidalPlatingTable: {
-				// DisplayName: Tidal Plating Table
-				// Tooltip: ""
+				DisplayName: Tidal Plating Table
+				Tooltip: ""
 			}
 
 			TidalPlatingToilet: {
-				// DisplayName: Tidal Plating Toilet
-				// Tooltip: ""
+				DisplayName: Tidal Plating Toilet
+				Tooltip: ""
 			}
 
 			TidalPlatingTorch: {
-				// DisplayName: Tidal Plating Torch
-				// Tooltip: ""
+				DisplayName: Tidal Plating Torch
+				Tooltip: ""
 			}
 
 			TidalPlatingWorkBench: {
-				// DisplayName: Tidal Plating Work Bench
-				// Tooltip: Also functions as an anvil
+				DisplayName: Tidal Plating Work Bench
+				Tooltip: Also functions as an anvil
 			}
 
 			AVMinesMusicBox: {
-				// DisplayName: Abandoned Village Underground Music Box
-				// Tooltip: ""
+				DisplayName: Abandoned Village Underground Music Box
+				Tooltip: ""
 			}
 
 			DissolvingNihility: {
-				// DisplayName: Essence of Emptiness
-				// AltDisplayName: Dissolving Nihility
-				// Tooltip: "'...'"
-				// RareTooltip1: "'Trapped within voidspace...'"
-				// RareTooltip2: "'... save me from this prison...'"
-				// RareTooltip3: "'... and I shall gift you the world...'"
+				DisplayName: Essence of Emptiness
+				AltDisplayName: Dissolving Nihility
+				Tooltip: "'...'"
+				RareTooltip1: "'Trapped within voidspace...'"
+				RareTooltip2: "'... save me from this prison...'"
+				RareTooltip3: "'... and I shall gift you the world...'"
 			}
 
 			FistfullBanner: {
-				// DisplayName: Fistfull Banner
-				// Tooltip: ""
+				DisplayName: Fistfull Banner
+				Tooltip: ""
 			}
 
 			Sunbulb: {
-				// DisplayName: Sunbulb
-				// AltDisplayName: Sol
-				// BrokenDisplayName: Ruinbulb
-				// Tooltip: temp
-				/* DefaultTooltip:
+				DisplayName: Sunbulb
+				AltDisplayName: Sol
+				BrokenDisplayName: Ruinbulb
+				Tooltip: temp
+				DefaultTooltip:
 					'''
 					Increases damage, critical strike chance, and endurance by 1%
 					'Cold'
-					''' */
-				/* AltTooltip:
+					'''
+				AltTooltip:
 					'''
 					Increases damage, critical strike chance, and endurance by 15%
 					Greatly increases the intensity of lighting
 					'Bring it to where it needs to be... but you best be careful not to drop it'
-					''' */
-				/* BrokenTooltip:
+					'''
+				BrokenTooltip:
 					'''
 					Increases void damage by 20%
 					Increases damage taken by 100%
 					Greatly increases the intensity of darkness
 					'You had one shot, and you dropped it'
-					''' */
+					'''
 			}
 
 			PinkyTestTubeItem: {
-				// DisplayName: Failed Experiment
-				// Tooltip: ""
+				DisplayName: Failed Experiment
+				Tooltip: ""
 			}
 
 			MutagenTreasureSlimeBanner: {
-				// DisplayName: Mutagen Treasure Slime Banner
-				// Tooltip: ""
+				DisplayName: Mutagen Treasure Slime Banner
+				Tooltip: ""
 			}
 
 			OvergrownEvostoneBrick: {
-				// DisplayName: Overgrown Evostone Brick
-				// Tooltip: ""
+				DisplayName: Overgrown Evostone Brick
+				Tooltip: ""
 			}
 
 			OvergrownEvostone: {
-				// DisplayName: Overgrown Evostone
-				// Tooltip: ""
+				DisplayName: Overgrown Evostone
+				Tooltip: ""
 			}
 
 			RunicEvostoneBrick: {
-				// DisplayName: Runic Evostone Brick
-				// Tooltip: ""
+				DisplayName: Runic Evostone Brick
+				Tooltip: ""
 			}
 
 			RunicEvostone: {
-				// DisplayName: Runic Evostone
-				// Tooltip: ""
+				DisplayName: Runic Evostone
+				Tooltip: ""
 			}
 
 			InvidiaPlating: {
-				// DisplayName: Invidia Plating
-				// Tooltip: ""
+				DisplayName: Invidia Plating
+				Tooltip: ""
 			}
 
 			AccretionDisc: {
-				// DisplayName: Accretion Disc
-				/* Tooltip:
+				DisplayName: Accretion Disc
+				Tooltip:
 					'''
 					Deals more damage at the peak of its trajectory, creating a short-lived singularity that ignores defense
 					Scatters homing particles after the singularity collapses
-					''' */
+					'''
 			}
 
 			EarthenChestplate: {
-				// DisplayName: Earthen Chestplate
-				// Tooltip: Increases mining speed and movement speed by 10%
+				DisplayName: Earthen Chestplate
+				Tooltip: Increases mining speed and movement speed by 10%
 			}
 
 			EarthenHelmet: {
-				// DisplayName: Earthen Helmet
-				/* Tooltip:
+				DisplayName: Earthen Helmet
+				Tooltip:
 					'''
 					Improves vision and provides light when worn
 					Increases mining speed and movement speed by 10%
-					''' */
+					'''
 			}
 
 			EarthenLeggings: {
-				// DisplayName: Earthen Leggings
-				// Tooltip: Increases mining speed and movement speed by 10%
+				DisplayName: Earthen Leggings
+				Tooltip: Increases mining speed and movement speed by 10%
 			}
 
 			InvidiaChest: {
-				// DisplayName: Invidia Chest
-				// Tooltip: ""
+				DisplayName: Invidia Chest
+				Tooltip: ""
 			}
 
 			MoonShard1: {
-				// DisplayName: Luna Nova Shard
-				// Tooltip: ""
+				DisplayName: Luna Nova Shard
+				Tooltip: ""
 			}
 
 			MoonShard2: {
-				// DisplayName: Waxing Cresent Shard
-				// Tooltip: ""
+				DisplayName: Waxing Cresent Shard
+				Tooltip: ""
 			}
 
 			MoonShard3: {
-				// DisplayName: First Quarter Shard
-				// Tooltip: ""
+				DisplayName: First Quarter Shard
+				Tooltip: ""
 			}
 
 			MoonShard4: {
-				// DisplayName: Waxing Gibbous Shard
-				// Tooltip: ""
+				DisplayName: Waxing Gibbous Shard
+				Tooltip: ""
 			}
 
 			MoonShard5: {
-				// DisplayName: Luna Plena Shard
-				// Tooltip: ""
+				DisplayName: Luna Plena Shard
+				Tooltip: ""
 			}
 
 			MoonShard6: {
-				// DisplayName: Waning Gibbous Shard
-				// Tooltip: ""
+				DisplayName: Waning Gibbous Shard
+				Tooltip: ""
 			}
 
 			MoonShard7: {
-				// DisplayName: Third Quarter Shard
-				// Tooltip: ""
+				DisplayName: Third Quarter Shard
+				Tooltip: ""
 			}
 
 			MoonShard8: {
-				// DisplayName: Waning Cresent Shard
-				// Tooltip: ""
+				DisplayName: Waning Cresent Shard
+				Tooltip: ""
 			}
 
 			LunarClock: {
-				// DisplayName: Temporal Astrolabe
-				// Tooltip: Allows control over the day-night cycle
+				DisplayName: Temporal Astrolabe
+				Tooltip: Allows control over the day-night cycle
 			}
 
 			OtherworldPlatingBathtub: {
-				// DisplayName: Otherworld Plating Bathtub
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Bathtub
+				Tooltip: ""
 			}
 
 			OtherworldPlatingBed: {
-				// DisplayName: Otherworld Plating Bed
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Bed
+				Tooltip: ""
 			}
 
 			OtherworldPlatingBlastDoor: {
-				// DisplayName: Otherworld Plating Blast Door
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Blast Door
+				Tooltip: ""
 			}
 
 			OtherworldPlatingBookcase: {
-				// DisplayName: Otherworld Plating Bookcase
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Bookcase
+				Tooltip: ""
 			}
 
 			OtherworldPlatingCandle: {
-				// DisplayName: Otherworld Plating Candle
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Candle
+				Tooltip: ""
 			}
 
 			OtherworldPlatingChair: {
-				// DisplayName: Otherworld Plating Chair
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Chair
+				Tooltip: ""
 			}
 
 			OtherworldPlatingChandelier: {
-				// DisplayName: Otherworld Plating Chandelier
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Chandelier
+				Tooltip: ""
 			}
 
 			OtherworldPlatingChest: {
-				// DisplayName: Otherworld Plating Capsule
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Capsule
+				Tooltip: ""
 			}
 
 			OtherworldPlatingClock: {
-				// DisplayName: Otherworld Plating Clock
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Clock
+				Tooltip: ""
 			}
 
 			OtherworldPlatingDresser: {
-				// DisplayName: Otherworld Plating Dresser
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Dresser
+				Tooltip: ""
 			}
 
 			OtherworldPlatingLamp: {
-				// DisplayName: Otherworld Plating Lamp
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Lamp
+				Tooltip: ""
 			}
 
 			OtherworldPlatingLantern: {
-				// DisplayName: Otherworld Plating Lantern
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Lantern
+				Tooltip: ""
 			}
 
 			OtherworldPlatingPiano: {
-				// DisplayName: Otherworld Plating Piano
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Piano
+				Tooltip: ""
 			}
 
 			OtherworldPlatingPlatform: {
-				// DisplayName: Otherworld Plating Platform
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Platform
+				Tooltip: ""
 			}
 
 			OtherworldPlatingSink: {
-				// DisplayName: Otherworld Plating Sink
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Sink
+				Tooltip: ""
 			}
 
 			OtherworldPlatingSofa: {
-				// DisplayName: Otherworld Plating Sofa
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Sofa
+				Tooltip: ""
 			}
 
 			OtherworldPlatingTable: {
-				// DisplayName: Otherworld Plating Table
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Table
+				Tooltip: ""
 			}
 
 			OtherworldPlatingToilet: {
-				// DisplayName: Otherworld Plating Toilet
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Toilet
+				Tooltip: ""
 			}
 
 			OtherworldPlatingTorch: {
-				// DisplayName: Otherworld Plating Torch
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Torch
+				Tooltip: ""
 			}
 
 			OtherworldPlatingWorkBench: {
-				// DisplayName: Otherworld Plating Work Bench
-				// Tooltip: Also functions as an anvil
+				DisplayName: Otherworld Plating Work Bench
+				Tooltip: Also functions as an anvil
 			}
 
 			OtherworldPlatingWall: {
-				// DisplayName: Otherworld Plating Wall
-				// Tooltip: ""
+				DisplayName: Otherworld Plating Wall
+				Tooltip: ""
 			}
 
 			EvilPlatingBathtub: {
-				// DisplayName: Evil Plating Bathtub
-				// Tooltip: ""
+				DisplayName: Evil Plating Bathtub
+				Tooltip: ""
 			}
 
 			EvilPlatingBed: {
-				// DisplayName: Evil Plating Bed
-				// Tooltip: ""
+				DisplayName: Evil Plating Bed
+				Tooltip: ""
 			}
 
 			EvilPlatingBlastDoor: {
-				// DisplayName: Evil Plating Blast Door
-				// Tooltip: ""
+				DisplayName: Evil Plating Blast Door
+				Tooltip: ""
 			}
 
 			EvilPlatingBookcase: {
-				// DisplayName: Evil Plating Bookcase
-				// Tooltip: ""
+				DisplayName: Evil Plating Bookcase
+				Tooltip: ""
 			}
 
 			EvilPlatingCandle: {
-				// DisplayName: Evil Plating Candle
-				// Tooltip: ""
+				DisplayName: Evil Plating Candle
+				Tooltip: ""
 			}
 
 			EvilPlatingChair: {
-				// DisplayName: Evil Plating Chair
-				// Tooltip: ""
+				DisplayName: Evil Plating Chair
+				Tooltip: ""
 			}
 
 			EvilPlatingChandelier: {
-				// DisplayName: Evil Plating Chandelier
-				// Tooltip: ""
+				DisplayName: Evil Plating Chandelier
+				Tooltip: ""
 			}
 
 			EvilPlatingChest: {
-				// DisplayName: Evil Plating Capsule
-				// Tooltip: ""
+				DisplayName: Evil Plating Capsule
+				Tooltip: ""
 			}
 
 			EvilPlatingClock: {
-				// DisplayName: Evil Plating Clock
-				// Tooltip: ""
+				DisplayName: Evil Plating Clock
+				Tooltip: ""
 			}
 
 			EvilPlatingDresser: {
-				// DisplayName: Evil Plating Dresser
-				// Tooltip: ""
+				DisplayName: Evil Plating Dresser
+				Tooltip: ""
 			}
 
 			EvilPlatingLamp: {
-				// DisplayName: Evil Plating Lamp
-				// Tooltip: ""
+				DisplayName: Evil Plating Lamp
+				Tooltip: ""
 			}
 
 			EvilPlatingLantern: {
-				// DisplayName: Evil Plating Lantern
-				// Tooltip: ""
+				DisplayName: Evil Plating Lantern
+				Tooltip: ""
 			}
 
 			EvilPlatingPiano: {
-				// DisplayName: Evil Plating Piano
-				// Tooltip: ""
+				DisplayName: Evil Plating Piano
+				Tooltip: ""
 			}
 
 			EvilPlatingPlatform: {
-				// DisplayName: Evil Plating Platform
-				// Tooltip: ""
+				DisplayName: Evil Plating Platform
+				Tooltip: ""
 			}
 
 			EvilPlatingSink: {
-				// DisplayName: Evil Plating Sink
-				// Tooltip: ""
+				DisplayName: Evil Plating Sink
+				Tooltip: ""
 			}
 
 			EvilPlatingSofa: {
-				// DisplayName: Evil Plating Sofa
-				// Tooltip: ""
+				DisplayName: Evil Plating Sofa
+				Tooltip: ""
 			}
 
 			EvilPlatingTable: {
-				// DisplayName: Evil Plating Table
-				// Tooltip: ""
+				DisplayName: Evil Plating Table
+				Tooltip: ""
 			}
 
 			EvilPlatingToilet: {
-				// DisplayName: Evil Plating Toilet
-				// Tooltip: ""
+				DisplayName: Evil Plating Toilet
+				Tooltip: ""
 			}
 
 			EvilPlatingTorch: {
-				// DisplayName: Evil Plating Torch
-				// Tooltip: ""
+				DisplayName: Evil Plating Torch
+				Tooltip: ""
 			}
 
 			EvilPlatingWorkBench: {
-				// DisplayName: Evil Plating Work Bench
-				// Tooltip: Also functions as an anvil
+				DisplayName: Evil Plating Work Bench
+				Tooltip: Also functions as an anvil
 			}
 
 			EvilPlatingWall: {
-				// DisplayName: Evil Plating Wall
-				// Tooltip: ""
+				DisplayName: Evil Plating Wall
+				Tooltip: ""
 			}
 
 			InfernoPlatingBathtub: {
-				// DisplayName: Inferno Plating Bathtub
-				// Tooltip: ""
+				DisplayName: Inferno Plating Bathtub
+				Tooltip: ""
 			}
 
 			InfernoPlatingBed: {
-				// DisplayName: Inferno Plating Bed
-				// Tooltip: ""
+				DisplayName: Inferno Plating Bed
+				Tooltip: ""
 			}
 
 			InfernoPlatingBlastDoor: {
-				// DisplayName: Inferno Plating Blast Door
-				// Tooltip: ""
+				DisplayName: Inferno Plating Blast Door
+				Tooltip: ""
 			}
 
 			InfernoPlatingBookcase: {
-				// DisplayName: Inferno Plating Bookcase
-				// Tooltip: ""
+				DisplayName: Inferno Plating Bookcase
+				Tooltip: ""
 			}
 
 			InfernoPlatingCandle: {
-				// DisplayName: Inferno Plating Candle
-				// Tooltip: ""
+				DisplayName: Inferno Plating Candle
+				Tooltip: ""
 			}
 
 			InfernoPlatingChair: {
-				// DisplayName: Inferno Plating Chair
-				// Tooltip: ""
+				DisplayName: Inferno Plating Chair
+				Tooltip: ""
 			}
 
 			InfernoPlatingChandelier: {
-				// DisplayName: Inferno Plating Chandelier
-				// Tooltip: ""
+				DisplayName: Inferno Plating Chandelier
+				Tooltip: ""
 			}
 
 			InfernoPlatingChest: {
-				// DisplayName: Inferno Plating Chest
-				// Tooltip: ""
+				DisplayName: Inferno Plating Chest
+				Tooltip: ""
 			}
 
 			InfernoPlatingClock: {
-				// DisplayName: Inferno Plating Clock
-				// Tooltip: ""
+				DisplayName: Inferno Plating Clock
+				Tooltip: ""
 			}
 
 			InfernoPlatingDresser: {
-				// DisplayName: Inferno Plating Dresser
-				// Tooltip: ""
+				DisplayName: Inferno Plating Dresser
+				Tooltip: ""
 			}
 
 			InfernoPlatingLamp: {
-				// DisplayName: Inferno Plating Lamp
-				// Tooltip: ""
+				DisplayName: Inferno Plating Lamp
+				Tooltip: ""
 			}
 
 			InfernoPlatingLantern: {
-				// DisplayName: Inferno Plating Lantern
-				// Tooltip: ""
+				DisplayName: Inferno Plating Lantern
+				Tooltip: ""
 			}
 
 			InfernoPlatingPiano: {
-				// DisplayName: Inferno Plating Piano
-				// Tooltip: ""
+				DisplayName: Inferno Plating Piano
+				Tooltip: ""
 			}
 
 			InfernoPlatingPlatform: {
-				// DisplayName: Inferno Plating Platform
-				// Tooltip: ""
+				DisplayName: Inferno Plating Platform
+				Tooltip: ""
 			}
 
 			InfernoPlatingSink: {
-				// DisplayName: Inferno Plating Sink
-				// Tooltip: ""
+				DisplayName: Inferno Plating Sink
+				Tooltip: ""
 			}
 
 			InfernoPlatingSofa: {
-				// DisplayName: Inferno Plating Sofa
-				// Tooltip: ""
+				DisplayName: Inferno Plating Sofa
+				Tooltip: ""
 			}
 
 			InfernoPlatingTable: {
-				// DisplayName: Inferno Plating Table
-				// Tooltip: ""
+				DisplayName: Inferno Plating Table
+				Tooltip: ""
 			}
 
 			InfernoPlatingToilet: {
-				// DisplayName: Inferno Plating Toilet
-				// Tooltip: ""
+				DisplayName: Inferno Plating Toilet
+				Tooltip: ""
 			}
 
 			InfernoPlatingTorch: {
-				// DisplayName: Inferno Plating Torch
-				// Tooltip: ""
+				DisplayName: Inferno Plating Torch
+				Tooltip: ""
 			}
 
 			InfernoPlatingWorkBench: {
-				// DisplayName: Inferno Plating Work Bench
-				// Tooltip: ""
+				DisplayName: Inferno Plating Work Bench
+				Tooltip: ""
 			}
 
 			ChaosPlatingBathtub: {
-				// DisplayName: Chaos Plating Bathtub
-				// Tooltip: ""
+				DisplayName: Chaos Plating Bathtub
+				Tooltip: ""
 			}
 
 			ChaosPlatingBed: {
-				// DisplayName: Chaos Plating Bed
-				// Tooltip: ""
+				DisplayName: Chaos Plating Bed
+				Tooltip: ""
 			}
 
 			ChaosPlatingBlastDoor: {
-				// DisplayName: Chaos Plating Blast Door
-				// Tooltip: ""
+				DisplayName: Chaos Plating Blast Door
+				Tooltip: ""
 			}
 
 			ChaosPlatingBookcase: {
-				// DisplayName: Chaos Plating Bookcase
-				// Tooltip: ""
+				DisplayName: Chaos Plating Bookcase
+				Tooltip: ""
 			}
 
 			ChaosPlatingCandle: {
-				// DisplayName: Chaos Plating Candle
-				// Tooltip: ""
+				DisplayName: Chaos Plating Candle
+				Tooltip: ""
 			}
 
 			ChaosPlatingChair: {
-				// DisplayName: Chaos Plating Chair
-				// Tooltip: ""
+				DisplayName: Chaos Plating Chair
+				Tooltip: ""
 			}
 
 			ChaosPlatingChandelier: {
-				// DisplayName: Chaos Plating Chandelier
-				// Tooltip: ""
+				DisplayName: Chaos Plating Chandelier
+				Tooltip: ""
 			}
 
 			ChaosPlatingChest: {
-				// DisplayName: Chaos Plating Chest
-				// Tooltip: ""
+				DisplayName: Chaos Plating Chest
+				Tooltip: ""
 			}
 
 			ChaosPlatingClock: {
-				// DisplayName: Chaos Plating Clock
-				// Tooltip: ""
+				DisplayName: Chaos Plating Clock
+				Tooltip: ""
 			}
 
 			ChaosPlatingDresser: {
-				// DisplayName: Chaos Plating Dresser
-				// Tooltip: ""
+				DisplayName: Chaos Plating Dresser
+				Tooltip: ""
 			}
 
 			ChaosPlatingLamp: {
-				// DisplayName: Chaos Plating Lamp
-				// Tooltip: ""
+				DisplayName: Chaos Plating Lamp
+				Tooltip: ""
 			}
 
 			ChaosPlatingLantern: {
-				// DisplayName: Chaos Plating Lantern
-				// Tooltip: ""
+				DisplayName: Chaos Plating Lantern
+				Tooltip: ""
 			}
 
 			ChaosPlatingPiano: {
-				// DisplayName: Chaos Plating Piano
-				// Tooltip: ""
+				DisplayName: Chaos Plating Piano
+				Tooltip: ""
 			}
 
 			ChaosPlatingPlatform: {
-				// DisplayName: Chaos Plating Platform
-				// Tooltip: ""
+				DisplayName: Chaos Plating Platform
+				Tooltip: ""
 			}
 
 			ChaosPlatingSink: {
-				// DisplayName: Chaos Plating Sink
-				// Tooltip: ""
+				DisplayName: Chaos Plating Sink
+				Tooltip: ""
 			}
 
 			ChaosPlatingSofa: {
-				// DisplayName: Chaos Plating Sofa
-				// Tooltip: ""
+				DisplayName: Chaos Plating Sofa
+				Tooltip: ""
 			}
 
 			ChaosPlatingTable: {
-				// DisplayName: Chaos Plating Table
-				// Tooltip: ""
+				DisplayName: Chaos Plating Table
+				Tooltip: ""
 			}
 
 			ChaosPlatingToilet: {
-				// DisplayName: Chaos Plating Toilet
-				// Tooltip: ""
+				DisplayName: Chaos Plating Toilet
+				Tooltip: ""
 			}
 
 			ChaosPlatingTorch: {
-				// DisplayName: Chaos Plating Torch
-				// Tooltip: ""
+				DisplayName: Chaos Plating Torch
+				Tooltip: ""
 			}
 
 			ChaosPlatingWorkBench: {
-				// DisplayName: Chaos Plating Work Bench
-				// Tooltip: ""
+				DisplayName: Chaos Plating Work Bench
+				Tooltip: ""
 			}
 
 			RotHeart: {
-				// DisplayName: Rot Heart
-				/* Tooltip:
+				DisplayName: Rot Heart
+				Tooltip:
 					'''
 					Increases max life by 20
 					All boosts to life regeneration are converted into boosts to void gain
 					When using void, 10% of the void used is converted into life
 					'Yucky!'
-					''' */
+					'''
 			}
 
 			InfernoPlatingWall: {
-				// DisplayName: Inferno Plating Wall
-				// Tooltip: ""
+				DisplayName: Inferno Plating Wall
+				Tooltip: ""
 			}
 
 			ChaosPlatingWall: {
-				// DisplayName: Chaos Plating Wall
-				// Tooltip: ""
+				DisplayName: Chaos Plating Wall
+				Tooltip: ""
 			}
 
 			BlinkBlade: {
-				// DisplayName: Blink Blade
-				/* Tooltip:
+				DisplayName: Blink Blade
+				Tooltip:
 					'''
 					Left click to slash, recovering void on hit and releasing a short-ranged burst of lightning
 					Right click to blink forward a short distance with a 300% damage slash at triple the void cost
 					Receives 25% more attack speed from attack speed boosts
-					''' */
+					'''
 			}
 
 			BlueTardigrade: {
-				// DisplayName: Blue Tardigrade
-				// Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
+				DisplayName: Blue Tardigrade
+				Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
 			}
 
 			BrownTardigrade: {
-				// DisplayName: Brown Tardigrade
-				// Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
+				DisplayName: Brown Tardigrade
+				Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
 			}
 
 			GreenTardigrade: {
-				// DisplayName: Green Tardigrade
-				// Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
+				DisplayName: Green Tardigrade
+				Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
 			}
 
 			PinkTardigrade: {
-				// DisplayName: Pink Tardigrade
-				// Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
+				DisplayName: Pink Tardigrade
+				Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
 			}
 
 			GreedierRing: {
-				// DisplayName: Greedier Ring
-				/* Tooltip:
+				DisplayName: Greedier Ring
+				Tooltip:
 					'''
 					Increases mining speed by 5% and critical strike chance by 5%
 					Generate coins when hurt or when void is gained and don't lose coins upon death
 					Mining blocks has a chance to drop bonus resources, such as coins and silt
 					Increases coin pickup range and shops prices lowered by 20%
 					Hitting enemies will sometimes drop extra coins
-					''' */
+					'''
 			}
 
 			GlowmothTrophy: {
-				// DisplayName: Glowmoth Trophy
-				// Tooltip: ""
+				DisplayName: Glowmoth Trophy
+				Tooltip: ""
 			}
 
 			MothMusicBox: {
-				// DisplayName: Glowmoth Music Box
-				// Tooltip: ""
+				DisplayName: Glowmoth Music Box
+				Tooltip: ""
 			}
 
 			RuinedStatue: {
-				// DisplayName: Ruined Statue
-				// Tooltip: ""
+				DisplayName: Ruined Statue
+				Tooltip: ""
 			}
 
 			SerpentStatue: {
-				// DisplayName: Serpent Statue
-				// Tooltip: ""
+				DisplayName: Serpent Statue
+				Tooltip: ""
 			}
 
 			PolarisTrophy: {
-				// DisplayName: Polaris Trophy
-				// Tooltip: ""
+				DisplayName: Polaris Trophy
+				Tooltip: ""
 			}
 
 			EmptyNecklace: {
-				// DisplayName: Amulet of Emptiness
-				// Tooltip: Increases void regeneration speed by 50%
+				DisplayName: Amulet of Emptiness
+				Tooltip: Increases void regeneration speed by 50%
 			}
 
 			LuxTrophy: {
-				// DisplayName: Lux Trophy
-				// Tooltip: ""
+				DisplayName: Lux Trophy
+				Tooltip: ""
 			}
 
 			EvostoneGrandPillar: {
-				// DisplayName: Evostone Grand Pillar
-				// Tooltip: ""
+				DisplayName: Evostone Grand Pillar
+				Tooltip: ""
 			}
 
 			InvidiaGateway: {
-				// DisplayName: Invidia Gateway
-				// Tooltip: ""
+				DisplayName: Invidia Gateway
+				Tooltip: ""
 			}
 
 			LevMirror: {
-				// DisplayName: Shattered Mirror
-				// Tooltip: Gaze in the mirror to return 'home'
+				DisplayName: Shattered Mirror
+				Tooltip: Gaze in the mirror to return 'home'
 			}
 
 			StreetCleaner: {
-				// DisplayName: Street Cleaner
-				// Tooltip: Ignores enemy defense
+				DisplayName: Street Cleaner
+				Tooltip: Ignores enemy defense
 			}
 
 			SanctuaryMusicBox: {
-				// DisplayName: Sanctuary Music Box
-				// Tooltip: ""
+				DisplayName: Sanctuary Music Box
+				Tooltip: ""
 			}
 
 			EvostonePlatform: {
-				// DisplayName: Evostone Platform
-				// Tooltip: ""
+				DisplayName: Evostone Platform
+				Tooltip: ""
 			}
 
 			Dreamcatcher: {
-				// DisplayName: Dreamcatcher
-				/* Tooltip:
+				DisplayName: Dreamcatcher
+				Tooltip:
 					'''
 					Prevents attacks from dealing damage to your void meter
 					Increases void damage by 10%
-					''' */
+					'''
 			}
 
 			SubspaceWormItem: {
-				// DisplayName: Subspace Worm
-				// Tooltip: Allows the catching of Obsidian Crates in any liquid
+				DisplayName: Subspace Worm
+				Tooltip: Allows the catching of Obsidian Crates in any liquid
 			}
 
 			InvidiaPetal: {
-				// DisplayName: Pink Petal
-				// Tooltip: ""
+				DisplayName: Pink Petal
+				Tooltip: ""
 			}
 
 			MrEepy: {
-				// DisplayName: Mr. Eepy
-				/* Tooltip:
+				DisplayName: Mr. Eepy
+				Tooltip:
 					'''
 					Decreases the potency of Void Shock and Void Recovery
 					Prevents attacks from dealing damage to your void meter
 					Increases void damage by 10% and max void by 50
-					''' */
+					'''
 			}
 
 			VeganBurger: {
-				// DisplayName: Vegan Burger
-				// Tooltip: Minor improvements to all stats
+				DisplayName: Vegan Burger
+				Tooltip: Minor improvements to all stats
 			}
 
 			VigorPotion: {
-				// DisplayName: Vigor Potion
-				// Tooltip: Grants the ability to dash 50 times
+				DisplayName: Vigor Potion
+				Tooltip: Grants the ability to dash 50 times
 			}
 
 			PetalSalad: {
-				// DisplayName: Petal Salad
-				// Tooltip: Refills 5 void and grants Void Access for 60 seconds, increasing void gain by 5
+				DisplayName: Petal Salad
+				Tooltip: Refills 5 void and grants Void Access for 60 seconds, increasing void gain by 5
 			}
 
 			LunaMothItem: {
-				// DisplayName: Luna Moth
-				// Tooltip: Allows the catching of Obsidian Crates in any liquid
+				DisplayName: Luna Moth
+				Tooltip: Allows the catching of Obsidian Crates in any liquid
 			}
 
 			FurnaceBanner: {
-				// DisplayName: Sanguine Foundry Banner
-				// Tooltip: ""
+				DisplayName: Sanguine Foundry Banner
+				Tooltip: ""
 			}
 
 			EvostoneRuneBrickWall: {
-				// DisplayName: Evostone Rune Brick Wall
-				// Tooltip: ""
+				DisplayName: Evostone Rune Brick Wall
+				Tooltip: ""
 			}
 
 			EvostoneChair: {
-				// DisplayName: Evostone Chair
-				// Tooltip: ""
+				DisplayName: Evostone Chair
+				Tooltip: ""
 			}
 
 			EvostoneTable: {
-				// DisplayName: Evostone Table
-				// Tooltip: ""
+				DisplayName: Evostone Table
+				Tooltip: ""
 			}
 
 			EvostonePotItem: {
-				// DisplayName: Evostone Pot
-				// Tooltip: ""
+				DisplayName: Evostone Pot
+				Tooltip: ""
 			}
 
 			FlowerCrown: {
-				// DisplayName: Flower Crown
-				/* Tooltip:
+				DisplayName: Flower Crown
+				Tooltip:
 					'''
 					Increases endurance by 10%
 					Increases void gain and life regen by 4
 					When using void, 30% of the void used is converted into life
-					''' */
-				// ArchTooltip: "'Would you rather have +100% super chungus or +5 defense?'"
+					'''
+				ArchTooltip: "'Would you rather have +100% super chungus or +5 defense?'"
 			}
 
 			HardlightHook: {
-				// DisplayName: Hardlight Hook
-				// Tooltip: Allows grappling onto the air
+				DisplayName: Hardlight Hook
+				Tooltip: Allows grappling onto the air
 			}
 
 			PlasticBait: {
-				// DisplayName: Plastic Bait
-				// Tooltip: ""
+				DisplayName: Plastic Bait
+				Tooltip: ""
 			}
 
 			MrMcMillen: {
-				// DisplayName: Mr. McMillen
-				/* Tooltip:
+				DisplayName: Mr. McMillen
+				Tooltip:
 					'''
 					Decreases the potency of Void Shock and Void Recovery
 					Increases void regeneration speed by 50% and max void by 50
 					'Cow on a trash farm...'
-					''' */
+					'''
 			}
 
 			MartianWarhorn: {
-				// DisplayName: Martian Warhorn
-				// Tooltip: Grants the Embattle buff, increasing damage by 5% and greatly increasing enemy spawn rates
+				DisplayName: Martian Warhorn
+				Tooltip: Grants the Embattle buff, increasing damage by 5% and greatly increasing enemy spawn rates
 			}
 
 			EvostoneAmbient: {
-				// DisplayName: Evostone Ambient
-				// Tooltip: ""
+				DisplayName: Evostone Ambient
+				Tooltip: ""
 			}
 
 			UnholyGrail: {
-				// DisplayName: Unholy Grail
-				/* Tooltip:
+				DisplayName: Unholy Grail
+				Tooltip:
 					'''
 					Summons a stationary throne to sit upon
 					Gain 12 defense while active
-					''' */
+					'''
 			}
 
 			CapturedHeart: {
-				// DisplayName: Captured Heart
-				// Tooltip: Summons a possessed minecart mount
+				DisplayName: Captured Heart
+				Tooltip: Summons a possessed minecart mount
 			}
 
 			CoalCartBanner: {
-				// DisplayName: Captured Cart Banner
-				// Tooltip: ""
+				DisplayName: Captured Cart Banner
+				Tooltip: ""
 			}
 
 			VoidTreasureSlimeBanner: {
-				// DisplayName: Void Treasure Slime Banner
-				// Tooltip: ""
+				DisplayName: Void Treasure Slime Banner
+				Tooltip: ""
 			}
 
 			GobletOfEntrails: {
-				// DisplayName: Goblet of Entrails
-				// Tooltip: Not consumable
+				DisplayName: Goblet of Entrails
+				Tooltip: Not consumable
 			}
 
 			PupaBanner: {
-				// DisplayName: Pupa Banner
-				// Tooltip: ""
+				DisplayName: Pupa Banner
+				Tooltip: ""
 			}
 
 			PupaFlyBanner: {
-				// DisplayName: Gore Fly Banner
-				// Tooltip: ""
+				DisplayName: Gore Fly Banner
+				Tooltip: ""
 			}
 
 			RotWalkerBanner: {
-				// DisplayName: Rotwalker Banner
-				// Tooltip: ""
+				DisplayName: Rotwalker Banner
+				Tooltip: ""
 			}
 
 			InvidiaPortalPlating: {
-				// DisplayName: Invidia Portal Plating
-				// Tooltip: ""
+				DisplayName: Invidia Portal Plating
+				Tooltip: ""
 			}
 
 			SeismicStation: {
-				// DisplayName: Seismic Station
-				// Tooltip: "'You feel activating this may track some unwanted attention...'"
+				DisplayName: Seismic Station
+				Tooltip: "'You feel activating this may track some unwanted attention...'"
 			}
 
 			KingBlade: {
-				// DisplayName: King Blade
-				/* Tooltip:
+				DisplayName: King Blade
+				Tooltip:
 					'''
 					Strike with 6 slashes, then toss a spinning blade for 100% damage
 					Each slash will additionally call down a blade from the sky
-					''' */
+					'''
 			}
 		}
 
@@ -7300,106 +7296,106 @@ Mods: {
 
 			BrassWhipDebuff: {
 				DisplayName: Brass Whip Debuff
-				Description: Mods.SOTS.Buffs.BrassWhipDebuff.Description
+				Description: Explode into brass balls!
 			}
 
 			Attuned: {
-				// DisplayName: Attuned
-				// Description: Temp
-				// Tier1: Increases max life by 20
-				/* Tier2:
+				DisplayName: Attuned
+				Description: Temp
+				Tier1: Increases max life by 20
+				Tier2:
 					'''
 					Increases max life by 20
 					Increases max void by 20
-					''' */
-				/* Tier3:
+					'''
+				Tier3:
 					'''
 					Increases max life by 40
 					Increases max void by 40
-					''' */
-				/* Tier4:
+					'''
+				Tier4:
 					'''
 					Increases max life by 60
 					Increases max void by 40
-					''' */
-				/* Tier5:
+					'''
+				Tier5:
 					'''
 					Increases max life by 60
 					Increases max void by 60
-					''' */
-				/* Tier6:
+					'''
+				Tier6:
 					'''
 					Increases max life by 80
 					Increases max void by 80
-					''' */
-				/* Tier7:
+					'''
+				Tier7:
 					'''
 					Increases max life by 100
 					Increases max void by 80
-					''' */
-				/* Tier8:
+					'''
+				Tier8:
 					'''
 					Increases max life by 100
 					Increases max void by 100
-					''' */
+					'''
 			}
 
 			FreshGreenyBuff: {
-				// DisplayName: Fresh Greeny
-				// Description: "'Putrid Pinky's worst nightmare'"
+				DisplayName: Fresh Greeny
+				Description: "'Putrid Pinky's worst nightmare'"
 			}
 
 			LungRot: {
-				// DisplayName: Lung Rot
-				/* Description:
+				DisplayName: Lung Rot
+				Description:
 					'''
 					Vile air coats your lungs
 					Dramatically reduced life regeneration while moving
 					Increases void regeneration speed by 40% while moving
-					''' */
+					'''
 			}
 
 			SanctuarySilence: {
-				// Prefix0: "Deafening "
-				// Prefix1: "Dreadful "
-				// Prefix2: "Sorrowful "
-				// Prefix3: "Hopeful "
-				// Prefix4: "Blissful "
-				// Prefix5: "Whispering "
-				// Prefix6: "Creeping "
-				// Prefix7: "Crippling "
-				// DisplayName: Silence
-				// Description: Reduced enemy spawnrates by {0}%
+				Prefix0: "Deafening "
+				Prefix1: "Dreadful "
+				Prefix2: "Sorrowful "
+				Prefix3: "Hopeful "
+				Prefix4: "Blissful "
+				Prefix5: "Whispering "
+				Prefix6: "Creeping "
+				Prefix7: "Crippling "
+				DisplayName: Silence
+				Description: Reduced enemy spawnrates by {0}%
 			}
 
 			Vigor: {
-				// DisplayName: Vigor
-				// Description: Dashes remaining: {0}
+				DisplayName: Vigor
+				Description: Dashes remaining: {0}
 			}
 
 			VoidAccess: {
-				// DisplayName: Void Access
-				// Description: Increases void gain by 5
+				DisplayName: Void Access
+				Description: Increases void gain by 5
 			}
 
 			Boiling: {
-				// DisplayName: Boiling
-				// Description: "'You can feel your skin peeling off'"
+				DisplayName: Boiling
+				Description: "'You can feel your skin peeling off'"
 			}
 
 			Embattle: {
-				// DisplayName: Embattle
-				// Description: Increases damage by 5% and greatly increases enemy spawn rates
+				DisplayName: Embattle
+				Description: Increases damage by 5% and greatly increases enemy spawn rates
 			}
 
 			UnholyGrailBuff: {
-				// DisplayName: Slothful Throne
-				// Description: Increases defense by 12
+				DisplayName: Slothful Throne
+				Description: Increases defense by 12
 			}
 
 			FriendlyCartBuff: {
-				// DisplayName: Friendly Cart
-				// Description: "'It's carting time!'"
+				DisplayName: Friendly Cart
+				Description: "'It's carting time!'"
 			}
 		}
 
@@ -7451,11 +7447,11 @@ Mods: {
 				Снижает время перезарядки телепорта на 6 секунд и увеличивает дальность поражения при телепортации на 50%
 				Урон от телепортации будет увеличиваться в зависимости от бонусов к пустотнуму урону
 				'''
-			/* Earthen:
+			Earthen:
 				'''
 				Melee strikes have a chance to apply a stacking, permanent shred on enemies, making them take additional damage from all attacks
 				Increases attack speed by 20%
-				''' */
+				'''
 		}
 
 		Tiles: {
@@ -7500,23 +7496,23 @@ Mods: {
 			}
 
 			GulaVaultTile: {
-				// MapEntry0: Gula Vault
-				// MapEntry1: Locked Gula Vault
-				// MapEntry2: Double Locked Gula Vault
-				// MapEntry3: Triple Locked Gula Vault
+				MapEntry0: Gula Vault
+				MapEntry1: Locked Gula Vault
+				MapEntry2: Double Locked Gula Vault
+				MapEntry3: Triple Locked Gula Vault
 			}
 
 			InvidiaChestTile: {
-				// MapEntry0: Invidia Chest
-				// MapEntry1: Locked Invidia Chest
-				// MapEntry2: Locked New Moon Invidia Chest
-				// MapEntry3: Locked Waxing Cresent Invidia Chest
-				// MapEntry4: Locked First Quarter Invidia Chest
-				// MapEntry5: Locked Waxing Gibbous Invidia Chest
-				// MapEntry6: Locked Full Moon Invidia Chest
-				// MapEntry7: Locked Waning Gibbous Invidia Chest
-				// MapEntry8: Locked Third Quarter Invidia Chest
-				// MapEntry9: Locked Waning Cresent Invidia Chest
+				MapEntry0: Invidia Chest
+				MapEntry1: Locked Invidia Chest
+				MapEntry2: Locked New Moon Invidia Chest
+				MapEntry3: Locked Waxing Cresent Invidia Chest
+				MapEntry4: Locked First Quarter Invidia Chest
+				MapEntry5: Locked Waxing Gibbous Invidia Chest
+				MapEntry6: Locked Full Moon Invidia Chest
+				MapEntry7: Locked Waning Gibbous Invidia Chest
+				MapEntry8: Locked Third Quarter Invidia Chest
+				MapEntry9: Locked Waning Cresent Invidia Chest
 			}
 
 			HoloEyeBannerTile.MapEntry: Знамя
@@ -7631,69 +7627,69 @@ Mods: {
 
 			OtherworldCrateTile.MapEntry: Otherworld Crate Tile
 			PlanetariumCrateTile.MapEntry: Ящик Планетария
-			// ChaosConduitTile.MapEntry: Chaos Conduit
-			// OtherworldConduitTile.MapEntry: Otherworld Conduit
-			// EvilConduitTile.MapEntry: Evil Conduit
-			// InfernoConduitTile.MapEntry: Inferno Conduit
-			// PermafrostConduitTile.MapEntry: Permafrost Conduit
-			// TidalConduitTile.MapEntry: Tidal Conduit
-			// GulaGatewayTile.MapEntry: Strange Gateway
-			// AVPots.MapEntry: Pot
-			// AVMusicBoxTile.MapEntry: Abandoned Village Surface Music Box
-			// TidalPlatingBlastDoorTileClosed.MapEntry: Tidal Plating Blast Door
-			// TidalPlatingBlastDoorTileOpen.MapEntry: Tidal Plating Blast Door
+			ChaosConduitTile.MapEntry: Chaos Conduit
+			OtherworldConduitTile.MapEntry: Otherworld Conduit
+			EvilConduitTile.MapEntry: Evil Conduit
+			InfernoConduitTile.MapEntry: Inferno Conduit
+			PermafrostConduitTile.MapEntry: Permafrost Conduit
+			TidalConduitTile.MapEntry: Tidal Conduit
+			GulaGatewayTile.MapEntry: Strange Gateway
+			AVPots.MapEntry: Pot
+			AVMusicBoxTile.MapEntry: Abandoned Village Surface Music Box
+			TidalPlatingBlastDoorTileClosed.MapEntry: Tidal Plating Blast Door
+			TidalPlatingBlastDoorTileOpen.MapEntry: Tidal Plating Blast Door
 
 			TidalPlatingChestTile: {
-				// MapEntry0: Tidal Plating Storage
-				// MapEntry1: Locked Tidal Plating Storage
+				MapEntry0: Tidal Plating Storage
+				MapEntry1: Locked Tidal Plating Storage
 			}
 
-			// TidalPlatingTorchTile.MapEntry: Tidal Plating Torch
-			// AVMinesMusicBoxTile.MapEntry: Abandoned Village Mines Music Box
-			// PinkyTestTube.MapEntry: Failed Experiment
-			// OtherworldPlatingBlastDoorTileClosed.MapEntry: Otherworld Plating Blast Door
-			// OtherworldPlatingBlastDoorTileOpen.MapEntry: Otherworld Plating Blast Door
+			TidalPlatingTorchTile.MapEntry: Tidal Plating Torch
+			AVMinesMusicBoxTile.MapEntry: Abandoned Village Mines Music Box
+			PinkyTestTube.MapEntry: Failed Experiment
+			OtherworldPlatingBlastDoorTileClosed.MapEntry: Otherworld Plating Blast Door
+			OtherworldPlatingBlastDoorTileOpen.MapEntry: Otherworld Plating Blast Door
 
 			OtherworldPlatingChestTile: {
-				// MapEntry0: Otherworld Plating Capsule
-				// MapEntry1: Locked Otherworld Plating Capsule
+				MapEntry0: Otherworld Plating Capsule
+				MapEntry1: Locked Otherworld Plating Capsule
 			}
 
-			// OtherworldPlatingTorchTile.MapEntry: Otherworld Plating Torch
-			// EvilPlatingBlastDoorTileClosed.MapEntry: Evil Plating Blast Door
-			// EvilPlatingBlastDoorTileOpen.MapEntry: Evil Plating Blast Door
+			OtherworldPlatingTorchTile.MapEntry: Otherworld Plating Torch
+			EvilPlatingBlastDoorTileClosed.MapEntry: Evil Plating Blast Door
+			EvilPlatingBlastDoorTileOpen.MapEntry: Evil Plating Blast Door
 
 			EvilPlatingChestTile: {
-				// MapEntry0: Evil Plating Capsule
-				// MapEntry1: Locked Evil Plating Capsule
+				MapEntry0: Evil Plating Capsule
+				MapEntry1: Locked Evil Plating Capsule
 			}
 
-			// EvilPlatingTorchTile.MapEntry: Evil Plating Torch
-			// InfernoPlatingBlastDoorTileClosed.MapEntry: Inferno Plating Blast Door
-			// InfernoPlatingBlastDoorTileOpen.MapEntry: Inferno Plating Blast Door
+			EvilPlatingTorchTile.MapEntry: Evil Plating Torch
+			InfernoPlatingBlastDoorTileClosed.MapEntry: Inferno Plating Blast Door
+			InfernoPlatingBlastDoorTileOpen.MapEntry: Inferno Plating Blast Door
 
 			InfernoPlatingChestTile: {
-				// MapEntry0: Inferno Plating Chest
-				// MapEntry1: Locked Inferno Plating Chest
+				MapEntry0: Inferno Plating Chest
+				MapEntry1: Locked Inferno Plating Chest
 			}
 
-			// InfernoPlatingTorchTile.MapEntry: Inferno Plating Torch
-			// ChaosPlatingTorchTile.MapEntry: Chaos Plating Torch
+			InfernoPlatingTorchTile.MapEntry: Inferno Plating Torch
+			ChaosPlatingTorchTile.MapEntry: Chaos Plating Torch
 
 			ChaosPlatingChestTile: {
-				// MapEntry1: Chaos Plating Chest
-				// MapEntry0: Locked Chaos Plating Chest
+				MapEntry1: Chaos Plating Chest
+				MapEntry0: Locked Chaos Plating Chest
 			}
 
-			// ChaosPlatingBlastDoorTileOpen.MapEntry: Chaos Plating Blast Door
-			// ChaosPlatingBlastDoorTileClosed.MapEntry: Chaos Plating Blast Door
-			// MothMusicBoxTile.MapEntry: Moth Music Box Tile
-			// RuinedStatueTile.MapEntry: Ruined Statue Tile
-			// SerpentStatueTile.MapEntry: Serpent Statue Tile
-			// InvidiaGatewayTile.MapEntry: Strange Gateway
-			// SanctuaryMusicBoxTile.MapEntry: Sanctuary Music Box Tile
-			// EvostonePots.MapEntry: Pots
-			// SeismicStationTile.MapEntry: Seismic Station
+			ChaosPlatingBlastDoorTileOpen.MapEntry: Chaos Plating Blast Door
+			ChaosPlatingBlastDoorTileClosed.MapEntry: Chaos Plating Blast Door
+			MothMusicBoxTile.MapEntry: Moth Music Box Tile
+			RuinedStatueTile.MapEntry: Ruined Statue Tile
+			SerpentStatueTile.MapEntry: Serpent Statue Tile
+			InvidiaGatewayTile.MapEntry: Strange Gateway
+			SanctuaryMusicBoxTile.MapEntry: Sanctuary Music Box Tile
+			EvostonePots.MapEntry: Pots
+			SeismicStationTile.MapEntry: Seismic Station
 		}
 
 		WorldGeneration: {
@@ -7712,23 +7708,23 @@ Mods: {
 			ArchaeologistDialogueGemlockNotDiamond: This locking mechanism is quite ancient, but the developments that surround it are relatively new. Perhaps they were manmade?
 			ArchaeologistDialogueGemlockDiamond: Strange, this lock is the only one without signs of prior discovery, yet it is still missing a key?
 			ArchaeologistDialoguePortalNotAvaritia: Yet another gateway... I wonder where this one leads.
-			ArchaeologistDialoguePortal1: This gateway looks remarkably similar to the rest of them.
-			ArchaeologistDialoguePortal2: It's strange that this planet is so littered with gateways... even mine leads here.
+			ArchaeologistDialoguePortal1: I wonder who built this.
+			ArchaeologistDialoguePortal2: It's strange that this planet is so littered with gateways.
 			ArchaeologistDialogueAcedia1: Despite the vines that have grown on this gateway, it shows remarkable integrity.
 			ArchaeologistDialogueAcedia2: I believe this gateway resonates with nature and earth energy... unfortunately, I am unable to experiment with it myself.
 			ArchaeologistDialogueAvaritia1: As to be expected of The Advisor's gateway: it is in pristine condition.
 			ArchaeologistDialogueAvaritia2: I believe this gateway resonates with otherworldly and chaotic energy... unfortunately, I am unable to experiment with it myself.
-			// ArchaeologistDialogueAvaritia3: I believe this gateway resonates with otherworldly and chaotic energy... unfortunately, I am unable to experiment with it myself.
-			// ArchaeologistDialogueGula1: I wonder if the excavation project is related to this gateway...
-			// ArchaeologistDialogueGula2: I believe this gateway resonates with earth and evil energy... unfortunately, I am unable to experiment with it myself.
+			ArchaeologistDialogueAvaritia3: I believe this gateway resonates with otherworldly and chaotic energy... unfortunately, I am unable to experiment with it myself.
+			ArchaeologistDialogueGula1: I wonder if the excavation project is related to this gateway...
+			ArchaeologistDialogueGula2: I believe this gateway resonates with earth and evil energy... unfortunately, I am unable to experiment with it myself.
 			ArchaeologistDialogueBigCrystal: I can feel strong energy radiating from this formation.
 			ArchaeologistDialogueCoconutMonument: This tablet is composed of highly light-reactive material. If you could find an object to focus light on it, I wonder what secrets it might reveal?
 			ArchaeologistDialogueCoconutBroken: Very clever traveler... perhaps you have a bright destiny ahead of you.
 			ArchaeologistDialogueDamocles: Hmm... was this a room for a prisoner or for a king?
 			ArchaeologistDialogueIceMonument: This keyhole is deceiving. I doubt this structure actually serves as a vessel for anything.
-			// ArchaeologistDialogueInvidia1: This Sanctuary is one of my favorite places to visit. It's always so quiet here.
-			// ArchaeologistDialogueInvidia2: This serpent carving is excellently detailed, don't you agree?
-			// ArchaeologistDialogueInvidia3: I feel a void of tidal and infernal energy in this area.
+			ArchaeologistDialogueInvidia1: This Sanctuary is one of my favorite places to visit. It's always so quiet here.
+			ArchaeologistDialogueInvidia2: This serpent carving is excellently detailed, don't you agree?
+			ArchaeologistDialogueInvidia3: I feel a void of tidal and infernal energy in this area.
 		}
 
 		NPCs: {
@@ -7910,40 +7906,40 @@ Mods: {
 			NewPolaris.DisplayName: Полярный
 			Chimera.DisplayName: Химера
 			ChimeraSnake.DisplayName: Змея химеры
-			// CorpseBloom.DisplayName: Corpsebloom
-			// EarthenGizmo.DisplayName: Earthen Gizmo
-			// Throe.DisplayName: Throe
-			// Famished.DisplayName: Famished
-			// BallOGuts.DisplayName: Ball O' Guts
-			// BallOWorms.DisplayName: Ball O' Worms
-			// BallOGutsPile.DisplayName: Pile O' Guts
-			// Fistfull.DisplayName: Fistfull
-			// MutagenTreasureSlime.DisplayName: Mutagen Treasure Slime
-			// TardigradeBlue.DisplayName: Tardigrade
-			// TardigradeBrown.DisplayName: Tardigrade
-			// TardigradeGreen.DisplayName: Tardigrade
-			// TardigradePink.DisplayName: Tardigrade
-			// Bridgeburner.DisplayName: Bridgeburner
-			// Excavator.DisplayName: The Excavator
-			// ExcavatorBody.DisplayName: The Excavator
-			// SubspaceWorm.DisplayName: Subspace Worm
-			// SanguineFoundry.DisplayName: Sanguine Foundry
-			// LunaMoth.DisplayName: Luna Moth
-			// ExcavatorBody2.DisplayName: The Excavator
-			// ExcavatorTail.DisplayName: The Excavator
-			// ExcavatorDrillTail.DisplayName: The Excavator
-			// CoalCart.DisplayName: Captured Cart
-			// Pupa.DisplayName: Pupa
-			// PupaFly.DisplayName: Gore Fly
-			// VoidTreasureSlime.DisplayName: Void Treasure Slime
-			// RotWalker.DisplayName: Rotwalker
+			CorpseBloom.DisplayName: Corpsebloom
+			EarthenGizmo.DisplayName: Earthen Gizmo
+			Throe.DisplayName: Throe
+			Famished.DisplayName: Famished
+			BallOGuts.DisplayName: Ball O' Guts
+			BallOWorms.DisplayName: Ball O' Worms
+			BallOGutsPile.DisplayName: Pile O' Guts
+			Fistfull.DisplayName: Fistfull
+			MutagenTreasureSlime.DisplayName: Mutagen Treasure Slime
+			TardigradeBlue.DisplayName: Tardigrade
+			TardigradeBrown.DisplayName: Tardigrade
+			TardigradeGreen.DisplayName: Tardigrade
+			TardigradePink.DisplayName: Tardigrade
+			Bridgeburner.DisplayName: Bridgeburner
+			Excavator.DisplayName: The Excavator
+			ExcavatorBody.DisplayName: The Excavator
+			SubspaceWorm.DisplayName: Subspace Worm
+			SanguineFoundry.DisplayName: Sanguine Foundry
+			LunaMoth.DisplayName: Luna Moth
+			ExcavatorBody2.DisplayName: The Excavator
+			ExcavatorTail.DisplayName: The Excavator
+			ExcavatorDrillTail.DisplayName: The Excavator
+			CoalCart.DisplayName: Captured Cart
+			Pupa.DisplayName: Pupa
+			PupaFly.DisplayName: Gore Fly
+			VoidTreasureSlime.DisplayName: Void Treasure Slime
+			RotWalker.DisplayName: Rotwalker
 		}
 
 		Bestiary: {
 			HoloSlime: A holographic mimic of an average slime. Its source of energy is unknown.
 			HoloBlade: A holographic mimic of a sword. Its source of energy is unknown.
 			HoloEye: A holographic mimic of an eyeball. Its source of energy is unknown.
-			PhaseEye: A mindless sphere of energy that protects the Planetarium, created with exclusively to be used as a puppet for The Advisor.
+			PhaseEye: A mindless sphere of energy that protects the Planetarium, created exclusively to be used as a puppet for The Advisor.
 			TwilightDevil: A mindless drone that protects the Planetarium. It seems to be controlled centrally, as nothing hides behind its cloak.
 			PhaseSpeeder: It's fast. It's deadly. It's origin is unknown, but it certainly wants you dead. Uses the fabric of existence as its shield.
 			TwilightScouter: A mindless drone that collects data for the Planetarium. Its internal circuitry is not particularly complex.
@@ -7955,86 +7951,86 @@ Mods: {
 			Teratoma: A cancerous protrusion of The Curse. Its cells are capable of rapid regrowth, and it will heal itself if not killed quickly.
 			Ghast: As Lost Souls corrupted by The Curse, Ghasts are forced to guard keystones for the rest of the afterlife.
 			Maligmor: Born from The Curse's will to consume all, Maligmors are protrusions of The Curse that are gifted with crystals as power sources. The crystals provide enhanced vision, helping Maligmors defend the Keystone from being reached by invaders.
-			ArcticGoblin: An exiled goblin who has been left to freeze in the unforgiving tundra.
+			ArcticGoblin: An exiled goblin left to freeze in the unforgiving tundra.
 			Polaris: A forgotten war machine. Made long before the mechanical trio, Polaris was not built with the purpose of reviving Cthulhu, but rather as a weapon of mass destruction.
 			FluxSlime: Created before Putrid Pinky, these gel menaces orginate from early pink slime experiments.
 			PP: An abomination with an endless hunger for peanuts. Putrid Pinky was created in a failed experiment using pink slime.
 			BlueSlimer: A Blue Slime which became airborne by evolving crude wings. Its wings are easily knocked off with force, depriving it of its flight.
-			// NatureSlime: A slime deceptively controlled by a parasitic flower. Its unique biology had previously made it a subject of great scientific interest.
+			NatureSlime: A slime deceptively controlled by a parasitic flower. Its unique biology had previously made it a subject of great scientific interest.
 			SittingMushroom: Sitting mushrooms are spitting mushrooms.
 			TreasureSlime: The nobility of slimes! Unlike the others, these slimes value their lives, and any attempts to steal their treasure will cause them to flee without a second thought.
-			NatureConstruct: An ancient machine originally created to advance spirit energy harvesting technology. Now, it serves as a protector of forests under the spirit's control
-			EarthenConstruct: As earthen spirits are known for traveling in groups, the chasis of the construct was designed to allow easy movement of the contained spirits within thin the chassis. Earlier, more compact designs proved too unstable for housing groups of spirits.
+			NatureConstruct: An ancient machine originally created to advance spirit energy harvesting technology. Under the spirit's control, it also serves as a protector of forests.
+			EarthenConstruct: As Earthen Spirits are known for traveling in groups, the chasis of the construct was designed to allow easy movement of the contained spirits within thin the chassis. Earlier, more compact designs proved too unstable for housing groups of spirits.
 			PermafrostConstruct: An ancient machine that uses spirit energy to allow easy traversal through deep snow. The spirit, now in control, uses the device to defend its cold home.
 			OtherworldlyConstructHead: Like all constructs, its body serves as a container for the volatile spirit inside. As Otherworld Spirits are relatively docile, Otherworld Constructs have among the simplest internals.
-			// TidalConstruct: Originally designed to map out oceans and transport people to locations beneath the depths, its remarkable exterior has allowed it to survive most ocean erosion, but it didn't prevent the spirit inside from asserting control.
-			/* EvilConstruct:
+			TidalConstruct: Originally designed to map out oceans and transport people to locations beneath the depths, its remarkable exterior has allowed it to survive most ocean erosion, but it didn't prevent the spirit inside from asserting control.
+			EvilConstruct:
 				'''
 				INTERNAL DIALOGUE...
 				THESE SPIRITS ARE QUITE CAPABLE OF OVERCOMING OUR CONTROL MECHANISMS.
 				IN A WAY... THEY ARE SIMILAR TO THE CHAOS SPIRITS.
 				WE SHALL DESIGN UPGRADED CONTAINMENT STRUCTURES THAT ALLOW PROLONGED STUDY.
-				''' */
+				'''
 			InfernoConstruct: Once used as a living flame to heat ancient forges, it is no longer distinguishable from a weapon of mass destruction.
 			ChaosConstruct: A prison designed to weaken the power of the Chaos Spirit inside. Unlike other constructs, the chassis serves no other purpose besides containment.
-			// ChaosConstructChassis: The internal structure of a Chaos Construct. Designed to contain the Chaos Spirit at all costs.
-			/* NatureSpirit:
+			ChaosConstructChassis: The internal structure of a Chaos Construct. Designed to contain the Chaos Spirit at all costs.
+			NatureSpirit:
 				'''
 				Quite a useful specimen: not too dangerous, good source of power, and it has a natural desire to patrol.
 				Perhaps we can use it to monitor the planet's surface?
 				Quite possibly. In fact, I already have an idea...
-				''' */
+				'''
 			EarthenSpirit: Forced into tight, underground spaces, these spirits have a built-in tolerance for cooperating with other spirits. Their cooperative nature is also useful for more labor-intensive tasks.
-			// PermafrostSpirit: Harnessing energy from this spirit - one that removes energy from its surroundings - is not as difficult as it seems.
+			PermafrostSpirit: Harnessing energy from this spirit - one that removes energy from its surroundings - is not as difficult as it seems.
 			OtherworldlySpirit: Isolated in outer space, these spirits don't have much experience competing for land and resources. This makes them conveniently exploitable sources of energy for high-tech machines.
-			// TidalSpirit: These humble and overprotective spirits do sometimes go with the flow.
-			/* EvilSpirit:
+			TidalSpirit: These humble and overprotective spirits do sometimes go with the flow.
+			EvilSpirit:
 				'''
 				INTERNAL DIALOGUE...
 				THIS CONFIRMS OUR SUSPICIONS.
 				THE SPIRITS DO NOT ORIGINATE FROM TERRARIA.
-				''' */
-			/* InfernoSpirit:
+				'''
+			InfernoSpirit:
 				'''
 				I'm starting to think your ideas aren't very original, Mammon. Look, even the Ombra are using Spirits for energy.
 				But their cages are primitive - with limited utility. My constructs can think.
 				I'm pretty sure Spirits can already think.
 				But their thinking is... primitive.
-				''' */
+				'''
 			Lux: Chaos spirits have no equal. They are shoved into constructs for the sole purpose of containment. None have ever been sufficiently weakened for intelligent use.
 			Glowmoth: An otherworldly creature that makes its home in glowing mushroom caves. Although one might assume that it lives there due the trait it shares with the mushrooms, bioluminescence, its main motive is the biome's relatively easy to access void energy.
 			ArchaeologistLore: Merely a hologram. Move along. Nothing to learn here.
 			Ultracap: Origin - unknown. Purpose - unknown. Consciousness - affirmative.
 			Planetoid: A cluster of strange mass with localized gravity. It moves by manipulating the space around it.
-			// Chimera: One would think science is responsible for the most abominable of abominations. One would be wrong.
-			/* EarthenGizmo:
+			Chimera: One would think science is responsible for the most abominable of abominations. One would be wrong.
+			EarthenGizmo:
 				'''
 				So, what is it we need these for?
 				YOU DIG. EXCAVATE RUINS. AFFIRMATIVE?
 				Uh, affirmative..?
 				GOOD.
-				''' */
-			/* Throe:
+				'''
+			Throe:
 				'''
 				First, they requested our labor; in exchange, they advanced us. 
 				Our alliance grew steadily, until it emerged - ravenous and growing. 
 				In a panic, they burned it, all of it. Everything it touched was burned, our possessions too. 
 				But it kept coming back - it was here to stay, or perhaps, they had not yet burned all of it.
 				So, they burned us, our children, and our souls, for it had infected us too. 
-				''' */
-			/* CorpseBloom:
+				'''
+			CorpseBloom:
 				'''
 				The soil was plentiful and rich. At first, the plant was content.
 				However, the plant found bodies more plentiful - and more rich - so it laid itself upon the piled corpses, and there it found solace.
-				''' */
-			/* Famished:
+				'''
+			Famished:
 				'''
 				It was starving, so it consumed. 
 				It still starved, so it consumed more. 
 				Yet, it was still starving, so it continued to consume. 
 				Finally, there was nothing left to consume, but it was still starving.
-				''' */
-			/* SubspaceSerpent:
+				'''
+			SubspaceSerpent:
 				'''
 				An unfamiliar voice once whispered to me, warning me.
 				This serpent slithers in a space never seen - space between space.
@@ -8042,22 +8038,22 @@ Mods: {
 				Furthermore, why would it close the entrance behind it?
 				Perhaps it was fleeing...
 				The voice tapered off, and I heard a distant laughing.
-				''' */
-			/* PharaohsCurse:
+				'''
+			PharaohsCurse:
 				'''
 				It had given up on escaping the Pyramid, for as much as it would like to spread, the Pyramid kept it trapped.
 				It decided to sleep. Eventually, the pyramid would erode, and the minions would dig out.
 				How nice it would be if someone could break the gate open, though. That sure would be convenient, it thought.
-				''' */
-			/* Advisor:
+				'''
+			Advisor:
 				'''
 				ADDRESSING NEXUS DIRECTLY... 
 				YOU ARE COMPROMISED.
 				THIS IS THE LAST TRANSMISSION YOU WILL RECEIVE FROM US.
 				GOODBYE.
 					AVARITIA DELIVERY SITE.
-				''' */
-			/* Collector:
+				'''
+			Collector:
 				'''
 				FORWARDED MESSAGE
 				FROM: NEXUS
@@ -8070,8 +8066,8 @@ Mods: {
 				A RESCUE OPERATIVE WILL NOT BE DELIVERED.
 				GOOD LUCK.
 					NEXUS
-				''' */
-			/* Collector2:
+				'''
+			Collector2:
 				'''
 				FORWARDED MESSAGE
 				FROM: NEXUS
@@ -8083,8 +8079,8 @@ Mods: {
 				A GLASS OF HUMAN-COMPATIBLE BEVERAGE WILL BE OFFERED UPON YOUR ARRIVAL.
 				HOPING FOR YOUR SUCCESS.
 					NEXUS.
-				''' */
-			/* Excavator:
+				'''
+			Excavator:
 				'''
 				ADDRESSING NEXUS DIRECTLY... 
 				PLEASE INITIATE A RESCUE PROCEDURE.
@@ -8093,49 +8089,49 @@ Mods: {
 				PLEASE DO NOT LET THIS BE THE LAST TRANSMISSION YOU WILL RECEIVE FROM US.
 				BEST REGARDS. 
 					GULA EXTRACTION SITE.
-				''' */
-			// Tardigrade: These water bears are able to survive the harsh combination of low pressure and intense radiation, allowing them to live in space.
-			// Bridgeburner: Originally devised to contain the spread of evil, it is perhaps a testament to its failure that it is now controlled by evil.
-			/* SanguineFoundry:
+				'''
+			Tardigrade: These water bears are able to survive the harsh combination of low pressure and intense radiation, allowing them to live in space.
+			Bridgeburner: Originally devised to contain the spread of evil, it is perhaps a testament to its failure that it is now controlled by evil.
+			SanguineFoundry:
 				'''
 				Why must we smelt our own ore? You guys are made of metal. If you really want this excavation finished, you could supply us directly... I'm starting to think your promises are ill kept.
 				PERMISSION TO ANSWER DENIED.
-				''' */
-			// CoalCart: Haunted by spirits that once labored in agony.
-			/* Pupa:
+				'''
+			CoalCart: Haunted by spirits that once labored in agony.
+			Pupa:
 				'''
 				They tried to run away, but the flesh wasn't firm, so they slipped.
 				They panicked into a crawl, but the flesh creeped towards them as well.
 				They managed to reach higher ground, but the flesh swallowed their lower half.
 				They wished they were dead now, but now they were one.
-				''' */
-			/* PupaFly:
+				'''
+			PupaFly:
 				'''
 				They tried to climb the stairs, but the air was dark, so they fell.
 				They stumbled upon a hidden crevice, but the air was still boiling.
 				They emerged in search of answers, but the air swallowed their upper half.
 				They wished they were dead now, but now they were one.
-				''' */
-			// LunaMoth: Legends suggest that it once lived in the great expanse of the overworld, shimmering brightly under soft moonlight.
-			// SubspaceWorm: Could this be the BEST worm in Terraria?
-			// BallOWormsFlesh: It makes good fish food, just don't think about it!
-			/* Fistfull:
+				'''
+			LunaMoth: Legends suggest that it once lived in the great expanse of the overworld, shimmering brightly under soft moonlight.
+			SubspaceWorm: Could this be the BEST worm in Terraria?
+			BallOWormsFlesh: It makes good fish food, just don't think about it!
+			Fistfull:
 				'''
 				The strongest were sent the deepest, it made more sense that way.
 				At least, it made sense until the machines left and no one was left to defend against the hungering ghestalt that had just penetrated the surface.
 				Those who remained had no way to defend themselves from their own loved ones.
-				''' */
-			/* LesserWisp:
+				'''
+			LesserWisp:
 				'''
 				You feel an empty pair of eyes is watching you.
 				Hopefully this feeling stays in the underworld.
-				''' */
-			// Ghast2: What happens when two hostile and corruptive entities merge? They enter symbiosis, of course!
-			/* RotWalker:
+				'''
+			Ghast2: What happens when two hostile and corruptive entities merge? They enter symbiosis, of course!
+			RotWalker:
 				'''
 				He survived the worst of it: the smell of rot and burning flesh, the screams and cries of horror...
 				He wished he hadn't.
-				''' */
+				'''
 		}
 
 		DeathMessage: {
@@ -8226,16 +8222,16 @@ Mods: {
 
 				Наносимый урон получит 50% бонуса от всех прибавок к несовпадающим типам урона
 				'''
-			/* 5:
+			5:
 				'''
 
 				Efficacy of enemy defense is reduced by 50%
-				''' */
-			/* 6:
+				'''
+			6:
 				'''
 
 				Increases void damage by 10% and void gain by 20%
-				''' */
+				'''
 		}
 
 		VoidmageIncubatorTextList: {
@@ -8929,64 +8925,64 @@ Mods: {
 			ChimeraFireball.DisplayName: Shadow Fireball
 			ChimeraFireballSmall.DisplayName: Shadow Fireball
 			BundleSnakeMinion.DisplayName: Bundle Snake Minion
-			// CorpsebloomAcid.DisplayName: Corpsebloom Acid
-			// Icebreaker.DisplayName: Icebreaker
-			// IcebreakerIce.DisplayName: Icebreaker Ice
-			// IcebreakerShard.DisplayName: Icebreaker Shard
-			// PlagueSpitter.DisplayName: Plague Spitter
-			// PlagueBeam.DisplayName: Plague Beam
-			// TesseractSlash.DisplayName: Tesseract Slash
-			// WishingStarProj.DisplayName: Wishing Star
-			// FreshGreeny.DisplayName: Fresh Greeny
-			// FreshGreenyCounter.DisplayName: Fresh Greeny Counter
-			// StarshardSlash.DisplayName: Starshard Slash
-			// FizzleStar.DisplayName: Fizzle Star
-			// StarShard.DisplayName: Starshard
-			// SandstormPouch.DisplayName: Sandstorm Pouch
-			// SandstormPuff.DisplayName: Sandstorm Puff
-			// PBow.DisplayName: Compound Bow
-			// PBowArrow.DisplayName: Compound Arrow
-			// PBolt.DisplayName: Energy Bolt
-			// ThroeProj.DisplayName: Throe Proj
-			// CrystalExplosionBig.DisplayName: Crystal Explosion Big
-			// CrystalExplosionSmall.DisplayName: Crystal Explosion Small
-			// MagmaBeam.DisplayName: Magma Beam
-			// MagmaLaser.DisplayName: Magma Laser
-			// FortressCrasher.DisplayName: Fortress Crasher
-			// ConduitParticleProjectile.DisplayName: Conduit Particle Projectile
-			// FamishedLaser.DisplayName: Famished Laser
-			// FamishedDeadzone.DisplayName: Famished Deadzone
-			// BlongusProj.DisplayName: Blongus Proj
-			// WoeBall.DisplayName: Little Woe
-			// TorchBombMk2.DisplayName: Torch Bomb Mk2
-			// TorchEmberMk2.DisplayName: Torch Ember Mk2
-			// AncientSteelLantern.DisplayName: Steel Lantern
-			// PintOPunch.DisplayName: Pint O Punch
-			// FishBomb.DisplayName: Fish Bomb
-			// FishBlood.DisplayName: Fish Blood
-			// AccretionDisc.DisplayName: Accretion Disc
-			// AccretionSingularity.DisplayName: Accretion Singularity
-			// AccretionNova.DisplayName: Accretion Nova
-			// MoonClock.DisplayName: Moon Clock
-			// MoonClockHoldOut.DisplayName: Moon Clock Hold Out
-			// BlinkBladeSlash.DisplayName: Blink Blade Slash
-			// BlinkLightning.DisplayName: Blink Lightning
-			// BridgeburnerDeadzone.DisplayName: Bridgeburner Deadzone
-			// BridgeburnerLaser.DisplayName: Bridgeburner Laser
-			// BridgeburnerFlame.DisplayName: Bridgeburner Flame
-			// FriendlyBridgeBurnerFlame.DisplayName: Friendly Bridge Burner Flame
-			// FoundryFire.DisplayName: Meatball
-			// FoundryFireBoom.DisplayName: Meatball Explosion
-			// HardlightHook.DisplayName: Hardlight Hook
-			// CollapseBlock.DisplayName: Collapse Block
-			// CoalCartCoal.DisplayName: Coal Cart Coal
-			// ExcavatorLightning.DisplayName: Excavator Lightning
-			// ExcavatorOrb.DisplayName: Excavator Orb
-			// ExcavatorRocket.DisplayName: Excavator Rocket
-			// KingSlash.DisplayName: King Slash
-			// KingSlashThrow.DisplayName: King Slash Throw
-			// LightspeedKingblade.DisplayName: Lightspeed Kingblade
-			// ExcavatorBolt.DisplayName: Excavator Bolt
+			CorpsebloomAcid.DisplayName: Corpsebloom Acid
+			Icebreaker.DisplayName: Icebreaker
+			IcebreakerIce.DisplayName: Icebreaker Ice
+			IcebreakerShard.DisplayName: Icebreaker Shard
+			PlagueSpitter.DisplayName: Plague Spitter
+			PlagueBeam.DisplayName: Plague Beam
+			TesseractSlash.DisplayName: Tesseract Slash
+			WishingStarProj.DisplayName: Wishing Star
+			FreshGreeny.DisplayName: Fresh Greeny
+			FreshGreenyCounter.DisplayName: Fresh Greeny Counter
+			StarshardSlash.DisplayName: Starshard Slash
+			FizzleStar.DisplayName: Fizzle Star
+			StarShard.DisplayName: Starshard
+			SandstormPouch.DisplayName: Sandstorm Pouch
+			SandstormPuff.DisplayName: Sandstorm Puff
+			PBow.DisplayName: Compound Bow
+			PBowArrow.DisplayName: Compound Arrow
+			PBolt.DisplayName: Energy Bolt
+			ThroeProj.DisplayName: Throe Proj
+			CrystalExplosionBig.DisplayName: Crystal Explosion Big
+			CrystalExplosionSmall.DisplayName: Crystal Explosion Small
+			MagmaBeam.DisplayName: Magma Beam
+			MagmaLaser.DisplayName: Magma Laser
+			FortressCrasher.DisplayName: Fortress Crasher
+			ConduitParticleProjectile.DisplayName: Conduit Particle Projectile
+			FamishedLaser.DisplayName: Famished Laser
+			FamishedDeadzone.DisplayName: Famished Deadzone
+			BlongusProj.DisplayName: Blongus Proj
+			WoeBall.DisplayName: Little Woe
+			TorchBombMk2.DisplayName: Torch Bomb Mk2
+			TorchEmberMk2.DisplayName: Torch Ember Mk2
+			AncientSteelLantern.DisplayName: Steel Lantern
+			PintOPunch.DisplayName: Pint O Punch
+			FishBomb.DisplayName: Fish Bomb
+			FishBlood.DisplayName: Fish Blood
+			AccretionDisc.DisplayName: Accretion Disc
+			AccretionSingularity.DisplayName: Accretion Singularity
+			AccretionNova.DisplayName: Accretion Nova
+			MoonClock.DisplayName: Moon Clock
+			MoonClockHoldOut.DisplayName: Moon Clock Hold Out
+			BlinkBladeSlash.DisplayName: Blink Blade Slash
+			BlinkLightning.DisplayName: Blink Lightning
+			BridgeburnerDeadzone.DisplayName: Bridgeburner Deadzone
+			BridgeburnerLaser.DisplayName: Bridgeburner Laser
+			BridgeburnerFlame.DisplayName: Bridgeburner Flame
+			FriendlyBridgeBurnerFlame.DisplayName: Friendly Bridge Burner Flame
+			FoundryFire.DisplayName: Meatball
+			FoundryFireBoom.DisplayName: Meatball Explosion
+			HardlightHook.DisplayName: Hardlight Hook
+			CollapseBlock.DisplayName: Collapse Block
+			CoalCartCoal.DisplayName: Coal Cart Coal
+			ExcavatorLightning.DisplayName: Excavator Lightning
+			ExcavatorOrb.DisplayName: Excavator Orb
+			ExcavatorRocket.DisplayName: Excavator Rocket
+			KingSlash.DisplayName: King Slash
+			KingSlashThrow.DisplayName: King Slash Throw
+			LightspeedKingblade.DisplayName: Lightspeed Kingblade
+			ExcavatorBolt.DisplayName: Excavator Bolt
 		}
 
 		DamageClasses: {
@@ -9075,8 +9071,8 @@ Mods: {
 				}
 
 				screenShake: {
-					// Label: Screenshake
-					// Tooltip: Only effects screenshake originating from SOTS
+					Label: Screenshake
+					Tooltip: Only effects screenshake originating from SOTS
 				}
 
 				additionalTexturePackVisuals: {
@@ -9085,8 +9081,8 @@ Mods: {
 				}
 
 				alternativeMusic: {
-					// Label: "{$Mods.SOTS.Configuration.Label.BLZD}"
-					// Tooltip: "{$Mods.SOTS.Configuration.Tooltip.BLZD}"
+					Label: "{$Mods.SOTS.Configuration.Label.BLZD}"
+					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.BLZD}"
 				}
 			}
 

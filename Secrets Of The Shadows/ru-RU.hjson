@@ -7936,13 +7936,13 @@ Mods: {
 		}
 
 		Bestiary: {
-			HoloSlime: A holographic mimic of an average slime. Its source of energy is unknown.
-			HoloBlade: A holographic mimic of a sword. Its source of energy is unknown.
-			HoloEye: A holographic mimic of an eyeball. Its source of energy is unknown.
-			PhaseEye: A mindless sphere of energy that protects the Planetarium, created exclusively to be used as a puppet for The Advisor.
-			TwilightDevil: A mindless drone that protects the Planetarium. It seems to be controlled centrally, as nothing hides behind its cloak.
-			PhaseSpeeder: It's fast. It's deadly. It's origin is unknown, but it certainly wants you dead. Uses the fabric of existence as its shield.
-			TwilightScouter: A mindless drone that collects data for the Planetarium. Its internal circuitry is not particularly complex.
+			HoloSlime: Голографический мимик обычного слизня. Источник его энергии неизвестен.
+			HoloBlade: Голографический мимик меча. Источник его энергии неизвестен.
+			HoloEye: Голографический мимик глазного яблока. Источник его энергии неизвестен.
+			PhaseEye: Бездумная энергетическая сфера, защищающая Планетарий, созданная исключительно для использования Аналитиком в качестве марионетки.
+			TwilightDevil: Бездумный дрон, защищающий Планетарий. Кажется, что он управляется удалённо, поскольку за его маской ничего не скрывается.
+			PhaseSpeeder: Он быстр. Он опасен. Его происхождение неизвестно, но он определённо желает вашей смерти. Использует ткань бытия в качестве щита.
+			TwilightScouter: Бездумный дрон, защищающий Планетарий. Его внутреннее строеныые не выделяется особой сложностью.
 			PhaseAssaulterHead: Phase Assaulters make up the defensive core of Phase Ore nodes. They can be observed acting as shields for Phase Speeders, while also possessing a potent hyperlight laser.
 			LostSoul: A trapped soul that resides in the Pyramid. It has not come to rest, as it still seems to be searching for something.
 			Snake: A long limbless reptile that has no eyelids, a short tail, and jaws that are capable of considerable extension. This particular one has a venomous bite, and it calls the Pyramid home.
@@ -8065,7 +8065,7 @@ Mods: {
 				ПЕРЕД НАМИ ОТКРЫЛИСЬ НОВЫЕ ВОЗМОЖНОСТИ.
 				В СПАСАТЕЛЬНОЙ ОПЕРАЦИИ НЕТ НЕОБХОДИМОСТИ.
 				УДАЧИ.
-				        ЦЕНТР
+				        ЦЕНТР.
 				'''
 			Collector2:
 				'''

@@ -1,4 +1,4 @@
-Spooky Mod — это довольно большой мод, добавляющий довольно забавный и разнообразный контент с отдалённой тематикой Хэллоуина и жутковаткостью.
+Spooky Mod — это относительно большой мод, добавляющий довольно забавный и разнообразный контент с отдалённой тематикой Хэллоуина и жутковаткостью.
 
 На данный момент, мод добавляет:
 
@@ -28,15 +28,14 @@ Some Warnings:
 Вложившие вклад: Grae, Graydee, Lion8cake, HondaCivicMoment, RocketLauncher, Guck, Ennway и Tomat, а также отдельная благодарность Vortex of Rainbows, разрешившему использовасть свой код визуальнх эффектов в качестве примера для разработки!
 Также спасибо zapsplat.com, бесплатной библиотеке звуков, из которой взято большинство звуковых эффектов, используемых в моде
 
-And of course, thanks to everyone who has supported the mod or shown interest in any way!
+И, конечно же, спасибо всем, кто поддерживал мод и развивал его сообщество!
 
-[h1]Other Stuff[/h1]
+[h1]Другое[/h1]
+Для любых вопросов и фидбека, а также просто место, где можно потусоваться — наш Discord-сервер: [h1][url=https://discord.gg/FFp7FwNBxu](нажмите, чтобы присоединиться)![/url][/h1]
 
-If you have questions, feedback, or just want to hangout, we have a discord server: [h1][url=https://discord.gg/FFp7FwNBxu] Click here to join! [/url][/h1]
+У мода также есть страница на Terraria Community Forums, которую можно найти [h1][url=https://forums.terraria.org/index.php?threads/spooky-mod.111311/]здесь![/url][/h1]
 
-We also have a terraria community forums page, which can be found [h1][url=https://forums.terraria.org/index.php?threads/spooky-mod.111311/] Here! [/url][/h1]
+Вы также можете послушать саундтрек и поддержать Bananalizard'а здесь:
+[h1][url=https://www.youtube.com/playlist?list=PLTkIRNhpw-3HBf7cKj8oRwepQE6vRYsdR] YouTube-плейлист [/url][/h1]
 
-You can also listen to and support bananalizard's soundtrack here:
-[h1][url=https://www.youtube.com/playlist?list=PLTkIRNhpw-3HBf7cKj8oRwepQE6vRYsdR] Youtube Playlist [/url][/h1]
-
-You can also support the soundtrack on bandcamp, which steam won't let me link here for whatever reason, but you can find it in the discord server
+Вы также можете поддержать саундтрек на Bandcamp, ссылку на который по какой-то причине стим мне не позволяет оставить, но вы можете её найти на нашем Discord-сервере.

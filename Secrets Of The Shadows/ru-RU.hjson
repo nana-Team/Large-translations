@@ -3,7 +3,7 @@ Mods: {
 		Common: {
 			worldEnter: "[SOTS] Спасибо, что играете в Secrets of the Shadows! Мы также рекомендуем использовать Secrets of the Shadows Texture Pack, если вы ещё этого не сделали."
 			worldEnterThanks: "[SOTS] Спасибо за использование Secrets Of The Shadows Texture Pack! Приятной игры!"
-			Dedicated: ~ Посвящённый предмет ~
+			Dedicated: ~Посвящённый предмет~
 			BlastDoor: Взрывоустойчивая дверь
 			Dresser: Комод
 			Unbound: "[НЕ НАЗНАЧЕНО]"

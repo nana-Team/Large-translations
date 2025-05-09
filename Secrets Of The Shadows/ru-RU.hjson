@@ -190,10 +190,10 @@ Mods: {
 		}
 
 		KeyBindName: {
-			Blink: Blink
+			Blink: Телепорт
 			ArmorSet: Бонус комплекта
-			MFM: Modify Flight Mode
-			SlowFlight: Slow Down Flight Mode
+			MFM: Изменить режим полёта
+			SlowFlight: Режим замедленного полёта
 		}
 
 		BossAwoken: {
@@ -263,18 +263,18 @@ Mods: {
 		}
 
 		Prefixes: {
-			MaxVoid.DisplayName: " max void"
-			RegVoid.DisplayName: " void gain"
-			CosVoid.DisplayName: % void cost
-			Awakened.DisplayName: Awakened
-			Chained.DisplayName: Chained
-			Chthonic.DisplayName: Chthonic
-			Famished.DisplayName: Famished
-			Omnipotent.DisplayName: Omnipotent
-			Omniscient.DisplayName: Omniscient
-			Potent.DisplayName: Potent
-			Precarious.DisplayName: Precarious
-			Soulbound.DisplayName: Soulbound
+			MaxVoid.DisplayName: " ед. к максимому пустоты"
+			RegVoid.DisplayName: " ед. к восполнению пустоты"
+			CosVoid.DisplayName: % к расходу пустоты
+			Awakened.DisplayName: Пробуждённыый
+			Chained.DisplayName: Скованный
+			Chthonic.DisplayName: Хтонический
+			Famished.DisplayName: Голодающий
+			Omnipotent.DisplayName: Всемогущий
+			Omniscient.DisplayName: Всеведующий
+			Potent.DisplayName: Сильнодействующий
+			Precarious.DisplayName: Ненадёжный
+			Soulbound.DisplayName: Душескованный
 		}
 
 		Items: {

@@ -1,4 +1,4 @@
-﻿Keybinds: {
+Keybinds: {
 	"Alchemist Hidden Reaction.DisplayName": Alchemist  Hidden  Reaction
 	"Alchemist Catalyst Tool Shortcut.DisplayName": Alchemist  Catalyst  Tool  Shortcut
 	"Hidden Reaction.DisplayName": Hidden  Reaction
@@ -305,6 +305,11 @@ Buffs: {
 	OpalResources: {
 		DisplayName: Opal Resources
 		Description: 10% increased resource regeneration
+	}
+
+	PredatorFossilDebuff: {
+		DisplayName: Predator Fossil Debuff
+		Description: Mods.OrchidMod.Buffs.PredatorFossilDebuff.Description
 	}
 }
 
@@ -3444,6 +3449,15 @@ Items: {
 		Tooltip: Transforms you into a Harpy, gaining unique abilities
 	}
 
+	PredatorFossil: {
+		DisplayName: Raptor Statuette
+		LeftClick: A vicious bite, applying a stacking bleed
+		RightClick: Dashes, latching onto hit targets for increased attack speed
+		Jump: Can jump off of latched targets, gouging hit enemies
+		Passive: Reduced fall damage
+		Tooltip: Transforms you into a Bone Raptor, gaining unique abilities
+	}
+
 	SageBee: {
 		DisplayName: Bee Effigy
 		LeftClick: Fires barbed stingers, continuously damaging hit enemies
@@ -3451,6 +3465,15 @@ Items: {
 		Jump: Dashes in the direction of your movement
 		Passive: Shapeshifting in and out covers nearby players in honey
 		Tooltip: Transforms you into a Bee, gaining unique abilities
+	}
+
+	SageImp: {
+		DisplayName: Imp Effigy
+		LeftClick: Shoots fireballs, reinforced when crossing a wall of fire
+		RightClick: Creates a wall of fire, damaging enemies that cross it
+		Jump: Rapidly blinks in the direction of your movement
+		Passive: Nearby enemy deaths increase your next 3 attacks speed
+		Tooltip: Transforms you into an Imp, gaining unique abilities
 	}
 
 	WardenSpider: {
@@ -3466,13 +3489,40 @@ Items: {
 		Tooltip: Transforms you into a Shellweb Spider, gaining unique abilities
 	}
 
+	WardenSlime: {
+		DisplayName: Gelatinous Idol
+		LeftClick: Slams downward, efficiency increases with fall distance
+		RightClick: Charges a piercing slime spike
+		Jump: Left clicking while grounded charges a powerful jump
+		Passive: Receiving or inflicting damage releases chunks of healing goo
+		Tooltip: Transforms you into a Regal Slime, gaining unique abilities
+	}
+
+	WardenEater: {
+		DisplayName: Man Eater Effigy
+		LeftClick: Charges a powerful bite, reinforced after consuming a fruit
+		RightClick: Shoots up to 3 fruits, ripening over time and with nearby deaths
+		Jump: Bashes forward, pushing enemies away and consuming ripe fruits
+		Passive: Roots to the ground, favoring plant tiles for a movement speed bonus
+		Tooltip: Transforms you into a Carnivorous Plant, gaining unique abilities
+	}
+
 	SageBat: {
 		DisplayName: Bat Idol
-		LeftClick: Charge a sound blast, dealing massive damage to echolocated enemies
-		RightClick: Emit a sound wave, echolocating hit enemies if caught on the way back
+		LeftClick: Charges a sound blast, dealing massive damage to echolocated enemies
+		RightClick: Emits a sound wave, echolocating hit enemies if caught on the way back
 		Jump: Can jump two additional times
 		Passive: Can hang from ceilings, regenerating life and reducing aggro
 		Tooltip: Transforms you into a Bat, gaining unique abilities
+	}
+
+	SageBatHell: {
+		DisplayName: Hellbat Idol
+		LeftClick: Charges a sound blast, while continuously damaging echolocated enemies
+		RightClick: Emits a sound wave, echolocating hit enemies if caught on the way back
+		Jump: Can jump three additional times
+		Passive: Can hang from ceilings, regenerating life and reducing aggro
+		Tooltip: Transforms you into a Hellbat, gaining unique abilities
 	}
 
 	ShapeshifterShampoo: {
@@ -3638,15 +3688,15 @@ Items: {
 	JewelerGauntlet: {
 		DisplayName: Jeweler's Gauntlets
 		Tooltip: Can be socketed by right clicking with a gem, providing various effects
-		Amethyst: Amethyst: attacks ignore a substantial amount of enemy defense
-		Topaz: Topaz: increases the length of invincibility after a parry
-		Sapphire: Sapphire: allows the player to double jump
-		Emerald: Emerald: allows the player to dash
-		Ruby: Ruby: greatly increases life regeneration after a parry
-		Diamond: Diamond: emits an aura of light
-		Amber: Amber: recovers 50% of a guard on charged attack hits
-		Aquamarine: Aquamarine: increases mobility in water when held
-		Opal: Opal: increases nearby players resource regeneration
+		Amethyst: "[i:Amethyst] [c/9C5ADC:Amethyst]: attacks ignore a substantial amount of enemy defense"
+		Topaz: "[i:Topaz] [c/FFBA00:Topaz]: increases the length of invincibility after a parry"
+		Sapphire: "[i:Sapphire] [c/2D6ACC:Sapphire]: allows the player to double jump"
+		Emerald: "[i:Emerald] [c/00A32E:Emerald]: allows the player to dash"
+		Ruby: "[i:Ruby] [c/D92B2B:Ruby]: greatly increases life regeneration after a parry"
+		Diamond: "[i:Diamond] [c/FFC4E1:Diamond]: emits an aura of light"
+		Amber: "[i:Amber] [c/FF8800:Amber]: recovers 50% of a guard on charged attack hits"
+		Aquamarine: "[i:ThoriumMod/Aquamarine] [c/6dffd8:Aquamarine]: increases mobility in water when held"
+		Opal: "[i:ThoriumMod/Opal] [c/ef659a:Opal]: increases nearby players resource regeneration"
 		None: No gem socketed
 	}
 
@@ -3658,6 +3708,60 @@ Items: {
 	ThoriumThoriumQuarterstaff: {
 		DisplayName: Thorium Quarterstaff
 		Tooltip: Releases sparks on hit
+	}
+
+	SageCorruption: {
+		DisplayName: Sage Corruption
+		Tooltip: ""
+	}
+
+	SturdySlab: {
+		DisplayName: Sturdy Slab
+		Tooltip: 25% increased block and parry duration
+	}
+
+	ParryingMailFeral: {
+		DisplayName: Feral Braces
+		Tooltip:
+			'''
+			25% increased block and parry duration
+			12% increased melee speed
+			'''
+	}
+
+	ParryingMailHoly: {
+		DisplayName: Cross Cuirass
+		Tooltip:
+			'''
+			25% increased block and parry duration
+			Increases length of invincibility after parrying or taking damage
+			'''
+	}
+
+	ParryingMailMech: {
+		DisplayName: Hallowed Hauberk
+		Tooltip:
+			'''
+			25% increased parry duration and 12% increased melee speed
+			15% increased opposing damage for 10 seconds after parrying
+			Increases length of invincibility after parrying or taking damage
+			'''
+	}
+
+	ParryingMailNinja: {
+		DisplayName: Assassin's Undercovers
+		Tooltip:
+			'''
+			25% increased parry duration, 12% increased melee speed and dodge chance
+			15% increased opposing damage for 10 seconds after parrying
+			Increases length of invincibility after parrying or taking damage
+			Allows the ability to climb walls and dash
+			'''
+	}
+
+	ThoriumFeatherWarhammer: {
+		DisplayName: Warpecker
+		Tooltip: Pecks three times
 	}
 }
 
@@ -4081,22 +4185,33 @@ Projectiles: {
 	GuardianHorizonLanceCounter.DisplayName: Horizon Firmament
 	PredatorHarpyProj.DisplayName: Feather
 	PredatorHarpyProjAlt.DisplayName: Feather
-	SageBeeProj.DisplayName: Stringer
+	SageBeeProj.DisplayName: Stinger
 	HorizonDrillProjectile.DisplayName: Horizon Drill
-	WardenSpiderProj.DisplayName: Warden Spider Proj
-	WardenSpiderWeb.DisplayName: Warden Spider Web
-	SageBatProj.DisplayName: Sage Bat Proj
-	SageBatProjAlt.DisplayName: Sage Bat Proj Alt
-	GuardianQuarterstaffAnchor.DisplayName: Guardian Quarterstaff Anchor
+	WardenSpiderProj.DisplayName: Spider Bite
+	WardenSpiderWeb.DisplayName: Web
+	SageBatProj.DisplayName: Sound Blast
+	SageBatProjAlt.DisplayName: Sound
+	GuardianQuarterstaffAnchor.DisplayName: Quarterstaff
 	ThoriumLeafShieldProj.DisplayName: Razor Leaves
-	DungeonQuarterstaffProjectile.DisplayName: Dungeon Quarterstaff Projectile
-	ShardQuarterstaffProjectile.DisplayName: Shard Quarterstaff Projectile
+	DungeonQuarterstaffProjectile.DisplayName: Quarterstaff
+	ShardQuarterstaffProjectile.DisplayName: Quarterstaff
 	OrchidTitaniumShard.DisplayName: Titanium Shard
 	ThoriumGraniteGauntletProjectile.DisplayName: Chargeback
 	TempleSpikeProj.DisplayName: Deadly Sun Laser
 	MechSpikeProj.DisplayName: Death Laser
 	VerveineFart.DisplayName: Fart
 	ThoriumAquaiteQuarterstaffProjectile.DisplayName: Wave Swirl
+	PredatorFossilProj.DisplayName: Vicious Bite
+	SageBatHellProj.DisplayName: Hellbat Fire
+	SageImpProj.DisplayName: Fireball
+	SageImpProjAlt.DisplayName: Firewall
+	WardenSlimeProj.DisplayName: Slime Slam
+	WardenSlimeProjAlt.DisplayName: Slime Spike
+	WardenSlimeProjPassive.DisplayName: Slime Goo
+	SageImpDash.DisplayName: Sage Imp Dash
+	WardenEaterStem.DisplayName: Stem
+	WardenEaterProjAlt.DisplayName: Eater Bud
+	WardenEaterProjAltDeath.DisplayName: Eater Light
 }
 
 Configs: {
@@ -4146,21 +4261,31 @@ Configs: {
 
 		LoadCrossmodContentWithoutRequiredMods: {
 			Label: Load Crossmod-Content without required mods
-			Tooltip: "{$Enables/Disables loading Crossmod-Content without required mods}"
+			Tooltip: Enables/Disables loading Crossmod-Content without required mods
+		}
+
+		EnableContentAlchemist: {
+			Label: Enable Alchemist Content
+			Tooltip: Allows alchemist items to appear in chests, loot tables, and be crafted
+		}
+
+		EnableContentGambler: {
+			Label: Enable Gambler Content
+			Tooltip: Allows gambler items to appear in chests, loot tables, and be crafted
+		}
+
+		EnableContentShapeshifter: {
+			Label: Enable Shapeshifter Content
+			Tooltip: Allows shapeshifter items to appear in chests, loot tables, and be crafted
 		}
 	}
 }
 
 Misc: {
-	GuardianGrantsGuard: Grants {0} guard when fully charged
-	GuardianGrantsGuards: Grants {0} guards when fully charged
-	GuardianGrantsSlam: Grants {1} slam when fully charged
-	GuardianGrantsSlams: Grants {1} slams when fully charged
-	GuardianGrantsGuardSlamSame: Grants {0} guard and slam when fully charged
-	GuardianGrantsGuardsSlamsSame: Grants {0} guards and slams when fully charged
-	GuardianGrantsGuardsSlam: Grants {0} guards and {1} slam when fully charged
-	GuardianGrantsGuardSlams: Grants {0} guard and {1} slams when fully charged
-	GuardianGrantsGuardsSlams: Grants {0} guards and {1} slams when fully charged
+	GuardianGrantsGuard: Grants {0} {^0:guard;guards} when fully charged
+	GuardianGrantsSlam: Grants {1} {^0:slam;slams} when fully charged
+	GuardianGrantsGuardSlamSame: Grants {0} {^0:guard;guards} and {^0:slam;slams} when fully charged
+	GuardianGrantsGuardSlam: Grants {0} {^0:guard;guards} and {1} {^1:slam;slams} when fully charged
 	ShapeshifterLeftClick: "[c/AFFFAF:Attack: ]"
 	ShapeshifterRightClick: "[c/AFFFAF:Skill: ]"
 	ShapeshifterJump: "[c/AFFFAF:Mobility: ]"
@@ -4246,7 +4371,7 @@ UI: {
 	DanserItem: {
 		ImpactWeapon: -Impact Weapon-
 		PhaseWeapon: -Phase Weapon-
-		MomentumWeapon: -MomentumWeapon-
+		MomentumWeapon: -Momentum Weapon-
 	}
 
 	ReactionBook: {
@@ -4256,12 +4381,12 @@ UI: {
 }
 
 DamageClasses: {
-	Alchemist: -Alchemist-
-	Dancer: -Dancer-
-	Gambler: -Gambler-
-	Guardian: -Guardian-
-	Shaman: -Shaman-
-	Shapeshifter: -Shapeshifter-
+	Alchemist: -Alchemist Class-
+	Dancer: -Dancer Class-
+	Gambler: -Gambler Class-
+	Guardian: -Guardian Class-
+	Shaman: -Shaman CLass-
+	Shapeshifter: -Shapeshifter Class-
 	AlchemistDamageClass.DisplayName: chemical damage
 	DancerDamageClass.DisplayName: poise damage
 	GamblerChipDamageClass.DisplayName: gambling damage
@@ -4272,7 +4397,7 @@ DamageClasses: {
 
 		ThoriumMod_TerrariumArmorAddClassFocus: {
 			Name: Opposing Focus
-			Description: Increases maximum guards and slams, life regen and defense by 3
+			Description: Increases maximum guards, slams, life regen and defense by 3
 		}
 	}
 
@@ -4288,4 +4413,7 @@ Conditions: {
 	GamblerSetElemental: The player hs more than 2 "Elemental" set cards in their deck
 	AlchemistKnownReactions4: The player knows at least 4 hidden reactions
 	DisabledThorium: Thorium mod is disabled
+	EnabledContentAlchemist: Alchemist content is enabled
+	EnableContentGambler: Gambler content is enabled
+	EnableContentShapeshifter: Shapeshifter content is enabled
 }

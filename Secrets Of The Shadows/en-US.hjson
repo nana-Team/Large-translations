@@ -606,7 +606,7 @@ Mods: {
 				DisplayName: Foggy Clairvoyance
 				Tooltip:
 					'''
-					Increases damage by 15% and grants immunity to almost every debuff
+					Increases damage by 15% and grants immunity to most debuffs
 					'Cursed'
 					'''
 			}
@@ -953,7 +953,7 @@ Mods: {
 				Tooltip:
 					'''
 					Increases void received from food by 25%
-					Receiving the same buff multiple times will increase buff duration instead of resetting it, up to double the duration
+					Receiving the same buff multiple times will increase buff duration instead of resetting it, up to double the original duration
 					Debuff durations are drained faster, prolonging the duration of all active buffs
 					'''
 			}
@@ -2136,7 +2136,7 @@ Mods: {
 					'''
 					Killed enemies have a 50% chance to drop additional hearts
 					This chance increases to 100% with critical strikes
-					Collecting hearts lengthens the duration of active buffs
+					Collecting hearts lengthens the duration of active buffs, up to double the original duration
 					'''
 			}
 
@@ -6880,6 +6880,16 @@ Mods: {
 					Each slash will additionally call down a blade from the sky
 					'''
 			}
+
+			TideChain: {
+				DisplayName: Tide Chain
+				Tooltip: ""
+			}
+
+			BWand: {
+				DisplayName: B. Wand
+				Tooltip: ""
+			}
 		}
 
 		ItemTooltip: {
@@ -7665,6 +7675,7 @@ Mods: {
 			SanctuaryMusicBoxTile.MapEntry: Sanctuary Music Box Tile
 			EvostonePots.MapEntry: Pots
 			SeismicStationTile.MapEntry: Seismic Station
+			TideChainTile.MapEntry: Tide Chain Tile
 		}
 
 		WorldGeneration: {
@@ -8957,6 +8968,7 @@ Mods: {
 			KingSlash.DisplayName: King Slash
 			KingSlashThrow.DisplayName: King Slash Throw
 			LightspeedKingblade.DisplayName: Lightspeed Kingblade
+			ExcavatorBolt.DisplayName: Excavator Bolt
 		}
 
 		DamageClasses: {

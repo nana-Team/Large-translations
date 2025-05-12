@@ -2518,7 +2518,7 @@ Mods: {
 			AvaritianPlating: {
 				# Otherworld
 				# Blocks
-				DisplayName: Покрытие жадности
+				DisplayName: Покрытие алчности
 				Tooltip: ""
 			}
 
@@ -2533,7 +2533,7 @@ Mods: {
 			}
 
 			PortalPlatingWall: {
-				DisplayName: Стена из покрытия жадности
+				DisplayName: Стена из покрытия алчности
 				Tooltip: ""
 			}
 
@@ -3888,11 +3888,11 @@ Mods: {
 			}
 
 			OtherworldlySpiritStaff: {
-				DisplayName: Otherworldly Spirit Staff
+				DisplayName: Посох потустороннего духа
 				Tooltip:
 					'''
-					Summons an Otherworldly Spirit to fight for you
-					Accumulates up to 4 thunder charges that are launched at enemies in quick succession
+					Призывает потустороннего духа сражаться за вас
+					Заряжает до 4 громовых зарядов, которыми они быстро и последовательно выстреливает во врагов
 					'''
 			}
 
@@ -4161,13 +4161,11 @@ Mods: {
 			}
 
 			ScarletStar: {
-				# Void
-				DisplayName: Scarlet Crescent
-				# Void
+				DisplayName: Алый полумесяц
 				Tooltip:
 					'''
-					Permanently increases max void by 50 and void regeneration speed 5%
-					Can only be used once
+					Навсегда увеличивает максимальный запас пустоты на 50 ед. и скорость её восполнения на 5%
+					Можно использовать только 1 раз
 					'''
 			}
 
@@ -4343,8 +4341,8 @@ Mods: {
 			}
 
 			ElectromagneticLure: {
-				DisplayName: Electromagnetic Lure
-				Tooltip: Attracts a single biome construct
+				DisplayName: Электромагнитная приманка
+				Tooltip: Призывает конструкцию текущего биома
 			}
 
 			ExplosiveKnife: {
@@ -4676,7 +4674,7 @@ Mods: {
 			EarthenPlatingWorkBench: {
 				DisplayName: Верстак из земельного покрытия
 				# Earthen
-				Tooltip: Может также фукнкционировать как наковальня
+				Tooltip: Также может функционировать в качестве наковальни
 			}
 
 			GoopwoodBarrel: {
@@ -4807,7 +4805,7 @@ Mods: {
 			NaturePlatingWorkBench: {
 				DisplayName: Верстак из природного покрытия
 				# Nature
-				Tooltip: Может также фукнкционировать как наковальня
+				Tooltip: Также может функционировать в качестве наковальни
 			}
 
 			PermafrostPlatingBathtub: {
@@ -5857,12 +5855,12 @@ Mods: {
 			}
 
 			TorchGunMk2: {
-				DisplayName: Torch Gun Mk2
+				DisplayName: Факельная пушка, обр. №2
 				Tooltip:
 					'''
-					Launches a torch cluster bomb that explodes into homing torches
-					Right click to launch smaller torch bombs, consuming neither ammo nor void
-					Uses torch bombs for ammo
+					Стреляет кластерными бомбами-факелами, взрывающися самонаводящемися факелами
+					Нажмите ПКМ, чтобы выпустить бомбу-факел меньшего размера, не расходующую ни пустоты, ни боеприпасов
+					Использует бомбы-факелы в качестве боеприпасов
 					'''
 			}
 
@@ -6191,312 +6189,312 @@ Mods: {
 			}
 
 			OtherworldPlatingBathtub: {
-				DisplayName: Otherworld Plating Bathtub
+				DisplayName: Ванна из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingBed: {
-				DisplayName: Otherworld Plating Bed
+				DisplayName: Кровать из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingBlastDoor: {
-				DisplayName: Otherworld Plating Blast Door
+				DisplayName: Взрывоустойчивая дверь из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingBookcase: {
-				DisplayName: Otherworld Plating Bookcase
+				DisplayName: Книжный шкаф из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingCandle: {
-				DisplayName: Otherworld Plating Candle
+				DisplayName: Свеча из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingChair: {
-				DisplayName: Otherworld Plating Chair
+				DisplayName: Стул из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingChandelier: {
-				DisplayName: Otherworld Plating Chandelier
+				DisplayName: Люстра из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingChest: {
-				DisplayName: Otherworld Plating Capsule
+				DisplayName: Капсула из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingClock: {
-				DisplayName: Otherworld Plating Clock
+				DisplayName: Напольные часы из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingDresser: {
-				DisplayName: Otherworld Plating Dresser
+				DisplayName: Комод из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingLamp: {
-				DisplayName: Otherworld Plating Lamp
+				DisplayName: Напольная лампа из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingLantern: {
-				DisplayName: Otherworld Plating Lantern
+				DisplayName: Фонарь из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingPiano: {
-				DisplayName: Otherworld Plating Piano
+				DisplayName: Пианино из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingPlatform: {
-				DisplayName: Otherworld Plating Platform
+				DisplayName: Платформа из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingSink: {
-				DisplayName: Otherworld Plating Sink
+				DisplayName: Раковина из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingSofa: {
-				DisplayName: Otherworld Plating Sofa
+				DisplayName: Диван из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingTable: {
-				DisplayName: Otherworld Plating Table
+				DisplayName: Стол из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingToilet: {
-				DisplayName: Otherworld Plating Toilet
+				DisplayName: Унитаз из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingTorch: {
-				DisplayName: Otherworld Plating Torch
+				DisplayName: Факел из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			OtherworldPlatingWorkBench: {
-				DisplayName: Otherworld Plating Work Bench
-				Tooltip: Also functions as an anvil
+				DisplayName: Верстак из потустороннего покрытия
+				Tooltip: Также может функционировать в качестве наковальни
 			}
 
 			OtherworldPlatingWall: {
-				DisplayName: Otherworld Plating Wall
+				DisplayName: Стена из потустороннего покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingBathtub: {
-				DisplayName: Evil Plating Bathtub
+				DisplayName: Ванна из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingBed: {
-				DisplayName: Evil Plating Bed
+				DisplayName: Кровать из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingBlastDoor: {
-				DisplayName: Evil Plating Blast Door
+				DisplayName: Взрывоустойчивая дверь из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingBookcase: {
-				DisplayName: Evil Plating Bookcase
+				DisplayName: Книжный шкаф из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingCandle: {
-				DisplayName: Evil Plating Candle
+				DisplayName: Свеча из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingChair: {
-				DisplayName: Evil Plating Chair
+				DisplayName: Стул из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingChandelier: {
-				DisplayName: Evil Plating Chandelier
+				DisplayName: Люстра из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingChest: {
-				DisplayName: Evil Plating Capsule
+				DisplayName: Капсула из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingClock: {
-				DisplayName: Evil Plating Clock
+				DisplayName: Напольные часы из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingDresser: {
-				DisplayName: Evil Plating Dresser
+				DisplayName: Комод из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingLamp: {
-				DisplayName: Evil Plating Lamp
+				DisplayName: Напольная лампа из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingLantern: {
-				DisplayName: Evil Plating Lantern
+				DisplayName: Фонарь из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingPiano: {
-				DisplayName: Evil Plating Piano
+				DisplayName: Пианино из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingPlatform: {
-				DisplayName: Evil Plating Platform
+				DisplayName: Платформа из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingSink: {
-				DisplayName: Evil Plating Sink
+				DisplayName: Раковина из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingSofa: {
-				DisplayName: Evil Plating Sofa
+				DisplayName: Диван из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingTable: {
-				DisplayName: Evil Plating Table
+				DisplayName: Стол из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingToilet: {
-				DisplayName: Evil Plating Toilet
+				DisplayName: Унитаз из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingTorch: {
-				DisplayName: Evil Plating Torch
+				DisplayName: Факел из злого покрытия
 				Tooltip: ""
 			}
 
 			EvilPlatingWorkBench: {
-				DisplayName: Evil Plating Work Bench
-				Tooltip: Also functions as an anvil
+				DisplayName: Верстак из злого покрытия
+				Tooltip: Также может функционировать в качестве наковальни
 			}
 
 			EvilPlatingWall: {
-				DisplayName: Evil Plating Wall
+				DisplayName: Стена из злого покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingBathtub: {
-				DisplayName: Inferno Plating Bathtub
+				DisplayName: Ванна из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingBed: {
-				DisplayName: Inferno Plating Bed
+				DisplayName: Кровать из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingBlastDoor: {
-				DisplayName: Inferno Plating Blast Door
+				DisplayName: Взрывоустойчивая дверь из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingBookcase: {
-				DisplayName: Inferno Plating Bookcase
+				DisplayName: Книжный шкаф из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingCandle: {
-				DisplayName: Inferno Plating Candle
+				DisplayName: Свеча из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingChair: {
-				DisplayName: Inferno Plating Chair
+				DisplayName: Стул из инфенрального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingChandelier: {
-				DisplayName: Inferno Plating Chandelier
+				DisplayName: Люстра из инфенрального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingChest: {
-				DisplayName: Inferno Plating Chest
+				DisplayName: Сундук из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingClock: {
-				DisplayName: Inferno Plating Clock
+				DisplayName: Напольные часы из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingDresser: {
-				DisplayName: Inferno Plating Dresser
+				DisplayName: Комод из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingLamp: {
-				DisplayName: Inferno Plating Lamp
+				DisplayName: Напольная лампа из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingLantern: {
-				DisplayName: Inferno Plating Lantern
+				DisplayName: Фонарь из инфенрального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingPiano: {
-				DisplayName: Inferno Plating Piano
+				DisplayName: Пианино из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingPlatform: {
-				DisplayName: Inferno Plating Platform
+				DisplayName: Платформа из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingSink: {
-				DisplayName: Inferno Plating Sink
+				DisplayName: Раковина из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingSofa: {
-				DisplayName: Inferno Plating Sofa
+				DisplayName: Диван из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingTable: {
-				DisplayName: Inferno Plating Table
+				DisplayName: Стол из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingToilet: {
-				DisplayName: Inferno Plating Toilet
+				DisplayName: Унитаз из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingTorch: {
-				DisplayName: Inferno Plating Torch
+				DisplayName: Факел из инфернального покрытия
 				Tooltip: ""
 			}
 
 			InfernoPlatingWorkBench: {
-				DisplayName: Inferno Plating Work Bench
+				DisplayName: Верстак из инфернального покрытия
 				Tooltip: ""
 			}
 
@@ -6506,97 +6504,97 @@ Mods: {
 			}
 
 			ChaosPlatingBed: {
-				DisplayName: Chaos Plating Bed
+				DisplayName: Кровать из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingBlastDoor: {
-				DisplayName: Chaos Plating Blast Door
+				DisplayName: Взрывоустойчивая дверь из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingBookcase: {
-				DisplayName: Chaos Plating Bookcase
+				DisplayName: Книжный шкаф из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingCandle: {
-				DisplayName: Chaos Plating Candle
+				DisplayName: Свеча из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingChair: {
-				DisplayName: Chaos Plating Chair
+				DisplayName: Стул из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingChandelier: {
-				DisplayName: Chaos Plating Chandelier
+				DisplayName: Люстра из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingChest: {
-				DisplayName: Chaos Plating Chest
+				DisplayName: Сундук из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingClock: {
-				DisplayName: Chaos Plating Clock
+				DisplayName: Напольные часы из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingDresser: {
-				DisplayName: Chaos Plating Dresser
+				DisplayName: Комод из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingLamp: {
-				DisplayName: Chaos Plating Lamp
+				DisplayName: Напольная лампа из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingLantern: {
-				DisplayName: Chaos Plating Lantern
+				DisplayName: Фонарь из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingPiano: {
-				DisplayName: Chaos Plating Piano
+				DisplayName: Пианино из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingPlatform: {
-				DisplayName: Chaos Plating Platform
+				DisplayName: Платформа из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingSink: {
-				DisplayName: Chaos Plating Sink
+				DisplayName: Раковина из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingSofa: {
-				DisplayName: Chaos Plating Sofa
+				DisplayName: Диван из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingTable: {
-				DisplayName: Chaos Plating Table
+				DisplayName: Стол из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingToilet: {
-				DisplayName: Chaos Plating Toilet
+				DisplayName: Унитаз из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingTorch: {
-				DisplayName: Chaos Plating Torch
+				DisplayName: Факел из хаотичного покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingWorkBench: {
-				DisplayName: Chaos Plating Work Bench
+				DisplayName: Верстак из хаотичного покрытия
 				Tooltip: ""
 			}
 
@@ -6612,12 +6610,12 @@ Mods: {
 			}
 
 			InfernoPlatingWall: {
-				DisplayName: Inferno Plating Wall
+				DisplayName: Стена из инфернального покрытия
 				Tooltip: ""
 			}
 
 			ChaosPlatingWall: {
-				DisplayName: Chaos Plating Wall
+				DisplayName: Стена из хаотичного покрытия
 				Tooltip: ""
 			}
 
@@ -6632,23 +6630,23 @@ Mods: {
 			}
 
 			BlueTardigrade: {
-				DisplayName: Blue Tardigrade
-				Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
+				DisplayName: Синяя тихоходка
+				Tooltip: Позволяет вылавливать ящики Планетариума где угодно, если Аналитик побеждён
 			}
 
 			BrownTardigrade: {
-				DisplayName: Brown Tardigrade
-				Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
+				DisplayName: Коричневая тихоходка
+				Tooltip: Позволяет вылавливать ящики Планетариума где угодно, если Аналитик побеждён
 			}
 
 			GreenTardigrade: {
-				DisplayName: Green Tardigrade
-				Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
+				DisplayName: Зелёная тихоходка
+				Tooltip: Позволяет вылавливать ящики Планетариума где угодно, если Аналитик побеждён
 			}
 
 			PinkTardigrade: {
-				DisplayName: Pink Tardigrade
-				Tooltip: Allows the catching of Planetarium Crates anywhere, but only after The Advisor has been defeated
+				DisplayName: Розовая тихоходка
+				Tooltip: Позволяет вылавливать ящики Планетариума где угодно, если Аналитик побеждён
 			}
 
 			GreedierRing: {
@@ -6664,12 +6662,12 @@ Mods: {
 			}
 
 			GlowmothTrophy: {
-				DisplayName: Glowmoth Trophy
+				DisplayName: Трофей Светляка
 				Tooltip: ""
 			}
 
 			MothMusicBox: {
-				DisplayName: Glowmoth Music Box
+				DisplayName: Музыкальная шкатулка (Светляк)
 				Tooltip: ""
 			}
 
@@ -6684,7 +6682,7 @@ Mods: {
 			}
 
 			PolarisTrophy: {
-				DisplayName: Polaris Trophy
+				DisplayName: Трофей Полярного
 				Tooltip: ""
 			}
 
@@ -6694,7 +6692,7 @@ Mods: {
 			}
 
 			LuxTrophy: {
-				DisplayName: Lux Trophy
+				DisplayName: Трофей Люкс
 				Tooltip: ""
 			}
 
@@ -7735,7 +7733,7 @@ Mods: {
 
 				BossChecklistIntegration: {
 					EntryName: Аналитик
-					SpawnInfo: Уничтожьте 4 свяхнных конструкта потусторонности Планетариума.
+					SpawnInfo: Уничтожьте 4 связанных конструкции потусторонности Планетариума.
 					DespawnMessage: Аналитик больше не прислеждует вас.
 				}
 			}
@@ -8156,7 +8154,7 @@ Mods: {
 			BossDescription: {
 				PutridPinky: Используйте {0} в любом биоме
 				PharaohsCurse: Нажмите на {0} в Проклятой Пирамиде
-				TheAdvisor: Уничтожьте 4 свяхаггыъ конструкта потусторонности Планетариума
+				TheAdvisor: Уничтожьте 4 связаных конструкции потусторонности Планетариума
 				Polaris: Активируйте {0} в снегах с помощью {1}
 				Lux: Разгневайте духа хаоса
 				SubspaceSerpent: Разрушите пространственную брешь с помощью {0}

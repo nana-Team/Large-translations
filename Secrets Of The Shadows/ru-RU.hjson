@@ -182,7 +182,7 @@ Mods: {
 			PHO: " пре-хардмодная руда"
 			T2D2A: " броня Армии Древних 2 тира"
 			T2DD2A: " аксессуар Армии Древних 2 тира"
-			DE: " иссекающий элемент"
+			DE: " иссякающий элемент"
 			EF: " элементальный фрагмент"
 			EP: " элементальное покрытие"
 			AS: " семя цветка"
@@ -2931,7 +2931,7 @@ Mods: {
 				# Permafrost
 				DisplayName: Совершенный сплав
 				# Permafrost
-				Tooltip: «Обжигающий на ощуп»
+				Tooltip: «Обжигающий на ощупь»
 			}
 
 			CruiseCaller: {
@@ -3060,33 +3060,33 @@ Mods: {
 			}
 
 			ShardGuard: {
-				DisplayName: Shard Guard
+				DisplayName: Осколочный защитник
 				Tooltip:
 					'''
-					Puts a shell around the owner when below 50% life that reduces damage by 25%
-					Surrounds you with a blizzard of artifact probes that fire lasers at nearby enemies
-					Getting hit surrounds you with ice shards
-					Increases max life by 20
+					Когда ваш уровень здоровья падает ниже 50%, создаётся щит, поглощающий 25% получаемого урона
+					Окружает вас метелью древних зондов, стреляющих по ближайшим врагам
+					Получение урона окружает вас ледяными осколками
+					Увеличивает максимальный запас здоровья на 20
 					'''
 			}
 
 			ShardStaff: {
-				DisplayName: Shard Staff
-				Tooltip: Summons shards around the player
+				DisplayName: Осколочный посох
+				Tooltip: Призывает осколки парить покруг вас
 			}
 
 			ShardstormSpell: {
-				DisplayName: Azure Bombardment
-				Tooltip: Create an area of arctic obliteration targeted on your cursor
+				DisplayName: Лазурная бомбардировка
+				Tooltip: Создаёт несколько арктических уничтожителей, устремляющихся к вашему курсору
 			}
 
 			ShatterBlade: {
-				DisplayName: Shatter Blade
+				DisplayName: Раскалыватель
 				Tooltip:
 					'''
-					Shatters on critical strike, surrounding you with 3 ice shards
-					Repairs itself after shattering
-					'Don't worry, it's not a durability system'
+					При критических ударах раскалывается, окружая вас тремя ледяными осколками
+					После раскалывания восстанавливается
+					'Не волнуйся, в этой игре нет системы прочности'
 					'''
 			}
 
@@ -3105,19 +3105,19 @@ Mods: {
 			}
 
 			ShoeIce: {
-				DisplayName: Shoe Ice
+				DisplayName: Ледяные ботинки
 				Tooltip:
 					'''
-					Allows the ability to slide down walls
-					Improved ability if combined with Climbing Claws or Shoe Spikes
-					40% increased movement speed
-					'Ice physics, everyone's favorite!'
+					Позволяют скользить по стенам
+					Работают лучше с шипастыми ботинками и альпинистскими когтями
+					Скорость передвижения увеличена на 40%
+					'Физика льда любима всеми!'
 					'''
 			}
 
 			StormSpell: {
-				DisplayName: Storm Spell
-				Tooltip: Create an arctic storm targeted on your cursor
+				DisplayName: Штормовой заклинатель
+				Tooltip: Создаёт арктический шторм в месте расположения курсора
 			}
 
 			AbyssalTonic: {
@@ -3196,23 +3196,23 @@ Mods: {
 			}
 
 			GlacialTonic: {
-				DisplayName: Glacial Tonic
+				DisplayName: Ледяной тоник
 				Tooltip:
 					'''
-					Randomly receive 2 of the following:
-					Warmth for 15 minutes
-					Brittle for 13 minutes
-					Titan for 11 minutes
-					Mana Regeneration for 9 minutes
+					Даёт 2 случайных баффа из следующего списка:
+					Warmth на 15 минут
+					Brittle на 13 минут
+					Titan на 11 минут
+					Mana Regeneration на 9 минут
 					'''
 			}
 
 			HarmonyPotion: {
-				DisplayName: Harmony Potion
+				DisplayName: Зелье гармонии
 				Tooltip:
 					'''
-					Prevents other buffs from decaying while active
-					Doesn't work on most buffs with below 30 seconds remaining
+					Пока активно останавливает таймер других баффов 
+					Не работает для большинства баффов, если они истекают менее, чем через 30 секунд
 					'''
 			}
 
@@ -3230,16 +3230,16 @@ Mods: {
 			}
 
 			NightmarePotion: {
-				DisplayName: Nightmare Potion
+				DisplayName: Зелье кошмаров
 				Tooltip:
 					'''
-					Critical strikes unleash Nightmare Arms that do 10% damage and pull enemies together
+					Критические удары создают кошмарные руки, наносящие 10% урона удара, призвавшего их, и стягивающие врагов вместе
 					Has a 6 second cooldown
 					'''
 			}
 
 			RipplePotion: {
-				DisplayName: Зелье колебний
+				DisplayName: Зелье колебаний
 				Tooltip:
 					'''
 					От вас будут переодически исходить водяные волны, игнорирующие до 8 ед. защиты
@@ -3298,7 +3298,7 @@ Mods: {
 			PyramidAmbient: {
 				# Pyramid
 				# AltPyramidBlocks
-				DisplayName: Pyramid Ambient
+				DisplayName: Осколки пирамиды
 				Tooltip: ""
 			}
 
@@ -3306,7 +3306,7 @@ Mods: {
 				DisplayName: Обломки Пирамиды
 				# Pyramid
 				# AltPyramidBlocks
-				Tooltip: «Это скорее кучка камней, чем полноценные кипричи»
+				Tooltip: «Это скорее кучка камней, а не полноценные кипричи»
 			}
 
 			AncientGoldBeam: {
@@ -3321,12 +3321,12 @@ Mods: {
 			}
 
 			AcediaGateway: {
-				DisplayName: Acedia Gateway
-				Tooltip: "'A strange portal that leads nowhere'"
+				DisplayName: Аседийские врата
+				Tooltip: «Странный портал, который никуда не ведёт»
 			}
 
 			AcediaPlating: {
-				DisplayName: Acedia Portal Plating
+				DisplayName: Аседийская портальная плита
 				Tooltip: ""
 			}
 
@@ -3338,12 +3338,12 @@ Mods: {
 			AncientGoldGateGems.DisplayName: Gems
 
 			BrachialLance: {
-				DisplayName: Brachial Lance
+				DisplayName: Проклинающее копьё
 				Tooltip:
 					'''
-					Throw a powerful, fast traveling lance that unleashes cursed spears for 3x50% damage
-					Charge to increase damage up to 160% and the number of spears unleashed upon hitting an enemy
-					Guaranteed to critically strike at full charge
+					Бросает могущественное, быстро летящее копьё, которое высвобождает свои более мелкие копии, наносящие 3х50% урона
+					Заряжайте для увеличения урона вплоть до 160% и количества появляющихся при ударе копий
+					При полном заряде гарантированно наносит критический удар
 					'''
 			}
 
@@ -3375,71 +3375,71 @@ Mods: {
 			}
 
 			CurseballTome: {
-				DisplayName: Cursed Spear Storm
-				Tooltip: Unleashes a flurry of highly potent but inaccurate Cursed Spears
+				DisplayName: Проклятое штормовое копьё
+				Tooltip: Запускает шквал мощных, но неточных проклятых копий
 			}
 
 			CursedApple: {
-				DisplayName: Cursed Apple
-				AltDisplayName: Golden Apple
+				DisplayName: Проклятое яблоко
+				AltDisplayName: Золотое яблоко
 				Tooltip:
 					'''
-					Summons a pet Ghost Pepper to assist after combat
-					Plunder 2 Souls of Looting from every killed enemy, and store them inside your void meter
-					Right click on an enemy to mark it for harvesting, consuming 10 souls
-					Marked enemies drop extra loot
-					Enemies can be marked multiple times
-					Requires 100 souls to mark a boss
-					Some rare enemies will also require more souls to mark
+					Призывает призрачного перчика помогать вам в бою
+					Он крадёт по две души жадности у каждого убитого врага, сохраняя их в вашей шкале пустоты
+					Нажмите ПКМ по врагу, потратив 10 душ, чтобы пометить его для сбора
+					Помеченные враги оставляют больше предметов
+					Врагов можно помечать несколько раз
+					Для того чтобы пометить босса, нобходимо 100 душ
+					Для того чтобы пометить некоторых редких врагов, также потребуется больше душ
 					'''
 				DefaultTooltip:
 					'''
-					Summons a pet Ghost Pepper to assist after combat
-					Plunder 2 Souls of Looting from every killed enemy, and store them inside your void meter
-					Right click on an enemy to mark it for harvesting, consuming 10 souls
-					Marked enemies drop extra loot
-					Enemies can be marked multiple times
-					Requires 100 souls to mark a boss
-					Some rare enemies will also require more souls to mark
+					Призывает призрачного перчика помогать вам в бою
+					Он крадёт по две души жадности у каждого убитого врага, сохраняя их в вашей шкале пустоты
+					Нажмите ПКМ по врагу, потратив 10 душ, чтобы пометить его для сбора
+					Помеченные враги оставляют больше предметов
+					Врагов можно помечать несколько раз
+					Для того чтобы пометить босса, нобходимо 100 душ
+					Для того чтобы пометить некоторых редких врагов, также потребуется больше душ
 					'''
 				AltTooltip:
 					'''
-					Summons Friend to assist after combat
-					Plunder 3 Looting Feathers from every killed enemy, and store them inside your void meter
-					Right click on an enemy to mark it for harvesting, consuming 10 feathers
-					Marked enemies drop extra loot
-					Enemies can be marked multiple times
-					Requires 100 feathers to mark a boss
-					Some rare enemies will also require more feathers to mark
+					Призывает Друга помогать вам в бою
+					Он крадёт по три пера жадности у каждого убитого врага, сохраняя их в вашей шкале пустоты
+					Нажмите ПКМ по врагу, потратив 10 перьев, чтобы пометить его для сбора
+					Помеченные враги оставляют больше предметов
+					Врагов можно помечать несколько раз
+					Для того чтобы пометить босса, нобходимо 100 перьев
+					Для того чтобы пометить некоторых редких врагов, также потребуется больше перьев
 					'''
 			}
 
 			CursedBlade: {
-				DisplayName: Cursed Blade
+				DisplayName: Проклятый меч
 				Tooltip:
 					'''
-					Summons a Cursed Blade to assist in combat
-					Hit enemies receive a storm of sword strikes, dealing 50% damage each, and ending in an explosion
-					The explosion deals 100% damage and always critical strikes
+					Призывает проклятый меч помогать вам в бою
+					После попадания меча по врагу, ему наносятся серия ударов, каждый из которых наносит 50% урона, после чего происходит взрыв
+					Взрыв наносит 100% урона и всегда является критическим
 					'''
 			}
 
 			CursedImpale: {
-				DisplayName: Cursed Impale
-				Tooltip: Releases a short ranged burst of energy
+				DisplayName: Проклятый пронзатель
+				Tooltip: Выпускает недалеко летящие потоки проклятой энергии
 			}
 
 			CurseWard: {
-				DisplayName: Curse Ward
+				DisplayName: Проклятый самоцвет
 				Tooltip:
 					'''
-					Weakens the pyramid's curse while in the inventory
-					No longer needed, as the curse will weaken automatically after killing the BoC or EoW
+					Пока находится в инвентаре ослабляет проклятие пирамиды
+					Не нужен после победы над боссом мирового зла, так как проклятие ослабится автоматически
 					'''
 			}
 
 			CursedHiveBlock: {
-				DisplayName: Infected Pyramid Brick
+				DisplayName: Заражённый кирпич пирамиды
 				Tooltip: ""
 			}
 
@@ -3454,11 +3454,11 @@ Mods: {
 			}
 
 			GhoulBlaster: {
-				DisplayName: Ghoul Blaster
+				DisplayName: Бластер нежити
 				Tooltip:
 					'''
-					Unloads almost as fast as the trigger is pulled
-					Transforms bullets into cursed singularities every 6th shot
+					Выпускает патрон практически в момент нажатия на курок
+					Каждый шестой выстрел превращает пулю в проклятую сингулярность
 					'''
 			}
 
@@ -3474,12 +3474,12 @@ Mods: {
 			}
 
 			ImperialPike: {
-				DisplayName: Imperial Pike
-				Tooltip: Leaves behind a trail that continues to damage enemies
+				DisplayName: Имперское копьё
+				Tooltip: Оставляет после себя след, наносящий урон врагам
 			}
 
 			JeweledGauntlet: {
-				DisplayName: Cursed Gauntlet
+				DisplayName: Проклятая перчатка
 				Tooltip: ""
 			}
 
@@ -4161,7 +4161,9 @@ Mods: {
 			}
 
 			ScarletStar: {
+				# Void
 				DisplayName: Алый полумесяц
+				# Void
 				Tooltip:
 					'''
 					Навсегда увеличивает максимальный запас пустоты на 50 ед. и скорость её восполнения на 5%
@@ -8980,7 +8982,6 @@ Mods: {
 			KingSlash.DisplayName: King Slash
 			KingSlashThrow.DisplayName: King Slash Throw
 			LightspeedKingblade.DisplayName: Lightspeed Kingblade
-			ExcavatorBolt.DisplayName: Excavator Bolt
 		}
 
 		DamageClasses: {

@@ -97,3 +97,13 @@ OpenWounds: {
 	DisplayName: Открытые раны
 	Description: Вы уязвимы к кровотечению
 }
+
+ExplorerPot: {
+	DisplayName: Explorer's Thrill
+	Description: You're eager for more!
+}
+
+ExplorerMine: {
+	DisplayName: Explorer's Vigor
+	Description: Keep digging!
+}

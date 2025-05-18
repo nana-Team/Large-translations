@@ -6,7 +6,13 @@ Biomes: {
 }
 
 SlotContexts.Backpack: Рюкзак
-Conditions.InSavanna: В саванне
+
+Conditions: {
+	InSavanna: В саванне
+	PeevedTumbler: When sparkling
+	Discovered: Discovery
+	Submerged: Submerged
+}
 
 Misc: {
 	Pins: {

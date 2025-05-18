@@ -1,6 +1,3 @@
-# The Russian localization clarifies that it is the chest that is cursed. Since this line is used in the description of other items in the SOTS, it is rewritten here
-LegacyTooltip.59: Проклят могущественным существом джунглей
-
 Mods: {
 	SOTS: {
 		Common: {
@@ -3385,6 +3382,7 @@ Mods: {
 			CursedApple: {
 				DisplayName: Проклятое яблоко
 				AltDisplayName: Золотое яблоко
+				// Tooltip: Temp
 				DefaultTooltip:
 					'''
 					Призывает призрачного перчика помогать вам в бою
@@ -3477,20 +3475,20 @@ Mods: {
 			}
 
 			JuryRiggedDrill: {
-				DisplayName: Jury Rigged Drill
+				DisplayName: Самодельная дрель
 				Tooltip:
 					'''
-					Can break the walls of the pyramid
-					Breaks after some usage
+					Может ломать блоки Пирамиды
+					Разрушается после нескольких использований
 					'''
 			}
 
 			LuckyPurpleBalloon: {
-				DisplayName: Lucky Purple Balloon
+				DisplayName: Удачливый фиолетовый надувной шарик
 				Tooltip:
 					'''
-					Grants an additional fishing line
-					Counts as a light pet
+					Даёт дополнительный поплавок
+					Считается освещающим питомцем
 					'''
 			}
 
@@ -3500,21 +3498,21 @@ Mods: {
 			}
 
 			PatchLeatherHat: {
-				DisplayName: Patch Leather Hat
-				Tooltip: Increases max minions by 1
+				DisplayName: Шляпа из змеиной кожи
+				Tooltip: Увеличивает максимальное количество миньонов на 1
 			}
 
 			PatchLeatherPants: {
-				DisplayName: Patch Leather Boots
-				Tooltip: Increases summon damage by 15%
+				DisplayName: Ботинки из змеиной кожи
+				Tooltip: Увеличивают урон призывателя на 15%
 			}
 
 			PatchLeatherTunic: {
-				DisplayName: Patch Leather Tunic
+				DisplayName: Туника из змеиной кожи
 				Tooltip:
 					'''
-					Increases summon damage by 15%
-					Grants immunity to venom and poison debuffs
+					Увеличивают урон призывателя на 15%
+					Дарует иммунитет к дебаффам "Отравлен" и "Кислотный яд"
 					'''
 			}
 
@@ -3528,8 +3526,8 @@ Mods: {
 			}
 
 			PitatiLongbow: {
-				DisplayName: Pitati Longbow
-				Tooltip: Fires an additional bouncing emerald bolt with each shot
+				DisplayName: Большой лук питати
+				Tooltip: Каждый выстрел сопровождается отскакивающим изумрудным снарядом
 			}
 
 			PyramidBrick: {
@@ -3543,7 +3541,7 @@ Mods: {
 			}
 
 			PyramidPot: {
-				DisplayName: Pyramid Pot
+				DisplayName: Горшок Пирамиды
 				Tooltip: ""
 			}
 
@@ -3574,22 +3572,22 @@ Mods: {
 
 			SandstoneEdge: {
 				DisplayName: Песчаниковый клинок
-				Tooltip: Критические попадания выпускают поток самонаводящихся изумрудных выстрелов, наносящих 50% урона
+				Tooltip: Критические удары выпускают поток самонаводящихся изумрудных выстрелов, наносящих 50% урона
 			}
 
 			SandstoneWarhammer: {
-				DisplayName: Sandstone Warhammer
-				Tooltip: Launches homing hammers
+				DisplayName: Песчаниковый боевой молот
+				Tooltip: Запускает самонаводящиеся молоты
 			}
 
 			ShiftingSands: {
-				DisplayName: Shifting Sands
-				Tooltip: Pushes back nearby enemies with a wave of sand
+				DisplayName: Зыбучие пески
+				Tooltip: Отталкивает ближайших врагов волной песка
 			}
 
 			SnakeBow: {
-				DisplayName: Snake Bow
-				Tooltip: Launches snakes that latch on to enemies
+				DisplayName: Змеиный лук
+				Tooltip: Запускает змей, цепляющихся к врагам
 			}
 
 			Snakeskin: {
@@ -3612,17 +3610,17 @@ Mods: {
 			}
 
 			SpiritSurfer: {
-				DisplayName: Spirit Surfer
+				DisplayName: Духовный сёрфер
 				Tooltip:
 					'''
-					Summons an extremely fast spirit board mount
-					Increases void drain by 6 while active
+					Призывает крайне быструю духовню доску для сёрфинга
+					Пока она активна, вы получаете на 6 ед. пустоты больше
 					'''
 			}
 
 			SpiritTracer: {
-				DisplayName: Spirit Tracer
-				Tooltip: Fires phantom arrows that travel instantly to up to 3 enemies at a time
+				DisplayName: Духовный преследователь
+				Tooltip: Стреляет фантомной стрелой, которая моментально ударяет до трёх врагов
 			}
 
 			SunlightAmulet: {
@@ -3632,27 +3630,27 @@ Mods: {
 
 			TaintedKeystone: {
 				DisplayName: Искажённый краеугольный камень
-				Tooltip: «Пресрасная крестализация пустотной энергии!»
+				Tooltip: «Прекрасная кристаллизация пустотной энергии!»
 			}
 
 			TheDarkEye: {
-				DisplayName: The Dark Eye
+				DisplayName: Тёмный глаз
 				Tooltip:
 					'''
-					Allows the ability to perform an instant dash to the left or right at the cost of 5 void
-					Also allows the ability to dash through walls
-					Dashing into enemies will strike them, but consumes more void
+					Позволяет совершать быстрый рывок вправо или влево за 5 ед. пустоты
+					Этот рывок может проходить сквозь блоки
+					Рывок во врагов нанесёт им урон, но потратит больше пустоты
 					'''
 			}
 
 			TrueSandstoneBlock: {
-				DisplayName: True Sandstone Block
-				Tooltip: The ultimate sandstone
+				DisplayName: Истинный песчаниковый блок
+				Tooltip: Ультимативный песчаник
 			}
 
 			TrueSandstoneWall: {
-				DisplayName: True Sandstone Wall
-				Tooltip: "'Only the gods could've forged a wall with such power'"
+				DisplayName: Истинная песчаниковая стена
+				Tooltip: «Лишь боги могут создать стену, обладующую столь великой силой»
 			}
 
 			VoidenBracelet: {
@@ -3666,48 +3664,48 @@ Mods: {
 
 			PhotonGeyser: {
 				# Secrets
-				DisplayName: Photon Geyser
+				DisplayName: Фотоновый гейзер
 				# Secrets
-				Tooltip: Unleash a helix of homing rainbow light
+				Tooltip: Высвобождает спираль самонаводящегося радужного света
 			}
 
 			RefractingCrystalBlock: {
-				DisplayName: Weird Crystal Block
-				Tooltip: "'You shouldn't have this'"
+				DisplayName: Странный кристальный блок
+				Tooltip: «Вы не должны обладать им»
 			}
 
 			StrangeKeystone: {
-				DisplayName: Strange Obelisk
+				DisplayName: Странный обелиск
 				Tooltip:
 					'''
-					It suffers from small cracks under intense sunlight
-					'Feels hollow'
+					Из-за жаркого солнца весь покрылся мелкими трещинками
+					'Ощущается пустым'
 					'''
 			}
 
 			StrangeKeystoneBroken: {
-				DisplayName: Broken Obelisk
+				DisplayName: Сломанный обелиск
 				Tooltip: ""
 			}
 
 			DreamLamp: {
-				DisplayName: Dreaming Lamp
-				Tooltip: "'What do you wish for?'"
-				DisplayName1: Dreaming Lamp
-				DisplayName2: Forgotten Lamp
+				DisplayName: Лампа мечтаний
+				Tooltip: «Каково твоё желание?»
+				DisplayName1: Лампа мечтаний
+				DisplayName2: Забытая лампа
 				Tooltip1:
 					'''
-					Chain together up to 10 enemies, decreasing their speed and defense
-					Chain together items to grab them
-					Right click to launch a floral ball that deals damage to nearby chained enemies and resets their chain durations
-					When a chained enemy is killed, nearby chained enemies will take additional damage
-					Right clicking does not consume void
-					'What do you wish for?'
+					Сцепляет до 10 врагов, уменьшая их скорость и защиту
+					Сцеляет предметы для более удобного подбирания
+					Нажмите ПКМ, чтобы запустить цветочный шар, который наносит урон ближайшим сцепленным врагам и обновляет время сцепления
+					Когда сцепленный враг погибает, все остальные получают дополнительный урон
+					Нажатие ПКМ не тратит пустоту
+					«Каково твоё желание?»
 					'''
-				Tooltip2: Right click to launch a mist orb that releases short-range homing bolts for 50% damage
+				Tooltip2: Нажмите ПКМ, чтобы запустить туманную сферу, которая выпускает быстропропадающие самонаводящися выстрелы, которые наносят 50% урона
 			}
 
-			ForgottenLamp.DisplayName: Forgotten Lamp
+			ForgottenLamp.DisplayName: Забытая лампа
 
 			FireSpitter: {
 				# Slime
@@ -3717,7 +3715,7 @@ Mods: {
 			}
 
 			GelAxe: {
-				DisplayName: Gel Throwing Axe
+				DisplayName: Гелевый метательный топор
 				Tooltip: ""
 			}
 
@@ -3744,7 +3742,7 @@ Mods: {
 				DisplayName: Арахисовый арбалет
 				Tooltip:
 					'''
-					Стреляет вкусным арахисом, вызывающие звёздные налёты пинки
+					Стреляет вкусным арахисом, вызывающим звёздные налёты пинки
 					20%-ный шанс не потратить боеприпасы
 					'''
 			}
@@ -3756,7 +3754,7 @@ Mods: {
 
 			PutridEye: {
 				DisplayName: Гнилостный глаз
-				Tooltip: «Вы хотите смертельный луч? Мы дадим вам смертельный луч»
+				Tooltip: «Вы хотите смертельный луч? Мы дадим вам смертельный луч!»
 			}
 
 			VialofAcid: {
@@ -3766,7 +3764,7 @@ Mods: {
 
 			CorrosiveGel: {
 				DisplayName: Разлагающий гель
-				Tooltip: «Это как розовый гель, только растворяющий твои пальцы при косании»
+				Tooltip: «Он как розовый гель, но растворяющет твои пальцы при касании»
 			}
 
 			Wormwood: {
@@ -3795,38 +3793,38 @@ Mods: {
 			}
 
 			WormWoodScepter: {
-				DisplayName: Скипитер из липкого дерева
-				Tooltip: Призывает цветок-стража, способный атаковать сразу до 4 врагов
+				DisplayName: Скипетр из липкого дерева
+				Tooltip: Призывает цветка-стража, способного атаковать одновременно до 4 врагов
 			}
 
 			WormWoodStaff: {
 				DisplayName: Посох из липкого дерева
-				Tooltip: Выпускает 3 отскакивающих, нестабильных, и долго летящих розовых снаряда
+				Tooltip: Выпускает 3 отскакивающих, нестабильных и долго летящих розовых снаряда
 			}
 
 			BoreBullet: {
 				# SoldStuff
-				DisplayName: Bore Bullet
+				DisplayName: Бурящая пуля
 				# SoldStuff
-				Tooltip: Penetrates 20% of enemy defense plus 10 defense
+				Tooltip: Пробивает 20% + 10 ед. брони врага
 			}
 
 			RecursiveBow: {
-				DisplayName: Recursive Bow
+				DisplayName: Рекурсиввный лук
 				Tooltip:
 					'''
-					Has a 50% chance to fire an additional arrow
-					Additional arrows also activate this ability
+					Имеет 50%-ый шанс выстрелить дополнительной стрелой
+					Дополнительный выстрелы также имею шанс на дополнительную стрелу
 					'''
 			}
 
 			SafetySwitch: {
-				DisplayName: Safety Switch
-				Tooltip: Prevents you from using void weapons if doing so would drop your void below zero
+				DisplayName: Переключатель безопасности
+				Tooltip: Не даёт вам использовать пустотное оружие, если бы это истощило ваш запас пустоты
 			}
 
 			SupremSticker: {
-				DisplayName: Suprem
+				DisplayName: Верховенство
 				Tooltip: ""
 			}
 

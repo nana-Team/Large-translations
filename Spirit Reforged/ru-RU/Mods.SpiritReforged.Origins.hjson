@@ -13,7 +13,7 @@ Botanist: {
 Recluse: {
 	DisplayName: Отшельник
 	Flavor: Ему проще зарыться глубоко под землю, где никто не побеспокоит. Да и рыбалка здесь лучше!
-	Description: Начинает с комплектом ботаника, серпом и парой мешочков с травами.
+	Description: Начинает с Fishing Hat, Fiberglass Fishing Pole, some bait, and some crates in an underground fishing shack.
 }
 
 Hunter: {

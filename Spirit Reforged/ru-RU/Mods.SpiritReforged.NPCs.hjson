@@ -225,6 +225,18 @@ Cartographer: {
 				2: Вот здесь это и случилось. Я за свою жизнь в немало ям ухитрялся влететь, но чтоб яма ещё и светилась фиолетовым?! Нет уж, такие колдовские штучки — не по моей части. Так что я сделал единственно правильное — развернулся и пошёл домой. И тебе советую!
 			}
 
+			WulfrumBunker: {
+				0: Hopefully this is right. I was walking around as I do, and behind a copse of trees I see this weird green mechanical site. The top has all these things and from below I hear a mechanical whirring...no thanks!
+				1: This was were my camp was, right there. I was taking a rest from a nice, long day of walking around, when this little machine guy with a big hand STOLE my bag. Good thing I had rested a bit, because that little guy kept me running for a while.
+				2: There it is! Hard to forget it after all. You don't often find industry out here, which is good for me. I don't much care for all of the noise. Especially once an energy field appeared and scrap was flying towards me.
+			}
+
+			BloodAltar: {
+				0: And... there! Charting the surface is only, well, the surface. I find a lot of strange things underground, and many of them I steer clear from... What? I'm a cartographer, not an adventurer!
+				1: Should be it! You seem like the capable type. I'd found this undead fellow who actually listened to reason, which was strange enough, but he sold me this... hand. I followed where it pointed to and found myself at an unsettling crypt... Maybe you can get something out of all this, I'm not going back there.
+				2: You up for a challenge? I'm not, that's for sure. There's this dungeon with a room that reeks of blood... And with that strange altar in the middle, yeah I didn't stay for long.
+			}
+
 			FirstPin: Метка добавлена в твою "Коллекцию". Заглянуть к ней можно в любой момент — в нижнем левом углу карты
 		}
 	}
@@ -301,4 +313,79 @@ HideZombieBig: {
 HideZombieSmall: {
 	DisplayName: "{$NPCName.Zombie}"
 	Entry: Их наряд — писк моды в мире нежити
+}
+
+PotterySlime: {
+	DisplayName: Pottery Slime
+
+	Names: {
+		0: Sable
+		1: Saki
+		2: Sal
+		3: Santra
+		4: Sark
+		5: Sassafrass
+		6: Satya
+		7: Sawyl
+		8: Seppo
+		9: Shammy
+		10: Shard
+		11: Shio
+		12: Silas
+		13: Silica
+		14: Silty
+		15: Sleet
+		16: Sloan
+		17: Snap
+		18: Soggy
+		19: Soda
+		20: Sonya
+		21: Sparta
+		22: Splet
+		23: Spot
+		24: Stratton
+		25: Sullivan
+		26: Swain
+	}
+
+	Chatter: {
+		0: Wubba dooble doo?
+		1: Plip plop. Blorp.
+		2: Wawa.
+	}
+
+	Entry: Believe it or not, this slime is world-renowned in the art of ceramics. You're in the presence of a contemporary master!
+}
+
+StompableGnome.DisplayName: Stompable Gnome
+
+DunceCrab: {
+	DisplayName: Dunce Crab
+	Entry: ""
+}
+
+Wheezer: {
+	DisplayName: Wheezer
+	Entry: A weezer is an extremely toxic relative of the salamander, known for aggressive behavior. Oddly enough, their favorite food is a budding holly plant, contradictory to their carnivorous tendencies.
+}
+
+WorldFrog: {
+	DisplayName: Helpful Looking Frog
+	Button: Update World
+
+	Sounds: {
+		0: Croak
+		1: Ribbit
+	}
+
+	Dialogue: {
+		0: If you wish to look for things to explore, I've got an offer for you - I implore!
+		1: You look for things new? Betwixt my hands, an offer I drew!
+		2: My magicks sense something missing in the air; but - you should not despair!
+	}
+
+	Reports: {
+		CavesAndClubs_0: Hocus pocus - don't look so blue, I've filled your caves with pots to loot anew!
+		CavesAndClubs_1: Abra kadabra I bestow upon you pots anew; should you head underground you'll enjoy them true!
+	}
 }

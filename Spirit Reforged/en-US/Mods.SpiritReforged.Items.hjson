@@ -1328,3 +1328,451 @@ SparrowCageItem: {
 	DisplayName: Sparrow Cage
 	Tooltip: ""
 }
+
+PinBlood: {
+	DisplayName: Blood Pin
+	Tooltip: ""
+}
+
+PinWulfrum: {
+	DisplayName: Wulfrum Pin
+	Tooltip: ""
+}
+
+WayfarerHead: {
+	DisplayName: Wayfarer's Hat
+	Tooltip: Immunity to darkness
+}
+
+WayfarerBody: {
+	DisplayName: Wayfarer's Rucksack
+	Tooltip: 5% increased movement speed
+}
+
+WayfarerLegs: {
+	DisplayName: Wayfarer's Pants
+	Tooltip: 7% increased movement speed
+}
+
+AncientKoiTotem: {
+	DisplayName: Ancient Koi Totem
+	Tooltip: "{$Mods.SpiritReforged.Items.KoiTotem.Tooltip}"
+}
+
+BoomShroom: {
+	DisplayName: Boom Shroom
+	Tooltip:
+		'''
+		All thrown explosives are much larger... and stronger
+		Downtime between throws is increased
+		'''
+}
+
+ClayBomb: {
+	DisplayName: Clay Bomb
+	Tooltip: A small explosion that will spread clay
+}
+
+ClayBombSticky: {
+	DisplayName: Sticky Clay Bomb
+	Tooltip: "{$Mods.SpiritReforged.Items.ClayBomb.Tooltip}"
+}
+
+SandBomb: {
+	DisplayName: Sand Bomb
+	Tooltip: A small explosion that will spread sand
+}
+
+SandBombSticky: {
+	DisplayName: Sticky Sand Bomb
+	Tooltip: "{$Mods.SpiritReforged.Items.SandBomb.Tooltip}"
+}
+
+CoarseBomb: {
+	DisplayName: Coarse Bomb
+	Tooltip: A small explosion that will spread coarse dirt
+}
+
+CoarseBombSticky: {
+	DisplayName: Sticky Coarse Bomb
+	Tooltip: "{$Mods.SpiritReforged.Items.CoarseBomb.Tooltip}"
+}
+
+MudBomb: {
+	DisplayName: Mud Bomb
+	Tooltip: A small explosion that will spread mud
+}
+
+MudBombSticky: {
+	DisplayName: Sticky Mud Bomb
+	Tooltip: "{$Mods.SpiritReforged.Items.MudBomb.Tooltip}"
+}
+
+HideTunic: {
+	DisplayName: Hide Tunic
+	Tooltip: Increases melee size and knockback by 25%
+}
+
+PotteryWheelItem: {
+	DisplayName: Pottery Wheel
+	Tooltip:
+		'''
+		Used for crafting decorative pots
+		<right> when placed to view available recipes
+		'''
+}
+
+BiomePotsCavernItem: {
+	DisplayName: Cavern Pot
+	Tooltip: ""
+}
+
+OrnatePotsItem: {
+	DisplayName: Ornate Pot
+	Tooltip: ""
+}
+
+BiomePotsIceItem: {
+	DisplayName: Frozen Pot
+	Tooltip: ""
+}
+
+BiomePotsDesertItem: {
+	DisplayName: Desert Pot
+	Tooltip: ""
+}
+
+BiomePotsJungleItem: {
+	DisplayName: Jungle Pot
+	Tooltip: ""
+}
+
+BiomePotsDungeonItem: {
+	DisplayName: Dungeon Pot
+	Tooltip: ""
+}
+
+BiomePotsCorruptionItem: {
+	DisplayName: Corrupt Pot
+	Tooltip: ""
+}
+
+BiomePotsCrimsonItem: {
+	DisplayName: Crimson Pot
+	Tooltip: ""
+}
+
+BiomePotsMarbleItem: {
+	DisplayName: Marble Pot
+	Tooltip: ""
+}
+
+BiomePotsHellItem: {
+	DisplayName: Obsidian Pot
+	Tooltip: ""
+}
+
+BiomePotsMushroomItem: {
+	DisplayName: Mushroom Pot
+	Tooltip: ""
+}
+
+PotsCavernItem: {
+	DisplayName: Small Cavern Pot
+	Tooltip: ""
+}
+
+PotsIceItem: {
+	DisplayName: Small Frozen Pot
+	Tooltip: ""
+}
+
+PotsJungleItem: {
+	DisplayName: Small Jungle Pot
+	Tooltip: ""
+}
+
+PotsDungeonItem: {
+	DisplayName: Small Dungeon Pot
+	Tooltip: ""
+}
+
+PotsHellItem: {
+	DisplayName: Small Obsidian Pot
+	Tooltip: ""
+}
+
+PotsCorruptionItem: {
+	DisplayName: Small Corrupt Pot
+	Tooltip: ""
+}
+
+PotsSpiderItem: {
+	DisplayName: Small Spider Pot
+	Tooltip: ""
+}
+
+PotsCrimsonItem: {
+	DisplayName: Small Crimson Pot
+	Tooltip: ""
+}
+
+PotsPyramidItem: {
+	DisplayName: Small Pyramid Pot
+	Tooltip: ""
+}
+
+PotsTempleItem: {
+	DisplayName: Small Temple Pot
+	Tooltip: ""
+}
+
+PotsMarbleItem: {
+	DisplayName: Small Marble Pot
+	Tooltip: ""
+}
+
+PotsDesertItem: {
+	DisplayName: Small Desert Pot
+	Tooltip: ""
+}
+
+CommonPotsMushroomItem: {
+	DisplayName: Small Mushroom Pot
+	Tooltip: ""
+}
+
+SilverPlattersItem: {
+	DisplayName: Silver Platter
+	Tooltip: ""
+}
+
+StuffedPotsItem: {
+	DisplayName: Stuffed Pot
+	Tooltip: ""
+}
+
+WormPotItem: {
+	DisplayName: Worm Pot
+	Tooltip: ""
+}
+
+AetherShipmentItem: {
+	DisplayName: Aether Shipment
+	Tooltip: ""
+}
+
+PotionVatsAntiqueItem: {
+	DisplayName: Antique Potion Vat
+	Tooltip: ""
+}
+
+PotionVatsCloningItem: {
+	DisplayName: Cloning Potion Vat
+	Tooltip: ""
+}
+
+SilverFoodPlatterItem: {
+	DisplayName: Silver Food Platter
+	Tooltip: <right> to place item on platter
+}
+
+RadonMossItem: {
+	DisplayName: Radon Moss
+	Tooltip: "{$ItemTooltip.XenonMoss}"
+}
+
+OganessonMossItem: {
+	DisplayName: Oganesson Moss
+	Tooltip: "{$ItemTooltip.XenonMoss}"
+}
+
+RadonMossBrickItem: {
+	DisplayName: Radon Moss Brick
+	Tooltip: ""
+}
+
+RadonMossBrickWallItem: {
+	DisplayName: Radon Moss Brick Wall
+	Tooltip: ""
+}
+
+OganessonMossBrickItem: {
+	DisplayName: Oganesson Moss Brick
+	Tooltip: ""
+}
+
+OganessonMossBrickWallItem: {
+	DisplayName: Oganesson Moss Brick Wall
+	Tooltip: ""
+}
+
+ScryingPotItem: {
+	DisplayName: Scrying Pot
+	Tooltip: ""
+}
+
+BombCannon: {
+	DisplayName: Bomb Cannon
+	Tooltip:
+		'''
+		Uses bombs as ammo
+		Bombs fired from the cannon don't destroy tiles
+		'A groundbreaking invention'
+		'''
+}
+
+PotHead: {
+	DisplayName: Pot Head
+	Tooltip: ""
+}
+
+UpsideDownPotItem: {
+	DisplayName: Upside Down Pot
+	Tooltip: ""
+}
+
+PotionVatsAlchemyItem: {
+	DisplayName: Alchemical Potion Vat
+	Tooltip: ""
+}
+
+DunceCrabBannerItem.DisplayName: Dunce Crab Banner
+WheezerBannerItem.DisplayName: Wheezer Banner
+
+WheezerStatueItem: {
+	DisplayName: Wheezer Statue
+	Tooltip: ""
+}
+
+FlaskArgon: {
+	DisplayName: Argon Moss Flask
+	Tooltip: Spreads glowing moss on impact
+}
+
+FlaskHelium: {
+	DisplayName: Helium Moss Flask
+	Tooltip: "{$Mods.SpiritReforged.Items.FlaskArgon.Tooltip}"
+}
+
+FlaskKrypton: {
+	DisplayName: Krypton Moss Flask
+	Tooltip: "{$Mods.SpiritReforged.Items.FlaskArgon.Tooltip}"
+}
+
+FlaskNeon: {
+	DisplayName: Neon Moss Flask
+	Tooltip: "{$Mods.SpiritReforged.Items.FlaskArgon.Tooltip}"
+}
+
+FlaskOganesson: {
+	DisplayName: Oganesson Moss Flask
+	Tooltip: "{$Mods.SpiritReforged.Items.FlaskArgon.Tooltip}"
+}
+
+FlaskRadon: {
+	DisplayName: Radon Moss Flask
+	Tooltip: "{$Mods.SpiritReforged.Items.FlaskArgon.Tooltip}"
+}
+
+FlaskXenon: {
+	DisplayName: Xenon Moss Flask
+	Tooltip: "{$Mods.SpiritReforged.Items.FlaskArgon.Tooltip}"
+}
+
+BiomePotsGraniteItem: {
+	DisplayName: Granite Pot
+	Tooltip: ""
+}
+
+CommonPotsGraniteItem: {
+	DisplayName: Small Granite Pot
+	Tooltip: ""
+}
+
+OganessonBobber: {
+	DisplayName: Oganesson Bobber
+	Tooltip: "{$ItemTooltip.FishingBobberGlowingArgon}"
+}
+
+RadonBobber: {
+	DisplayName: Radon Bobber
+	Tooltip: "{$ItemTooltip.FishingBobberGlowingArgon}"
+}
+
+LandscapingShears: {
+	DisplayName: Landscaping Shears
+	Tooltip: Increases yield when harvesting foliage
+}
+
+WoodenClub: {
+	DisplayName: Wooden Club
+	Tooltip: Can be charged to increase damage and knockback
+}
+
+GoldClub: {
+	DisplayName: Golden Greathammer
+	Tooltip: Use again during a swing to follow up with a chargeable uppercut
+}
+
+PlatinumClub: {
+	DisplayName: Platinum Scepter
+	Tooltip:
+		'''
+		Does an upwards swing that knocks enemies into the air
+		Hold to follow up with a downwards slam
+		'''
+}
+
+FrostGiantBelt: {
+	DisplayName: Frost Giant Belt
+	Tooltip:
+		'''
+		50% knockback resistance while charging a club
+		Charging a club gradually increases defense
+		'''
+}
+
+Macuahuitl: {
+	DisplayName: Macuahuitl
+	Tooltip:
+		'''
+		Can be rapidly swung around the user, inflicting bleed
+		Charged strikes deal bonus damage to bleeding enemies
+		'''
+}
+
+BassSlapper: {
+	DisplayName: Bass Slapper
+	Tooltip: Fully charging does multiple slams in quick succession
+}
+
+Shockhammer: {
+	DisplayName: Shockhammer
+	Tooltip: Fully charging releases a shockwave that travels along tiles
+}
+
+Bowlder: {
+	DisplayName: Bowlder
+	Tooltip: Charged strikes release a deadly bowlder
+}
+
+Blasphemer: {
+	DisplayName: Blasphemer
+	Tooltip: Charged strikes erupt into a fiery geyser
+}
+
+Hummus: {
+	DisplayName: Hummus
+	Tooltip: Warm and tasty!
+}
+
+ZenithPotsItem: {
+	DisplayName: Zenith Pot
+	Tooltip: ""
+}
+
+ZenithPotsPaleItem: {
+	DisplayName: "{$Mods.SpiritReforged.Items.ZenithPotsItem.DisplayName}"
+	Tooltip: ""
+}

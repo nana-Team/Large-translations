@@ -1,3 +1,33 @@
+
+Records: {
+	CoinPortal:
+		'''
+		Always contains a coin portal.
+
+		A lucky find!
+		'''
+	Common:
+		'''
+		A common pot which sometimes contains useful goodies.
+
+		Value increases when further underground.
+		'''
+	Zenith:
+		'''
+		A common pot which sometimes contains useful goodies... this one is needlessly gaudy.
+
+		Value increases when further underground.
+		'''
+	Potion: Contains a potent brew.
+	UpsideDown: `Manufacturing error`
+	Worm: Scatters a variety of worms when destroyed.
+	Platter: A hot meal ready for the taking. Who would leave this behind?
+	Aether: Provides various useful, sparkly upgrades.
+	Stuffed: What a strange place to find a merchant. They're just asking to be bothered.
+	Scrying: Reveals a large portion of the map upon being destroyed.
+	Biome: Contains a greater variety of loot than common pots.
+}
+
 SunkenTreasureTile.MapEntry: Затонувшее сокровище
 HydrothermalVent.MapEntry: Гидротермальный источник
 CoralMapEntry: Коралл
@@ -13,3 +43,7 @@ HerosMemorialStatue.MapEntry: Памятник героя
 TermiteJar_Tile.MapEntry: Банка с термитами
 GarInAJarTile.MapEntry: Аквариум с панцирной щукой
 KillieFishbowlTile.MapEntry: Аквариум с рыбой килли
+OreCarts.MapEntry: Minecart
+PotionVats.MapEntry: Potion Vat
+ObsidianShroom.MapEntry: Obsidian Shroom
+Starflower.MapEntry: Starflower

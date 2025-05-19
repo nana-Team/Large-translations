@@ -1,5 +1,5 @@
 # The Russian localization clarifies that it is the chest that is cursed. Since this line is used in the description of other items in the SOTS, it is rewritten here
-LegacyTooltip.59: It has been cursed by a powerful Jungle creature
+LegacyTooltip.59: Проклят могущественным существом джунглей
 
 Mods: {
 	SOTS: {

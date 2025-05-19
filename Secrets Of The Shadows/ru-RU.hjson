@@ -1513,7 +1513,7 @@ Mods: {
 			}
 
 			EchoDisk: {
-				DisplayName: Эхо диск
+				DisplayName: Эхо-диск
 				Tooltip: Удараяет дополнительным диском, копирующим первый
 			}
 
@@ -5861,7 +5861,7 @@ Mods: {
 			}
 
 			AVMusicBox: {
-				DisplayName: Abandoned Village Surface Music Box
+				DisplayName: Музыкальная шкатулка (Заброшенная деревня)
 				Tooltip: ""
 			}
 
@@ -6028,7 +6028,7 @@ Mods: {
 			}
 
 			AVMinesMusicBox: {
-				DisplayName: Abandoned Village Underground Music Box
+				DisplayName: Музыкальная шкатулка (Подземная заброшенная деревня)
 				Tooltip: ""
 			}
 
@@ -6107,31 +6107,31 @@ Mods: {
 			}
 
 			AccretionDisc: {
-				DisplayName: Accretion Disc
+				DisplayName: Аккреционный диск
 				Tooltip:
 					'''
-					Deals more damage at the peak of its trajectory, creating a short-lived singularity that ignores defense
-					Scatters homing particles after the singularity collapses
+					Наносит наибольший урон на краю своей тракетории, создавая сингулярность на кототкое время, игнорирующую защиту
+					Коллапс сингулярности разбрасывает самонаводящиеся частицы во все стороны
 					'''
 			}
 
 			EarthenChestplate: {
-				DisplayName: Earthen Chestplate
-				Tooltip: Increases mining speed and movement speed by 10%
+				DisplayName: Земляной нагрудник
+				Tooltip: Увеличивает скорость передвижения и добычи на 10%
 			}
 
 			EarthenHelmet: {
-				DisplayName: Earthen Helmet
+				DisplayName: Земляной шлем
 				Tooltip:
 					'''
-					Improves vision and provides light when worn
-					Increases mining speed and movement speed by 10%
+					Улучшает зрение и излучает свет
+					Увеличивает скорость передвижения и добычи на 10%
 					'''
 			}
 
 			EarthenLeggings: {
-				DisplayName: Earthen Leggings
-				Tooltip: Increases mining speed and movement speed by 10%
+				DisplayName: Земляные поножи
+				Tooltip: Увеличивает скорость передвижения и добычи на 10%
 			}
 
 			InvidiaChest: {
@@ -7545,7 +7545,7 @@ Mods: {
 			HardlightFabricatorTile.MapEntry: Hardlight Fabricator
 			HardlightTableTile.MapEntry: Hardlight Table
 			PotGeneratorTile.MapEntry: Pot Generator
-			SkyPots.MapEntry: Pot
+			SkyPots.MapEntry: Горшок
 			SkyChainTile.MapEntry: Sky Chain
 			TransmutationAltarTile.MapEntry: Transmutation Altar
 			AvaritianGatewayTile.MapEntry: Strange Gateway
@@ -7572,35 +7572,35 @@ Mods: {
 			EnchantedPickShrineTile.MapEntry: Pickaxe Shrine
 			EnchantedSwordShrineTile.MapEntry: Sword Shrine
 			MineralariumTile.MapEntry: Mineralarium
-			HydraulicPressTile.MapEntry: Hydraulic Press
+			HydraulicPressTile.MapEntry: Гидравлический пресс
 
 			AncientGoldDoorClosed: {
-				MapEntry: Дверь из древнего золота
-				DisplayName: Дверь из древнего золота
+				MapEntry: Дверь
+				DisplayName: Дверь
 			}
 
 			AncientGoldDoorOpen: {
-				MapEntry: Дверь из древнего золота
-				DisplayName: Дверь из древнего золота
+				MapEntry: Дверь
+				DisplayName: Дверь
 			}
 
-			EarthenPlatingBlastDoorTileClosed.MapEntry: Earthen Plating Blast Door
-			EarthenPlatingBlastDoorTileOpen.MapEntry: Earthen Plating Blast Door
+			EarthenPlatingBlastDoorTileClosed.MapEntry: Дверь
+			EarthenPlatingBlastDoorTileOpen.MapEntry: Дверь
 
 			GoopwoodDoorClosed: {
-				MapEntry: Дверь из липкого дерева
-				DisplayName: Дверь из липкого дерева
+				MapEntry: Дверь
+				DisplayName: Дверь
 			}
 
 			GoopwoodDoorOpen: {
-				MapEntry: Дверь из липкого дерева
-				DisplayName: Дверь из липкого дерева
+				MapEntry: Дверь
+				DisplayName: Дверь
 			}
 
-			NaturePlatingBlastDoorTileClosed.MapEntry: Nature Plating Blast Door
-			NaturePlatingBlastDoorTileOpen.MapEntry: Nature Plating Blast Door
-			PermafrostPlatingBlastDoorTileClosed.MapEntry: Permafrost Plating Blast Door
-			PermafrostPlatingBlastDoorTileOpen.MapEntry: Permafrost Plating Blast Door
+			NaturePlatingBlastDoorTileClosed.MapEntry: Дверь
+			NaturePlatingBlastDoorTileOpen.MapEntry: Дверь
+			PermafrostPlatingBlastDoorTileClosed.MapEntry: Дверь
+			PermafrostPlatingBlastDoorTileOpen.MapEntry: Дверь
 
 			GemChestTile: {
 				MapEntry0: Самоцветный сундук
@@ -7619,70 +7619,70 @@ Mods: {
 				MapEntry13: Закрытый самоцветный сундук
 			}
 
-			OtherworldCrateTile.MapEntry: Otherworld Crate Tile
+			OtherworldCrateTile.MapEntry: Потусторонний ящик
 			PlanetariumCrateTile.MapEntry: Ящик Планетария
-			ChaosConduitTile.MapEntry: Chaos Conduit
-			OtherworldConduitTile.MapEntry: Otherworld Conduit
-			EvilConduitTile.MapEntry: Evil Conduit
-			InfernoConduitTile.MapEntry: Inferno Conduit
-			PermafrostConduitTile.MapEntry: Permafrost Conduit
-			TidalConduitTile.MapEntry: Tidal Conduit
+			ChaosConduitTile.MapEntry: Хаотичное покрытие
+			OtherworldConduitTile.MapEntry: Потустороннее покрытие
+			EvilConduitTile.MapEntry: Злое покрытие
+			InfernoConduitTile.MapEntry: Инфернальное покрытие
+			PermafrostConduitTile.MapEntry: Мёрзлое покрытие
+			TidalConduitTile.MapEntry: Приливное покрытие
 			GulaGatewayTile.MapEntry: Strange Gateway
-			AVPots.MapEntry: Pot
-			AVMusicBoxTile.MapEntry: Abandoned Village Surface Music Box
-			TidalPlatingBlastDoorTileClosed.MapEntry: Tidal Plating Blast Door
-			TidalPlatingBlastDoorTileOpen.MapEntry: Tidal Plating Blast Door
+			AVPots.MapEntry: Горшок
+			AVMusicBoxTile.MapEntry: Музыкальная шкатулка
+			TidalPlatingBlastDoorTileClosed.MapEntry: Дверь
+			TidalPlatingBlastDoorTileOpen.MapEntry: Дверь
 
 			TidalPlatingChestTile: {
 				MapEntry0: Tidal Plating Storage
 				MapEntry1: Locked Tidal Plating Storage
 			}
 
-			TidalPlatingTorchTile.MapEntry: Tidal Plating Torch
-			AVMinesMusicBoxTile.MapEntry: Abandoned Village Mines Music Box
+			TidalPlatingTorchTile.MapEntry: Факел
+			AVMinesMusicBoxTile.MapEntry: Abandoned Музыкальная шкатулка
 			PinkyTestTube.MapEntry: Failed Experiment
-			OtherworldPlatingBlastDoorTileClosed.MapEntry: Otherworld Plating Blast Door
-			OtherworldPlatingBlastDoorTileOpen.MapEntry: Otherworld Plating Blast Door
+			OtherworldPlatingBlastDoorTileClosed.MapEntry: Дверь
+			OtherworldPlatingBlastDoorTileOpen.MapEntry: Дверь
 
 			OtherworldPlatingChestTile: {
-				MapEntry0: Otherworld Plating Capsule
-				MapEntry1: Locked Otherworld Plating Capsule
+				MapEntry0: Капсула из потустороннего покрытия
+				MapEntry1: Закрытая капсула из потустороннего покрытия
 			}
 
-			OtherworldPlatingTorchTile.MapEntry: Otherworld Plating Torch
-			EvilPlatingBlastDoorTileClosed.MapEntry: Evil Plating Blast Door
-			EvilPlatingBlastDoorTileOpen.MapEntry: Evil Plating Blast Door
+			OtherworldPlatingTorchTile.MapEntry: Факел
+			EvilPlatingBlastDoorTileClosed.MapEntry: Дверь
+			EvilPlatingBlastDoorTileOpen.MapEntry: Дверь
 
 			EvilPlatingChestTile: {
-				MapEntry0: Evil Plating Capsule
-				MapEntry1: Locked Evil Plating Capsule
+				MapEntry0: Капсула из злого покрытия
+				MapEntry1: Закрытая капсула из злого покрытия
 			}
 
-			EvilPlatingTorchTile.MapEntry: Evil Plating Torch
-			InfernoPlatingBlastDoorTileClosed.MapEntry: Inferno Plating Blast Door
-			InfernoPlatingBlastDoorTileOpen.MapEntry: Inferno Plating Blast Door
+			EvilPlatingTorchTile.MapEntry: Факел
+			InfernoPlatingBlastDoorTileClosed.MapEntry: Дверь
+			InfernoPlatingBlastDoorTileOpen.MapEntry: Дверь
 
 			InfernoPlatingChestTile: {
-				MapEntry0: Inferno Plating Chest
-				MapEntry1: Locked Inferno Plating Chest
+				MapEntry0: Сундук из инфенрального покрытия
+				MapEntry1: Закрытый сундук из инфернального покрытия
 			}
 
-			InfernoPlatingTorchTile.MapEntry: Inferno Plating Torch
-			ChaosPlatingTorchTile.MapEntry: Chaos Plating Torch
+			InfernoPlatingTorchTile.MapEntry: Факел
+			ChaosPlatingTorchTile.MapEntry: Факел
 
 			ChaosPlatingChestTile: {
-				MapEntry1: Chaos Plating Chest
-				MapEntry0: Locked Chaos Plating Chest
+				MapEntry1: Сундук из хаотичного покрытия
+				MapEntry0: Закрытый сундук из хаотичного покрытия
 			}
 
-			ChaosPlatingBlastDoorTileOpen.MapEntry: Chaos Plating Blast Door
-			ChaosPlatingBlastDoorTileClosed.MapEntry: Chaos Plating Blast Door
-			MothMusicBoxTile.MapEntry: Moth Music Box Tile
+			ChaosPlatingBlastDoorTileOpen.MapEntry: Дверь
+			ChaosPlatingBlastDoorTileClosed.MapEntry: Дверь
+			MothMusicBoxTile.MapEntry: Музыкальная шкатулка
 			RuinedStatueTile.MapEntry: Ruined Statue Tile
 			SerpentStatueTile.MapEntry: Serpent Statue Tile
 			InvidiaGatewayTile.MapEntry: Strange Gateway
-			SanctuaryMusicBoxTile.MapEntry: Sanctuary Music Box Tile
-			EvostonePots.MapEntry: Pots
+			SanctuaryMusicBoxTile.MapEntry: Музыкальная шкатулка
+			EvostonePots.MapEntry: Горшки
 			SeismicStationTile.MapEntry: Seismic Station
 		}
 

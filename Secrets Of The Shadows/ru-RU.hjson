@@ -7936,7 +7936,7 @@ Mods: {
 			PhaseEye: Бездумная энергетическая сфера, защищающая Планетарий, созданная исключительно для использования Аналитиком в качестве марионетки.
 			TwilightDevil: Бездумный дрон, защищающий Планетарий. Кажется, что он управляется удалённо, поскольку за его маской ничего не скрывается.
 			PhaseSpeeder: Он быстр. Он опасен. Его происхождение неизвестно, но он определённо желает вашей смерти. Использует ткань бытия в качестве щита.
-			TwilightScouter: Бездумный дрон, защищающий Планетарий. Его внутреннее строеныые не выделяется особой сложностью.
+			TwilightScouter: Бездумный дрон, защищающий Планетарий. Его внутреннее строение не выделяется особой сложностью.
 			PhaseAssaulterHead: Phase Assaulters make up the defensive core of Phase Ore nodes. They can be observed acting as shields for Phase Speeders, while also possessing a potent hyperlight laser.
 			LostSoul: A trapped soul that resides in the Pyramid. It has not come to rest, as it still seems to be searching for something.
 			Snake: A long limbless reptile that has no eyelids, a short tail, and jaws that are capable of considerable extension. This particular one has a venomous bite, and it calls the Pyramid home.
@@ -8129,11 +8129,11 @@ Mods: {
 		}
 
 		DeathMessage: {
-			VD1: " was extremely careless."
-			VD2: " was consumed by the void."
-			VD3: " was devoured by the darkness."
-			VD4: " doesn't understand void mechanics."
-			VD5: " died."
+			VD1: " был не очень осторожен."
+			VD2: " был поглощён пустотой."
+			VD3: " канул в тьму."
+			VD4: " не понял механику пустоты."
+			VD5: " умер."
 		}
 
 		BossChecklist: {

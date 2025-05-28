@@ -1903,7 +1903,7 @@ OldWoodStaff: {
 }
 
 OldWoodSword: {
-	DisplayName: Меч из старого редева
+	DisplayName: Меч из старого дерева
 	Tooltip: ""
 }
 
@@ -3280,7 +3280,7 @@ OldWoodChestItem: {
 }
 
 OldWoodDoorItem: {
-	DisplayName: Дверь из старого деерева
+	DisplayName: Дверь из старого дерева
 	Tooltip: ""
 }
 

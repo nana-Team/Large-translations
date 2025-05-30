@@ -318,7 +318,7 @@ Mods: {
 
 			CharredWood: {
 				DisplayName: Обугленная древесина
-				Tooltip: «Слишком обгоревшая, чтобы ею можно было использовать»
+				Tooltip: «Слишком обгоревшая, чтобы её можно было использовать»
 			}
 
 			CharredWoodWall: {
@@ -5667,7 +5667,7 @@ Mods: {
 			}
 
 			AVPot: {
-				DisplayName: AV Pot
+				DisplayName: Горшрз заброшенной деревни
 				Tooltip: ""
 			}
 
@@ -5677,7 +5677,7 @@ Mods: {
 			}
 
 			AVAmbient: {
-				DisplayName: AV Ambient
+				DisplayName: Фоновый объект заброшенной деревни
 				Tooltip: ""
 			}
 
@@ -5712,20 +5712,20 @@ Mods: {
 			}
 
 			CorruptionSoot: {
-				DisplayName: Ebonslate Block
+				DisplayName: Эбонитовый сланец
 				Tooltip:
 					'''
-					A primordial mass of corrupt stone
-					Although it cannot be purified, it will also not spread the Corruption
+					Первобытная масса искажённого камня
+					Не может быть очищен, но также и не распространяет искажение
 					'''
 			}
 
 			CrimsonSoot: {
-				DisplayName: Crimslate Block
+				DisplayName: Багряный сланец
 				Tooltip:
 					'''
-					A primordial mass of crimson stone
-					Although it cannot be purified, it will also not spread the Crimson
+					Первобытная масса багряного камня
+					Не может быть очищен, но также и не распространяет багрянец
 					'''
 			}
 
@@ -5750,8 +5750,8 @@ Mods: {
 			}
 
 			AcidicInjection: {
-				DisplayName: Overkill Injection
-				Tooltip: The first application of any stackable debuff is doubled
+				DisplayName: Инъекция чрезмерности
+				Tooltip: Удваивает первое наложеение любого склаывающегося дебаффа
 			}
 
 			EarthenGizmoBanner: {
@@ -5784,20 +5784,20 @@ Mods: {
 			}
 
 			CorruptionSootWall: {
-				DisplayName: Ebonslate Wall
+				DisplayName: Стена эбонитового сланца
 				Tooltip:
 					'''
-					A primordial mass of corrupt stone
-					Although it cannot be purified, it will also not spread the Corruption
+					Первобытная масса искажённого камня
+					Не может быть очищена, но также и не распространяет искажение
 					'''
 			}
 
 			CrimsonSootWall: {
-				DisplayName: Crimslate Wall
+				DisplayName: Стена багряного сланца
 				Tooltip:
 					'''
-					A primordial mass of crimson stone
-					Although it cannot be purified, it will also not spread the Crimson
+					Первобытная масса багрянец камня
+					Не может быть очищена, но также и не распространяет багрянец
 					'''
 			}
 
@@ -5880,11 +5880,11 @@ Mods: {
 			}
 
 			AncientSteelLantern: {
-				DisplayName: Ancient Steel Lantern
+				DisplayName: Фонарь из древней стали
 				Tooltip:
 					'''
-					Summons a Steel Lantern on your cursor that releases flames at all nearby enemies
-					Range scales with summon damage
+					Призывает стальной фонарь в месте вашего курсора, который стреляет огнями в ближайших врагов
+					Радиус действия масштабируется от урона призывателя
 					'''
 			}
 
@@ -6847,8 +6847,8 @@ Mods: {
 			}
 
 			CapturedHeart: {
-				DisplayName: Captured Heart
-				Tooltip: Summons a possessed minecart mount
+				DisplayName: Захваченное сердце
+				Tooltip: Призывает ездовую одержимую вагонетку
 			}
 
 			CoalCartBanner: {

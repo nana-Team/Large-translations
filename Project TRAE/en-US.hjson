@@ -1,6 +1,6 @@
 Mods: {
 	TRAEProject: {
-                ChangedTooltip: {
+		ChangedTooltips: {
 			TitanGlove:
 				'''
 				20% increased melee weapon size and velocity
@@ -19,7 +19,46 @@ Mods: {
 				Enables auto swing for melee weapons
 				Enemies are more likely to target you
 				'''
+			VolatileGelatin:
+				'''
+				Critical strikes temporarily raise defense
+				When hit, all stored defense is released as damaging gel
+				Limited to 25 extra defense
+				'''
+			BoneHelm: Increases your maximum number of sentries by 1
+			SquireShield: 7% increased melee damage
+			SquireShieldPostOgre: 11% increased melee damage with a full set of Squire Armor
+			SquireShieldPostBetsy: 15% increased melee damage with a full set of Valhalla Knight Armor
+			ApprenticeScarf: 7% increased magic damage
+			ApprenticeScarfPostOgre: 11% increased magic damage with a full set of Apprentice Armor
+			ApprenticeScarfPostBetsy: 15% increased magic damage with a full set of Dark Artist Armor
+			HuntressBuckler: 7% increased ranged damage
+			HuntressBucklerPostOgre: 11% increased ranged damage with a full set of Huntress Armor
+			HuntressBucklerPostBetsy: 15% increased ranged damage with a full set of Red Riding Hood Armor
+			MonkBelt: 7% increased summon damage
+			MonkBeltPostOgre: 11% increased summon damage with a full set of Monk Armor
+			MonkBeltPostBetsy: n15% increased summon damage with a full set of Shinobi Infiltrator Armor
+			Bezoar: Significantly increases potency of friendly Poison and Venom
+			AdhesiveBandage: Increases potency of friendly debuffs by 50%
+			MedicatedBandage:
+				'''
+				Significantly increases potency of friendly Poison and Venom
+				Increases potency of friendly debuffs by 50%
+				'''
+			FastClock: Time goes by faster when equipped
+			Nazar:
+				'''
+				Unleashes curses to the wielder and nearby enemies when damaged
+				Curses either deal damage over time, reduce contact damage by 20% or defense by 25
+				'''
+			CountercurseMantra: 
+				'''
+				Provides immunity to a large number of debuffs
+				Unleashes curses to nearby enemies when damaged
+				'''
+			AnkhShield: Grants immunity to knockback and most debuffs
 		}
+
 		Projectiles: {
 			BouncingFlames.DisplayName: Bouncing Flames
 			BloodBeam.DisplayName: Blood Beam

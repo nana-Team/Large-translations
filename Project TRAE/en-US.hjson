@@ -1,5 +1,25 @@
 Mods: {
 	TRAEProject: {
+                ChangedTooltip: {
+			TitanGlove:
+				'''
+				20% increased melee weapon size and velocity
+				Allows autoswing for all melee weapons
+				'''
+			PowerGlove:
+				'''
+				12% increased melee speed
+				20% increased melee weapon size and velocity
+				Enables autoswing for melee weapons
+				'''
+			BerserkerGlove:
+				'''
+				12% increased melee speed
+				20% increased melee weapon size and velocity
+				Enables auto swing for melee weapons
+				Enemies are more likely to target you
+				'''
+		}
 		Projectiles: {
 			BouncingFlames.DisplayName: Bouncing Flames
 			BloodBeam.DisplayName: Blood Beam

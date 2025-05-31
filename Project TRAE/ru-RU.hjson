@@ -498,12 +498,12 @@ Mods: {
 			}
 
 			BalanceCuffs: {
-				DisplayName: Balance Cuffs
+				DisplayName: Наручники баланса
 				Tooltip:
 					'''
-					Increases damage by 20% when damaged
-					Increases maximum mana by 20
-					Restores mana and heal for 10% of damage taken when damaged
+					Увеличивает урон на 20% после получения урона
+					Увеличивает максимальный запас маны на 20 ед.
+					Востанавливает ману и исцеляет на 10% от полученного урона
 					'''
 			}
 
@@ -599,18 +599,18 @@ Mods: {
 			}
 
 			FaeInABalloon: {
-				DisplayName: Fae Balloon
+				DisplayName: Надувной шарик-феечка
 				Tooltip:
 					'''
-					A weak double jump that grant immunity frames
-					Increases jump height
-					Allows reducing gravity by holding UP
+					Позволяет совершать слабый второй прыжок, дающий кадры неуязвимости
+					Увеличивает высоту прыжка
+					Позволяет снижать гравитацию при зажатии клавиши ВНИЗ
 					'''
 			}
 
 			FaeInABottle: {
-				DisplayName: Fae in a bottle
-				Tooltip: A weak double jump that grant immunity frames
+				DisplayName: Феечка в банке
+				Tooltip: Позволяет совершать слабый второй прыжок, дающий кадры неуязвимости
 			}
 
 			FantasyPack: {
@@ -667,8 +667,8 @@ Mods: {
 			}
 
 			LifeCuffs: {
-				DisplayName: Life Cuffs
-				Tooltip: Increases damage by 20% when damaged
+				DisplayName: Жизненные наручники
+				Tooltip: Увеличивает урон на 20% после получения урона
 			}
 
 			MagicalCarpet: {
@@ -1552,12 +1552,12 @@ Mods: {
 			}
 
 			AlligatorBalloonItem: {
-				DisplayName: Croco Balloon
+				DisplayName: Надувной шарик-крокодил
 				Tooltip:
 					'''
-					Allows the holder to double jump
-					Greatly increases jump speed and fall resistance
-					Allows auto-jump
+					Позволяет совершать двойной прыжок
+					Значительно увеличивает высоту прыжка и сопротивление урону от падения
+					Позволяет совершать автопрыжок
 					'''
 			}
 

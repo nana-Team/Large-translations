@@ -732,8 +732,8 @@ Mods: {
 			}
 
 			PalladiumShield: {
-				DisplayName: Palladium Shield
-				Tooltip: Increases max life by 50
+				DisplayName: Палладиевый щит
+				Tooltip: Увеличивает максимальный запас здоровья на 50 ед.
 			}
 
 			PutridToothNecklace: {
@@ -903,133 +903,133 @@ Mods: {
 			}
 
 			LeatherHat: {
-				DisplayName: Leather Hood
+				DisplayName: Кожаный капюшон
 				Tooltip: 3% increased summon damage
 			}
 
 			LeatherPants: {
-				DisplayName: Leather Pants
+				DisplayName: Кожаные штаны
 				Tooltip: 3% increased summon damage
 			}
 
 			LeatherTunic: {
-				DisplayName: Leather Tunic
-				Tooltip: 10% increased whip speed
+				DisplayName: Кожаный хитон
+				Tooltip: Увеличивает скорость хлыста на 10%
 			}
 
 			PhoenixHeadgear: {
-				DisplayName: Phoenix Headgear
+				DisplayName: Фениксов головной убор
 				Tooltip:
 					'''
-					11% increased ranged and summon damage
-					7% increased ranged critical strike chance
-					10% increased jump speed
+					Увеличивает стрелковый урон и урон призывателя на 11%
+					Увеличивает шанс стрелкового критического удара на 7%
+					Увеличивает скорость прыжка на 10%
 					'''
 			}
 
 			PhoenixLeggings: {
-				DisplayName: Phoenix Leggings
+				DisplayName: Фениксовы поножи
 				Tooltip:
 					'''
-					11% increased ranged and summon damage
-					11% increased movement speed
+					Увеличивает стрелковый урон и урон призывателя на 11%
+					Увеличивает скорость передвижения 11%
 					'''
 			}
 
 			PhoenixTunic: {
-				DisplayName: Phoenix Tunic
+				DisplayName: Фениксова туника
 				Tooltip:
 					'''
-					11% increased ranged and summon damage
-					Increased your maximum number of minions by 1
+					Увеличивает стрелковый урон и урон призывателя на 11%
+					Увеличивает максимальное количество миньонов на 1
 					'''
 			}
 
 			ReptilianBulwark: {
-				DisplayName: Reptilian Bulwark
+				DisplayName: Рептильный оплот
 				Tooltip:
 					'''
-					11% increased melee and summon damage
-					Increased your maximum number of minions by 1
+					Увеличивает урон ближнего боя и призывателя на 11%
+					Увеличивает максимальное количество миньонов на 1
 					'''
 			}
 
 			ReptilianGreaves: {
-				DisplayName: Reptilian Treads
+				DisplayName: Рептильные путеходы
 				Tooltip:
 					'''
-					11% increased melee and summon damage
-					11% increased movement speed
+					Увеличивает урон ближнего боя и призывателя на 11%
+					Увеличивает скорость передвижения на 11%
 					'''
 			}
 
 			ReptilianMask: {
-				DisplayName: Reptilian Mask
+				DisplayName: Рептильная маска
 				Tooltip:
 					'''
-					11% increased melee and summon damage
-					7% increased melee critical strike chance
-					15% increased whip range
+					Увеличивает урон ближнего боя и призывателя на 11%
+					Увеличивает шанс критического удара ближнего боя на 7%
+					Увеличивает дальность хлыста на 15%
 					'''
 			}
 
 			AshRoninHat: {
-				DisplayName: Ash Ronin Mask
+				DisplayName: Маска пепельного ронина
 				Tooltip:
 					'''
-					11% increased magic and summon damage
-					7% increased magic critical strike chance
+					Увеличивает магический урон и урон призывателя на 11%
+					Увеличивает шанс магического критического удара на 7%
 					Increases maximum mana by 80
 					'''
 			}
 
 			AshRoninPants: {
-				DisplayName: Ash Ronin Pants
+				DisplayName: Штаны пепельного ронина
 				Tooltip:
 					'''
-					11% increased magic and summon damage
-					11% increased movement speed
+					Увеличивает магический урон и урон призывателя на 11%
+					Увеличивает скорость передвижения на 11%
 					'''
 			}
 
 			AshRoninRobes: {
-				DisplayName: Ash Ronin Robes
+				DisplayName: Облачение пепельного ронина
 				Tooltip:
 					'''
-					11% increased magic and summon damage
-					Increased your maximum number of minions by 1
+					Увеличивает магический урон и урон призывателя на 11%
+					Увеличивает максимальное количество миньонов на 1
 					'''
 			}
 
 			UnderworldWarriorChestplate: {
-				DisplayName: Underworld Warrior Chestplate
+				DisplayName: Нагрудник воина преисподней
 				Tooltip:
 					'''
-					15% increased damage
-					25% increased ranged velocity
+					Увеличивает урон на 15%
+					Увеличивает стрелковую скорость на 25%
 					'''
 			}
 
 			UnderworldWarriorGreaves: {
-				DisplayName: Underworld Warrior Greaves
+				DisplayName: Поножи воина преисподней
 				Tooltip:
 					'''
-					15% increased critical strike chance
-					25% increased melee speed
+					Увеличивает шанс критического удара на 15%
+					Увеличивает скорость ближнего боя на 25%
 					'''
 			}
 
 			UnderworldWarriorHelmet: {
-				DisplayName: Underworld Warrior Helmet
+				DisplayName: Шлем воина преисподней
 				Tooltip:
 					'''
-					15% increased damage
-					25% reduced mana costs
+					Увеличивает урон на 15%
+					Снижает расход маны на 25%
 					'''
 			}
 
 			BeholderBag: {
-				DisplayName: Treasure Bag
+				DisplayName: Мешок с сокровищами (Beholder)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -1397,18 +1397,18 @@ Mods: {
 			}
 
 			SkullCannon: {
-				DisplayName: Skull Cannon
-				Tooltip: Shoots Rockets
+				DisplayName: Черепная пушка
+				Tooltip: Стреляет ракетами
 			}
 
 			AdamantiteLauncher: {
-				DisplayName: Adamantite Launcher
-				Tooltip: Shoots Rockets
+				DisplayName: Адамантитовая ракетница
+				Tooltip: Стреляет ракетами
 			}
 
 			TitaniumBazooka: {
-				DisplayName: Titanium Bazooka
-				Tooltip: Shoots two to three Rockets in one shot
+				DisplayName: Титановая базука
+				Tooltip: Выстреливает двумя-тремя ракетами за выстрел
 			}
 
 			NebulaMaelstrom: {

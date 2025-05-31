@@ -6072,7 +6072,7 @@ Mods: {
 			}
 
 			PinkyTestTubeItem: {
-				DisplayName: Failed Experiment
+				DisplayName: Неудачный эксперемент
 				Tooltip: ""
 			}
 
@@ -6708,12 +6708,12 @@ Mods: {
 			}
 
 			StreetCleaner: {
-				DisplayName: Street Cleaner
-				Tooltip: Ignores enemy defense
+				DisplayName: Дворник
+				Tooltip: Игнорирует защиту врага
 			}
 
 			SanctuaryMusicBox: {
-				DisplayName: Sanctuary Music Box
+				DisplayName: Музыкальная шкатулка (Планетарий)
 				Tooltip: ""
 			}
 
@@ -7640,7 +7640,7 @@ Mods: {
 
 			TidalPlatingTorchTile.MapEntry: Факел
 			AVMinesMusicBoxTile.MapEntry: Abandoned Музыкальная шкатулка
-			PinkyTestTube.MapEntry: Failed Experiment
+			PinkyTestTube.MapEntry: Неудачный эксперемент
 			OtherworldPlatingBlastDoorTileClosed.MapEntry: Дверь
 			OtherworldPlatingBlastDoorTileOpen.MapEntry: Дверь
 

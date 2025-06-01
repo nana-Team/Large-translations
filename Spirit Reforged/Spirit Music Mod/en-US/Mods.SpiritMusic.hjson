@@ -76,6 +76,11 @@ Configs: {
 			Label: Underground Town
 			Tooltip: Toggles the Underground Town's ("Subsurface Settlement") music.
 		}
+
+		VictoryDay: {
+			Label: Victory Day
+			Tooltip: Toggles the Victory Day ("Overworld Alt Alt") music.
+		}
 	}
 }
 
@@ -152,6 +157,11 @@ Items: {
 
 	UndergroundTownBoxItem: {
 		DisplayName: Music Box (Underground Town)
+		Tooltip: ""
+	}
+
+	VictoryDayBoxItem: {
+		DisplayName: Music Box (Victory Day)
 		Tooltip: ""
 	}
 }

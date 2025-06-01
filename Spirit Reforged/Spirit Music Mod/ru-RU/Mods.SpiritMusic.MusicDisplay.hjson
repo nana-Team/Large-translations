@@ -3,6 +3,7 @@ Salvati: Salvati
 Sbubby: Sbubby
 By: от
 BySalvati: "{$By} {$Salvati}"
+BySbubby: "{$By} {$Sbubby}"
 
 Blizzard: {
 	DisplayName: Shivering Storms (тема метели)
@@ -11,12 +12,12 @@ Blizzard: {
 
 CorruptNight: {
 	DisplayName: Nightmare Fuel (тема ночного искажения)
-	Author: "{$BySalvati}"
+	Author: "{$BySalvati} и {$Sbubby}"
 }
 
 CrimsonNight: {
 	DisplayName: Razor's Edge (тема ночного багрянца)
-	Author: "{$BySalvati}, {$Sbubby}"
+	Author: "{$BySalvati} и {$Sbubby}"
 }
 
 DesertNight: {
@@ -45,7 +46,7 @@ MarbleBiome: {
 }
 
 Meteor: {
-	DisplayName: Space Rocks! (тема метеорита)
+	DisplayName: Space Rocks! (тема места падения метеорита)
 	Author: "{$BySalvati}"
 }
 
@@ -61,5 +62,20 @@ SpiderCave: {
 
 SkeletronPrime: {
 	DisplayName: Thermite Assault (тема Скелетрона Прайма)
-	Author: "{$BySalvati}, {$Sbubby}"
+	Author: "{$BySalvati} и {$Sbubby}"
+}
+
+LavaLayer: {
+	DisplayName: Magmatic Depths (тема пещер на уровне лавы)
+	Author: "{$BySbubby}"
+}
+
+NeonMoss: {
+	DisplayName: Radiant Grotto (тема пещеры светящегося мха)
+	Author: "{$BySbubby}"
+}
+
+TownUnderground: {
+	DisplayName: Subsurface Settlement (тема города в пещерах)
+	Author: "{$BySbubby}"
 }

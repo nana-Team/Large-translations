@@ -59,7 +59,22 @@ Configs: {
 
 		SkeletronPrime: {
 			Label: Skeletron Prime
-			Tooltip: ""
+			Tooltip: Toggles Skeletron Prime's ("Thermite Assault") music.
+		}
+
+		LavaLayer: {
+			Label: Lava Layer
+			Tooltip: Toggles the Lava Layer's ("Magmatic Depths") music.
+		}
+
+		NeonMoss: {
+			Label: Neon Moss
+			Tooltip: Toggles the Neon Moss biome's ("Radiant Grotto") music.
+		}
+
+		TownUnderground: {
+			Label: Underground Town
+			Tooltip: Toggles the Underground Town's ("Subsurface Settlement") music.
 		}
 	}
 }
@@ -122,6 +137,21 @@ Items: {
 
 	SpiderCaveBoxItem: {
 		DisplayName: Music Box (Spider Cave)
+		Tooltip: ""
+	}
+
+	LavaLayerBoxItem: {
+		DisplayName: Music Box (Lava Layer)
+		Tooltip: ""
+	}
+
+	NeonMossBoxItem: {
+		DisplayName: Music Box (Neon Moss)
+		Tooltip: ""
+	}
+
+	UndergroundTownBoxItem: {
+		DisplayName: Music Box (Underground Town)
 		Tooltip: ""
 	}
 }

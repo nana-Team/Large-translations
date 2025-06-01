@@ -4,19 +4,16 @@ Mods: {
 			TitanGlove:
 				'''
 				20% increased melee weapon size and velocity
-				Allows autoswing for all melee weapons
+				Enables autoswing for melee weapons
 				'''
 			PowerGlove:
 				'''
 				12% increased melee speed
-				20% increased melee weapon size and velocity
-				Enables autoswing for melee weapons
+				{Mods.TRAEProject.ChangedTooltips.TitanGlove}
 				'''
 			BerserkerGlove:
 				'''
-				12% increased melee speed
-				20% increased melee weapon size and velocity
-				Enables auto swing for melee weapons
+				{Mods.TRAEProject.ChangedTooltips.PowerGlove}
 				Enemies are more likely to target you
 				'''
 			VolatileGelatin:
@@ -51,12 +48,118 @@ Mods: {
 				Unleashes curses to the wielder and nearby enemies when damaged
 				Curses either deal damage over time, reduce contact damage by 20% or defense by 25
 				'''
-			CountercurseMantra: 
+			CountercurseMantra:
 				'''
 				Provides immunity to a large number of debuffs
 				Unleashes curses to nearby enemies when damaged
 				'''
 			AnkhShield: Grants immunity to knockback and most debuffs
+			MechanicalGlove:
+				'''
+				12% increased melee damage and speed
+				Enables autoswing for melee weapons
+				'''
+			FireGauntlet:
+				'''
+				{Mods.TRAEProject.ChangedTooltips.MechanicalGlove}
+				Melee attacks deal fire damage
+				Melee critical strikes have have a very low chance to incinerate, based on damage dealt
+				'''
+			PutridScent: 4% increased damage and critical strike chance
+			DestroyerEmblem: 22% increased critical strike chance
+			HeroShield:
+				'''
+				Grants immunity to knockback
+				Enemies are more likely to target you
+				'''
+			MoltenCharm:
+				'''
+				Minion damage is stored as Fire energy, up to 3000
+				Whip strikes summon a friendly Molten Apparition for every 750 damage stored
+				'''
+			RoyalGel: Reduces damage of one hit by 25 every 30 seconds
+			MoonCharm: Turns the holder into a werewolf when below 67% health
+			MoonShell:
+				'''
+				Turns the holder into a werewolf when below 67% life and into a merfolk when entering water
+				Puts a shell around the owner when below 50% life
+				'''
+			CelestialStone:
+				'''
+				8% increased damage
+				2% increased critical strike chance
+				5% increased melee speed
+				10% increased mining speed and reduced ammo usage
+				Increases defense by 4
+				Increases mana by 20
+				Increases life regen by 0.5 per second
+				'''
+			SunStone:
+				'''
+				Increases all stats as life increases
+				Maxes out above 75% life:
+				{Mods.TRAEProject.ChangedTooltips.CelestialStone}
+				'''
+			MoonStone:
+				'''
+				Increases all stats as life goes down
+				Maxes out below 50% life:
+				{Mods.TRAEProject.ChangedTooltips.CelestialStone}
+				'''
+			CelestialShell:
+				'''
+				Turns into holder into a merfolk when entering water
+				{Mods.TRAEProject.ChangedTooltips.CelestialStone}
+				'''
+			NecromanticScroll: 13% increased critical strike chance for minions
+			HerculesBeetle: Increases your maximum number of sentries by 1
+			PapyrusScarab:
+				'''
+				Increases your max number of minions and sentries by 1
+				5% increased critical strike chance for minions
+				'''
+			ShinyStone: Increases life regeneration by 2hp/s when on the ground
+			MagicCuffs: 
+				'''
+				Restores mana when damaged
+				Can go over maximum mana
+				'''
+			CelestialCuffs:
+				'''
+				Increases maximum mana by 60
+				Restores mana when damaged
+				Increases pickup range for mana stars
+				Mana stars and mana restored by the item can go over maximum mana
+				'''
+			Shackle: Temporarily increases defense when damaged
+			CrossNecklace: More effective on strong hits
+			MoltenQuiver:
+				'''
+				Your arrows will bounce towards nearby enemies, losing 33% damage in the process
+				Arrows inflict fire damage, with a very low chance to incinerate on a critical strike
+				Lights wooden arrows ablaze
+				Quiver in fear!				
+				'''
+			MagmaStone: Melee critical strikes have have a very low chance to incinerate, based on damage dealt
+			MoltenSkullRose:
+				'''
+				Attacks inflict fire damage
+				9% increased critical strike damage
+				Critical strikes lower defense by 3, up to 9			
+				'''
+			ObsidianSkullRose: 
+				'''
+				10% increased Magic and Ranged critical strike damage
+				Magic and Ranged critical strikes lower defense by 3, up to 9		
+				'''
+			LavaSkull:  
+				'''
+				Melee and Ranged attacks inflict fire damage
+				Melee and Ranged critical strikes lower defense by 3, up to 9	
+				'''
+			ObsidianSkull: Ranged critical strikes lower defense by 3, up to 9
+			ObsidianRose: 10% increased Magic critical strike damage 
+			ObsidianShield: Hitting nearby enemies lowers their defense by 3, up to 9
 		}
 
 		Projectiles: {

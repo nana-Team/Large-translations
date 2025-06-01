@@ -79,3 +79,8 @@ TownUnderground: {
 	DisplayName: Subsurface Settlement (тема города в пещерах)
 	Author: "{$BySbubby}"
 }
+
+VictoryDay: {
+	DisplayName: Overworld Alt Alt (тема «Победного дня»)
+	Author: "{$BySalvati}"
+}

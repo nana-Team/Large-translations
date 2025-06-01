@@ -75,7 +75,12 @@ Configs: {
 		TownUnderground: {
 			Label: Город в пещерах
 			Tooltip: Включает музыкальную тему города в пещерах: «Subsurface Settlement»
-	}
+		}
+
+		VictoryDay: {
+			Label: «Победоносный день»
+			Tooltip: Включает музыкальную тему «Победоносный день»: «Overworld Alt Alt»
+		}
 }
 
 Items: {
@@ -151,6 +156,11 @@ Items: {
 
 	UndergroundTownBoxItem: {
 		DisplayName: Музыкальная шкатулка (Город в пещерах)
+		Tooltip: ""
+	}
+
+	VictoryDayBoxItem: {
+		DisplayName:  Музыкальная шкатулка («Победоносный день»)
 		Tooltip: ""
 	}
 }

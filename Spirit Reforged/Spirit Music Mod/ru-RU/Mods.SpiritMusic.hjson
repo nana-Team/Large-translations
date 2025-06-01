@@ -4,63 +4,77 @@ Configs: {
 
 		Blizzard: {
 			Label: Метель
-			Tooltip: Включает музыку метели: «Shivering Storms»
+			Tooltip: Включает музыкальную тему метели: «Shivering Storms»
 		}
 
 		CorruptNight: {
 			Label: Ночное искажение
-			Tooltip: Включает музыку ночного искажения: «Nightmare Fuel»
+			Tooltip: Включает музыкальную тему ночного искажения: «Nightmare Fuel»
 		}
 
 		CrimsonNight: {
 			Label: Ночной багрянец
-			Tooltip: Включает музыку ночного багрянца: «Shivering Storms»
+			Tooltip: Включает музыкальную тему ночного багрянца: «Shivering Storms»
 		}
 
 		SnowNight: {
 			Label: Ночные снега
-			Tooltip: Включает музыку ночных снегов: «Icy Storms»
+			Tooltip: Включает музыкальную тему ночных снегов: «Icy Storms»
 		}
 
 		HallowNight: {
 			Label: Ночное освящение
-			Tooltip: Включает музыку ночного освязщения: «Wonderous Landscape»
+			Tooltip: Включает музыкальную тему ночного освящения: «Wonderous Landscape»
 		}
 
 		DesertNight: {
 			Label: Ночная пустыня
-			Tooltip: Включает музыку ночной пустыни: «Kempt Dunes»
+			Tooltip: Включает музыкальную тему ночной пустыни: «Kempt Dunes»
 		}
 
 		FrostLegion: {
-			Label: МОрозный легион
-			Tooltip: Включает музыку Морозного легиона: «Tougher Chill»
+			Label: Морозный легион
+			Tooltip: Включает музыкальную тему Морозного легиона: «Tougher Chill»
 		}
 
 		Granite: {
 			Label: Гранитная пещера
-			Tooltip: Включает музыку гранитной пещеры: «Resounding Stones»
+			Tooltip: Включает музыкальную тему гранитной пещеры: «Resounding Stones»
 		}
 
 		Marble: {
 			Label: Мраморная пещера
-			Tooltip: Включает музыку мраморного биома: «Regal Tunnel»
+			Tooltip: Включает музыкальную тему мраморного биома: «Regal Tunnel»
 		}
 
 		Meteor: {
 			Label: Место падения метеорита
-			Tooltip: Включает музыку места педания метеорита: «Space Rocks!»
+			Tooltip: Включает музыкальную тему места падения метеорита: «Space Rocks!»
 		}
 
 		Spider: {
 			Label: Паучье гнездо
-			Tooltip: Включает музыку паучьей пещеры: «Xyresic Horrors»
+			Tooltip: Включает музыкальную тему паучьего гнезда: «Xyresic Horrors»
 		}
 
 		SkeletronPrime: {
 			Label: Скелетрон Прайм
-			Tooltip: Включает музыку Скелетрона Прайма: «Thermite Assault»
+			Tooltip: Включает музыкальную тему Скелетрона Прайма: «Thermite Assault»
 		}
+
+		LavaLayer: {
+			Label: Пещеры на уровне лавы
+			Tooltip: Включает музыкальную тему пещер уровня лавы: «Magmatic Depths»
+		}
+
+		NeonMoss: {
+			Label: Светящийся мох
+			Tooltip: Включает музыкальную тему пещер светящегося мха: «Radiant Grotto»
+		}
+
+		TownUnderground: {
+			Label: Город в пещерах
+			Tooltip: Включает музыкальную тему города в пещерах: «Subsurface Settlement»
 	}
 }
 
@@ -122,6 +136,21 @@ Items: {
 
 	SpiderCaveBoxItem: {
 		DisplayName: Музыкальная шкатулка (Паучье гнездо)
+		Tooltip: ""
+	}
+
+	LavaLayerBoxItem: {
+		DisplayName: Музыкальная шкатулка (Пещеры, уровень лавы)
+		Tooltip: ""
+	}
+
+	NeonMossBoxItem: {
+		DisplayName: Музыкальная шкатулка (Пещера светящегося мха)
+		Tooltip: ""
+	}
+
+	UndergroundTownBoxItem: {
+		DisplayName: Музыкальная шкатулка (Город в пещерах)
 		Tooltip: ""
 	}
 }

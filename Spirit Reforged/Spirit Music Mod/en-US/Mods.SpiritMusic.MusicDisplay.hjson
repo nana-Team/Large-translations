@@ -3,6 +3,7 @@ Salvati: Salvati
 Sbubby: Sbubby
 By: By
 BySalvati: "{$By} {$Salvati}"
+BySbubby: "{$By} {$Sbubby}"
 
 Blizzard: {
 	DisplayName: Shivering Storms (Blizzard Theme)
@@ -11,7 +12,7 @@ Blizzard: {
 
 CorruptNight: {
 	DisplayName: Nightmare Fuel (Corruption Night Theme)
-	Author: "{$BySalvati}"
+	Author: "{$BySalvati}, {$Sbubby}"
 }
 
 CrimsonNight: {
@@ -62,4 +63,19 @@ SpiderCave: {
 SkeletronPrime: {
 	DisplayName: Thermite Assault (Skeletron Prime Theme)
 	Author: "{$BySalvati}, {$Sbubby}"
+}
+
+LavaLayer: {
+	DisplayName: Magmatic Depths (Lava Layer Theme)
+	Author: "{$BySbubby}"
+}
+
+NeonMoss: {
+	DisplayName: Radiant Grotto (Neon Moss Theme)
+	Author: "{$BySbubby}"
+}
+
+TownUnderground: {
+	DisplayName: Subsurface Settlement (Underground Town Theme)
+	Author: "{$BySbubby}"
 }

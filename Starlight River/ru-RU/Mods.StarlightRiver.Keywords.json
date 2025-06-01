@@ -28,7 +28,7 @@
     "B": 255
   },
   {
-    "Name": "Barrier",
+    "Name": "Барьер",
     "Description": "Barrier reduces damage taken at a cost equal to the damage that would be taken otherwise. It recovers after not taking damage for a time.",
     "R": 100,
     "G": 255,

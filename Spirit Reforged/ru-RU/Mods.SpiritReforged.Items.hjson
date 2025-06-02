@@ -1352,10 +1352,10 @@ AncientKoiTotem: {
 }
 
 BoomShroom: {
-	DisplayName: Гриб-бум
+	DisplayName: Взрывной гриб
 	Tooltip:
 		'''
-		Все метательные взрывчатки становятся значительно крупнее и мощнее
+		Вся метательная взрывчатка становится значительно крупнее и мощнее
 		Увеличено время восстановления между бросками
 		'''
 }
@@ -1381,12 +1381,12 @@ SandBombSticky: {
 }
 
 CoarseBomb: {
-	DisplayName: Бомба из саваннской земли
+	DisplayName: Бомба с саванновой землёй
 	Tooltip: Небольшой взрыв, распространяющий саваннскую землю
 }
 
 CoarseBombSticky: {
-	DisplayName: Липкая бомба из саваннской земли
+	DisplayName: Липкая бомба с саванновой землёй
 	Tooltip: "{$Mods.SpiritReforged.Items.CoarseBomb.Tooltip}"
 }
 
@@ -1410,7 +1410,7 @@ PotteryWheelItem: {
 	Tooltip:
 		'''
 		Используется для создания декоративных горшочков
-		ПКМ по установленному предмету — чтобы просмотреть доступные рецепты
+		ПКМ по установленному предмету, чтобы просмотреть доступные рецепты
 		'''
 }
 
@@ -1605,7 +1605,7 @@ ScryingPotItem: {
 }
 
 BombCannon: {
-	DisplayName: Бомбовое орудие
+	DisplayName: Бомбопушка
 	Tooltip:
 		'''
 		Использует бомбы в качестве боеприпасов
@@ -1683,12 +1683,12 @@ CommonPotsGraniteItem: {
 }
 
 OganessonBobber: {
-	DisplayName: Поплавок из оганессона
+	DisplayName: Поплавок из оганессонового мха
 	Tooltip: "{$ItemTooltip.FishingBobberGlowingArgon}"
 }
 
 RadonBobber: {
-	DisplayName: Поплавок из радона
+	DisplayName: Поплавок из радонового мха
 	Tooltip: "{$ItemTooltip.FishingBobberGlowingArgon}"
 }
 
@@ -1704,7 +1704,7 @@ WoodenClub: {
 
 GoldClub: {
 	DisplayName: Золотой боевой молот
-	Tooltip: Повторное использование во время удара — для заряжающего апперкота
+	Tooltip: Используйте снова во время удара для заряжаемого апперкота
 }
 
 PlatinumClub: {
@@ -1770,16 +1770,16 @@ ZenithPotsPaleItem: {
 }
 
 OtherworldSavannaMusicBoxItem: {
-	DisplayName: Музыкальная шкатулка (Саванна день)
+	DisplayName: Музыкальная шкатулка (Саванна, день)
 	Tooltip: ""
 }
 
 OtherworldSavannaNightMusicBoxItem: {
-	DisplayName: Музыкальная шкатулка (Саванна ночь)
+	DisplayName: Музыкальная шкатулка (Саванна, ночь)
 	Tooltip: ""
 }
 
 SavannaSandstormOtherworldMusicBoxItem: {
-	DisplayName: Музыкальная шкатулка (Буря в савване)
+	DisplayName: Музыкальная шкатулка (Песчаный шторм)
 	Tooltip: ""
 }

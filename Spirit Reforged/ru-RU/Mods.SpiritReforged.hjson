@@ -9,7 +9,7 @@ SlotContexts.Backpack: Рюкзак
 
 Conditions: {
 	InSavanna: В саванне
-	PeevedTumbler: Когда искрится
+	PeevedTumbler: Когда блестит
 	Discovered: Обнаружено
 	Submerged: Под водой
 }
@@ -29,7 +29,7 @@ Misc: {
 DamageSources: {
 	Impaling: {
 		0: "{0} был пронзён."
-		1: "{0} оказался на игли."
+		1: "{0} оказался нанизан."
 	}
 }
 

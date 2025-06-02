@@ -5,7 +5,7 @@ EmpoweredSwim: {
 
 MantarayBuff: {
 	DisplayName: Спасательный скат
-	Description: Быстрый, как морская волна!
+	Description: Быстрый, как волна!
 }
 
 JellyfishMinion_Buff: {
@@ -13,18 +13,18 @@ JellyfishMinion_Buff: {
 	Description: Миленькая, упругая медуза сражается за вас!
 }
 
-JellyfishBuff: {
+JellyfishPet_Buff: {
 	DisplayName: Дружелюбная медуза
 	Description: Эта медуза просто обожает путешествовать вместе с вами!
 }
 
 DoubleJumpPotionBuff: {
 	DisplayName: Бризовый прыжок
-	Description: Даёт временных двойной прыжок
+	Description: Даёт временный двойной прыжок
 }
 
 FlightPotionBuff: {
-	DisplayName: Взлёт
+	DisplayName: Парение
 	Description: Увеличивает время полёта на 25%
 }
 
@@ -40,17 +40,17 @@ FairyMinion_Buff: {
 
 Impaled: {
 	DisplayName: Пронзён
-	Description: Ай, больно в ноге!
+	Description: Вас пронзили пикой! Ай!
 }
 
 KoiTotemBuff: {
 	DisplayName: Тотем кои
-	Description: Увеличивает навык рыболовной ловли
+	Description: Увеличивает мастерство рыбалки
 }
 
 ButterflyMinion_Buff: {
-	DisplayName: Неземная бабочка
-	Description: Неземная бабочка сражается за вас
+	DisplayName: Эфирная бабочка
+	Description: Эфирная бабочка сражается за вас
 }
 
 ToucanMinion_Buff: {
@@ -59,28 +59,28 @@ ToucanMinion_Buff: {
 }
 
 QuenchPotion_Buff: {
-	DisplayName: Закалка
+	DisplayName: Пресыщение
 	Description: Другие зелья длятся на 25% дольше
 }
 
-TumblerPetBuff: {
-	DisplayName: Дружелюбное перекати-поле
-	Description: Игривое перекати-поле приследует вас
+TumblerPet_Buff: {
+	DisplayName: Сомнительное перекати-поле
+	Description: Это игривое перекати-поле не отстаёт ни на шаг!
 }
 
 Frozen: {
-	DisplayName: Обморожение
-	Description: Скорость передвижения врагов снижена
+	DisplayName: "{$BuffName.Frozen}"
+	Description: Снижает скорость передвижения врагов
 }
 
 GildedScarabBuff: {
-	DisplayName: Щит скоробея
-	Description: Защита увеличена на {0} ед.
+	DisplayName: Скарабейный щит
+	Description: Увеличивает защиту на {0} ед.
 }
 
 PoolNoodleBubbleBuff: {
-	DisplayName: Пузырьковая тайна
-	Description: Вы нашли девнию рукопись лора Spirit... Оставайся с нами в ожидании нашего супербосса — Тёмной стали, Павшей звезды!
+	DisplayName: Пузырь нудла
+	Description: Вы познали древнюю тайну истории Spirit... Ждите встречи с нашим супербоссом — Тёмной Сталью, Падшей звездой!
 }
 
 ExplorerSpeed: {
@@ -89,8 +89,8 @@ ExplorerSpeed: {
 }
 
 RemedyPotionBuff: {
-	DisplayName: Целебный эффект
-	Description: Даёт невосприимчивость к некоторым дебаффам
+	DisplayName: Исцеление
+	Description: Даёт невосприимчивость к некоторым вредным эффектам
 }
 
 OpenWounds: {
@@ -99,11 +99,11 @@ OpenWounds: {
 }
 
 ExplorerPot: {
-	DisplayName: Explorer's Thrill
-	Description: You're eager for more!
+	DisplayName: Трепет исследователя
+	Description: Вы жаждите большего!
 }
 
 ExplorerMine: {
-	DisplayName: Explorer's Vigor
-	Description: Keep digging!
+	DisplayName: Силы исследователя
+	Description: Прододлжайте копать!
 }

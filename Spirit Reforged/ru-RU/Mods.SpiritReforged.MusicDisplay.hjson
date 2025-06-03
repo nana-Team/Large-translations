@@ -25,16 +25,16 @@ DeepOcean: {
 }
 
 SavannaOtherworld: {
-	DisplayName: День в саванне — Otherworld
+	DisplayName: День в саванне — Потусторонняя
 	Author: "{$By} {$Moonbird}"
 }
 
 SavannaOtherworldNight: {
-	DisplayName: Ночь в саванне — Otherworld
+	DisplayName: Ночь в саванне — Потусторонняя
 	Author: "{$By} soundbin"
 }
 
 DuststormOtherworld: {
-	DisplayName: Пыльная буря — Otherworld
+	DisplayName: Пыльная буря — Потусторонняя
 	Author: "{$By} jakedastardly"
 }

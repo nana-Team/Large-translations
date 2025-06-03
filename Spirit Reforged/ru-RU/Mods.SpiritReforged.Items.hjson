@@ -601,7 +601,7 @@ DrywoodSword: {
 }
 
 HuntingRifle: {
-	DisplayName: Охотничьё ружьё
+	DisplayName: Охотничье ружьё
 	Tooltip: Наносит увеличенный урон по удалённым целям, а также при стрельбе с места
 }
 
@@ -1249,7 +1249,7 @@ CrescentMelon: {
 }
 
 MidnightApple: {
-	DisplayName: Полночное яблоко
+	DisplayName: Полуночное яблоко
 	Tooltip:
 		'''
 		{$BuffDescription.WellFed}
@@ -1573,8 +1573,8 @@ PotionVatsCloningItem: {
 }
 
 SilverFoodPlatterItem: {
-	DisplayName: Серебряное блюдо для еды
-	Tooltip: Нажмите ПКМ, чтобы поместить предмет на блюдо
+	DisplayName: Серебряное блюдце для еды
+	Tooltip: Нажмите ПКМ, чтобы поместить предмет на блюдце
 }
 
 RadonMossItem: {

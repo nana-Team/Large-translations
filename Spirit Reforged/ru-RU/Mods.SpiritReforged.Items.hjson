@@ -236,18 +236,18 @@ CoconutMilk: {
 }
 
 DiverBody: {
-        DisplayName: Древний нагрудник водолаза
-        Tooltip: ""
+	DisplayName: Древний нагрудник водолаза
+	Tooltip: ""
 }
 
 DiverHead: {
-        DisplayName: Древний шлем водолаза
-        Tooltip: ""
+	DisplayName: Древний шлем водолаза
+	Tooltip: ""
 }
 
 DiverLegs: {
-        DisplayName: Древние штаны водолаза
-        Tooltip: ""
+	DisplayName: Древние штаны водолаза
+	Tooltip: ""
 }
 
 SailorCap: {

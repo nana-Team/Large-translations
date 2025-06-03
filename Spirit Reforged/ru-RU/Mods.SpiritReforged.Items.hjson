@@ -4,12 +4,12 @@ CommonTooltips: {
 		Вмещает 4 предмета
 		Перед снятием выньте все предметы
 		'''
-	Shimmerable: "{0} превращается в мерцании"
+	Shimmerable: "{0} Можно трансмутировать в мерцании"
 }
 
 Kelp: {
 	DisplayName: Ламинария
-	Tooltip: Должна быть посажена в воду
+	Tooltip: Нужно сажать в воду
 }
 
 PirateChestItem: {
@@ -18,26 +18,30 @@ PirateChestItem: {
 }
 
 PirateKey: {
-	DisplayName: Тайный ключ
-	Tooltip: "'Пираты наверняка спрятали там сокровища...'"
+	DisplayName: Секретный ключ
+	Tooltip: «Пираты наверняка спрятали где-то сокровища...»
 }
 
 RawFish: {
 	DisplayName: Сырая рыба
-	Tooltip: "'Можно съесть и так... но лучше приготовить!'"
+	Tooltip:
+		'''
+		{$BuffDescription.WellFed}
+		«Она съедобна... может, лучше сначала её приготовить?»
+		'''
 }
 
 SunkenTreasure: {
 	DisplayName: Затонувшее сокровище
 	Tooltip:
 		'''
-		ПКМ, чтобы открыть
-		'Возможно, внутри всё ещё хранятся сокровища'
+		{$CommonItemTooltip.RightClickToOpen}
+		«Возможно, внутри всё ещё полно ценных сокровищ»
 		'''
 }
 
 DriftwoodItem: {
-	DisplayName: Морское дерево
+	DisplayName: Коряга
 	Tooltip: ""
 }
 
@@ -47,7 +51,7 @@ MusselItem: {
 }
 
 CrinoidItem: {
-	DisplayName: Криноид
+	DisplayName: Морская лилия
 	Tooltip: ""
 }
 
@@ -57,7 +61,7 @@ PelicanItem: {
 }
 
 SandPiperItem: {
-	DisplayName: Песчаный зуёк
+	DisplayName: Песочник
 	Tooltip: ""
 }
 
@@ -72,81 +76,85 @@ TubewormItem: {
 }
 
 CascadeChestplate: {
-	DisplayName: Нагрудник морского охотника
-	Tooltip: Снижает отбрасывание на 50%
+	DisplayName: Нагрудник рифового охотника
+	Tooltip: Увеличивает сопротивление к отбрасыванию на 50%
 }
 
 CascadeHelmet: {
-	DisplayName: Шлем морского охотника
+	DisplayName: Шлем рифового охотника
 	Tooltip: Позволяет дышать под водой
 }
 
 CascadeLeggings: {
-	DisplayName: Поножи морского охотника
+	DisplayName: Поножи рифового охотника
 	Tooltip: Увеличивает скорость передвижения в воде на 15%
 }
 
 JellyfishStaff: {
 	DisplayName: Посох медузы
-	Tooltip: Призывает крошечную медузу, сражающуюся за вас!
+	Tooltip: Призывает крошку-медузу сражаться за вас!
 }
 
 Lifesaver: {
 	DisplayName: Спасатель
 	Tooltip:
 		'''
-		Призывает манту в качестве средства передвижения
-		Не может передвигаться по суше, но парит над жидкостями
+		Призывает ездового ската манту
+		Манта не может передвигаться по суше, но умеет парить над жидкостями
 		'''
 }
 
 ClawCannon: {
-	DisplayName: Клешневое орудие
+	DisplayName: Клешнёвая пушка
 	Tooltip: ""
 }
 
 IridescentScale: {
 	DisplayName: Радужная чешуя
-	Tooltip: "'Ослепительно сверкает под водой'"
+	Tooltip: «Ослепительно сверкает под водой»
 }
 
 OceanPendant: {
-	DisplayName: Сокровище глубин
+	DisplayName: Сокровище мерфолка
 	Tooltip: Значительно улучшает передвижение под водой
 }
 
 ReefSpear: {
 	DisplayName: Рифовый пронзатель
-	Tooltip: ПКМ — метнуть трезубец, увеличивая урон основной атаки
+	Tooltip:
+		'''
+		Нажмите ПКМ, чтобы метнуть
+		Метание увеличивает урон обычной атаки
+		'''
 }
 
 SkullSentry: {
 	DisplayName: Череп плотоядки
-	Tooltip: Призывает череп, заражённый червями-плотоядками, стреляющий красной слизью во врагов
+	Tooltip: Призывает череп, заражённый червями-плотоядками, который стреляет красной слизью во врагов
 }
 
 UrchinStaff: {
-	DisplayName: Посох морских ежей
+	DisplayName: Метатель морских ежей
 	Tooltip: ""
 }
 
 GarInAJar: {
 	Tooltip: ""
-	DisplayName: Щука в банке
+	DisplayName: Панцирная щука в банке
 }
 
 GarItem: {
-	DisplayName: Щука
+	DisplayName: Панцирная щука
 	Tooltip: ""
 }
 
 SavannaDirtItem: {
-	DisplayName: Саваннская земля
+	DisplayName: Грубая земля
 	Tooltip: ""
 }
 
 GoldGarItem: {
-	DisplayName: Золотая щука
+	DisplayName: Золотая панцирная щука
 	Tooltip: ""
 }
 
@@ -156,7 +164,7 @@ Sushi: {
 		'''
 		{$BuffDescription.WellFed}
 		Позволяет дышать под водой
-		'Холодное и свежее!'
+		«Холодные и свежие!»
 		'''
 }
 
@@ -165,8 +173,8 @@ Nigiri: {
 	Tooltip:
 		'''
 		{$BuffDescription.WellFed}
-		Дает возможность плавать
-		'Точное искусство'
+		Позволяет свободно передвигаться в жидкостях
+		«Точное искусство»
 		'''
 }
 
@@ -175,7 +183,7 @@ HoneySalmon: {
 	Tooltip:
 		'''
 		{$BuffDescription.WellFed}
-		Ускоряет восстановление здоровья
+		«Идеальное сочетание сладкого с солёным!»
 		'''
 }
 
@@ -189,13 +197,13 @@ CrystalFish: {
 	Tooltip:
 		'''
 		{$BuffDescription.WellFed2}
-		Усиливает магические способности
+		Усиливает магическую силу
 		'''
 }
 
 RawMeat: {
 	DisplayName: Сырое мясо
-	Tooltip: "'Можно съесть... но лучше приготовить!'"
+	Tooltip: «Она съедобна... может, лучше сначала её приготовить?»
 }
 
 CookedMeat: {
@@ -203,7 +211,7 @@ CookedMeat: {
 	Tooltip:
 		'''
 		{$BuffDescription.WellFed}
-		'Прожарено как надо'
+		«Прожарено как надо»
 		'''
 }
 
@@ -212,39 +220,39 @@ GoldenCaviar: {
 	Tooltip:
 		'''
 		{$BuffDescription.WellFed3}
-		'Вершина гастрономии'
+		«Вершина гастрономии»
 		'''
 }
 
-GarBannerItem.DisplayName: Знамя щуки
+GarBannerItem.DisplayName: Знамя панцирной щуки
 
 CoconutMilk: {
 	DisplayName: Кокосовое молоко
 	Tooltip:
 		'''
 		{$BuffDescription.WellFed}
-		'Без стакана!'
+		«И стакан не нужен!»
 		'''
 }
 
 DiverBody: {
-	DisplayName: Доспех древнего ныряльщика
-	Tooltip: ""
+        DisplayName: Древний нагрудник водолаза
+        Tooltip: ""
 }
 
 DiverHead: {
-	DisplayName: Шлем древнего ныряльщика
-	Tooltip: ""
+        DisplayName: Древний шлем водолаза
+        Tooltip: ""
 }
 
 DiverLegs: {
-	DisplayName: Штаны древнего ныряльщика
-	Tooltip: ""
+        DisplayName: Древние штаны водолаза
+        Tooltip: ""
 }
 
 SailorCap: {
-	DisplayName: Матросский колпак
-	Tooltip: "'Отдать паруса!'"
+	DisplayName: Бескозырка
+	Tooltip: «Отдать паруса!»
 }
 
 StrippedBambooItem: {
@@ -263,8 +271,8 @@ BambooBenchItem: {
 }
 
 BambooBirdCageItem: {
-	DisplayName: Бамбуковая клетка
-	Tooltip: ПКМ по птице чтобы посадить её в клетку
+	DisplayName: Бамбуковая птичья клетка
+	Tooltip: Некоторых птиц можно поместить внутрь, нажав ПКМ
 }
 
 BambooPikeItem: {
@@ -278,46 +286,46 @@ BambooPotItem: {
 }
 
 SteamedMussels: {
-	DisplayName: Паровые мидии
+	DisplayName: Мидии на пару
 	Tooltip:
 		'''
 		{$BuffDescription.WellFed}
-		'Свежие и нежные'
+		«Свежие и восхитительные»
 		'''
 }
 
 JellyCandle: {
-	DisplayName: Медузная свеча
+	DisplayName: Медузья свеча
 	Tooltip: Призывает парящую медузу, которая следует за вами
 }
 
 SmallDriftwoodItem: {
-	DisplayName: Малый коряг
-	Tooltip: "'Эстетично'"
+	DisplayName: Маленькая коряга
+	Tooltip: «Приятна на глаз»
 }
 
 MediumDriftwoodItem: {
-	DisplayName: Средний коряг
-	Tooltip: "'Эстетично'"
+	DisplayName: Средняяя коряга
+	Tooltip: «Приятна на глаз»
 }
 
 LargeDriftwoodItem: {
-	DisplayName: Большой коряг
-	Tooltip: "'Эстетично'"
+	DisplayName: Большая коряга
+	Tooltip: «Приятна на глаз»
 }
 
 DriftwoodChestplate: {
-	DisplayName: Нагрудник из коряги
+	DisplayName: Коряжный нагрудник
 	Tooltip: ""
 }
 
 DriftwoodHelmet: {
-	DisplayName: Шлем из коряги
+	DisplayName: Коряжный шлем
 	Tooltip: ""
 }
 
 DriftwoodLeggings: {
-	DisplayName: Поножи из коряги
+	DisplayName: Коряжные поножи
 	Tooltip: ""
 }
 
@@ -337,32 +345,32 @@ DriftwoodWallItem: {
 }
 
 Cloudstalk: {
-	DisplayName: Облачный стебель
-	Tooltip: "'Встречается на большой высоте'"
+	DisplayName: Облакостебель
+	Tooltip: «Встречается на большой высоте»
 }
 
 CloudstalkSeed: {
-	DisplayName: Семя облачного стебля
+	DisplayName: Семена облакостебля
 	Tooltip: ""
 }
 
 DoubleJumpPotion: {
-	DisplayName: Зефирная настойка
-	Tooltip: Временно даёт двойной прыжок
+	DisplayName: Зелье бриза
+	Tooltip: Даёт временный двойной прыжок
 }
 
 FlightPotion: {
-	DisplayName: Парящая настойка
-	Tooltip: Продлевает время полёта на 25%
+	DisplayName: Зелье парения
+	Tooltip: Увеличивает время полёта на 25%
 }
 
 HangingCloudstalkItem: {
-	DisplayName: Свисающий облачный стебель
+	DisplayName: Свисающий облакостебель
 	Tooltip: ""
 }
 
 FloatingDriftwood: {
-	DisplayName: Плавающий коряг
+	DisplayName: Плавучая коряга
 	Tooltip: ""
 }
 
@@ -376,7 +384,7 @@ Ambergris: {
 	Tooltip:
 		'''
 		Чрезвычайно ценная
-		'Её происхождение тебе лучше не знать...'
+		«Вы не хотите знать её происхождение»
 		'''
 }
 
@@ -384,22 +392,22 @@ MessageBottle: {
 	DisplayName: Бутылка с посланием
 	Tooltip:
 		'''
-		Призывает плот
-		Повышает эффективность рыбалки на плоту
+		Призывает ездовой плот
+		Нахождение на плоту увеличивает мастерство рыбалки
 		'''
 }
 
 GoldKillifishItem: {
-	DisplayName: Золотая килли рыбка
+	DisplayName: Золотая рыбка килли
 	Tooltip: ""
 }
 
 KillifishItem: {
-	DisplayName: Килли рыбка
+	DisplayName: Рыбка килли
 	Tooltip: ""
 }
 
-KillifishBannerItem.DisplayName: Знамя килли рыбки
+KillifishBannerItem.DisplayName: Знамя рыбки килли
 
 BambooHalberd: {
 	DisplayName: Бамбуковая алебарда
@@ -408,21 +416,21 @@ BambooHalberd: {
 
 BambooKendoBlade: {
 	DisplayName: Бамбуковый синай
-	Tooltip: ПКМ — рывок вперёд
+	Tooltip: Нажмите ПКМ, чтобы совершить рывок вперёд
 }
 
 KoiTotem: {
 	DisplayName: Тотем кои
 	Tooltip:
 		'''
-		Увеличивает навык рыбалки поблизости
-		Иногда восстанавливает последнюю использованную наживку
+		Увеличивает мастерство рыбалки, если размещён поблизости
+		Имеет шас восстановить последнюю использованную наживку
 		'''
 }
 
 FairyWhistle: {
 	DisplayName: Свисток феи
-	Tooltip: Призывает защитную фею, которая парит рядом с вами
+	Tooltip: Призывает парящую вокруг фею защищать вас
 }
 
 TermiteItem: {
@@ -431,26 +439,26 @@ TermiteItem: {
 }
 
 StarPowder: {
-	DisplayName: Звёздная пыль
-	Tooltip: Бросьте на траву, чтобы наполнить её сиянием звёзд!
+	DisplayName: Звёздный порошок
+	Tooltip: Бросьте на траву, чтобы наполнить её звёздным светом!
 }
 
 TermiteJar: {
 	DisplayName: Банка с термитами
-	Tooltip: "'Экологический кошмар'"
+	Tooltip: «Экологический ужас»
 }
 
 ButterflyStaff: {
 	DisplayName: Посох эфирной бабочки
 	Tooltip:
 		'''
-		Призывает магическую бабочку, сражающуюся за вас
-		'Рождена в порыве весеннего цветения'
+		Призывает магическую бабочку сражаться за вас
+		«Рождена в порыве весеннего цветения»
 		'''
 }
 
 PoolNoodle: {
-	DisplayName: Нудл-хлыст
+	DisplayName: Нудл
 	Tooltip:
 		'''
 		Увеличивает урон призываемых существ на 3

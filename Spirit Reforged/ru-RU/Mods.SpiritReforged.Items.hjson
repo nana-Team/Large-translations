@@ -463,43 +463,43 @@ PoolNoodle: {
 		'''
 		Увеличивает урон призываемых существ на 3
 		{$CommonItemTooltip.Whips}
-		Попавшие под удар враги могут взрываться пузырями
+		Поражённые враги могут выпускать взрывы пузырей при атаке миньонов
 		'''
 }
 
 ToucaneItem: {
-	DisplayName: Туканий гнев
-	Tooltip: Призывает разъярённого тукана, который сражается за вас
+	DisplayName: Туканотрость
+	Tooltip: Призывает разъярённого тукана сражаться за вас
 }
 
 QuenchPotion: {
-	DisplayName: Зелье утоления жажды
-	Tooltip: Эффекты других зелий длятся на 25% дольше
+	DisplayName: Зелье пресыщения
+	Tooltip: Увеличивает длительность действия остальных зелий на 25%
 }
 
 LivingBaobabLeafWallItem: {
-	DisplayName: Живая стена из листьев баобаба
+	DisplayName: Стена из живых листьев баобаба
 	Tooltip: ""
 }
 
 LivingBaobabWallItem: {
-	DisplayName: Живая стена из баобаба
+	DisplayName: Стена из живого баобаба
 	Tooltip: ""
 }
 
 LivingBaobabLeafWand: {
-	DisplayName: Жезл живых листьев баобаба
+	DisplayName: Ветвь живых листьев баобаба
 	Tooltip: ""
 }
 
 LivingBaobabWand: {
-	DisplayName: Жезл живого баобаба
+	DisplayName: Ветвь живого баобаба
 	Tooltip: ""
 }
 
 WrithingSticks: {
-	DisplayName: Шевелящиеся ветки
-	Tooltip: Призывают дружелюбный перекати-поле, который следует за вами
+	DisplayName: Извивающиеся ветки
+	Tooltip: Призывает дружелюбное перекати-поле, которое следует за вами
 }
 
 BaobabFruit: {
@@ -508,7 +508,7 @@ BaobabFruit: {
 }
 
 SavannaGrassSeeds: {
-	DisplayName: Семена саванной травы
+	DisplayName: Семена травы саванны
 	Tooltip: ""
 }
 
@@ -517,7 +517,7 @@ LeatherBackpack: {
 	Tooltip:
 		'''
 		{$CommonTooltips.Backpack}
-		'Удобный, практичный и при этом стильный'
+		«Удобный, практичный и при этом стильный»
 		'''
 }
 
@@ -527,7 +527,7 @@ Caryocar: {
 }
 
 CustardApple: {
-	DisplayName: Кремовое яблоко
+	DisplayName: Сахарное яблоко
 	Tooltip: ""
 }
 
@@ -556,12 +556,12 @@ Omelette: {
 	Tooltip:
 		'''
 		{$BuffDescription.WellFed2}
-		'Идеально приготовлен'
+		«Идеально приготовлен»
 		'''
 }
 
 OstrichEgg: {
-	DisplayName: Яйцо страуса
+	DisplayName: Страусиное яйцо
 	Tooltip: "{$BuffDescription.WellFed}"
 }
 
@@ -571,58 +571,58 @@ DrywoodItem: {
 }
 
 DrywoodBow: {
-	DisplayName: Лук из сухой древесины
+	DisplayName: Лук из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodBreastplate: {
-	DisplayName: Нагрудник из сухой древесины
+	DisplayName: Нагрудник из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodGreaves: {
-	DisplayName: Поножи из сухой древесины
+	DisplayName: Поножи из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodHammer: {
-	DisplayName: Молот из сухой древесины
+	DisplayName: Молот из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodHelmet: {
-	DisplayName: Шлем из сухой древесины
+	DisplayName: Шлем из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodSword: {
-	DisplayName: Меч из сухой древесины
+	DisplayName: Меч из сухого дерева
 	Tooltip: ""
 }
 
 HuntingRifle: {
-	DisplayName: Охотничья винтовка
-	Tooltip: Урон увеличивается при стрельбе с места и по дальним целям
+	DisplayName: Охотничьё ружьё
+	Tooltip: Наносит увеличенный урон по удалённым целям, а также при стрельбе с места
 }
 
 SafariHat: {
-	DisplayName: Сафари-шляпа
+	DisplayName: Шляпа для сафари
 	Tooltip: ""
 }
 
 SafariShorts: {
-	DisplayName: Сафари-шорты
+	DisplayName: Шорты для сафари
 	Tooltip: ""
 }
 
 SafariVest: {
-	DisplayName: Сафари-жилет
+	DisplayName: Жилет для сафари
 	Tooltip: ""
 }
 
 SunStaff: {
 	DisplayName: Скипетр рассвета
-	Tooltip: Испускает поток солнечного света
+	Tooltip: Обрушивает солнечный свет перед вами
 }
 
 SavannaMusicBoxItem: {
@@ -631,213 +631,213 @@ SavannaMusicBoxItem: {
 }
 
 DrywoodBathtubItem: {
-	DisplayName: Ванна из сухой древесины
+	DisplayName: Ванна из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodBedItem: {
-	DisplayName: Кровать из сухой древесины
+	DisplayName: Кровать из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodBookcaseItem: {
-	DisplayName: Книжный шкаф из сухой древесины
+	DisplayName: Книжный шкаф из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodCandelabraItem: {
-	DisplayName: Канделябр из сухой древесины
+	DisplayName: Канделябр из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodCandleItem: {
-	DisplayName: Свеча из сухой древесины
+	DisplayName: Свеча из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodChairItem: {
-	DisplayName: Стул из сухой древесины
+	DisplayName: Стул из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodClockItem: {
-	DisplayName: Часы из сухой древесины
+	DisplayName: Напольные часы из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodCouchItem: {
-	DisplayName: Диван из сухой древесины
+	DisplayName: Диван из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodDresserItem: {
-	DisplayName: Комод из сухой древесины
+	DisplayName: Комод из из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodLampItem: {
-	DisplayName: Лампа из сухой древесины
+	DisplayName: Напольная лампа из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodPianoItem: {
-	DisplayName: Пианино из сухой древесины
+	DisplayName: Пианино из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodSinkItem: {
-	DisplayName: Раковина из сухой древесины
+	DisplayName: Раковина из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodTableItem: {
-	DisplayName: Стол из сухой древесины
+	DisplayName: Стол из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodToiletItem: {
-	DisplayName: Туалет из сухой древесины
+	DisplayName: Унитаз из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodWorkBenchItem: {
-	DisplayName: Верстак из сухой древесины
+	DisplayName: Верстак из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodLanternItem: {
-	DisplayName: Фонарь из сухой древесины
+	DisplayName: Фонарь из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodSofaItem: {
-	DisplayName: Софа из сухой древесины
+	DisplayName: Диван из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodChestItem: {
-	DisplayName: Сундук из сухой древесины
+	DisplayName: Сундук из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodDoorItem: {
-	DisplayName: Дверь из сухой древесины
+	DisplayName: Дверь из сухого дерева
 	Tooltip: ""
 }
 
 DriftwoodBarrelItem: {
-	DisplayName: Бочка из коряги
+	DisplayName: Коряжная бочка
 	Tooltip: ""
 }
 
 DriftwoodBathtubItem: {
-	DisplayName: Ванна из коряги
+	DisplayName: Коряжная ванна
 	Tooltip: ""
 }
 
 DriftwoodBedItem: {
-	DisplayName: Кровать из коряги
+	DisplayName: Коряжная кровать
 	Tooltip: ""
 }
 
 DriftwoodBenchItem: {
-	DisplayName: Скамья из коряги
+	DisplayName: Коряжная скамья
 	Tooltip: ""
 }
 
 DriftwoodBookcaseItem: {
-	DisplayName: Книжный шкаф из коряги
+	DisplayName: Коряжный книжный шкаф
 	Tooltip: ""
 }
 
 DriftwoodCandelabraItem: {
-	DisplayName: Канделябр из коряги
+	DisplayName: Коряжный подсвечник
 	Tooltip: ""
 }
 
 DriftwoodCandleItem: {
-	DisplayName: Свеча из коряги
+	DisplayName: Коряжная свеча
 	Tooltip: ""
 }
 
 DriftwoodChairItem: {
-	DisplayName: Стул из коряги
+	DisplayName: Коряжный стул
 	Tooltip: ""
 }
 
 DriftwoodChandelierItem: {
-	DisplayName: Люстра из коряги
+	DisplayName: Коряжная люстра
 	Tooltip: ""
 }
 
 DriftwoodClockItem: {
-	DisplayName: Часы из коряги
+	DisplayName: Коряжные напольные часы
 	Tooltip: ""
 }
 
 DriftwoodDoorItem: {
-	DisplayName: Дверь из коряги
+	DisplayName: Коряжная дверь
 	Tooltip: ""
 }
 
 DriftwoodDresserItem: {
-	DisplayName: Комод из коряги
+	DisplayName: Коряжный комод
 	Tooltip: ""
 }
 
 DriftwoodLampItem: {
-	DisplayName: Лампа из коряги
+	DisplayName: Коряжная напольная лампа
 	Tooltip: ""
 }
 
 DriftwoodPianoItem: {
-	DisplayName: Пианино из коряги
+	DisplayName: Коряжное пианино
 	Tooltip: ""
 }
 
 DriftwoodSinkItem: {
-	DisplayName: Раковина из коряги
+	DisplayName: Коряжная раковина
 	Tooltip: ""
 }
 
 DriftwoodTableItem: {
-	DisplayName: Стол из коряги
+	DisplayName: Коряжный стол
 	Tooltip: ""
 }
 
 DriftwoodToiletItem: {
-	DisplayName: Туалет из коряги
+	DisplayName: Коряжный унитаз
 	Tooltip: ""
 }
 
 DriftwoodWorkBenchItem: {
-	DisplayName: Верстак из коряги
+	DisplayName: Коряжный верстак
 	Tooltip: ""
 }
 
 HerosMemorialStatueItem: {
-	DisplayName: Памятник героя
+	DisplayName: Памятник герою
 	Tooltip: Живи вечно
 }
 
 DustyFieldsItem: {
-	DisplayName: Пыльные поля
-	Tooltip: "'S. Yaki'"
+	DisplayName: Картина «Пыльные поля»
+        Tooltip: «С. Яки»
 }
 
 OrangeSkiesItem: {
-	DisplayName: Оранжевые небеса
-	Tooltip: "'S. Yaki'"
+	DisplayName: Картина «Оранжевое небо»
+        Tooltip: «С. Яки»
 }
 
 StrongWindsItem: {
-	DisplayName: Сильные ветра
-	Tooltip: "'S. Yaki'"
+	DisplayName: Картина «Ураган»
+        Tooltip: «С. Яки»
 }
 
 WaningSunItem: {
-	DisplayName: Угасающее солнце
-	Tooltip: "'E. Sibellius'"
+	DisplayName: Картина «Заходящее солнце»
+        Tooltip: «Э. Сибеллиус»
 }
 
 ScarecrowItem: {
@@ -857,32 +857,32 @@ BotanistHat: {
 
 BotanistLegs: {
 	DisplayName: Штаны ботаника
-	Tooltip: Скорость передвижения увеличена на 10%
+	Tooltip: Увеличивает скорость передвижения на 10%
 }
 
 BeachTowel: {
 	DisplayName: Пляжное полотенце
-	Tooltip: "'Сохраняет сухость, но лучше не прыгать с ним в воду !'"
+	Tooltip: «Сохраняет сухость, но не вздумайте прыгать с ним в воду!»
 }
 
 BikiniBottom: {
-	DisplayName: Низ бикини
-	Tooltip: "'Кому нужна броня, когда можно бегать под солнцем!'"
+	DisplayName: Трусики
+	Tooltip: «Долой броню, свободу трусикам!»
 }
 
 BikiniTop: {
-	DisplayName: Верх бикини
-	Tooltip: "'Несмотря на ожидания, он не даёт никакой защиты.'"
+	DisplayName: Бюстгальтер
+	Tooltip: «Воприки ожиданиям, он действительно не предоставляет никакой защиты.»
 }
 
 SwimmingTrunks: {
 	DisplayName: Плавки
-	Tooltip: "'Не защищают, но выглядят стильно.'"
+	Tooltip: «Хотя они особо не защищают, они, определённо, выглядят стильно.»
 }
 
 TintedGlasses: {
 	DisplayName: Тонированные очки
-	Tooltip: "'Придают стиль, так что лучше не снимать их даже ночью.'"
+	Tooltip: «Они придают такого стиля, что лучше их не снимать их даже ночью.»
 }
 
 WheatgrassSeedPouch: {
@@ -914,12 +914,12 @@ FishLure: {
 }
 
 DrywoodPlatformItem: {
-	DisplayName: Платформа из сухой древесины
+	DisplayName: Платформа из сухого дерева
 	Tooltip: ""
 }
 
 SavannaDirtWallItem: {
-	DisplayName: Саванная земляная стена
+	DisplayName: Стена из грубой земли
 	Tooltip: ""
 }
 
@@ -934,67 +934,67 @@ MagmastoneItem: {
 }
 
 SavannaCrateHardmode: {
-	DisplayName: Сафари-ящик
+	DisplayName: Ящик сафари
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 SavannaCrate: {
-	DisplayName: Саванный ящик
+	DisplayName: Ящик саванны
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 MineralSlag: {
 	DisplayName: Минеральный шлак
-	Tooltip: Можно переработать в обогатителе
+	Tooltip: Можно использовать в промывателе
 }
 
 HyenaBannerItem.DisplayName: Знамя гиены
 OstrichBannerItem.DisplayName: Знамя страуса
 
 SavannaCampfireItem: {
-	DisplayName: Саванный костёр
+	DisplayName: Костёр саванны
 	Tooltip: "{$ItemTooltip.Campfire}"
 }
 
 SavannaFountainItem: {
-	DisplayName: Фонтан саванны
+	DisplayName: Фонтан воды саванны
 	Tooltip: ""
 }
 
 DrywoodFenceItem: {
-	DisplayName: Ограждение из сухой древесины
+	DisplayName: Забор из сухого дерева
 	Tooltip: ""
 }
 
 DrywoodWallItem: {
-	DisplayName: Стена из сухой древесины
+	DisplayName: Стена из сухого дерева
 	Tooltip: ""
 }
 
 ZiplineGun: {
-	DisplayName: Рельсовый пистолет
+	DisplayName: Рельсомёт
 	Tooltip:
 		'''
-		Создаёт трос в точке прицела для перемещения
-		Для удаления тросса наведитесь на них или нажмите ПКМ
-		'Не путать с рельсотроном'
+		Создаёт рельсы в точке, на которую указывает курсор, позволяя игрокам перемещаться
+		Рельсы можно удалить, наведя на них курсор или нажав <right>
+		«Не путать с рельсотроном»
 		'''
-	AssistantOn: Помощник: Вкл (ПКМ)
-	AssistantOff: Помощник: Выкл (ПКМ)
+	AssistantOn: Нажмите ПКМ, чтобы включить ассистента
+	AssistantOff: Нажмите ПКМ, чтобы отключить ассистента
 }
 
 FrostbiteItem: {
-	DisplayName: Ледяная дрожь
-	Tooltip: Вызывает снежную бурю перед вами
+	DisplayName: Обморожение
+        Tooltip: Вызывает снежную бурю перед вами
 }
 
 RogueCrest: {
 	DisplayName: Герб разбойника
 	Tooltip:
 		'''
-		Призывает ржавый меч, сражающийся за вас
-		Не занимает слот прислужника
-		Иногда накладывает эффкет "Открытые раны", заставляя врагов истекать кровью при ударе в ближнем бою или хлыстом
+		Призывает ржавый меч сражаться за вас
+		Этот меч не занимает слоты призываемых миньонов
+		Иногда накладывает дебафф «{$Buffs.OpenWounds.DisplayName}», из-за которого враги истекают кровью при ударах оружием ближнего боя или хлыстом
 		'''
 }
 
@@ -1002,8 +1002,8 @@ GildedScarab: {
 	DisplayName: Позолоченный скарабей
 	Tooltip:
 		'''
-		При получении урона временно усиливает защиту
-		Чем больше урон, тем выше бонус к защите
+		При получении урона временно даёт бафф, увеличивающий защиту
+		Чем больше урона вы получаете, тем сильнее увеличивается защита
 		'''
 }
 
@@ -1013,20 +1013,20 @@ SparrowItem: {
 }
 
 Blunderbuss: {
-	DisplayName: Бундербус
-	Tooltip: Стреляет широким веером пуль
+	DisplayName: Мушкетон
+	Tooltip: Стреляет пулями с широким разбросом
 }
 
 SafekeeperRing: {
 	DisplayName: Кольцо хранителя
 	Tooltip:
 		'''
-		Незначительно увеличивает урон по нежити
-		"От него исходит жуткий свет"
+		Немного увеличивает урон по нежити
+		«Излучает зловещее сияние»
 		'''
 }
 
-PeevedTumblerBannerItem.DisplayName: Знамя раздражённого кочевника
+PeevedTumblerBannerItem.DisplayName: Знамя раздражённого перекати-поля
 
 LeatherHood: {
 	DisplayName: Капюшон стрелка
@@ -1034,7 +1034,7 @@ LeatherHood: {
 }
 
 LeatherLegs: {
-	DisplayName: Сапоги стрелка
+	DisplayName: Ботинки стрелка
 	Tooltip: ""
 }
 
@@ -1044,12 +1044,12 @@ LeatherPlate: {
 }
 
 ExplorerTreadsItem: {
-	DisplayName: Походные сапоги
+	DisplayName: Ботинки исследователя
 	Tooltip:
 		'''
-		+5% к скорости передвижения за каждые 10% потерянного здоровья  
-		50% шанс избежать ловушек и опасностей  
-		Таким ботинкам даже горы нипочём
+		Увеличивает скорость передвижения на 5% за каждые 10% потерянного здоровья
+		Даёт 50% шанс избежать ловушек и опасностей
+		«С такими ботинками даже исследования храмов превращается в обычную прогулку»
 		'''
 }
 
@@ -1057,8 +1057,8 @@ LeatherCloakItem: {
 	DisplayName: Кожаный плащ
 	Tooltip:
 		'''
-		Дает иммунитет к порывам ветра в песчаных бурях  
-		Увеличивает скорость передвижения на 5% и разгон бега на 15%
+		Даёт невосприимчивость к дебаффу «{$BuffName.WindPushed}» во время песчаных бурь 
+		Увеличивает скорость передвижения на 5% и ускорение на 15%
 		'''
 }
 

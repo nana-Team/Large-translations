@@ -5,34 +5,34 @@ UrchinSpike.DisplayName: Игла морского ежа
 JellyfishBolt.DisplayName: Электрический разряд
 JellyfishMinion.DisplayName: Маленькая медуза
 ReefWrathProj.DisplayName: Коралловая ярость
-JellyfishPet.DisplayName: Питомец-медуза
+JellyfishPet.DisplayName: Ручная медуза
 FairyMinion.DisplayName: Фея-спутник
 FairyProj.DisplayName: Магический заряд
 StarPowderProj.DisplayName: Звёздная пыль
-ButterflyMinion.DisplayName: Эфирноя бабочка
+ButterflyMinion.DisplayName: Эфирная бабочка
 ToucanFeather.DisplayName: Перо тукана
-ToucanMinion.DisplayName: Тукан-спутник
-TumblerPet.DisplayName: Питомец-акробат
+ToucanMinion.DisplayName: Тукан-миньон
+TumblerPet.DisplayName: Ручное перекати-поле
 SunOrb.DisplayName: Солнечный шар
 SunStaffHeld.DisplayName: Солнечный посох
-WheatgrassSeedProjectile.DisplayName: Семя пырея
+WheatgrassSeedProjectile.DisplayName: Семена пырея
 RoyalKhopeshHeld.DisplayName: Королевский хопеш
-Zipline.DisplayName: Канатная дорога
+Zipline.DisplayName: Рельсовая дорога
 RogueKnifeMinion.DisplayName: Ржавый нож
-CactusWallProj.DisplayName: Стена из кактуса
+CactusWallProj.DisplayName: Кактусовая стена
 SkullSentryEye.DisplayName: Глаз черепа-часового
 SkullSentryMucus.DisplayName: Слизь черепа-часового
 SkullSentrySentry.DisplayName: Череп плотоядки
-ZiplineProj.DisplayName: Канатный снаряд
+ZiplineProj.DisplayName: Снаряд рельсовой дороги
 FallingBaobabFruit.DisplayName: Падающий плод баобаба
 RollingCart.DisplayName: Катящаяся вагонетка
-RadonMossBobber.DisplayName: Поплавок из радонового мха
-OganessonMossBobber.DisplayName: Поплавок из оганессонового мха
+RadonMossBobber.DisplayName: Радоновый поплавок
+OganessonMossBobber.DisplayName: Оганессоновый поплавок
 BuffAura.DisplayName: Аура баффа
 WheezerCloud.DisplayName: Ядовитый газ
 Shockwave.DisplayName: Ударная волна
 EnergizedShockwave.DisplayName: Энергитическая ударная волна
-RollingBowlder.DisplayName: Катящаяся булыга
+RollingBowlder.DisplayName: Катящийся булыжник
 Firespike.DisplayName: Огнешип
 CannonBomb.DisplayName: Выстрел бомбопушки
 BigCannonBomb.DisplayName: "{$Mods.SpiritReforged.Projectiles.CannonBomb.DisplayName}"

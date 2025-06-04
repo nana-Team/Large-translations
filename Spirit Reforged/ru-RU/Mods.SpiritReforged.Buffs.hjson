@@ -1,21 +1,21 @@
 EmpoweredSwim: {
-	DisplayName: Водная грация
-	Description: Теперь вода — это ваша стихия
+	DisplayName: Усиленное плавание
+	Description: Вы чувствуете себя гораздо быстрее в воде
 }
 
 MantarayBuff: {
-	DisplayName: Спасательный скат
-	Description: Быстрый, как волна!
+	DisplayName: Скат-спасатель
+	Description: Стремительный, как волна!
 }
 
 JellyfishMinion_Buff: {
 	DisplayName: Медуза
-	Description: Миленькая, упругая медуза сражается за вас!
+	Description: Очаровательная и упругая медуза сражается за вас!
 }
 
 JellyfishPet_Buff: {
 	DisplayName: Дружелюбная медуза
-	Description: Эта медуза просто обожает путешествовать вместе с вами!
+	Description: Эта энергичная медуза обожает сопровождать вас повсюду!
 }
 
 DoubleJumpPotionBuff: {

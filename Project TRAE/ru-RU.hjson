@@ -3,144 +3,150 @@ Mods: {
 		ChangedTooltips: {
 			TitanGlove:
 				'''
-				20% increased melee weapon size and velocity
-				Enables autoswing for melee weapons
+				Увеличивает размер оружия ближнего боя и скорость полёта их снарядов на 20%
+				Включает автоатаку для оружия ближнего боя
 				'''
 			PowerGlove:
 				'''
-				12% increased melee speed
+				Увеличивает скорость атаки ближнего боя на 12%
 				{Mods.TRAEProject.ChangedTooltips.TitanGlove}
 				'''
 			BerserkerGlove:
 				'''
 				{Mods.TRAEProject.ChangedTooltips.PowerGlove}
-				Enemies are more likely to target you
+				Враги чаще выбирают вас в качестве цели
 				'''
 			VolatileGelatin:
 				'''
-				Critical strikes temporarily raise defense
-				When hit, all stored defense is released as damaging gel
-				Limited to 25 extra defense
+				Каждый нанесённый критический удар временно увеличивает защиту на 1 вплоть до максимальной прибавки в 25 ед.
+				При получении урона, вся накопленная от этого аксессуара защита превращается в шары желатина, вылетающие из вас
 				'''
-			BoneHelm: Increases your maximum number of sentries by 1
-			SquireShield: 7% increased melee damage
-			SquireShieldPostOgre: 11% increased melee damage with a full set of Squire Armor
-			SquireShieldPostBetsy: 15% increased melee damage with a full set of Valhalla Knight Armor
-			ApprenticeScarf: 7% increased magic damage
-			ApprenticeScarfPostOgre: 11% increased magic damage with a full set of Apprentice Armor
-			ApprenticeScarfPostBetsy: 15% increased magic damage with a full set of Dark Artist Armor
-			HuntressBuckler: 7% increased ranged damage
-			HuntressBucklerPostOgre: 11% increased ranged damage with a full set of Huntress Armor
-			HuntressBucklerPostBetsy: 15% increased ranged damage with a full set of Red Riding Hood Armor
-			MonkBelt: 7% increased summon damage
-			MonkBeltPostOgre: 11% increased summon damage with a full set of Monk Armor
-			MonkBeltPostBetsy: n15% increased summon damage with a full set of Shinobi Infiltrator Armor
-			Bezoar: Significantly increases potency of friendly Poison and Venom
-			AdhesiveBandage: Increases potency of friendly debuffs by 50%
+			BoneHelm: Увеличивает максимальное количество стражей на 1
+			SquireShield: Увеличивает урон ближнего боя на 7%
+			SquireShieldPostOgre: Увеличивает урон ближнего боя на 11%, если на вас надет полный комплект брони оруженосца
+			SquireShieldPostBetsy: Увеличивает урон ближнего боя на 15%, если на вас надет полный комплект брони Вальхаллы
+			ApprenticeScarf: Увеличивает магический урон на 7%
+			ApprenticeScarfPostOgre: Увеличивает магический урон на 11%, если на вас надет полный комплект брони подмастерья
+			ApprenticeScarfPostBetsy: Увеличивает магический урон на 15%, если на вас надет полный комплект брони мёртвого анархиста
+			HuntressBuckler: Увеличивает стрелковый урон на 7%
+			HuntressBucklerPostOgre: Увеличивает стрелковый урон на 11%, если на вас надет полный комплект брони охотницы
+			HuntressBucklerPostBetsy: Увеличивает стрелковый урон на 15%, если на вас надет полный комплект брони Красной Шапочки
+			MonkBelt: Увеличивает урон призываемых существ на 7%
+			MonkBeltPostOgre: Увеличивает урон призываемых существ на 11%, если на вас надет полный комплект брони монаха
+			MonkBeltPostBetsy: Увеличивает урон призываемых существ на 15%, если на вас надет полный комплект брони синоби-лазутчика
+			Bezoar: Значительно увеличивает урон накладываемых вами дебаффов «Отравлен» и «Кислотный яд»
+			AdhesiveBandage: Увеличивает урон накладываемых вами дебаффов на 50%
 			MedicatedBandage:
 				'''
-				Significantly increases potency of friendly Poison and Venom
-				Increases potency of friendly debuffs by 50%
+				Значительно увеличивает урон накладываемых вами дебаффов «Отравлен» и «Кислотный яд»
+				Увеличивает урон накладываемых вами дебаффов на 50%
 				'''
-			FastClock: Time goes by faster when equipped
+			FastClock: Увеличивает скорость течения времени в мире
 			Nazar:
 				'''
-				Unleashes curses to the wielder and nearby enemies when damaged
-				Curses either deal damage over time, reduce contact damage by 20% or defense by 25
+				При получении урона, навлекает ужасные проклятия на вас и ближайших врагов
+				Проклятия либо наносят периодический урон, либо уменьшают контактный урон на 20%, либо уменьшают защиту на 25 ед.
 				'''
 			CountercurseMantra:
 				'''
-				Provides immunity to a large number of debuffs
-				Unleashes curses to nearby enemies when damaged
+				Даёт невосприимчивость ко многим дебаффам
+				При получении урона, навлекает ужасные проклятия на ближайших врагов
+				Проклятия либо наносят периодический урон, либо уменьшают контактный урон на 20%, либо уменьшают защиту на 25 ед.
 				'''
-			AnkhShield: Grants immunity to knockback and most debuffs
+			AnkhShield: Даёт невосприимчивость к отбрасыванию и большинству дебаффов
 			MechanicalGlove:
 				'''
-				12% increased melee damage and speed
-				Enables autoswing for melee weapons
+				Увеличивает урон и скорость атаки ближнего боя на 12%
+				Включает автоатаку для оружия ближнего боя
 				'''
 			FireGauntlet:
 				'''
 				{Mods.TRAEProject.ChangedTooltips.MechanicalGlove}
-				Melee attacks deal fire damage
-				Melee critical strikes have have a very low chance to incinerate, based on damage dealt
+				Атаки ближнего боя накладывают дебафф «В огне!»
+				Критические удары ближнего боя с небольшим шансом, зависящим от нанесённого урона, могут испепелить врага
 				'''
-			PutridScent: 4% increased damage and critical strike chance
-			DestroyerEmblem: 22% increased critical strike chance
+			PutridScent: Увеличивает урон и шанс критического удара на 4%
+			DestroyerEmblem: Увеличивает шанс критического удара на 22%
 			HeroShield:
 				'''
-				Grants immunity to knockback
-				Enemies are more likely to target you
+				Даёт невосприимчивость к отбрасыванию
+				Враги чаще выбирают вас в качестве цели
 				'''
 			MoltenCharm:
 				'''
-				Minion damage is stored as Fire energy, up to 3000
-				Whip strikes summon a friendly Molten Apparition for every 750 damage stored
+				Наносимый призываемыми существами урон заполняет скрытую шкалу огненной энергии
+				Каждая нанесённая единица урона приравнивается к единице огненной энергии, всего в шкале может храниться до 3000 ед. энергии
+				Удары хлыстом призывают лавовых фантомов, расходуя при этом по 750 ед. энергии
 				'''
-			RoyalGel: Reduces damage of one hit by 25 every 30 seconds
-			MoonCharm: Turns the holder into a werewolf when below 67% health
+			RoyalGel:
+				'''
+				Облачает вас в защитное гелевое покрытие, уменьшающее получаемый урон от одной атаки на 25 ед.
+				После полученния урона, покрытию понадобится 30 секунд на восстановление, перед тем как оно сможет защищать вас снова
+				'''
+			MoonCharm: Превращает вас в оборотня, когда ваш уровень здоровья опускается ниже 67%
 			MoonShell:
 				'''
-				Turns the holder into a werewolf when below 67% life and into a merfolk when entering water
-				Puts a shell around the owner when below 50% life
+				Превращает вас в оборотня, когда ваш уровень здоровья опускается ниже 67% и в мерфолка, когда вы находитесь в жидкостях
+				Окружает защитным панцирем, когда ваш уровень здоровья опускается ниже 50%
 				'''
 			CelestialStone:
 				'''
-				8% increased damage
-				2% increased critical strike chance
-				5% increased melee speed
-				10% increased mining speed and reduced ammo usage
-				Increases defense by 4
-				Increases mana by 20
-				Increases life regen by 0.5 per second
+				Увеличивает урон на 8%
+				Увеличивает шанс критического удара на 2%
+				Увеличивает скорость атаки ближнего боя на 5%
+				Увеличивает скорость копания блоков и шанс не потратить боеприпасы на 10%
+				Увеличивает защиту на 4
+				Увеличивает запас максимальной маны на 20
+				Увеличивает скорость регенерации здоровья на 0,5 ед./сек.
 				'''
 			SunStone:
 				'''
-				Increases all stats as life increases
-				Maxes out above 75% life:
+				Увеличивает все характеристики тем сильнее, чем больше ваш уровень здоровья
+				Даёт следующие максимальные прибавки, когда ваш уровень здоровья выше 75%:
 				{Mods.TRAEProject.ChangedTooltips.CelestialStone}
 				'''
 			MoonStone:
 				'''
-				Increases all stats as life goes down
-				Maxes out below 50% life:
+				Увеличивает все характеристики тем сильнее, чем меньше ваш уровень здоровья
+				Даёт следующие максимальные прибавки, когда ваш уровень здоровья ниже 50%:
 				{Mods.TRAEProject.ChangedTooltips.CelestialStone}
 				'''
 			CelestialShell:
 				'''
-				Turns into holder into a merfolk when entering water
+				Превращает вас в мерфолка, когда вы находитесь в жидкостях
 				{Mods.TRAEProject.ChangedTooltips.CelestialStone}
 				'''
-			NecromanticScroll: 13% increased critical strike chance for minions
-			HerculesBeetle: Increases your maximum number of sentries by 1
+			NecromanticScroll: Увеличивает шанс критического удара призываемых существ на 13%
+			HerculesBeetle: Увеличивает максимальное количество стражей на 1
 			PapyrusScarab:
 				'''
-				Increases your max number of minions and sentries by 1
-				5% increased critical strike chance for minions
+				Увеличивает максимальное количество миньонов и стражей на 1
+				Увеличивает шанс критического удара призываемых существ на 5%
 				'''
-			ShinyStone: Increases life regeneration by 2hp/s when on the ground
+			ShinyStone: Увеличивает регенерацию здоровья на 2 ед./сек., пока вы находитесь на земле
 			MagicCuffs: 
 				'''
-				Restores mana when damaged
-				Can go over maximum mana
+				Даёт ману при получении урона
+				Полученная таким способом мана может накапливаться поверх вашего максимального запаса
 				'''
 			CelestialCuffs:
 				'''
-				Increases maximum mana by 60
-				Restores mana when damaged
-				Increases pickup range for mana stars
-				Mana stars and mana restored by the item can go over maximum mana
+				Увеличивает максимальный запас маны на 60
+				Даёт ману при получении урона
+				Увеличивает дальность подбора звёзд маны
+				Мана, полученная подбором звёзд или получением урона, может накапливаться поверх вашего максимального запаса
 				'''
-			Shackle: Temporarily increases defense when damaged
-			CrossNecklace: More effective on strong hits
+			Shackle: Увеличивает защиту на некоторое время после получения урона
+			CrossNecklace: Чем больше урона за раз вы получите, тем дольше будет длиться неуязвимость
 			MoltenQuiver:
 				'''
-				Your arrows will bounce towards nearby enemies, losing 33% damage in the process
-				Arrows inflict fire damage, with a very low chance to incinerate on a critical strike
-				Lights wooden arrows ablaze
-				Quiver in fear!				
+				Ваши стрелы будут отскакивать в ближайших врагов после попадания по другому врагу или блоку, теряя с каждым отскоком 33% своего урона
+				Стрелы накладывают дебафф «В огне!»
+				Критические стрелковые попадания с небольшим шансом, зависящим от нанесённого урона, могут испепелить врага
+				Превращает деревянные стрелы в огненные
+				«Слова без дел, как колчан без огненных стрел»	
 				'''
-			MagmaStone: Melee critical strikes have have a very low chance to incinerate, based on damage dealt
+			MagmaStone: Критические удары ближнего боя с небольшим шансом, зависящим от нанесённого урона, могут испепелить врага
 			MoltenSkullRose:
 				'''
 				Attacks inflict fire damage

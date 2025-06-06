@@ -6,7 +6,7 @@ JellyfishBolt.DisplayName: Электрический разряд
 JellyfishMinion.DisplayName: Маленькая медуза
 ReefWrathProj.DisplayName: Коралловая ярость
 JellyfishPet.DisplayName: Ручная медуза
-FairyMinion.DisplayName: Фея-спутник
+FairyMinion.DisplayName: Фея-миньон
 FairyProj.DisplayName: Магический заряд
 StarPowderProj.DisplayName: Звёздная пыль
 ButterflyMinion.DisplayName: Эфирная бабочка
@@ -26,8 +26,8 @@ SkullSentrySentry.DisplayName: Череп плотоядки
 ZiplineProj.DisplayName: Снаряд рельсовой дороги
 FallingBaobabFruit.DisplayName: Падающий плод баобаба
 RollingCart.DisplayName: Катящаяся вагонетка
-RadonMossBobber.DisplayName: Радоновый поплавок
-OganessonMossBobber.DisplayName: Оганессоновый поплавок
+RadonMossBobber.DisplayName: Поплавок с радоновым мхом
+OganessonMossBobber.DisplayName: Поплавок с огнессоновым мхом
 BuffAura.DisplayName: Аура баффа
 WheezerCloud.DisplayName: Ядовитый газ
 Shockwave.DisplayName: Ударная волна

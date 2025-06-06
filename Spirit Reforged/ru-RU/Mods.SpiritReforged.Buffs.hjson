@@ -10,7 +10,7 @@ MantarayBuff: {
 
 JellyfishMinion_Buff: {
 	DisplayName: Медуза
-	Description: Очаровательная и упругая медуза сражается за вас!
+	Description: Миленькая, и упругая медуза сражается за вас!
 }
 
 JellyfishPet_Buff: {
@@ -25,12 +25,12 @@ DoubleJumpPotionBuff: {
 
 FlightPotionBuff: {
 	DisplayName: Парение
-	Description: Увеличивает время полёта на 25%
+	Description: Время полёта увеличено на 25%
 }
 
 BottleMountBuff: {
 	DisplayName: Плот
-	Description: Посылаем сигнал бедствия...
+	Description: Посылает сигнал бедствия
 }
 
 FairyMinion_Buff: {
@@ -40,12 +40,12 @@ FairyMinion_Buff: {
 
 Impaled: {
 	DisplayName: Пронзён
-	Description: Вас пронзили пикой! Ай!
+	Description: Вас пронзили пикой. Ай!
 }
 
 KoiTotemBuff: {
 	DisplayName: Тотем кои
-	Description: Увеличивает мастерство рыбалки
+	Description: Навык рыбной ловли увеличен
 }
 
 ButterflyMinion_Buff: {
@@ -60,7 +60,7 @@ ToucanMinion_Buff: {
 
 QuenchPotion_Buff: {
 	DisplayName: Пресыщение
-	Description: Другие зелья длятся на 25% дольше
+	Description: Длительность действия остальных зелий увеличена на 25%
 }
 
 TumblerPet_Buff: {
@@ -70,12 +70,12 @@ TumblerPet_Buff: {
 
 Frozen: {
 	DisplayName: "{$BuffName.Frozen}"
-	Description: Снижает скорость передвижения врагов
+	Description: Скорость передвижения врагов снижена
 }
 
 GildedScarabBuff: {
 	DisplayName: Скарабейный щит
-	Description: Увеличивает защиту на {0} ед.
+	Description: Защита увеличена на {0} ед.
 }
 
 PoolNoodleBubbleBuff: {
@@ -90,12 +90,12 @@ ExplorerSpeed: {
 
 RemedyPotionBuff: {
 	DisplayName: Исцеление
-	Description: Даёт невосприимчивость к некоторым вредным эффектам
+	Description: Невосприимчивость к некоторым негативным эффектам
 }
 
 OpenWounds: {
 	DisplayName: Открытые раны
-	Description: Вы уязвимы к кровотечению
+	Description: Вы подвержены кровотечению
 }
 
 ExplorerPot: {
@@ -104,6 +104,6 @@ ExplorerPot: {
 }
 
 ExplorerMine: {
-	DisplayName: Силы исследователя
+	DisplayName: Сила исследователя
 	Description: Прододлжайте копать!
 }

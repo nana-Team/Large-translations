@@ -28,7 +28,7 @@ Records: {
 }
 
 SunkenTreasureTile.MapEntry: "{$Items.SunkenTreasure.DisplayName}"
-HydrothermalVent.MapEntry: Гидротермальный источник
+HydrothermalVent.MapEntry: Гидротермальное жерло
 CoralMapEntry: Коралл
 KelpMapEntry:"{$Items.Kelp.DisplayName}"
 GarInAJar_Tile.MapEntry: "{$Items.GarInAJar.DisplayName}"

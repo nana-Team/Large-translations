@@ -10,7 +10,7 @@ SlotContexts.Backpack: Рюкзак
 Conditions: {
 	InSavanna: В саванне
 	PeevedTumbler: Когда блестит
-	Discovered: Обнаружено
+	Discovered: Когда обнаружен
 	Submerged: Полностью погружённый в воду
 }
 

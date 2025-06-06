@@ -27,7 +27,7 @@ RawFish: {
 	Tooltip:
 		'''
 		{$BuffDescription.WellFed}
-		«Она съедобна... может, лучше сначала её приготовить?»
+		«Она съедобна... но может, лучше сначала её приготовить?»
 		'''
 }
 
@@ -99,7 +99,7 @@ Lifesaver: {
 	DisplayName: Спасатель
 	Tooltip:
 		'''
-		Призывает ездового ската манту
+		Призывает ездового ската-манту
 		Манта не может передвигаться по суше, но умеет парить над жидкостями
 		'''
 }
@@ -193,7 +193,7 @@ FishChips: {
 }
 
 CrystalFish: {
-	DisplayName: Кристальный лосось
+	DisplayName: Кристаллизованный лосось
 	Tooltip:
 		'''
 		{$BuffDescription.WellFed2}
@@ -203,7 +203,7 @@ CrystalFish: {
 
 RawMeat: {
 	DisplayName: Сырое мясо
-	Tooltip: «Она съедобна... может, лучше сначала её приготовить?»
+	Tooltip: «Оно съедобно... но может, лучше сначала её приготовить?»
 }
 
 CookedMeat: {
@@ -345,12 +345,12 @@ DriftwoodWallItem: {
 }
 
 Cloudstalk: {
-	DisplayName: Облакостебель
+	DisplayName: Облачник
 	Tooltip: «Встречается на большой высоте»
 }
 
 CloudstalkSeed: {
-	DisplayName: Семена облакостебля
+	DisplayName: Семена облачника
 	Tooltip: ""
 }
 
@@ -365,7 +365,7 @@ FlightPotion: {
 }
 
 HangingCloudstalkItem: {
-	DisplayName: Свисающий облакостебель
+	DisplayName: Свисающий облачник
 	Tooltip: ""
 }
 
@@ -383,7 +383,7 @@ Ambergris: {
 	DisplayName: Амбра
 	Tooltip:
 		'''
-		Чрезвычайно ценная
+		Крайне ценный ресурс
 		«Вы не хотите знать её происхождение»
 		'''
 }
@@ -393,7 +393,7 @@ MessageBottle: {
 	Tooltip:
 		'''
 		Призывает ездовой плот
-		Нахождение на плоту увеличивает мастерство рыбалки
+		Нахождение на плоту увеличивает навык рыбной ловли
 		'''
 }
 
@@ -453,7 +453,7 @@ ButterflyStaff: {
 	Tooltip:
 		'''
 		Призывает магическую бабочку сражаться за вас
-		«Рождена в порыве весеннего цветения»
+		«Создан из безупречного цветка сакуры»
 		'''
 }
 
@@ -461,7 +461,7 @@ PoolNoodle: {
 	DisplayName: Нудл
 	Tooltip:
 		'''
-		Увеличивает урон призываемых существ на 3
+		3 ед. урона от метки призывателя
 		{$CommonItemTooltip.Whips}
 		Поражённые враги могут выпускать взрывы пузырей при атаке миньонов
 		'''
@@ -523,12 +523,12 @@ LeatherBackpack: {
 
 Caryocar: {
 	DisplayName: Кариокар
-	Tooltip: ""
+	Tooltip: "{$BuffDescription.WellFed}"
 }
 
 CustardApple: {
 	DisplayName: Сахарное яблоко
-	Tooltip: ""
+	Tooltip: "{$BuffDescription.WellFed}"
 }
 
 BeachUmbrellaItem: {
@@ -929,7 +929,7 @@ GravelItem: {
 }
 
 MagmastoneItem: {
-	DisplayName: Магматический камень
+	DisplayName: Магмалит
 	Tooltip: ""
 }
 
@@ -976,7 +976,7 @@ ZiplineGun: {
 	Tooltip:
 		'''
 		Создаёт рельсы в точке, на которую указывает курсор, позволяя игрокам перемещаться
-		Рельсы можно удалить, наведя на них курсор или нажав <right>
+		Рельсы можно удалить, наведя на них курсор или нажав ПКМ
 		«Не путать с рельсотроном»
 		'''
 	AssistantOn: Нажмите ПКМ, чтобы включить ассистента
@@ -1298,7 +1298,7 @@ RemedyPotion: {
 }
 
 CloudstalkBoxItem: {
-	DisplayName: Кадка для облакостебля
+	DisplayName: Кадка для облачника
 	Tooltip: ""
 }
 
@@ -1691,12 +1691,12 @@ CommonPotsGraniteItem: {
 }
 
 OganessonBobber: {
-	DisplayName: Оганессоновый поплавок
+	DisplayName: Поплавок с оганессоновым мхом
 	Tooltip: "{$ItemTooltip.FishingBobberGlowingArgon}"
 }
 
 RadonBobber: {
-	DisplayName: Радоновый поплавок
+	DisplayName: Поплавок с радоновым мхом
 	Tooltip: "{$ItemTooltip.FishingBobberGlowingArgon}"
 }
 

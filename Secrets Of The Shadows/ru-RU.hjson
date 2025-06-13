@@ -1,5 +1,5 @@
 # The Russian localization clarifies that it is the chest that is cursed. Since this line is used in the description of other items in the SOTS, it is rewritten here
-LegacyTooltip.59: Проклят могущественным существом джунглей
+// LegacyTooltip.59: It has been cursed by a powerful Jungle creature
 
 Mods: {
 	SOTS: {
@@ -318,7 +318,7 @@ Mods: {
 
 			CharredWood: {
 				DisplayName: Обугленная древесина
-				Tooltip: «Слишком обгоревшая, чтобы её можно было использовать»
+				Tooltip: «Слишком обгоревшая, чтобы ею можно было использовать»
 			}
 
 			CharredWoodWall: {
@@ -1021,7 +1021,7 @@ Mods: {
 				DisplayName: Золотой мастерок
 				Tooltip:
 					'''
-					Во время добычи блоков у вас есть шанс получить доплонительные ресурсы, такие как ил и монеты
+					Во время добычи блоков у вас есть шанс получить доплонительные ресурсы, такие как ил или монеты
 					Увеличивает скорость добычи на 5%
 					'''
 			}
@@ -1037,11 +1037,11 @@ Mods: {
 
 			SkipShard: {
 				DisplayName: Гиперскачковый осколок
-				Tooltip: «Кристалл, обладающей удивительной способностью изгибания пространства»
+				Tooltip: «Кристалл, обладающей удивительной способностью изгибать пространство»
 			}
 
 			SkipSoul: {
-				DisplayName: Упущенная душа
+				DisplayName: Душа перемещения
 				Tooltip: «Фрагмент странной пустотной энергии»
 			}
 
@@ -1513,7 +1513,7 @@ Mods: {
 			}
 
 			EchoDisk: {
-				DisplayName: Эхо-диск
+				DisplayName: Эхо диск
 				Tooltip: Удараяет дополнительным диском, копирующим первый
 			}
 
@@ -1767,48 +1767,48 @@ Mods: {
 			}
 
 			DissolvingElement: {
-				DisplayName: Иссекающий элемент природы
+				DisplayName: Иссякающий элемент природы
 				# Fragments
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingNature: {
-				DisplayName: Иссекающий элемент природы
+				DisplayName: Иссякающий элемент природы
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingEarth: {
-				DisplayName: Иссекающий элемент земли
+				DisplayName: Иссякающий элемент земли
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingAurora: {
-				DisplayName: Иссекающий элемент зари
+				DisplayName: Иссякающий элемент зари
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingDeluge: {
-				DisplayName: Иссекающий элемент потопа
+				DisplayName: Иссякающий элемент потопа
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingAether: {
-				DisplayName: Иссекающий элемент эфира
+				DisplayName: Иссякающий элемент эфира
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingUmbra: {
-				DisplayName: Иссекающий элемент тени
+				DisplayName: Иссякающий элемент тени
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingNether: {
-				DisplayName: Иссекающий элемент незера
+				DisplayName: Иссякающий элемент незера
 				Tooltip: Temporary Tooltip
 			}
 
 			DissolvingBrilliance: {
-				DisplayName: Иссекающий элемент блеска
+				DisplayName: Иссякающий элемент блеска
 				Tooltip: Temporary Tooltip
 			}
 
@@ -3838,126 +3838,126 @@ Mods: {
 
 			ChaosSpiritStaff: {
 				# SpiritStaves
-				DisplayName: Chaos Spirit Staff
+				DisplayName: Посох духа хаоса
 				# SpiritStaves
 				Tooltip:
 					'''
-					Summons a Chaos Spirit to fight for you
-					Locks onto one enemy at a time
+					Призывает духа хаоса сражаться за вас
+					Атакаут одного врага за раз
 					'''
 			}
 
 			EarthenSpiritStaff: {
-				DisplayName: Earthen Spirit Staff
-				Tooltip: Summons an Earthen Spirit to fight for you
+				DisplayName: Посох духа земли
+				Tooltip: Призывает духа земли сражаться за вас
 			}
 
 			EvilSpiritStaff: {
-				DisplayName: Evil Spirit Staff
+				DisplayName: Псосх духа зла
 				Tooltip:
 					'''
-					Summons an Evil Spirit to fight for you
-					Attacks with a flurry of Evil Bolts, dealing 50% damage each
-					Ends in an explosion that deals 100% damage, always critical strikes
+					Призывает духа зла сражаться за вас
+					Атакует множеством снарядов зла, каждый из которых наносит 50% урона
+					Дух заканчивает свою атаку взрывом, который всегда является критическим и наносит 100% урона
 					'''
 			}
 
 			InfernoSpiritStaff: {
-				DisplayName: Inferno Spirit Staff
+				DisplayName: Посох духа адского пламени
 				Tooltip:
 					'''
-					Summons an Inferno Spirit to fight for you
-					Attacks up to 7 enemies at a time
+					Призывает духа адского пламени сражаться за вас
+					Атакует до 7 врагов за раз
 					'''
 			}
 
 			NatureSpiritStaff: {
-				DisplayName: Nature Spirit Staff
+				DisplayName: Посох духа природы
 				Tooltip:
 					'''
-					Summons an Nature Spirit to fight for you
-					Attacks the closest enemy visible to you
-					Heals health upon dealing damage
+					Призывает духа природы сражаться за вас
+					Атакует ближайшего видимого врага
+					Дух исцеляет вас каждым своим ударом
 					'''
 			}
 
 			OtherworldlySpiritStaff: {
-				DisplayName: Посох потустороннего духа
+				DisplayName: Посох духа эфира
 				Tooltip:
 					'''
-					Призывает потустороннего духа сражаться за вас
-					Заряжает до 4 громовых зарядов, которыми они быстро и последовательно выстреливает во врагов
+					Призывает духа эфира сражаться за вас
+					Заряжает до 4 громовых зарядов, которыми он быстро и последовательно выстреливает во врагов
 					'''
 			}
 
 			PermafrostSpiritStaff: {
-				DisplayName: Permafrost Spirit Staff
+				DisplayName: Посох духа вечной стужи
 				Tooltip:
 					'''
-					Summons an Permafrost Spirit to fight for you
-					Launches 3 permafrost spears downwards at enemies
+					Призывает духа вечной стужи сражаться за вас
+					Дух парит над врагами, запуская в них 3 ледяных копья
 					'''
 			}
 
 			TidalSpiritStaff: {
-				DisplayName: Tidal Spirit Staff
-				Tooltip: Summons an Tidal Spirit to fight for you
+				DisplayName: Посох духа прилива
+				Tooltip: Призывает духа прилива сражаться за вас
 			}
 
 			Helios: {
 				# Temple
-				DisplayName: Helios
+				DisplayName: Гелиос
 				# Temple
 				Tooltip:
 					'''
-					Attacks scorch with each hit, increasing damage done by 3% permanently
-					Stacks up to 5 times
-					Launches waves that deal 40% damage
+					Атакуя врагов, вы сжигаете их душу, что увеличвает урон по ним на 3% за удар
+					Этот эффект складывается до 5 раз
+					Запускает волны, наносящие 40% урона
 					'''
 			}
 
 			LihzahrdTail: {
-				DisplayName: Lihzahrd Tail
+				DisplayName: Хвост ящера
 				Tooltip:
 					'''
-					Increases buff duration by 67%
-					Increases healing and mana received from potions by 50
+					Увеличивает продолжительность баффов на 67%
+					Зелья здоровья и маны восстанавливают на 50 ед. ресурса больше
 					'''
 			}
 
 			Pyrocide: {
-				DisplayName: Pyrocide
+				DisplayName: Пироксаэдр
 				Tooltip:
 					'''
-					Strike with 5 slashes
-					The final slash does 150% damage
+					Ударяет 5 раз
+					Последний взмах наносит 150% урона
 					'''
 			}
 
 			Revolution: {
-				DisplayName: Revolution
-				Tooltip: Does not consume void during the night
+				DisplayName: Революция
+				Tooltip: Не потребляет пустоту во время ночи
 			}
 
 			SolarBullet: {
-				DisplayName: Solar Bullet
+				DisplayName: Солнечная пуля
 				Tooltip:
 					'''
-					Penetrates 50% of enemy defense
-					Increases in speed after bouncing off walls
+					Пробивает 50% защиты врага
+					После отскока от блока увеличивает скорость
 					'''
 			}
 
 			SupernovaScatter: {
-				DisplayName: Supernova Scatter
-				Tooltip: Launches small stars that explode into bullets
+				DisplayName: Расщепитель сверхновой
+				Tooltip: Запускает маленькие звёзды, которые взрываются пулями
 			}
 
 			ArkhalisChain: {
 				# Tide
-				DisplayName: Lost Chain
+				DisplayName: Потерянная цепь
 				# Tide
-				Tooltip: "'It probably didn't come from here'"
+				Tooltip: «Скорее всего из другого места»
 			}
 
 			BlueJellyfishStaff: {
@@ -3976,15 +3976,15 @@ Mods: {
 			}
 
 			HeartOfTheSea: {
-				DisplayName: Heart of the Sea
+				DisplayName: Сердце моря
 				Tooltip:
 					'''
-					Release waves of damage periodically
-					Release more waves at lower health
-					Waves ignore up to 8 defense
-					Increases max life by 20
-					Waves disabled when hidden
-					'Death by heartbeat'
+					Переодически выпускает волны, наносящие урон
+					Чем ниже ваше здоровье, тем больше волн выпускается
+					Волны игнорируют 8 ед. защиты
+					Увеличивает максимум здоровья на 20 ед.
+					Если видимость аксессуара отключена, то волны не выпускаются
+					«Смерть от стука сердца»
 					'''
 			}
 
@@ -4004,7 +4004,7 @@ Mods: {
 			}
 
 			PistolShrimp: {
-				DisplayName: Pistol Shrimp
+				DisplayName: Креветка и пистолет
 				Tooltip:
 					'''
 					Fires hot, shrimpy plasma that homes on close enemies
@@ -4013,24 +4013,24 @@ Mods: {
 			}
 
 			PlasmaShrimp: {
-				DisplayName: Plasma Shrimp
+				DisplayName: Плазменная креветка
 				Tooltip:
 					'''
-					When above 40% mana, magic weapons fire additional, hot, shrimpy plasma for 50% damage
-					Reduces mana cost by 5%
+					ПОка у вас больше 40% маны, магические оружия запусскают, hot, shrimpy plasma for 50% damage
+					Уменьшает потребление маны на 5%
 					'Not so shrimple now'
 					'''
 			}
 
 			PrismarineNecklace: {
-				DisplayName: Prismarine Necklace
+				DisplayName: Призмариновое ожерелье
 				Tooltip:
 					'''
-					Increases armor penetration by 8 and max life by 20
-					Release waves of damage periodically
-					Release more waves at lower health
-					Waves ignore up to 16 defense total
-					Waves disabled when hidden
+					Увеличивает пробивание брони на 8 и максимум здоровья на 20 ед.
+					Переодически выпускает волны, наносящие урон
+					Чем ниже ваше здоровье, тем больше волн выпускается
+					Волны игнорируют 16 ед. защиты
+					Если видимость аксессуара отключена, то волны не выпускаются
 					'''
 			}
 
@@ -4045,11 +4045,11 @@ Mods: {
 			}
 
 			Riptide: {
-				DisplayName: Riptide
+				DisplayName: Волнвзрез
 				Tooltip:
 					'''
-					Right click while in water or rain to launch yourself forward, doing 120% damage
-					Immunity to fall damage while held
+					Нажмите ПКМ, находясь под водой или во время дождя, чтобы запусстить себя вперёд, нанося 120% урона
+					Пока вы держите этот вредмет, вы не получаете урона от падения
 					'''
 			}
 
@@ -4075,8 +4075,8 @@ Mods: {
 			}
 
 			Earthshaker: {
-				DisplayName: Earthshaker
-				Tooltip: Launch a long ranged pickaxe which is capable of breaking many blocks at a time
+				DisplayName: Землетряситель
+				Tooltip: Запускает кирку, способную ломать множество блоков, на большую дистанцию
 			}
 
 			FrigidPickaxe: {
@@ -4090,18 +4090,18 @@ Mods: {
 			}
 
 			MinersPickaxe: {
-				DisplayName: Miner's Pickaxe
-				Tooltip: "'Finally, throwing pickaxe'"
+				DisplayName: Кирка копателя
+				Tooltip: «Наконец-то, бросаемая кирка»
 			}
 
 			PyramidGenerator: {
-				DisplayName: Pyramid Generation Demonstrator
+				DisplayName: Демонстратор генерации пирамиды
 				Tooltip:
 					'''
-					Development tool, NOT MEANT FOR GAMEPLAY
-					Using this may generate a whole pyramid on your cursor, step-by-step
-					Right clicking will literally make your world vanish
-					Whatever the case, it's probably best not to use it
+					Инструмент разработки, НЕ ПРЕДНАЗНАЧЕН ДЛЯ ГЕЙМПЛЕЯ
+					Использование этого предмета шаг за шагом сгенерирует всю пирамиду под вашим крусором
+					Нажатие ПКМ буквально удалит ваш мир
+					Какой бы ни была причина, лучше его не использовать
 					'''
 			}
 
@@ -5667,7 +5667,7 @@ Mods: {
 			}
 
 			AVPot: {
-				DisplayName: Горшрз заброшенной деревни
+				DisplayName: AV Pot
 				Tooltip: ""
 			}
 
@@ -5677,7 +5677,7 @@ Mods: {
 			}
 
 			AVAmbient: {
-				DisplayName: Фоновый объект заброшенной деревни
+				DisplayName: AV Ambient
 				Tooltip: ""
 			}
 
@@ -5712,20 +5712,20 @@ Mods: {
 			}
 
 			CorruptionSoot: {
-				DisplayName: Эбонитовый сланец
+				DisplayName: Ebonslate Block
 				Tooltip:
 					'''
-					Первобытная масса искажённого камня
-					Не может быть очищен, но также и не распространяет искажение
+					A primordial mass of corrupt stone
+					Although it cannot be purified, it will also not spread the Corruption
 					'''
 			}
 
 			CrimsonSoot: {
-				DisplayName: Багряный сланец
+				DisplayName: Crimslate Block
 				Tooltip:
 					'''
-					Первобытная масса багряного камня
-					Не может быть очищен, но также и не распространяет багрянец
+					A primordial mass of crimson stone
+					Although it cannot be purified, it will also not spread the Crimson
 					'''
 			}
 
@@ -5750,8 +5750,8 @@ Mods: {
 			}
 
 			AcidicInjection: {
-				DisplayName: Инъекция чрезмерности
-				Tooltip: Удваивает первое наложеение любого склаывающегося дебаффа
+				DisplayName: Overkill Injection
+				Tooltip: The first application of any stackable debuff is doubled
 			}
 
 			EarthenGizmoBanner: {
@@ -5784,20 +5784,20 @@ Mods: {
 			}
 
 			CorruptionSootWall: {
-				DisplayName: Стена эбонитового сланца
+				DisplayName: Ebonslate Wall
 				Tooltip:
 					'''
-					Первобытная масса искажённого камня
-					Не может быть очищена, но также и не распространяет искажение
+					A primordial mass of corrupt stone
+					Although it cannot be purified, it will also not spread the Corruption
 					'''
 			}
 
 			CrimsonSootWall: {
-				DisplayName: Стена багряного сланца
+				DisplayName: Crimslate Wall
 				Tooltip:
 					'''
-					Первобытная масса багрянец камня
-					Не может быть очищена, но также и не распространяет багрянец
+					A primordial mass of crimson stone
+					Although it cannot be purified, it will also not spread the Crimson
 					'''
 			}
 
@@ -5855,13 +5855,13 @@ Mods: {
 				Tooltip:
 					'''
 					Стреляет кластерными бомбами-факелами, взрывающися самонаводящемися факелами
-					Нажмите ПКМ, чтобы выпустить бомбу-факел меньшего размера, не расходующую ни пустоты, ни боеприпасов
+					Нажмите ПКМ, чтобы выпустить бомбу-факел меньшего размера, не расходующую ни пустоту, ни боеприпасы
 					Использует бомбы-факелы в качестве боеприпасов
 					'''
 			}
 
 			AVMusicBox: {
-				DisplayName: Музыкальная шкатулка (Заброшенная деревня)
+				DisplayName: Abandoned Village Surface Music Box
 				Tooltip: ""
 			}
 
@@ -5880,11 +5880,11 @@ Mods: {
 			}
 
 			AncientSteelLantern: {
-				DisplayName: Фонарь из древней стали
+				DisplayName: Ancient Steel Lantern
 				Tooltip:
 					'''
-					Призывает стальной фонарь в месте вашего курсора, который стреляет огнями в ближайших врагов
-					Радиус действия масштабируется от урона призывателя
+					Summons a Steel Lantern on your cursor that releases flames at all nearby enemies
+					Range scales with summon damage
 					'''
 			}
 
@@ -6028,7 +6028,7 @@ Mods: {
 			}
 
 			AVMinesMusicBox: {
-				DisplayName: Музыкальная шкатулка (Подземная заброшенная деревня)
+				DisplayName: Abandoned Village Underground Music Box
 				Tooltip: ""
 			}
 
@@ -6072,7 +6072,7 @@ Mods: {
 			}
 
 			PinkyTestTubeItem: {
-				DisplayName: Неудачный эксперемент
+				DisplayName: Failed Experiment
 				Tooltip: ""
 			}
 
@@ -6107,31 +6107,31 @@ Mods: {
 			}
 
 			AccretionDisc: {
-				DisplayName: Аккреционный диск
+				DisplayName: Accretion Disc
 				Tooltip:
 					'''
-					Наносит наибольший урон на краю своей тракетории, создавая сингулярность на кототкое время, игнорирующую защиту
-					Коллапс сингулярности разбрасывает самонаводящиеся частицы во все стороны
+					Deals more damage at the peak of its trajectory, creating a short-lived singularity that ignores defense
+					Scatters homing particles after the singularity collapses
 					'''
 			}
 
 			EarthenChestplate: {
-				DisplayName: Земляной нагрудник
-				Tooltip: Увеличивает скорость передвижения и добычи на 10%
+				DisplayName: Earthen Chestplate
+				Tooltip: Increases mining speed and movement speed by 10%
 			}
 
 			EarthenHelmet: {
-				DisplayName: Земляной шлем
+				DisplayName: Earthen Helmet
 				Tooltip:
 					'''
-					Улучшает зрение и излучает свет
-					Увеличивает скорость передвижения и добычи на 10%
+					Improves vision and provides light when worn
+					Increases mining speed and movement speed by 10%
 					'''
 			}
 
 			EarthenLeggings: {
-				DisplayName: Земляные поножи
-				Tooltip: Увеличивает скорость передвижения и добычи на 10%
+				DisplayName: Earthen Leggings
+				Tooltip: Increases mining speed and movement speed by 10%
 			}
 
 			InvidiaChest: {
@@ -6708,12 +6708,12 @@ Mods: {
 			}
 
 			StreetCleaner: {
-				DisplayName: Дворник
-				Tooltip: Игнорирует защиту врага
+				DisplayName: Street Cleaner
+				Tooltip: Ignores enemy defense
 			}
 
 			SanctuaryMusicBox: {
-				DisplayName: Музыкальная шкатулка (Планетарий)
+				DisplayName: Sanctuary Music Box
 				Tooltip: ""
 			}
 
@@ -6847,8 +6847,8 @@ Mods: {
 			}
 
 			CapturedHeart: {
-				DisplayName: Захваченное сердце
-				Tooltip: Призывает ездовую одержимую вагонетку
+				DisplayName: Captured Heart
+				Tooltip: Summons a possessed minecart mount
 			}
 
 			CoalCartBanner: {
@@ -6898,6 +6898,16 @@ Mods: {
 					Strike with 6 slashes, then toss a spinning blade for 100% damage
 					Each slash will additionally call down a blade from the sky
 					'''
+			}
+
+			TideChain: {
+				// DisplayName: Tide Chain
+				// Tooltip: ""
+			}
+
+			BWand: {
+				// DisplayName: B. Wand
+				// Tooltip: ""
 			}
 		}
 
@@ -7545,7 +7555,7 @@ Mods: {
 			HardlightFabricatorTile.MapEntry: Hardlight Fabricator
 			HardlightTableTile.MapEntry: Hardlight Table
 			PotGeneratorTile.MapEntry: Pot Generator
-			SkyPots.MapEntry: Горшок
+			SkyPots.MapEntry: Pot
 			SkyChainTile.MapEntry: Sky Chain
 			TransmutationAltarTile.MapEntry: Transmutation Altar
 			AvaritianGatewayTile.MapEntry: Strange Gateway
@@ -7572,35 +7582,35 @@ Mods: {
 			EnchantedPickShrineTile.MapEntry: Pickaxe Shrine
 			EnchantedSwordShrineTile.MapEntry: Sword Shrine
 			MineralariumTile.MapEntry: Mineralarium
-			HydraulicPressTile.MapEntry: Гидравлический пресс
+			HydraulicPressTile.MapEntry: Hydraulic Press
 
 			AncientGoldDoorClosed: {
-				MapEntry: Дверь
-				DisplayName: Дверь
+				MapEntry: Дверь из древнего золота
+				DisplayName: Дверь из древнего золота
 			}
 
 			AncientGoldDoorOpen: {
-				MapEntry: Дверь
-				DisplayName: Дверь
+				MapEntry: Дверь из древнего золота
+				DisplayName: Дверь из древнего золота
 			}
 
-			EarthenPlatingBlastDoorTileClosed.MapEntry: Дверь
-			EarthenPlatingBlastDoorTileOpen.MapEntry: Дверь
+			EarthenPlatingBlastDoorTileClosed.MapEntry: Earthen Plating Blast Door
+			EarthenPlatingBlastDoorTileOpen.MapEntry: Earthen Plating Blast Door
 
 			GoopwoodDoorClosed: {
-				MapEntry: Дверь
-				DisplayName: Дверь
+				MapEntry: Дверь из липкого дерева
+				DisplayName: Дверь из липкого дерева
 			}
 
 			GoopwoodDoorOpen: {
-				MapEntry: Дверь
-				DisplayName: Дверь
+				MapEntry: Дверь из липкого дерева
+				DisplayName: Дверь из липкого дерева
 			}
 
-			NaturePlatingBlastDoorTileClosed.MapEntry: Дверь
-			NaturePlatingBlastDoorTileOpen.MapEntry: Дверь
-			PermafrostPlatingBlastDoorTileClosed.MapEntry: Дверь
-			PermafrostPlatingBlastDoorTileOpen.MapEntry: Дверь
+			NaturePlatingBlastDoorTileClosed.MapEntry: Nature Plating Blast Door
+			NaturePlatingBlastDoorTileOpen.MapEntry: Nature Plating Blast Door
+			PermafrostPlatingBlastDoorTileClosed.MapEntry: Permafrost Plating Blast Door
+			PermafrostPlatingBlastDoorTileOpen.MapEntry: Permafrost Plating Blast Door
 
 			GemChestTile: {
 				MapEntry0: Самоцветный сундук
@@ -7619,71 +7629,72 @@ Mods: {
 				MapEntry13: Закрытый самоцветный сундук
 			}
 
-			OtherworldCrateTile.MapEntry: Потусторонний ящик
+			OtherworldCrateTile.MapEntry: Otherworld Crate Tile
 			PlanetariumCrateTile.MapEntry: Ящик Планетария
-			ChaosConduitTile.MapEntry: Хаотичное покрытие
-			OtherworldConduitTile.MapEntry: Потустороннее покрытие
-			EvilConduitTile.MapEntry: Злое покрытие
-			InfernoConduitTile.MapEntry: Инфернальное покрытие
-			PermafrostConduitTile.MapEntry: Мёрзлое покрытие
-			TidalConduitTile.MapEntry: Приливное покрытие
+			ChaosConduitTile.MapEntry: Chaos Conduit
+			OtherworldConduitTile.MapEntry: Otherworld Conduit
+			EvilConduitTile.MapEntry: Evil Conduit
+			InfernoConduitTile.MapEntry: Inferno Conduit
+			PermafrostConduitTile.MapEntry: Permafrost Conduit
+			TidalConduitTile.MapEntry: Tidal Conduit
 			GulaGatewayTile.MapEntry: Strange Gateway
-			AVPots.MapEntry: Горшок
-			AVMusicBoxTile.MapEntry: Музыкальная шкатулка
-			TidalPlatingBlastDoorTileClosed.MapEntry: Дверь
-			TidalPlatingBlastDoorTileOpen.MapEntry: Дверь
+			AVPots.MapEntry: Pot
+			AVMusicBoxTile.MapEntry: Abandoned Village Surface Music Box
+			TidalPlatingBlastDoorTileClosed.MapEntry: Tidal Plating Blast Door
+			TidalPlatingBlastDoorTileOpen.MapEntry: Tidal Plating Blast Door
 
 			TidalPlatingChestTile: {
 				MapEntry0: Tidal Plating Storage
 				MapEntry1: Locked Tidal Plating Storage
 			}
 
-			TidalPlatingTorchTile.MapEntry: Факел
-			AVMinesMusicBoxTile.MapEntry: Abandoned Музыкальная шкатулка
-			PinkyTestTube.MapEntry: Неудачный эксперемент
-			OtherworldPlatingBlastDoorTileClosed.MapEntry: Дверь
-			OtherworldPlatingBlastDoorTileOpen.MapEntry: Дверь
+			TidalPlatingTorchTile.MapEntry: Tidal Plating Torch
+			AVMinesMusicBoxTile.MapEntry: Abandoned Village Mines Music Box
+			PinkyTestTube.MapEntry: Failed Experiment
+			OtherworldPlatingBlastDoorTileClosed.MapEntry: Otherworld Plating Blast Door
+			OtherworldPlatingBlastDoorTileOpen.MapEntry: Otherworld Plating Blast Door
 
 			OtherworldPlatingChestTile: {
-				MapEntry0: Капсула из потустороннего покрытия
-				MapEntry1: Закрытая капсула из потустороннего покрытия
+				MapEntry0: Otherworld Plating Capsule
+				MapEntry1: Locked Otherworld Plating Capsule
 			}
 
-			OtherworldPlatingTorchTile.MapEntry: Факел
-			EvilPlatingBlastDoorTileClosed.MapEntry: Дверь
-			EvilPlatingBlastDoorTileOpen.MapEntry: Дверь
+			OtherworldPlatingTorchTile.MapEntry: Otherworld Plating Torch
+			EvilPlatingBlastDoorTileClosed.MapEntry: Evil Plating Blast Door
+			EvilPlatingBlastDoorTileOpen.MapEntry: Evil Plating Blast Door
 
 			EvilPlatingChestTile: {
-				MapEntry0: Капсула из злого покрытия
-				MapEntry1: Закрытая капсула из злого покрытия
+				MapEntry0: Evil Plating Capsule
+				MapEntry1: Locked Evil Plating Capsule
 			}
 
-			EvilPlatingTorchTile.MapEntry: Факел
-			InfernoPlatingBlastDoorTileClosed.MapEntry: Дверь
-			InfernoPlatingBlastDoorTileOpen.MapEntry: Дверь
+			EvilPlatingTorchTile.MapEntry: Evil Plating Torch
+			InfernoPlatingBlastDoorTileClosed.MapEntry: Inferno Plating Blast Door
+			InfernoPlatingBlastDoorTileOpen.MapEntry: Inferno Plating Blast Door
 
 			InfernoPlatingChestTile: {
-				MapEntry0: Сундук из инфенрального покрытия
-				MapEntry1: Закрытый сундук из инфернального покрытия
+				MapEntry0: Inferno Plating Chest
+				MapEntry1: Locked Inferno Plating Chest
 			}
 
-			InfernoPlatingTorchTile.MapEntry: Факел
-			ChaosPlatingTorchTile.MapEntry: Факел
+			InfernoPlatingTorchTile.MapEntry: Inferno Plating Torch
+			ChaosPlatingTorchTile.MapEntry: Chaos Plating Torch
 
 			ChaosPlatingChestTile: {
-				MapEntry1: Сундук из хаотичного покрытия
-				MapEntry0: Закрытый сундук из хаотичного покрытия
+				MapEntry1: Chaos Plating Chest
+				MapEntry0: Locked Chaos Plating Chest
 			}
 
-			ChaosPlatingBlastDoorTileOpen.MapEntry: Дверь
-			ChaosPlatingBlastDoorTileClosed.MapEntry: Дверь
-			MothMusicBoxTile.MapEntry: Музыкальная шкатулка
+			ChaosPlatingBlastDoorTileOpen.MapEntry: Chaos Plating Blast Door
+			ChaosPlatingBlastDoorTileClosed.MapEntry: Chaos Plating Blast Door
+			MothMusicBoxTile.MapEntry: Moth Music Box Tile
 			RuinedStatueTile.MapEntry: Ruined Statue Tile
 			SerpentStatueTile.MapEntry: Serpent Statue Tile
 			InvidiaGatewayTile.MapEntry: Strange Gateway
-			SanctuaryMusicBoxTile.MapEntry: Музыкальная шкатулка
-			EvostonePots.MapEntry: Горшки
+			SanctuaryMusicBoxTile.MapEntry: Sanctuary Music Box Tile
+			EvostonePots.MapEntry: Pots
 			SeismicStationTile.MapEntry: Seismic Station
+			// TideChainTile.MapEntry: Tide Chain Tile
 		}
 
 		WorldGeneration: {
@@ -7936,7 +7947,7 @@ Mods: {
 			PhaseEye: Бездумная энергетическая сфера, защищающая Планетарий, созданная исключительно для использования Аналитиком в качестве марионетки.
 			TwilightDevil: Бездумный дрон, защищающий Планетарий. Кажется, что он управляется удалённо, поскольку за его маской ничего не скрывается.
 			PhaseSpeeder: Он быстр. Он опасен. Его происхождение неизвестно, но он определённо желает вашей смерти. Использует ткань бытия в качестве щита.
-			TwilightScouter: Бездумный дрон, защищающий Планетарий. Его внутреннее строение не выделяется особой сложностью.
+			TwilightScouter: Бездумный дрон, защищающий Планетарий. Его внутреннее строеныые не выделяется особой сложностью.
 			PhaseAssaulterHead: Phase Assaulters make up the defensive core of Phase Ore nodes. They can be observed acting as shields for Phase Speeders, while also possessing a potent hyperlight laser.
 			LostSoul: A trapped soul that resides in the Pyramid. It has not come to rest, as it still seems to be searching for something.
 			Snake: A long limbless reptile that has no eyelids, a short tail, and jaws that are capable of considerable extension. This particular one has a venomous bite, and it calls the Pyramid home.
@@ -8129,11 +8140,11 @@ Mods: {
 		}
 
 		DeathMessage: {
-			VD1: " был не очень осторожен."
-			VD2: " был поглощён пустотой."
-			VD3: " канул в тьму."
-			VD4: " не понял механику пустоты."
-			VD5: " умер."
+			VD1: " was extremely careless."
+			VD2: " was consumed by the void."
+			VD3: " was devoured by the darkness."
+			VD4: " doesn't understand void mechanics."
+			VD5: " died."
 		}
 
 		BossChecklist: {
@@ -8976,6 +8987,7 @@ Mods: {
 			KingSlash.DisplayName: King Slash
 			KingSlashThrow.DisplayName: King Slash Throw
 			LightspeedKingblade.DisplayName: Lightspeed Kingblade
+			// ExcavatorBolt.DisplayName: Excavator Bolt
 		}
 
 		DamageClasses: {

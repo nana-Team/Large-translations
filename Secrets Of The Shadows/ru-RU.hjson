@@ -3994,12 +3994,12 @@ Mods: {
 			}
 
 			PiscesPuncher: {
-				DisplayName: Pisces Puncher
+				DisplayName: Рыбный запускатель
 				Tooltip:
 					'''
-					'fish'
-					'noun'
-					'a limbless cold-blooded vertebrate animal with gills and fins and living wholly in water'
+					'рыба'
+					'вовсе не'
+					'безногое холоднокровное позвоночное животное с жабрами и плавниками, живущее исключительно в воде'
 					'''
 			}
 
@@ -4007,8 +4007,8 @@ Mods: {
 				DisplayName: Креветка и пистолет
 				Tooltip:
 					'''
-					Fires hot, shrimpy plasma that homes on close enemies
-					'Teamwork makes the dream work'
+					Стреляет горячей креветочной плазмой, которая самонаводится на врагов, если пролетает рядом с ними
+					'Команда мечты'
 					'''
 			}
 
@@ -4016,9 +4016,9 @@ Mods: {
 				DisplayName: Плазменная креветка
 				Tooltip:
 					'''
-					ПОка у вас больше 40% маны, магические оружия запусскают, hot, shrimpy plasma for 50% damage
+					ПОка у вас больше 40% маны, магические оружия запускают, горчую креветочную плазму, наносящую 50% урона
 					Уменьшает потребление маны на 5%
-					'Not so shrimple now'
+					'Уже не такая креветочная'
 					'''
 			}
 
@@ -4045,7 +4045,7 @@ Mods: {
 			}
 
 			Riptide: {
-				DisplayName: Волнвзрез
+				DisplayName: Волновзрез
 				Tooltip:
 					'''
 					Нажмите ПКМ, находясь под водой или во время дождя, чтобы запусстить себя вперёд, нанося 120% урона
@@ -4060,7 +4060,7 @@ Mods: {
 				Tooltip:
 					'''
 					Критические удары наносят на 50% больше урона
-					Также может наложить на цель складывающийся дебафф кровотечения, наносящей 5 ед. урона в секунду
+					Также может наложить на цель складывающийся дебафф кровотечения, наносящий 5 ед. урона в секунду
 					'''
 			}
 
@@ -4070,7 +4070,7 @@ Mods: {
 					'''
 					Может добывать метеорит
 					Критические удары наносят на 50% больше урона
-					Также может наложить на цель складывающийся дебафф кровотечения, наносящей 5 ед. урона в секунду
+					Также может наложить на цель складывающийся дебафф кровотечения, наносящий 5 ед. урона в секунду
 					'''
 			}
 
@@ -4085,8 +4085,8 @@ Mods: {
 			}
 
 			ManicMiner: {
-				DisplayName: Manic Miner
-				Tooltip: Converts void into short-ranged mining lasers
+				DisplayName: Шахтёр-маньяк
+				Tooltip: Превращаяет пустоту в лазеры ближнего действия для копания
 			}
 
 			MinersPickaxe: {
@@ -4106,51 +4106,51 @@ Mods: {
 			}
 
 			WallCapture: {
-				DisplayName: Wall Capture
+				DisplayName: Созерцатель стен
 				Tooltip:
 					'''
-					Development tool, NOT MEANT FOR GAMEPLAY
-					Has many errors that I'm too lazy to fix currently
-					Don't bother using this item
+					Инструмент разработки, НЕ ПРЕДНАЗНАЧЕН ДЛЯ ГЕЙМПЛЕЯ
+					Пока что вызывает слишком много ошибок, которые разработчик не хочет фиксить
+					Не утруждайте себя использованием этого предмета
 					'''
 			}
 
 			WorldgenCapture: {
-				DisplayName: Worldgen Capture
+				DisplayName: Созерцатель генерации мира
 				Tooltip:
 					'''
-					Development tool, NOT MEANT FOR GAMEPLAY
-					Has many errors that I'm too lazy to fix currently
-					Don't bother using this item
+					Инструмент разработки, НЕ ПРЕДНАЗНАЧЕН ДЛЯ ГЕЙМПЛЕЯ
+					Пока что вызывает слишком много ошибок, которые разработчик не хочет фиксить
+					Не утруждайте себя использованием этого предмета
 					'''
 			}
 
 			WorldgenFail: {
-				DisplayName: Worldgen Paste 2
+				DisplayName: Склейка генерации мира 2
 				Tooltip:
 					'''
-					Development tool, NOT MEANT FOR GAMEPLAY
-					Using this may break your world, or spawn a ton of ore, or generate a whole pyramid
-					Whatever the case, it's probably best not to use it
+					Инструмент разработки, НЕ ПРЕДНАЗНАЧЕН ДЛЯ ГЕЙМПЛЕЯ
+					Использование этого может или сломать фаш мир, или заспавнить тонну руды, или сгенерировать целую пирамиду
+					Какой бы ни была причина, лучше её не использовать
 					'''
 			}
 
 			WorldgenPaste: {
-				DisplayName: Worldgen Paste
+				DisplayName: Склейка генерации мира
 				Tooltip:
 					'''
-					Development tool, NOT MEANT FOR GAMEPLAY
-					Using this may break your world, or spawn a ton of ore, or generate a whole pyramid
-					Whatever the case, it's probably best not to use it
+					Инструмент разработки, НЕ ПРЕДНАЗНАЧЕН ДЛЯ ГЕЙМПЛЕЯ
+					Использование этого может или сломать фаш мир, или заспавнить тонну руды, или сгенерировать целую пирамиду
+					Какой бы ни была причина, лучше её не использовать
 					'''
 			}
 
 			WorldgenScanner: {
-				DisplayName: Planetary Analyzer
+				DisplayName: Планетарный анализатор
 				Tooltip:
 					'''
-					Displays some worldgen info that may be useful
-					'Calls down the protector of that palace in the sky'
+					Отображет некоторую полезную информацию о вашем мире
+					'Связывается с небесным защитником этого места'
 					'''
 			}
 
@@ -4175,11 +4175,11 @@ Mods: {
 			}
 
 			SoulHeart: {
-				DisplayName: Soul Heart
+				DisplayName: Сердце из душ
 				Tooltip:
 					'''
-					Permanently increases max void by 50 and void regeneration speed 5%
-					Can only be used once
+					Навсегда увеличивает максимальный запас пустоты на 50 ед. и скорость её восполнения на 5%
+					Можно использовать только 1 раз
 					'''
 			}
 
@@ -4221,12 +4221,12 @@ Mods: {
 			}
 
 			CursedCaviar: {
-				DisplayName: Cursed Caviar
+				DisplayName: Проклятая икра
 				Tooltip:
 					'''
-					40% chance to refill 20 void and receive Well Fed for 90 seconds
-					35% chance to refill 15 void and receive Mana Regeneration for 90 seconds
-					25% chance to refill 10 void and receive Battle for 90 seconds
+					40% шанса восполнить 20 ед. пустоты и получить бафф сытости на 90 сокунд
+					35% шанса восполнить 20 ед. пустоты и получить бафф регенерации маны на 90 секунд
+					25% шанса восполнить 20 ед. пустоты и получить бафф боевого азарта на 90 секунд
 					'''
 			}
 
@@ -4236,20 +4236,20 @@ Mods: {
 			}
 
 			StrawberryIcecream: {
-				DisplayName: Strawberry Icecream
+				DisplayName: Клубничное мороженое
 				Tooltip:
 					'''
-					50% chance to refill 10 void and surround you with an ice shard
-					50% chance to refill 6 void and surround you with 2 ice shards
+					50% шанса восполнить 10 ед. пустоты и окружить персонажа сосульками
+					50% шанса восполнить 10 ед. пустоты и создать две сосульки
 					'''
 			}
 
 			AvocadoSoup: {
-				DisplayName: Avocado Soup
+				DisplayName: Суп из авокадо
 				Tooltip:
 					'''
-					Refills 24 void and grants Regeneration for 60 seconds
-					'Finally some good soup!'
+					Восполняет 24 ед. пустоты и даёт бафф регенерации на 60 секунд
+					'Нуконец-то хороший суп!'
 					'''
 			}
 
@@ -4258,18 +4258,18 @@ Mods: {
 				Tooltip:
 					'''
 					Навсегда увеличивает максимальный запас пустоты на 20 и скорость её восполнения на 2%
-					Можно использовать только 5 раз
+					Можно использовать 5 раз
 					'''
 			}
 
 			ArcaneAqueduct: {
 				DisplayName: Арканический акведук
-				Tooltip: Вокруг вас будет вращаться водяных шара, наносящих урон
+				Tooltip: Вокруг вас будeт вращаться 2 водяных шара, наносящих урон
 			}
 
 			BackupBow: {
 				DisplayName: Лук поддержки
-				Tooltip: Луки будут выпускать дополнитульную стрелу, наносящую 50% урона, с вашей спины
+				Tooltip: Луки будут выпускать дополнитульную стрелу, наносящую 50% урона и вылетающую из вашей спины
 			}
 
 			Baguette: {
@@ -4305,7 +4305,7 @@ Mods: {
 				Tooltip:
 					'''
 					Вокруг вас будет вращаться 4 снаряда
-					При получении удара, из вас выдвинется копьё, отбрасывающее атакующего вас врага
+					При получении удара из вас выдвинется копьё, отбрасывающее атакующего вас врага
 					Скройте видимость аксессуара, чтобы скрыть отображение снарядов
 					'''
 			}

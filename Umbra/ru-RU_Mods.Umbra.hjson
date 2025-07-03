@@ -12,440 +12,453 @@ Items: {
 	}
 
 	UmbraPickup: {
-		DisplayName: Umbra Pickup
+		DisplayName: Тьма
 		Tooltip: ""
 	}
 
 	MundanityItem: {
-		DisplayName: Mundanity
+		DisplayName: Серость
 		Tooltip:
 			'''
-			[c/888888:Has no effect]
-			[c/888888:Cannot be removed]
+			[c/888888:Не делает абсолютно ничего]
+			[c/888888:Не может быть снята]
 			'''
 	}
 }
 
 GUI: {
 	Tree: {
-		Umbra: Umbra
-		UmbraTooltipTitle: "{0} Umbra Points Remaining"
+		Umbra: Тьма
+		UmbraTooltipTitle: "{0} оч. тьмы"
 		UmbraTooltipDesc:
 			'''
-			Umbra points are used to allocate nodes on the umbra tree.
-			The chance to gain a point of umbra increases with your doom,
-			currently you have a [c/AAAAFF:{0}%] chance to drop an umbra point on killing an enemy.
+			Очки тьмы используются для открытия нод в дереве тьмы
+			Тьма сама по себе выпадает с врагов с маленьким шансом, который увеличивается от количества очков гибели
+			Ваш текущий шанс получить тьму за убийство врага составляет [c/AAAAFF:{0}%]
 			'''
-		Doom: Doom
-		DoomTooltipTitle: "{0} Doom"
+		Doom: Гибель
+		DoomTooltipTitle: "{0} оч. гибели"
 		DoomTooltipDescDefault:
 			'''
-			Doom is an approximate measure of the influence of the umbral tree on the game's difficulty.
-			Additionally, it provides the following benefits:
+			Гибель — характеристика, которая отображает общий уровень усложнения игры от вашей прокачки в дереве тьмы
+			Чем сильнее какая-либо нода из дерева тьмы вредит вам, тем больше очков гибели она даёт
+			Однако гибель также имеет и несколько положительных эффектов. Ваш текущий уровень гибели даёт вам следующие бонусы:
 
-			[c/FFDD88:Gold]: [c/AAAAFF:{0}%] increased gold dropped
-			[c/99FF99:Luck]: [c/AAAAFF:+{1}] luck
-			[c/FF9999:Drops]: [c/AAAAFF:{2}%] chance to drop double loot
-			[c/DDAAFF:Umbra]: [c/AAAAFF:+{3}%] chance to drop umbra
+			[c/FFDD88:Золото]: Увеличивает количество выпадаемых монет на [c/AAAAFF:{0}%]
+			[c/99FF99:Удача]: Повышает ваш уровень удачи на [c/AAAAFF:{1}]
+			[c/FF9999:Добыча]: Даёт [c/AAAAFF:{2}%-ный] шанс получить в два раза больше предметов за убийство врага
+			[c/DDAAFF:Тьма]: Увеличивает шанс выпадения тьмы с врагов на [c/AAAAFF:{3}%]
 			'''
 		DoomTooltipDescInverted:
 			'''
-			Doom is an approximate measure of the influence of the umbral tree on the game's difficulty.
-			You have elected to take the following penalties by having Twist of Fate allocated:
+			Гибель — характеристика, которая отображает общий уровень усложнения игры от вашей прокачки в дереве тьмы
+			Чем сильнее какая-либо нода из дерева тьмы вредит вам, тем больше очков гибели она даёт
+			Открытая у вас нода «Ирония судьбы» заменяет положительные эффекты гибели на отрицательные. Ваш текущий уровень гибели даёт вам следующие штрафы:
 
-			[c/FFDD88:Gold]: [c/AAAAFF:{0}%] decreased gold dropped
-			[c/99FF99:Luck]: [c/AAAAFF:-{1}] luck
+			[c/FFDD88:Золото]: Уменьшает количество выпадаемых монет на [c/AAAAFF:{0}%]
+			[c/99FF99:Удача]: Снижает ваш уровень удачи на [c/AAAAFF:{1}]
 
-			These benefits remain:
+			Однако этот эффект не меняется даже с открытой «Иронией судьбы»:
 
-			[c/DDAAFF:Umbra]: [c/AAAAFF:+{2}%] chance to drop umbra
+			[c/DDAAFF:Тьма]: Увеличивает шанс выпадения тьмы с врагов на [c/AAAAFF:{2}%]
 			'''
 		EditModeTooltip:
 			'''
-			Edit mode controls:
-			Left Click choice to select, Left click grid to add
-			Left Click node to select, Right click node to delete
-			Shift + Left Click node to connect to selected node
-			Shift + Right click node to disconnect from selected node
-			Right click choice to change selection to that node
+			Управление в режиме редактирования:
+
+			Нажмите ЛКМ по любой ноде из панели справа, чтобы выбрать её
+			Намите ЛКМ по любому месту на дереве тьмы, чтобы добавить выбранную в панели ноду
+			Нажмите ПКМ по любой ноде из панели справа, чтобы заменить выбранную ноду на дереве тьмы на неё
+
+			Нажмите ЛКМ по любой ноде на дереве тьмы, чтобы выбрать её
+			Нажмите ПКМ по любой ноде на дереве тьмы, чтобы удалить её
+			Удерживайте Shift и нажмите ЛКМ по любой ноде на дереве тьмы, чтобы соеденить её с выбранной нодой
+			Удерживайте Shift и нажмите ПКМ по любой ноде на дереве тьмы, чтобы отсоеденить её от выбранной ноды
 			'''
 	}
 
 	Node: {
-		Doom: Doom: [c/FFAAAA:{0} Doom]
-		Cost: Cost: [c/BB88FF:{0} Umbra]
-		Refund: Refund: [c/BB88FF:{0} Umbra]
+		Doom: Гибель: [c/FFAAAA:{0} оч. гибели]
+		Cost: Стоимость: [c/BB88FF:{0} оч. тьмы]
+		Refund: Сброс: [c/BB88FF:+{0} оч. тьмы]
 	}
 
 	InventoryButton: {
-		Title: Umbral Tree ([c/CC88FF:{0}] unspent umbra)
+		Title: Дерево тьмы ([c/CC88FF:{0}] оч. тьмы)
 		Description:
 			'''
-			Click this to open the umbral tree, where you can spend Umbra to increase the difficulty of the game.
+			Нажмите ЛКМ по этой шкале, чтобы открыть дерево тьмы, где вы сможете распределять свои очки тьмы для усложнения игры
 
-			[c/AAAAFF:{0}] / [c/AAAAFF:{1}] kills to next point
+			[c/AAAAFF:{0}] / [c/AAAAFF:{1}] убийств до следующего очка тьмы
 			'''
 	}
 }
 
 Passives: {
 	EnemyDamage: {
-		Name: Enemy Damage
-		Tooltip: Enemies have [c/AAAAFF:+1] damage
+		Name: Урон врагов
+		Tooltip: Увеличивает урон всех врагов на [c/AAAAFF:1]
 	}
 
 	StartPoint: {
-		Name: Umbral Tree
-		Tooltip: This is the umbral tree. You can spend your Umbra here to make the game more difficult and rewarding. Left click a flashing node to allocate it at its listed cost. You can right click nodes that no others depend on to de-activate them, for a refund of half their cost.
+		Name: Дерево тьмы
+		Tooltip: Добро пожаловать в меню дерева тьмы! Здесь вы можете тратить заработанные очки тьмы, чтобы сделать игру сложнее, а награды — больше. Нажмите ЛКМ по любой мигающей ноде, чтобы открыть её за указанное количество очков тьмы. Вы в любой момент можете сбрасывать открытые ноды, нажав по ним ПКМ, однако за это вам вернётся лишь половина затраченных очков тьмы.
 	}
 
 	PlayerWither: {
-		Name: Reduced Regeneration
-		Tooltip: Players have [c/AAAAFF:5%] decreased life regeneration
+		Name: Ослабленная регенерация здоровья
+		Tooltip: Уменьшает скорость регенерации здоровья всех игроков на [c/AAAAFF:5%]
 	}
 
 	EnemyBleed: {
-		Name: Enemy Bleed Chance
-		Tooltip: Enemies have [c/AAAAFF:+5%] chance to inflict bleeding
+		Name: Кровотечение от атак врагов
+		Tooltip: Увеличивает шанс получить дебафф «Кровотечение» от атак врагов на [c/AAAAFF:5%]
 	}
 
 	EnemyLife: {
-		Name: Enemy Life
-		Tooltip: Enemies have [c/AAAAFF:3%] increased life
+		Name: Здоровье врагов I
+		Tooltip: Увеличивает максимальный запас здоровья всех врагов на [c/AAAAFF:3%]
 	}
 
 	EnemyRegen: {
-		Name: Enemy Life Regeneration
-		Tooltip: Enemies have [c/AAAAFF:+1] life regeneration per second
+		Name: Регенерация здоровья врагов
+		Tooltip: Увеличивает скорость регенерации всех врагов на [c/AAAAFF:0,5] здоровья в секунду
 	}
 
 	EnemyDefense: {
-		Name: Enemy Defense
-		Tooltip: Enemies have [c/AAAAFF:+1] defense
+		Name: Защита врагов
+		Tooltip: Увеличивает защиту всех врагов на [c/AAAAFF:1] ед.
 	}
 
 	EnemyEndurance: {
-		Name: Enemy Endurance
-		Tooltip: Enemies take [c/AAAAFF:2%] decreased damage from hits
+		Name: Сопротивление урону у врагов I
+		Tooltip: Уменьшает весь получаемый врагами урон на [c/AAAAFF:2%]
 	}
 
 	BurningBlood: {
-		Name: Burning Blood
-		Tooltip: Players that are bleeding are also always on fire
+		Name: Пылающая кровь
+		Tooltip: Все игроки, находящиеся под действием дебаффа «Кровотечение», также получают дебафф «В огне!»
 	}
 
 	UndeniableFoes: {
-		Name: Undeniable Foes
-		Tooltip: Enemies are unaffected by knockback
+		Name: Непреклонные враги
+		Tooltip: Даёт всем врагам полную неуязвимость к отбрасыванию
 	}
 
 	MoreEnemyDamage: {
-		Name: More Enemy Damage
-		Tooltip: Enemies have [c/AAAAFF:5%] more damage
+		Name: Множитель урона врагов
+		Tooltip: Увеличивает урон всех врагов на [c/AAAAFF:5%]
 	}
 
 	EnemyPoision: {
-		Name: Enemy Poision Chance
-		Tooltip: Enemies have [c/AAAAFF:+5%] chance to inflict poisioned
+		Name: Отравление от атак врагов I
+		Tooltip: Увеличивает шанс получить дебафф «Отравлен» от атак врагов на [c/AAAAFF:5%]
 	}
 
 	EnemySurvival: {
-		Name: Enemy Survival
+		Name: Живучесть врагов
 		Tooltip:
 			'''
-			Enemies have [c/AAAAFF:+25] life
-			Enemies have [c/AAAAFF:+1] defense
+			Увеличивает максимальный запас здоровья всех врагов на [c/AAAAFF:25]
+			Увеличивает защиту всех врагов на [c/AAAAFF:1]
 			'''
 	}
 
 	HardmodeGate: {
-		Name: Flesh Crucible
+		Name: Горнило плоти
 		Tooltip:
 			'''
-			Sated only by an offering of hellish flesh
-			Enter [c/FF7766:hardmode] to pass this node
+			Открывается только подношением из плоти адского чудовища
+			Перейдите в [c/FF7766:хардмод], чтобы открыть эту ноду
 			'''
 	}
 
 	DeadlyDuels: {
-		Name: Deadly Duels
+		Name: Битвы насмерть
 		Tooltip:
 			'''
-			Bosses deal [c/AAAAFF:30%] more damage
-			Bosses drop an additional treausre bag
+			Увеличивает урон всех боссов на [c/AAAAFF:30%]
+			С боссов будет выпадать дополнительный мешок с сокровищами
 			'''
 	}
 
 	ElongatedEngagements: {
-		Name: Elongated Engagements
+		Name: Продолжительные сражения
 		Tooltip:
 			'''
-			Bosses have [c/AAAAFF:50%] more life
-			Bosses drop an additional treausre bag
+			Увеличивает максимальный запас здоровья всех боссов на [c/AAAAFF:50%]
+			С боссов будет выпадать дополнительный мешок с сокровищами
 			'''
 	}
 
 	VitalityVortex: {
-		Name: Vitality Vortex
+		Name: Подпитка страхом
 		Tooltip:
 			'''
-			Enemies near (within [c/AAAAFF:10] blocks) players have [c/AAAAFF:+20] life regeneration per second
-			Players have [c/AAAAFF:25%] decreased life regeneration if any enemies are near (within [c/AAAAFF:10] blocks) them
+			Увеличивает скорость регенерации врагов, находящихся в пределах [c/AAAAFF:10] блоков от игроков на [c/AAAAFF:+20] здоровья в секунду
+			Уменьшает скорость регенерации здоровья игроков на [c/AAAAFF:25%], если в пределах [c/AAAAFF:10] блоков от них находится хотя бы один враг
 			'''
 	}
 
 	BossStrength: {
-		Name: Boss Strength
+		Name: Мощь боссов
 		Tooltip:
 			'''
-			Bosses take [c/AAAAFF:2%] decreased damage from hits
-			Bosses deal [c/AAAAFF:5%] increased damage
+			Уменьшает весь получаемый боссами урон на [c/AAAAFF:2%]
+			Увеличивает урон всех боссов на [c/AAAAFF:5%]
 			'''
 	}
 
 	StrengthPerDoom: {
-		Name: Doom Influence
+		Name: Гибель за гибелью I
 		Tooltip:
 			'''
-			Enemies deal [c/AAAAFF:1%] increased damage per [c/AAAAFF:30] doom
-			Enemies have [c/AAAAFF:+1] life per [c/AAAAFF:20] doom
+			Увеличивает урон всех врагов на [c/AAAAFF:1%] за каждые [c/AAAAFF:30] очков гибели
+			Увеличивает максимальный запас здоровья всех врагов на [c/AAAAFF:1] за каждые [c/AAAAFF:20] очков гибели
 			'''
 	}
 
 	SpawnRate: {
-		Name: Spawn Rate
-		Tooltip: "[c/AAAAFF:5%] increased spawn rate"
+		Name: Скорость появления врагов
+		Tooltip: Увеличивает скорость появления врагов на [c/AAAAFF:5%]
 	}
 
 	HardmodeStrength: {
-		Name: Normal Enemy Strength
+		Name: Мощь рядовых врагов
 		Tooltip:
 			'''
-			Non-boss enemies take [c/AAAAFF:2%] decreased damage from hits
-			Non-boss enemies have [c/AAAAFF:5%] increased damage
+			Уменьшает весь получаемый врагами урон на [c/AAAAFF:2%] (кроме боссов)
+			Увеличивает урон всех врагов на [c/AAAAFF:5%] (кроме боссов)
 			'''
 	}
 
 	HardmodeEnemyPoision: {
-		Name: Enemy Poision Chance
-		Tooltip: Enemies have [c/AAAAFF:+10%] chance to inflict poisioned
+		Name: Отравление от атак врагов II
+		Tooltip: Увеличивает шанс получить дебафф «Отравлен» от атак врагов на [c/AAAAFF:10%]
 	}
 
 	HardmodeEnemyVenom: {
-		Name: Enemy Venom Chance
-		Tooltip: Enemies have [c/AAAAFF:+2%] chance to inflict venom
+		Name: Кислотный яд от атак врагов
+		Tooltip: Увеличивает шанс получить дебафф «Кислотный яд» от атак врагов на [c/AAAAFF:2%]
 	}
 
 	HardmodeStrengthPerDoom: {
-		Name: Doom Influence
+		Name: Гибель за гибелью II
 		Tooltip:
 			'''
-			Enemies deal [c/AAAAFF:1%] increased damage per [c/AAAAFF:20] doom
-			Enemies have [c/AAAAFF:+1] life per [c/AAAAFF:10] doom
+			Увеличивает урон всех врагов на [c/AAAAFF:1%] за каждые [c/AAAAFF:20] очков гибели
+			Увеличивает максимальный запас здоровья всех врагов на [c/AAAAFF:1] за каждые [c/AAAAFF:10] очков гибели
 			'''
 	}
 
 	HardmodeDoubleChance: {
-		Name: Twinned Enemy Chance
-		Tooltip: "[c/AAAAFF:+5%] chance for enemies to spawn in pairs"
+		Name: Шанс на сдвоенных врагов
+		Tooltip: Увеличивает шанс того, что враги появятся сразу в двух экземплярах на [c/AAAAFF:+5%]
 	}
 
 	Comorbidity: {
-		Name: Comorbidity
+		Name: Сопутствующие заболевания
 		Tooltip:
 			'''
-			Players that are poisioned are also venomed
-			Players that are venomed are also poisioned
+			Все игроки, находящиеся под действием дебаффа «Отравлен», также получают дебафф «Кислотынй яд»
+			Все игроки, находящиеся под действием дебаффа «Кислотный яд», также получают дебафф «Отравлен»
 			'''
 	}
 
 	DoomBeacon: {
-		Name: Doom Beacon
-		Tooltip: "[c/AAAAFF:1%] increased spawn rate per [c/AAAAFF:5] doom"
+		Name: Предвестие гибели
+		Tooltip: Увеличивает скорость появления врагов на [c/AAAAFF:1%] за каждые [c/AAAAFF:5] очков гибели"
 	}
 
 	DoomConflux: {
-		Name: Doom Conflux
+		Name: Каскад гибели
 		Tooltip:
 			'''
-			Enemies have [c/AAAAFF:+1%] chance to inflict doomed per [c/AAAAFF:10] doom
-			doomed is a debuff which causes players to take 50% more damage
+			Увеличивает шанс получить дебафф «Обречён» от атак врагов на [c/AAAAFF:1%] за каждые [c/AAAAFF:10] очков гибели
+			Этот дебафф увеличивает получаемый урон на [c/AAAAFF:50%]
 			'''
 	}
 
 	InstrumentsOfHarm: {
-		Name: Instruments of Harm
-		Tooltip: Enemies have a [c/AAAAFF:20%] chance to spawn as harmful, having [c/AAAAFF:50%] more damage
+		Name: Топор войны
+		Tooltip:
+			'''
+			Увеличивает шанс того, что враги появятся с модификатором «Пагубный» на [c/AAAAFF:20%]
+			Этот модификатор увеличивает наносимый ими урон на [c/AAAAFF:50%]
+			'''
 	}
 
 	SpontaneousGeneration: {
-		Name: Spontaneous Generation
-		Tooltip: Enemies have a [c/AAAAFF:10%] chance to split in two on death
+		Name: Неожиданное появление
+		Tooltip: Увеличивает шанс того, что после смерти враг разделится на ещё два точно таких же врага на [c/AAAAFF:10%]
 	}
 
 	VengefulShades: {
-		Name: Vengeful Shades
+		Name: Мстительные духи
 		Tooltip:
 			'''
-			Enemies have a [c/AAAAFF:10%] chance to spawn a wraith on death
-			wraiths always drop an extra umbra point
+			Увеличивает шанс того, что после смерти враг оставит за собой враждебного призрака на [c/AAAAFF:10%]
+			С этих призраков всегда выпадает одно дополнительное очко тьмы
 			'''
 	}
 
 	WormsInfluence: {
-		Name: Worms Influence
+		Name: Червивая натура
 		Tooltip:
 			'''
-			Enemies take [c/AAAAFF:15%] decreased damage from hits
-			Worms take an additonal [c/AAAAFF:10%] decreased damage from hits
+			Уменьшает весь получаемый врагами урон на [c/AAAAFF:15%]
+			Уменьшает весь получаемый врагами-червями урон ещё на [c/AAAAFF:10%]
 			'''
 	}
 
 	StarlightRiverGate: {
-		Name: Mod Lock: Starlight River
-		Tooltip: This node will only be able to be allocated if Starlight River is enabled
+		Name: Ветка из мода Starlight River
+		Tooltip: Включите мод [c/AAAAFF:Starlight River], чтобы открыть эту ноду
 	}
 
 	StarlightEnemyBarrier: {
-		Name: Enemy Barrier
-		Tooltip: Enemies have [c/AAAAFF:+20] maximum barrier
+		Name: Барьер врагов
+		Tooltip: Увеличивает максимальный запас барьера врагов на [c/AAAAFF:20]
 	}
 
 	CalamityGate: {
-		Name: Mod Lock: Calamity
-		Tooltip: This node will only be able to be allocated if Calamity is enabled
+		Name: Ветка из мода Calamity
+		Tooltip: Включите мод [c/AAAAFF:Calamity], чтобы открыть эту ноду
 	}
 
 	CalamityDamage: {
-		Name: Calamitous Damage
-		Tooltip: Enemies from Calamity have [c/AAAAFF:+1] damage
+		Name: Бедственный урон
+		Tooltip: Увеличивает урон всех врагов из мода [c/AAAAFF:Calamity] на [c/AAAAFF:1]
 	}
 
 	EnemyDodge: {
-		Name: Enemy Dodge Chance
-		Tooltip: Enemies have [c/AAAAFF:+2%] chance to avoid damage
+		Name: Шанс уклонения врагов
+		Tooltip: Увелчививает шанс всех врагов полностью избежать урона от одной вашей атаки на [c/AAAAFF:2%]
 	}
 
 	PotionSickness: {
-		Name: Potion Sickness Duration
-		Tooltip: Potion sickness lasts [c/AAAAFF:5] seconds longer
+		Name: Длительность послезельевой болезни
+		Tooltip: Увеличивает длительность дебаффа «Послезельевая болезнь» на [c/AAAAFF:5] секунд
 	}
 
 	PotionHealing: {
-		Name: Reduced Healing
-		Tooltip: Healing items heal [c/AAAAFF:-5] life
+		Name: Ослабленное лечение
+		Tooltip: Уменьшает эффективность лечения от всех видов лечебных зелий на [c/AAAAFF:5] ед. здоровья
 	}
 
 	SicklyPotions: {
-		Name: Sickly Potions
-		Tooltip: Healing items restore health gradually instead of instantaneously
+		Name: Противные зелья
+		Tooltip: Эффект лечения от всех лечебных зелий будет срабатывать не мгновенно, а постепенно в течение нескольких секунд
 	}
 
 	EnemyMoreLife: {
-		Name: More Enemy Life
-		Tooltip: Enemies have [c/AAAAFF:10%] more life
+		Name: Здоровье врагов II
+		Tooltip: Увеличивает максимальный запас здоровья всех врагов на [c/AAAAFF:10%]
 	}
 
 	HardmodeEndurance: {
-		Name: Greater Enemy Endurance
-		Tooltip: Enemies take [c/AAAAFF:6%] decreased damage from hits
+		Name: Сопротивление урону у врагов II
+		Tooltip: Уменьшает весь получаемый врагами урон на [c/AAAAFF:6%]
 	}
 
 	BadMedicine: {
-		Name: Bad Medicine
+		Name: Плохие лекарства
 		Tooltip:
 			'''
-			Consuming healing items inflicts doomed for [c/AAAAFF:5] seconds
-			doomed is a debuff which causes players to take 50% more damage
+			Использование лечебных зелий накладывает на игрока дебафф «Обречён» на [c/AAAAFF:5]
+			Этот дебафф увеличивает получаемый урон на [c/AAAAFF:50%]
 			'''
 	}
 
 	Heartbreakers: {
-		Name: Heartbreakers
-		Tooltip: Players lose [c/AAAAFF:20] maximum life when hurt, slowly recovering over time
+		Name: Разбитые сердца
+		Tooltip: 
+			'''
+			Уменьшает максимальный запас здоровья игрока на [c/AAAAFF:20] ед. после каждого получения урона
+			Потерянное максимальное здоровье восстанавливается в течение нескольких секунд
 	}
 
 	ManaTithe: {
-		Name: Mana Tithe
-		Tooltip: All weapons cost [c/AAAAFF:+4] mana to use
+		Name: Налог на добавленный расход маны
+		Tooltip: Повышает расход маны на всём оружии на [c/AAAAFF:4] ед.
 	}
 
 	ManaCost: {
-		Name: Mana Cost
-		Tooltip: All weapons cost [c/AAAAFF:+1] mana to use
+		Name: Увеличенный расход маны
+		Tooltip: Повышает расход маны на всём магическом оружии на [c/AAAAFF:1] ед.
 	}
 
 	ManaDamage: {
-		Name: Mana Leech
-		Tooltip: Players lose [c/AAAAFF:10] mana when hurt
+		Name: Кража маны
+		Tooltip: Уменьшает запасы маны игрока на [c/AAAAFF:10] ед. после каждого получения урона
 	}
 
 	PiercePenalty: {
-		Name: Less pierce
-		Tooltip: Hitting an enemy consumes [c/AAAAFF:+1] pierce
+		Name: Ослабленное пронзание врагов
+		Tooltip: Всё оружие, которое может пронзать ограниченное количество врагов, будет считать каждого пронзённого врага [c/AAAAFF:ещё один раз]
 	}
 
 	ManaFlux: {
-		Name: Mana Flux
-		Tooltip: Bleeding players lose mana rapidly
+		Name: Утечка маны
+		Tooltip: Игроки с дебаффом «Кровотечение» будут очень быстро терять ману
 	}
 
 	Mending: {
-		Name: Mending
-		Tooltip: Enemies have [c/AAAAFF:50%] increased life regeneration
+		Name: Воля к жизни
+		Tooltip: Увеличивает скорость регенерации всех врагов на [c/AAAAFF:50%]
 	}
 
 	PanicGuard: {
-		Name: Panic Guard
-		Tooltip: Enemies below [c/AAAAFF:33%] life have [c/AAAAFF:+15] defense
+		Name: Экстренные меры защиты
+		Tooltip: Увеличивает защиту всех врагов с запасом здоровья ниже [c/AAAAFF:33%] на [c/AAAAFF:15] ед.
 	}
 
 	TwistOfFate: {
-		Name: Twist of Fate
+		Name: Ирония судьбы
 		Tooltip:
 			'''
-			Negates or disables most of the positive effects of doom.
+			Превращает все положительные эффекты от гибели в отрицательные (кроме бонуса к шансу выпадения тьмы)
 
-			[c/FF4444:WARNING]: [c/FFAAAA:This has no positive effects!]
+			[c/FF4444:ВНИМАНИЕ]: [c/FFAAAA:Эта нода не даёт никаких иных преимуществ! Открыв её, вы обрекаете себя на нечеловеческие страдания!]
 			'''
 	}
 
 	VampiricHorde: {
-		Name: Vampiric Horde
-		Tooltip: Enemies heal for [c/AAAAFF:100] life on melee hit
+		Name: Жажда крови
+		Tooltip: Позволяет врагам восстанавливать по [c/AAAAFF:100] ед. здоровья за каждое нанесение контактного урона или попавшую по игрокам атаку ближнего боя
 	}
 
 	TemporalTrance: {
-		Name: Temporal Trance
-		Tooltip: Everything moves [c/AAAAFF:25%] faster
+		Name: Временной экстаз
+		Tooltip: Увеличивает скорость всей игры на [c/AAAAFF:25%]
 	}
 
 	Mundanity: {
-		Name: Mundanity
-		Tooltip: Your first [c/AAAAFF:2] accessory slots are blocked
+		Name: Серость
+		Tooltip: Полностью блокирует первые [c/AAAAFF:2] слота для аксессуаров для всех игроков
 	}
 
 	FlyingDaggers: {
-		Name: Flying Daggers
-		Tooltip: Enemies throw a dagger in a random direction when they dodge
+		Name: Летающие кинжалы
+		Tooltip: Выпускает метательный кинжал из врага в случайном направлении каждый раз, когда у него срабатывает уклонение от ваших атак
 	}
 
 	Darkness: {
-		Name: Darkness
-		Tooltip: '''[c/AAAAFF:0.5%] decreased light'''
+		Name: Темнота
+		Tooltip: '''Уменьшает яркость всех источников света в игре на [c/AAAAFF:5%]'''
 	}
 
 	CreepingDarkness: {
-		Name: Creeping Darkness
-		Tooltip: Light decreases while in the dark, recovering slowly when you return to the light
+		Name: Непроглядный мрак
+		Tooltip: Яркость всех источников света будет резко уменьшаться, пока вы находитесь в темноте, и наоборот, восстанавливаться обратно, пока находитесь на свету
 	}
 }
 
 Buffs: {
 	Doomed: {
-		DisplayName: Doomed
-		Description: Take 50% more damage
+		DisplayName: Обречён
+		Description: Увеличивает получаемый урон на 50%
 	}
 }
 
-Projectiles.DodgeDagger.DisplayName: Dodge Dagger
+Projectiles.DodgeDagger.DisplayName: Летающий кинжал

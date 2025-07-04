@@ -1,3 +1,47 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	DebugStick: {
+		DisplayName: Debug Stick
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	UmbraPickup: {
+		DisplayName: Umbra Pickup
+		Tooltip: ""
+	}
+
+	MundanityItem: {
+		DisplayName: Mundanity
+		Tooltip:
+			'''
+			[c/888888:Has no effect]
+			[c/888888:Cannot be removed]
+			'''
+	}
+}
+
+GUI: {
+	Tree: {
+		Umbra: Umbra
+		UmbraTooltipTitle: "{0} Umbra Points Remaining"
+		UmbraTooltipDesc:
+			'''
+			Umbra points are used to allocate nodes on the umbra tree.
+			The chance to gain a point of umbra increases with your doom,
+			currently you have a [c/AAAAFF:{0}%] chance to drop an umbra point on killing an enemy.
+			'''
+		Doom: Doom
+		DoomTooltipTitle: "{0} Doom"
+		DoomTooltipDescDefault:
+			'''
+			Doom is an approximate measure of the influence of the umbral tree on the game's difficulty.
+			Additionally, it provides the following benefits:
 
 			[c/FFDD88:Gold]: [c/AAAAFF:{0}%] increased gold dropped
 			[c/99FF99:Luck]: [c/AAAAFF:+{1}] luck

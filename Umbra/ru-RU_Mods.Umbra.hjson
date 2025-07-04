@@ -240,7 +240,7 @@ Passives: {
 	}
 
 	HardmodeEnemyVenom: {
-		Name: {$BuffName.Venom} от атак врагов
+		Name: Кислотный яд от атак врагов
 		Tooltip: Увеличивает шанс получить дебафф «{$BuffName.Venom}» от атак врагов на [c/AAAAFF:2%]
 	}
 

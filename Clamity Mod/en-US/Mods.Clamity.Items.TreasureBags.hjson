@@ -1,9 +1,0 @@
-PyrogenBag: {
-	Tooltip: Right Click to open
-	DisplayName: Treasure Bag (Pyrogen)
-}
-
-WoBTreasureBag: {
-	Tooltip: Right Click to open
-	DisplayName: Treasure Crate (Wall of Bronze)
-}

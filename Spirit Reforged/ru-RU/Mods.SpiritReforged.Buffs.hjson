@@ -109,11 +109,11 @@ ExplorerMine: {
 }
 
 JinxMark: {
-	// DisplayName: Jinx Mark
-	// Description: Mods.SpiritReforged.Buffs.JinxMark.Description
-}
+        DisplayName: Метка сглаза
+        Description: ""
+    }
 
 FlaskOfFrost_Buff: {
-	// DisplayName: Weapon Imbue: Freezing
-	// Description: Melee and Whip attacks freeze enemies
-}
+        DisplayName: Смазанное оружие: Заморозка
+        Description: Атаки ближнего боя, а также хлысты замораживают врагов
+    }

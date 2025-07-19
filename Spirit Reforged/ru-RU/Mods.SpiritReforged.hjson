@@ -24,6 +24,9 @@ Misc: {
 	NoStock: Нет в наличии
 	GraveText: <wavy>Текст старый и выцветший; вы не можете разобрать, что здесь написано.
 	MenuButton: Использовать тему меню
+	// UnchangedMap: Map has no changes.
+	// ShareMap: Map has been shared.
+	// ShareAndUpdateMap: Map has been shared & updated.
 }
 
 DamageSources: {
@@ -44,4 +47,9 @@ GameTips: {
 	ReforgedTip7: Облачник всегда растёт под облаками.
 	ReforgedTip8: На верхушки акаций можно встать, если вам нужно забраться повыше.
 	ReforgedTip9: Время от времени на поверхность океана всплывают случайные предметы — проверяйте почаще!
+}
+
+Emotes: {
+	// CartographerEmote.Command: cartographer
+	// HikerEmote.Command: hikeremote
 }

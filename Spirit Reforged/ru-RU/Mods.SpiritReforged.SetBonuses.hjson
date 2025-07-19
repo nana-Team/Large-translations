@@ -26,3 +26,8 @@ Wayfarer:
 	Разбивание горшков даёт бафф, увеличивающий скорость передвижения
 	Добыча руды даёт бафф, увеличивающий скорость добычи
 	'''
+/* Granite:
+	'''
+	Double tap {0} to stomp
+	Hitting the ground releases a shockwave that scales with height
+	''' */

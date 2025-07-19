@@ -1,52 +1,52 @@
-VanillaDialogue: {
-	Guide: {
-		// WorldNPC: You might run into other explorers as you wander the world. If you do, maybe you can help each other out!
-		// Ecotone: If the climate is right, the region between the Desert and Jungle can be home to a vast Savanna. I've always wanted to see it!
-		// Savanna: The leather from the animals here could craft you some pretty neat gear, kid.
-		// Kelp: Don't eat the seaweed.
-	}
-
-	ArmsDealer: {
-		// Savanna1: Lotta big game around these parts. Even the likes of you could hit 'em.
-		// Placeholder: placeholder
-	}
-
-	Stylist: {
-		// Savanna1: It's wicked hard to maintain my hairstyle in this climate.
-		// Duststorm1: If I have to pick out sand from one more person's hair, I swear...
-	}
-
-	TravellingMerchant: {
-		// Cartographer1: I often run into a wayward cartographer on my travels. I swear, she gives me a run for my money!
-		// Cartographer2: Oh, it's {0}! She gave me directions last month before falling right into a ditch.
-		// Discoveries: Sometimes, I stumble upon rare curios on my journey. Maybe you can find them too, if you keep an eye out.
-	}
-
-	Demolitionist: {
-		// HasBoomshroom: You've got what? A 'shroom that makes BIGGER booms? I love mother nature!
-		// Placeholder: placeholder
-	}
-
-	Nurse: {
-		// Duststorm: Don't get scraped up by all that dust outside! It's below my pay grade.
-		// Savanna: No, I'm not a vet! Now get those animals out of here.
-	}
-
-	PartyGirl: {
-		// Duststorm: Aw, it's not party weather. Maybe we can have a kickback instead!
-		// Savanna: All this open space is perfect for a party! Ooh, maybe a dayger!
-	}
-
-	Golfer: {
-		// Duststorm: It's all this dust's fault that I'm playing below par!
-		// Savanna: Everything here is a hazard! My balls keep getting stuck in the bushes and sand...and the trees!
-	}
-
-	Zoologist: {
-		// Savanna1: Oh my god- this place is, like, perfect! You've got to check out all the cute little animals here!
-		// Savanna2: What?! Those hyenas bit you? But they're like, totally adorable!
-	}
-}
+    VanillaDialogue: {
+        Guide: {
+            WorldNPC: Путешествуя по миру, ты можешь повстречать и других исследователей. Если встретишь — возможно, вы сможете помочь друг другу!
+            Ecotone: Если климат будет подходящим, на границе между пустыней и джунглями может раскинуться обширная саванна. Всегда мечтал её увидеть!
+            Savanna: Из кожи здешних животных можно смастерить довольно крутое снаряжение, парень.
+            Kelp: Не ешь морские водоросли.
+        }
+    
+        ArmsDealer: {
+            Savanna1: В этих краях полно крупной дичи. Даже такой, как ты, сумеет в неё попасть.
+            Placeholder: placeholder
+        }
+    
+        Stylist: {
+            Savanna1: В таком климате чертовски трудно поддерживать причёску в порядке.
+            Duststorm1: Если мне ещё хоть раз придётся выковыривать песок из чьих-то волос — клянусь, я...
+        }
+    
+        TravellingMerchant: {
+            Cartographer1: В своих странствиях я часто встречаю одну своенравную картографистку. Клянусь, она составляет мне серьёзную конкуренцию!
+            Cartographer2: О, да это же {0}! В прошлом месяце она показала мне дорогу, а потом сама же свалилась в канаву.
+            Discoveries: Порой в своих путешествиях я натыкаюсь на редкие диковинки. Может, и ты их найдёшь, если будешь внимателен.
+        }
+    
+        Demolitionist: {
+            HasBoomshroom: Что у тебя там? Гриб, который делает ВЗРЫВ ещё МОЩНЕЕ? Обожаю матушку-природу!
+            Placeholder: placeholder
+        }
+    
+        Nurse: {
+            Duststorm: Смотри не поранься там об эту пыль! Мне за такое не платят.
+            Savanna: Нет, я не ветеринар! А теперь убери отсюда этих животных.
+        }
+    
+        PartyGirl: {
+            Duststorm: Ой, погодка совсем не для вечеринок. Может, просто устроим посиделки?
+            Savanna: Столько простора — идеально для вечеринки! О-о-о, может, устроим дневную тусовку?
+        }
+    
+        Golfer: {
+            Duststorm: Это всё эта пыль виновата, что я играю из рук вон плохо!
+            Savanna: Здесь одно сплошное препятствие! Мои мячи вечно застревают в кустах, песке... и деревьях!
+        }
+    
+        Zoologist: {
+            Savanna1: О боже мой, это место, ну, просто идеальное! Ты только посмотри на всех этих милых зверушек!
+            Savanna2: Что?! Тебя покусали гиены? Но они же такие милашки!
+        }
+    }
 
 Crinoid: {
 	DisplayName: Морская лилия
@@ -442,15 +442,15 @@ WorldFrog: {
 }
 
 MossSlime: {
-	// DisplayName: Moss Slime
-	// Entry: A curious group of slimes which somehow have moss covering them. They come in many varieties, though only in glowing mosses for...some reason. Free light source, maybe?
-}
-
-// KryptonMossSlime.DisplayName: Krypton Moss Slime
-// LavaMossSlime.DisplayName: Lava Moss Slime
-// NeonMossSlime.DisplayName: Neon Moss Slime
-// XenonMossSlime.DisplayName: Xenon Moss Slime
-// ArgonMossSlime.DisplayName: Argon Moss Slime
-// HeliumMossSlime.DisplayName: Helium Moss Slime
-// OganessonMossSlime.DisplayName: Oganesson Moss Slime
-// RadonMossSlime.DisplayName: Radon Moss Slime
+        DisplayName: Мшистый слизень
+        Entry: Любопытный вид слизней, который каким-то образом покрыт мхом. Существует множество их разновидностей, но почему-то встречаются только те, что покрыты светящимся мхом. Может, это лёгкий источник света?
+    }
+    
+    KryptonMossSlime.DisplayName: Криптоновый мшистый слизень
+    LavaMossSlime.DisplayName: Лавовый мшистый слизень
+    NeonMossSlime.DisplayName: Неоновый мшистый слизень
+    XenonMossSlime.DisplayName: Ксеноновый мшистый слизень
+    ArgonMossSlime.DisplayName: Аргоновый мшистый слизень
+    HeliumMossSlime.DisplayName: Гелиевый мшистый слизень
+    OganessonMossSlime.DisplayName: Оганессоновый мшистый слизень
+    RadonMossSlime.DisplayName: Радоновый мшистый слизень

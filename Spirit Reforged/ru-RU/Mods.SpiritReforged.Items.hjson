@@ -1798,140 +1798,140 @@ SavannaSandstormOtherworldMusicBoxItem: {
 }
 
 SavannaTorchItem: {
-        DisplayName: Факел саванны
-        Tooltip: ""
+	DisplayName: Факел саванны
+	Tooltip: ""
 }
-    
-    FlaskBlue: {
-        DisplayName: Флакон с синим мхом
-        Tooltip: При столкновении распространяет мох
+
+FlaskBlue: {
+	DisplayName: Флакон с синим мхом
+	Tooltip: При столкновении распространяет мох
 }
-    
-    FlaskBrown: {
-        DisplayName: Флакон с коричневым мхом
-        Tooltip: "{$Items.FlaskBlue.Tooltip}"
+
+FlaskBrown: {
+	DisplayName: Флакон с коричневым мхом
+	Tooltip: "{$Items.FlaskBlue.Tooltip}"
 }
-    
-    FlaskGreen: {
-        DisplayName: Флакон с зелёным мхом
-        Tooltip: "{$Items.FlaskBlue.Tooltip}"
+
+FlaskGreen: {
+	DisplayName: Флакон с зелёным мхом
+	Tooltip: "{$Items.FlaskBlue.Tooltip}"
 }
-    
-    FlaskLava: {
-        DisplayName: Флакон с лавовым мхом
-        Tooltip: "{$Items.FlaskBlue.Tooltip}"
+
+FlaskLava: {
+	DisplayName: Флакон с лавовым мхом
+	Tooltip: "{$Items.FlaskBlue.Tooltip}"
 }
-    
-    FlaskPurple: {
-        DisplayName: Флакон с пурпурным мхом
-        Tooltip: "{$Items.FlaskBlue.Tooltip}"
+
+FlaskPurple: {
+	DisplayName: Флакон с пурпурным мхом
+	Tooltip: "{$Items.FlaskBlue.Tooltip}"
 }
-    
-    FlaskRed: {
-        DisplayName: Флакон с красным мхом
-        Tooltip: "{$Items.FlaskBlue.Tooltip}"
+
+FlaskRed: {
+	DisplayName: Флакон с красным мхом
+	Tooltip: "{$Items.FlaskBlue.Tooltip}"
 }
 
 TitleMusicBoxItem: {
-        DisplayName: Музыкальная шкатулка (Заглавная тема Spirit)
-        Tooltip: ""
+	DisplayName: Музыкальная шкатулка (Заглавная тема Spirit)
+	Tooltip: ""
 }
 
 Drypowder: {
-        DisplayName: Сухой порошок
-        Tooltip: Распространяет саванну
+	DisplayName: Сухой порошок
+	Tooltip: Распространяет саванну
 }
 
 ElephantKite: {
-        DisplayName: Воздушный змей-слон
-        Tooltip: "{$CommonItemTooltip.Kite}"
+	DisplayName: Воздушный змей-слон
+	Tooltip: "{$CommonItemTooltip.Kite}"
 }
 
 CartographyTableItem: {
-        DisplayName: Стол картографа
-        Tooltip:
-            '''
-            Позволяет делиться исследованиями карты с другими игроками
-            Взаимодействуйте, чтобы поделиться своими открытиями
-            '''
+	DisplayName: Стол картографа
+	Tooltip:
+		'''
+		Позволяет делиться исследованиями карты с другими игроками
+		Взаимодействуйте, чтобы поделиться своими открытиями
+		'''
 }
 
 PurityBonsaiItem: {
-        DisplayName: Бонсай из ивы
-        Tooltip: ""
-    }
-    
-    RubyBonsaiItem: {
-        DisplayName: Рубиновый бонсай
-        Tooltip: ""
-    }
-    
-    SakuraBonsaiItem: {
-        DisplayName: Бонсай из сакуры
-        Tooltip: ""
-    }
-    
-    WillowBonsaiItem: {
-        DisplayName: Бонсай из жёлтой ивы
-        Tooltip: ""
-    }
-    
-    AmethystBonsaiItem: {
-        DisplayName: Аметистовый бонсай
-        Tooltip: ""
-    }
-    
-    DiamondBonsaiItem: {
-        DisplayName: Алмазный бонсай
-        Tooltip: ""
-    }
-    
-    EmeraldBonsaiItem: {
-        DisplayName: Изумрудный бонсай
-        Tooltip: ""
-    }
-    
-    SapphireBonsaiItem: {
-        DisplayName: Сапфировый бонсай
-        Tooltip: ""
-    }
-    
-    TopazBonsaiItem: {
-        DisplayName: Топазовый бонсай
-        Tooltip: ""
-    }
-    
-    AmberBonsaiItem: {
-        DisplayName: Янтарный бонсай
-        Tooltip: ""
-    }
+	DisplayName: Бонсай из ивы
+	Tooltip: ""
+}
+
+RubyBonsaiItem: {
+	DisplayName: Рубиновый бонсай
+	Tooltip: ""
+}
+
+SakuraBonsaiItem: {
+	DisplayName: Бонсай из сакуры
+	Tooltip: ""
+}
+
+WillowBonsaiItem: {
+	DisplayName: Бонсай из жёлтой ивы
+	Tooltip: ""
+}
+
+AmethystBonsaiItem: {
+	DisplayName: Аметистовый бонсай
+	Tooltip: ""
+}
+
+DiamondBonsaiItem: {
+	DisplayName: Алмазный бонсай
+	Tooltip: ""
+}
+
+EmeraldBonsaiItem: {
+	DisplayName: Изумрудный бонсай
+	Tooltip: ""
+}
+
+SapphireBonsaiItem: {
+	DisplayName: Сапфировый бонсай
+	Tooltip: ""
+}
+
+TopazBonsaiItem: {
+	DisplayName: Топазовый бонсай
+	Tooltip: ""
+}
+
+AmberBonsaiItem: {
+	DisplayName: Янтарный бонсай
+	Tooltip: ""
+}
 
 JinxBow: {
-        DisplayName: Лук сглаза
-        Tooltip:
-            '''
-            Стреляет по врагам, не расходуя боеприпасы, иногда накладывая на них метку
-            При попадании стрелковыми атаками по врагам с меткой выпускается мощная магическая стрела
-            '''
-    }
+	DisplayName: Лук сглаза
+	Tooltip:
+		'''
+		Стреляет по врагам, не расходуя боеприпасы, иногда накладывая на них метку
+		При попадании стрелковыми атаками по врагам с меткой выпускается мощная магическая стрела
+		'''
+}
 
 ExplosiveRum: {
-        DisplayName: Взрывной ром
-        Tooltip: «О, а вот и он!»
-    }
+	DisplayName: Взрывной ром
+	Tooltip: «О, а вот и он!»
+}
 
 Flarepowder: {
-        DisplayName: Порошок искр
-        Tooltip: Выпускает облако парящего магического порошка
+	DisplayName: Порошок искр
+	Tooltip: Выпускает облако парящего магического порошка
 }
 
 VexpowderBlue: {
-        DisplayName: Порошок смятения
-        Tooltip:
-            '''
-            {$Items.Flarepowder.Tooltip}
-            Накладывает на поражённых врагов дебафф «{$BuffName.Confused}»
-            '''
+	DisplayName: Порошок смятения
+	Tooltip:
+		'''
+		{$Items.Flarepowder.Tooltip}
+		Накладывает на поражённых врагов дебафф «{$BuffName.Confused}»
+		'''
 }
 
 VexpowderRed: {
@@ -1940,115 +1940,114 @@ VexpowderRed: {
 }
 
 BreakawayChair: {
-        DisplayName: Ломкий стул
-        Tooltip: Ломается при ударе
+	DisplayName: Ломкий стул
+	Tooltip: Ломается при ударе
 }
 
 AncientMarksmanHood: {
-        DisplayName: Древний капюшон стрелка
-        Tooltip: "{$Items.LeatherHood.Tooltip}"
+	DisplayName: Древний капюшон стрелка
+	Tooltip: "{$Items.LeatherHood.Tooltip}"
 }
 
 AncientMarksmanLegs: {
-        DisplayName: Древние ботинки стрелка
-        Tooltip: ""
+	DisplayName: Древние ботинки стрелка
+	Tooltip: ""
 }
 
 AncientMarksmanPlate: {
-        DisplayName: Древний нагрудник стрелка
-        Tooltip: ""
+	DisplayName: Древний нагрудник стрелка
+	Tooltip: ""
 }
 
 RollingPotsItem: {
-        DisplayName: Катящийся горшок
-        Tooltip: ""
+	DisplayName: Катящийся горшок
+	Tooltip: ""
 }
 
 MossSlimeBannerItem.DisplayName: Знамя мшистого слизня
 
 InvisibleLure: {
-        DisplayName: Невидимая блесна
-        Tooltip: "{$Items.FishLure.Tooltip}"
+	DisplayName: Невидимая блесна
+	Tooltip: "{$Items.FishLure.Tooltip}"
 }
 
 SharpshooterGlove: {
-        DisplayName: Перчатка меткого стрелка
-        Tooltip:
-            '''
-            Увеличивает урон от стрелковых атак на расстоянии
-            Серия выстрелов на этой дистанции наносит увеличенный урон
-            '''
+	DisplayName: Перчатка меткого стрелка
+	Tooltip:
+		'''
+		Увеличивает урон от стрелковых атак на расстоянии
+		Серия выстрелов на этой дистанции наносит увеличенный урон
+		'''
 }
 
 BonsaiPot: {
-        DisplayName: Горшок для бонсая
-        Tooltip: Используется для создания декоративных бонсаев
+	DisplayName: Горшок для бонсая
+	Tooltip: Используется для создания декоративных бонсаев
 }
 
 WickerBasketsItem: {
-        DisplayName: Плетёная корзина
-        Tooltip: ""
+	DisplayName: Плетёная корзина
+	Tooltip: ""
 }
 
 EarthshakerBreastplate: {
-        DisplayName: Нагрудник землетрясателя
-        Tooltip: ""
+	DisplayName: Нагрудник землетрясателя
+	Tooltip: ""
 }
 
 EarthshakerChestpiece: {
-        DisplayName: Кираса землетрясателя
-        Tooltip: ""
+	DisplayName: Кираса землетрясателя
+	Tooltip: ""
 }
-    
-    EarthshakerHeadgear: {
-        DisplayName: Шлем землетрясателя
-        Tooltip: ""
+
+EarthshakerHeadgear: {
+	DisplayName: Шлем землетрясателя
+	Tooltip: ""
 }
 
 EarthshakerTreads: {
-        DisplayName: Ботфорты землетрясателя
-        Tooltip: ""
+	DisplayName: Ботфорты землетрясателя
+	Tooltip: ""
 }
 
 EarthshakerWarmask: {
-        DisplayName: Боевая маска землетрясателя
-        Tooltip: ""
-    }
-    
-    GraniteBody: {
-        DisplayName: Кинетический нагрудник
-        Tooltip: Немного увеличивает высоту прыжка
-    }
+	DisplayName: Боевая маска землетрясателя
+	Tooltip: ""
+}
+
+GraniteBody: {
+	DisplayName: Кинетический нагрудник
+	Tooltip: Немного увеличивает высоту прыжка
+}
 
 GraniteHead: {
-        DisplayName: Кинетический визор
-        Tooltip: "{$Items.GraniteBody.Tooltip}"
-    }
-    
-    GraniteLegs: {
-        DisplayName: Кинетические поножи
-        Tooltip: "{$Items.GraniteBody.Tooltip}"
-    }
+	DisplayName: Кинетический визор
+	Tooltip: "{$Items.GraniteBody.Tooltip}"
+}
 
-    FingerGun: {
-        DisplayName: Пальцестрел
-        Tooltip:
-            '''
-            Игнорирует часть защиты врагов
-            Скорость стрельбы увеличивается при большем запасе маны
-            «Пиу-пиу!»
-            '''
-    }
-    
-    FlaskOfFrost: {
-        DisplayName: Флакон мороза
-        Tooltip: Атаки ближнего боя, а также хлысты накладывают дебафф «{$Buffs.Frozen.DisplayName}»
-    }
-    
-    HardlightVisor: {
-        DisplayName: Светотвёрдый визор
-        Tooltip: ""
-        AltDisplayName: Светопрочный визор
-        AltTooltip: «Не путать со светотвёрдым визором»
-    }
+GraniteLegs: {
+	DisplayName: Кинетические поножи
+	Tooltip: "{$Items.GraniteBody.Tooltip}"
+}
+
+FingerGun: {
+	DisplayName: Пальцестрел
+	Tooltip:
+		'''
+		Игнорирует часть защиты врагов
+		Скорость стрельбы увеличивается при большем запасе маны
+		«Пиу-пиу!»
+		'''
+}
+
+FlaskOfFrost: {
+	DisplayName: Флакон мороза
+	Tooltip: Атаки ближнего боя, а также хлысты накладывают дебафф «{$Buffs.Frozen.DisplayName}»
+}
+
+HardlightVisor: {
+	DisplayName: Светотвёрдый визор
+	Tooltip: ""
+	AltDisplayName: Светопрочный визор
+	AltTooltip: «Не путать со светотвёрдым визором»
 }

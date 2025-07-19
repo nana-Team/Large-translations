@@ -109,11 +109,11 @@ ExplorerMine: {
 }
 
 JinxMark: {
-        DisplayName: Метка сглаза
-        Description: ""
-    }
+	DisplayName: Метка сглаза
+	Description: ""
+}
 
 FlaskOfFrost_Buff: {
-        DisplayName: Смазанное оружие: Заморозка
-        Description: Атаки ближнего боя, а также хлысты замораживают врагов
-    }
+	DisplayName: Смазанное оружие: Заморозка
+	Description: Атаки ближнего боя, а также хлысты замораживают врагов
+}

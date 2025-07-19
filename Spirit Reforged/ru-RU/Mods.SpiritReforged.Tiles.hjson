@@ -21,12 +21,12 @@ Records: {
 	UpsideDown: ‟Ошибка при производстве‟
 	Worm: При разрушении выползают множество червей.
 	Platter: Горячее блюдо, готовое к употреблению. Кто же мог его оставить?
-	// WickerBasket: A picnic, just for you!
+	WickerBasket: Пикник — специально для вас!
 	Aether: Даёт разнообразные полезные и сверкающие улучшения.
 	Stuffed: Какое странное место для торговца. Похоже, он только и ждёт, чтобы его побеспокоили.
 	Scrying: При разрушении открывает некоторую часть карты.
 	Biome: Содержит больше разнообразной добычи, чем обычные горшки.
-	// Boulder: Rolls along the ground when disturbed.
+	Boulder: Катится по земле, если его задеть.
 }
 
 SunkenTreasureTile.MapEntry: "{$Items.SunkenTreasure.DisplayName}"
@@ -48,4 +48,4 @@ OreCarts.MapEntry: Вагонетка
 PotionVats.MapEntry: Чан для зелий
 ObsidianShroom.MapEntry: Обсидиановый гриб
 Starflower.MapEntry: Звёздоцвет
-// BonsaiTrees.MapEntry: Bonsai
+BonsaiTrees.MapEntry: Бонсай

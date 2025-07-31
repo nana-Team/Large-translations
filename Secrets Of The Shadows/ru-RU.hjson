@@ -4321,29 +4321,31 @@ Mods: {
 			}
 
 			Doomstick: {
-				DisplayName: Doomstick
+				DisplayName: Дроборок
 				Tooltip:
 					'''
-					Fires two shotgun blasts in quick succession
-					Right click to launch a 250% damage hook that pulls in enemies
-					Pulls you toward bosses instead
-					Killed enemies drop packs of health and mana
+					Дважды стреляет разбросом пуль
+					Нажмите ПКМ, чтобы запустить крюк, наносящий врагам 250% урона и притягивающий их к вам
+					Если крюк попал в босса, то вы притянетесь к нему
+					После убитых врагов остаётся больше сердец здоровья и звёзд маны
 					'''
 			}
 
 			ElectromagneticDeterrent: {
-				DisplayName: Disruptive Electromagnetic Field Emitter
-				Tooltip: Prevents constructs from spawning while favorited in the inventory or when placed
+				DisplayName: Излучатель разрушающего электромагнитного поля
+				Tooltip: Если излучатель помечен как избранное или размещён в мире, то конструкции не будут появляться
 			}
 
 			ElectromagneticLure: {
 				DisplayName: Электромагнитная приманка
 				Tooltip: Призывает конструкцию текущего биома
+				// PossibleConstructs: "Possible constructs: "
+				// None: None
 			}
 
 			ExplosiveKnife: {
-				DisplayName: Explosive Knife
-				Tooltip: "'Quite a deadly combination'"
+				DisplayName: Взрывной нож
+				Tooltip: «Смертельная комбинация»
 			}
 
 			FlashsparkBoots: {
@@ -4362,36 +4364,36 @@ Mods: {
 			}
 
 			FortressGenerator: {
-				DisplayName: Fortress Generator
+				DisplayName: Генератор крепости
 				Tooltip:
 					'''
-					Increases max minions and max sentries by 1
-					Increases damage by 10% and life regeneration by 2
-					Generates 4 platforms to the left and right of you
-					You can right click to drag the platforms, but they will always remain symmetrical
-					Sentries can be summoned on top of the platforms
-					Absorbs 25% of damage done to players on your team when above 25% life and grants immunity to knockback
+					Увеличивает максимальное количество	миньонов и стражников на 1
+					Увеличивает урон на 10% и регенерацию здоровья на 2
+					Создаёт по 2 платформы слева и справа от вас
+					Вы можете удерживать ПКМ и перемещать платформы, но платформы с другой стороны будут симметрично перемещены
+					Стражи, находящиеся на этих платформах, будут перемещаться вместе с вами
+					Поглощает 25% урона, нанесённого игрокам вашей команды, когда у вас больше 25% здоровья, а также даёт неязвимость к отбрасыванию
 					'''
 			}
 
 			HealPack: {
-				DisplayName: Heal Pack
+				DisplayName: Лечебный набор
 				Tooltip: ""
 			}
 
 			ManaPack: {
-				DisplayName: Mana Pack
+				DisplayName: Мана-пластырь
 				Tooltip: ""
 			}
 
 			HelicopterParts: {
-				DisplayName: Helicopter Parts
+				DisplayName: Части вертолёта
 				Tooltip: ""
 			}
 
 			MinersSword: {
-				DisplayName: Miner's Sword
-				Tooltip: Critically strikes while falling
+				DisplayName: Меч шахтёра
+				Tooltip: Наносит критические удары, если вы падаете
 			}
 
 			OlympianAegis: {
@@ -4405,12 +4407,12 @@ Mods: {
 			}
 
 			OlympianAxe: {
-				DisplayName: Olympian Waraxe
+				DisplayName: Олимпийский боевой топор
 				Tooltip:
 					'''
-					Enter a 3 second Frenzy after killing an enemy, massively increasing melee attack speed
-					Right click to toss the axe for 60% damage
-					Can toss two axes when under Frenzy
+					После убийства врага вы на три секнды впадаете в безумие, что значительно увеличивает скорость ближнего боя
+					Нажмите ПКМ, чтобы запустить топор, который будет наносить 60% урона
+					Во время безумия можно бросить 2 топора
 					'''
 			}
 
@@ -4425,29 +4427,29 @@ Mods: {
 			}
 
 			RoyalJelly: {
-				DisplayName: Royal Jelly
+				DisplayName: Королевское желе
 				Tooltip:
 					'''
-					Increases healing received from potions by 40
-					'I could make a very, very bad joke right now...'
+					Увеличивает эффективность зелий лечения на 40 единиц
+					'Мне в голову пришла одна очень, очень плохая шутка...'
 					'''
 			}
 
 			Sandwich: {
-				DisplayName: Sandwich
+				DisplayName: Сэндвич
 				Tooltip:
 					'''
-					Increases healing received from potions by 40
-					Killing enemies will drop baguette crumbs
-					Summons a pet Putrid Pinky to assist in combat
-					Latches onto enemies, slowing them down and draining life
-					Increases life regeneration by 1
+					Увеличивает эффективность зелий лечения на 40 единиц
+					После смертей врагов остаются хлебные крошки
+					Призывает Гнилого Пинки помогать вам в бою
+					Он прицепляется к врагам, замедляя их и высасывая из них жизнь
+					Увеличивает регенерацию здоровья на 1
 					'''
 			}
 
 			SpectreSpiritStorm: {
-				DisplayName: Spectre Spirit Storm
-				Tooltip: Fires 3 phantom arrows that each travel instantly to up to 4 enemies at a time
+				DisplayName: Фантомный шторм душ
+				Tooltip: Стреляет 3 фантомными стрелами, каждая из которых моментально поражает до 4 врагов
 			}
 
 			SubspaceBoosters: {
@@ -4455,10 +4457,10 @@ Mods: {
 				Tooltip:
 					'''
 					Невевероятно увеличивает ускорение во время бега
-					Также позволяет летать и обеспечивает дополнительной мобильностью на льду
-					Значительно увеличивает скорость передвижения
-					Позволяет ходить по воде, меду и лаве
-					Даёт невосприимчивость к огненным блокам и невосприимчивость к лаве на 10 секунд
+					Также позволяют летать и обеспечивают дополнительной мобильностью на льду
+					Значительно увеличивают скорость передвижения
+					Позволяют ходить по воде, меду и лаве
+					Дают невосприимчивость к огненным блокам и невосприимчивость к лаве на 10 секунд
 					Нажмите дважды в нужном направлении, чтобы совершать взрывной рывок, значительно увеличивающий скорость передвижения и ускорения
 					'''
 			}
@@ -4473,8 +4475,8 @@ Mods: {
 			}
 
 			GlowJelly: {
-				DisplayName: Glow Jelly
-				Tooltip: Increases healing and mana received from potions by 40
+				DisplayName: Светящееся желе
+				Tooltip: Увеличивает эффективность зелий лечения и маны на 40 единиц
 			}
 
 			AlchemistsCharm: {
@@ -4503,27 +4505,27 @@ Mods: {
 			}
 
 			AetherWall: {
-				DisplayName: Aether Wall
+				DisplayName: Райская стена
 				Tooltip: ""
 			}
 
 			AuroraWall: {
-				DisplayName: Aurora Wall
+				DisplayName: Стена Авроры
 				Tooltip: ""
 			}
 
 			BrillianceWall: {
-				DisplayName: Brilliance Wall
+				DisplayName: Ослепительная стена
 				Tooltip: ""
 			}
 
 			DelugeWall: {
-				DisplayName: Deluge Wall
+				DisplayName: Затопленная стена	
 				Tooltip: ""
 			}
 
 			EarthenPlatingBeam: {
-				DisplayName: Earthen Plating Beam
+				DisplayName: Колонна земляного покрытия
 				Tooltip: ""
 			}
 
@@ -4568,7 +4570,7 @@ Mods: {
 			}
 
 			UmbraWall: {
-				DisplayName: Umbra Wall
+				DisplayName: Теневая стена
 				Tooltip: ""
 			}
 
@@ -4926,7 +4928,7 @@ Mods: {
 			}
 
 			DarkShingles: {
-				DisplayName: Dark Shingles
+				DisplayName: Эвокаменный полированный кирпич
 				Tooltip: ""
 			}
 
@@ -4986,8 +4988,8 @@ Mods: {
 			}
 
 			PeanutBush: {
-				DisplayName: Peanut Bush
-				Tooltip: Grows peanuts in the dirt underneath
+				DisplayName: Арахисовый куст
+				Tooltip: Выращивает арахис в ближайшей земле
 			}
 
 			FrigidBar: {
@@ -5006,17 +5008,17 @@ Mods: {
 			}
 
 			HardIceBrick: {
-				DisplayName: Hard Ice Brick
+				DisplayName: Кирпич из твёрдого льда
 				Tooltip: ""
 			}
 
 			HardIceBrickWall: {
-				DisplayName: Hard Ice Brick Wall
+				DisplayName: Кирпичная стена из твёрдого льда
 				Tooltip: ""
 			}
 
 			AcediaPlatingWall: {
-				DisplayName: Acedia Plating Wall
+				DisplayName: Аседийская портальная стена
 				Tooltip: ""
 			}
 
@@ -5041,17 +5043,17 @@ Mods: {
 			}
 
 			PyramidChest: {
-				DisplayName: Pyramid Chest
+				DisplayName: Сундук Пирамиды
 				Tooltip: ""
 			}
 
 			PyramidGate: {
-				DisplayName: Pyramid Gate
+				DisplayName: Врата Пирамиды
 				Tooltip: ""
 			}
 
 			CursedTumorWall: {
-				DisplayName: Cursed Tumor Wall
+				DisplayName: Стена проклятой опухоли
 				Tooltip: ""
 			}
 
@@ -5061,7 +5063,7 @@ Mods: {
 			}
 
 			PyramidBrickWall: {
-				DisplayName: Pyramid Brick Wall
+				DisplayName: Кирпичная стена Пирамиды
 				Tooltip: ""
 			}
 
@@ -5071,12 +5073,12 @@ Mods: {
 			}
 
 			UnsafeCursedTumorWall: {
-				DisplayName: Unsafe Cursed Tumor Wall
+				DisplayName: Опасная стена проклятой опухоли
 				# PyramidWalls
 				Tooltip:
 					'''
-					Changes the biome to pyramid when in front of
-					Also envokes the Pharaoh's Curse
+					Меняет биом на Пирамиду, если вы стоите перед ней
+					Также пробуждает проклятие Фараона
 					'''
 			}
 
@@ -6909,6 +6911,73 @@ Mods: {
 				// DisplayName: B. Wand
 				// Tooltip: ""
 			}
+
+			AncientSteelArrow: {
+				// DisplayName: Scrap Metal Arrow
+				// Tooltip: Critical strikes may apply a stacking, permanent bleed for 5 damage per second
+			}
+
+			AncientSteelBullet: {
+				// DisplayName: Scrap Metal Bullet
+				// Tooltip: Critical strikes may apply a stacking, permanent bleed for 5 damage per second
+			}
+
+			ExcavatorBossBag: {
+				// DisplayName: Treasure Bag (The Excavator)
+				// Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			LuxBall: {
+				// DisplayName: Spirit Golf Ball
+				/* Tooltip:
+					'''
+					Can be hit with a golf club and deals damage increasing with velocity
+					'This is one big photon!'
+					''' */
+			}
+
+			ExcavatorRelic: {
+				// DisplayName: The Excavator Relic
+				// Tooltip: ""
+			}
+
+			ExcavatorMask: {
+				// DisplayName: Excavator Mask
+				// Tooltip: ""
+			}
+
+			ExcavatorTrophy: {
+				// DisplayName: Excavator Trophy
+				// Tooltip: ""
+			}
+
+			IraGateway: {
+				// DisplayName: Ira Gateway
+				// Tooltip: ""
+			}
+
+			DrillHand: {
+				// DisplayName: Drill Arm
+				/* Tooltip:
+					'''
+					Mine in a 3x3 area, but reduce mining speed by 50% and pickaxe power by 15
+					When smart cursor is enabled, increase mining speed by 15% instead
+					''' */
+			}
+
+			OtherworldlyServiceDevice: {
+				// DisplayName: Otherworldly Service Device
+				/* Tooltip:
+					'''
+					Summons a Beepy Boopy Construct to provide light
+					'Need some advice? Ask the experts using this convenient communing-device!'
+					''' */
+			}
+
+			ExcavatorMusicBox: {
+				// DisplayName: Music Box (Excavator)
+				// Tooltip: ""
+			}
 		}
 
 		ItemTooltip: {
@@ -7401,6 +7470,11 @@ Mods: {
 				DisplayName: Friendly Cart
 				Description: "'It's carting time!'"
 			}
+
+			BeepBoop: {
+				// DisplayName: Beep Boop
+				// Description: While this construct is just one of many you've encounter in your adventures, you are its entire otherworld!
+			}
 		}
 
 		ArmorSetBonus: {
@@ -7695,6 +7769,8 @@ Mods: {
 			EvostonePots.MapEntry: Pots
 			SeismicStationTile.MapEntry: Seismic Station
 			// TideChainTile.MapEntry: Tide Chain Tile
+			// IraGatewayTile.MapEntry: Ira Gateway
+			// ExcavatorMusicBoxTile.MapEntry: Music Box
 		}
 
 		WorldGeneration: {
@@ -7925,7 +8001,17 @@ Mods: {
 			TardigradeGreen.DisplayName: Tardigrade
 			TardigradePink.DisplayName: Tardigrade
 			Bridgeburner.DisplayName: Bridgeburner
-			Excavator.DisplayName: The Excavator
+
+			Excavator: {
+				DisplayName: The Excavator
+
+				BossChecklistIntegration: {
+					// EntryName: The Excavator
+					// SpawnInfo: Awaken by activating the [i:SOTS/SeismicStation] in the Abandoned Village Mines
+					// DespawnMessage: The Excavator is no longer after you
+				}
+			}
+
 			ExcavatorBody.DisplayName: The Excavator
 			SubspaceWorm.DisplayName: Subspace Worm
 			SanguineFoundry.DisplayName: Sanguine Foundry
@@ -7938,6 +8024,7 @@ Mods: {
 			PupaFly.DisplayName: Gore Fly
 			VoidTreasureSlime.DisplayName: Void Treasure Slime
 			RotWalker.DisplayName: Rotwalker
+			// GulaSpirit.DisplayName: Gula Spirit
 		}
 
 		Bestiary: {
@@ -8137,6 +8224,7 @@ Mods: {
 				He survived the worst of it: the smell of rot and burning flesh, the screams and cries of horror...
 				He wished he hadn't.
 				'''
+			// GulaSpirit: Water and oil don't mix.
 		}
 
 		DeathMessage: {
@@ -8988,6 +9076,17 @@ Mods: {
 			KingSlashThrow.DisplayName: King Slash Throw
 			LightspeedKingblade.DisplayName: Lightspeed Kingblade
 			// ExcavatorBolt.DisplayName: Excavator Bolt
+			// Bubble.DisplayName: Bubble
+			// AncientSteelArrow.DisplayName: Scrap Metal Arrow
+			// AncientSteelBullet.DisplayName: Scrap Metal Bullet
+			// ExcavatorSaw.DisplayName: Excavator Saw
+			// ExcavatorBoltBig.DisplayName: Excavator Bolt Big
+			// ExcavatorBoltSmall.DisplayName: Excavator Bolt Small
+			// EvilBolt2.DisplayName: Evil Bolt
+			// EvilEye.DisplayName: Evil Eye
+			// LuxBallProjectile.DisplayName: Spirit Golf Ball
+			// DrillHand.DisplayName: Drill Hand
+			// Boopy.DisplayName: Boopy
 		}
 
 		DamageClasses: {

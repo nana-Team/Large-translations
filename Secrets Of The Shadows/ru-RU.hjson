@@ -2687,7 +2687,7 @@ Mods: {
 			}
 
 			SkywardBlades: {
-				DisplayName: Небесные ножи
+				DisplayName: Заоблачные ножи
 				Tooltip:
 					'''
 					Вооружи себя несколькими смертоносными метательными ножами
@@ -2697,7 +2697,7 @@ Mods: {
 			}
 
 			SkywareBattery: {
-				DisplayName: Небесная батарея
+				DisplayName: Заоблачная батарея
 				Tooltip:
 					'''
 					Увеличивает получаемую пустоту на 2 и её запас на 50
@@ -4264,7 +4264,7 @@ Mods: {
 
 			ArcaneAqueduct: {
 				DisplayName: Арканический акведук
-				Tooltip: Вокруг вас будeт вращаться 2 водяных шара, наносящих урон
+				Tooltip: Вокруг вас будут вращаться 2 водяных шара, наносящих урон
 			}
 
 			BackupBow: {
@@ -4520,7 +4520,7 @@ Mods: {
 			}
 
 			DelugeWall: {
-				DisplayName: Затопленная стена	
+				DisplayName: Затопленная стена
 				Tooltip: ""
 			}
 
@@ -5083,34 +5083,34 @@ Mods: {
 			}
 
 			UnsafeOvergrownPyramidWall: {
-				DisplayName: Unsafe Overgrown Pyramid Wall
+				DisplayName: Опасная заросшая пирамидная стена
 				Tooltip:
 					'''
-					Changes the biome to pyramid when in front of
-					Also envokes the Pharaoh's Curse
+					Меняет биом на Пирамиду, если вы стоите перед ней
+					Также пробуждает проклятие Фараона
 					'''
 			}
 
 			UnsafePyramidBrickWall: {
-				DisplayName: Unsafe Pyramid Brick Wall
+				DisplayName: Опасная пирамидная кирпичная стена
 				Tooltip:
 					'''
-					Changes the biome to pyramid when in front of
-					Also envokes the Pharaoh's Curse
+					Меняет биом на Пирамиду, если вы стоите перед ней
+					Также пробуждает проклятие Фараона
 					'''
 			}
 
 			UnsafePyramidWall: {
-				DisplayName: Unsafe Pyramid Wall
+				DisplayName: Опасная пирамидная стена
 				Tooltip:
 					'''
-					Changes the biome to pyramid when in front of
-					Also envokes the Pharaoh's Curse
+					Меняет биом на Пирамиду, если вы стоите перед ней
+					Также пробуждает проклятие Фараона
 					'''
 			}
 
 			Sarcophagus: {
-				DisplayName: Sarcophagus
+				DisplayName: Саркофагус
 				Tooltip: ""
 			}
 
@@ -5125,7 +5125,7 @@ Mods: {
 			}
 
 			RefractingCrystal: {
-				DisplayName: Refracting Crystal
+				DisplayName: Преломляющий кристалл
 				Tooltip: ""
 			}
 
@@ -5140,7 +5140,7 @@ Mods: {
 			}
 
 			BlackFlare: {
-				DisplayName: Black Flare
+				DisplayName: Тёмная вспышка
 				Tooltip: ""
 			}
 
@@ -5155,8 +5155,8 @@ Mods: {
 			}
 
 			SharkPog: {
-				DisplayName: Pog Shark
-				Tooltip: Launches bubbles that rise quickly
+				DisplayName: Погокула
+				Tooltip: Запускает быстро поднимающиеся пузыри
 			}
 
 			GlowWhip: {
@@ -5169,12 +5169,12 @@ Mods: {
 			}
 
 			HydrokineticAntennae: {
-				DisplayName: Hydrokinetic Antennae
+				DisplayName: Гидрокинетический удинитель
 				Tooltip:
 					'''
-					Use hydrokinesis to extend the effective range of melee weapons and other low-reach items, such as whips
-					Increases melee damage by 50% of the increases received to summon damage from other sources
-					Increases summon damage by 50% of the increases received to melee damage from other sources
+					Использует гидрокинезис для того, чтобы увеличить радиус использования оружия малой дистанции, например, хлыстов и оружия ближнего боя
+					Увеличивает урон ближнего боя на 50% от увеличения урона призывателя
+					Увеличивает урон призывателя на 50% от увеличения урона ближнего боя
 					'''
 			}
 
@@ -5189,26 +5189,26 @@ Mods: {
 			}
 
 			Atlantis: {
-				DisplayName: Atlantis
+				DisplayName: Атлантис
 				Tooltip:
 					'''
-					Throw a loyal trident that returns shortly after
-					Right click to launch a homing Water Shark
-					If the trident hits an enemy on its return, it will steal life and grant a buff when caught
-					The buff increases magic and melee damage based on stat increases to the other, increases movement speed by 20%, and reduces damage taken by 10%
-					While buffed, this weapon also no longer costs void
-					Enemies hit by the Water Shark or the returning trident will be encircled by water, slashed several times for 20% damage, and slowed
+					Бросает верный трезубец, который вскоре возвращается
+					Нажмите ПКМ, чтобы запустить самонаводящуюся водную акулу
+					Если на обратном пути трезубец ударяет врага, то он крадёт у него жизнь и даёт вам бафф по возвращении
+					Бафф взаимно увеличивает магический и ближний урон в зависимости от бонусов урона, скорость передвижения на 20% и уменьшает получаемый урон на 10%
+					Пока бафф активен, оружие не требует пустоты
+					Враги, которые получили урон от водной акулы иил возвращающегося трезубца, окружаются водой, которая переодически брызгает, нанося 20% урона, и замедляет их
 					'''
 			}
 
 			LockingMechanism: {
-				DisplayName: Locking Mechanism
+				DisplayName: Блокирующий мехнизм
 				Tooltip:
 					'''
-					Developer and Map Creator item:
-					Locks Skyware, Meteorite, Planetarium, and other Secrets of the Shadows Chests
-					Simply click on the chest to lock
-					Will probably NOT work when used in multiplayer (you must lock the chest in singleplayer first)
+					Предмет разработчиков и создателей карт:
+					Запирает заоблачные, метеоритные, планетарныеи другие сундуки СОТСа
+					Просто нажмите на сундук, чтобы его закрыть
+					Скорее всего не сработает в мультиплеере (лучше будет закрыть сундук в одиночной игре)
 					'''
 			}
 
@@ -5287,15 +5287,15 @@ Mods: {
 			}
 
 			SupernovaEmblem: {
-				DisplayName: Supernova Emblem
+				DisplayName: Эблема суперновы
 				Tooltip:
 					'''
-					Killing enemies releases a seeker for 150% damage
-					Enemies killed by seekers release 2 seekers instead, each doing 75% damage
-					Increases melee damage by 15%
-					Increases void gain by 2 and max void by 50
-					When hurt, 12% of damage taken is converted into void
-					Immunity to Broken Armor and Ichor
+					Убийство врагов высвобождает искателей, наносящих 150% урона
+					Враги, убитые искателями, высвобождают двух искателей, каждый из которых наносит 75% урона
+					Увеличивает урон ближнего боя на 15%
+					Увеличивает получаемую пустоту на 2 и её запас на 50 ед.
+					Когда вы получаете урон, 12% от него преобразуется в пустоту
+					Иммунитет к Сломанной броне и Ихору
 					'''
 			}
 
@@ -5375,12 +5375,12 @@ Mods: {
 			}
 
 			EarthGrinder: {
-				DisplayName: Earth Grinder
+				DisplayName: Молотель земли
 				Tooltip:
 					'''
-					Right click to strike with 2 slashes
-					The first slash will always crit
-					The second slash will hit enemies repeatedly
+					Нажмите ПКМ, чтобы разрезать врагов дважды
+					Первый разрез всегда является критическим
+					Второй разрез наносит врагам несколько ударов
 					'''
 			}
 

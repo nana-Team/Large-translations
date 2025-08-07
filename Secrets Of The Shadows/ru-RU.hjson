@@ -995,25 +995,25 @@ Mods: {
 			}
 
 			ConduitChassis: {
-				DisplayName: Conduit Chassis
-				Tooltip: Completes the carapace of a conduit, allowing for energy redirection
+				DisplayName: Рама конструкта
+				Tooltip: Завершает оболочку конструкта, позволяя осуществить перенаправление энергии
 			}
 
 			NatureConduit: {
-				DisplayName: Nature Conduit
+				DisplayName: Природный конструкт
 				Tooltip:
 					'''
-					An incomplete redirector of nature energy: it lacks a support chassis
-					When fully charged, it will focus nearby nature energy into valid repositories
+					Незавершённый перенаправитель природной энергии: ему не хватает основной рамы
+					При полной зарядке он направит природную энергию в подходящие хранилища
 					'''
 			}
 
 			EarthenConduit: {
-				DisplayName: Earth Conduit
+				DisplayName: Земляной конструкт
 				Tooltip:
 					'''
-					An incomplete redirector of earth energy: it lacks a support chassis
-					When fully charged, it will focus nearby earth energy into valid repositories
+					Незавершённый перенаправитель земельной энергии: ему не хватает основной рамы
+					При полной зарядке он направит земельную энергию в подходящие хранилища
 					'''
 			}
 
@@ -5385,20 +5385,20 @@ Mods: {
 			}
 
 			Tesseract: {
-				DisplayName: Tesseract
+				DisplayName: Тессеракт
 				Tooltip:
 					'''
-					Summons a Void Clone that uses items to attack enemies
-					Starting with the item in the bottom-left inventory slot and ending with the bottom-right slot, each Clone uses a different item
-					When first summoned, the Clone will await a command for how it should use the item (left or right click) and for how long (for charge items)
-					After the first usage of the item, the Clone will now automatically use the item as specified
-					Items used by Clones are affected by Void and Summon damage bonuses but have damage reduced by 30% multiplicatively
+					Призывает пустотного клона, кторый атакует врагов предметамми
+					Начиная с предмета в нижнем левом слоте инвентаря и заканчивая верхним правым, каждый клон использует различный предмет
+					При первом призыве клон будет ожидать инструкций по использованияю предмета (ЛКМ или ПКМ) и продолжительности использования (для заряжаемых предметов)
+					После первого использования предмета, клон будет автоматически использовать предмет согласно инструкции
+					Предметы, используемые клоном, трятят пустоту и получают услиение от урона призывателя, но их урон уменьшен на 30% мультипликативно
 					'''
 			}
 
 			InfiniteVoid: {
-				DisplayName: Infinite Void
-				Tooltip: Increases max void by 10000
+				DisplayName: Нескончаемая пустота
+				Tooltip: Увеличивает запас пустоты на 10000
 			}
 
 			TinyPlanetoid: {
@@ -5444,24 +5444,24 @@ Mods: {
 			}
 
 			RiftCookie: {
-				DisplayName: Rift Cookie
+				DisplayName: Разрывное печенье
 				Tooltip:
 					'''
-					Shifts the position of anomalies and the Archaeologist
-					Will not work when the Archaeologist is near a player
+					Меняет позицию аномалий и Археолога
+					Не будет работать, ессли Археолог находится рядом с игроком
 					'''
 			}
 
 			GildedBladeWings: {
-				DisplayName: Gilded Blade Wings
+				DisplayName: Позолоченные мечекрылья
 				Tooltip: TEMP
 				Description:
 					'''
-					Allows infinite flight and slow fall
-					Increases void gain by 3 and void regeneration speed by 25%
-					Doubles damage done to non-Lux spirit enemies
-					Press '{0}' to gain fast, multidirectional flight
-					Hold '{1}' to fly slower while in the special flight mode
+					Позволяет бесконечно летать и парить
+					Увеличивает получаемую пустоту на 3 и скорость её регенерации на 25%
+					Удваевает урона по не-люксовым духовным врагам
+					Нажмите '{0}', чтобы обрести быстрый всенаправленный полёт
+					Удерживайте '{1}', чтобы лететь медленне, когда вы находитксь в режиме быстрого полёта
 					'''
 			}
 
@@ -5475,7 +5475,7 @@ Mods: {
 			}
 
 			GuardianGreatsword: {
-				DisplayName: Большой мечь хранителя
+				DisplayName: Большой меч хранителя
 				Tooltip:
 					'''
 					Атакует очередью из трёх атак
@@ -5484,12 +5484,12 @@ Mods: {
 			}
 
 			EarthBreaker: {
-				DisplayName: Earth Breaker
+				DisplayName: Крушитель земли
 				Tooltip:
 					'''
-					Can mine Meteorite
-					Right click to throw a block-breaking pickaxe
-					Only consumes void when thrown
+					Может добывать метеорит
+					Нажмите ПКМ, чтобы бросить ламющую блоки кирку
+					Потребляет пустоту только при броске
 					'''
 			}
 
@@ -5497,7 +5497,7 @@ Mods: {
 				DisplayName: Otherworld Crate
 				Tooltip:
 					'''
-					Can only be reeled in by a Twilight Fishing Pole
+					Можно выловить только сумрачной удочкой
 					{$CommonItemTooltip.RightClickToOpen}
 					'''
 			}
@@ -5517,130 +5517,130 @@ Mods: {
 			}
 
 			SwallowedPenny: {
-				DisplayName: Swallowed Penny
+				DisplayName: Поглощённая монета
 				Tooltip:
 					'''
-					Increases critical strike chance by 4%
-					Generate coins when hurt
-					'Gulp!'
+					Увеличивает шанс критического удара на 4%
+					Создаёт монеты, если вы получаете урон
+					'Глоть!'
 					'''
 			}
 
 			BundleOfSnakes: {
-				DisplayName: Bundle of Snakes
+				DisplayName: Связка змей
 				Tooltip:
 					'''
-					Increases life regeneration by 1 during the night
-					Attaches a Venomous Snake to all minions
+					Увеличивает регенерацию здоровья на 1 ед (0,5 ОЗ/сек) во время ночи
+					Прикрепляет ко всем миньонам ядовитую змею
 					'''
 			}
 
 			ChaosConduit: {
-				DisplayName: Chaos Conduit
+				DisplayName: Хаотический конструкт
 				Tooltip:
 					'''
-					An incomplete redirector of chaos energy: it lacks a support chassis
-					When fully charged, it will focus nearby chaos energy into valid repositories
+					Незавершённый перенаправитель природной энергии хаоса: ему не хватает основной рамы
+					При полной зарядке он направит энергию хаоса в подходящие хранилища
 					'''
 			}
 
 			OtherworldConduit: {
-				DisplayName: Otherworld Conduit
+				DisplayName: Потусторонний конструкт
 				Tooltip:
 					'''
-					An incomplete redirector of otherworldly energy: it lacks a support chassis
-					When fully charged, it will focus nearby otherworldly energy into valid repositories
+					Незавершённый перенаправитель потусторонней энергии: ему не хватает основной рамы
+					При полной зарядке он направит потустороннюю энергию в подходящие хранилища
 					'''
 			}
 
 			Taco: {
-				DisplayName: Big Taco
-				Tooltip: Refills 40 void and grants Wrath for 3 minutes
+				DisplayName: Большое тако
+				Tooltip: Восполняет 40 пустоты и даёт Гнев на 3 минуты
 			}
 
 			EvilConduit: {
-				DisplayName: Evil Conduit
+				DisplayName: Конструкт зла
 				Tooltip:
 					'''
-					An incomplete redirector of evil energy: it lacks a support chassis
-					When fully charged, it will focus nearby evil energy into valid repositories
+					Незавершённый перенаправитель злой энергии: ему не хватает основной рамы
+					При полной зарядке он направит злую энергию в подходящие хранилища
 					'''
 			}
 
 			InfernoConduit: {
-				DisplayName: Inferno Conduit
+				DisplayName: Инфернальный конструкт
 				Tooltip:
 					'''
-					An incomplete redirector of inferno energy: it lacks a support chassis
-					When fully charged, it will focus nearby inferno energy into valid repositories
+					Незавершённый перенаправитель инфернальной энергии: ему не хватает основной рамы
+					При полной зарядке он направит инфернальную энергию в подходящие хранилища
 					'''
 			}
 
 			PermafrostConduit: {
-				DisplayName: Permafrost Conduit
+				DisplayName: Конструкт вечной мерзлоты
 				Tooltip:
 					'''
-					An incomplete redirector of permafrost energy: it lacks a support chassis
-					When fully charged, it will focus nearby permafrost energy into valid repositories
+					Незавершённый перенаправитель морозной энергии: ему не хватает основной рамы
+					При полной зарядке он направит морозную энергию в подходящие хранилища
 					'''
 			}
 
 			TidalConduit: {
-				DisplayName: Tide Conduit
+				DisplayName: Приливной конструкт
 				Tooltip:
 					'''
-					An incomplete redirector of tide energy: it lacks a support chassis
-					When fully charged, it will focus nearby tide energy into valid repositories
+					Незавершённый перенаправитель энергии прилива: ему не хватает основной рамы
+					При полной зарядке он направит энергию прилива в подходящие хранилища
 					'''
 			}
 
 			Lockpick: {
-				DisplayName: Lockpick
+				DisplayName: Отмычка
 				Tooltip:
 					'''
-					33% chance not to lose keys when unlocking chests
-					Recover scrap materials from lost keys
+					33% шанст не потратить ключ при открытии сундука
+					От сломааных ключей остаётся лом
 					'''
 			}
 
 			GulaPlating: {
-				DisplayName: Gula Plating
+				DisplayName: Покрытие Гулы
 				Tooltip: ""
 			}
 
 			GulaPortalPlating: {
-				DisplayName: Gula Portal Plating
+				DisplayName: Портальное покрытие Гулы
 				Tooltip: ""
 			}
 
 			GulaGateway: {
-				DisplayName: Gula Gateway
+				DisplayName: Врата Гулы
 				Tooltip: ""
 			}
 
 			GulaPlatingWall: {
-				DisplayName: Gula Plating Wall
+				DisplayName: Стена из покрытя Гулы
 				Tooltip: ""
 			}
 
 			GulaVault: {
-				DisplayName: Gula Vault
+				DisplayName: Сундук Гулы
 				Tooltip: ""
 			}
 
 			Icebreaker: {
-				DisplayName: Icebreaker
-				Tooltip: Fires a large icicle alongside a storm of bullets
+				DisplayName: Ледокол
+				Tooltip: Запускает большую сосульку со штормом пуль
 			}
 
 			BCatalogue: {
-				DisplayName: B Catalogue
-				Tooltip: Unlocks 100% of the bestiary
+				DisplayName: Каталог Б
+				Tooltip: Разблокирует 100 бестиария
 			}
 
 			KeepersBox: {
-				DisplayName: Keeper's Box
-				Tooltip: Don't lose coins upon death
+				DisplayName: Коробка хранителя
+				Tooltip: Вы не теряете монеты при смерти
 			}
 
 			SoulOfTheKeeper: {
@@ -7703,7 +7703,7 @@ Mods: {
 				MapEntry13: Закрытый самоцветный сундук
 			}
 
-			OtherworldCrateTile.MapEntry: Otherworld Crate Tile
+			OtherworldCrateTile.MapEntry: Потусторонний ящик
 			PlanetariumCrateTile.MapEntry: Ящик Планетария
 			ChaosConduitTile.MapEntry: Chaos Conduit
 			OtherworldConduitTile.MapEntry: Otherworld Conduit

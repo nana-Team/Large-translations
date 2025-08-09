@@ -5644,188 +5644,188 @@ Mods: {
 			}
 
 			SoulOfTheKeeper: {
-				DisplayName: Soul of the Keeper
+				DisplayName: Душа хранителя
 				Tooltip:
 					'''
-					Increases mining speed by 5% and critical strike chance by 5%
-					Generate coins when hurt and don't lose coins upon death
-					Mining blocks has a chance to drop bonus resources, such as coins and silt
+					Увеличивает шанс критического удара и скорость добычи на 5%
+					Вы не теряете монеты при смерти и создаёте их при ранении
+					Во время добычи блоков у вас есть шанс получить доплонительные ресурсы, такие как ил или монеты
 					'''
 			}
 
 			PlagueSpitter: {
-				DisplayName: Acid Belcher
+				DisplayName: Кислотный поедатель
 				Tooltip:
 					'''
-					Charge up to 30 high-velocity acid balls that can be fired in quick succession
-					Struck enemies are temporarily coated in acid, increasing the damage they receive from all subsequent acid balls by 20%
-					Acid-coated enemies also take 10 damage per second per stack of acid
+					Создаёт до 30 высокоскоростных кислотных шаров, которые быстро запускаются приотпускании ЛКМ
+					Раненые враги временно покрываются кислотой, что увеличивает урон от всех последующих шаров на 20%
+					Покрытые кислотой вргаи также получают 10 урона в секунду за каджый стак кислоты
 					'''
 			}
 
 			CorpsebloomBanner: {
-				DisplayName: Corpsebloom Banner
+				DisplayName: Знамя мертвоцвета
 				Tooltip: ""
 			}
 
 			AVPot: {
-				DisplayName: AV Pot
+				DisplayName: ВЗ горшок
 				Tooltip: ""
 			}
 
 			TesseractSword: {
-				DisplayName: Tesseract Sword
-				Tooltip: Stop snooping around!
+				DisplayName: Тессерактовый меч
+				Tooltip: Хватит шпионить!
 			}
 
 			AVAmbient: {
-				DisplayName: AV Ambient
+				DisplayName: Вз остатки
 				Tooltip: ""
 			}
 
 			WishingStar: {
-				DisplayName: Wishing Star
-				AltDisplayName: Shattered Dreams
+				DisplayName: Звезда желаний
+				AltDisplayName: Расколотые мечты
 				Tooltip:
 					'''
 					Temp1
 					Temp2
 					'''
-				DefaultTooltip: Unleash a 100 damage star and gain a random buff every 100 mana consumed with magic weapons
-				AltTooltip: Magic weapons unleash a star for 100% damage but consume void equal to 10% of their mana cost
-				Flavor0: "'Stay determined'"
-				Flavor1: "'Remain firm in your aspirations'"
-				Flavor2: "'Wish upon a shooting star'"
-				Flavor3: "'You will find what you seek'"
-				Flavor4: "'Control your fate'"
-				Flavor5: "'The world is your stage'"
-				Flavor6: "'Reap the fruits of knowledge'"
-				Flavor7: "'Endure suffering'"
+				DefaultTooltip: Высвобождает звезду, наносящую 100 урона, которая получает случйный бафф каждые 100 потраченные маны
+				AltTooltip: Магические оружия запускают звезду, наносящую 100% урона, но потребляют пустоту в размере 10% от маны, которую они потребляют
+				Flavor0: «Оставайся решительным»
+				Flavor1: «Оставайся твёрдым в своих стремлениях»
+				Flavor2: «Загадай желание падающей звезде»
+				Flavor3: «Ты найдёшь то, что ишешь»
+				Flavor4: «Управляй своей судьбой»
+				Flavor5: «Весь мир - твоя сцена»
+				Flavor6: «Пожни плоды знания»
+				Flavor7: «Превозмоги страдания»
 			}
 
 			JarOfPineapple: {
-				DisplayName: Jar of Pineapple
-				Tooltip: Summons a Nature Slime to fight for you
+				DisplayName: Банка с ананасами
+				Tooltip: ПРизывает природного слизня сражаться за вас
 			}
 
 			SootSlab: {
-				DisplayName: Soot Slab
+				DisplayName: Закопчённая плита
 				Tooltip: ""
 			}
 
 			CorruptionSoot: {
-				DisplayName: Ebonslate Block
+				DisplayName: Эбонитовый блок
 				Tooltip:
 					'''
-					A primordial mass of corrupt stone
-					Although it cannot be purified, it will also not spread the Corruption
+					Первородная масса заражённого камня
+					Он не может быть очищен, но также не будет распространять порчу
 					'''
 			}
 
 			CrimsonSoot: {
-				DisplayName: Crimslate Block
+				DisplayName: Багряный блок
 				Tooltip:
 					'''
-					A primordial mass of crimson stone
-					Although it cannot be purified, it will also not spread the Crimson
+					Первородная масса заражённого камня
+					Он не может быть очищен, но также не будет распространять багрянец
 					'''
 			}
 
 			StarshardSaber: {
-				DisplayName: Starshard Saber
+				DisplayName: Звёздноосколочная сабля
 				Tooltip:
 					'''
-					Strike with 4 slashes that launch Starshards for 20% damage
-					Starshards apply a stacking, permanent curse
-					Right click to strike with a 150% damage slash that detonates the curse, dealing more damage the more stacks applied
-					Enemies with at least 4 stacks of the curse will end the detonation more violently
+					Ударяет 4 раза, каждый раз запуская осколок звезды, наносящий 20% урона
+					Звёздные осолки наклдывают вечное суммирующееся проклятие
+					Нажмите ПКМ, чтобы совершить удар, который наносит 150% урона и взрывает проклятых врагов, нанося им тем больше урона, чем больше их уровень проклятия
+					Враги, уровень проклятия которых не меньше 4, взорвутся более сильно
 					'''
 			}
 
 			FizzleStar: {
-				DisplayName: Fizzle Star
+				DisplayName: Шипящая звезды
 				Tooltip:
 					'''
-					Eject a fragile star that explodes into sparks
-					Has a chance of malfunctioning, launching just sparks for 200% damage or ejecting additional stars
+					Запускает хрупкую звезду, которая взрывается искрами
+					Имеет шанс сработать неправильно, сразу запустив искры, наносящие 200% урона, или создав ещё одну звезду
 					'''
 			}
 
 			AcidicInjection: {
-				DisplayName: Overkill Injection
-				Tooltip: The first application of any stackable debuff is doubled
+				DisplayName: Дополнительная инъекция
+				Tooltip: Первое наложение любого суммирующегося дебаффа происходит дважды
 			}
 
 			EarthenGizmoBanner: {
-				DisplayName: Earthen Gizmo Banner
+				DisplayName: Знамя земляной штуковины
 				Tooltip: ""
 			}
 
 			EarthDrive: {
-				DisplayName: Earthdrive
+				DisplayName: Землепривод
 				Tooltip:
 					'''
-					Increases melee speed by 100% of the increases received to mining speed from other sources
-					Increases mining speed by 100% of the increases received to melee speed from other sources
+					Увеличивает скорость ближнего боя на 100% от бонусов скорости добычи, получнных не от этого аксессуара
+					Увеличивает скорость добычи на 100% от бонусов скорости ближнего боя, получнных не от этого аксессуара
 					'''
 			}
 
 			SandstormPouch: {
-				DisplayName: Sandstorm Pouch
-				Tooltip: Unleash a devastating sandstorm with unlimited pierce
+				DisplayName: Мешок с песчаной бурей
+				Tooltip: Высвобождает разрушительную песчаную бурю, которая обладает неограниченным пронзанием
 			}
 
 			PBow: {
-				DisplayName: Compound Bow
-				Tooltip: Fire a Compound Arrow that splits into bouncing Energy Bolts and other arrows
+				DisplayName: Композитный лук
+				Tooltip: Запускает композитную стрелу, которая разделяется на отскакивающие энергетические болты и другие стрелы
 			}
 
 			ThroeBanner: {
-				DisplayName: Throe Banner
+				DisplayName: Знамя мучения
 				Tooltip: ""
 			}
 
 			CorruptionSootWall: {
-				DisplayName: Ebonslate Wall
+				DisplayName: Стена из эбонитового камня
 				Tooltip:
 					'''
-					A primordial mass of corrupt stone
-					Although it cannot be purified, it will also not spread the Corruption
+					Первородная масса заражённого камня
+					Он не может быть очищен, но также не будет распространять порчу
 					'''
 			}
 
 			CrimsonSootWall: {
-				DisplayName: Crimslate Wall
+				DisplayName: Стена из багряного камня
 				Tooltip:
 					'''
-					A primordial mass of crimson stone
-					Although it cannot be purified, it will also not spread the Crimson
+					Первородная масса заражённого камня
+					Он не может быть очищен, но также не будет распространять багрянец
 					'''
 			}
 
 			SootSlabWall: {
-				DisplayName: Soot Slab Wall
+				DisplayName: Стена из закопчённой плиты
 				Tooltip: ""
 			}
 
 			MagmaBeam: {
-				DisplayName: Magma Concentrator
-				Tooltip: Concetrate a ball of hot magma on your cursor
+				DisplayName: Концентратор магмы
+				Tooltip: Создаёт шар горячей магмы на месте вашего курсора
 			}
 
 			FortressCrasher: {
-				DisplayName: Fortress Crasher
-				Tooltip: Throw a drilling spear that repeatedly hits enemies, can travel through walls, and ignores 10 defense
+				DisplayName: Крушитель крепостей
+				Tooltip: Запускает бурящее копьё, которое непрерыно ударяет врагов, может проходить сквозь блоки, и пробивает 10 ед. защиты
 			}
 
 			FamishedBlockCorruption: {
-				DisplayName: Ebonbody Block
-				Tooltip: "'Smells of disease and rot'"
+				DisplayName: Эбонтельный блок
+				Tooltip: «Запах болезни и гниения»
 			}
 
 			FamishedBlockCrimson: {
-				DisplayName: Crimbody Block
-				Tooltip: "'Smells of blood and rot'"
+				DisplayName: Багротельный блок
+				Tooltip: «Запах крови и гниения»
 			}
 
 			FamishedBanner: {
@@ -7987,9 +7987,9 @@ Mods: {
 			NewPolaris.DisplayName: Полярный
 			Chimera.DisplayName: Химера
 			ChimeraSnake.DisplayName: Змея химеры
-			CorpseBloom.DisplayName: Corpsebloom
-			EarthenGizmo.DisplayName: Earthen Gizmo
-			Throe.DisplayName: Throe
+			CorpseBloom.DisplayName: Мертвоцвет
+			EarthenGizmo.DisplayName: Земляная штуковина
+			Throe.DisplayName: Мучение
 			Famished.DisplayName: Famished
 			BallOGuts.DisplayName: Ball O' Guts
 			BallOWorms.DisplayName: Ball O' Worms
@@ -9018,7 +9018,7 @@ Mods: {
 			ChimeraFireball.DisplayName: Shadow Fireball
 			ChimeraFireballSmall.DisplayName: Shadow Fireball
 			BundleSnakeMinion.DisplayName: Bundle Snake Minion
-			CorpsebloomAcid.DisplayName: Corpsebloom Acid
+			CorpsebloomAcid.DisplayName: Кислота мертвоцвета
 			Icebreaker.DisplayName: Icebreaker
 			IcebreakerIce.DisplayName: Icebreaker Ice
 			IcebreakerShard.DisplayName: Icebreaker Shard
@@ -9033,8 +9033,8 @@ Mods: {
 			StarShard.DisplayName: Starshard
 			SandstormPouch.DisplayName: Sandstorm Pouch
 			SandstormPuff.DisplayName: Sandstorm Puff
-			PBow.DisplayName: Compound Bow
-			PBowArrow.DisplayName: Compound Arrow
+			PBow.DisplayName: Композитный лук
+			PBowArrow.DisplayName: Композитная стрела
 			PBolt.DisplayName: Energy Bolt
 			ThroeProj.DisplayName: Throe Proj
 			CrystalExplosionBig.DisplayName: Crystal Explosion Big

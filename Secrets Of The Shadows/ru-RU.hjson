@@ -5829,26 +5829,26 @@ Mods: {
 			}
 
 			FamishedBanner: {
-				DisplayName: Famished Banner
+				DisplayName: Знамя голодающего
 				Tooltip: ""
 			}
 
 			Blongus: {
-				DisplayName: Blongus
-				Tooltip: Unleash a swarm of hungry mosquitos that home and latch onto enemies before exploding, dealing increased damage based on the target's health and bleed status
+				DisplayName: Кровогриб
+				Tooltip: Выпускает голодных комаров, которые наводятся на врагов и прицепляются к ним, перед тем как взорваться, нанося увеличенный урон в зависимости от здоровья врага и того, кровоточит ли он
 			}
 
 			SteelerWheeler: {
-				DisplayName: Steeler Wheeler
-				Tooltip: Increases movement speed by 5% and reduces damage taken by 3%
+				DisplayName: Стальные ролики
+				Tooltip: Увеличивает скорость передвижения на 5% и уменьшает получаемый урон на 3%
 			}
 
 			LittleWoes: {
-				DisplayName: Little Woes
+				DisplayName: Маленькая скорбь
 				Tooltip:
 					'''
-					Increases void gain by 1 during the night
-					Attaches a Little Woe to all minions
+					Увеличивает получаемую пустоту на 1 ед. во время ночи
+					Прикрепляет маленькую скорбь ко всем миньонам
 					'''
 			}
 
@@ -5863,218 +5863,218 @@ Mods: {
 			}
 
 			AVMusicBox: {
-				DisplayName: Abandoned Village Surface Music Box
+				DisplayName: Музыкальная шкатулка (поверхность заброшенной деревни)
 				Tooltip: ""
 			}
 
 			MrBurns: {
-				DisplayName: Mr. Burns
+				DisplayName: Мистер Сжигатель
 				Tooltip:
 					'''
-					Increases max void by 20
-					Decreases the potency of Void Shock and Void Recovery
+					Увеличивает запас пустоты на 20 ед.
+					Уменьшает силу пустотного шока и пустотного восстановления
 					'''
 			}
 
 			RockingHorse: {
-				DisplayName: Rocking Horse
-				Tooltip: Increases movement speed by 5% and void gain 2
+				DisplayName: Игрушечная лошадка
+				Tooltip: Увеличивает скорость передвижения на 5% и получаемую пустоту на 2 ед.
 			}
 
 			AncientSteelLantern: {
-				DisplayName: Ancient Steel Lantern
+				DisplayName: Древний стальной фонарь
 				Tooltip:
 					'''
-					Summons a Steel Lantern on your cursor that releases flames at all nearby enemies
-					Range scales with summon damage
+					Прызвает стальной фонарь на позицию вашего курсора, который запускает огни во всех ближайших врагов
+					Радиус уввеличвается вместе с уроном призывателя
 					'''
 			}
 
 			BallOGutsBanner: {
-				DisplayName: Ball O' Guts Banner
+				DisplayName: Знамия кома из плоти
 				Tooltip: ""
 			}
 
 			BallOWormsBanner: {
-				DisplayName: Ball O' Worms Banner
+				DisplayName: Знамя червивого кома
 				Tooltip: ""
 			}
 
 			CowBanner: {
-				DisplayName: Cow Banner
+				DisplayName: Знамя коровы
 				Tooltip: ""
 			}
 
 			PintOPunch: {
-				DisplayName: Pint O' Punch
+				DisplayName: Кружка с тумаками
 				Tooltip:
 					'''
-					Deals 500% critical strike damage
-					Critical strikes spawn hearts
-					'This pint packs a punch!'
+					Наносит 500% урона при критическом ударе
+					Критические удары создают сердца
+					«Эта кружка сразит тебя наповал!»
 					'''
 			}
 
 			FishBomb: {
-				DisplayName: Fish Bomb
+				DisplayName: Рыбная бомба
 				Tooltip:
 					'''
-					Catches fish by exploding in liquid
-					50% fishing power
+					Ловит рыбу, взрываясь в воде
+					50% навыка рыбной ловли
 					'''
 			}
 
 			TidalPlatingWall: {
-				DisplayName: Tidal Plating Wall
+				DisplayName: Стена из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingBathtub: {
-				DisplayName: Tidal Plating Bathtub
+				DisplayName: Ванна из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingBed: {
-				DisplayName: Tidal Plating Bed
+				DisplayName: Кровать из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingBlastDoor: {
-				DisplayName: Tidal Plating Blast Door
+				DisplayName: Взрывоупорная дверь из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingBookcase: {
-				DisplayName: Tidal Plating Bookcase
+				DisplayName: Книжный шкаф из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingCandle: {
-				DisplayName: Tidal Plating Candle
+				DisplayName: Свеча из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingChair: {
-				DisplayName: Tidal Plating Chair
+				DisplayName: Стул из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingChandelier: {
-				DisplayName: Tidal Plating Chandelier
+				DisplayName: Канделябр из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingChest: {
-				DisplayName: Tidal Plating Storage
+				DisplayName: Сейф из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingClock: {
-				DisplayName: Tidal Plating Clock
+				DisplayName: Часы из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingDresser: {
-				DisplayName: Tidal Plating Dresser
+				DisplayName: Комод из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingLamp: {
-				DisplayName: Tidal Plating Lamp
+				DisplayName: Напольная лампа из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingLantern: {
-				DisplayName: Tidal Plating Lantern
+				DisplayName: Фонарь из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingPiano: {
-				DisplayName: Tidal Plating Piano
+				DisplayName: Пианино из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingPlatform: {
-				DisplayName: Tidal Plating Platform
+				DisplayName: Платформа из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingSink: {
-				DisplayName: Tidal Plating Sink
+				DisplayName: Раковина из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingSofa: {
-				DisplayName: Tidal Plating Sofa
+				DisplayName: Диван из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingTable: {
-				DisplayName: Tidal Plating Table
+				DisplayName: Стол из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingToilet: {
-				DisplayName: Tidal Plating Toilet
+				DisplayName: Туалет из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingTorch: {
-				DisplayName: Tidal Plating Torch
+				DisplayName: Факел из приливного покрытия
 				Tooltip: ""
 			}
 
 			TidalPlatingWorkBench: {
-				DisplayName: Tidal Plating Work Bench
-				Tooltip: Also functions as an anvil
+				DisplayName: Верстак из приливного покрытия
+				Tooltip: Также работает как наковальня
 			}
 
 			AVMinesMusicBox: {
-				DisplayName: Abandoned Village Underground Music Box
+				DisplayName: Музыкальная шкатулка (Подземелье заброшенной деревни)
 				Tooltip: ""
 			}
 
 			DissolvingNihility: {
-				DisplayName: Essence of Emptiness
-				AltDisplayName: Dissolving Nihility
-				Tooltip: "'...'"
-				RareTooltip1: "'Trapped within voidspace...'"
-				RareTooltip2: "'... save me from this prison...'"
-				RareTooltip3: "'... and I shall gift you the world...'"
+				DisplayName: Эссенция пустоты
+				AltDisplayName: Рассеивающееся ничто
+				Tooltip: «...»
+				RareTooltip1: «В ловушке внутри небытия...»
+				RareTooltip2: «... спаси меня из этой тюрьмы...»
+				RareTooltip3: «... и я подарю тебе мир...»
 			}
 
 			FistfullBanner: {
-				DisplayName: Fistfull Banner
+				DisplayName: Знамя кулачника
 				Tooltip: ""
 			}
 
 			Sunbulb: {
-				DisplayName: Sunbulb
-				AltDisplayName: Sol
-				BrokenDisplayName: Ruinbulb
+				DisplayName: Лампочка
+				AltDisplayName: Солнце
+				BrokenDisplayName: Разбитая лампа
 				Tooltip: temp
 				DefaultTooltip:
 					'''
-					Increases damage, critical strike chance, and endurance by 1%
-					'Cold'
+					Увеличивает урон, шанс критического удара, и споротивление урону на 1%
+					«Холодная»
 					'''
 				AltTooltip:
 					'''
-					Increases damage, critical strike chance, and endurance by 15%
-					Greatly increases the intensity of lighting
-					'Bring it to where it needs to be... but you best be careful not to drop it'
+					Увеличивает урон, шанс критического удара, и споротивление урону на 15%
+					Значительно увеличивает силу свечения
+					«Принеси его туда, где ему суждено оказаться... и будь крайне осторожен - оно хрупкое»
 					'''
 				BrokenTooltip:
 					'''
-					Increases void damage by 20%
-					Increases damage taken by 100%
-					Greatly increases the intensity of darkness
-					'You had one shot, and you dropped it'
+					Увеличивает пустотный урон на 20%
+					Увеличивает получаемый урон на 100%
+					Значительно затемняет окружение
+					«У тебя был всего один шанс, и ты упустил его»
 					'''
 			}
 
 			PinkyTestTubeItem: {
-				DisplayName: Failed Experiment
+				DisplayName: Неудавшийся эксперимент
 				Tooltip: ""
 			}
 
@@ -7990,11 +7990,11 @@ Mods: {
 			CorpseBloom.DisplayName: Мертвоцвет
 			EarthenGizmo.DisplayName: Земляная штуковина
 			Throe.DisplayName: Мучение
-			Famished.DisplayName: Famished
-			BallOGuts.DisplayName: Ball O' Guts
-			BallOWorms.DisplayName: Ball O' Worms
+			Famished.DisplayName: Голодающий
+			BallOGuts.DisplayName: Ком плоти
+			BallOWorms.DisplayName: Червивый ком
 			BallOGutsPile.DisplayName: Pile O' Guts
-			Fistfull.DisplayName: Fistfull
+			Fistfull.DisplayName: Кулачник
 			MutagenTreasureSlime.DisplayName: Mutagen Treasure Slime
 			TardigradeBlue.DisplayName: Tardigrade
 			TardigradeBrown.DisplayName: Tardigrade

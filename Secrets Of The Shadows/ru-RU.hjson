@@ -1021,7 +1021,7 @@ Mods: {
 				DisplayName: Золотой мастерок
 				Tooltip:
 					'''
-					Во время добычи блоков у вас есть шанс получить доплонительные ресурсы, такие как ил или монеты
+					Во время добычи блоков у вас есть шанс получить дополнительные ресурсы, такие как ил или монеты
 					Увеличивает скорость добычи на 5%
 					'''
 			}
@@ -4889,7 +4889,7 @@ Mods: {
 			PermafrostPlatingWorkBench: {
 				DisplayName: Верстак из мёрзлого покрытия
 				# Permafrost
-				Tooltip: Также работает как наковальня
+				Tooltip: Также может функционировать в качестве наковальни
 			}
 
 			AmberChest: {
@@ -5649,7 +5649,7 @@ Mods: {
 					'''
 					Увеличивает шанс критического удара и скорость добычи на 5%
 					Вы не теряете монеты при смерти и создаёте их при ранении
-					Во время добычи блоков у вас есть шанс получить доплонительные ресурсы, такие как ил или монеты
+					Во время добычи блоков у вас есть шанс получить дополнительные ресурсы, такие как ил или монеты
 					'''
 			}
 
@@ -6026,7 +6026,7 @@ Mods: {
 
 			TidalPlatingWorkBench: {
 				DisplayName: Верстак из приливного покрытия
-				Tooltip: Также работает как наковальня
+				Tooltip: Также может функционировать в качестве наковальни
 			}
 
 			AVMinesMusicBox: {
@@ -6079,111 +6079,111 @@ Mods: {
 			}
 
 			MutagenTreasureSlimeBanner: {
-				DisplayName: Mutagen Treasure Slime Banner
+				DisplayName: Знамя мутировавшего слизня с сокровищами
 				Tooltip: ""
 			}
 
 			OvergrownEvostoneBrick: {
-				DisplayName: Overgrown Evostone Brick
+				DisplayName: Заросший эвокаменный кирпич
 				Tooltip: ""
 			}
 
 			OvergrownEvostone: {
-				DisplayName: Overgrown Evostone
+				DisplayName: Заросший эвокамень
 				Tooltip: ""
 			}
 
 			RunicEvostoneBrick: {
-				DisplayName: Runic Evostone Brick
+				DisplayName: Руническийй эвокаменный кирпич
 				Tooltip: ""
 			}
 
 			RunicEvostone: {
-				DisplayName: Runic Evostone
+				DisplayName: Рунический эвокамень
 				Tooltip: ""
 			}
 
 			InvidiaPlating: {
-				DisplayName: Invidia Plating
+				DisplayName: Покрытие зависти
 				Tooltip: ""
 			}
 
 			AccretionDisc: {
-				DisplayName: Accretion Disc
+				DisplayName: Диск нарастания
 				Tooltip:
 					'''
-					Deals more damage at the peak of its trajectory, creating a short-lived singularity that ignores defense
-					Scatters homing particles after the singularity collapses
+					Наносит больше урона в конце своей траектории, на короткое время создавая сингулярность, которая игнорирует защиту
+					Сингулярность быстро схлопывается, запуская множество самонаводящихся частиц
 					'''
 			}
 
 			EarthenChestplate: {
-				DisplayName: Earthen Chestplate
-				Tooltip: Increases mining speed and movement speed by 10%
+				DisplayName: Земляной нагрудник
+				Tooltip: Увеличивает скорость добычи и передвижения на 10%
 			}
 
 			EarthenHelmet: {
-				DisplayName: Earthen Helmet
+				DisplayName: Земляной шлем
 				Tooltip:
 					'''
-					Improves vision and provides light when worn
-					Increases mining speed and movement speed by 10%
+					Улучшает зрение и освещает округу при ношении
+					Увеличивает скорость добычи и передвижения на 10%
 					'''
 			}
 
 			EarthenLeggings: {
-				DisplayName: Earthen Leggings
-				Tooltip: Increases mining speed and movement speed by 10%
+				DisplayName: Земляные поножи
+				Tooltip: Увеличивает скорость добычи и передвижения на 10%
 			}
 
 			InvidiaChest: {
-				DisplayName: Invidia Chest
+				DisplayName: Сундук зависти
 				Tooltip: ""
 			}
 
 			MoonShard1: {
-				DisplayName: Luna Nova Shard
+				DisplayName: Осколок новой луны
 				Tooltip: ""
 			}
 
 			MoonShard2: {
-				DisplayName: Waxing Cresent Shard
+				DisplayName: Осколок растущего месяца
 				Tooltip: ""
 			}
 
 			MoonShard3: {
-				DisplayName: First Quarter Shard
+				DisplayName: Осколок первой четверти
 				Tooltip: ""
 			}
 
 			MoonShard4: {
-				DisplayName: Waxing Gibbous Shard
+				DisplayName: Осколок растущей луны
 				Tooltip: ""
 			}
 
 			MoonShard5: {
-				DisplayName: Luna Plena Shard
+				DisplayName: Осколок полной луны
 				Tooltip: ""
 			}
 
 			MoonShard6: {
-				DisplayName: Waning Gibbous Shard
+				DisplayName: Осколок убывающей луны
 				Tooltip: ""
 			}
 
 			MoonShard7: {
-				DisplayName: Third Quarter Shard
+				DisplayName: Осколок третьей четверти
 				Tooltip: ""
 			}
 
 			MoonShard8: {
-				DisplayName: Waning Cresent Shard
+				DisplayName: Осколок убывающего месяца
 				Tooltip: ""
 			}
 
 			LunarClock: {
-				DisplayName: Temporal Astrolabe
-				Tooltip: Allows control over the day-night cycle
+				DisplayName: Временная астролябия
+				Tooltip: Позволяет контролировать цикл дня-ночи
 			}
 
 			OtherworldPlatingBathtub: {
@@ -6597,13 +6597,13 @@ Mods: {
 			}
 
 			RotHeart: {
-				DisplayName: Rot Heart
+				DisplayName: Сердце гнили
 				Tooltip:
 					'''
-					Increases max life by 20
-					All boosts to life regeneration are converted into boosts to void gain
-					When using void, 10% of the void used is converted into life
-					'Yucky!'
+					Увеличивает максимальный запас жизни на 20 ед.
+					Все усиления регенерации жизни преобразованы в регенерацию пустоты
+					Когда вы тратите пустоту, 10% от неё преобразуется в жизнь
+					«Гадость!»
 					'''
 			}
 
@@ -6618,12 +6618,12 @@ Mods: {
 			}
 
 			BlinkBlade: {
-				DisplayName: Blink Blade
+				DisplayName: Клинок трансфера
 				Tooltip:
 					'''
-					Left click to slash, recovering void on hit and releasing a short-ranged burst of lightning
-					Right click to blink forward a short distance with a 300% damage slash at triple the void cost
-					Receives 25% more attack speed from attack speed boosts
+					Нажмите ЛКМ, чтобы совершить удар, при попадании по врагу восстанавливая пустоту и выпуская множество коротких молний
+					Нажмите ПКМ, чтобы разрезать пространство перед собой ипереместиться вперёд на короткую дистанцию, что наносит 300% урона и стоит в 3 раза больше пустоты
+					Оружие получает на 25% скорости атаки больше от всех бонусов
 					'''
 			}
 
@@ -6648,14 +6648,14 @@ Mods: {
 			}
 
 			GreedierRing: {
-				DisplayName: Greedier Ring
+				DisplayName: Жаднейшее кольцо
 				Tooltip:
 					'''
-					Increases mining speed by 5% and critical strike chance by 5%
-					Generate coins when hurt or when void is gained and don't lose coins upon death
-					Mining blocks has a chance to drop bonus resources, such as coins and silt
-					Increases coin pickup range and shops prices lowered by 20%
-					Hitting enemies will sometimes drop extra coins
+					Увеличивает скорость добычи на 5% и шанс критического удара 5%
+					Вы не теряете монеты при смерти и создаёте их при ранении и при регенерации пустоты
+					Во время добычи ресурсов у вас есть шанс получить дополнительные ресурсы, такие как ил или монеты
+					Увеличивает радиус подбора монет и снижает цены в магазинах на 20%
+					При ударе по врагам иногда выпадают дополнительные рассказы
 					'''
 			}
 
@@ -6670,12 +6670,12 @@ Mods: {
 			}
 
 			RuinedStatue: {
-				DisplayName: Ruined Statue
+				DisplayName: Разрушенная статуя
 				Tooltip: ""
 			}
 
 			SerpentStatue: {
-				DisplayName: Serpent Statue
+				DisplayName: Статуя змеи
 				Tooltip: ""
 			}
 
@@ -6685,8 +6685,8 @@ Mods: {
 			}
 
 			EmptyNecklace: {
-				DisplayName: Amulet of Emptiness
-				Tooltip: Increases void regeneration speed by 50%
+				DisplayName: Амулет пустоты
+				Tooltip: Увеличивает скорость регененрации пустоты на 50%
 			}
 
 			LuxTrophy: {
@@ -6695,137 +6695,137 @@ Mods: {
 			}
 
 			EvostoneGrandPillar: {
-				DisplayName: Evostone Grand Pillar
+				DisplayName: Большая колонна из эвокамня
 				Tooltip: ""
 			}
 
 			InvidiaGateway: {
-				DisplayName: Invidia Gateway
+				DisplayName: Врата зависти
 				Tooltip: ""
 			}
 
 			LevMirror: {
-				DisplayName: Shattered Mirror
-				Tooltip: Gaze in the mirror to return 'home'
+				DisplayName: Разбитое зеркало
+				Tooltip: Взгляните в зеркало, чтобы вернуться «домой»
 			}
 
 			StreetCleaner: {
-				DisplayName: Street Cleaner
-				Tooltip: Ignores enemy defense
+				DisplayName: Очиститель улиц
+				Tooltip: Пробивает броню врагов
 			}
 
 			SanctuaryMusicBox: {
-				DisplayName: Sanctuary Music Box
+				DisplayName: Музыкальная шкатулка (Святилице)
 				Tooltip: ""
 			}
 
 			EvostonePlatform: {
-				DisplayName: Evostone Platform
+				DisplayName: Эвокаменная платформа
 				Tooltip: ""
 			}
 
 			Dreamcatcher: {
-				DisplayName: Dreamcatcher
+				DisplayName: Ловец снов
 				Tooltip:
 					'''
-					Prevents attacks from dealing damage to your void meter
-					Increases void damage by 10%
+					Предотвращает утечку пустоты при получении урона
+					Увеличивает пустотный урон на 10%
 					'''
 			}
 
 			SubspaceWormItem: {
-				DisplayName: Subspace Worm
-				Tooltip: Allows the catching of Obsidian Crates in any liquid
+				DisplayName: Подпространственный червь
+				Tooltip: Позволяет ловить обсидиановые ящики в любой жидкости
 			}
 
 			InvidiaPetal: {
-				DisplayName: Pink Petal
+				DisplayName: Розовый лепесток
 				Tooltip: ""
 			}
 
 			MrEepy: {
-				DisplayName: Mr. Eepy
+				DisplayName: Мистер Жуть
 				Tooltip:
 					'''
-					Decreases the potency of Void Shock and Void Recovery
-					Prevents attacks from dealing damage to your void meter
-					Increases void damage by 10% and max void by 50
+					Уменьшает силу пустотного шока и пустотного восстановления
+					Предотвращает утечку пустоты при получении урона
+					Увеличивает пустотный урон на 10% и запас пустоты на 50 ед.
 					'''
 			}
 
 			VeganBurger: {
-				DisplayName: Vegan Burger
-				Tooltip: Minor improvements to all stats
+				DisplayName: Веганский бургер
+				Tooltip: Немного увеличивает все характеристики
 			}
 
 			VigorPotion: {
-				DisplayName: Vigor Potion
-				Tooltip: Grants the ability to dash 50 times
+				DisplayName: Зелье здоровья
+				Tooltip: Позволяет совершить рывок 50 раз
 			}
 
 			PetalSalad: {
-				DisplayName: Petal Salad
-				Tooltip: Refills 5 void and grants Void Access for 60 seconds, increasing void gain by 5
+				DisplayName: Салат из лепестков
+				Tooltip: Восполнает 5 ед. пустоты и дарует бафф, увеличивающий получаемую пустоту на 5 ед.
 			}
 
 			LunaMothItem: {
-				DisplayName: Luna Moth
-				Tooltip: Allows the catching of Obsidian Crates in any liquid
+				DisplayName: Лунный мотыль
+				Tooltip: Позволяет ловить обсидиановые ящики в любой жидкости
 			}
 
 			FurnaceBanner: {
-				DisplayName: Sanguine Foundry Banner
+				DisplayName: Знамя кровавой плавильни
 				Tooltip: ""
 			}
 
 			EvostoneRuneBrickWall: {
-				DisplayName: Evostone Rune Brick Wall
+				DisplayName: Эвокаменная руническая кирпичная стена
 				Tooltip: ""
 			}
 
 			EvostoneChair: {
-				DisplayName: Evostone Chair
+				DisplayName: Эвокаменный стул
 				Tooltip: ""
 			}
 
 			EvostoneTable: {
-				DisplayName: Evostone Table
+				DisplayName: Эвокаменный стол
 				Tooltip: ""
 			}
 
 			EvostonePotItem: {
-				DisplayName: Evostone Pot
+				DisplayName: Эвокаменный горшок
 				Tooltip: ""
 			}
 
 			FlowerCrown: {
-				DisplayName: Flower Crown
+				DisplayName: Цветочная корона
 				Tooltip:
 					'''
-					Increases endurance by 10%
-					Increases void gain and life regen by 4
-					When using void, 30% of the void used is converted into life
+					Увеличивает сопротивление урона на 10%
+					Увеличивает получаемую пустоту на 4 и скорость регенерации жизни на 4 (2 ОЗ/сек)
+					При использовании пустоты 30% от неё конвертируется в жизнь
 					'''
-				ArchTooltip: "'Would you rather have +100% super chungus or +5 defense?'"
+				ArchTooltip: «Ты бы предпочёл +100% супер хриба или +5 защиты?»
 			}
 
 			HardlightHook: {
-				DisplayName: Hardlight Hook
-				Tooltip: Allows grappling onto the air
+				DisplayName: Твердосветовой крюк
+				Tooltip: Позволяет хвататься за воздух
 			}
 
 			PlasticBait: {
-				DisplayName: Plastic Bait
+				DisplayName: Пластиковая наживка
 				Tooltip: ""
 			}
 
 			MrMcMillen: {
-				DisplayName: Mr. McMillen
+				DisplayName: Мистер МакМиллен
 				Tooltip:
 					'''
-					Decreases the potency of Void Shock and Void Recovery
-					Increases void regeneration speed by 50% and max void by 50
-					'Cow on a trash farm...'
+					Уменьшает силу пустотного шока и пустотного восстановления
+					Ускоряет скорость восстановления пустоты на 50% и максимальный запас пустоты на 50 ед.
+					«Скотина помойная...»
 					'''
 			}
 
@@ -7995,7 +7995,7 @@ Mods: {
 			BallOWorms.DisplayName: Червивый ком
 			BallOGutsPile.DisplayName: Pile O' Guts
 			Fistfull.DisplayName: Кулачник
-			MutagenTreasureSlime.DisplayName: Mutagen Treasure Slime
+			MutagenTreasureSlime.DisplayName: Мутировавший слизень с сокровищами
 			TardigradeBlue.DisplayName: Tardigrade
 			TardigradeBrown.DisplayName: Tardigrade
 			TardigradeGreen.DisplayName: Tardigrade
@@ -8014,7 +8014,7 @@ Mods: {
 
 			ExcavatorBody.DisplayName: The Excavator
 			SubspaceWorm.DisplayName: Subspace Worm
-			SanguineFoundry.DisplayName: Sanguine Foundry
+			SanguineFoundry.DisplayName: Кровавая плавильня
 			LunaMoth.DisplayName: Luna Moth
 			ExcavatorBody2.DisplayName: The Excavator
 			ExcavatorTail.DisplayName: The Excavator

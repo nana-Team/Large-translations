@@ -6830,152 +6830,152 @@ Mods: {
 			}
 
 			MartianWarhorn: {
-				DisplayName: Martian Warhorn
-				Tooltip: Grants the Embattle buff, increasing damage by 5% and greatly increasing enemy spawn rates
+				DisplayName: Марсианский боевой рог
+				Tooltip: Даёт боевой бафф, который увеличивает урон на 5% и значительно увеличивает скорость возрождения врагов
 			}
 
 			EvostoneAmbient: {
-				DisplayName: Evostone Ambient
+				DisplayName: Эвокаменные остатки
 				Tooltip: ""
 			}
 
 			UnholyGrail: {
-				DisplayName: Unholy Grail
+				DisplayName: Нечестивый Грааль
 				Tooltip:
 					'''
-					Summons a stationary throne to sit upon
-					Gain 12 defense while active
+					Призывает едва подвижный трон, на который вы сразу садитесь
+					Пока трон активен, вы получаете 12 ед. защиты
 					'''
 			}
 
 			CapturedHeart: {
-				DisplayName: Captured Heart
-				Tooltip: Summons a possessed minecart mount
+				DisplayName: Пойманное сердце
+				Tooltip: Призывает одержимую вагонетку
 			}
 
 			CoalCartBanner: {
-				DisplayName: Captured Cart Banner
+				DisplayName: Знамя пойманной вагонетки
 				Tooltip: ""
 			}
 
 			VoidTreasureSlimeBanner: {
-				DisplayName: Void Treasure Slime Banner
+				DisplayName: Знамя пустотного слизня с сокровищами
 				Tooltip: ""
 			}
 
 			GobletOfEntrails: {
-				DisplayName: Goblet of Entrails
-				Tooltip: Not consumable
+				DisplayName: Рог с внутренностями
+				Tooltip: Не тратится
 			}
 
 			PupaBanner: {
-				DisplayName: Pupa Banner
+				DisplayName: Знамя разлагающегося
 				Tooltip: ""
 			}
 
 			PupaFlyBanner: {
-				DisplayName: Gore Fly Banner
+				DisplayName: Знамя трупной мухи
 				Tooltip: ""
 			}
 
 			RotWalkerBanner: {
-				DisplayName: Rotwalker Banner
+				DisplayName: Знамя гнилохода
 				Tooltip: ""
 			}
 
 			InvidiaPortalPlating: {
-				DisplayName: Invidia Portal Plating
+				DisplayName: Портальное покрытие зависти
 				Tooltip: ""
 			}
 
 			SeismicStation: {
-				DisplayName: Seismic Station
-				Tooltip: "'You feel activating this may track some unwanted attention...'"
+				DisplayName: Сейсмическая станция
+				Tooltip: «Ты ощущаешь, что активация этого привлечёт ненужное внимание...»
 			}
 
 			KingBlade: {
-				DisplayName: King Blade
+				DisplayName: Меч-король
 				Tooltip:
 					'''
-					Strike with 6 slashes, then toss a spinning blade for 100% damage
-					Each slash will additionally call down a blade from the sky
+					Совершает 6 ударов, затем бросает вращающийся клинок, наносящий 100% урона
+					Каждый улар призывает меч с неба
 					'''
 			}
 
 			TideChain: {
-				// DisplayName: Tide Chain
+				// DisplayName: Приливная цепь
 				// Tooltip: ""
 			}
 
 			BWand: {
-				// DisplayName: B. Wand
+				// DisplayName: П. посох
 				// Tooltip: ""
 			}
 
 			AncientSteelArrow: {
-				// DisplayName: Scrap Metal Arrow
-				// Tooltip: Critical strikes may apply a stacking, permanent bleed for 5 damage per second
+				// DisplayName: Металлоломная стрела
+				// Tooltip: Критические удары накладывают суммирующееся, вечное кровотечение, наносящее 5 урона в секунду
 			}
 
 			AncientSteelBullet: {
-				// DisplayName: Scrap Metal Bullet
-				// Tooltip: Critical strikes may apply a stacking, permanent bleed for 5 damage per second
+				// DisplayName: Маллоломная пуля
+				// Tooltip: Критические удары накладывают суммирующееся, вечное кровотечение, наносящее 5 урона в секунду
 			}
 
 			ExcavatorBossBag: {
-				// DisplayName: Treasure Bag (The Excavator)
+				// DisplayName: Мешок с сокровищами (Раскопщик)
 				// Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
 			LuxBall: {
-				// DisplayName: Spirit Golf Ball
+				// DisplayName: Призрачный мяч для гольфа
 				/* Tooltip:
 					'''
-					Can be hit with a golf club and deals damage increasing with velocity
-					'This is one big photon!'
+					По нему можно ударить ключшкой для гольфа, и чем быстрее он летит, тем больше урона он нанесёт
+					«Это один большой фотон!»
 					''' */
 			}
 
 			ExcavatorRelic: {
-				// DisplayName: The Excavator Relic
+				// DisplayName: Реликвия Раскопщика
 				// Tooltip: ""
 			}
 
 			ExcavatorMask: {
-				// DisplayName: Excavator Mask
+				// DisplayName: Маска Раскопщика
 				// Tooltip: ""
 			}
 
 			ExcavatorTrophy: {
-				// DisplayName: Excavator Trophy
+				// DisplayName: Трофей Раскопщика
 				// Tooltip: ""
 			}
 
 			IraGateway: {
-				// DisplayName: Ira Gateway
+				// DisplayName: Ирийские врата
 				// Tooltip: ""
 			}
 
 			DrillHand: {
-				// DisplayName: Drill Arm
+				// DisplayName: Рука-дрель
 				/* Tooltip:
 					'''
-					Mine in a 3x3 area, but reduce mining speed by 50% and pickaxe power by 15
-					When smart cursor is enabled, increase mining speed by 15% instead
+					Копает в радиусе 3х3, но уменьшает скорость добычи на 50% и мощность инструмента на 15
+					При включённом умном куросе вместо этого увеличивается скорость добычи на 15%
 					''' */
 			}
 
 			OtherworldlyServiceDevice: {
-				// DisplayName: Otherworldly Service Device
+				// DisplayName: Устройство обслуживания иного мира
 				/* Tooltip:
 					'''
-					Summons a Beepy Boopy Construct to provide light
-					'Need some advice? Ask the experts using this convenient communing-device!'
+					Призывает бип-боп конструкт освещать вам путь
+					«Нужен совет? Задайте вопрос экспертам, используя это крайне удобное средство связи!»
 					''' */
 			}
 
 			ExcavatorMusicBox: {
-				// DisplayName: Music Box (Excavator)
+				// DisplayName: Музыкальная шкатулка (Раскопщик)
 				// Tooltip: ""
 			}
 		}
@@ -7003,178 +7003,178 @@ Mods: {
 
 		Buffs: {
 			AbyssalInferno: {
-				DisplayName: Abyssal Inferno
-				Description: "'No more skin!'"
+				DisplayName: Инферно бездны
+				Description: «Никакой больше кожи!»
 			}
 
 			AerialAssistance: {
-				DisplayName: Aerial Assistance
-				Description: Penguins assist you in combat
+				DisplayName: Воздушная поддержка
+				Description: Пингвины помогают вам в бою
 			}
 
 			Assassination: {
-				DisplayName: Assassination
-				Description: Execute enemies below 10% health
+				DisplayName: Казнь
+				Description: Казните врагов, у которых меньше 10% здоровья
 			}
 
 			AuraBoost: {
-				DisplayName: Aura Boost
-				Description: Void regeneration speed increased by 4%, life regeneration by 4, defense by 4, and reduces damage taken by 4%
+				DisplayName: Усиление ауры
+				Description: Увеличены: скорость регенерации пустоты на 4%, регенерация жизни на 4 (2 ОЗ/сек), защита на 4 и споротивление урону на 4%
 			}
 
 			Bluefire: {
-				DisplayName: Bluefire
-				Description: Killed enemies explode into flames
+				DisplayName: Синий огонь
+				Description: Убитые враги взрываются пламенем
 			}
 
 			Brittle: {
-				DisplayName: Brittle
-				Description: Getting hit surrounds you with ice shards
+				DisplayName: Хрупкость
+				Description: Получение урона окужает вас ледяными осколками
 			}
 
 			ChaosSpiritAid: {
-				DisplayName: Spirit Aid
-				Description: Chaos Spirits assist you in combat
+				DisplayName: Духовная помощь
+				Description: Духи хаоса помогают вам в бою
 			}
 
 			CreativeShock2: {
-				DisplayName: Creative Shock
-				Description: You have lost the power of creation!
+				DisplayName: Креативный шок
+				Description: Вы потеряли возможность создавать что-либо!
 			}
 
 			CursedBlade: {
-				DisplayName: Cursed Blade
-				Description: Cursed Blades assist you in combat
+				DisplayName: Проклятый меч
+				Description: Проклятые мечи помогают вам в бою
 			}
 
 			CurseVision: {
-				DisplayName: Curse Vision
-				Description: Afflicted?
+				DisplayName: Проклятое зрение
+				Description: Огорчён?
 			}
 
 			CyberneticEnhancements: {
-				DisplayName: Cybernetic Enhancements
-				Description: Increases void damage by 10%
+				DisplayName: Кибернетические улучшения
+				Description: Увеличивают пустотный урон на 10%
 			}
 
 			DEFEBuff: {
-				DisplayName: Electromagnetic Interference
-				Description: "'No more constructs!'"
+				DisplayName: Электромагнитное вмешательство
+				Description: «Никаких больше конструктов!»
 			}
 
 			DiamondSkin: {
-				DisplayName: Diamond Skin
-				Description: Increase defense by 8, reduces damage taken by 8%, and increases movement speed by 8%
+				DisplayName: Алмазная кожа
+				Description: Защита увеличена на 8 ед., сопротивление урону и скорость передвижения увеличены на 8%
 			}
 
 			DilationSickness: {
-				DisplayName: Dilation Sickness
-				Description: Decreases void regeneration speed by 90%
+				DisplayName: Пустотная болезнь
+				Description: Скорость регенерации пустоты уменьшена на 90%
 			}
 
 			DoubleVision: {
-				DisplayName: Double Vision
-				Description: Bonus fishing lines (+{0})
+				DisplayName: Двойное зрение
+				Description: Дополнительные поплавки (+{0})
 			}
 
 			EarthenSpiritAid: {
-				DisplayName: Spirit Aid
-				Description: Earthen Spirits assist you in combat
+				DisplayName: Духовная помощь
+				Description: Земляные духи помогает вам в бою
 			}
 
 			Ethereal: {
-				DisplayName: Ethereal
-				Description: Ethereal Flames assist you in combat
+				DisplayName: Неосязаемые
+				Description: Эфирные огни помогают вам в бою
 			}
 
 			EvilSpiritAid: {
-				DisplayName: Spirit Aid
-				Description: Evil Spirits assist you in combat
+				DisplayName: Духовная помощь
+				Description: Злые духи помогает вам в бою
 			}
 
 			Fat: {
-				DisplayName: Fat
-				Description: Speed decreased, endurance increased
+				DisplayName: Жир
+				Description: Скорость уменьшена, сопротивление увеличено
 			}
 
 			FluidCurse: {
-				DisplayName: Fluid Curse
+				DisplayName: Жидкостное проклятие
 				Description: Mods.SOTS.BuffDescription.FluidCurse
 			}
 
 			Frenzy: {
-				DisplayName: Frenzy
-				Description: Melee speed increased by 100%
+				DisplayName: Безумие
+				Description: Скорость атаки ближнего боя увеличена на 100%
 			}
 
 			GoodVibes: {
-				DisplayName: Good Vibes
-				Description: Increased stats while not moving
+				DisplayName: Приятные воспоминания
+				Description: Увеличивает ваши характеристики, пока вы не двигаетесь
 			}
 
 			Harmony: {
-				DisplayName: Harmony
-				Description: Buff companionship
+				DisplayName: Гармония
+				Description: Баффовое тофарищество
 			}
 
 			IceShield: {
-				DisplayName: Ice Shield
-				Description: A holy levitating ice shield surrounds you
+				DisplayName: Ледяной щит
+				Description: Вас окружает святой парящий щит изо льда
 			}
 
 			Infected: {
-				DisplayName: Infected
+				DisplayName: Заражённый
 				Description: Mods.SOTS.BuffDescription.Infected
 			}
 
 			InfernalDefense: {
-				DisplayName: Infernal Defense
-				Description: "'Wisp Summoner'"
+				DisplayName: Инфернальная защита
+				Description: «Призыватель виспов»
 			}
 
 			InfernoSpiritAid: {
-				DisplayName: Spirit Aid
-				Description: Inferno Spirits assist you in combat
+				DisplayName: Духовная помощь
+				Description: Инфернальные духи помогает вам в бою
 			}
 
 			IntimidatingPresence: {
-				DisplayName: Intimidating Presence
-				Description: Drastically lowered enemy spawns
+				DisplayName: Устрашающее присутствие
+				Description: Скорость возрождения врагов значительно снижена
 			}
 
 			NatureSpiritAid: {
-				DisplayName: Spirit Aid
-				Description: Nature Spirits assist you in combat
+				DisplayName: Духовная помощь
+				Description: Природные духи помогает вам в бою
 			}
 
 			Nightmare: {
-				DisplayName: Nightmare
-				Description: Compress enemies together with critical strikes
+				DisplayName: Кошмар
+				Description: Стягивайте врагов критическими ударами
 			}
 
 			NightIlluminatorBuff: {
-				DisplayName: Illumination
-				Description: Protected by glowing moths
+				DisplayName: Иллюминация
+				Description: Вы защищены светящимися мотыльками
 			}
 
 			OtherworldlySpiritAid: {
-				DisplayName: Spirit Aid
-				Description: Otherworldly Spirits assist you in combat
+				DisplayName: Духовная помощь
+				Description: Духи другого мира помогает вам в бою
 			}
 
 			Overheat: {
-				DisplayName: Overheat
-				Description: Movement speed and melee speed increased by 10%
+				DisplayName: Перегрев
+				Description: Скорость передвижения и скорость атаки ближнего боя увеличены на 10%
 			}
 
 			PermafrostSpiritAid: {
-				DisplayName: Spirit Aid
-				Description: Permafrost Spirits assist you in combat
+				DisplayName: Духовная помощь
+				Description: Морозные духи помогает вам в бою
 			}
 
 			PharaohsCurse: {
 				DisplayName: Проклятье Фараона
-				Description: Something is watching you, spawn rates increased
+				Description: Что-то наблюдает за тобой, скорость возрождения врагов увеличена
 			}
 
 			PurpleBalloon: {
@@ -7770,7 +7770,7 @@ Mods: {
 			SeismicStationTile.MapEntry: Seismic Station
 			// TideChainTile.MapEntry: Tide Chain Tile
 			// IraGatewayTile.MapEntry: Ira Gateway
-			// ExcavatorMusicBoxTile.MapEntry: Music Box
+			// ExcavatorMusicBoxTile.MapEntry: Музыкальная шкатулка
 		}
 
 		WorldGeneration: {
@@ -8003,27 +8003,27 @@ Mods: {
 			Bridgeburner.DisplayName: Bridgeburner
 
 			Excavator: {
-				DisplayName: The Excavator
+				DisplayName: Раскопщик
 
 				BossChecklistIntegration: {
-					// EntryName: The Excavator
+					// EntryName: Раскопщик
 					// SpawnInfo: Awaken by activating the [i:SOTS/SeismicStation] in the Abandoned Village Mines
 					// DespawnMessage: The Excavator is no longer after you
 				}
 			}
 
-			ExcavatorBody.DisplayName: The Excavator
+			ExcavatorBody.DisplayName: Раскопщик
 			SubspaceWorm.DisplayName: Subspace Worm
 			SanguineFoundry.DisplayName: Кровавая плавильня
 			LunaMoth.DisplayName: Luna Moth
-			ExcavatorBody2.DisplayName: The Excavator
-			ExcavatorTail.DisplayName: The Excavator
-			ExcavatorDrillTail.DisplayName: The Excavator
-			CoalCart.DisplayName: Captured Cart
-			Pupa.DisplayName: Pupa
-			PupaFly.DisplayName: Gore Fly
-			VoidTreasureSlime.DisplayName: Void Treasure Slime
-			RotWalker.DisplayName: Rotwalker
+			ExcavatorBody2.DisplayName: Раскопщик
+			ExcavatorTail.DisplayName: Раскопщик
+			ExcavatorDrillTail.DisplayName: Раскопщик
+			CoalCart.DisplayName: Пойманная вагонетка
+			Pupa.DisplayName: Разлагающийся
+			PupaFly.DisplayName: Трупная муха
+			VoidTreasureSlime.DisplayName: Пустотный слизень с сокровищами
+			RotWalker.DisplayName: Гнилоход
 			// GulaSpirit.DisplayName: Gula Spirit
 		}
 
@@ -8180,7 +8180,7 @@ Mods: {
 				МЫ ВЫПОЛНИЛИ ВСЕ ВАШИ ЗАДАЧИ. ДЛЯ ВАШЕЙ НАУКИ. ВЫ НЕСОМНЕННО НАЙДЁТЕ ПОЛЬЗУ В ВОЗРАЩЕНИИ НАС ДОМОЙ.
 				ПОЖАЛУЙСТА, ПУСТЬ ЭТО БУДЕТ НЕ ПОСЛЕДНЕЕ СООБЩЕНИЕ ВАМ ОТ НАС.
 				С УВАЖЕНИЕМ. 
-				        САЙТ ИЗВЛЕЧЕНИЯ «ОБЖЁРСТВО».
+				        САЙТ ИЗВЛЕЧЕНИЯ «ОБЖОРСТВО».
 				'''
 			Tardigrade: These water bears are able to survive the harsh combination of low pressure and intense radiation, allowing them to live in space.
 			Bridgeburner: Originally devised to contain the spread of evil, it is perhaps a testament to its failure that it is now controlled by evil.
@@ -9068,7 +9068,7 @@ Mods: {
 			FoundryFireBoom.DisplayName: Meatball Explosion
 			HardlightHook.DisplayName: Hardlight Hook
 			CollapseBlock.DisplayName: Collapse Block
-			CoalCartCoal.DisplayName: Coal Cart Coal
+			CoalCartCoal.DisplayName: Угольная вагонетка
 			ExcavatorLightning.DisplayName: Excavator Lightning
 			ExcavatorOrb.DisplayName: Excavator Orb
 			ExcavatorRocket.DisplayName: Excavator Rocket

@@ -5872,7 +5872,7 @@ Mods: {
 				Tooltip:
 					'''
 					Увеличивает запас пустоты на 20 ед.
-					Уменьшает силу пустотного шока и пустотного восстановления
+					Уменьшает силу дебаффов «Пустотный шок» и «Пустотное восстановление»
 					'''
 			}
 
@@ -5886,7 +5886,7 @@ Mods: {
 				Tooltip:
 					'''
 					Прызвает стальной фонарь на позицию вашего курсора, который запускает огни во всех ближайших врагов
-					Радиус уввеличвается вместе с уроном призывателя
+					Радиус увеличвается вместе с уроном призывателя
 					'''
 			}
 
@@ -6747,7 +6747,7 @@ Mods: {
 				DisplayName: Мистер Жуть
 				Tooltip:
 					'''
-					Уменьшает силу пустотного шока и пустотного восстановления
+					Уменьшает силу дебаффов «Пустотный шок» и «Пустотное восстановление»
 					Предотвращает утечку пустоты при получении урона
 					Увеличивает пустотный урон на 10% и запас пустоты на 50 ед.
 					'''
@@ -6823,7 +6823,7 @@ Mods: {
 				DisplayName: Мистер МакМиллен
 				Tooltip:
 					'''
-					Уменьшает силу пустотного шока и пустотного восстановления
+					Уменьшает силу дебаффов «Пустотный шок» и «Пустотное восстановление»
 					Ускоряет скорость восстановления пустоты на 50% и максимальный запас пустоты на 50 ед.
 					«Скотина помойная...»
 					'''
@@ -6903,79 +6903,93 @@ Mods: {
 			}
 
 			TideChain: {
-				// DisplayName: Приливная цепь
+				// DisplayName: Tide Chain
 				// Tooltip: ""
 			}
 
 			BWand: {
-				// DisplayName: П. посох
+				// DisplayName: B. Wand
 				// Tooltip: ""
 			}
 
 			AncientSteelArrow: {
-				// DisplayName: Металлоломная стрела
-				// Tooltip: Критические удары накладывают суммирующееся, вечное кровотечение, наносящее 5 урона в секунду
+				// DisplayName: Scrap Metal Arrow
+				// Tooltip: Critical strikes may apply a stacking, permanent bleed for 5 damage per second
 			}
 
 			AncientSteelBullet: {
-				// DisplayName: Маллоломная пуля
-				// Tooltip: Критические удары накладывают суммирующееся, вечное кровотечение, наносящее 5 урона в секунду
+				// DisplayName: Scrap Metal Bullet
+				// Tooltip: Critical strikes may apply a stacking, permanent bleed for 5 damage per second
 			}
 
 			ExcavatorBossBag: {
-				// DisplayName: Мешок с сокровищами (Раскопщик)
+				// DisplayName: Treasure Bag (The Excavator)
 				// Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
 			LuxBall: {
-				// DisplayName: Призрачный мяч для гольфа
+				// DisplayName: Spirit Golf Ball
 				/* Tooltip:
 					'''
-					По нему можно ударить ключшкой для гольфа, и чем быстрее он летит, тем больше урона он нанесёт
-					«Это один большой фотон!»
+					Can be hit with a golf club and deals damage increasing with velocity
+					'This is one big photon!'
 					''' */
 			}
 
 			ExcavatorRelic: {
-				// DisplayName: Реликвия Раскопщика
+				// DisplayName: The Excavator Relic
 				// Tooltip: ""
 			}
 
 			ExcavatorMask: {
-				// DisplayName: Маска Раскопщика
+				// DisplayName: Excavator Mask
 				// Tooltip: ""
 			}
 
 			ExcavatorTrophy: {
-				// DisplayName: Трофей Раскопщика
+				// DisplayName: Excavator Trophy
 				// Tooltip: ""
 			}
 
 			IraGateway: {
-				// DisplayName: Ирийские врата
+				// DisplayName: Ira Gateway
 				// Tooltip: ""
 			}
 
 			DrillHand: {
-				// DisplayName: Рука-дрель
+				// DisplayName: Drill Arm
 				/* Tooltip:
 					'''
-					Копает в радиусе 3х3, но уменьшает скорость добычи на 50% и мощность инструмента на 15
-					При включённом умном куросе вместо этого увеличивается скорость добычи на 15%
+					Mine in a 3x3 area, but reduce mining speed by 50% and pickaxe power by 15
+					When smart cursor is enabled, increase mining speed by 15% instead
 					''' */
 			}
 
 			OtherworldlyServiceDevice: {
-				// DisplayName: Устройство обслуживания иного мира
+				// DisplayName: Otherworldly Service Device
 				/* Tooltip:
 					'''
-					Призывает бип-боп конструкт освещать вам путь
-					«Нужен совет? Задайте вопрос экспертам, используя это крайне удобное средство связи!»
+					Summons a Beepy Boopy Construct to provide light
+					'Need some advice? Ask the experts using this convenient communing-device!'
 					''' */
 			}
 
 			ExcavatorMusicBox: {
-				// DisplayName: Музыкальная шкатулка (Раскопщик)
+				// DisplayName: Music Box (Excavator)
+				// Tooltip: ""
+			}
+
+			MrGlorp: {
+				// DisplayName: Mr. Glorp
+				/* Tooltip:
+					'''
+					Increases max void by 100
+					Decreases the potency of Void Shock and Void Recovery
+					''' */
+			}
+
+			ExperimentalInjection: {
+				// DisplayName: Experimental Injection
 				// Tooltip: ""
 			}
 		}
@@ -7034,7 +7048,7 @@ Mods: {
 
 			ChaosSpiritAid: {
 				DisplayName: Духовная помощь
-				Description: Духи хаоса помогают вам в бою
+				Description: Хаотические духи помогают вам в бою
 			}
 
 			CreativeShock2: {
@@ -7178,292 +7192,292 @@ Mods: {
 			}
 
 			PurpleBalloon: {
-				DisplayName: Purple Balloon
-				Description: Fishing friend
+				DisplayName: Фиолетовый шарик
+				Description: Друг рыбаков
 			}
 
 			RippleBuff: {
-				DisplayName: Ripple
-				Description: Release waves of damage periodically
+				DisplayName: Рябь
+				Description: Переодически высвобождаются наносящие урон волны
 			}
 
 			Roughskin: {
-				DisplayName: Roughskin
-				Description: Increases defense by 4 and damage by 4%
+				DisplayName: Твердокожесть
+				Description: Защита увеличена на 4 ед. и урон увеличен на 4%
 			}
 
 			RubyMonolithAttack: {
-				DisplayName: Ruby Monolith Attack
+				DisplayName: Агрессивность рубинового монолита
 				Description:
 					'''
-					Increases void drain by 6
-					Increases void damage by 10%
+					Увеличивает трату пустоты 6
+					Увеличивает пустотный урон на 10%
 					'''
 			}
 
 			RubyMonolithDefense: {
-				DisplayName: Ruby Monolith Defense
+				DisplayName: Стойкость рубинового монолита
 				Description:
 					'''
-					Increases void regeneration speed by 10%
-					Reduces damage taken by 5%
+					Увеличивает скорость регенерации пустоты на 10%
+					Уменьшает получаемый урон на 5%
 					'''
 			}
 
 			Satiated: {
-				DisplayName: Satiated
-				Description: No more eating!
+				DisplayName: Удовлетворённость
+				Description: Никакой больше еды!
 			}
 
 			Shattered: {
-				DisplayName: Shattered
-				Description: Next hit will hurt a lot!
+				DisplayName: Расколотость
+				Description: Следующее получение урона будет болезненным!
 			}
 
 			SoulAccess: {
-				DisplayName: Soul Access
-				Description: Increases void regeneration speed by 10%
+				DisplayName: Душепроводимость
+				Description: Увеличивает скорость регенерации пустоты на 10%
 			}
 
 			SpawnBossCurse: {
-				DisplayName: Debug
-				Description: This is a work around since I don't know how to program multiplayer
+				DisplayName: Отладка
+				Description: Находится в процессе разработки, так как автор мода не знает, как кодить мультиплеер
 			}
 
 			SpawnBossIce: {
-				DisplayName: Debug
-				Description: This is a work around since I don't know how to program multiplayer
+				DisplayName: Отладка
+				Description: Находится в процессе разработки, так как автор мода не знает, как кодить мультиплеер
 			}
 
 			SpiritSurfer: {
-				DisplayName: Spirit Surfer
-				Description: Surf across the interdimensional plane!
+				DisplayName: Духовная доска для сёрфинга
+				Description: Скользи по межпространственной плоскости!
 			}
 
 			SquirrelBuff: {
-				DisplayName: Squirrel
-				Description: Squirrels assist you in combat
+				DisplayName: Белка
+				Description: Белки помогают вам в бою
 			}
 
 			StarlightSerpent: {
-				DisplayName: Crystal Serpent
-				Description: A Crystal Serpent assists with combat
+				DisplayName: Кристальный змей
+				Description: Кристальный змей помогает вам в бою
 			}
 
 			SulfurBurn: {
-				DisplayName: Sulfur Burn
-				Description: Soul power draining
+				DisplayName: Горящая сера
+				Description: Сила души истощается
 			}
 
 			SurpriseAttack: {
-				DisplayName: Surprise Attack
+				DisplayName: Неожиданная атака
 				Description:
 					'''
-					Melee damage increased by 50%
-					'*Teleports behind you*'
+					Урон ближнего боя увеличен на 50%
+					«*Телепортируется за твою спину*»
 					'''
 			}
 
 			TerminatorSquirrelBuff: {
-				DisplayName: Mechanical Squirrel
-				Description: Squirrels assist you in combat
+				DisplayName: Механическая белка
+				Description: Белки помогают вам в бою
 			}
 
 			TidalSpiritAid: {
-				DisplayName: Spirit Aid
-				Description: Tidal Spirits assist you in combat
+				DisplayName: Духовная помощь
+				Description: Приливные духи помогают вам в бою
 			}
 
 			Virtuous: {
-				DisplayName: Virtuous
-				Description: "'Spiritual Companionship'"
+				DisplayName: Добродетель
+				Description: «Духовное товарищество»
 			}
 
 			VoidBurn: {
-				DisplayName: Void Burn
-				Description: Increases void drain by 2
+				DisplayName: Пустотное выгорание
+				Description: Увеличивает трату пустоты на 2
 			}
 
 			VoidMetamorphosis: {
-				DisplayName: Void Metamorphosis
+				DisplayName: Пустотные матаморфозы
 				Description:
 					'''
-					Increases void drain by 6
-					Losing void to void drain will recover life
+					Увеличивает трату пустоты на 6
+					Потеря пустоты из-за пустотного истощения восстанавливает жизнь
 					'''
 			}
 
 			VoidRecovery: {
-				DisplayName: Void Recovery
-				Description: Soul returning
+				DisplayName: Пустотное восстановление
+				Description: Душа возвращается
 			}
 
 			VoidShock: {
-				DisplayName: Void Shock
-				Description: Quickly losing life, increases damage taken by 200%
+				DisplayName: Пустотный шок
+				Description: Вы быстро теряете здоровье, а получаемый урон увеличен на 200%
 			}
 
 			VoidSickness: {
-				DisplayName: Void Sickness
-				Description: Decreases void damage by 10%
+				DisplayName: Пустотная болезнь
+				Description: Уменьшает пустотный урон на 10%
 			}
 
 			WebbedNPC: {
-				DisplayName: Webbed
-				Description: Slowed, but only for enemies
+				DisplayName: Запаутиненный
+				Description: Замедление, но только для врагов
 			}
 
 			DendroChain: {
-				DisplayName: Dendro Chain
-				Description: Tied up
+				DisplayName: Дендровая цепь
+				Description: Связанный
 			}
 
 			Skipped: {
-				DisplayName: Skipped
-				Description: Recently warped through space, immune to fall damage
+				DisplayName: Проскочивший
+				Description: Недавно вы телепортировались сквозь пространство, вы неуязвимы к урону от падения
 			}
 
 			KelpWhipBuff: {
-				DisplayName: Kelp Whip Hit Buff
-				Description: Critical strike on next hit
+				DisplayName: Бафф ламинарного хлыста
+				Description: Следющий удар будет критическим
 			}
 
 			KelpWhipCooldown: {
-				DisplayName: Kelp Whip Cooldown
-				Description: No more crit
+				DisplayName: Перезарядка ламинарного хлыста
+				Description: Никаких больше критов
 			}
 
 			GlowWhipDebuff: {
-				DisplayName: Glow Whip Debuff
-				Description: Sparkle sparkle!
+				DisplayName: Дебафф светящегося хлыста
+				Description: Искорки-блёстки!
 			}
 
 			AtlantisBuff: {
-				DisplayName: Bloody Waters
+				DisplayName: Кровавые воды
 				Description:
 					'''
-					Increases melee damage by 50% of the increases received to magic damage from other sources
-					Increases magic damage by 50% of the increases received to melee damage from other sources
-					Increases movement speed by 20% and reduces damage taken by 10%
+					Увелчивает урон ближнего боя на 50% от бонусов магического урона, полученных не от этого баффа
+					Увелчивает магический урон на 50% от бонусов урона ближнего боя, полученных не от этого баффа
+					Увеличивает скорость передвижения на 20% и сопротивление урону на 10%
 					'''
 			}
 
 			EmberOiled: {
-				DisplayName: Ember Oiled
-				Description: Instantly activate fire DOT
+				DisplayName: Масляные угли
+				Description: Моментальное возгорание
 			}
 
 			TesseractBuff: {
-				DisplayName: Tesseract
-				Description: You are now everywhere, everything, all at once
+				DisplayName: Тессеракти
+				Description: Теперь в везде, во всём и всё сразу
 			}
 
 			ChaosState2: {
-				DisplayName: Chaotic State
+				DisplayName: Хаотическое состояние
 				Description:
 					'''
-					Elemental teleports are disabled
-					Increases melee speed by 40%
+					Телепортация элементалей отключена
+					Увеличивает скорость ближнего боя на 40%
 					'''
 			}
 
 			BrassWhipDebuff: {
-				DisplayName: Brass Whip Debuff
-				Description: Explode into brass balls!
+				DisplayName: Дебафф латунного хлыста
+				Description: Взорвитесь латунными шарами!
 			}
 
 			Attuned: {
-				DisplayName: Attuned
+				DisplayName: Настроенный
 				Description: Temp
-				Tier1: Increases max life by 20
+				Tier1: Увеличивает запас здоровья на 20 ед.
 				Tier2:
 					'''
-					Increases max life by 20
-					Increases max void by 20
+					Увеличивает запас здоровья на 20 ед.
+					Увеличивает запас пустоты на 20 ед.
 					'''
 				Tier3:
 					'''
-					Increases max life by 40
-					Increases max void by 40
+					Увеличивает запас здоровья на 40 ед.
+					Увеличивает запас пустоты на 40 ед.
 					'''
 				Tier4:
 					'''
-					Increases max life by 60
-					Increases max void by 40
+					Увеличивает запас здоровья на 60 ед.
+					Увеличивает запас пустоты на 40 ед.
 					'''
 				Tier5:
 					'''
-					Increases max life by 60
-					Increases max void by 60
+					Увеличивает запас здоровья на 60 ед.
+					Увеличивает запас пустоты на 60 ед.
 					'''
 				Tier6:
 					'''
-					Increases max life by 80
-					Increases max void by 80
+					Увеличивает запас здоровья на 80 ед.
+					Увеличивает запас пустоты на 80 ед.
 					'''
 				Tier7:
 					'''
-					Increases max life by 100
-					Increases max void by 80
+					Увеличивает запас здоровья на 100 ед.
+					Увеличивает запас пустоты на 80 ед.
 					'''
 				Tier8:
 					'''
-					Increases max life by 100
-					Increases max void by 100
+					Увеличивает запас здоровья на 100 ед.
+					Увеличивает запас пустоты на 100 ед.
 					'''
 			}
 
 			FreshGreenyBuff: {
-				DisplayName: Fresh Greeny
-				Description: "'Putrid Pinky's worst nightmare'"
+				DisplayName: Свежий зеленовый
+				Description: «Худший кошмар Гнилостного пинки»
 			}
 
 			LungRot: {
-				DisplayName: Lung Rot
+				DisplayName: Лёгочная гниль
 				Description:
 					'''
-					Vile air coats your lungs
-					Dramatically reduced life regeneration while moving
-					Increases void regeneration speed by 40% while moving
+					Мерзкий воздух наполнил ваши лёгкие
+					Во время движения скорость регенерации жизни значительно снижена
+					Во время движения скорость восстановления пустоты увеличена на 40%
 					'''
 			}
 
 			SanctuarySilence: {
-				Prefix0: "Deafening "
-				Prefix1: "Dreadful "
-				Prefix2: "Sorrowful "
-				Prefix3: "Hopeful "
-				Prefix4: "Blissful "
-				Prefix5: "Whispering "
-				Prefix6: "Creeping "
-				Prefix7: "Crippling "
-				DisplayName: Silence
-				Description: Reduced enemy spawnrates by {0}%
+				Prefix0: "Оглушительный "
+				Prefix1: "Ужасающий "
+				Prefix2: "Печальный "
+				Prefix3: "Надеющийся "
+				Prefix4: "Благословенный "
+				Prefix5: "Шепчущий "
+				Prefix6: "Ползущий "
+				Prefix7: "Парализующий "
+				DisplayName: Тишина
+				Description: Скорость возрождения врагов уменьшена на {0}%
 			}
 
 			Vigor: {
-				DisplayName: Vigor
-				Description: Dashes remaining: {0}
+				DisplayName: Здоровье
+				Description: Осталось равков: {0}
 			}
 
 			VoidAccess: {
-				DisplayName: Void Access
-				Description: Increases void gain by 5
+				DisplayName: Пустотный контроль
+				Description: Увеличивает получаемую пустоту на 5
 			}
 
 			Boiling: {
-				DisplayName: Boiling
-				Description: "'You can feel your skin peeling off'"
+				DisplayName: Кипение
+				Description: «Вы ощущаете, как отслаивается ваша кожа»
 			}
 
 			Embattle: {
-				DisplayName: Embattle
-				Description: Increases damage by 5% and greatly increases enemy spawn rates
+				DisplayName: В бою
+				Description: Увеличивает урон на 5% и значительно увеличивает скорость возрождения врагов
 			}
 
 			UnholyGrailBuff: {
-				DisplayName: Slothful Throne
-				Description: Increases defense by 12
+				DisplayName: Неподвижный трон
+				Description: Защита увеличена на 12
 			}
 
 			FriendlyCartBuff: {
@@ -7497,7 +7511,7 @@ Mods: {
 				'''
 			Frigid:
 				'''
-				Леденящее копьё больше не будет расходывать пустоту
+				Леденящее копьё больше не будет расходовать пустоту
 				Снижает пустотный урон на 15%
 				'''
 			FrostArtifact: Most melee and ranged attacks summon a handful of Polar Cannons that each deal 25% damage
@@ -7770,7 +7784,7 @@ Mods: {
 			SeismicStationTile.MapEntry: Seismic Station
 			// TideChainTile.MapEntry: Tide Chain Tile
 			// IraGatewayTile.MapEntry: Ira Gateway
-			// ExcavatorMusicBoxTile.MapEntry: Музыкальная шкатулка
+			// ExcavatorMusicBoxTile.MapEntry: Music Box
 		}
 
 		WorldGeneration: {
@@ -8006,7 +8020,7 @@ Mods: {
 				DisplayName: Раскопщик
 
 				BossChecklistIntegration: {
-					// EntryName: Раскопщик
+					// EntryName: The Excavator
 					// SpawnInfo: Awaken by activating the [i:SOTS/SeismicStation] in the Abandoned Village Mines
 					// DespawnMessage: The Excavator is no longer after you
 				}
@@ -9213,6 +9227,13 @@ Mods: {
 					Tooltip: Disable to prevent Peanut Bushes from growing naturally on grass
 				}
 			}
+		}
+
+		ExperimentalInjectionTextList: {
+			// 0: First strike applies a permanent bleed for 5 damage per second and increase max life by 20
+			// 1: First strike is guaranteed to critically strike and increase critical strike damage by 20%
+			// 2: First strike inflicts poison and steals life
+			// 3: Increases damage, attack speed, and movement speed by 5%
 		}
 	}
 }

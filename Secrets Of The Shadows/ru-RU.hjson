@@ -2807,7 +2807,7 @@ Mods: {
 			}
 
 			HardlightFabricator: {
-				DisplayName: Станок по производству твёрдосвета
+				DisplayName: Твердосветовой станок
 				Tooltip: Используется для создания потусторонней мебели и экиперовки
 			}
 
@@ -5494,7 +5494,7 @@ Mods: {
 			}
 
 			OtherworldCrate: {
-				DisplayName: Otherworld Crate
+				DisplayName: Потусторонний ящик
 				Tooltip:
 					'''
 					Можно выловить только сумрачной удочкой
@@ -6903,94 +6903,94 @@ Mods: {
 			}
 
 			TideChain: {
-				// DisplayName: Tide Chain
-				// Tooltip: ""
+				DisplayName: Приливная цепь
+				Tooltip: ""
 			}
 
 			BWand: {
-				// DisplayName: B. Wand
-				// Tooltip: ""
+				DisplayName: П. посох
+				Tooltip: ""
 			}
 
 			AncientSteelArrow: {
-				// DisplayName: Scrap Metal Arrow
-				// Tooltip: Critical strikes may apply a stacking, permanent bleed for 5 damage per second
+				DisplayName: Металлоломная стрела
+				Tooltip: Критические удары накладывают суммирующееся, вечное кровотечение, наносящее 5 урона в секунду
 			}
 
 			AncientSteelBullet: {
-				// DisplayName: Scrap Metal Bullet
-				// Tooltip: Critical strikes may apply a stacking, permanent bleed for 5 damage per second
+				DisplayName: Металлоломная пуля
+				Tooltip: Критические удары накладывают суммирующееся, вечное кровотечение, наносящее 5 урона в секунду
 			}
 
 			ExcavatorBossBag: {
-				// DisplayName: Treasure Bag (The Excavator)
-				// Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+				DisplayName: Мешок с сокровищами (Раскопщик)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
 			LuxBall: {
-				// DisplayName: Spirit Golf Ball
-				/* Tooltip:
+				DisplayName: Призрачный мяч для гольфа
+				Tooltip:
 					'''
-					Can be hit with a golf club and deals damage increasing with velocity
-					'This is one big photon!'
-					''' */
+					По нему можно ударить ключшкой для гольфа, и чем быстрее он летит, тем больше урона он нанесёт
+					«Это один большой фотон!»
+					'''
 			}
 
 			ExcavatorRelic: {
-				// DisplayName: The Excavator Relic
-				// Tooltip: ""
+				DisplayName: Реликвия Раскопщика
+				Tooltip: ""
 			}
 
 			ExcavatorMask: {
-				// DisplayName: Excavator Mask
-				// Tooltip: ""
+				DisplayName: Маска Раскопщика
+				Tooltip: ""
 			}
 
 			ExcavatorTrophy: {
-				// DisplayName: Excavator Trophy
-				// Tooltip: ""
+				DisplayName: Трофей Раскопщика
+				Tooltip: ""
 			}
 
 			IraGateway: {
-				// DisplayName: Ira Gateway
-				// Tooltip: ""
+				DisplayName: Ирийские врата
+				Tooltip: ""
 			}
 
 			DrillHand: {
-				// DisplayName: Drill Arm
-				/* Tooltip:
+				DisplayName: Рука-дрель
+				Tooltip:
 					'''
-					Mine in a 3x3 area, but reduce mining speed by 50% and pickaxe power by 15
-					When smart cursor is enabled, increase mining speed by 15% instead
-					''' */
+					Копает в радиусе 3х3, но уменьшает скорость добычи на 50% и мощность инструмента на 15
+					При включённом умном куросе вместо этого увеличивается скорость добычи на 15%
+					'''
 			}
 
 			OtherworldlyServiceDevice: {
-				// DisplayName: Otherworldly Service Device
-				/* Tooltip:
+				DisplayName: Устройство обслуживания иного мира
+				Tooltip:
 					'''
-					Summons a Beepy Boopy Construct to provide light
-					'Need some advice? Ask the experts using this convenient communing-device!'
-					''' */
+					Призывает бип-боп конструкт освещать вам путь
+					«Нужен совет? Задайте вопрос экспертам, используя это крайне удобное средство связи!»
+					'''
 			}
 
 			ExcavatorMusicBox: {
-				// DisplayName: Music Box (Excavator)
-				// Tooltip: ""
+				DisplayName: Музыкальная шкатулка (Раскопщик)
+				Tooltip: ""
 			}
 
 			MrGlorp: {
-				// DisplayName: Mr. Glorp
-				/* Tooltip:
+				DisplayName: Мистер Глорп
+				Tooltip:
 					'''
-					Increases max void by 100
-					Decreases the potency of Void Shock and Void Recovery
-					''' */
+					Увеличивает запас пустоты на 100 ед.
+					Уменьшает силу дебаффов «Пустотный шок» и «Пустотное восстановление»
+					'''
 			}
 
 			ExperimentalInjection: {
-				// DisplayName: Experimental Injection
-				// Tooltip: ""
+				DisplayName: Экспериментальная инъекция
+				Tooltip: ""
 			}
 		}
 
@@ -7481,21 +7481,21 @@ Mods: {
 			}
 
 			FriendlyCartBuff: {
-				DisplayName: Friendly Cart
-				Description: "'It's carting time!'"
+				DisplayName: Дружелюбная вагонетка
+				Description: «Время покататься!»
 			}
 
 			BeepBoop: {
-				// DisplayName: Beep Boop
-				// Description: While this construct is just one of many you've encounter in your adventures, you are its entire otherworld!
+				 DisplayName: Бип буп
+				 Description: Несмотря на то, что это — всего лишь один их многих конструктов, которые ты встрел в своём путешествии, для него ты — весь мир!
 			}
 		}
 
 		ArmorSetBonus: {
 			DoorItems:
 				'''
-				Acceleration lasts longer
-				Build up speed faster
+				Ускорение длится дольше
+				Скорость размещения блоков увеличена
 				'''
 			Vibrant:
 				'''
@@ -7506,15 +7506,15 @@ Mods: {
 			NatureWreath: Призывает 3 цветочные лозы сражаться за вас
 			TwilightAssassins:
 				'''
-				The Holo Eye now automatically attacks for you
-				Automatic attacks have a 25% chance to destabilize enemies, but the chance of applying it gets lower with each level already applied
+				Голограмный глаз сражается за вас
+				Его атаки имеют 25% шанс дестабилизировать врагов, но чем больше уровень дестабилизацции, тем меньше шанс наложить следующий
 				'''
 			Frigid:
 				'''
 				Леденящее копьё больше не будет расходовать пустоту
 				Снижает пустотный урон на 15%
 				'''
-			FrostArtifact: Most melee and ranged attacks summon a handful of Polar Cannons that each deal 25% damage
+			FrostArtifact: Большинство атак ближнего и дальнего боя призывают несколько полярных пушек, каждая из которых наносит 25% урона
 			ShatterShard:
 				'''
 				Ускоряет регенерацию здоровья на 2 ед. (1 ОЗ/сек)
@@ -7526,7 +7526,7 @@ Mods: {
 				В режиме атаки, монолит снижает время перезарядки наложения проклятья на 80%
 				Однако, вместо бонуса к скорости восполнения пустоты монолит будет поглощать 6 ед. пустоты в секунду
 				'''
-			PatchLeather: Summons a flock of flying snakes to assist in combat
+			PatchLeather: Призывает стаю летающих змей помогать вам в бою
 			Voidspace:
 				'''
 				Все атаки накладывают дебафф «Субпространственное пламя», наносящий 10 ед. урона в секунду
@@ -7541,16 +7541,16 @@ Mods: {
 				'''
 			Earthen:
 				'''
-				Melee strikes have a chance to apply a stacking, permanent shred on enemies, making them take additional damage from all attacks
+				Атаки ближнего боя кромсают врагов и имеют шанс наложить суммирующееся, вечное кровотечение, которое увеличивает получаемый ими урон
 				Increases attack speed by 20%
 				'''
 		}
 
 		Tiles: {
-			NatureConduitTile.MapEntry: Nature Conduit
-			EarthenConduitTile.MapEntry: Earth Conduit
-			PeanutBushTile.MapEntry: Peanut Bush
-			PeanutOreTile.MapEntry: Peanut Ore
+			NatureConduitTile.MapEntry: Природный конструкт
+			EarthenConduitTile.MapEntry: Земляной конструкт
+			PeanutBushTile.MapEntry: Арахисовый куст
+			PeanutOreTile.MapEntry: Арахис
 
 			RuinedChestTile: {
 				MapEntry0: Заброшенный сундук
@@ -7558,28 +7558,28 @@ Mods: {
 			}
 
 			EarthenPlatingStorageTile: {
-				MapEntry0: Earthen Plating Storage
-				MapEntry1: Locked Earthen Plating Storage
+				MapEntry0: Сундук из земляного покрытия
+				MapEntry1: Закрытый сундук из земляного покрытия
 			}
 
 			NaturePlatingCapsuleTile: {
-				MapEntry0: Nature Plating Capsule
-				MapEntry1: Locked Nature Plating Capsule
+				MapEntry0: Сундук из природного покрытия
+				MapEntry1: Закрытый сундук из природного покрытия
 			}
 
 			PermafrostPlatingCapsuleTile: {
-				MapEntry0: Permafrost Plating Capsule
-				MapEntry1: Locked Permafrost Plating Capsule
+				MapEntry0: Сундук из морозного покрытия
+				MapEntry1: Закрытый сундук из морозного покрытия
 			}
 
 			LockedMeteoriteChest: {
-				MapEntry0: Meteorite Chest
-				MapEntry1: Locked Meteorite Chest
+				MapEntry0: Метеоритный сундук
+				MapEntry1: Закрытый метеоритный сундук
 			}
 
 			LockedSkywareChest: {
-				MapEntry0: Skyware Chest
-				MapEntry1: Locked Skyware Chest
+				MapEntry0: Заоблачный сундук
+				MapEntry1: Закрытый заоблачный сундук
 			}
 
 			LockedStrangeChest: {
@@ -7588,23 +7588,23 @@ Mods: {
 			}
 
 			GulaVaultTile: {
-				MapEntry0: Gula Vault
-				MapEntry1: Locked Gula Vault
-				MapEntry2: Double Locked Gula Vault
-				MapEntry3: Triple Locked Gula Vault
+				MapEntry0: Сундук Гулы
+				MapEntry1: Закрытый сундук Гулы
+				MapEntry2: Дважды закрытый сундук Гулы
+				MapEntry3: Трижды закрытый сундук Гулы
 			}
 
 			InvidiaChestTile: {
-				MapEntry0: Invidia Chest
-				MapEntry1: Locked Invidia Chest
-				MapEntry2: Locked New Moon Invidia Chest
-				MapEntry3: Locked Waxing Cresent Invidia Chest
-				MapEntry4: Locked First Quarter Invidia Chest
-				MapEntry5: Locked Waxing Gibbous Invidia Chest
-				MapEntry6: Locked Full Moon Invidia Chest
-				MapEntry7: Locked Waning Gibbous Invidia Chest
-				MapEntry8: Locked Third Quarter Invidia Chest
-				MapEntry9: Locked Waning Cresent Invidia Chest
+				MapEntry0: Сундук зависти
+				MapEntry1: Закрытый сундук зависти
+				MapEntry2: Закрытый новолунный сундук зависти
+				MapEntry3: Закрытый сундук зависти растущего месяца
+				MapEntry4: Закрытый сундук зависти первой четверти
+				MapEntry5: Закрытый сундук зависти растущей луны
+				MapEntry6: Закрытый полнолунный сундук зависти
+				MapEntry7: Закрытый сундук зависти убывающей луны
+				MapEntry8: Закрытый сундук зависти третьей четверти
+				MapEntry9: Закрытый сундук зависти убывающего месяца
 			}
 
 			HoloEyeBannerTile.MapEntry: Знамя
@@ -7614,21 +7614,21 @@ Mods: {
 			SOTSBanners2.MapEntry: Знамя
 			SOTSTrophies.MapEntry: Трофей
 			SilkCocoonTile.MapEntry: Светящийся кокон
-			BigCrystalTile.MapEntry: Giant Crystal
-			VibrantOreTile.MapEntry: Vibrant Ore
-			VibrantCrystalTile.MapEntry: Vibrant Shard
-			VibrantBrickTile.MapEntry: Vibrant Brick
-			VibrantCrystalLargeTile.MapEntry: Large Vibrant Shard
-			PyramidCrateTile.MapEntry: Pyramid Crate
-			AncientGoldCampfireTile.MapEntry: Eternal Fireplace
+			BigCrystalTile.MapEntry: Гигантский кристалл
+			VibrantOreTile.MapEntry: Вибраниум
+			VibrantCrystalTile.MapEntry: Вибраниумный осколок
+			VibrantBrickTile.MapEntry: Виброкирпич
+			VibrantCrystalLargeTile.MapEntry: Большой вибраниумный осколок
+			PyramidCrateTile.MapEntry: Ящик пирамиды
+			AncientGoldCampfireTile.MapEntry: Вечный костёр
 			AncientGoldThroneTile.MapEntry: Трон из древнего золота
 			AncientGoldTorchTile.MapEntry: Факел из древнего золота
-			EarthenPlatingTorchTile.MapEntry: Earthen Plating Torch
+			EarthenPlatingTorchTile.MapEntry: Факел
 			GoopwoodBarrelTile.MapEntry0: Бочка из липкого дерева
-			Hydroponics.MapEntry: Hydroponics
-			NaturePlatingTorchTile.MapEntry: Nature Plating Torch
-			PermafrostPlatingTorchTile.MapEntry: Permafrost Plating Torch
-			SOTSGemLockTiles.MapEntry: Mysterious Switch
+			Hydroponics.MapEntry: Гидропоника
+			NaturePlatingTorchTile.MapEntry: Факел
+			PermafrostPlatingTorchTile.MapEntry: Факел
+			SOTSGemLockTiles.MapEntry: Таинственный переключатель
 			AdvisorMusicBoxTile.MapEntry: Музыкальная шкатулка
 			AncientPyramidMusicBoxTile.MapEntry: Музыкальная шкатулка
 			KnucklesMusicBoxTile.MapEntry: Музыкальная шкатулка
@@ -7639,38 +7639,38 @@ Mods: {
 			PyramidBattleMusicBoxTile.MapEntry: Музыкальная шкатулка
 			SubspaceSerpentMusicBoxTile.MapEntry: Музыкальная шкатулка
 			CurseMusicBoxTile.MapEntry: Музыкальная шкатулка
-			DigitalDisplayTile.MapEntry: Digital Display
-			HardlightFabricatorTile.MapEntry: Hardlight Fabricator
-			HardlightTableTile.MapEntry: Hardlight Table
-			PotGeneratorTile.MapEntry: Pot Generator
-			SkyPots.MapEntry: Pot
-			SkyChainTile.MapEntry: Sky Chain
-			TransmutationAltarTile.MapEntry: Transmutation Altar
-			AvaritianGatewayTile.MapEntry: Strange Gateway
-			FrigidIceTile.MapEntry: Frigid Ore
-			FrigidIceTileSafe.MapEntry: Frigid Ore
-			FrostArtifactTile.MapEntry: Frost Artifact
-			AcediaGatewayTile.MapEntry: Strange Gateway
-			AncientGoldGateTile.MapEntry: Strange Pillar
-			CrystalStatue.MapEntry: Crystal Statue
-			CursedAppleTile.MapEntry: Strange Fruit
-			CursedGrowthTile.MapEntry: Cursed Growth
-			ManaStatue.MapEntry: Mana Statue
-			PyramidChestTile.MapEntry0: Pyramid Chest
-			PyramidGateTile.MapEntry: Pyramid Gate
-			PyramidPots.MapEntry: Pot
-			RoyalRubyShardTile.MapEntry: Keystone Shard
-			RubyKeystoneTile.MapEntry: Strange Keystone
-			SarcophagusTile.MapEntry: Sarcophagus
+			DigitalDisplayTile.MapEntry: Цифровой дисплей
+			HardlightFabricatorTile.MapEntry: Твердосветовой станок
+			HardlightTableTile.MapEntry: Твердосветовой стол
+			PotGeneratorTile.MapEntry: Генератор горшков
+			SkyPots.MapEntry: Горшок
+			SkyChainTile.MapEntry: Небесная цепь
+			TransmutationAltarTile.MapEntry: Трасмутационный алтарь
+			AvaritianGatewayTile.MapEntry: Странные врата
+			FrigidIceTile.MapEntry: Леденящая руда
+			FrigidIceTileSafe.MapEntry: Леденящая руда
+			FrostArtifactTile.MapEntry: Морозная реликвия
+			AcediaGatewayTile.MapEntry: Странные врата
+			AncientGoldGateTile.MapEntry: Странная колонна
+			CrystalStatue.MapEntry: Кристальная статуя
+			CursedAppleTile.MapEntry: Странный фрукт
+			CursedGrowthTile.MapEntry: Проклятая опухоль
+			ManaStatue.MapEntry: Мана статуя
+			PyramidChestTile.MapEntry0: Пирамидный сундук
+			PyramidGateTile.MapEntry: Врата пирамиды
+			PyramidPots.MapEntry: Горшок
+			RoyalRubyShardTile.MapEntry: Осколок краеугольного камня
+			RubyKeystoneTile.MapEntry: Краеугольный камень
+			SarcophagusTile.MapEntry: Саркофагус
 			TaintedKeystoneShardTile.MapEntry: Искажённый осколок краеугольного камня
-			StrangeKeystoneTile.MapEntry: Strange Keystone
-			ForgottenLampTile.MapEntry: False Lamp
-			ArkhalisChainTile.MapEntry: Lost Chain
-			ElectromagneticDeterrentTile.MapEntry: D.E.F.E
-			EnchantedPickShrineTile.MapEntry: Pickaxe Shrine
-			EnchantedSwordShrineTile.MapEntry: Sword Shrine
-			MineralariumTile.MapEntry: Mineralarium
-			HydraulicPressTile.MapEntry: Hydraulic Press
+			StrangeKeystoneTile.MapEntry: Краеугольный камень
+			ForgottenLampTile.MapEntry: Фальшивая лампа
+			ArkhalisChainTile.MapEntry: Потерянная цепь
+			ElectromagneticDeterrentTile.MapEntry: И.Р.Э.П.
+			EnchantedPickShrineTile.MapEntry: Храм кирки
+			EnchantedSwordShrineTile.MapEntry: Храм меча
+			MineralariumTile.MapEntry: Минерализатор
+			HydraulicPressTile.MapEntry: Гидравлический пресс
 
 			AncientGoldDoorClosed: {
 				MapEntry: Дверь из древнего золота
@@ -7682,8 +7682,8 @@ Mods: {
 				DisplayName: Дверь из древнего золота
 			}
 
-			EarthenPlatingBlastDoorTileClosed.MapEntry: Earthen Plating Blast Door
-			EarthenPlatingBlastDoorTileOpen.MapEntry: Earthen Plating Blast Door
+			EarthenPlatingBlastDoorTileClosed.MapEntry: Взрывоустойчивая дверь из земляного покрытия
+			EarthenPlatingBlastDoorTileOpen.MapEntry: Взрывоустойчивая дверь из земляного покрытия
 
 			GoopwoodDoorClosed: {
 				MapEntry: Дверь из липкого дерева
@@ -7695,10 +7695,10 @@ Mods: {
 				DisplayName: Дверь из липкого дерева
 			}
 
-			NaturePlatingBlastDoorTileClosed.MapEntry: Nature Plating Blast Door
-			NaturePlatingBlastDoorTileOpen.MapEntry: Nature Plating Blast Door
-			PermafrostPlatingBlastDoorTileClosed.MapEntry: Permafrost Plating Blast Door
-			PermafrostPlatingBlastDoorTileOpen.MapEntry: Permafrost Plating Blast Door
+			NaturePlatingBlastDoorTileClosed.MapEntry: Взрывоустойчивая дверь из природного покрытия
+			NaturePlatingBlastDoorTileOpen.MapEntry: Взрывоустойчивая дверь из природного покрытия
+			PermafrostPlatingBlastDoorTileClosed.MapEntry: Взрывоустойчивая дверь из морозного покрытия
+			PermafrostPlatingBlastDoorTileOpen.MapEntry: Взрывоустойчивая дверь из морозного покрытия
 
 			GemChestTile: {
 				MapEntry0: Самоцветный сундук
@@ -7719,50 +7719,50 @@ Mods: {
 
 			OtherworldCrateTile.MapEntry: Потусторонний ящик
 			PlanetariumCrateTile.MapEntry: Ящик Планетария
-			ChaosConduitTile.MapEntry: Chaos Conduit
-			OtherworldConduitTile.MapEntry: Otherworld Conduit
-			EvilConduitTile.MapEntry: Evil Conduit
-			InfernoConduitTile.MapEntry: Inferno Conduit
-			PermafrostConduitTile.MapEntry: Permafrost Conduit
-			TidalConduitTile.MapEntry: Tidal Conduit
-			GulaGatewayTile.MapEntry: Strange Gateway
-			AVPots.MapEntry: Pot
-			AVMusicBoxTile.MapEntry: Abandoned Village Surface Music Box
-			TidalPlatingBlastDoorTileClosed.MapEntry: Tidal Plating Blast Door
-			TidalPlatingBlastDoorTileOpen.MapEntry: Tidal Plating Blast Door
+			ChaosConduitTile.MapEntry: Хаотический конструкт
+			OtherworldConduitTile.MapEntry: Потусторонний конструкт
+			EvilConduitTile.MapEntry: Злой конструкт
+			InfernoConduitTile.MapEntry: Инфернальный конструкт
+			PermafrostConduitTile.MapEntry: Морозный конструкт
+			TidalConduitTile.MapEntry: Приливной конструкт
+			GulaGatewayTile.MapEntry: Странные врата
+			AVPots.MapEntry: Горшок
+			AVMusicBoxTile.MapEntry: Музыкальная шкатулка
+			TidalPlatingBlastDoorTileClosed.MapEntry: Взрывоустойчивая дверь из приливного покрытия
+			TidalPlatingBlastDoorTileOpen.MapEntry: Взрывоустойчивая дверь из приливного покрытия
 
 			TidalPlatingChestTile: {
-				MapEntry0: Tidal Plating Storage
-				MapEntry1: Locked Tidal Plating Storage
+				MapEntry0: Сундук из приливного покрытия
+				MapEntry1: Закрытый сундук из приливного покрытия
 			}
 
-			TidalPlatingTorchTile.MapEntry: Tidal Plating Torch
-			AVMinesMusicBoxTile.MapEntry: Abandoned Village Mines Music Box
-			PinkyTestTube.MapEntry: Failed Experiment
-			OtherworldPlatingBlastDoorTileClosed.MapEntry: Otherworld Plating Blast Door
-			OtherworldPlatingBlastDoorTileOpen.MapEntry: Otherworld Plating Blast Door
+			TidalPlatingTorchTile.MapEntry: Факел
+			AVMinesMusicBoxTile.MapEntry: Музыкальная шкатулка
+			PinkyTestTube.MapEntry: Провалившийся эксперимент
+			OtherworldPlatingBlastDoorTileClosed.MapEntry: Взрывоустойчивая дверь из потустороннего покрытия
+			OtherworldPlatingBlastDoorTileOpen.MapEntry: Взрывоустойчивая дверь из потустороннего покрытия
 
 			OtherworldPlatingChestTile: {
-				MapEntry0: Otherworld Plating Capsule
-				MapEntry1: Locked Otherworld Plating Capsule
+				MapEntry0: Капсула из потустороннего покрытия
+				MapEntry1: Закрытая капсула из потустороннего покрытия
 			}
 
-			OtherworldPlatingTorchTile.MapEntry: Otherworld Plating Torch
-			EvilPlatingBlastDoorTileClosed.MapEntry: Evil Plating Blast Door
-			EvilPlatingBlastDoorTileOpen.MapEntry: Evil Plating Blast Door
+			OtherworldPlatingTorchTile.MapEntry: Факел
+			EvilPlatingBlastDoorTileClosed.MapEntry: Взрывоустойчивая дверь из злого покрытия
+			EvilPlatingBlastDoorTileOpen.MapEntry: Взрывоустойчивая дверь из злого покрытия
 
 			EvilPlatingChestTile: {
-				MapEntry0: Evil Plating Capsule
-				MapEntry1: Locked Evil Plating Capsule
+				MapEntry0: Капсула из злого покрытия
+				MapEntry1: Закрытая капсула из злого покрытия
 			}
 
-			EvilPlatingTorchTile.MapEntry: Evil Plating Torch
-			InfernoPlatingBlastDoorTileClosed.MapEntry: Inferno Plating Blast Door
-			InfernoPlatingBlastDoorTileOpen.MapEntry: Inferno Plating Blast Door
+			EvilPlatingTorchTile.MapEntry: Факел
+			InfernoPlatingBlastDoorTileClosed.MapEntry: Взрывоустойчивая дверь из инфернального покрытия
+			InfernoPlatingBlastDoorTileOpen.MapEntry: Взрывоустойчивая дверь из инфернального покрытия
 
 			InfernoPlatingChestTile: {
-				MapEntry0: Inferno Plating Chest
-				MapEntry1: Locked Inferno Plating Chest
+				MapEntry0: Сундук из инфернального покрытия
+				MapEntry1: Закрытый сундук из инфернального покрытия
 			}
 
 			InfernoPlatingTorchTile.MapEntry: Inferno Plating Torch

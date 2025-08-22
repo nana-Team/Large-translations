@@ -7486,8 +7486,8 @@ Mods: {
 			}
 
 			BeepBoop: {
-				 DisplayName: Бип буп
-				 Description: Несмотря на то, что это — всего лишь один их многих конструктов, которые ты встрел в своём путешествии, для него ты — весь мир!
+				DisplayName: Бип буп
+				Description: Несмотря на то, что это — всего лишь один их многих конструктов, которые ты встрел в своём путешествии, для него ты — весь мир!
 			}
 		}
 
@@ -7765,61 +7765,61 @@ Mods: {
 				MapEntry1: Закрытый сундук из инфернального покрытия
 			}
 
-			InfernoPlatingTorchTile.MapEntry: Inferno Plating Torch
-			ChaosPlatingTorchTile.MapEntry: Chaos Plating Torch
+			InfernoPlatingTorchTile.MapEntry: Факел
+			ChaosPlatingTorchTile.MapEntry: Факел
 
 			ChaosPlatingChestTile: {
-				MapEntry1: Chaos Plating Chest
-				MapEntry0: Locked Chaos Plating Chest
+				MapEntry1: Сундук из хаотического покрытия
+				MapEntry0: Закрытый сундук из хаотического покрытия
 			}
 
-			ChaosPlatingBlastDoorTileOpen.MapEntry: Chaos Plating Blast Door
-			ChaosPlatingBlastDoorTileClosed.MapEntry: Chaos Plating Blast Door
-			MothMusicBoxTile.MapEntry: Moth Music Box Tile
-			RuinedStatueTile.MapEntry: Ruined Statue Tile
-			SerpentStatueTile.MapEntry: Serpent Statue Tile
-			InvidiaGatewayTile.MapEntry: Strange Gateway
-			SanctuaryMusicBoxTile.MapEntry: Sanctuary Music Box Tile
-			EvostonePots.MapEntry: Pots
-			SeismicStationTile.MapEntry: Seismic Station
-			// TideChainTile.MapEntry: Tide Chain Tile
-			// IraGatewayTile.MapEntry: Ira Gateway
-			// ExcavatorMusicBoxTile.MapEntry: Music Box
+			ChaosPlatingBlastDoorTileOpen.MapEntry: Взрывоустойчивая дверь из хаотического покрытия
+			ChaosPlatingBlastDoorTileClosed.MapEntry: Взрывоустойчивая дверь из хаотического покрытия
+			MothMusicBoxTile.MapEntry: Музыкальная шкатулка
+			RuinedStatueTile.MapEntry: Разрушенная статуя
+			SerpentStatueTile.MapEntry: Статуя змеи
+			InvidiaGatewayTile.MapEntry: Странные врата
+			SanctuaryMusicBoxTile.MapEntry: Музыкальная шкатулка
+			EvostonePots.MapEntry: Горшки
+			SeismicStationTile.MapEntry: Сейсмическая станция
+			TideChainTile.MapEntry: Приливная цепь
+			IraGatewayTile.MapEntry: Ирийские врата
+			ExcavatorMusicBoxTile.MapEntry: Музыкальная шкатулка
 		}
 
 		WorldGeneration: {
-			GetStatus: Generating starlight...
-			Atmosphere: Starlight solidifies in the upper atmosphere!
+			GetStatus: Создаём твердосвет...
+			Atmosphere: Твердосвет образуется в космосе!
 		}
 
 		Dialogue: {
-			ArchaeologistDialogue1: Oh. Hey traveler, don't mind me, I'm just an Archaeologist passing by.
-			ArchaeologistDialogue2: Oh. Hey traveler... have we met before..? I'm just an Archaeologist passing by.
-			ArchaeologistDialogue3: This planet has quite a unique topography.
-			ArchaeologistDialogue4: Is there anything I can do help you?
-			ArchaeologistDialogue5: Compared to my home, there is quite a concentration of ancient artifacts here.
-			ArchaeologistDialogue6: The place I come from is rather dark. It's nice to observe a planet that still gets a fair amount of sunlight.
-			ArchaeologistDialogue7: How can you purchase an Anomaly Detector from me when I am a mere hologram? Don't sweat the small stuff... just buy it!
-			ArchaeologistDialogueGemlockNotDiamond: This locking mechanism is quite ancient, but the developments that surround it are relatively new. Perhaps they were manmade?
-			ArchaeologistDialogueGemlockDiamond: Strange, this lock is the only one without signs of prior discovery, yet it is still missing a key?
-			ArchaeologistDialoguePortalNotAvaritia: Yet another gateway... I wonder where this one leads.
-			ArchaeologistDialoguePortal1: I wonder who built this.
-			ArchaeologistDialoguePortal2: It's strange that this planet is so littered with gateways.
-			ArchaeologistDialogueAcedia1: Despite the vines that have grown on this gateway, it shows remarkable integrity.
-			ArchaeologistDialogueAcedia2: I believe this gateway resonates with nature and earth energy... unfortunately, I am unable to experiment with it myself.
-			ArchaeologistDialogueAvaritia1: As to be expected of The Advisor's gateway: it is in pristine condition.
-			ArchaeologistDialogueAvaritia2: I believe this gateway resonates with otherworldly and chaotic energy... unfortunately, I am unable to experiment with it myself.
-			ArchaeologistDialogueAvaritia3: I believe this gateway resonates with otherworldly and chaotic energy... unfortunately, I am unable to experiment with it myself.
-			ArchaeologistDialogueGula1: I wonder if the excavation project is related to this gateway...
-			ArchaeologistDialogueGula2: I believe this gateway resonates with earth and evil energy... unfortunately, I am unable to experiment with it myself.
-			ArchaeologistDialogueBigCrystal: I can feel strong energy radiating from this formation.
-			ArchaeologistDialogueCoconutMonument: This tablet is composed of highly light-reactive material. If you could find an object to focus light on it, I wonder what secrets it might reveal?
-			ArchaeologistDialogueCoconutBroken: Very clever traveler... perhaps you have a bright destiny ahead of you.
-			ArchaeologistDialogueDamocles: Hmm... was this a room for a prisoner or for a king?
-			ArchaeologistDialogueIceMonument: This keyhole is deceiving. I doubt this structure actually serves as a vessel for anything.
-			ArchaeologistDialogueInvidia1: This Sanctuary is one of my favorite places to visit. It's always so quiet here.
-			ArchaeologistDialogueInvidia2: This serpent carving is excellently detailed, don't you agree?
-			ArchaeologistDialogueInvidia3: I feel a void of tidal and infernal energy in this area.
+			ArchaeologistDialogue1: Ох. Приветствую, путешественник, не обращай на меня внимания, я всего лишь странствующий археолог.
+			ArchaeologistDialogue2: Ох. Приветствую, путешественник... мы раньше не встречались..? Я всего лишь странствующий археолог.
+			ArchaeologistDialogue3: У этой планеты уникальнейшая топография.
+			ArchaeologistDialogue4: Могу ли я как-нибудь помочь тебе?
+			ArchaeologistDialogue5: В отличие от моего дома, древние артефакты здесь встречаются буквально на каждом шагу.
+			ArchaeologistDialogue6: Место, из которого я пришёл, погружено во тьму. Приятно видеть планету, которая получает достаточное количество солнечного света.
+			ArchaeologistDialogue7: Каким образом ты можешь купить у меня детектор аномалий, если я всего лишь голограмма? Не обращай на мелочи внимения... просто купи его!
+			ArchaeologistDialogueGemlockNotDiamond: Этот запирающий механизм достаточно древний, но его кружение значительно моложе. Возможно, всё это было сделано людьми?
+			ArchaeologistDialogueGemlockDiamond: Странно: среди тех замков, которые я видел, следов обнаружения нет только у этого, но, тем не менее, ключа от него я не нашёл.
+			ArchaeologistDialoguePortalNotAvaritia: Ещё одни врата... Интересно, куда они ведут?
+			ArchaeologistDialoguePortal1: Кто же построил их?
+			ArchaeologistDialoguePortal2: Странно, что на этой планете так много врат.
+			ArchaeologistDialogueAcedia1: Несмотря на то, что лианы почти скрыли эти врата, они сохранили свою целостность.
+			ArchaeologistDialogueAcedia2: Я ощущаю, что эти врата резонируют с природной и земляной энергиями... К сожалению, самостоятельно поэкспериментировать с ними я не могу.
+			ArchaeologistDialogueAvaritia1: Как и ожидалось от врат Аналитика: они в идеальном состоянии.
+			ArchaeologistDialogueAvaritia2: Я ощущаю, что эти врата резонируют с потусторонней и хаотической энергиями... К сожалению, самостоятельно поэкспериментировать с ними я не могу.
+			ArchaeologistDialogueAvaritia3: Я ощущаю, что эти врата резонируют с потусторонней и хаотической энергиями... К сожалению, самостоятельно поэкспериментировать с ними я не могу.
+			ArchaeologistDialogueGula1: Интересно, связан ли проект раскопки с этими вратами...
+			ArchaeologistDialogueGula2: Я ощущаю, что эти врата резонируют со злой и земляной энергиями... К сожалению, самостоятельно поэкспериментировать с ними я не могу.
+			ArchaeologistDialogueBigCrystal: Я ощущаю сильню энергию, излучаемую этим образованием.
+			ArchaeologistDialogueCoconutMonument: Этот монумент состоит из материала, отлично реагирующего на свет. Если ты найдёшь предмет, способный фокусировать солнечные лучи, возможно, то сможешь раскрыть его секреты.
+			ArchaeologistDialogueCoconutBroken: Очень умно, путешественник... вполне возможно, что тебя ждёт светлое будущее.
+			ArchaeologistDialogueDamocles: Хмм... эти комната предназначалась для преступника или для короля?
+			ArchaeologistDialogueIceMonument: Эта замочная скважина обманчива. Сомневаюсь, что эта структура является сосудом для чего-либо.
+			ArchaeologistDialogueInvidia1: Это святилище — одно из моих любимых мест для посещения. Здесь всегда так тихо.
+			ArchaeologistDialogueInvidia2: Эта змееобразная резьба невероятно детализирована, не так ли?
+			ArchaeologistDialogueInvidia3: Я ощущая приливную и инернальную энергию в этом месте.
 		}
 
 		NPCs: {
@@ -7859,12 +7859,12 @@ Mods: {
 				}
 			}
 
-			FakeLux.DisplayName: Chaos Illusion
+			FakeLux.DisplayName: Хаотическая иллюзия
 			# Polaris
-			BulletSnakeHead.DisplayName: Bullet Snake
-			BulletSnakeBody.DisplayName: Bullet Snake
-			BulletSnakeEnd.DisplayName: Bullet Snake
-			BulletSnakeWing.DisplayName: Bullet Snake
+			BulletSnakeHead.DisplayName: Змеепуля
+			BulletSnakeBody.DisplayName: Змеепуля
+			BulletSnakeEnd.DisplayName: Змеепуля
+			BulletSnakeWing.DisplayName: Змеепуля
 
 			Polaris: {
 				DisplayName: Полярный
@@ -7891,9 +7891,9 @@ Mods: {
 				}
 			}
 
-			GlowmothMinion.DisplayName: Illuminant Moth
-			HookTurret.DisplayName: Putrid Turret
-			PutridHook.DisplayName: Putrid Hook
+			GlowmothMinion.DisplayName: Люминисцентная моль
+			HookTurret.DisplayName: Гнилостная турель
+			PutridHook.DisplayName: Гнилостный крюк
 			PutridPinky1.DisplayName: Гнилостный пинки
 
 			PutridPinkyPhase2: {
@@ -7906,7 +7906,7 @@ Mods: {
 				}
 			}
 
-			SubspaceEye.DisplayName: Subspace Gaze
+			SubspaceEye.DisplayName: Подпространственный взор
 
 			SubspaceSerpentHead: {
 				DisplayName: Субпространственный змей
@@ -7921,27 +7921,27 @@ Mods: {
 			SubspaceSerpentBody.DisplayName: Субпространственный змей
 			SubspaceSerpentTail.DisplayName: Субпространственный змей
 			# Constructs
-			ChaosConstruct.DisplayName: Chaos Construct
-			ChaosRubble.DisplayName: Chaos Construct Chassis
-			ChaosSpirit.DisplayName: Chaos Spirit
-			Collector.DisplayName: Collector
-			Collector2.DisplayName: Collector
-			EarthenConstruct.DisplayName: Earthen Construct
-			EarthenConstructTail.DisplayName: Earthen Construct
-			EarthenSpirit.DisplayName: Earthen Spirit
-			EvilConstruct.DisplayName: Evil Construct
-			EvilSpirit.DisplayName: Evil Spirit
-			InfernoConstruct.DisplayName: Inferno Construct
-			InfernoSpirit.DisplayName: Inferno Spirit
-			NatureConstruct.DisplayName: Nature Construct
-			NatureSpirit.DisplayName: Nature Spirit
-			OtherworldlyConstructHead.DisplayName: Otherworldly Construct
-			OtherworldlyConstructHead2.DisplayName: Otherworldly Construct
-			OtherworldlySpirit.DisplayName: Otherworldly Spirit
-			PermafrostConstruct.DisplayName: Permafrost Construct
-			PermafrostSpirit.DisplayName: Permafrost Spirit
-			TidalConstruct.DisplayName: Tidal Construct
-			TidalSpirit.DisplayName: Tidal Spirit
+			ChaosConstruct.DisplayName: Хаотический конструкт
+			ChaosRubble.DisplayName: Рама хаотического конструкта
+			ChaosSpirit.DisplayName: Хаотический дух
+			Collector.DisplayName: Собиратель
+			Collector2.DisplayName: Собиратель
+			EarthenConstruct.DisplayName: Земляной конструкт
+			EarthenConstructTail.DisplayName: Земляной конструкт
+			EarthenSpirit.DisplayName: Земляной дух
+			EvilConstruct.DisplayName: Злой конструкт
+			EvilSpirit.DisplayName: Злой дух
+			InfernoConstruct.DisplayName: Инфернальный конструкт
+			InfernoSpirit.DisplayName: Инфернальный дух
+			NatureConstruct.DisplayName: Природный конструкт
+			NatureSpirit.DisplayName: Природный дух
+			OtherworldlyConstructHead.DisplayName: Потусторонний конструкт
+			OtherworldlyConstructHead2.DisplayName: Потусторонний конструкт
+			OtherworldlySpirit.DisplayName: Потусторонний дух
+			PermafrostConstruct.DisplayName: Морозный конструкт
+			PermafrostSpirit.DisplayName: Морозный дух
+			TidalConstruct.DisplayName: Приливной конструкт
+			TidalSpirit.DisplayName: Приливной дух
 			# Inferno
 			LesserWisp.DisplayName: Меньший огонёк
 			# Phase
@@ -7964,9 +7964,9 @@ Mods: {
 
 			# Town
 			Archaeologist: {
-				DisplayName1: Strange Transmission
-				DisplayName2: Archaeologist
-				DisplayName: Archaeologist
+				DisplayName1: Странная проекция
+				DisplayName2: Археологист
+				DisplayName: Археологист
 			}
 
 			# Anomaly
@@ -7983,7 +7983,7 @@ Mods: {
 			HoloBlade.DisplayName: Голографический клинок
 			HoloEye.DisplayName: Голографический глаз
 			HoloSlime.DisplayName: Голографический слизень
-			knuckles.DisplayName: Knuckles
+			knuckles.DisplayName: Наклз
 			LostSoul.DisplayName: Потерянная душа
 			Maligmor.DisplayName: Малигмор
 			MaligmorChild.DisplayName: Малигмор
@@ -8007,29 +8007,29 @@ Mods: {
 			Famished.DisplayName: Голодающий
 			BallOGuts.DisplayName: Ком плоти
 			BallOWorms.DisplayName: Червивый ком
-			BallOGutsPile.DisplayName: Pile O' Guts
+			BallOGutsPile.DisplayName: Ком внутренностей
 			Fistfull.DisplayName: Кулачник
 			MutagenTreasureSlime.DisplayName: Мутировавший слизень с сокровищами
-			TardigradeBlue.DisplayName: Tardigrade
-			TardigradeBrown.DisplayName: Tardigrade
-			TardigradeGreen.DisplayName: Tardigrade
-			TardigradePink.DisplayName: Tardigrade
-			Bridgeburner.DisplayName: Bridgeburner
+			TardigradeBlue.DisplayName: Тихоходка
+			TardigradeBrown.DisplayName: Тихоходка
+			TardigradeGreen.DisplayName: Тихоходка
+			TardigradePink.DisplayName: Тихоходка
+			Bridgeburner.DisplayName: Мостосжигатель
 
 			Excavator: {
 				DisplayName: Раскопщик
 
 				BossChecklistIntegration: {
-					// EntryName: The Excavator
-					// SpawnInfo: Awaken by activating the [i:SOTS/SeismicStation] in the Abandoned Village Mines
-					// DespawnMessage: The Excavator is no longer after you
+					EntryName: Раскопщик
+					SpawnInfo: Пробуждается при использовании [i:SOTS/SeismicStation] в шахтах Заброшенной деревни
+					DespawnMessage: Раскопщик больше не преследует вас...
 				}
 			}
 
 			ExcavatorBody.DisplayName: Раскопщик
-			SubspaceWorm.DisplayName: Subspace Worm
+			SubspaceWorm.DisplayName: Субпространственный червь
 			SanguineFoundry.DisplayName: Кровавая плавильня
-			LunaMoth.DisplayName: Luna Moth
+			LunaMoth.DisplayName: Лунный мотыль
 			ExcavatorBody2.DisplayName: Раскопщик
 			ExcavatorTail.DisplayName: Раскопщик
 			ExcavatorDrillTail.DisplayName: Раскопщик
@@ -8038,21 +8038,21 @@ Mods: {
 			PupaFly.DisplayName: Трупная муха
 			VoidTreasureSlime.DisplayName: Пустотный слизень с сокровищами
 			RotWalker.DisplayName: Гнилоход
-			// GulaSpirit.DisplayName: Gula Spirit
+			GulaSpirit.DisplayName: Дух Гулы
 		}
 
 		Bestiary: {
-			HoloSlime: Голографический мимик обычного слизня. Источник его энергии неизвестен.
-			HoloBlade: Голографический мимик меча. Источник его энергии неизвестен.
-			HoloEye: Голографический мимик глазного яблока. Источник его энергии неизвестен.
+			HoloSlime: Голографическая проекция обычного слизня. Источник её энергии неизвестен.
+			HoloBlade: Голографическая проекция меча. Источник её энергии неизвестен.
+			HoloEye: Голографическая проеция глазного яблока. Источник её энергии неизвестен.
 			PhaseEye: Бездумная энергетическая сфера, защищающая Планетарий, созданная исключительно для использования Аналитиком в качестве марионетки.
 			TwilightDevil: Бездумный дрон, защищающий Планетарий. Кажется, что он управляется удалённо, поскольку за его маской ничего не скрывается.
 			PhaseSpeeder: Он быстр. Он опасен. Его происхождение неизвестно, но он определённо желает вашей смерти. Использует ткань бытия в качестве щита.
-			TwilightScouter: Бездумный дрон, защищающий Планетарий. Его внутреннее строеныые не выделяется особой сложностью.
-			PhaseAssaulterHead: Phase Assaulters make up the defensive core of Phase Ore nodes. They can be observed acting as shields for Phase Speeders, while also possessing a potent hyperlight laser.
-			LostSoul: A trapped soul that resides in the Pyramid. It has not come to rest, as it still seems to be searching for something.
-			Snake: A long limbless reptile that has no eyelids, a short tail, and jaws that are capable of considerable extension. This particular one has a venomous bite, and it calls the Pyramid home.
-			SnakePot: A group of snakes that uses a pot for defense. When the pot breaks, the snakes inside are forced to scatter.
+			TwilightScouter: Бездумный дрон, защищающий Планетарий. Его внутреннее строение не выделяется особой сложностью.
+			PhaseAssaulterHead: Фазовые нападающие являются ядром защиты жил фазовой руды. Их можно увидеть в качесве щитов фазовых ускортелей, но они и сами обладают мощным гиперсетовым лазером.
+			LostSoul: Пойманная душа, обитающая внутри пирамиды. Покоя она так и не нашла, ведь она всё время ищет что-то.
+			Snake: Длинная рептилия без конечностей и век, с коротким хвостом и пастью, которая способна значительно растягиваться. У этой также есть яд, и она считает Пирамиду своим домом.
+			SnakePot: Группа змей, которая использует горшок для защиты. Когда горшок ломается, змеи разлетаются во все стороны.
 			WallMimic: The Curse housed within the Pyramid is more capable of corruption than the world evils. Under its influence, even the walls of the Pyramid turn into monsters!
 			Teratoma: A cancerous protrusion of The Curse. Its cells are capable of rapid regrowth, and it will heal itself if not killed quickly.
 			Ghast: As Lost Souls corrupted by The Curse, Ghasts are forced to guard keystones for the rest of the afterlife.

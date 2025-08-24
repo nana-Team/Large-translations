@@ -8053,55 +8053,55 @@ Mods: {
 			LostSoul: Пойманная душа, обитающая внутри пирамиды. Покоя она так и не нашла, ведь она всё время ищет что-то.
 			Snake: Длинная рептилия без конечностей и век, с коротким хвостом и пастью, которая способна значительно растягиваться. У этой также есть яд, и она считает Пирамиду своим домом.
 			SnakePot: Группа змей, которая использует горшок для защиты. Когда горшок ломается, змеи разлетаются во все стороны.
-			WallMimic: The Curse housed within the Pyramid is more capable of corruption than the world evils. Under its influence, even the walls of the Pyramid turn into monsters!
-			Teratoma: A cancerous protrusion of The Curse. Its cells are capable of rapid regrowth, and it will heal itself if not killed quickly.
-			Ghast: As Lost Souls corrupted by The Curse, Ghasts are forced to guard keystones for the rest of the afterlife.
-			Maligmor: Born from The Curse's will to consume all, Maligmors are protrusions of The Curse that are gifted with crystals as power sources. The crystals provide enhanced vision, helping Maligmors defend the Keystone from being reached by invaders.
-			ArcticGoblin: An exiled goblin left to freeze in the unforgiving tundra.
-			Polaris: A forgotten war machine. Made long before the mechanical trio, Polaris was not built with the purpose of reviving Cthulhu, but rather as a weapon of mass destruction.
-			FluxSlime: Created before Putrid Pinky, these gel menaces orginate from early pink slime experiments.
-			PP: An abomination with an endless hunger for peanuts. Putrid Pinky was created in a failed experiment using pink slime.
-			BlueSlimer: A Blue Slime which became airborne by evolving crude wings. Its wings are easily knocked off with force, depriving it of its flight.
-			NatureSlime: A slime deceptively controlled by a parasitic flower. Its unique biology had previously made it a subject of great scientific interest.
-			SittingMushroom: Sitting mushrooms are spitting mushrooms.
-			TreasureSlime: The nobility of slimes! Unlike the others, these slimes value their lives, and any attempts to steal their treasure will cause them to flee without a second thought.
-			NatureConstruct: An ancient machine originally created to advance spirit energy harvesting technology. Under the spirit's control, it also serves as a protector of forests.
-			EarthenConstruct: As Earthen Spirits are known for traveling in groups, the chasis of the construct was designed to allow easy movement of the contained spirits within thin the chassis. Earlier, more compact designs proved too unstable for housing groups of spirits.
-			PermafrostConstruct: An ancient machine that uses spirit energy to allow easy traversal through deep snow. The spirit, now in control, uses the device to defend its cold home.
-			OtherworldlyConstructHead: Like all constructs, its body serves as a container for the volatile spirit inside. As Otherworld Spirits are relatively docile, Otherworld Constructs have among the simplest internals.
-			TidalConstruct: Originally designed to map out oceans and transport people to locations beneath the depths, its remarkable exterior has allowed it to survive most ocean erosion, but it didn't prevent the spirit inside from asserting control.
+			WallMimic: Проклятие, поселившееся в Пирамиде, способно искажать значительно больше, чем мировое зло. Под его влиянием даже сены Пирамиды превращаются в монстров!
+			Teratoma: Раковое образование, созданное проклятием. Его клетки способны быстро разрастаться, и если его не убить быстро, то оно исцелит себя.
+			Ghast: Потерянные души, искажённые проклятием, защищают краеугольные камни на протяжении всего своего посмертия.
+			Maligmor: Малигморы рождены из проклятия для поглощения всего, они — образования проклятия, одаренные кристаллами в качестве источника силы. Кристаллы улучшают их зрение, помогая Малигморам защищать краеугольные камни от вторженцев.
+			ArcticGoblin: Гоблин, сосланный замерзать в безжалостную тундру.
+			Polaris: Забытая машина войны. Она создана задолго до механического трио, и, в отличие от них, должна была не помочь воскресить Ктулху, а, скорее, служить оружем массового разрушения.
+			FluxSlime: Созданные до Гнилостного Пинки, эти гелеобразные существа являются результатами первых экспериментов с розовым гелем.
+			PP: Отвратительное создание, вечно жаждущее арахиса. Гнилостный Пинки — порождение неудачного эксперимента, проводимого с розовым гелем.
+			BlueSlimer: Синие слизни, отрастившие грубые гелевые крылья. Его крылья легко разрушить силой, что лишает это существо возможности летать.
+			NatureSlime: Слизень, контрлируемый паразиитическим цветком. Его уникальное строение сделало его объектом непрестанного научного интереса.
+			SittingMushroom: Сидящие грибы — плюющиеся грибы.
+			TreasureSlime: Высшее сословие слизней! В отличие от остальных, эти слизни ценят свои жизни, и любая попытка забрать их сокровища заставит их бежать без задней мысли.
+			NatureConstruct: Древняя машина, созданная для улучшения технологии сбора душ. Под контролем духов конструкт также является защитником лесов.
+			EarthenConstruct: Так как земляные духи известны тем, что путешествуют в группах, рама этого конструкта была разработана так, чтобы позволять духам свободно передвигаться внутри её. Более ранние дизайны были компактнее, что вызывало нестабильность при одержимости группой духов.
+			PermafrostConstruct: Древняя машина, использующая духовную энергию для облегчения передвижения в снегах. Дух, который ныне управляет конструктом, использыет его для защиты своего холодного дома.
+			OtherworldlyConstructHead: Как и у всех остальных конструктов, его теля является ловушкой для неуловимого духа. Потусторонние души в некоторой степени послушны, из-за чего механизмы потусторонних конструктов относительно просты.
+			TidalConstruct: Их оригинальной задачей было исследование океанов и транспортировка людей в глубины, благодаря чему его структура пережила разъедающее воздействие океана, но это не помешало духу получть контроль на конструктом.
 			EvilConstruct:
 				'''
-				INTERNAL DIALOGUE...
-				THESE SPIRITS ARE QUITE CAPABLE OF OVERCOMING OUR CONTROL MECHANISMS.
-				IN A WAY... THEY ARE SIMILAR TO THE CHAOS SPIRITS.
-				WE SHALL DESIGN UPGRADED CONTAINMENT STRUCTURES THAT ALLOW PROLONGED STUDY.
+				ВНУТРЕННИЙ ДИАЛОГ...
+				ЭТИ ДУХИ ВПОЛНЕ СПОСОБНЫ ЗАХВАТИТЬ КОНТРОЛЬ НАД НАШИМИ МАШИНАМИ.
+				В НЕКОТОРОМ СМЫСЛЕ... ОНИ ПОХОЖИ НА ДУХОВ ХАОСА.
+				МЫ ДОЛЖНЫ РАЗРАБОТАТЬ УЛУЧШЕННЫЕ СДЕРЖИВАЮЩИЕ СТРУКТУРЫ, КОТОРЫЕ ПОЗВОЛЯТ ПРОВЕСТИ ДЛИТЕЛЬНОЕ ИССЛЕДОВАНИЕ.
 				'''
-			InfernoConstruct: Once used as a living flame to heat ancient forges, it is no longer distinguishable from a weapon of mass destruction.
-			ChaosConstruct: A prison designed to weaken the power of the Chaos Spirit inside. Unlike other constructs, the chassis serves no other purpose besides containment.
-			ChaosConstructChassis: The internal structure of a Chaos Construct. Designed to contain the Chaos Spirit at all costs.
+			InfernoConstruct: Когда-то они использовались в качестве живого пламени для нагрева древних печей, а ныне их не отличить от орудия массовго уничтожения.
+			ChaosConstruct: Тюрьма, разработанная для ослабления духа хаоса, сдерживаемого внитри её. В отличие от других конструктов, рама этого предназначена лишь для сдерживания.
+			ChaosConstructChassis: Оригинальная рама, предназначенная для хаотического конструкта. Разработана с целью сдерживания духа хаоса любой ценой.
 			NatureSpirit:
 				'''
-				Quite a useful specimen: not too dangerous, good source of power, and it has a natural desire to patrol.
-				Perhaps we can use it to monitor the planet's surface?
-				Quite possibly. In fact, I already have an idea...
+				Крайне интересный экземпляр: не слишком опасный, является хорошим источником энергии, и обладает естественным желанием патрулировать.
+				Возможно, мы сможем использовать его для наблюдения за поверхностью планеты?
+				Вполне вероятно. На самом деле, у меня уже есть одна идея...
 				'''
-			EarthenSpirit: Forced into tight, underground spaces, these spirits have a built-in tolerance for cooperating with other spirits. Their cooperative nature is also useful for more labor-intensive tasks.
-			PermafrostSpirit: Harnessing energy from this spirit - one that removes energy from its surroundings - is not as difficult as it seems.
-			OtherworldlySpirit: Isolated in outer space, these spirits don't have much experience competing for land and resources. This makes them conveniently exploitable sources of energy for high-tech machines.
-			TidalSpirit: These humble and overprotective spirits do sometimes go with the flow.
+			EarthenSpirit: Обитающие в тесных подземных пространствах, эти духи обладаю врождённой терпимостью к существования рядом с другими духами. Их толерантная натура также крайне полезна для более трудоёмких задач.
+			PermafrostSpirit: Использование энергии этого духа - той, которая погощает энергию из его окружения - не так сложно, как может показаться на первый взгяд.
+			OtherworldlySpirit: Эти духи, изолированные в космосе, неопытны в сражениях за землю и ресурсы. Это делает их легко эксплуатируемыми источниками энергии для высокотехнологичных машин.
+			TidalSpirit: Эти скромные и территориальные духи временами плывут по течению.
 			EvilSpirit:
 				'''
-				INTERNAL DIALOGUE...
-				THIS CONFIRMS OUR SUSPICIONS.
-				THE SPIRITS DO NOT ORIGINATE FROM TERRARIA.
+				ВНУТРЕННИЙ ДИАЛОГ...
+				ЭТО ПОДТВЕРЖДАЕТ НАШИ ПОДОЗРЕНИЯ.
+				ТЕРРАИЯ НЕ ЯВЛЯЕТСЯ РОДИНОЙ ЭТИХ ДУХОВ.
 				'''
 			InfernoSpirit:
 				'''
-				I'm starting to think your ideas aren't very original, Mammon. Look, even the Ombra are using Spirits for energy.
-				But their cages are primitive - with limited utility. My constructs can think.
-				I'm pretty sure Spirits can already think.
-				But their thinking is... primitive.
+				Я начинаю подозревать, что твои идеи не очень-то оригинальны, Маммон. Глянь, даже Омбра используют духов в качестве источников энергии.
+				Но их клетки примитивны - их возможности ограничены. Мои же конструкты могут думать.
+				Я чертовски уверен в том, что духи и так могли думать.
+				Но их мысли... примитивны.
 				'''
 			Lux: Chaos spirits have no equal. They are shoved into constructs for the sole purpose of containment. None have ever been sufficiently weakened for intelligent use.
 			Glowmoth: An otherworldly creature that makes its home in glowing mushroom caves. Although one might assume that it lives there due the trait it shares with the mushrooms, bioluminescence, its main motive is the biome's relatively easy to access void energy.

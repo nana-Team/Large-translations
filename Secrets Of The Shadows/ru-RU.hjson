@@ -2333,9 +2333,9 @@ Mods: {
 			}
 
 			KnucklesMusicBox: {
-				DisplayName: Music Box (Knuckles)
+				DisplayName: Музыкальная шкатулка (Наклз)
 				# MusicBoxes
-				Tooltip: "'Can I put my...'"
+				Tooltip: «Могу ли я положить мой...»
 			}
 
 			LuxMusicBox: {
@@ -3174,15 +3174,15 @@ Mods: {
 
 			BrittlePotion: {
 				DisplayName: Зелье хрупкости
-				Tooltip: При получении урона вас оружал ледяные осколки
+				Tooltip: При получении урона вас оружают ледяные осколки
 			}
 
 			DoubleVisionPotion: {
-				DisplayName: Зелье двоющихся глаз
+				DisplayName: Зелье двоящихся глаз
 				Tooltip:
 					'''
 					Позволяет забрасывать дополнительный поплавок удочкой
-					Эффект складывается с самим с собой до 6 раз
+					Эффект складывается с самим собой до 6 раз
 					'''
 			}
 
@@ -3203,10 +3203,10 @@ Mods: {
 				Tooltip:
 					'''
 					Даёт 2 случайных баффа из следующего списка:
-					Warmth на 15 минут
-					Brittle на 13 минут
-					Titan на 11 минут
-					Mana Regeneration на 9 минут
+					«{$BuffName.Warmth}» на 15 минут
+					«{$Mods.SOTS.Buffs.Brittle.DisplayName}» на 13 минут
+					«{$BuffName.Titan}» на 11 минут
+					«{$BuffName.ManaRegeneration}» на 9 минут
 					'''
 			}
 
@@ -3214,21 +3214,21 @@ Mods: {
 				DisplayName: Зелье гармонии
 				Tooltip:
 					'''
-					Пока активно останавливает таймер других баффов 
+					Пока активно, останавливает таймер других баффов 
 					Не работает для большинства баффов, если они истекают менее, чем через 30 секунд
 					'''
 			}
 
 			HereticTonic: {
-				DisplayName: Heretic Tonic
+				DisplayName: Еретический тоник
 				Tooltip:
 					'''
-					Randomly receive 2 of the following:
-					Nightmare for 15 minutes
-					Wrath for 13 minutes
-					Rage for 13 minutes
-					Ammo Reservation for 9 minutes
-					'The world around you follows your example'
+					Даёт 2 случайных баффа из следующего списка:
+					«{$Mods.SOTS.Buffs.Nightmare.DisplayName}» на 15 минут
+					«{$BuffName.Wrath}» на 13 минут
+					«{$BuffName.Rage}» на 13 минут
+					«{$BuffName.AmmoReservation}» на 9 минут
+					«Мир вокруг тебя следует твоему примеру»
 					'''
 			}
 
@@ -3237,7 +3237,7 @@ Mods: {
 				Tooltip:
 					'''
 					Критические удары создают кошмарные руки, наносящие 10% урона удара, призвавшего их, и стягивающие врагов вместе
-					Has a 6 second cooldown
+					Появление рук имеет шестисекундную перезарядку
 					'''
 			}
 
@@ -3256,14 +3256,14 @@ Mods: {
 			}
 
 			SeismicTonic: {
-				DisplayName: Seismic Tonic
+				DisplayName: Сейсмический тоник
 				Tooltip:
 					'''
-					Randomly receive 2 of the following:
-					Ironskin for 15 minutes
-					Soul Access for 13 minutes
-					Endurance for 11 minutes
-					Roughskin for 9 minutes
+					Даёт 2 случайных баффа из следующего списка:
+					«{$BuffName.Ironskin}» на 15 минут
+					«{$Mods.SOTS.Buffs.SoulAccess.DisplayName}» на 13 минут
+					«{$BuffName.Endurance}» на 11 минут
+					«{$Mods.SOTS.Buffs.Roughskin.DisplayName}» на 9 минут
 					'''
 			}
 
@@ -8196,57 +8196,57 @@ Mods: {
 				С УВАЖЕНИЕМ. 
 				        САЙТ ИЗВЛЕЧЕНИЯ «ОБЖОРСТВО».
 				'''
-			Tardigrade: These water bears are able to survive the harsh combination of low pressure and intense radiation, allowing them to live in space.
-			Bridgeburner: Originally devised to contain the spread of evil, it is perhaps a testament to its failure that it is now controlled by evil.
+			Tardigrade: Эти маленьке водяные беспозвоночные способны выживать в суровых условиях низкого давления и интеснивной радиации, что позволило им жить в космосе.
+			Bridgeburner: Их разработали для сдерживания распростроняющегося зла, но тот факт, что теперь это самое зло контрлирует его, говорит о безусловном провале.
 			SanguineFoundry:
 				'''
-				Why must we smelt our own ore? You guys are made of metal. If you really want this excavation finished, you could supply us directly... I'm starting to think your promises are ill kept.
-				PERMISSION TO ANSWER DENIED.
+				Почему мы должны плавить нашу собственную руду? Вы, ребята, состоите из металла. Если вы действительно хотите, чтобы эти раскопки закончились, то могли бы снабжать нас напрямую... Я начинаю думать, что вы не держите свои обещания.
+				РАЗРЕШЕНИЕ ОТВЕТИТЬ — ОТКАЗ.
 				'''
-			CoalCart: Haunted by spirits that once labored in agony.
+			CoalCart: Одержима духами, которые однажды мучались в агонии.
 			Pupa:
 				'''
-				They tried to run away, but the flesh wasn't firm, so they slipped.
-				They panicked into a crawl, but the flesh creeped towards them as well.
-				They managed to reach higher ground, but the flesh swallowed their lower half.
-				They wished they were dead now, but now they were one.
+				Они попытались убежать, но плоть не была тверда, и они подскользнулись.
+				Они запаниковали и попытались ползти, но плоть поползла им навстречу.
+				Они смогли взобраться на выступ, но плоть поглотила их нижнюю половину.
+				Они желали своей смерти, но теперь они были одним.
 				'''
 			PupaFly:
 				'''
-				They tried to climb the stairs, but the air was dark, so they fell.
-				They stumbled upon a hidden crevice, but the air was still boiling.
-				They emerged in search of answers, but the air swallowed their upper half.
-				They wished they were dead now, but now they were one.
+				Они пытались подняться по лестнице, но было темно, и они упали.
+				Они наткнулись на скрытую трещину, но воздух всё ещё обжигал.
+				Они стали искать ответы, но воздух поглотил их верхнюю половину.
+				Они желали своей смерти, но теперь они были одним.
 				'''
-			LunaMoth: Legends suggest that it once lived in the great expanse of the overworld, shimmering brightly under soft moonlight.
-			SubspaceWorm: Could this be the BEST worm in Terraria?
-			BallOWormsFlesh: It makes good fish food, just don't think about it!
+			LunaMoth: Легенды говорят, что когда-то они жили на просторах другого мира, ярко сияя под мягким лунным светом.
+			SubspaceWorm: Может ли он быть ЛУЧШИМ червём в Террарии?
+			BallOWormsFlesh: Эту штуку можно использовать в качестве хорошей приманки, просто не задумывайся слишком сильно!
 			Fistfull:
 				'''
-				The strongest were sent the deepest, it made more sense that way.
-				At least, it made sense until the machines left and no one was left to defend against the hungering ghestalt that had just penetrated the surface.
-				Those who remained had no way to defend themselves from their own loved ones.
+				Сильнейшие были посланы в самые глубины, ведь это имело смысл.
+				По крайней мере, это имело смысл до тех пор, пока машины не ушли, и больше никто не мог защитить остальных от голодающих ужасов, что появились на поверхности.
+				Те, кто остался, не могли защить себя от тех, кого они любили.
 				'''
 			LesserWisp:
 				'''
-				You feel an empty pair of eyes is watching you.
-				Hopefully this feeling stays in the underworld.
+				Ты чувствуешь, как пара пустых глаз наблюдает за тобой.
+				Стоит надеяться, что это чувство останется глуоко под землёй.
 				'''
-			Ghast2: What happens when two hostile and corruptive entities merge? They enter symbiosis, of course!
+			Ghast2: Что происходит, когда две враждебных разрушительных сушности объединяются? Конечно, они вступают в симбиоз!
 			RotWalker:
 				'''
-				He survived the worst of it: the smell of rot and burning flesh, the screams and cries of horror...
-				He wished he hadn't.
+				Он пережил худщее: запах гниющей и горящей плоти, крики и плачи ужаса...
+				Он желает, чтобы ему никогда не прихилось ощущать всё это.
 				'''
-			// GulaSpirit: Water and oil don't mix.
+			GulaSpirit: Вода и масло не смешиваются.
 		}
 
 		DeathMessage: {
-			VD1: " was extremely careless."
-			VD2: " was consumed by the void."
-			VD3: " was devoured by the darkness."
-			VD4: " doesn't understand void mechanics."
-			VD5: " died."
+			VD1: " был крайне неосторожен."
+			VD2: " был поглощён пустотой."
+			VD3: " был пожран тьмой."
+			VD4: " не понял механику пустоты."
+			VD5: " умер."
 		}
 
 		BossChecklist: {
@@ -8332,12 +8332,12 @@ Mods: {
 			5:
 				'''
 
-				Efficacy of enemy defense is reduced by 50%
+				Эффективность вражеской брони уменьшена на 50%
 				'''
 			6:
 				'''
 
-				Increases void damage by 10% and void gain by 20%
+				Пустотный урон увеличен на 10% и получаемая пустота увеличена на 20%
 				'''
 		}
 
@@ -8438,14 +8438,14 @@ Mods: {
 			'''
 
 		UndoArrow: {
-			Ruby: Ruby: {0}
-			Sapphire: Sapphire: {0}
-			Emerald: Emerald: {0}
-			Topaz: Topaz: {0}
-			Amethyst: Amethyst: {0}
-			Diamond: Diamond: {0}
-			Amber: Amber: {0}
-			Pack: Is Texture Pack On: {0}
+			Ruby: Рубин: {0}
+			Sapphire: Сапфир: {0}
+			Emerald: Изумруд: {0}
+			Topaz: Топаз: {0}
+			Amethyst: Аметист: {0}
+			Diamond: Алмаз: {0}
+			Amber: Янтарь: {0}
+			Pack: Включен ли текстурпак: {0}
 		}
 
 		PotGeneratorTileText: {
@@ -8455,18 +8455,18 @@ Mods: {
 		}
 
 		MineralariumTileText: {
-			0: Status: N/A
-			1: Status: Full or Obstructed
-			2: Percent Completion: {0}%
+			0: Status: Данные отсутсвуют
+			1: Status: Полон или что-то мешает
+			2: Percent Завершение: {0}%
 		}
 
 		PyramidGenerator: {
-			Speed: Generating with seed: {0}
-			StepNumber: Generated Pyramid Step {0}
-			Warning0: Don't right click this. Your world will be gone
-			Warning1: Seriously. I'm warning you
-			Warning2: If anything goes wrong, it's because YOU asked for it
-			Warning3: Here comes NOTHING!!!
+			Speed: Скорость создания: {0}
+			StepNumber: Создание Пирамиды, шаг {0}
+			Warning0: Не нажимайте ПКМ по этому. Твой мир исчезнет
+			Warning1: Серьёзно. Я предупреждаю тебя
+			Warning2: Если что-то пойдёт не так, то только потому, что ТЫ попросил об этом
+			Warning3: Пусть же произойдёт НИЧЕГО!!!
 		}
 
 		Projectiles: {
@@ -9089,18 +9089,18 @@ Mods: {
 			KingSlash.DisplayName: King Slash
 			KingSlashThrow.DisplayName: King Slash Throw
 			LightspeedKingblade.DisplayName: Lightspeed Kingblade
-			// ExcavatorBolt.DisplayName: Excavator Bolt
-			// Bubble.DisplayName: Bubble
-			// AncientSteelArrow.DisplayName: Scrap Metal Arrow
-			// AncientSteelBullet.DisplayName: Scrap Metal Bullet
-			// ExcavatorSaw.DisplayName: Excavator Saw
-			// ExcavatorBoltBig.DisplayName: Excavator Bolt Big
-			// ExcavatorBoltSmall.DisplayName: Excavator Bolt Small
-			// EvilBolt2.DisplayName: Evil Bolt
-			// EvilEye.DisplayName: Evil Eye
-			// LuxBallProjectile.DisplayName: Spirit Golf Ball
-			// DrillHand.DisplayName: Drill Hand
-			// Boopy.DisplayName: Boopy
+			ExcavatorBolt.DisplayName: Excavator Bolt
+			Bubble.DisplayName: Bubble
+			AncientSteelArrow.DisplayName: Scrap Metal Arrow
+			AncientSteelBullet.DisplayName: Scrap Metal Bullet
+			ExcavatorSaw.DisplayName: Excavator Saw
+			ExcavatorBoltBig.DisplayName: Excavator Bolt Big
+			ExcavatorBoltSmall.DisplayName: Excavator Bolt Small
+			EvilBolt2.DisplayName: Evil Bolt
+			EvilEye.DisplayName: Evil Eye
+			LuxBallProjectile.DisplayName: Spirit Golf Ball
+			DrillHand.DisplayName: Drill Hand
+			Boopy.DisplayName: Boopy
 		}
 
 		DamageClasses: {
@@ -9115,10 +9115,10 @@ Mods: {
 			Mods: {
 				SOTS: {
 					KeyBindName: {
-						Blink.DisplayName: Blink
-						ArmorSet.DisplayName: Armor Set
-						MFM.DisplayName: Switch Flight Mode
-						SlowFlight.DisplayName: Slow Flight
+						Blink.DisplayName: Телепорт
+						ArmorSet.DisplayName: Бонус сета
+						MFM.DisplayName: Переключить режим полёта
+						SlowFlight.DisplayName: Медленный полёт
 					}
 				}
 			}
@@ -9189,8 +9189,8 @@ Mods: {
 				}
 
 				screenShake: {
-					Label: Screenshake
-					Tooltip: Only effects screenshake originating from SOTS
+					Label: Тряска экрана
+					Tooltip: Влияет на тряску экрана только из Секретов Теней
 				}
 
 				additionalTexturePackVisuals: {
@@ -9218,22 +9218,22 @@ Mods: {
 				}
 
 				GeneratePhaseOreAfterDefeatingLux: {
-					Label: Generate Phase Ore After Defeating Lux
-					Tooltip: Disable to prevent Phase Ore from generating after the first Lux kill
+					Label: Создание фазовой руды после победы над Люксом
+					Tooltip: Отключите, чтобы предотвратить создание фазовой руды после первой победы над Люксом
 				}
 
 				NaturallySpawningPeanutBushes: {
-					Label: Naturally Spawning Peanut Bushes
-					Tooltip: Disable to prevent Peanut Bushes from growing naturally on grass
+					Label: Естественное создание арахисовых кустов
+					Tooltip: Выключите, чтобы предотвратить рост арахисовых кустов на траве
 				}
 			}
 		}
 
 		ExperimentalInjectionTextList: {
-			// 0: First strike applies a permanent bleed for 5 damage per second and increase max life by 20
-			// 1: First strike is guaranteed to critically strike and increase critical strike damage by 20%
-			// 2: First strike inflicts poison and steals life
-			// 3: Increases damage, attack speed, and movement speed by 5%
+			0: Первый удар накладывает вечное кровотечение, которое наносит 5 урона в секунду и увеличивает запас жизни на 20 ед.
+			1: Первый удар всегда является критическим и увеличивает критический урон на 20%
+			2: Первый удар накладывает яд и крадёт жизнь
+			3: Увеличивает урон, скорость атаки и передвижения на 5%
 		}
 	}
 }

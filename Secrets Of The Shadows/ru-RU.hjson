@@ -1,5 +1,5 @@
 # The Russian localization clarifies that it is the chest that is cursed. Since this line is used in the description of other items in the SOTS, it is rewritten here
-// LegacyTooltip.59: It has been cursed by a powerful Jungle creature
+// LegacyTooltip.59: Проклято могущественным существом из джунглей
 
 Mods: {
 	SOTS: {
@@ -31,12 +31,12 @@ Mods: {
 			VoidAnomalyCrafting: Чревоточная трансмутауия
 			TesseractInventory: Тессерактовый предмет
 			TesseractInvalid: Предмет не подходят для клонирования
-			TesseractAwaiting: "{0} aligned clones are awaiting usage specifications"
-			TesseractUsage: "{0} aligned clones will use {1} fire {2}"
+			TesseractAwaiting: "Клон {0} ожидает указаний"
+			TesseractUsage: "Клон {0} будет использовать {1}, стреляя {2}"
 			TesseractUsageContinuous: непрерывно
-			TesseractUsageDuration: на {0} секунд
-			TesseractUsagePrimary: основная
-			TesseractUsageSecondary: дополнительная
+			TesseractUsageDuration: на протяжении {0} секунд
+			TesseractUsagePrimary: ЛКМ
+			TesseractUsageSecondary: ПКМ
 			Solar0: Солнце
 			Solar1: Меркурий
 			Solar2: Венера
@@ -50,14 +50,14 @@ Mods: {
 		}
 
 		ContainerName: {
-			NaturePlatingDresserTile: Заросший комод
-			EarthenPlatingDresserTile: Покрытый землёй комод
-			PermafrostPlatingDresserTile: Комод вечной мерзлоты
-			TidalPlatingDresserTile: Tidal Plating Dresser
-			OtherworldPlatingDresser: Otherworld Plating Dresser
-			EvilPlatingDresserTile: Evil Plating Dresser
-			InfernoPlatingDresserTile: Inferno Plating Dresser
-			ChaosPlatingDresserTile: Chaos Plating Dresser
+			NaturePlatingDresserTile: Комод из природного покрытия
+			EarthenPlatingDresserTile: Комод из земляного покрытия
+			PermafrostPlatingDresserTile: Комод из морозного покрытия
+			TidalPlatingDresserTile: Комод из приливного покрытия
+			OtherworldPlatingDresser: Комод из потустороннего покрытия
+			EvilPlatingDresserTile: Комод из злого покрытия
+			InfernoPlatingDresserTile: Комод из инфернального покрытия
+			ChaosPlatingDresserTile: Комод из хаотического покрытия
 			AncientGoldDresser: Комод из древнего золота
 		}
 
@@ -67,8 +67,8 @@ Mods: {
 			GeneratingSkyArtifacts: Создание небесных артефактов...
 			GeneratingAPyramid: Строительство Пирамиды...
 			GeneratingGemStructures: Создание самоцветных строений...
-			GeneratingPeanuts: Placing Peanuts
-			GeneratingSanctuary: Generating Sanctuary
+			GeneratingPeanuts: Размещение арахиса...
+			GeneratingSanctuary: Создания Святилища...
 		}
 
 		AdjacentDesertGeneration.SEverywhere: Ветер развевает песок повсюду!
@@ -80,7 +80,7 @@ Mods: {
 				TPS: Настройки наборов текстур
 				GPS: Геймплейные настройки
 				BAL: Изменения баланса
-				MS: Music Settings
+				MS: Настройки музыки
 			}
 
 			Label: {
@@ -100,7 +100,7 @@ Mods: {
 				AVE: Дополнительные визуальные эффекты
 				SHT: Стиль начального дома при генерации
 				NINS: Ослабленная парящая инсигния до Люкс
-				BLZD: Alternative SOTS Music
+				BLZD: Альтернативная музыка SOTS
 			}
 
 			Tooltip: {
@@ -112,7 +112,7 @@ Mods: {
 				VBY:
 					'''
 					Вертикальная позиция шкалы пустоты на экране.
-					Измеряется в пикселях от вверхней части экрана.
+					Измеряется в пикселях от верхней части экрана.
 					'''
 				LVB:
 					'''
@@ -123,14 +123,14 @@ Mods: {
 				AVBS: Немного изменяет вид шкалы пустоты.
 				VBTT: Включает текст над шкалой пустоты.
 				VBHT: Включает текст, который появляется, когда вы наводите курсор на шкалу пустоты.
-				SVBT: Removes Void Minion quantity indicators from the Void Bar text.
-				SVBF: Removes the division lines between inner fill Void Bar elements.
+				SVBT: Убирает количество миньонов пустоты со шкалы пустоты.
+				SVBF: Удаляет полоски на шкале пустоты для лучшего видения количества пустоты.
 				PM:
 					'''
 					Уменьшает количество визуальных эффектов для повышения производительности.
 					В основном влияет на боссов и послеобразы снарядов.
 					'''
-				CTF: Whether the color of the screen during time freeze is tinted or black and white
+				CTF: Определяет, каким будет цвет экрана во время остановки времени: блеклым или чёрно-белым
 				AVE:
 					'''
 					Добавляет дополнительные эффекты, например пыль, различным блокам
@@ -140,18 +140,18 @@ Mods: {
 					'''
 					-2 = Без стартового дома (да вы с ума сошли)
 					-1 = Случайный стартовый дом
-					0 = Legacy House
-					1 = Legacy Angel
-					2 = Legacy Barrel
-					3 = Legacy BIG Hotel
-					4 = Legacy Origin
-					5 = Legacy Tower
-					6 = Legacy Sword
-					7 = Legacy Tree
-					8 = Legacy Library
-					9 = Legacy Crate
-					10 = Mushnib's
-					11 = Astrobit's
+					0 = Простой дом
+					1 = Англеский дом
+					2 = Дом-бочка
+					3 = БОЛЬШОЙ отель
+					4 = Оригинальный дом
+					5 = Башня
+					6 = Дом-меч
+					7 = Дом на дереве
+					8 = Библиотека
+					9 = Дом-ящик
+					10 = Грибница
+					11 = Астробит
 					12 = Кровавая луна
 					13 = Бандит
 					14 = Булыжник
@@ -169,8 +169,8 @@ Mods: {
 					'''
 				BLZD:
 					'''
-					When on, SOTS will play the soundtrack made by Banana Lizard where applicable
-					When off, SOTS will play the soundtrack made by Heart Plus Up where applicable
+					Если включено, SOTS будет использовать музыку Banana Lizard-а в доттупных местах
+					Если выключено, SOTS будет использовать музыку Heart Plus Up в доступных местах
 					'''
 			}
 		}
@@ -181,7 +181,7 @@ Mods: {
 			EM: " материал биома зла"
 			EB: " слиток биома зла"
 			GB: " золотой слиток"
-			GR: " самоцветная рба"
+			GR: " самоцветная роба"
 			PHO: " пре-хардмодная руда"
 			T2D2A: " броня Армии Древних 2 тира"
 			T2DD2A: " аксессуар Армии Древних 2 тира"
@@ -214,13 +214,13 @@ Mods: {
 			}
 
 			PhaseBiome: {
-				DisplayName: Phase Ore Clusters
-				TownNPCDialogueName: the Phase Clusters
+				DisplayName: Кластеры фазовой руды
+				TownNPCDialogueName: фазовые кластеры
 			}
 
 			AnomalyBiome: {
-				DisplayName: Wormhole Anomalies
-				TownNPCDialogueName: the Anomaly
+				DisplayName: Червоточные аномалии
+				TownNPCDialogueName: аномалия
 			}
 
 			PlanetariumBiome: {
@@ -229,13 +229,13 @@ Mods: {
 			}
 
 			AbandonedVillageBiome: {
-				DisplayName: Abandoned Village
-				TownNPCDialogueName: the Abandoned Village
+				DisplayName: Заброшенная деревня
+				TownNPCDialogueName: заброшенная деревня
 			}
 
 			SanctuaryBiome: {
-				DisplayName: Sanctuary
-				TownNPCDialogueName: the Sanctuary
+				DisplayName: Святилище
+				TownNPCDialogueName: Святилище
 			}
 		}
 
@@ -246,11 +246,11 @@ Mods: {
 			DefeatPharaohsCurse: После победы над Проклятьем Фараона
 			DefeatEyeofCthulhuBefor: До победы над Глазом Ктулху
 			DefeatEyeofCthulhu: После победы над Глазом Ктулху
-			Killedfully: Drops when killed fully
+			Killedfully: Выпадает при полном добивании
 			SansUndertale: Санс Андертейл
 			OrangeLesserWisps: Меньший оранжевый огонёк
-			ForestAndJungleBiomes: Drops in forest and jungle biomes
-			PyramidAndDesertAndUndergroundBiomes: Drops in Pyramid, desert, and underground biomes
+			ForestAndJungleBiomes: Падает в лесе и джунглях
+			PyramidAndDesertAndUndergroundBiomes: Падает в Пирамиде, пустыне и подземных биомах
 			ColdBiomes: Выпадает в холодных биомах
 			SkyAndMeteorBiomes: Выпадает в космосе и около упавшего метеорита
 			BeachAndDungeonBiomes: Выпадает на пляже и в Темнице
@@ -312,13 +312,13 @@ Mods: {
 					'''
 					При попадании наносит 80% урона по площади
 					Критические удары наносят на 50% больше урона
-					Также может наложить на цель складывающийся дебафф кровотечения, наносящей 5 ед. урона в секунду
+					Также может наложить на цель суммирующийся дебафф кровотечения, наносящий 5 ед. урона в секунду
 					'''
 			}
 
 			CharredWood: {
 				DisplayName: Обугленная древесина
-				Tooltip: «Слишком обгоревшая, чтобы ею можно было использовать»
+				Tooltip: «Слишком обгоревшая, чтобы ею можно было воспользоваться»
 			}
 
 			CharredWoodWall: {
@@ -341,7 +341,7 @@ Mods: {
 				Tooltip:
 					'''
 					Останки сгоревшего материала
-					Может быть использован на промывателе
+					Могут быть использованы на промывателе
 					'''
 			}
 
@@ -531,7 +531,7 @@ Mods: {
 			}
 
 			TwilightScouterBanner: {
-				DisplayName: Знамя сумрочного разведчика
+				DisplayName: Знамя сумрачного разведчика
 				Tooltip: ""
 			}
 
@@ -570,7 +570,7 @@ Mods: {
 
 			CataclysmSpheres: {
 				DisplayName: Сферы катаклизма
-				Tooltip: Бросает несколько заряженных бомб, взрывающихся самонаводящимися молниями каталклизма, наносящими 100% урона
+				Tooltip: Бросает несколько заряженных бомб, взрывающихся самонаводящимися молниями катаклизма, наносящими 100% урона
 			}
 
 			CatalystBomb: {
@@ -599,7 +599,7 @@ Mods: {
 					'''
 					Призывает окружающих игрока межпространственных виспов, стреляющих по напрвлению вашего курсора
 					Нажмите ПКМ, чтобы призвать нескольких межпространственных виспов
-					Пули проходят сквозь блоки и аыпускают молнии, наносящие 50% урона
+					Пули проходят сквозь блоки и выпускают молнии, наносящие 50% урона
 					66%-ный шанс не потратить боеприпасы
 					«Расколи ряды своих врагов, как скалу»
 					'''
@@ -620,7 +620,7 @@ Mods: {
 					'''
 					Призывает группу огоньков на вашу защиту
 					Красные огоньки будут атаковать блибайщих врагов и поглощать их здоровье, нанося 100%
-					Зелёные огоньки атакуют на которком расстоянии, нанося 200% урона
+					Зелёные огоньки атакуют на коротком расстоянии, нанося 200% урона
 					Фиолетовые огоньки будут выпускать залп самонаводящихся снарядов, наносящих 75% урона
 					'''
 			}
@@ -672,9 +672,9 @@ Mods: {
 					'''
 					Призывает клетку небытия, стреляющую по всем ближайшим врагам, в месте вашего курсора
 					Враги, находящиеся в ауре клетки, получают периодический урон
-					Нахождение в ауре клетки также усилиает ваши характеристики:
-					Увеличивает получаемое количество пустоты и сопротивление урону на 4%, а также защиту на 4 ед. и скорость регенерации здоровья на 4 ед. (2 ОЗ/сек)
-					Повтореные призывы увеличивают радиус ауры
+					Нахождение в ауре клетки также усиливает ваши характеристики:
+					Получаемое количество пустоты и сопротивление урону увеличены на 4%, защита на 4 ед., а скорость регенерации здоровья на 4 ед. (2 ОЗ/сек)
+					Повторные призывы увеличивают радиус ауры
 					'''
 			}
 
@@ -698,7 +698,7 @@ Mods: {
 				# Chaos
 				Tooltip:
 					'''
-					Выпускает шквал ударов
+					Совершает множество ударов
 					Вы будете постоянно излучать свет, если предмет находится в избранном в вашем инвентаре
 					«Сила небесного происхождения»
 					'''
@@ -708,7 +708,7 @@ Mods: {
 				DisplayName: Патронник хаоса
 				Tooltip:
 					'''
-					Перезаряжается также быстро, как вы нажимаете на спусковой крючок
+					Стреляет почти со скоростью нажатия на курок
 					Любые используемые патроны приобретают самонаводку
 					Преобразует каждый 6-ой пыстрел в лазерный шар
 					'''
@@ -797,7 +797,7 @@ Mods: {
 				Tooltip:
 					'''
 					Призывает луч сверхновой с небес
-					Враги разрываются самонаводящимися выстрелами, наносящими 3 x 140% каждый
+					Враги разрываются самонаводящимися выстрелами, наносящими 3 удара, каждый из которых имеет урон в 140%
 					'''
 			}
 
@@ -864,7 +864,7 @@ Mods: {
 				Tooltip:
 					'''
 					Конденсирует ледяной туман для усиления ваших стрел
-					При малой степени заряда стрелы летят быстрее в взрываются льдом, наносящие 200% урона
+					При малой степени заряда стрелы летят быстрее и взрываются льдом, наносящим 200% урона
 					При полной зарядке стрелы расцветают в ледяные цветы, наносящие 600% урона
 					'''
 			}
@@ -929,7 +929,7 @@ Mods: {
 				DisplayName: Щит склозения
 				Tooltip:
 					'''
-					За каждые 4 пустых слота в инвентаре вы получаете 1% шанса критического удара
+					За каждые 4 слота с предметом в инвентаре вы получаете 1% шанса критического удара
 					«Чем больше, тем больше»
 					'''
 			}
@@ -939,7 +939,7 @@ Mods: {
 				Tooltip:
 					'''
 					Разбрасывает шипы-ловушки
-					Разбрасывает больше ловушек, если вы носите аксессуары, связанные с карабканием
+					Разбрасывает больше ловушек, если вы носите аксессуары, связанные с карабканьем
 					'''
 			}
 
@@ -1445,7 +1445,7 @@ Mods: {
 				Tooltip:
 					'''
 					Выпускает блуждающие огоньки, наносящие 60% урона
-					Нажмите ПКМ, чтобы бросить топор,прилипающий к стенам
+					Нажмите ПКМ, чтобы бросить топор, прилипающий к стенам
 					Снова нажмите ПКМ, чтобы вернуть топор
 					'''
 			}
@@ -2297,7 +2297,7 @@ Mods: {
 				Tooltip:
 					'''
 					Наносит два чередующихся удара
-					Прив втором ударе, выпускает разлетающиеся камни, наносящие 70% урона
+					При втором ударе выпускает разлетающиеся камни, наносящие 70% урона
 					'''
 			}
 
@@ -5488,7 +5488,7 @@ Mods: {
 				Tooltip:
 					'''
 					Может добывать метеорит
-					Нажмите ПКМ, чтобы бросить ламющую блоки кирку
+					Нажмите ПКМ, чтобы бросить ломающую блоки кирку
 					Потребляет пустоту только при броске
 					'''
 			}
@@ -9237,3 +9237,4 @@ Mods: {
 		}
 	}
 }
+

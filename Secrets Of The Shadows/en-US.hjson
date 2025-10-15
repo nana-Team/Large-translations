@@ -646,7 +646,7 @@ Mods: {
 			}
 
 			SubspaceBag: {
-				DisplayName: Treasure Bag
+				DisplayName: Treasure Bag (Subspace Serpent)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -740,7 +740,7 @@ Mods: {
 			}
 
 			LuxBag: {
-				DisplayName: Treasure Bag
+				DisplayName: Treasure Bag (Lux)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -995,7 +995,11 @@ Mods: {
 
 			ConduitChassis: {
 				DisplayName: Conduit Chassis
-				Tooltip: Completes the carapace of a conduit, allowing for energy redirection
+				Tooltip:
+					'''
+					Completes the carapace of a conduit, allowing for energy redirection
+					Can only be placed with an Archaeologist's Toolbelt equipped
+					'''
 			}
 
 			NatureConduit: {
@@ -1004,6 +1008,7 @@ Mods: {
 					'''
 					An incomplete redirector of nature energy: it lacks a support chassis
 					When fully charged, it will focus nearby nature energy into valid repositories
+					Can only be placed with an Archaeologist's Toolbelt equipped
 					'''
 			}
 
@@ -1013,6 +1018,7 @@ Mods: {
 					'''
 					An incomplete redirector of earth energy: it lacks a support chassis
 					When fully charged, it will focus nearby earth energy into valid repositories
+					Can only be placed with an Archaeologist's Toolbelt equipped
 					'''
 			}
 
@@ -1473,7 +1479,7 @@ Mods: {
 			}
 
 			GlowmothBag: {
-				DisplayName: Treasure Bag
+				DisplayName: Treasure Bag (Glowmoth)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -2899,7 +2905,7 @@ Mods: {
 			}
 
 			TheAdvisorBossBag: {
-				DisplayName: Treasure Bag
+				DisplayName: Treasure Bag (The Advisor)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -3051,7 +3057,7 @@ Mods: {
 			}
 
 			PolarisBossBag: {
-				DisplayName: Treasure Bag
+				DisplayName: Treasure Bag (Polaris)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -3368,7 +3374,7 @@ Mods: {
 			}
 
 			CurseBag: {
-				DisplayName: Treasure Bag
+				DisplayName: Treasure Bag (Pharaoh's Curse)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -3742,7 +3748,7 @@ Mods: {
 			}
 
 			PinkyBag: {
-				DisplayName: Treasure Bag
+				DisplayName: Treasure Bag (Putrid Pinky)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -4324,6 +4330,8 @@ Mods: {
 			ElectromagneticLure: {
 				DisplayName: Electromagnetic Lure
 				Tooltip: Attracts a single biome construct
+				PossibleConstructs: "Possible constructs: "
+				None: None
 			}
 
 			ExplosiveKnife: {
@@ -5307,7 +5315,7 @@ Mods: {
 					'''
 					Killed enemies have a 50% chance to drop additional hearts
 					This chance increases to 100% with critical strikes
-					Collecting hearts lengthens the duration of active buffs
+					Collecting hearts lengthens the duration of active buffs, up to double the original duration
 					'''
 				G5:
 					'''
@@ -5523,6 +5531,7 @@ Mods: {
 					'''
 					An incomplete redirector of chaos energy: it lacks a support chassis
 					When fully charged, it will focus nearby chaos energy into valid repositories
+					Can only be placed with an Archaeologist's Toolbelt equipped
 					'''
 			}
 
@@ -5532,6 +5541,7 @@ Mods: {
 					'''
 					An incomplete redirector of otherworldly energy: it lacks a support chassis
 					When fully charged, it will focus nearby otherworldly energy into valid repositories
+					Can only be placed with an Archaeologist's Toolbelt equipped
 					'''
 			}
 
@@ -5546,6 +5556,7 @@ Mods: {
 					'''
 					An incomplete redirector of evil energy: it lacks a support chassis
 					When fully charged, it will focus nearby evil energy into valid repositories
+					Can only be placed with an Archaeologist's Toolbelt equipped
 					'''
 			}
 
@@ -5555,6 +5566,7 @@ Mods: {
 					'''
 					An incomplete redirector of inferno energy: it lacks a support chassis
 					When fully charged, it will focus nearby inferno energy into valid repositories
+					Can only be placed with an Archaeologist's Toolbelt equipped
 					'''
 			}
 
@@ -5564,6 +5576,7 @@ Mods: {
 					'''
 					An incomplete redirector of permafrost energy: it lacks a support chassis
 					When fully charged, it will focus nearby permafrost energy into valid repositories
+					Can only be placed with an Archaeologist's Toolbelt equipped
 					'''
 			}
 
@@ -5573,6 +5586,7 @@ Mods: {
 					'''
 					An incomplete redirector of tide energy: it lacks a support chassis
 					When fully charged, it will focus nearby tide energy into valid repositories
+					Can only be placed with an Archaeologist's Toolbelt equipped
 					'''
 			}
 
@@ -5845,7 +5859,7 @@ Mods: {
 			}
 
 			AVMusicBox: {
-				DisplayName: Abandoned Village Surface Music Box
+				DisplayName: Music Box (Abandoned Village Surface)
 				Tooltip: ""
 			}
 
@@ -6012,7 +6026,7 @@ Mods: {
 			}
 
 			AVMinesMusicBox: {
-				DisplayName: Abandoned Village Underground Music Box
+				DisplayName: Music Box (Abandoned Village Underground)
 				Tooltip: ""
 			}
 
@@ -6129,7 +6143,7 @@ Mods: {
 			}
 
 			MoonShard2: {
-				DisplayName: Waxing Cresent Shard
+				DisplayName: Waxing Crescent Shard
 				Tooltip: ""
 			}
 
@@ -6159,7 +6173,7 @@ Mods: {
 			}
 
 			MoonShard8: {
-				DisplayName: Waning Cresent Shard
+				DisplayName: Waning Crescent Shard
 				Tooltip: ""
 			}
 
@@ -6647,7 +6661,7 @@ Mods: {
 			}
 
 			MothMusicBox: {
-				DisplayName: Glowmoth Music Box
+				DisplayName: Music Box (Glowmoth)
 				Tooltip: ""
 			}
 
@@ -6697,7 +6711,7 @@ Mods: {
 			}
 
 			SanctuaryMusicBox: {
-				DisplayName: Sanctuary Music Box
+				DisplayName: Music Box (Sanctuary)
 				Tooltip: ""
 			}
 
@@ -6872,7 +6886,7 @@ Mods: {
 
 			SeismicStation: {
 				DisplayName: Seismic Station
-				Tooltip: "'You feel activating this may track some unwanted attention...'"
+				Tooltip: "'You feel activating this may attract some unwanted attention...'"
 			}
 
 			KingBlade: {
@@ -6891,6 +6905,87 @@ Mods: {
 
 			BWand: {
 				DisplayName: B. Wand
+				Tooltip: ""
+			}
+
+			AncientSteelArrow: {
+				DisplayName: Scrap Metal Arrow
+				Tooltip: Critical strikes may apply a stacking, permanent bleed for 5 damage per second
+			}
+
+			AncientSteelBullet: {
+				DisplayName: Scrap Metal Bullet
+				Tooltip: Critical strikes may apply a stacking, permanent bleed for 5 damage per second
+			}
+
+			ExcavatorBossBag: {
+				DisplayName: Treasure Bag (The Excavator)
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			LuxBall: {
+				DisplayName: Spirit Golf Ball
+				Tooltip:
+					'''
+					Can be hit with a golf club and deals damage increasing with velocity
+					'This is one big photon!'
+					'''
+			}
+
+			ExcavatorRelic: {
+				DisplayName: The Excavator Relic
+				Tooltip: ""
+			}
+
+			ExcavatorMask: {
+				DisplayName: Excavator Mask
+				Tooltip: ""
+			}
+
+			ExcavatorTrophy: {
+				DisplayName: Excavator Trophy
+				Tooltip: ""
+			}
+
+			IraGateway: {
+				DisplayName: Ira Gateway
+				Tooltip: ""
+			}
+
+			DrillHand: {
+				DisplayName: Drill Arm
+				Tooltip:
+					'''
+					Mine in a 3x3 area, but reduce mining speed by 50% and pickaxe power by 15
+					When smart cursor is enabled, increase mining speed by 15% instead
+					'''
+			}
+
+			OtherworldlyServiceDevice: {
+				DisplayName: Otherworldly Service Device
+				Tooltip:
+					'''
+					Summons a Beepy Boopy Construct to provide light
+					'Need some advice? Ask the experts using this convenient communing-device!'
+					'''
+			}
+
+			ExcavatorMusicBox: {
+				DisplayName: Music Box (Excavator)
+				Tooltip: ""
+			}
+
+			MrGlorp: {
+				DisplayName: Mr. Glorp
+				Tooltip:
+					'''
+					Increases max void by 100
+					Decreases the potency of Void Shock and Void Recovery
+					'''
+			}
+
+			ExperimentalInjection: {
+				DisplayName: Experimental Injection
 				Tooltip: ""
 			}
 		}
@@ -7385,6 +7480,11 @@ Mods: {
 				DisplayName: Friendly Cart
 				Description: "'It's carting time!'"
 			}
+
+			BeepBoop: {
+				DisplayName: Beep Boop
+				Description: While this construct is just one of many you've encounter in your adventures, you are its entire otherworld!
+			}
 		}
 
 		ArmorSetBonus: {
@@ -7494,13 +7594,13 @@ Mods: {
 				MapEntry0: Invidia Chest
 				MapEntry1: Locked Invidia Chest
 				MapEntry2: Locked New Moon Invidia Chest
-				MapEntry3: Locked Waxing Cresent Invidia Chest
+				MapEntry3: Locked Waxing Crescent Invidia Chest
 				MapEntry4: Locked First Quarter Invidia Chest
 				MapEntry5: Locked Waxing Gibbous Invidia Chest
 				MapEntry6: Locked Full Moon Invidia Chest
 				MapEntry7: Locked Waning Gibbous Invidia Chest
 				MapEntry8: Locked Third Quarter Invidia Chest
-				MapEntry9: Locked Waning Cresent Invidia Chest
+				MapEntry9: Locked Waning Crescent Invidia Chest
 			}
 
 			HoloEyeBannerTile.MapEntry: Banner
@@ -7623,7 +7723,7 @@ Mods: {
 			TidalConduitTile.MapEntry: Tidal Conduit
 			GulaGatewayTile.MapEntry: Strange Gateway
 			AVPots.MapEntry: Pot
-			AVMusicBoxTile.MapEntry: Abandoned Village Surface Music Box
+			AVMusicBoxTile.MapEntry: Music Box
 			TidalPlatingBlastDoorTileClosed.MapEntry: Tidal Plating Blast Door
 			TidalPlatingBlastDoorTileOpen.MapEntry: Tidal Plating Blast Door
 
@@ -7633,7 +7733,7 @@ Mods: {
 			}
 
 			TidalPlatingTorchTile.MapEntry: Tidal Plating Torch
-			AVMinesMusicBoxTile.MapEntry: Abandoned Village Mines Music Box
+			AVMinesMusicBoxTile.MapEntry: Music Box
 			PinkyTestTube.MapEntry: Failed Experiment
 			OtherworldPlatingBlastDoorTileClosed.MapEntry: Otherworld Plating Blast Door
 			OtherworldPlatingBlastDoorTileOpen.MapEntry: Otherworld Plating Blast Door
@@ -7671,14 +7771,16 @@ Mods: {
 
 			ChaosPlatingBlastDoorTileOpen.MapEntry: Chaos Plating Blast Door
 			ChaosPlatingBlastDoorTileClosed.MapEntry: Chaos Plating Blast Door
-			MothMusicBoxTile.MapEntry: Moth Music Box Tile
-			RuinedStatueTile.MapEntry: Ruined Statue Tile
-			SerpentStatueTile.MapEntry: Serpent Statue Tile
+			MothMusicBoxTile.MapEntry: Music Box
+			RuinedStatueTile.MapEntry: Ruined Statue
+			SerpentStatueTile.MapEntry: Serpent Statue
 			InvidiaGatewayTile.MapEntry: Strange Gateway
-			SanctuaryMusicBoxTile.MapEntry: Sanctuary Music Box Tile
+			SanctuaryMusicBoxTile.MapEntry: Music Box
 			EvostonePots.MapEntry: Pots
 			SeismicStationTile.MapEntry: Seismic Station
-			TideChainTile.MapEntry: Tide Chain Tile
+			TideChainTile.MapEntry: Tide Chain
+			IraGatewayTile.MapEntry: Ira Gateway
+			ExcavatorMusicBoxTile.MapEntry: Music Box
 		}
 
 		WorldGeneration: {
@@ -7909,7 +8011,17 @@ Mods: {
 			TardigradeGreen.DisplayName: Tardigrade
 			TardigradePink.DisplayName: Tardigrade
 			Bridgeburner.DisplayName: Bridgeburner
-			Excavator.DisplayName: The Excavator
+
+			Excavator: {
+				DisplayName: The Excavator
+
+				BossChecklistIntegration: {
+					EntryName: The Excavator
+					SpawnInfo: Awaken by activating the [i:SOTS/SeismicStation] in the Abandoned Village Mines
+					DespawnMessage: The Excavator is no longer after you
+				}
+			}
+
 			ExcavatorBody.DisplayName: The Excavator
 			SubspaceWorm.DisplayName: Subspace Worm
 			SanguineFoundry.DisplayName: Sanguine Foundry
@@ -7922,6 +8034,7 @@ Mods: {
 			PupaFly.DisplayName: Gore Fly
 			VoidTreasureSlime.DisplayName: Void Treasure Slime
 			RotWalker.DisplayName: Rotwalker
+			GulaSpirit.DisplayName: Gula Spirit
 		}
 
 		Bestiary: {
@@ -8079,6 +8192,7 @@ Mods: {
 				BEST REGARDS. 
 					GULA EXTRACTION SITE.
 				'''
+			GulaSpirit: Water and oil don't mix.
 			Tardigrade: These water bears are able to survive the harsh combination of low pressure and intense radiation, allowing them to live in space.
 			Bridgeburner: Originally devised to contain the spread of evil, it is perhaps a testament to its failure that it is now controlled by evil.
 			SanguineFoundry:
@@ -8236,6 +8350,13 @@ Mods: {
 			5: Increases max life by 40
 			6: Increases life regeneration by 2
 			7: Increases max void by 40
+		}
+
+		ExperimentalInjectionTextList: {
+			0: First strike applies a permanent bleed for 5 damage per second and increase max life by 20
+			1: First strike is guaranteed to critically strike and increase critical strike damage by 20%
+			2: First strike inflicts poison and steals life
+			3: Increases damage, attack speed, and movement speed by 5%
 		}
 
 		DiamondRingText: Increase damage based on defense, then decreases defense by a third of the damage buff
@@ -8399,6 +8520,7 @@ Mods: {
 			BrachialPortal.DisplayName: Brachial Portal
 			BrightRedLaser.DisplayName: Artifact Laser
 			BubbleCrush.DisplayName: Bubble Crush
+			Bubble.DisplayName: Bubble
 			CactusSpine.DisplayName: Cactus Spine
 			CardiacCollapseCrusher.DisplayName: Cardiac Collapse Arm
 			CataclysmBullet.DisplayName: Cataclysm Bullet
@@ -8972,6 +9094,16 @@ Mods: {
 			KingSlashThrow.DisplayName: King Slash Throw
 			LightspeedKingblade.DisplayName: Lightspeed Kingblade
 			ExcavatorBolt.DisplayName: Excavator Bolt
+			AncientSteelArrow.DisplayName: Scrap Metal Arrow
+			AncientSteelBullet.DisplayName: Scrap Metal Bullet
+			ExcavatorSaw.DisplayName: Excavator Saw
+			ExcavatorBoltBig.DisplayName: Excavator Bolt Big
+			ExcavatorBoltSmall.DisplayName: Excavator Bolt Small
+			EvilBolt2.DisplayName: Evil Bolt
+			EvilEye.DisplayName: Evil Eye
+			LuxBallProjectile.DisplayName: Spirit Golf Ball
+			DrillHand.DisplayName: Drill Hand
+			Boopy.DisplayName: Boopy
 		}
 
 		DamageClasses: {

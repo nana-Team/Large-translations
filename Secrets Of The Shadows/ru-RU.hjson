@@ -3345,7 +3345,7 @@ Mods: {
 				Tooltip: ""
 			}
 
-			AncientGoldGateGems.DisplayName: Драгоценные камни
+			AncientGoldGateGems.DisplayName: Самоцветы
 
 			BrachialLance: {
 				DisplayName: Проклинающее копьё
@@ -3745,7 +3745,7 @@ Mods: {
 
 			Peanut: {
 				DisplayName: Арахис
-				Tooltip: «Любимая закуска дьявольского слизня!»
+				Tooltip: «Любимая закуска дьявольских слизней!»
 			}
 
 			PeanutRepeater: {
@@ -9250,4 +9250,3 @@ Mods: {
 		}
 	}
 }
-

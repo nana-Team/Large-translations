@@ -1,0 +1,9 @@
+Types: {
+	Xareus: Type: 'Master' Magician
+	Staff: Type: Magic Wand
+	Cecitoma: Type: Organic Construct
+	Evil: Type: Infected Creature
+	Organ: Type: Organ
+	HotGarbage: Type: Dumpster
+	Animal: Type: Farm Animal
+}

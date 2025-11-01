@@ -24,6 +24,16 @@ Items: {
 			[c/888888:Не может быть снята]
 			'''
 	}
+
+	ShrineItem: {
+		// DisplayName: Umbral Shrine
+		/* Tooltip:
+			'''
+			A dark shrine which can hold umbra
+			Right clicking the shrine will depoist all of your umbra
+			Right clicking the shrine while holding no umbra will withdraw the stored umbra
+			''' */
+	}
 }
 
 GUI: {
@@ -77,6 +87,19 @@ GUI: {
 			'''
 		CloseButton: Закрыть
 		FullscreenButton: Полноэкранный режим
+		ExportButton: Экспорт вашего Дерева мрака
+		EditButton: Режим редактирования
+		EditButtonDesc:
+			'''
+			Позволяет вам редактировать Дерево мрака, меняя расположение нод, удаляя старые, добавляя новые и т.д.
+			Не стесняйтесь экспериментировать с этим режимом, чтобы идеально настроить Дерево мрака под себя
+
+			[c/FF4444: ВНИМАНИЕ: Начав редактирование Дерева мрака, вы больше не сможете вернуться к его изначальному виду!]
+			'''
+		MaxOne: Вы можете установить только одну такую ноду в Дереве мрака
+		CostEditName: Стоимость в очках мрака
+		CostEditDesc: Позволяет вам изменить стоимость выбранной ноды
+		Export: Ваше дерево мрака было экспортировано в: {0}
 	}
 
 	Node: {
@@ -94,9 +117,31 @@ GUI: {
 			[c/AAAAFF:{0}] / [c/AAAAFF:{1}] убийств до получения следующего очка мрака
 			'''
 	}
+
+	Notification: {
+		ResetMessageName: "[c/CC88FF:Перераспределение очков мрака]"
+		ResetMessageBody:
+			'''
+			Дерево мрака изменилось с последнего раза, как вы им пользовались.
+			Все ваши открытые ноды были сброшены, а все потраченные на них очки мрака вернулись к вам, теперь вы сможете перераспределить их в новом Дереве мрака.
+			Счастливой игры... ну или приятных страданий, как вам угодно!
+
+			[c/bbbbbb:Нажмите на это окошко, чтобы закрыть его]
+			'''
+		CustomErrorMessageName: "[c/CC88FF:Перераспределение очков мрака]"
+		CustomErrorMessageBody:
+			'''
+			Возникла ошибка при попытке загрузить пользовательское Дерево мрака, возможно данные о нём были повреждены.
+			Ваше Дерево мрака было возвращено к его изначальному виду, все ваши открытые ноды были сброшены, а потраченные на них очки мрака вернулись к вам
+
+			[c/bbbbbb:Нажмите на это окошко, чтобы закрыть его]
+			'''
+	}
+
+	WorldSelect.Custom: Изм. Дерево мрака
 }
 
-Passives: {
+UmbraPassives: {
 	EnemyDamage: {
 		Name: Урон врагов
 		Tooltip: Увеличивает урон всех врагов на [c/AAAAFF:1] ед.
@@ -477,7 +522,7 @@ Passives: {
 
 	EnemyFrostburn: {
 		Name: Обморожение от атак врагов
-		Tooltip: Увеличивает шанс получить дебафф «{$BuffName.Frostburn}» от атак врагов на [c/AAAAFF:10%]
+		Tooltip: Увеличивает шанс получить дебафф «{$BuffName.Frostburn}» от атак врагов на [c/AAAAFF:5%]
 	}
 
 	EnemySlow: {
@@ -502,6 +547,34 @@ Passives: {
 			Враги с зачарованной снежинкой выпускают несколько наносящих урон сосулек после смерти
 			'''
 	}
+
+	EnemyStrength: {
+		Name: Сила обычных врагов
+		Tooltip:
+			'''
+			Увеличивает максимальный запас здоровья всех врагов (кроме боссов) на [c/AAAAFF:2%]
+			Увеличивает урон всех врагов (кроме боссов) на [c/AAAAFF:2%]
+			'''
+	}
+
+	GalvanizedGrunts: {
+		Name: Неубиваемые громилы
+		Tooltip:
+			'''
+			Даёт всем врагам (кроме боссов) прочный щит, когда их уровень здоровья опускается до половины
+			Этот щит увеличивает их защиту на [c/AAAAFF:50] ед.
+			За каждое попадание по щиту его бонус к защите становится меньше на [c/AAAAFF:5] ед.
+			'''
+	}
+
+	UnloadedPassive: {
+		Name: Запечатанная нода
+		Tooltip:
+			'''
+			Ничего не делает
+			[c/777777:Мод, которому принадлежит эта нода, был выключен или удалён]
+			'''
+	}
 }
 
 Buffs: {
@@ -515,6 +588,7 @@ Projectiles: {
 	DodgeDagger.DisplayName: Летающий кинжал
 	SnowflakeProjectile.DisplayName: Снежинка
 	SnowflakeShard.DisplayName: Сосульки
+	Spawner.DisplayName: Спавнер
 }
 
 Configs: {
@@ -522,8 +596,62 @@ Configs: {
 		DisplayName: Конфигурация
 
 		UmbraIconPosition: {
-			Label: Положение шкалы мрака
+			Label: Положение шкалы мрака на экране
 			Tooltip: ""
 		}
+
+		ShowCustomMode: {
+			Label: Отображать кнопку с режимом редактирования
+			Tooltip:
+				'''
+				Эта кнопка включает режим редактирования Дерева мрака, где можно добавлять или удалять ноды, перетаскивать их и т.д
+				Однако после включения режима редактирования вы больше не сможете вернуться к изначальному Дереву мрака автоматически
+				'''
+		}
+	}
+
+	CustomTreeConfig: {
+		// DisplayName: Custom Tree Config
+
+		customTreeJson: {
+			// Label: custom Tree Json
+			// Tooltip: ""
+		}
+	}
+}
+
+Misc: {
+	Motd:
+		'''
+		Спасибо что играете с модом Umbra до его полного релиза!
+		Это очень ранняя демо версия проекта и нам важно собрать как можно более заинтересованную аудиторию, чтобы сделать мод ещё лучше!
+
+		Если вы хотите поделиться впечатлениями или фидбеком, заходите на наш английский сервер по ссылке https://discord.gg/KFpCz5p688
+		Если вы нашли какой-либо баг или столкнулись с другой проблемой, сообщите об этом в нашем репозитории GitHub по ссылке https://github.com/ScalarVector1/Umbra/issues
+		'''
+	UmbraGainPopup: +1 очко мрака
+}
+
+// Tiles.Shrine.MapEntry: Umbral Shrine
+
+Achievements: {
+	FeatOfHaste: {
+		// FriendlyName: Feat Of Haste
+		// Description: Slay the moon lord while the 'Temporal Trance' node is allocated on the umbral tree, proving great speed and agility.
+	}
+
+	UmbralAcolyte: {
+		// FriendlyName: Umbral Acolyte
+		// Description: Allocate your first node on the umbral tree.
+	}
+
+	UmbralAdept: {
+		// FriendlyName: Umbral Adept
+		// Description: Reach 100 doom by allocating nodes on the umbral tree.
+	}
+
+	UmbralMaster: {
+		// FriendlyName: Umbral Master
+		// Description: Reach 1000 doom by allocating nodes on the umbral tree. Good luck.
 	}
 }

@@ -520,7 +520,7 @@ Mods: {
 
 			MushroomBoots: {
 				DisplayName: Грибные ботинки
-				Tooltip: Оставляет за вами эффект растущих грибов
+				Tooltip: Оставляют за вами эффект растущих грибов
 			}
 
 			MyceliumMoldItem: {
@@ -2527,3 +2527,4 @@ Mods: {
 
 Controls.LeftClick: ЛКМ
 Controls.RightClick: ПКМ
+

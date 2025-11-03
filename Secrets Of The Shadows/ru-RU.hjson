@@ -5618,27 +5618,27 @@ Mods: {
 			}
 
 			GulaPlating: {
-				DisplayName: Покрытие Гулы
+				DisplayName: Покрытие чревоугодия
 				Tooltip: ""
 			}
 
 			GulaPortalPlating: {
-				DisplayName: Портальное покрытие Гулы
+				DisplayName: Портальное покрытие чревоугодия
 				Tooltip: ""
 			}
 
 			GulaGateway: {
-				DisplayName: Врата Гулы
+				DisplayName: Врата чревоугодия
 				Tooltip: ""
 			}
 
 			GulaPlatingWall: {
-				DisplayName: Стена из покрытя Гулы
+				DisplayName: Стена из покрытя чревоугодия
 				Tooltip: ""
 			}
 
 			GulaVault: {
-				DisplayName: Сундук Гулы
+				DisplayName: Сундук чревоугодия
 				Tooltip: ""
 			}
 
@@ -8470,7 +8470,7 @@ Mods: {
 		}
 
 		MineralariumTileText: {
-			0: Стутс: нет информации
+			0: Статус: нет информации
 			1: Статус: полон или заграждён
 			2: Готовность: {0}%
 		}
@@ -9260,4 +9260,5 @@ Mods: {
 		}
 	}
 }
+
 

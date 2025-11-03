@@ -1473,7 +1473,7 @@ Mods: {
 			}
 
 			NightIlluminator: {
-				DisplayName: Ночной осветитель
+				DisplayName: Ночной светильник
 				Tooltip:
 					'''
 					Призывает двух светляков кружить вокруг ваших врагов
@@ -3244,13 +3244,13 @@ Mods: {
 				DisplayName: Зелье кошмаров
 				Tooltip:
 					'''
-					Критические удары создают кошмарные руки, наносящие 10% урона от удара, призвавшего их, и стягивающие врагов вместе
-					Появление рук имеет шестисекундную перезарядку
+					Ваши уритические удары будут призывать кошмарные руки, наносящие 10% урона от удара, призвавшего их, и стягивающие ближайших врагов
+					Кошмарные руки могут появится не чаще, чем раз в 6 секунд
 					'''
 			}
 
 			RipplePotion: {
-				DisplayName: Зелье колебаний
+				DisplayName: Зелье колыханий
 				Tooltip:
 					'''
 					От вас будут периодически исходить водяные волны, игнорирующие до 8 ед. защиты
@@ -3293,7 +3293,7 @@ Mods: {
 			}
 
 			VibePotion: {
-				DisplayName: Атмосферное зелье
+				DisplayName: Зелье атмосферы
 				Tooltip:
 					'''
 					Увеличивает скорость атаки на 20%, когда вы неподвижны, и на 5%, когда вы движетесь
@@ -4418,9 +4418,9 @@ Mods: {
 				DisplayName: Олимпийский боевой топор
 				Tooltip:
 					'''
-					После убийства врага вы на три секнды впадаете в безумие, что значительно увеличивает скорость ближнего боя
+					После убийства врага вы на 3 секунды получите бафф «{$Mods.SOTS.Buffs.Frenzy.DisplayName}», который значительно увеличивает скорость ближнего боя
 					Нажмите ПКМ, чтобы запустить топор, который будет наносить 60% урона
-					Во время безумия можно бросить 2 топора
+					В состоянии баффа можно бросить сразу 2 топора
 					'''
 			}
 
@@ -5118,7 +5118,7 @@ Mods: {
 			}
 
 			Sarcophagus: {
-				DisplayName: Саркофагус
+				DisplayName: Саркофаг
 				Tooltip: ""
 			}
 
@@ -6773,7 +6773,7 @@ Mods: {
 			}
 
 			VigorPotion: {
-				DisplayName: Зелье здоровья
+				DisplayName: Зелье бодрости
 				Tooltip: Позволяет совершить рывок 50 раз
 			}
 
@@ -7062,7 +7062,7 @@ Mods: {
 
 			ChaosSpiritAid: {
 				DisplayName: Духовная помощь
-				Description: Хаотические духи помогают вам в бою
+				Description: Духи хаоса помогают вам в бою
 			}
 
 			CreativeShock2: {
@@ -7107,36 +7107,36 @@ Mods: {
 
 			EarthenSpiritAid: {
 				DisplayName: Духовная помощь
-				Description: Земляные духи помогают вам в бою
+				Description: Духи земли помогают вам в бою
 			}
 
 			Ethereal: {
-				DisplayName: Неосязаемые
+				DisplayName: Эфирный
 				Description: Эфирные огни помогают вам в бою
 			}
 
 			EvilSpiritAid: {
 				DisplayName: Духовная помощь
-				Description: Злые духи помогают вам в бою
+				Description: Духи зла помогают вам в бою
 			}
 
 			Fat: {
-				DisplayName: Жир
+				DisplayName: Толстый
 				Description: Скорость передвижения снижена, сопротивление урону увеличено
 			}
 
 			FluidCurse: {
-				DisplayName: Жидкостное проклятие
+				DisplayName: Флюидное проклятие
 				Description: «Внетелесный опыт!»
 			}
 
 			Frenzy: {
-				DisplayName: Безумие
+				DisplayName: Неистовство
 				Description: Скорость атаки ближнего боя увеличена на 100%
 			}
 
 			GoodVibes: {
-				DisplayName: Приятные воспоминания
+				DisplayName: Приятная атмосфера
 				Description: Ваши характеристики увеличены, пока вы не двигаетесь
 			}
 
@@ -7157,52 +7157,52 @@ Mods: {
 
 			InfernalDefense: {
 				DisplayName: Инфернальная защита
-				Description: «Призыватель виспов»
+				Description: «Призыватель духов»
 			}
 
 			InfernoSpiritAid: {
 				DisplayName: Духовная помощь
-				Description: Инфернальные духи помогает вам в бою
+				Description: Духи инферно помогает вам в бою
 			}
 
 			IntimidatingPresence: {
-				DisplayName: Устрашающее присутствие
-				Description: Скорость возрождения врагов значительно снижена
+				DisplayName: Устрашение присутствием
+				Description: Скорость появления врагов значительно снижена
 			}
 
 			NatureSpiritAid: {
 				DisplayName: Духовная помощь
-				Description: Природные духи помогает вам в бою
+				Description: Духи природы помогает вам в бою
 			}
 
 			Nightmare: {
 				DisplayName: Кошмар
-				Description: Стягивайте врагов критическими ударами
+				Description: Ваши критические удары стягивают врагов
 			}
 
 			NightIlluminatorBuff: {
-				DisplayName: Иллюминация
+				DisplayName: Светило
 				Description: Вы защищены светящимися мотыльками
 			}
 
 			OtherworldlySpiritAid: {
 				DisplayName: Духовная помощь
-				Description: Духи другого мира помогает вам в бою
+				Description: Духи потусторонности помогает вам в бою
 			}
 
 			Overheat: {
 				DisplayName: Перегрев
-				Description: Скорость передвижения и скорость атаки ближнего боя увеличены на 10%
+				Description: Скорости передвижения и ближнего боя увеличены на 10%
 			}
 
 			PermafrostSpiritAid: {
 				DisplayName: Духовная помощь
-				Description: Морозные духи помогает вам в бою
+				Description: Духи мерзлоты помогает вам в бою
 			}
 
 			PharaohsCurse: {
 				DisplayName: Проклятье Фараона
-				Description: Что-то наблюдает за тобой, скорость возрождения врагов увеличена
+				Description: Что-то наблюдает за вами. Скорость появления врагов увеличена
 			}
 
 			PurpleBalloon: {
@@ -7211,20 +7211,20 @@ Mods: {
 			}
 
 			RippleBuff: {
-				DisplayName: Рябь
-				Description: Переодически высвобождаются наносящие урон волны
+				DisplayName: Колыхание
+				Description: От вас переодически исходят наносящие урон волны
 			}
 
 			Roughskin: {
-				DisplayName: Твердокожесть
+				DisplayName: Грубая кожа
 				Description: Защита увеличена на 4 ед. и урон увеличен на 4%
 			}
 
 			RubyMonolithAttack: {
-				DisplayName: Агрессивность рубинового монолита
+				DisplayName: Атака рубинового монолита
 				Description:
 					'''
-					Увеличивает трату пустоты 6
+					Увеличивает расход пустоты на 6 ед.
 					Увеличивает пустотный урон на 10%
 					'''
 			}
@@ -7244,7 +7244,7 @@ Mods: {
 			}
 
 			Shattered: {
-				DisplayName: Расколотость
+				DisplayName: Расколотый
 				Description: Следующее получение урона будет болезненным!
 			}
 
@@ -7255,12 +7255,12 @@ Mods: {
 
 			SpawnBossCurse: {
 				DisplayName: Отладка
-				Description: Находится в процессе разработки, так как автор мода не знает, как кодить мультиплеер
+				Description: Находится в разработке, так как я не знаю, как кодить мультиплеер
 			}
 
 			SpawnBossIce: {
 				DisplayName: Отладка
-				Description: Находится в процессе разработки, так как автор мода не знает, как кодить мультиплеер
+				Description: Находится в разработке, так как я не знаю, как кодить мультиплеер
 			}
 
 			SpiritSurfer: {
@@ -7299,31 +7299,31 @@ Mods: {
 
 			TidalSpiritAid: {
 				DisplayName: Духовная помощь
-				Description: Приливные духи помогают вам в бою
+				Description: Духи прилива помогают вам в бою
 			}
 
 			Virtuous: {
 				DisplayName: Добродетель
-				Description: «Духовное товарищество»
+				Description: «Товарищенство духов»
 			}
 
 			VoidBurn: {
 				DisplayName: Пустотное выгорание
-				Description: Увеличивает трату пустоты на 2
+				Description: Увеличивает расход пустоты на 2 ед.
 			}
 
 			VoidMetamorphosis: {
-				DisplayName: Пустотные матаморфозы
+				DisplayName: Пустотная матаморфоза
 				Description:
 					'''
-					Увеличивает трату пустоты на 6
-					Потеря пустоты из-за пустотного истощения восстанавливает жизнь
+					Увеличивает расход пустоты на 6 ед.
+					Собственноручный расход пустоты восстанавливает здоровье
 					'''
 			}
 
 			VoidRecovery: {
 				DisplayName: Пустотное восстановление
-				Description: Душа возвращается
+				Description: Ваша душа возвращается
 			}
 
 			VoidShock: {
@@ -7333,26 +7333,26 @@ Mods: {
 
 			VoidSickness: {
 				DisplayName: Пустотная болезнь
-				Description: Уменьшает пустотный урон на 10%
+				Description: Пустотный урон снижен на 10%
 			}
 
 			WebbedNPC: {
-				DisplayName: Запаутиненный
+				DisplayName: В паутине
 				Description: Замедление, но только для врагов
 			}
 
 			DendroChain: {
-				DisplayName: Дендровая цепь
+				DisplayName: Дендро цепь
 				Description: Связанный
 			}
 
 			Skipped: {
-				DisplayName: Проскочивший
-				Description: Недавно вы телепортировались сквозь пространство, вы неуязвимы к урону от падения
+				DisplayName: Послегиперпрыжковое состояние
+				Description: Недавно вы прыгнули сквозь пространство; невосприимчивость к урону от падения
 			}
 
 			KelpWhipBuff: {
-				DisplayName: Бафф ламинарного хлыста
+				DisplayName: Усиление ламинарного хлыста
 				Description: Следющий удар будет критическим
 			}
 
@@ -7370,27 +7370,28 @@ Mods: {
 				DisplayName: Кровавые воды
 				Description:
 					'''
-					Увелчивает урон ближнего боя на 50% от бонусов магического урона, полученных не от этого баффа
-					Увелчивает магический урон на 50% от бонусов урона ближнего боя, полученных не от этого баффа
+					Увелчивает урон ближнего боя на 50% от бонуса к магическому урону, полученного от других источников
+					Увеличивает магический урон на 50% от бонуса к урону ближнего боя, полученного от других источников
 					Увеличивает скорость передвижения на 20% и сопротивление урону на 10%
 					'''
 			}
 
 			EmberOiled: {
-				DisplayName: Масляные угли
+				DisplayName: Промаслянные угли
 				Description: Моментальное возгорание
 			}
 
 			TesseractBuff: {
-				DisplayName: Тессеракти
-				Description: Теперь в везде, во всём и всё сразу
+				DisplayName: Тессеракт
+				Description: Вы теперь везде и всё
 			}
 
 			ChaosState2: {
 				DisplayName: Хаотическое состояние
 				Description:
 					'''
-					Телепортация элементалей отключена
+					//какие нахуй телепорты
+					Элементальная телепорты отключена
 					Увеличивает скорость ближнего боя на 40%
 					'''
 			}
@@ -7403,21 +7404,21 @@ Mods: {
 			Attuned: {
 				DisplayName: Настроенный
 				Description: Temp
-				Tier1: Увеличивает запас здоровья на 20 ед.
+				Tier1: Увеличивает максимальный запас здоровья на 20 ед.
 				Tier2:
 					'''
-					Увеличивает запас здоровья на 20 ед.
-					Увеличивает запас пустоты на 20 ед.
+					Увеличивает максимальный запас здоровья на 20 ед.
+					Увеличивает максимальный запас пустоты на 20 ед.
 					'''
 				Tier3:
 					'''
-					Увеличивает запас здоровья на 40 ед.
-					Увеличивает запас пустоты на 40 ед.
+					Увеличивает максимальный запас здоровья на 40 ед.
+					Увеличивает максимальный запас пустоты на 40 ед.
 					'''
 				Tier4:
 					'''
-					Увеличивает запас здоровья на 60 ед.
-					Увеличивает запас пустоты на 40 ед.
+					Увеличивает максимальный запас здоровья на 60 ед.
+					Увеличивает максимальный запас пустоты на 40 ед.
 					'''
 				Tier5:
 					'''
@@ -7426,23 +7427,23 @@ Mods: {
 					'''
 				Tier6:
 					'''
-					Увеличивает запас здоровья на 80 ед.
-					Увеличивает запас пустоты на 80 ед.
+					Увеличивает максимальный запас здоровья на 80 ед.
+					Увеличиваетмаксимальный  запас пустоты на 80 ед.
 					'''
 				Tier7:
 					'''
-					Увеличивает запас здоровья на 100 ед.
-					Увеличивает запас пустоты на 80 ед.
+					Увеличивает максимальный запас здоровья на 100 ед.
+					Увеличивает максимальный запас пустоты на 80 ед.
 					'''
 				Tier8:
 					'''
-					Увеличивает запас здоровья на 100 ед.
-					Увеличивает запас пустоты на 100 ед.
+					Увеличивает максимальный запас здоровья на 100 ед.
+					Увеличивает максимальный запас пустоты на 100 ед.
 					'''
 			}
 
 			FreshGreenyBuff: {
-				DisplayName: Свежий зеленовый
+				DisplayName: Свежая зелень
 				Description: «Худший кошмар Гнилостного пинки»
 			}
 
@@ -7451,26 +7452,26 @@ Mods: {
 				Description:
 					'''
 					Мерзкий воздух наполняет ваши лёгкие
-					Во время движения скорость регенерации жизни значительно снижена
+					Во время движения скорость регенерации здоровья значительно снижена
 					Во время движения скорость восстановления пустоты увеличена на 40%
 					'''
 			}
 
 			SanctuarySilence: {
-				Prefix0: "Оглушительный "
-				Prefix1: "Ужасающий "
-				Prefix2: "Печальный "
-				Prefix3: "Надеющийся "
-				Prefix4: "Благословенный "
-				Prefix5: "Шепчущий "
-				Prefix6: "Ползущий "
-				Prefix7: "Парализующий "
-				DisplayName: Тишина
-				Description: Скорость возрождения врагов уменьшена на {0}%
+				Prefix0: "Оглушительная "
+				Prefix1: "Ужасающая "
+				Prefix2: "Печальная "
+				Prefix3: "Обнадеживающая "
+				Prefix4: "Благословенная "
+				Prefix5: "Шепчущая "
+				Prefix6: "Медленная "
+				Prefix7: "Парализующая "
+				DisplayName: тишина
+				Description: Скорость появления врагов снижена на {0}%
 			}
 
 			Vigor: {
-				DisplayName: Здоровье
+				DisplayName: Бодрость
 				Description: Осталось равков: {0}
 			}
 
@@ -7486,49 +7487,49 @@ Mods: {
 
 			Embattle: {
 				DisplayName: В бою
-				Description: Увеличивает урон на 5% и значительно увеличивает скорость возрождения врагов
+				Description: Урон увеличен на 5% и скорость появления врагов значительно увеличена
 			}
 
 			UnholyGrailBuff: {
 				DisplayName: Неподвижный трон
-				Description: Защита увеличена на 12
+				Description: Защита увеличена на 12 ед.
 			}
 
 			FriendlyCartBuff: {
 				DisplayName: Дружелюбная вагонетка
-				Description: «Время покататься!»
+				Description: «Время вагонетить!»
 			}
 
 			BeepBoop: {
-				DisplayName: Бип буп
-				Description: Несмотря на то, что это — всего лишь один их многих конструктов, которые ты встрел в своём путешествии, для него ты — весь мир!
+				DisplayName: Бип-буп
+				Description: Хотя для вас это всего лишь один их многих конструктов в вашей жизни, вы для него — весь вся жизнь!
 			}
 		}
 
 		ArmorSetBonus: {
 			DoorItems:
 				'''
-				Ускорение длится дольше
+				Увеличивает время ускорения
 				Скорость размещения блоков увеличена
 				'''
 			Vibrant:
 				'''
 				Увеличивает получаемое количество пустоты на 2 ед.
-				Вибропистолет будет выпускать сразу по три выстрела, вместо одного
+				Вибропистолет будет выпускать сразу по три снаряда, вместо одного
 				'''
 			Vespera: Увеличивает максимальный запас пустоты на 25 ед. и получаемое количество пустоты на 50%
-			NatureWreath: Призывает 3 цветочные лозы сражаться за вас
+			NatureWreath: Призывает 3 цветочные лозы помогать вам в бою
 			TwilightAssassins:
 				'''
-				Голограмный глаз сражается за вас
-				Его атаки имеют 25% шанс дестабилизировать врагов, но чем больше уровень дестабилизацции, тем меньше шанс наложить следующий
+				Голограмный глаз будет сражается за вас
+				Его атаки имеют 25% шанс дестабилизировать врагов, но с каждым уровнем дестабилизацции, шанс наложения следующего снижается
 				'''
 			Frigid:
 				'''
 				Леденящее копьё больше не будет расходовать пустоту
 				Снижает пустотный урон на 15%
 				'''
-			FrostArtifact: Большинство атак ближнего и дальнего боя призывают несколько полярных пушек, каждая из которых наносит 25% урона
+			FrostArtifact: Большинство стрелковых атак и атак ближнего боя будут призывать несколько полярных пушек, каждая из которых наносит 25% урона
 			ShatterShard:
 				'''
 				Ускоряет регенерацию здоровья на 2 (1 ОЗ/сек)
@@ -7550,19 +7551,19 @@ Mods: {
 			Elemental:
 				'''
 				Враги на вашем пути, получившие урон во время телепортации, будут временно замороженны во времени
-				Снижает время перезарядки телепорта на 6 секунд и увеличивает дальность поражения при телепортации на 50%
-				Урон от телепортации будет увеличиваться в зависимости от бонусов к пустотнуму урону
+				Снижает время перезарядки телепортации на 6 секунд и увеличивает дальность поражения при телепортации на 50%
+				Урон от телепортации будет увеличиваться в зависимости от бонусов к пустотному урону
 				'''
 			Earthen:
 				'''
-				Атаки ближнего боя имеют шанс наложить бессрочный суммирующийся эффект искромсания, который увеличивает получаемый ими урон
+				Атаки ближнего боя с некоторым шансом будут накладывать бессрочный суммирующийся эффект искромсания, который увеличивает получаемый врагами урон
 				Увеличивает скорость атаки на 20%
 				'''
 		}
 
 		Tiles: {
-			NatureConduitTile.MapEntry: Природный конструкт
-			EarthenConduitTile.MapEntry: Земляной конструкт
+			NatureConduitTile.MapEntry: Природный трубопровод
+			EarthenConduitTile.MapEntry: Земляной трубопровод
 			PeanutBushTile.MapEntry: Арахисовый куст
 			PeanutOreTile.MapEntry: Арахис
 
@@ -7602,10 +7603,10 @@ Mods: {
 			}
 
 			GulaVaultTile: {
-				MapEntry0: Сундук Гулы
-				MapEntry1: Закрытый сундук Гулы
-				MapEntry2: Дважды закрытый сундук Гулы
-				MapEntry3: Трижды закрытый сундук Гулы
+				MapEntry0: Сундук чревоугодия
+				MapEntry1: Закрытый сундук чревоугодия
+				MapEntry2: Дважды закрытый сундук чревоугодия
+				MapEntry3: Трижды закрытый сундук чревоугодия
 			}
 
 			InvidiaChestTile: {
@@ -7615,7 +7616,7 @@ Mods: {
 				MapEntry3: Закрытый сундук зависти растущего месяца
 				MapEntry4: Закрытый сундук зависти первой четверти
 				MapEntry5: Закрытый сундук зависти растущей луны
-				MapEntry6: Закрытый полнолунный сундук зависти
+				MapEntry6: Закрытый сундук зависти полнолунья
 				MapEntry7: Закрытый сундук зависти убывающей луны
 				MapEntry8: Закрытый сундук зависти третьей четверти
 				MapEntry9: Закрытый сундук зависти убывающего месяца
@@ -7629,10 +7630,10 @@ Mods: {
 			SOTSTrophies.MapEntry: Трофей
 			SilkCocoonTile.MapEntry: Светящийся кокон
 			BigCrystalTile.MapEntry: Гигантский кристалл
-			VibrantOreTile.MapEntry: Вибраниум
-			VibrantCrystalTile.MapEntry: Вибраниумный осколок
+			VibrantOreTile.MapEntry: Виброруда
+			VibrantCrystalTile.MapEntry: Виброосколок
 			VibrantBrickTile.MapEntry: Виброкирпич
-			VibrantCrystalLargeTile.MapEntry: Большой вибраниумный осколок
+			VibrantCrystalLargeTile.MapEntry: Большой виброосколок
 			PyramidCrateTile.MapEntry: Ящик пирамиды
 			AncientGoldCampfireTile.MapEntry: Вечный костёр
 			AncientGoldThroneTile.MapEntry: Трон из древнего золота
@@ -7669,20 +7670,20 @@ Mods: {
 			CrystalStatue.MapEntry: Кристальная статуя
 			CursedAppleTile.MapEntry: Странный фрукт
 			CursedGrowthTile.MapEntry: Проклятая опухоль
-			ManaStatue.MapEntry: Мана статуя
-			PyramidChestTile.MapEntry0: Пирамидный сундук
-			PyramidGateTile.MapEntry: Врата пирамиды
+			ManaStatue.MapEntry: Статуя маны
+			PyramidChestTile.MapEntry0: Сундук Пирамиды
+			PyramidGateTile.MapEntry: Врата Пирамиды
 			PyramidPots.MapEntry: Горшок
 			RoyalRubyShardTile.MapEntry: Осколок краеугольного камня
 			RubyKeystoneTile.MapEntry: Краеугольный камень
-			SarcophagusTile.MapEntry: Саркофагус
+			SarcophagusTile.MapEntry: Саркофаг
 			TaintedKeystoneShardTile.MapEntry: Искажённый осколок краеугольного камня
 			StrangeKeystoneTile.MapEntry: Краеугольный камень
 			ForgottenLampTile.MapEntry: Фальшивая лампа
 			ArkhalisChainTile.MapEntry: Потерянная цепь
 			ElectromagneticDeterrentTile.MapEntry: И.Р.Э.П.
-			EnchantedPickShrineTile.MapEntry: Храм кирки
-			EnchantedSwordShrineTile.MapEntry: Храм меча
+			EnchantedPickShrineTile.MapEntry: Святыня кирки
+			EnchantedSwordShrineTile.MapEntry: Святыня меча
 			MineralariumTile.MapEntry: Минерализатор
 			HydraulicPressTile.MapEntry: Гидравлический пресс
 
@@ -7733,12 +7734,12 @@ Mods: {
 
 			OtherworldCrateTile.MapEntry: Потусторонний ящик
 			PlanetariumCrateTile.MapEntry: Ящик Планетария
-			ChaosConduitTile.MapEntry: Хаотический конструкт
-			OtherworldConduitTile.MapEntry: Потусторонний конструкт
-			EvilConduitTile.MapEntry: Злой конструкт
-			InfernoConduitTile.MapEntry: Инфернальный конструкт
-			PermafrostConduitTile.MapEntry: Морозный конструкт
-			TidalConduitTile.MapEntry: Приливной конструкт
+			ChaosConduitTile.MapEntry: Хаотический трубопровод
+			OtherworldConduitTile.MapEntry: Потусторонний трубопровод
+			EvilConduitTile.MapEntry: Злой трубопровод
+			InfernoConduitTile.MapEntry: Инфернальный трубопровод
+			PermafrostConduitTile.MapEntry: Мёрзлый трубопровод
+			TidalConduitTile.MapEntry: Приливный трубопровод
 			GulaGatewayTile.MapEntry: Странные врата
 			AVPots.MapEntry: Горшок
 			AVMusicBoxTile.MapEntry: Музыкальная шкатулка
@@ -7797,7 +7798,7 @@ Mods: {
 			EvostonePots.MapEntry: Горшки
 			SeismicStationTile.MapEntry: Сейсмическая станция
 			TideChainTile.MapEntry: Приливная цепь
-			IraGatewayTile.MapEntry: Ирийские врата
+			IraGatewayTile.MapEntry: Врата гнева
 			ExcavatorMusicBoxTile.MapEntry: Музыкальная шкатулка
 		}
 
@@ -7844,7 +7845,7 @@ Mods: {
 
 				BossChecklistIntegration: {
 					EntryName: Аналитик
-					SpawnInfo: Уничтожьте 4 связанных конструкции потусторонности Планетариума.
+					SpawnInfo: Уничтожьте 4 связанных потусторонних конструкта Планетариума.
 					DespawnMessage: Аналитик больше не прислеждует вас...
 				}
 			}
@@ -7891,7 +7892,7 @@ Mods: {
 			}
 
 			PolarisCannon.DisplayName: Полярная пушка
-			PolarisLaser.DisplayName: Полярная четырёхствольная пушка
+			PolarisLaser.DisplayName: Четырёхствольная полярная пушка
 			PolarisSpike.DisplayName: Полярный шип
 
 			Glowmoth: {
@@ -7905,7 +7906,7 @@ Mods: {
 				}
 			}
 
-			GlowmothMinion.DisplayName: Люминисцентная моль
+			GlowmothMinion.DisplayName: Светящаяся моль
 			HookTurret.DisplayName: Гнилостная турель
 			PutridHook.DisplayName: Гнилостный крюк
 			PutridPinky1.DisplayName: Гнилостный пинки
@@ -7937,25 +7938,25 @@ Mods: {
 			# Constructs
 			ChaosConstruct.DisplayName: Хаотический конструкт
 			ChaosRubble.DisplayName: Рама хаотического конструкта
-			ChaosSpirit.DisplayName: Хаотический дух
+			ChaosSpirit.DisplayName: Дух хаоса
 			Collector.DisplayName: Собиратель
 			Collector2.DisplayName: Собиратель
 			EarthenConstruct.DisplayName: Земляной конструкт
 			EarthenConstructTail.DisplayName: Земляной конструкт
-			EarthenSpirit.DisplayName: Земляной дух
+			EarthenSpirit.DisplayName: Дух земли
 			EvilConstruct.DisplayName: Злой конструкт
-			EvilSpirit.DisplayName: Злой дух
+			EvilSpirit.DisplayName: Дух зла
 			InfernoConstruct.DisplayName: Инфернальный конструкт
-			InfernoSpirit.DisplayName: Инфернальный дух
+			InfernoSpirit.DisplayName: Дух инферно
 			NatureConstruct.DisplayName: Природный конструкт
-			NatureSpirit.DisplayName: Природный дух
+			NatureSpirit.DisplayName: Дух природы
 			OtherworldlyConstructHead.DisplayName: Потусторонний конструкт
 			OtherworldlyConstructHead2.DisplayName: Потусторонний конструкт
-			OtherworldlySpirit.DisplayName: Потусторонний дух
-			PermafrostConstruct.DisplayName: Морозный конструкт
-			PermafrostSpirit.DisplayName: Морозный дух
+			OtherworldlySpirit.DisplayName: Дух потусторонности
+			PermafrostConstruct.DisplayName: Мёрзлый конструкт
+			PermafrostSpirit.DisplayName: Дух мерзлоты
 			TidalConstruct.DisplayName: Приливной конструкт
-			TidalSpirit.DisplayName: Приливной дух
+			TidalSpirit.DisplayName: Дух прилива
 			# Inferno
 			LesserWisp.DisplayName: Меньший огонёк
 			# Phase
@@ -7979,15 +7980,15 @@ Mods: {
 			# Town
 			Archaeologist: {
 				DisplayName1: Странная проекция
-				DisplayName2: Археологист
-				DisplayName: Археологист
+				DisplayName2: Археолог
+				DisplayName: Археолог
 			}
 
 			# Anomaly
 			Ultracap.DisplayName: Энергетическая вуаль
 			Planetoid.DisplayName: Планетоид
 			ArcticGoblin.DisplayName: Арктический гоблин
-			BloomingHook.DisplayName: Цветущый страж
+			BloomingHook.DisplayName: Цветущий страж
 			BlueSlimer.DisplayName: Синий слизневик
 			FluxSlime.DisplayName: Флюсовый слизень
 			FluxSlimeBall.DisplayName: Крюк флюсового слизня
@@ -8002,7 +8003,7 @@ Mods: {
 			Maligmor.DisplayName: Опухолит
 			MaligmorChild.DisplayName: Опухолит
 			NatureSlime.DisplayName: Цветочный слизень
-			PhaseEye.DisplayName: Phase Eye
+			PhaseEye.DisplayName: Фазовый глаз
 			SittingMushroom.DisplayName: Сидящий гриб
 			SnakePot.DisplayName: Змея в кувшине
 			Teratoma.DisplayName: Тератома
@@ -8023,7 +8024,7 @@ Mods: {
 			BallOWorms.DisplayName: Червивый ком
 			BallOGutsPile.DisplayName: Ком внутренностей
 			Fistfull.DisplayName: Кулачник
-			MutagenTreasureSlime.DisplayName: Мутировавший слизень с сокровищами
+			MutagenTreasureSlime.DisplayName: Мутировавший драгоценный слизень
 			TardigradeBlue.DisplayName: Тихоходка
 			TardigradeBrown.DisplayName: Тихоходка
 			TardigradeGreen.DisplayName: Тихоходка
@@ -8043,16 +8044,16 @@ Mods: {
 			ExcavatorBody.DisplayName: Экскаватор
 			SubspaceWorm.DisplayName: Субпространственный червь
 			SanguineFoundry.DisplayName: Кровавая плавильня
-			LunaMoth.DisplayName: Лунный мотыль
+			LunaMoth.DisplayName: Лунный мотылёк
 			ExcavatorBody2.DisplayName: Экскаватор
 			ExcavatorTail.DisplayName: Экскаватор
 			ExcavatorDrillTail.DisplayName: Экскаватор
 			CoalCart.DisplayName: Пойманная вагонетка
 			Pupa.DisplayName: Разлагающийся
 			PupaFly.DisplayName: Трупная муха
-			VoidTreasureSlime.DisplayName: Пустотный слизень с сокровищами
+			VoidTreasureSlime.DisplayName: Пустотный драгоценный слизень
 			RotWalker.DisplayName: Гнилоход
-			GulaSpirit.DisplayName: Дух Гулы
+			GulaSpirit.DisplayName: Дух чревоугодия
 		}
 
 		Bestiary: {
@@ -8178,7 +8179,7 @@ Mods: {
 				ПЕРЕСЛАННОЕ СООБЩЕНИЕ
 				ОТ: ЦЕНТР
 				ОБРАЩЕНИЕ К САЙТУ «АЛЧНОСТЬ»...
-				ПЕРЕШЛИТЕ ЭТО СООБЩЕНИЕ НА САЙТ ИЗВЛЕЧЕНИЯ «ОБЖОРСТВО».
+				ПЕРЕШЛИТЕ ЭТО СООБЩЕНИЕ НА САЙТ ИЗВЛЕЧЕНИЯ «ЧРЕВОУГОДИЕ».
 				ВАША ОПЕРАЦИЯ ЗАВЕРШИЛАСЬ УСПЕХОМ.
 				ХУДШЕЕ В ГОЛОДОМОРЕ УДАЛОСЬ ИЗБЕЖАТЬ.
 				МЫ УЗНАЛИ ИСТИННУЮ ПРИРОДУ ЭТИХ ВРАТ.
@@ -8208,7 +8209,7 @@ Mods: {
 				МЫ ВЫПОЛНИЛИ ВСЕ ВАШИ ЗАДАЧИ. ДЛЯ ВАШЕЙ НАУКИ. ВЫ НЕСОМНЕННО НАЙДЁТЕ ПОЛЬЗУ В ВОЗРАЩЕНИИ НАС ДОМОЙ.
 				ПОЖАЛУЙСТА, ПУСТЬ ЭТО БУДЕТ НЕ ПОСЛЕДНЕЕ СООБЩЕНИЕ ВАМ ОТ НАС.
 				С УВАЖЕНИЕМ. 
-				        САЙТ ИЗВЛЕЧЕНИЯ «ОБЖОРСТВО».
+				        САЙТ ИЗВЛЕЧЕНИЯ «ЧРЕВОУГОДИЕ».
 				'''
 			Tardigrade: Эти маленьке водяные беспозвоночные способны выживать в суровых условиях низкого давления и интеснивной радиации, что позволило им жить в космосе.
 			Bridgeburner: Их разработали для сдерживания распростроняющегося зла, но тот факт, что теперь это самое зло контрлирует его, говорит о безусловном провале.
@@ -8277,11 +8278,11 @@ Mods: {
 			BossDescription: {
 				PutridPinky: Используйте {0} в любом биоме
 				PharaohsCurse: Нажмите на {0} в Проклятой Пирамиде
-				TheAdvisor: Уничтожьте 4 связаных конструкции потусторонности Планетариума
+				TheAdvisor: Уничтожьте 4 связаных потусторонних конструкта Планетариума
 				Polaris: Активируйте {0} в снегах с помощью {1}
 				Lux: Разгневайте духа хаоса
-				SubspaceSerpent: Разрушите пространственную брешь с помощью {0}
-				Glowmoth: Разрушьте светящийся шёлковый кокон или призовите вручную с помощью {0} в грибном биоме
+				SubspaceSerpent: Разрушите пространственную брешь в преисподней с помощью {0}
+				Glowmoth: Разрушьте светящийся шёлковый кокон или призовите вручную с помощью {0} в биоме светящихся грибов
 			}
 
 			BossDisappear: {
@@ -8300,7 +8301,7 @@ Mods: {
 			1: Увеличивает максимальное количество миньонов и стражей на 1
 			2: Увеличивает скорость атаки на 12%
 			3: Увеличивает шанс критического удара на 10%
-			4: Увеличивает урон критического удара на 30%
+			4: Увеличивает критический урон на 30%
 			5:
 				'''
 				Увеличивает количество исцеления, получаемое от зелий, на 40 ед.
@@ -8308,7 +8309,7 @@ Mods: {
 				'''
 			6:
 				'''
-				Увеличивает максимальный запас здоровья на 20
+				Увеличивает максимальный запас здоровья на 20 ед.
 				Увеличивает урон на 10%
 				'''
 			7: Увеличивает получаемое количество пустоты на 20%
@@ -8329,14 +8330,14 @@ Mods: {
 			2:
 				'''
 
-				Увеличивает скорость ближнего боя и передвижения на 10%
+				Увеличивает скорости ближнего боя и передвижения на 10%
 				Увеличивает высоту прыжка
 				'''
 			3:
 				'''
 
-				Дарует доступ к рецептам верстака, печи, наковальни и алхимического стола
-				Увеличивает максимальный запас маны и количество маны, получаемое от зелий на 40 ед.
+				Даёт доступ ко всем рецептам верстака, печи, наковальни и алхимического стола
+				Увеличивает максимальный запас маны и количество маны, получаемое от зелий, на 40 ед.
 				'''
 			4:
 				'''
@@ -8346,12 +8347,12 @@ Mods: {
 			5:
 				'''
 
-				Эффективность вражеской брони уменьшена на 50%
+				Эффективность вражеской брони снижена на 50%
 				'''
 			6:
 				'''
 
-				Пустотный урон увеличен на 10% и получаемая пустота увеличена на 20%
+				Увеличивает пустотный урон на 10% и получаемая количество пустоты на 20%
 				'''
 		}
 
@@ -8363,7 +8364,7 @@ Mods: {
 				Увеличивает скорость передвижения на 10%
 				Увеличивает скорость прыжка
 				'''
-			3: Увеличивает урон критического удара на 20%
+			3: Увеличивает критический урон на 20%
 			4: Увеличивает шанс критического удара на 6%
 			5: Увеличивает максимальный запас здоровья на 40 ед.
 			6: Ускоряет регенерацию здоровья на 2 (1 ОЗ/сек)
@@ -8385,7 +8386,7 @@ Mods: {
 			3: Увеличивает защиту на 2 ед. за каждое скопление в инвентаре, вплоть до 8 ед.
 			4: Снижает защиту на 20%
 			5: Увеличивает скорость передвижения на 5% за каждое скопление в инвентаре, вплоть до 20%
-			6: Ослабляет влияние гравиации
+			6: Ослабляет гравитацию для вас
 			7: Увеличивает магичсекий урон на 3% за каждое скопление в инвентаре, вплоть до 12%
 		}
 
@@ -8459,28 +8460,28 @@ Mods: {
 			Amethyst: Аметист: {0}
 			Diamond: Алмаз: {0}
 			Amber: Янтарь: {0}
-			Pack: Включен ли текстурпак: {0}
+			Pack: Включён ли текстурпак: {0}
 		}
 
 		PotGeneratorTileText: {
-			0: Status: N/A
-			1: Status: Complete
-			2: Time left: {0}
+			0: Статус: нет информации
+			1: Статус: завершено
+			2: Осталось секунд: {0}
 		}
 
 		MineralariumTileText: {
-			0: Status: Данные отсутсвуют
-			1: Status: Полон или что-то мешает
-			2: Percent Завершение: {0}%
+			0: Стутс: нет информации
+			1: Статус: полон или заграждён
+			2: Готовность: {0}%
 		}
 
 		PyramidGenerator: {
 			Speed: Скорость создания: {0}
 			StepNumber: Создание Пирамиды, шаг {0}
-			Warning0: Не нажимайте ПКМ по этому. Твой мир исчезнет
-			Warning1: Серьёзно. Я предупреждаю тебя
-			Warning2: Если что-то пойдёт не так, то только потому, что ТЫ попросил об этом
-			Warning3: Пусть же произойдёт НИЧЕГО!!!
+			Warning0: Не нажимай здесь ПКМ. Твой мир исчезнет.
+			Warning1: Серьёзно. Я предупреждаю тебя.
+			Warning2: Если что-то пойдёт не так, то только потому, что ТЫ попросил об этом.
+			Warning3: Да будет же НИЧЕГО!!!
 		}
 
 		Projectiles: {
@@ -8639,10 +8640,10 @@ Mods: {
 			EvilArm.DisplayName: Evil Construct Arm
 			EvilBolt.DisplayName: Umbra Ball
 			EvilExplosion.DisplayName: Evil
-			EvilGrowth.DisplayName: Nightmare Arms
+			EvilGrowth.DisplayName: Кошмарные руки
 			EvilSpear.DisplayName: Umbra Spear
 			EvilSpirit.DisplayName: Evil Spirit
-			EvilStrike.DisplayName: Nightmare Strike
+			EvilStrike.DisplayName: Кошмарный удар
 			EvilWave.DisplayName: Umbra Bolt
 			ExplosiveKnife.DisplayName: Explosive Knife
 			ExtendoBaguette.DisplayName: Extendo Baguette
@@ -8761,7 +8762,7 @@ Mods: {
 			NorthStarExplosion.DisplayName: North Starsplosion
 			NorthStarStar.DisplayName: North Star Star
 			ObsidianStar.DisplayName: Hellfury Star
-			OlympianAxe.DisplayName: Olympian Axe
+			OlympianAxe.DisplayName: Олимпийский боевой топор
 			OrangeWispLaser.DisplayName: Orange Wisp Laser
 			OriginLightningDamage.DisplayName: Origin Thunder
 			OriginLightningZap.DisplayName: Origin Thunder
@@ -8852,8 +8853,8 @@ Mods: {
 			RevolutionBolt.DisplayName: Revolution Bolt
 			RevolutionBoltDay.DisplayName: Revolution Bolt Day
 			RevolutionBoltNight.DisplayName: Revolution Bolt Night
-			RippleWave.DisplayName: Ripple Wave
-			RippleWaveSummon.DisplayName: Ripple Wave
+			RippleWave.DisplayName: Колыхающаяся волна
+			RippleWaveSummon.DisplayName: Колыхающаяся волна
 			Riptide.DisplayName: Riptide
 			RoseBow.DisplayName: Rose Bow
 			RubyBurst.DisplayName: Ruby Burst
@@ -9013,7 +9014,7 @@ Mods: {
 			EvostoneBobber.DisplayName: Evostone Bobber
 			EvostoneLongbow.DisplayName: Evostone Longbow
 			EvostonePebble.DisplayName: Evostone Pebble
-			NightIlluminator.DisplayName: Ночной осветитель
+			NightIlluminator.DisplayName: Ночной светильник
 			IlluminantAxe.DisplayName: Освещающий топор
 			IlluminantBolt.DisplayName: Освещающий выстрел
 			DimensionShredderLightning.DisplayName: Dimension Shredder Lightning
@@ -9130,7 +9131,7 @@ Mods: {
 				SOTS: {
 					KeyBindName: {
 						Blink.DisplayName: Телепорт
-						ArmorSet.DisplayName: Бонус сета
+						ArmorSet.DisplayName: Бонус комплекта
 						MFM.DisplayName: Переключить режим полёта
 						SlowFlight.DisplayName: Медленный полёт
 					}
@@ -9228,16 +9229,16 @@ Mods: {
 
 				AddPlightToVanillaRecipes: {
 					Label: Эссенция страдания в ванильных рецептах
-					Tooltip: Эссенция страдания будет использоваться в некоторых ванильных рецептах вместе с остальными эссенциями.
+					Tooltip: Эссенция страдания будет использоваться в некоторых ванильных рецептах вместе с остальными эссенциями
 				}
 
 				GeneratePhaseOreAfterDefeatingLux: {
-					Label: Создание фазовой руды после победы над Люксом
-					Tooltip: Отключите, чтобы предотвратить создание фазовой руды после первой победы над Люксом
+					Label: Создание фазовой руды после победы над Люкс
+					Tooltip: Отключите, чтобы предотвратить создание фазовой руды после первой победы над Люкс
 				}
 
 				NaturallySpawningPeanutBushes: {
-					Label: Естественное создание арахисовых кустов
+					Label: Естественное появление арахисовых кустов
 					Tooltip: Выключите, чтобы предотвратить рост арахисовых кустов на траве
 				}
 			}
@@ -9247,7 +9248,7 @@ Mods: {
 			0:
 				'''
 				Первый удар будет накладывать бессрочный суммирующийся эффект кровотечения, наносящий по 5 ед. урона в секунду
-				Увеличивает максимальный запас здоровье на 20 ед.
+				Увеличивает максимальный запас здоровья на 20 ед.
 				'''
 			1:
 				'''
@@ -9259,3 +9260,4 @@ Mods: {
 		}
 	}
 }
+

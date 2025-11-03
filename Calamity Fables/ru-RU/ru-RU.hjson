@@ -155,7 +155,7 @@ Mods: {
 			ManaMushroom.DisplayName: Мана-гриб
 			MushSlingshot.DisplayName: Грибной крюк
 			OvergrownClawProjectile.DisplayName: Клешня
-			OvergrownClawSlamHitbox.DisplayName: Землятрясение
+			OvergrownClawSlamHitbox.DisplayName: Землетрясения
 			SerratedMyceliumHook.DisplayName: Колючая нить
 			SporePodSplort.DisplayName: Брызг
 			SporethrowerJet.DisplayName: Споры
@@ -201,7 +201,7 @@ Mods: {
 			SpikedBallFragment.DisplayName: Осколок
 			SpikedBallProjectile.DisplayName: Колючий шар
 			WoodenDartProj.DisplayName: Деревянный дротик
-			MarniteDeconstructorProj.DisplayName: Мранитовый расщипитель
+			MarniteDeconstructorProj.DisplayName: Мранитовый расщепитель
 			MarniteRepulsionHitbox.DisplayName: Репульсионная матрица
 			MarniteObliteratorProj.DisplayName: Мранитовый уничтожитель
 			LittleDragonfish.DisplayName: Маленькая драконья рыба
@@ -1220,7 +1220,7 @@ Mods: {
 			}
 
 			DesertBrickPillar: {
-				DisplayName: Столб из песчанникового кирпича
+				DisplayName: Столб из песчаникового кирпича
 				Tooltip: ""
 			}
 
@@ -1774,7 +1774,7 @@ Mods: {
 			}
 
 			WulfrumAntennaItem: {
-				DisplayName: Вульфрумовая антена
+				DisplayName: Вульфрумовая антенна
 				Tooltip: ""
 			}
 
@@ -1871,7 +1871,7 @@ Mods: {
 				DisplayName: Вульфрумовый постер «Компьютер»
 				Tooltip:
 					'''
-					«Содержит целый терабайт оперативной памяти, всецельно использующийся для поисковой системы товаров Вульфрум Корпорейшен!
+					«Содержит целый терабайт оперативной памяти, всецело использующийся для поисковой системы товаров Вульфрум Корпорейшен!
 					Предоставляется с заранее установленной последней версией “Wulfrum OS DX“»
 					'''
 			}

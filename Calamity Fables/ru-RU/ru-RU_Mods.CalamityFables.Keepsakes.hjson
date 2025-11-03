@@ -5,7 +5,7 @@ Names: {
 
 Descriptions: {
 	NautilusPendant: Вручается членам Королевской Эскадры «Ремора».
-	Test: Тест тест откладка привет
+	Test: Test test debug hello
 }
 
 NameColors: {
@@ -17,3 +17,4 @@ TabNames: {
 	Open: Памятные трофеи
 	Close: Закрыть
 }
+

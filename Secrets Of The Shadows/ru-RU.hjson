@@ -7187,7 +7187,7 @@ Mods: {
 
 			OtherworldlySpiritAid: {
 				DisplayName: Духовная помощь
-				Description: Потусторонние духи помогает вам в бою
+				Description: Духи потусторонности помогает вам в бою
 			}
 
 			Overheat: {
@@ -9261,6 +9261,7 @@ Mods: {
 		}
 	}
 }
+
 
 
 

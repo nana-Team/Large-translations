@@ -8487,9 +8487,9 @@ Mods: {
 			AcornOfJustice.DisplayName: Жёлудь справедливости
 			AcornsOfJustice.DisplayName: Жёлудь справедливости
 			AdvisorPet.DisplayName: Advisor Pet
-			AncientGoldGateGems.DisplayName: Gems
+			AncientGoldGateGems.DisplayName: Самоцветы
 			AncientSteelHalberd.DisplayName: Ancient Steel Halberd
-			AncientSteelLongbow.DisplayName: Ancient Steel Bow
+			AncientSteelLongbow.DisplayName: Древний стальной лук
 			ArcColumn.DisplayName: Arc Thunder
 			ArclightBomb.DisplayName: Arclight Bomb
 			ArcLightning.DisplayName: Thundershock Lightning
@@ -8502,36 +8502,36 @@ Mods: {
 			AtenStar.DisplayName: Aten Star
 			AtenStarExplosion.DisplayName: Aten Starsplosion
 			AvaritianExplosion.DisplayName: Avaritian Explosion
-			BabyLaser.DisplayName: Green Laser
+			BabyLaser.DisplayName: Зелёный лазер
 			BackupArrow.DisplayName: Backup Arrow
 			BackupBowVisual.DisplayName: Backup Bow Visual
-			BerryBomb.DisplayName: Berry Bomb
+			BerryBomb.DisplayName: Ягодная бомба
 			BlackFlareShot.DisplayName: Black Flare
 			Blaspha.DisplayName: Blaspha
 			BlastDoorProj.DisplayName: Blast Door Proj
 			BlazingArrow.DisplayName: Blazing Arrow
-			BlazingMine.DisplayName: Spike Trap
+			BlazingMine.DisplayName: Ловушка с шипами
 			BlazingSpike.DisplayName: Blazing Spike
 			Blink1.DisplayName: Blinding Assault
 			BlinkDamage1.DisplayName: Blinding Assault
 			BlizzardProbe.DisplayName: Blizzard Probe
-			Bloodaxe.DisplayName: Bloody Hammer
-			BloodSpark.DisplayName: Blood Spark
+			Bloodaxe.DisplayName: Кровавый молот
+			BloodSpark.DisplayName: Кровавая искра
 			BloomingHook.DisplayName: Blooming Hook
-			BloomingHookMinion.DisplayName: Blooming Hook
+			BloomingHookMinion.DisplayName: Цветущий крюк
 			BluefireCrush.DisplayName: Bluefire Crush
-			BlueLightning.DisplayName: Blue Lightning
+			BlueLightning.DisplayName: Синяя молния
 			BlueThunderCluster.DisplayName: Thunder Cluster
 			BombFlare.DisplayName: Bomb Flare
 			BoneClapperCrusher.DisplayName: Bone Clapper Crusher
 			BoneCrush.DisplayName: Bone Crush
 			BoreBullet.DisplayName: Bore Bullet
-			BossBabyLaser.DisplayName: Red Laser
+			BossBabyLaser.DisplayName: Красный лазер
 			BrachialLance.DisplayName: Brachial Lance
 			BrachialPortal.DisplayName: Brachial Portal
 			BrightRedLaser.DisplayName: Artifact Laser
 			BubbleCrush.DisplayName: Bubble Crush
-			CactusSpine.DisplayName: Cactus Spine
+			CactusSpine.DisplayName: Шип кактуса
 			CardiacCollapseCrusher.DisplayName: Cardiac Collapse Arm
 			CataclysmBullet.DisplayName: Cataclysm Bullet
 			CataclysmBulletDamage.DisplayName: Cataclysm Bullet
@@ -8543,35 +8543,35 @@ Mods: {
 			CatalystBomb.DisplayName: Catalyst Bomb
 			CelestialLightning.DisplayName: Subspace Thunder
 			CellBlast.DisplayName: Cursespire
-			ChaosArrow1.DisplayName: Chaos Arrow
-			ChaosArrow2.DisplayName: Chaos Arrow
-			ChaosArrowBloom.DisplayName: Chaos Arrow Bloom
-			ChaosBall.DisplayName: Chaos Ball
-			ChaosBallFriendly.DisplayName: Chaos Ball
-			ChaosBeam.DisplayName: Chaos Beam
-			ChaosBloomExplosion.DisplayName: Chaos Bloom
-			ChaosCircle.DisplayName: Chaos Ring
+			ChaosArrow1.DisplayName: Хаотическая стрела
+			ChaosArrow2.DisplayName: Хаотическая стрела
+			ChaosArrowBloom.DisplayName: Цветение хаотической стрелы
+			ChaosBall.DisplayName: Хаотическая сфера
+			ChaosBallFriendly.DisplayName: Хаотическая сфера
+			ChaosBeam.DisplayName: Хаотический луч
+			ChaosBloomExplosion.DisplayName: Хаотическое цветение
+			ChaosCircle.DisplayName: Хаотическое кольцо
 			ChaosDart.DisplayName: Chaos Dart
 			ChaosDart2.DisplayName: Chaos Dart
-			ChaosDiamond.DisplayName: Chaos Diamond
+			ChaosDiamond.DisplayName: Хаотический алмаз
 			ChaosDiamondLaser.DisplayName: Shattering Laser
 			ChaosEraser.DisplayName: Hyperlight Eraser
 			ChaosEraser2.DisplayName: Redlight Eraser
 			ChaosHelixLaser.DisplayName: Chaos Helix Laser
-			ChaosPunch.DisplayName: Bizarre Adventure Fist
-			ChaosSnake.DisplayName: Chaos Snake
-			ChaosSphere.DisplayName: Chaos Ring
-			ChaosSpirit.DisplayName: Chaos Spirit
-			ChaosSpiritChain.DisplayName: Chaos Chain
-			ChaosStar.DisplayName: Chaos Star
-			ChaosThorn.DisplayName: Chaos Thorn
-			ChaosWave.DisplayName: Chaos Wave
-			ChargeBeam.DisplayName: Charge Ball
+			ChaosPunch.DisplayName: Кулак невероятных приключений
+			ChaosSnake.DisplayName: Хаотическая змея
+			ChaosSphere.DisplayName: Хаотическое кольцо
+			ChaosSpirit.DisplayName: Хаотический дух
+			ChaosSpiritChain.DisplayName: Хаотическая цепь
+			ChaosStar.DisplayName: Хаотическая звезда
+			ChaosThorn.DisplayName: Хаотический шип
+			ChaosWave.DisplayName: Хаотическая волна
+			ChargeBeam.DisplayName: Заряженная сфера
 			ChargedCataclysmBullet.DisplayName: Charged Cataclysm Bullet
 			ChargedHardlightArrow.DisplayName: Charged Hardlight Arrow
 			ClairvoyanceShade.DisplayName: Clairvoyance Shade
-			Coconut.DisplayName: Coconut
-			CoconutShrapnel.DisplayName: Coconut Shrapnel
+			Coconut.DisplayName: Кокос
+			CoconutShrapnel.DisplayName: Кокосовая дробь
 			CodeBurst.DisplayName: Code Burst
 			CodeVolley.DisplayName: Code Burst
 			CollapseLaser.DisplayName: Continuum Collapse
@@ -8581,40 +8581,40 @@ Mods: {
 			ContinuumSphere.DisplayName: Continuum Sphere
 			ColossusSlash.DisplayName: Colossus Slash
 			CrabCrusher.DisplayName: Crab Claw Crusher
-			CrossLaser.DisplayName: Unholy Light
+			CrossLaser.DisplayName: Нечистивый свет
 			CrystalSerpentBody.DisplayName: Crystal Serpent Counter
 			CrystalSerpentHead.DisplayName: Crystal Serpent
-			CurseArm.DisplayName: Curse
-			CurseBall.DisplayName: Curse
+			CurseArm.DisplayName: Проклятие
+			CurseBall.DisplayName: Проклятие
 			CursedBlade.DisplayName: Cursed Blade
 			CursedStab.DisplayName: Gas Slash
 			CursedThunder.DisplayName: Thunder Column
-			CurseExplosion.DisplayName: Curse
-			CurseExtension.DisplayName: Curse
-			CurseGhost.DisplayName: Curse Ghost
-			CurseRing.DisplayName: Curse
-			CurseSingularity.DisplayName: Cursed Singularity
+			CurseExplosion.DisplayName: Проклятие
+			CurseExtension.DisplayName: Проклятие
+			CurseGhost.DisplayName: Проклятый призрак
+			CurseRing.DisplayName: Проклятие
+			CurseSingularity.DisplayName: Проклятая сингулярность
 			CurseSpear.DisplayName: Cursed Impale
-			CurseSpike.DisplayName: Curse Spike
-			CurseWave.DisplayName: Curse
+			CurseSpike.DisplayName: Проклятый шип
+			CurseWave.DisplayName: Проклятие
 			CurveBolt.DisplayName: Curve Bolt
-			DarkEyeDamage.DisplayName: The Dark Eye
-			DarkLight.DisplayName: Dark Light
+			DarkEyeDamage.DisplayName: Тёмный глаз
+			DarkLight.DisplayName: Тёмный свет
 			DashIndicator.DisplayName: Cursespire
 			DashIndicator2.DisplayName: Cursespire
 			DataTransferProj.DisplayName: Data Transfer Proj
-			DeathBlade.DisplayName: Death's Touch
+			DeathBlade.DisplayName: Касание смерти
 			DeathSpiralProj.DisplayName: Death Spiral
 			DestabilizingBeam.DisplayName: Destabilizing Beam
 			DigitalSlash.DisplayName: Digital Slash
 			DigitalTrail.DisplayName: Digital Trail
 			DimensionalFlame.DisplayName: Dimensional Flame
 			DogmaLaser.DisplayName: Hyperlight Beam
-			DogmaSphere.DisplayName: Chaos Ball
+			DogmaSphere.DisplayName: Хаотическая сфера
 			Doomhook.DisplayName: Doomhook
-			DoomstickHoldOut.DisplayName: Doomstick
-			DoubleLaser.DisplayName: Double Laser
-			DoubleLaserExplosion.DisplayName: Double Laser
+			DoomstickHoldOut.DisplayName: Дроборок
+			DoubleLaser.DisplayName: Двойной лазер
+			DoubleLaserExplosion.DisplayName: Двойной лазер
 			DreamLaser.DisplayName: Dream Laser
 			DreamingSmog.DisplayName: Dream Smog
 			DreamBolt.DisplayName: Dream Bolt
@@ -9111,7 +9111,7 @@ Mods: {
 			ExcavatorBoltBig.DisplayName: Excavator Bolt Big
 			ExcavatorBoltSmall.DisplayName: Excavator Bolt Small
 			EvilBolt2.DisplayName: Evil Bolt
-			EvilEye.DisplayName: Evil Eye
+			EvilEye.DisplayName: Злой глаз
 			LuxBallProjectile.DisplayName: Spirit Golf Ball
 			DrillHand.DisplayName: Drill Hand
 			Boopy.DisplayName: Boopy
@@ -9259,4 +9259,5 @@ Mods: {
 		}
 	}
 }
+
 

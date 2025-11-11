@@ -1,12 +1,12 @@
 BloomBuffs: {
-	BloomSlotLocked: This slot is currently locked!
-	Duration: Duration:
-	DivaStacks: Stacks:
+	DivaStacks: Maximum Orbiters:
+	Revives: Revives Remaining:
+	DefenseBonus: Defense Bonus:
 	RightClick: (Right click to remove)
 }
 
 LittleEyeBounties: {
-	Bounty1: I tried to make a wacky monster a while back to defend my lab from intruders and those other pesky creatures that live down here. But, after a few mishaps, it escaped my lab and ran off to who knows where. You should go and hunt it down... oh and bring a piece of it back for me as well!
+	Bounty1: I tried to make a wacky monster a while back to defend my lab from intruders and other pesky creatures that live down here. But after a few mishaps, it escaped my lab and ran off to who knows where. You should go and hunt it down... oh and bring a piece of it back for me as well!
 	Bounty2: I got bored one day and ordered a weird book from Spook-bay so I could experiment with human souls. But, the guy on the website I bought it from didn't tell me that the book was full of nefarious bandits. After opening the delivery box, the book flew up to me and unleashed those trouble-makers who proceeded to cause a bunch of property damage to my lab! I think you should go and put an end to those hooligans.
 	Bounty3: So a long time ago, I took up sewing as a hobby. I am actually really really good at it, because I'm usually just good at everything I do. I even used my finest and most luxurious felt I got on one of my special trips. The problem is I left it in my lab one day, and the next it was just completely gone. Do you think you could find it for me? That felt cost me a fortune!
 	Bounty4: Ever tried cloning yourself? It's actually really awesome, most of the time at least. What isn't so awesome is when your clone gets praised for being powerful even though I'm the one who made it! However, I am already great, so please go fight that evil horrible thing and make sure it stays dead.
@@ -26,6 +26,27 @@ LittleEyeBounties: {
 	BountyCompletedItem: Click this button to get the item to summon this monster if you'd like to rematch it
 }
 
+RottenDepthsTerminal: {
+	Inbox: Doohickey Labs Inc. Mail Inbox
+	Sender: Sender
+	Message: Message
+	EmailSender1: @DoohickeyLabsInc
+	EmailTime1: 10:32 AM
+	Email1: Good morning, fellow employee! As a result of all your hard work, you are being granted a raise of $1.01 to your existing hourly pay! Keep up the good work! Kind regards, Doohickey Labs Management.
+	EmailSender2: @John425
+	EmailTime2: 12:25 PM
+	Email2: I really didn't think it was possible, but I did it somehow. The fish revival worked and now we've got a live specimen! I caught a glimpse of it being transported from my lab, and my goodness is it big. Dont really wanna know what its like to be close to it though!
+	EmailSender3: @DoohickeyLabsInc
+	EmailTime3: 4:47 PM
+	Email3: Automatic message from Doohickey Emergency Alerts: Specimen 01-D has escaped from its containment. All re-containment procedures are being executed immediately to allow for minimal property damage and prevent harmful substances from being released.
+	EmailSender4: @DoohickeyLabsInc
+	EmailTime4: 5:08 PM
+	Email4: Automatic message from Doohickey Emergency Alerts: Extreme damage sustained by Doohickey Labs underwater property. Large amounts of experimental virus 05-Zomb detected in the area. Evacuation protocols are being executed immediately to prevent massive loss of intelligence from personel caused by the virus.
+	EmailSender5: @John425
+	EmailTime5: 5:12 PM
+	Email5: HOLY HELL this entire underwater study is done for!! These cheap idiots couldn't be bothered to contain the specimen in a reinforced tank and now its wrecking everything. I just got the news that the zombie virus has been released and people are being infected. I've been developing a weapon in secret in case of an emergency like this but I haven't put the pieces together, and I am going to try doing it. It may be the last chance to destroy that monster.
+}
+
 EggEvent: {
 	EggEventBarProgress: Survive for:
 	EggEventBarDisplayName: Egg Incursion
@@ -35,4 +56,3 @@ PandoraBox: {
 	PandoraBoxBarDisplayName: Pandora's Box
 	PandoraBoxBarProgress: "Current Wave: "
 }
-

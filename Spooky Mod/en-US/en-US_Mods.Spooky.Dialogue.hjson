@@ -33,21 +33,21 @@ LittleBone: {
 	Cemetery1: This place is really foggy and spooky, I love it!
 	Cemetery2: Be aware of your surroundings, I have heard there are ghosts here that can potentially possess unsuspecting humans.
 	Cemetery3: The cemetery is a strange area, where zombies and other undead monsters come to life. Be careful around here!
-	CatacombFirstLayer1: Theres an awful lot of plants down here for an underground catacomb that has no sunlight...
+	CatacombFirstLayer1: There's an awful lot of plants down here for an underground catacomb that has no sunlight...
 	CatacombFirstLayer2: Careful, I have heard rumors of explorers getting crushed by giant rolling skulls!
 	CatacombFirstLayer3: Something about this place is strange. The undead creatures here are very odd compared to everywhere else.
 	CatacombSecondLayer1: There seems to be an infestation of strange plants down here. Some of them are even sentient!
 	CatacombSecondLayer2: I wonder how there is so much plant life down here, with absolutely no sunlight.
 	CatacombSecondLayer3: Something about this place is strange. These plant creatures seem weirdly familiar.
 	SpiderGrotto1: This place is a lot darker than I thought, I wonder what kind of people used to live down here?
-	SpiderGrotto2: Theres so many glowing eyes everywhere! I hope you don't get bitten by any deadly poisonous spiders.
+	SpiderGrotto2: There's so many glowing eyes everywhere! I hope you don't get bitten by any deadly poisonous spiders.
 	SpiderGrotto3: Ewww!!! There's so much sticky cobweb here, can we leave here soon?
 	Forest1: This forest is like the spooky forest... but where did all the spooky go?
 	Forest2: This is a nice area you've found! Very calm and peaceful.
 	Forest3: I like this place. This nice forest makes me feel at home, even outside of the spooky forest.
 	Snow1: Brrrr, this is a very cold forest!
-	Snow2: This place looks a bit spooky, but its awfully cold here!
-	Desert1: What is this horrible place? Its nothing but sand and awfully hot weather. I don't like this area.
+	Snow2: This place looks a bit spooky, but it's awfully cold here!
+	Desert1: What is this horrible place? It's nothing but sand and awfully hot weather. I don't like this area.
 	Desert2: Ouch! Why are there so many painful prickly plants here? I thought plants were supposed to be nice and friendly!
 	Desert3: Can we go somewhere else? Sand keeps getting inside my flower pot!
 	Jungle1: This is a really dense and humid forest. Very groovy!
@@ -80,12 +80,12 @@ LittleEye: {
 	Default8: Have you seen that giant pit of blood over there? I've seen some nasty things in there, but you can't just use any regular fishing rod in it.
 	OrroBoro: Hey, there's like a giant worm chasing you right now. Maybe go deal with that?
 	Upgrades: So, you've never heard about my cauldron? Well, if you obtain a sentient heart, you can combine it with specific weapons to turn them into something a little crazy. Sentient hearts are dropped by large and strong creatures, so make sure to look out for them! I have also heard rumors that killing a pair of serpents will also attract a strong creature in the blood lake which possesses them.
-	Quest1Accepted: Ok, so if you want to find the gremlin it'll probably be hungry. Take this yummy scrumptious slice of cake I've had saved and hopefully you'll be able to lure it out.
+	Quest1Accepted: Ok, so if you want to find the goblin it'll probably be hungry. Take this yummy scrumptious slice of cake I've saved and hopefully you'll be able to lure it out.
 	Quest2Accepted: With this bag of gold you should be able to attract those devious ghost bandits. Find them and show them what happens when you cause minor property damage to the lab I spent so much time making!
 	Quest3Accepted: Alright, since my sewing project is partially a spider, this dead fungus-covered beetle should do the trick! Just wait around and it'll probably smell it... or maybe detect it with whatever computer I put inside of it.
 	Quest4Accepted: Here's a container of my favorite eye drops, and since my clone is just me it should attract him as well. Be quick, I want him as dead as possible, as soon as possible.
 	Quest5Accepted: Take this special flask I made, which is constructed with materials you couldn't begin to comprehend. This should hopefully revert the barrier spell on the egg, but there's no telling what might happen when you use it. Always prepare for the worst!
-	Quest1Complete: You found that giant goblin much faster than expected! Also yay wow cool you survived somehow too!!! Anyways, here's this thread I used to sew the goblin together. I think it might be cursed so there's no telling what'll happen. I'm sure you'll get more use out of it anyway though.
+	Quest1Complete: You found that giant goblin much faster than expected! Also yay you survived somehow too! Anyways, here's this thread I used to sew the goblin together. I think it might be cursed so there's no telling what'll happen. I'm sure you'll get more use out of it anyway though.
 	Quest2Complete: Wow those chocola... I mean real gold coins worked! Anyways this book really scares me and spook-bay won't let me refund it, so I think maybe you should take it... and please don't bring it back here.
 	Quest3Complete: Yay you've managed to bring back my expensive felt I ho... What do you mean this is the only piece that didn't get destroyed? Ugh this is so small, I can't get anything from this... ok, here's this cloak I just made in a second for you, hope it can somehow help you in your adventures.
 	Quest4Complete: You have finally killed that dastardly evil-doer. For your efforts, please take this magical crystal ball to ponder and increase your power.
@@ -140,14 +140,14 @@ PartySkeleton: {
 SkeletonBouncer: {
 	Dialogue1: You must be new around here. I don't wanna see you getting into any trouble, these parties take a lot of time and effort to set up.
 	Dialogue2: Move along, go have fun and party. Just don't go bothering anyone.
-	Dialogue3: These parties are super fun. Just don't go around comitting crimes or I'll have to murder you with my machine pistol.
-	Dialogue4: Companies been supplying us with these new otherworldy guns. They claim its better than what we had before but I don't know, I swear I heard it scream.
+	Dialogue3: These parties are super fun. Just don't go around committing crimes or I'll have to murder you with my machine pistol.
+	Dialogue4: Companies been supplying us with these new otherworldly guns. They claim its better than what we had before but I don't know, I swear I heard it scream.
 	Dialogue5: ...
 }
 
 SuspiciousSkeleton: {
 	Dialogue1: Ey kid, you want some of em nightmare fuel? Hits the spot just right.
-	Dialogue2: My brother Tony's the supplier. Apperantly it's easier to get the stuff whenever them big guys ye've been fighting get beaten to a pulp. Don't ask me how it works, cuz I don't know.
+	Dialogue2: My brother Tony's the supplier. Apparently it's easier to get the stuff whenever them big guys ye've been fighting get beaten to a pulp. Don't ask me how it works, cuz I don't know.
 	Dialogue3: Ey kid! Yer too slow! Just sold someone a big golden ring earlier. Haven't heard from em in a minute though
 	Dialogue4: Sorry kid, I ain't got much to give ya right now. Ye've gotta beat up some big fellas before Tony can get his hands on the good stuff, ye see what I'm sayin?
 	Dialogue5: Yer asking me if I've tried the stuff? My brother in christ, I'm not stupid enough to. You are. Now buy more of my stuff.
@@ -160,10 +160,10 @@ SuspiciousSkeleton: {
 	Dialogue12: I've heard there's actually some stuff similar to what I sell lying around here. No idea how ye get it, Tony's been trying. If ye come across anythin real weird let me know ey?
 	Dialogue13: I hate parties but they do a good job at hiding my business.
 	Dialogue14: Ey, I don't sell no bone meal. That stuff is REAL nasty you hear me? Stay away from it if ye wanna keep your noggin.
-	Dialogue15: Ye know Tony told me apperantly some of the stuff he gets from his ventures has this kind of weird magnetism. Ye know they stick together like glue and what not? Oughta mean something.
+	Dialogue15: Ye know Tony told me apparently some of the stuff he gets from his ventures has this kind of weird magnetism. Ye know they stick together like glue and what not? Oughta mean something.
 	Dialogue16: If ye wanna get more goods, make sure ye go and kill some of them big fellas around. Gives Tony enough time to smuggle the stuff without bringing unwanted attention.
 	Dialogue17: Tony loves parties. Sucks that I don't, but I gotta do what I gotta do.
-	Dialogue18: Some of this stuff apperantly's got a lot of familial sentimental value to some folks. Not any folks here mind you, I ain't got time to be family counselor. If they wanted the stuff should've gotten it before Tony.
+	Dialogue18: Some of this stuff's apparently got a lot of familial sentimental value to some folks. Not any folks here, mind you, I ain't got time to be family counselor. If they wanted the stuff should've gotten it before Tony.
 	Dialogue19: You snooze, you lose. That's my motto kid, so get yer stuff while I'm here!
 	Dialogue20: Ye know one time ma brother Tony got lost in this weird town faaar away from here. Real foggy, couldn't see a thing, and it was filled with some real nasty ghouls. Not like us, more like, say the ones from the stuff I'm selling ye. Tony couldn't nab nothing from the place cause this cone-head freak kept chasing him around with a claymore.
 	Dialogue21: The real horror would be not buying the goods while ye got the chance to.
@@ -244,7 +244,7 @@ NoseWinged: {
 
 PandoraBox: {
 	Button: Open
-	Dialogue: It's a strange box with a weird aura emanating from it. Will you open it?
+	Dialogue: It's a strange box with a weird aura emanating from it. Perhaps the paranormal energy can be unleashed with a special ghost-hunting device...
 }
 
 SentientCap: {
@@ -264,4 +264,131 @@ TheMan: {
 	Five: Five
 }
 
-TheHorse: How hungry?
+KrampusDialogue: {
+	//quest 1
+	Dialogue1-1: Finally! After nine months one of you finally made it to the interview!
+	PlayerResponse1-1: Uhhhh...
+	Dialogue1-2: What, are ya nervous? BAHAHA! You are already hired, kid. In fact, I need you to do a delivery right now!
+	PlayerResponse1-2: ...You have the wrong person dude.
+	Dialogue1-3: WHAT?! Kid, you can't do this to me. Come on, I'll even pay you!
+	PlayerResponse1-3: MONEY?!
+	Dialogue1-4: Yes.
+	PlayerResponse1-4: SIGN. ME. UP!
+	Dialogue1-5: Great! Just take this, and deliver it to some townsfolk. If you do a good enough job you might only get one piece of coal this year.
+	PlayerResponse1-5: Ok.
+	//quest 2
+	Dialogue2-1: Oh, you are actually back? I thought you ran off or something.
+	PlayerResponse2-1: Nah.
+	Dialogue2-2: Perfect! Well, how did it go? Spread a lot of christmas cheer? Make someone's day better?
+	PlayerResponse2-2: Bro your present killed someone.
+	Dialogue2-3: I'm sorry, WHAT?!
+	PlayerResponse2-3: Yeah.
+	Dialogue2-4: I JUST started mass producing those things! I thought that... I have MILLIONS of them. All USELESS!
+	PlayerResponse2-4: Ok do I get paid now?
+	Dialogue2-5: Yes, you get paid... if you deliver another present!
+	PlayerResponse2-5: Bruh.
+	Dialogue2-6: BAHAHA! Take your pay, and your delivery. I’ve got a feeling this one will go much better, so long as YOU don’t screw it up!
+	PlayerResponse2-6: Ok, fine.
+	//quest 3
+	Dialogue3-1: There you are! You didn't mess up the delivery this time, yes?
+	PlayerResponse3-1: I didn't mess it up the other times.
+	Dialogue3-2: Sure! It must have gone so much better now that you have experience, yes?
+	PlayerResponse3-2: Nah it went worse.
+	Dialogue3-3: WHAT!
+	PlayerResponse3-3: The person I gave your gift to needs a closed casket funeral.
+	Dialogue3-4: WHAT?!
+	PlayerResponse3-4: You kinda suck at this.
+	Dialogue3-5: Have you NEVER been taught any manners, kid?! You are lucky you are the ONLY postman I have. Now, take your pay and go do your job.
+	PlayerResponse3-5: Fine bro.
+	Dialogue3-6: This time, this time I am SURE they'll love this gift. It’ll be a gift they'll NEVER forget! BAHAHAHAHA!
+	PlayerResponse3-6: Whatever you say.
+	//quest 4
+	Dialogue4-1: Ah, perfect! I was just waiting for you, I’ve got ten-thousand more of those ready to be delivered TODAY!
+	PlayerResponse4-1: Ummm...
+	Dialogue4-2: Come on kid! Don't keep me waiting! Give me ALL the details!
+	PlayerResponse4-2: Ok so, first it hurled itself at the person, then it tore off their nose, then it-
+	Dialogue4-3: NO NO NO! Nevermind...
+	PlayerResponse4-3: Ok whatever.
+	Dialogue4-4: GODAMNIT! Now I have to blast all of these things to HELL! It'll be fine, I STILL have one more thing. It has to work, It will SAVE christmas. I WILL save christmas!
+	PlayerResponse4-4: Dude its october.
+	Dialogue4-5: Yes it is october you IMBECILE! It's been october for the past three YEARS! And unless you want to make christmas even more ruined than it already is, you better take this and scram!
+	PlayerResponse4-5: Ok Ok, jeez...
+	Dialogue4-6: This WILL work, It HAS to...
+	PlayerResponse4-6: ...
+	//quest 5
+	Dialogue5-1: ...
+	PlayerResponse5-1: It didn't work.
+	Dialogue5-2: PERFECT! what a surprise...
+	PlayerResponse5-2: You suck at your job.
+	Dialogue5-3: IT'S NOT MY JOB! Or well... It shouldn't be. Somebody has been messing EVERYTHING up and now Nick can't get here anymore.
+	PlayerResponse5-3: Ok.
+	Dialogue5-4: Damnit, I knew that I couldn't do it. I guess I can’t be much more than Krampus...
+	PlayerResponse5-4: Give me my money.
+	Dialogue5-5: Yes, yes... there is one more delivery I have for you. After that you are free to not come back. Ever.
+	PlayerResponse5-5: Sure.
+	Dialogue5-6: PLEASE just, go. And make sure no one dies this time...
+	PlayerResponse5-6: Sure.
+	//post final quest
+	Dialogue6-1: Did you do the delivery?
+	PlayerResponse6-1: Yes, but...
+	Dialogue6-2: Do not bother. Take your pay, and leave me be.
+	PlayerResponse6-2: Ok but-
+	Dialogue6-3: WHAT?
+	PlayerResponse6-3: ...Little eye liked your gift.
+	Dialogue6-4: WHAT?!
+	PlayerResponse6-4: Yeah, he said it awes-
+	Dialogue6-5: YES! YES! I DID IT! I have finally DONE IT! I have made something that someone ACTUALLY likes! Oh kid you have just made me the happiest demon in the world!
+	PlayerResponse6-5: Wait you're a demon?
+	Dialogue6-6: MINIONS! Get sawing, knitting, welding, and weaving! Christmas is not over yet, and it'll be christmas MY way! BAHAHAHAHAHA!
+	PlayerResponse6-6: Uh, ok so-
+	Dialogue6-7: And YOU! You've got a lot of delivering to do now!
+	PlayerResponse6-7: ...Oh no.
+	//the player lost the present somehow
+	DialogueNoPresent-1: Hm? Back so soon?
+	PlayerNoPresent-1: I need another present.
+	DialogueNoPresent-2: Ah, trying to multitask? Commendable kid, reminds me of Nick.
+	PlayerNoPresent-2: No I lost the present.
+	DialogueNoPresent-3: What? HOW!?
+	PlayerNoPresent-3: I dunno.
+	DialogueNoPresent-4: You are LUCKY that I have another gift ready. Take it, and don't lose it.
+	PlayerNoPresent-4: Ok!
+	//the player has the present already
+	DialoguePresent-1: Ah, did you deliver the gift?
+	PlayerPresent-1: No.
+	DialoguePresent-2: Then... why are you here?
+	PlayerPresent-2: I don't know.
+	DialoguePresent-3: Ok?
+	PlayerPresent-3: ...
+	DialoguePresent-4: Go do the job I'm paying you for, NOW!
+	PlayerPresent-4: Ok ok jeez...
+	//the players inventory is full
+	DialogueInvFull-1: ...Uhh, kid I don't think you can carry this.
+	PlayerInvFull-1: What do you mean?
+	DialogueInvFull-2: There is nowhere this can fit on your person, kid.
+	PlayerInvFull-2: Nah I can do it.
+	DialogueInvFull-3: I'll just leave it on the floor for now I guess.
+	PlayerInvFull-3: ...
+	//little eye krampus quest dialogue
+	LittleEye1: Whoa! What's this thing?!
+	PlayerLittleEye1: Uhhh, some gift from krampus?
+	LittleEye2: Well whatever it is, it's amazing! I've always wanted a giant teddy bear to keep me company down here!
+	PlayerLittleEye2: So... you like the gift?
+	LittleEye3: Yes of course! This is the most awesome thing ever! I think I'll name him Cornelius!
+	PlayerLittleEye3: Alright... I guess I'll go let krampus know you like it then.
+	//daily quests
+	DailyQuest1-1: Alright kid, I've got a new present I think that little eye guy will quite like!
+	PlayerDailyQuest1-1: How psychotic is it this time?
+	DailyQuest1-2: PSYCHOTIC? Not at all, BAHAHAHAHA! Alright, make sure little eye gets this soon.
+	PlayerDailyQuest1-2: Alright.
+	DailyQuest2-1: Hey kid, I've been mass producing this one toy again! I think it'll be a huge hit in... wherever that eyeball fella lives!
+	PlayerDailyQuest2-1: Uhhh... sure.
+	DailyQuest2-2: Alright kid, I'm relying on you, make sure he gets this one pronto!
+	PlayerDailyQuest2-2: Ok.
+	//daily quest complete
+	DailyQuestComplete: Nice job on the delivery! Here's another reward for your troubles.
+	PlayerDailyQuestComplete: Yay!
+	//no daily quest available
+	NoDailyQuestDay: Sorry kid, still working on the next gift! Come back tonight and it'll be ready.
+	NoDailyQuestNight: Next one's still work in progress, sorry kid. I should have it done tomorrow morning!
+	PlayerNoDailyQuest: Ok.
+}

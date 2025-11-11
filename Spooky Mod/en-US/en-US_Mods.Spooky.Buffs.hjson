@@ -3,16 +3,11 @@ BustlingGlowshroomHeal: {
 	Description: Your life regeneration is greatly increased
 }
 
-DaffodilHairpinCooldown: {
-	DisplayName: Thorn Petal Cooldown
-	Description: Your petal ring is regrowing
-}
-
 EmbryoRevival: {
 	DisplayName: Embryotic Revival
 	Description:
 		'''
-		The embyro has saved you from death
+		The embryo has saved you from death
 		Majorly increases defense and life regeneration
 		'''
 }
@@ -24,12 +19,7 @@ FlyBuff: {
 
 SkullFrenzyBuff: {
 	DisplayName: Necromantic Frenzy
-	Description: Increased damage, critical strike chance, knockback, and movement speed
-}
-
-SnottySchnozCooldown: {
-	DisplayName: Snotty Schnoz Cooldown
-	Description: Your booger frenzy is recharging
+	Description: Massive buff to your attack speed
 }
 
 BouncerDeathmark: {
@@ -39,7 +29,7 @@ BouncerDeathmark: {
 
 CatacombDebuff: {
 	DisplayName: Curse of the Catacombs
-	Description: A curse is reducing your vision
+	Description: A curse is heavily reducing your vision!
 }
 
 CrossCooldown: {
@@ -69,21 +59,6 @@ EnsnaredDebuff: {
 HallucinationDebuff1: {
 	DisplayName: The Man
 	Description: There is no escape
-}
-
-HallucinationDebuff2: {
-	DisplayName: The Baby
-	Description: It is crying
-}
-
-HallucinationDebuff3: {
-	DisplayName: The Horse
-	Description: The horse is here...
-}
-
-HallucinationDebuff4: {
-	DisplayName: The Flesh
-	Description: You feel worthless
 }
 
 FleshWhipCooldown: {
@@ -218,7 +193,7 @@ CatBuff: {
 
 ColumboBuff: {
 	DisplayName: Columbo
-	Description: The creature lurks behind you
+	Description: The being of organic
 }
 
 FlyPetBuff: {
@@ -257,7 +232,7 @@ PetscopMarvinBuff: {
 }
 
 PetscopTiaraBuff: {
-	DisplayName: Petscop Tiara Buff
+	DisplayName: Tiara
 	Description: Tiara plays bad music too
 }
 
@@ -400,11 +375,6 @@ LeechBuff: {
 	Description: The leech will fight with you
 }
 
-ToothyDebuff: {
-	DisplayName: Toothy Debuff
-	Description: ""
-}
-
 SentientKeybrandDebuff: {
 	DisplayName: Sentient Keybrand Debuff
 	Description: ""
@@ -465,19 +435,9 @@ GlassEyeDebuff: {
 	Description: ""
 }
 
-GlassEyeCooldown: {
-	DisplayName: Glass Eye Shattered
-	Description: Your glass eye has been shattered
-}
-
 StitchedCloakCooldown: {
 	DisplayName: Stitched Cloak Cooldown
 	Description: You cannot use your stitched cloak dash
-}
-
-StitchedCloakWebSlow: {
-	DisplayName: Stitched Cloak Web Slow
-	Description: ""
 }
 
 OrroboroPetBuff: {
@@ -510,6 +470,16 @@ PuttyPetBuff: {
 	Description: The putties are hopping along with you
 }
 
+PiercedBleedDebuff: {
+	DisplayName: Pierced Bleed Debuff
+	Description: ""
+}
+
+PiercedDebuff: {
+	DisplayName: Pierced Debuff
+	Description: ""
+}
+
 SinisterSnailBuff: {
 	DisplayName: Sinister Snail
 	Description: Its all grown up!
@@ -518,4 +488,179 @@ SinisterSnailBuff: {
 SpookFishronMinionBuff: {
 	DisplayName: Spooky Pigron
 	Description: The pigron will protect you
+}
+
+PepperMinionBuff: {
+	DisplayName: Small Jalapeno
+	Description: The jalapenos will swarm your foes
+}
+
+EggplantWhipDebuff: {
+	DisplayName: Eggplant Whip Debuff
+	Description: ""
+}
+
+ShroomWhipDebuff: {
+	DisplayName: Shroom Whip Debuff
+	Description: ""
+}
+
+LeechWhipDebuff: {
+	DisplayName: Leech Whip Debuff
+	Description: ""
+}
+
+SentientLeatherWhipDebuff: {
+	DisplayName: Sentient Leather Whip Debuff
+	Description: ""
+}
+
+PepperSpice: {
+	DisplayName: Pepper Spice
+	Description: ""
+}
+
+SpiderSlingshotSlow: {
+	DisplayName: Spider Slingshot Slow
+	Description: ""
+}
+
+SeaSpongeBuff: {
+	DisplayName: Scrubby Absorption
+	Description: 15% increased damage reduction
+}
+
+CemeteryLilyBuff: {
+	DisplayName: Lily Rebirth
+	Description: 10% increased damage, crit chance, and damage reduction
+}
+
+CucumberStomachDebuff: {
+	DisplayName: Cucumber Stomach Debuff
+	Description: ""
+}
+
+DutchmanPipeDebuff: {
+	DisplayName: Dutchman Pipe Debuff
+	Description: ""
+}
+
+ColumboneBuff: {
+	DisplayName: Columbone
+	Description: The being of bone
+}
+
+ColumbooBuff: {
+	DisplayName: Columboo
+	Description: The being of ghost
+}
+
+ColumborangeBuff: {
+	DisplayName: Columborange
+	Description: The being of round
+}
+
+ColumboPetCombinedBuff: {
+	DisplayName: Columbo Family
+	Description: The ancient powerful family travels with you
+}
+
+GhostPepperMinionBuff: {
+	DisplayName: Ghost Pepper
+	Description: The ghost pepper protects you
+}
+
+NerveWhipDebuff: {
+	DisplayName: Nerve Whip Debuff
+	Description: ""
+}
+
+SteroidBuff: {
+	DisplayName: Steroid Strength
+	Description: You feel strong, 20% increased damage
+}
+
+SteroidWeakness: {
+	DisplayName: Steroid Withdrawal
+	Description: You are having withdrawls, 15% decreased damage
+}
+
+SpearfishBleed: {
+	DisplayName: Spearfish Bleed
+	Description: ""
+}
+
+CavefishStunned: {
+	DisplayName: Cavefish Stunned
+	Description: ""
+}
+
+HazmatMinionToxic: {
+	DisplayName: Hazmat Minion Toxic
+	Description: ""
+}
+
+TurkeyMountBuff: {
+	DisplayName: Riding a Turkey
+	Description: Gobble gobble!
+}
+
+Tarred: {
+	DisplayName: Tarred
+	Description: ""
+}
+
+LongisquamaPetBuff: {
+	DisplayName: Longisquama
+	Description: The longisquama follows you
+}
+
+ChalupoBuff: {
+	DisplayName: Chalupo & Chalupa
+	Description: The spicy pepper ghosts hover around you
+}
+
+KrampusBricksCooldown: {
+	DisplayName: Stik Brix Cooldown
+	Description: You have run out of stik brix
+}
+
+CursedDollDebuff: {
+	DisplayName: Cursed Doll Debuff
+	Description: ""
+}
+
+StockingMinionBuff: {
+	DisplayName: Krampus' lil Helpers
+	Description: The little helpers will defend you!
+}
+
+YuletideArmorCooldown: {
+	DisplayName: Yuletide ignite Cooldown
+	Description: You cannot ignite yourself
+}
+
+KrampusShapeBuff: {
+	DisplayName: Wooden Shape Boost
+	Description: Increases defense, damage, and attack speed
+}
+
+NineTailsDebuff: {
+	DisplayName: Nine Tails Debuff
+	Description: ""
+}
+
+TitanoboaWhipDebuff: {
+	DisplayName: Titanoboa Whip Debuff
+	Description: ""
+}
+
+EelTagDebuff: {
+	DisplayName: Eel Tag Debuff
+	Description: ""
+}
+
+ThornRoseBleed: {
+	DisplayName: Thorn Rose Bleed
+	Description: ""
 }

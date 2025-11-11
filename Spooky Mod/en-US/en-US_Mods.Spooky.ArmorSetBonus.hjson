@@ -9,30 +9,46 @@ WizardGangsterArmor2:
 	Grants 2% decreased mana usage for each gold coin you have
 	This stops scaling after you have more than 10 gold coins
 	'''
+BroccoliArmor: Minions will sometimes plant damaging broccoli on enemies
+GoldrushArmor: All of your attacks inflict midas, causing enemies to drop more money
+YuletideArmor:
+	'''
+	Double tap Down to combust and scatter damaging embers
+	This ability has a 20 second cooldown before it can be used again
+	'''
+SharkBoneArmor:
+	'''
+	Summons a skeleton shark friend to fight with you
+	The shark's power will scale based on the power of any fishing rod you are holding
+	'''
 GourdArmor:
 	'''
-	Melee weapons may inflict decay, which damages enemies over time
-	After a while, decay will also lower their attack and defense
+	Weapons may inflict decay on enemies sometimes 
+	Decay damages enemies over time and lowers their defense
 	'''
 RootArmor: Your ranged projectiles have a chance to heal you
 SpiderArmor:
 	'''
-	Press the Armor Bonus Hotkey to enter spider stealth for 10 seconds
-	Upon entering spider stealth you will briefly stun nearby enemies
+	Double tap Down to enter spider stealth for 10 seconds
 	While in spider stealth your damage reduction is increased by 12%
 	This ability has a 2 minute cooldown before you can use it again
 	'''
 SpiritHorsemanArmor: Your own head will now fight with you!
 EyeArmor:
 	'''
-	10% increased whip range
+	15% increased whip range
 	Hitting enemies with whips will sometimes spawn eyes to deal additional damage
 	'''
 FlowerArmor:
 	'''
 	Greatly increases your life regeneration
-	Press the Armor Bonus Hotkey to summon clumps of pollen to attack your enemies
+	Double tap Down to summon clumps of pollen to attack your enemies
 	This ability has a 30 second cooldown before it can be used again
+	'''
+HazmatArmor:
+	'''
+	Gain a toxic goo friend for each bloom buff you have
+	Your minions become radioactive, causing damage over time to enemies near them
 	'''
 GoreArmorOrro: Summons a baby orro to fight with you!
 GoreArmorBoro: Summons a baby boro to fight with you!

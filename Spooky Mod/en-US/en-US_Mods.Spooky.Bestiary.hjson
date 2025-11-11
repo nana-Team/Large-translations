@@ -2,8 +2,8 @@
 BigBone: The long lost brother of little bone who is trapped away in the catacombs due to his immense power. His floral magicks have taken over the catacombs, spreading strange plant life all throughout.
 Daffodil: A giant and lazy flower that spends most of her time sleeping. She is supposed to watch over the deep catacombs entrance, only letting those she deems worthy to continue further.
 Moco: The legendary flying schnoz, said to only appear when a mere mocling is blessed by the nose cultists special ritual. Its newfound power has mutated both its size and power massively, and allows it to control and command other moclings to help it.
-OrroHead: A fast and calculated serpent that works together with Boro to defend its territory. These serpents are growing constantly, and consume each other in an endless cycle.
-BoroHead: A blind and aggressive serpent that works together with Orro to defend its territory. Old myths say that the valley of eyes is made from the leftover flesh chunks these serpents have torn off each other.
+OrroHead: A fast serpent that works together with Boro to defend its territory. These serpents are growing constantly, and consume each other in an endless cycle.
+BoroHead: An aggressive serpent that works together with Orro to defend its territory. Old myths say that the valley of eyes is made from the leftover flesh chunks these serpents have torn off each other.
 RotGourd: This giant rotting husk and their little fly friends are not fond of invaders in their land. Rotty will aggressively jump while jerry acts as a turret, spitting nasty mold spores and bugs.
 SpookFishron: Certain species of fishron are more unique than others. This one has become more powerful after consuming an evil pumpkin spice latte that gave it spooky magic. It can be seen extremely rarely hunting for its favorite treat under the night of a harvest moon.
 SpookSharkron: Mutant sharks conjured by spook fishron using flaming tornados that fling them around as projectiles. They are also extremely volatile and will explode into flames on death.
@@ -76,32 +76,35 @@ Chester: The strongest soul in pandora's box, it wields an unusually powerful cl
 BloatGhost: Very easy to frighten ghosts that puff up when someone gets too close. They can be hazardous when large groups of them are approached.
 FeralRat1: During a blood moon, normally hidden rats wandering around the cemetery get turned into hideous monsters that will chase down anything they see.
 FeralRat2: Giant rabid rodents that quickly scurry across the cemetery during the red moon, attacking anything in their path.
-HungryGhost: A very lazy ghost that floats around the cemetery. Despite it trying to eat living things, its ghostly body allows any living creature to slip through it.
+HungryGhost: A very lazy ghost that waits around until someone or something approaches so it can eat it. It is much faster than it looks!
 MistGhost: Sometimes grave robbing can have deadly results. These ghosts do not like their burials being disturbed, and will attack anyone who does so.
 MistGhostFaces: An amalgamation of souls combined into one after being buried in the cemetery. Their graves being messed with disturbs them and causes this fusion.
+MistGhostSwirl: Erratic ghosts unleashed from their graves, they move around in hypnotic patterns to confuse those who disturb them.
 MistGhostWiggle: These ghosts are powered with magic and are very erratic as a result. Despite this, they will still attack those who dig up their tombs.
 Possessor: These evil ghosts wander around the cemetery at night, maliciously stalking any target it wishes to possess.
 SadGhostBig: Larger ghosts that are constantly sad for some reason. They spend their time wandering the cemetery, and can use their emotions as a weapon.
 SadGhostSmall: Sad ghosts that mope around the cemetery, inflicting their sadness onto others when nearby.
-SmileGhost: A very happy and jolly spirit, so happy infact that it even has its own group of little followers. However, they are not as nice as they may look.
+SmileGhost: A very happy and jolly spirit, so happy infact that it even has its own group of little followers. However, they are not as nice towards the living.
 SpookyDance: Spooky month lasts all year! At least these happy ghosts think so!
 TinyRat1: Small rodents that live in the cemetery, they scurry along quietly.
 TinyRat2: These rodents are small and cute, but who knows how dirty they are?
 ZomboidCasket: A moving casket with legs on the bottom. Contains a wonderful surprise for anyone who dares to destroy it!
 ZomboidGremlin: Small zomboids with an unusual amount of hostility compared to other zomboids. They will chase any target down despite their comically small size.
 //egg event
+BileStomach: These living stomachs have a special and extremely corrosive bile inside of their bodies which they can use to digest and break down living things, even outside of their body.
 Biojetter: A creature with multiple extendable eyes that allow it to see from multiple angles and directions, along with biothrusters which allow it to fly by expelling nasty organic goo. It stores tons of this goo in its body, making it very volatile.
 CoughLungs: Filled with a nasty ichor gas, it can cough it up to create lingering clouds that are harmful when breathed in.
 CruxBat: A strange flying brain-like creature. With constant power being pumped into it from its heart, it can use psychic power to conjure auras that weaken their foes.
 EarWorm: It is unknown if these are actually burrowing worms or if they are perpetually attached to the ground. They can attack by emitting high-frequency screams in the form of a powerful sound blast.
 ExplodingAppendix: While not exactly powerful, these sacks of flesh can explode themselves as an attack to release the harmful ichor that they store inside of them.
-FleshBolster: Using the eye tendrils attached to its main sac, it can directly inject its power into other creatures to make them immune to attacks.
+FleshBolster: Using their tendrils attached to the ground, they can create large flesh tendrils from below to attack unsuspecting foes.
 GooSlug: Hungry and brainless, they will attempt to eat anything they can bite or fit in their mouth. Luckily though they are picky eaters, and will spit things out if they taste bad.
 HoppingHeart: With their squishy flesh they can easily rebound and jump off the ground. The tube on their head can be used to shoot out harmful blood with pressure from inside its body.
 HoverBrain: A large brain with psychic power that can fire out beams to mess with other creatures brains, after which they can go in close range to kill their target.
 TongueBiter: A mutated tongue with a large mouth for clamping down on prey. It can use the many tubes coming off of its back as boosters to propel itself through the air.
 //friendly town npcs
 DumbZomboid: A zomboid that got lost. It does not know how to read. Or think.
+Krampus: The real krampus. A lazy yet incomprehensibly powerful demon who created a labyrinth-like workshop deep in the underground tundra. He could use his powers to cause wide-spread misfortune, he prefers to try and create toys to spread christmas cheer. Though he seems to having a bit of a difficult time doing that.
 LittleBone: A friendly skull plant creature who hangs around in his flower pot. He likes to give advice to passerbys.
 LittleEye: A strange sentient eye stalk with a cool wizard hat. A decently experienced alchemist who prefers using his skills to mess with others, but can be helpful at times.
 Musicman: Alien scientist gone rogue, Musicman has become your personal DJ. He looks like he's trying to communicate...
@@ -122,7 +125,7 @@ CandleMonster: It is unknown how they are formed, but these candles are not as w
 Chungus: Chunky and squishy mushrooms that hop around the mushroom moss fields underground. They welcome adventurers by spitting harmful spores out of their mouth.
 FluffBatBig1: Bigger fuzz bats that live in the damp underground spooky forest. They dislike their living space being intruded on.
 FluffBatBig2: Larger balls of fluff that fly around the underground spooky forest. These more aggressive relatives of cave bats will chase any intruder away from its home.
-FluffBatSmall1: At night, strange bats covered in a thick coat of fur will awaken and attack unsuspecting adventurers.
+FluffBatSmall1: Strange bats covered in a thick coat of fur that will pester unsuspecting adventurers in the underground spooky forest.
 FluffBatSmall2: Little balls of fuzz with wings. Despite how cute that sounds, they are actually very aggressive and territorial.
 FlyBig: Bigger and grosser flies. Their wings look too small to allow flight, but they do anyways.
 FlySmall: Gross and irritating flies that hover around the spooky forest.
@@ -169,7 +172,7 @@ Tortumor: These weirdly non-hostile blobs of flesh have a special gas in their b
 TortumorGiant: Rarely these mutated tortumors can be spotted floating around aimlessly in the eye valley. The gas in their body is extremely volatile and will combust if the tortumor is injured enough.
 TortumorFleshy: The first known creatures created by the eye valley. Before it learned how to mimic other life forms, the eye valley could only create these disorganized clumps of flesh and bone.
 TortumorGiantFleshy: It is unknown why the eye valley continues to create these primitive creatures. The flesh they are made from allows them to easily grow smaller tortumors inside of them, which they can use to attack prey.
-ValleyFish: A small fleshy fish commonly found in the blood lake. Though small, its fast mobility can underwhelm those who aren't prepared.
+ValleyFish: A small fleshy fish commonly found in the blood lake. Though small, its fast mobility can overwhelm those who aren't prepared.
 ValleyNautilus: A powerful mutant nautilus that lurks in the blood lake. It can use blood and oxygen stored in its chambered body to float and shoot out various harmful projectiles
 ValleySquid: They can use their gas filled heads to float, and even fly out of blood. They can shoot out globs of bloody ink that slow down its prey.
 ValleyEel: Large eels covered in a thick membrane, allowing them to move quickly through both blood and air. They are fast and adept hunters, capable of confusing and outrunning almost anything.
@@ -211,7 +214,7 @@ WhipSpider: These creatures are actually more related to crustaceans than spider
 NoseBallPurple: A large amalgam of noses fused together with the cult leader's magic. They can jump around off of surfaces by blowing air out of their many noses.
 NoseBallRed: Created by Noseferatu, they chaotically propel themselves around to serve as a distraction. They are formed using parts of other cultists who willingly sacrificed themselves.
 NoseCultistGrunt: Members of the nose cult, they are extremely devoted to their rituals. They also have a constant runny nose which they can use against their enemies.
-NoseCultistGunner: Armed with the cult's own creation, the booger blaster. An important weapon to the cultists, who claim to recive holy telephathic messages from them.
+NoseCultistGunner: Armed with the cult's own creation, the booger blaster. An important weapon to the cultists, who claim to recive holy telepathic messages from them.
 NoseCultistWinged: Higher ups in the cult have mutated and grown wings, which can quickly carry them through the air. They are seen as divine due to this unique ability to fly, like the one they worship.
 NoseCultistMage: Seen as much higher above the grunts of the cult, these cultists are larger and can summon reinforcements with their magical snot.
 NoseCultistBrute: Once grunt cultists, they have been blessed with divine snot magic, turning them into mindless and powerful brutes. Their sticky snot flail takes no effort for them to swing around.
@@ -223,3 +226,57 @@ StitchSpider: A sewing project turned chimera, this spider-like creature made ou
 EyeWizard: Little eye's most successful experiment, a large clone of himself that possesses enchanced magic abilities, can use various spells, and can move freely without being stuck on the ground. After finding a stylish cloak and hat it left little eye's lab to hone its skills further, making little eye extremely jealous.
 FrankenGoblin: In an attempt to make a guardian for his lab, little eye instead created a horrible frankensteined goblin with an incredibly lazy but hostile personality. It is also equipped with extendable stretchy arms for grabbing things, and can call upon eyes to assist it in combat.
 BanditBook: A group of grave-robber's souls trapped within a tome for their mischevious behavior. After being sold to little eye, the book was mistakenly opened. They took the chance to escape from little eye's lab, and have found their way to the cemetery to try and steal treasure from the catacombs like they once did before death.
+//tar pits
+TarSlime1: The predecessors of all slime species, these prehistoric blobs are on the search for ancient fossils to possess.
+TarSlime2: The tar they are made of allows them to take many forms. They enjoy searching for fossils of ancient creatures and adding them to their bodies.
+Tarrar: Not all tar slimes find fossils to use for their bodies. Some decide to rejoin their brethren in the depths of the tar pits, where they grow in size massively. They wait in pools of tar for foolish explorers to devour.
+Tarblimp: Even after finding a Sea Blimp fossil to wear, some tar slimes crave the feeling of home. While they are incredibly slow, being in the tar allows them to reform themselves indefinitely unless their bones are shattered.
+Hydroraptor: These tar slimes have found the skull and claws of a Hydroraptor fossil, using them as armor. They aim to knock intrepid explorers into the deep using their sticky spit.
+TarBlobSmallClub: Some tar slimes are lucky enough to get their hands on a Spasimosaurus tail fossil. They will threaten to smash any terrarian straight into the ground with it!
+TarBlobSmallMouth: Known for their powerful jaws, the Pharaosaurus Regina once dominated the prehistoric ecosystem. Fortunately, the tar slimes have only found small fragments of their jaw fossils, so the original power isn't exactly present.
+TarSlimeSpiked: These tar slimes are more dangerous and angry after being removed from terradactyl fossils they housed themselves in. They have figured out how to shape their bodies into sharp spines they can launch.
+OpalHandDino: Occasionally, fossils will turn to radiant opal instead of dull stone. This specimen guards its territory with its massive, opalescent claws.
+OpalTarDino: A colony of tar slimes have made their home in the disemboweled opalised fossil of a Terradactyl. Beware of falling tar, and the slimes that live in it!
+OpalTarCrawler: Certain dinosaurs, such as the Terraceratops and Terrasaurolophus, held immense Terra energy within their bones, causing their fossils to opalise over time. Having coalesced so much opal, this tar monster has lost its conscience, reverting to primal instinct.
+OpalTarSnail: A tar slime found its forever home in the opalised shell of a Terrammonin. However, Terrammonins typically looked squidlike, so this little fellow better hit the books!
+//vegetable garden
+CornMage1: These corn mages can conjure pieces of corn from their bodies, which will pop afterward due to their magical energy.
+CornMage2: They can shoot out giant pieces of popcorn that have a very bouncy and rubbery quality. They can quickly become chaotic in the fetid caves where they grow.
+Eggplant: These rotten stretchy eggplants dangle from the ceilings in the vegetable caves. They will desperately attempt to block adventurers in the rotten farm.
+GhostPepper: Ancient pepper apparitions that live in the vegetable garden. They approach with malicious intentions and can turn invisible to sneak up on unsuspecting terrarians.
+HoppingPotato1: They hop around the vegetable gardens after growing to maturity.
+HoppingPotato2: Their jumping is chaotic and random. Their non-sentient counterparts also taste good in various food products.
+HoppingPotato3: No one knows how these potatos are able to even jump around. At least it looks funny.
+HoppingPotato4: They are made out of actual potato. Their bodies are rotten though, so eating them would not be a good idea.
+OozeGarlic: They propel themselves in the air by blowing air out of their long tube-like mouth. They can also spit out rotten acid on the floor.
+RollingPepper: Their bodies contain immense heat, which they can channel into energy to fling themselves around. They look like they need some milk.
+RottenCarrot: Hiding in the ground, unsuspecting explorers will be covered in the nasty goo they spit out if they dare to get too close!
+//rotten depths
+Dunkleosteus: An ancient prehistoric fish brought back to life by strange scientists. After breaking containment and destroying everything in its path, the once fruitful study area in the depths is now rotten and infected after a strange zombie plague was released during the destruction.
+LittleDunk: A baby dunkleosteus. It seems to imprint on whoever raises it. It will bring any items it finds to humans when fed its favorite meal.
+SkeletonBoomerang: These small fish didn't have fins while alive, and still don't. They move through the water by waving their entire body back and fourth.
+SkeletonFish: The remains of a collection of many different species of fish, forced to 'live' in fear until the end of time.
+SkeletonGar: A gar that was torn to shreds by an unnatural predator. Despite this, its remains stay tied to each other through a sheer will to survive despite the futility.
+SkeletonPiranha: Piranhas tend to travel in schools. In some cases, the more courageous venture alone and grow to unnatural sizes. Unfortunately for them, there are always bigger fish in the sea.
+SkeletonPufferfish: Previously equipped with poisonous spines for defense, they are now skeletons filled with holes. Unable to control themselves in the water, they can only uselessly float around.
+SkeletonSpearfish: Their slim and short bodies allow them to propel through the water at fast speeds. Now with their home infected and all wildlife dead, their spear doesn't serve much purpose anymore.
+SkeletonSunfish: An incredibly large and docile creature, the sunfish does not pose a threat to any. Occasionally, they stray far out of their depth, in more ways then one.
+//krampus workshop
+BasketBall: Basket balls are widely used across the world, so krampus created some. But he made them so bouncy, that they just end up slamming into things and breaking them, or slamming into people and hurting them.
+BeachBall: After unsuccessfully making basket balls, krampus tried making beach balls since they're softer. Turns out krampus made them just as bouncy and capable of breaking things too.
+BuilderBot: After a bit too much ambition, krampus made a robot to help build things. Problem is, this robot cannot tell what is and isn't a building material and it will grab, pull, or break anything near it, including people.
+ChefRobot: One of krampus' more diabolical creations. His attempt to please people by making them a robot to cook for them failed after the robot malfunctioned and just started spewing fire everywhere and anywhere.
+JackInTheBox: A toy that can give people a fun surprise usually, but krampus used some spare dynamite thinking people would enjoy the surprise more. They did not enjoy it.
+Marble: Krampus thought perhaps people would enjoy marbles. Due to a manufacturing error, it is easy to break and contains smaller marbles inside of it, resulting in a lot of pain for those who break it.
+SockManGreen: These little creatures are probably the only thing in krampus' workshop that aren't deadly. They roam around and help krampus with manufacturing.
+SockManOrange: They serve a similar purpose to the elves krampus' long lost friend Nick used to have around his workshop.
+SockManRed: It is unknown if these sock creatures were created by krampus or if they were already in the workshop before. It is not known what is under their stockings.
+TeddyBear1: A small living teddy bear, it was the only successful of krampus' creations at first.
+TeddyBear2: After krampus ran out of stuffing and started using strange snow to stuff the bigger teddy bears, these little bears became feral.
+TeddyBear3: After becoming exposed to the snow krampus used to stuff the bigger bears, they are now in a constant state of hostility.
+TeddyBearSnow: Its body has been stuffed with a strange kind of snow after krampus ran out of stuffing. This snow seems to make the smaller teddy bears around it go rabid and swarm around them.
+ToyRobot: Small toy robots that wander around krampus workshop. Sometimes when damaged enough, they can malfunction explosively.
+ToyRobotTank: These bigger robots are armed with a harmful laser beamer that they found in the workshop, originally made by krampus as a toy.
+//tameable
+Crow: Friendly birds that can be heard squawking about in the cemetery.
+Turkey: Not exactly the smartest birds, they wander about and peck at the ground to find food. They prefer the spooky forest because rotten seeds, their favorite snack, is plentiful there.

@@ -62,3 +62,28 @@ HallucinationZone: {
 	DisplayName: Hallucination Encounter
 	TownNPCDialogueName: Hallucination Encounter
 }
+
+VegetableBiome: {
+	DisplayName: Fetid Farms
+	TownNPCDialogueName: Fetid Farms
+}
+
+ChristmasDungeonBiome: {
+	DisplayName: Krampus' Workshop
+	TownNPCDialogueName: Krampus' Workshop
+}
+
+TarPitsBiome: {
+	DisplayName: Tar Pits
+	TownNPCDialogueName: Tar Pits
+}
+
+ZombieOceanBiome: {
+	DisplayName: Rotten Depths
+	TownNPCDialogueName: Rotten Depths
+}
+
+SpookyBiomeUgGlowshroom: {
+	DisplayName: Glowshroom Biome
+	TownNPCDialogueName: Glowshroom Biome
+}

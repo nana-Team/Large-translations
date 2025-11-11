@@ -64,9 +64,9 @@ Projectiles: {
 	HotGarbageNuke.DisplayName: Ядерная бомба
 	GarbageFlame.DisplayName: Пламя
 	FatSmash.DisplayName: Ударная волна
-	PepperSprayProjectile.DisplayName: Перцовый балончик
-	IchorGlobSmall.DisplayName: Гобус
-	IchorGlob.DisplayName: Гобус
+	PepperSprayProjectile.DisplayName: Перцовый баллончик
+	IchorGlobSmall.DisplayName: Комок
+	IchorGlob.DisplayName: Комок
 	TinyFish.DisplayName: Крошечная рыбёшка
 	RingOfFireP.DisplayName: Кольцо огня
 	RingOfFireP2.DisplayName: Кольцо огня
@@ -78,7 +78,7 @@ Projectiles: {
 	RedSpark.DisplayName: Красная искра
 	BloodShockwave2.DisplayName: Кровавая ударная волна
 	InferosShockwave.DisplayName: Инфернальная ударная волна
-	ExolFireSpiral.DisplayName: Огненая спираль
+	ExolFireSpiral.DisplayName: Огненная спираль
 	EGeyser.DisplayName: Гейзер
 	InferosShockwave2.DisplayName: Инфернальная ударная волна
 	ESun.DisplayName: Солнце
@@ -98,7 +98,7 @@ Projectiles: {
 	FireGrenadeP.DisplayName: Пламенная граната
 	CursedFlameExplosion.DisplayName: Взрыв проклятого пламени
 	CrimCannonP.DisplayName: Кровавые челюсти
-	Gibs.DisplayName: Гибс
+	Gibs.DisplayName: Ошмёток плоти
 	SpinaxP.DisplayName: Спинотопор
 	SelfStabP.DisplayName: Кинжал жертвоприношения
 	BloodVignette.DisplayName: Кровавая виньетка
@@ -157,7 +157,7 @@ Projectiles: {
 	XExplosion.DisplayName: Взрыв
 	VaccumWormP.DisplayName: Вакуумный червь
 	XShadowflame.DisplayName: Выброс теневого пламени
-	XAmethyst.DisplayName: Аместист
+	XAmethyst.DisplayName: Аметист
 	XBolt.DisplayName: Мерцающий залп
 	XExplosionTiny.DisplayName: Взрыв
 	XSineLaser.DisplayName: Взмах теневого пламени
@@ -172,7 +172,7 @@ Projectiles: {
 	player_sheep.DisplayName: Овца
 	SheepeningOrb.DisplayName: Овцеобразующий луч
 	XManaPotion.DisplayName: Зелье Ксаеруса
-	XSpiritNoHome.DisplayName: Призрычный взрыв
+	XSpiritNoHome.DisplayName: Призрачный взрыв
 	XRift.DisplayName: Разлом
 	XKnife.DisplayName: Аметист
 	XCloud.DisplayName: Облако теневого пламени
@@ -180,9 +180,9 @@ Projectiles: {
 	XTelegraphLine.DisplayName: Линия телеграфа
 	RegorgerBolt.DisplayName: Выстрел пережёвывателя
 	RegorgerTelegraph.DisplayName: Телеграф пережёвывателя
-	GhizasWheelP.DisplayName: Короззийный нож
+	GhizasWheelP.DisplayName: Коррозийный нож
 	VileTearTelegraph.DisplayName: Телеграф едкой слезы
-	AmbientGibs.DisplayName: Гибс
+	AmbientGibs.DisplayName: Ошмёток плоти
 	XCloudVFXExtra.DisplayName: Облако
 	EquilibriumP.DisplayName: Эквилибриум
 	EquilibriumP2.DisplayName: Эквилибриум
@@ -242,7 +242,7 @@ Projectiles: {
 	CursedFireball.DisplayName: Шар проклятого пламени
 	XareusPotionExplosion.DisplayName: Зелье Ксаеруса
 	XareusPotionPro.DisplayName: Зелье Ксаеруса
-	HostileGibs.DisplayName: Гибс
+	HostileGibs.DisplayName: Ошмёток плоти
 	GarbageImpact.DisplayName: Удар
 	GarbageDroneF.DisplayName: Дрон
 	GarbageFlailP.DisplayName: Специфичная углошлифовочная машина
@@ -254,10 +254,10 @@ Projectiles: {
 	CecitiorPetP.DisplayName: Глаз Амавроза
 	GarbagePetP.DisplayName: Мусорный мешок
 	SheepPetP.DisplayName: Овечка
-	MailboxSentry.DisplayName: Почтовыйы ящик-страж
+	MailboxSentry.DisplayName: Почтовый ящик-страж
 	PipebombPSentry.DisplayName: Бомба из трубы
 	SalvagedThrusterP.DisplayName: Б/У-шный двигатель
-	// NastySnapperPro.DisplayName: Nasty Snapper Pro
+	NastySnapperPro.DisplayName: Противный окунь
 	XBoltFriendly2.DisplayName: Выстрел
 	RedMistVFX.DisplayName: Красный туман V F X
 	PhantasmalWave.DisplayName: Фантомный взмах
@@ -266,15 +266,15 @@ Projectiles: {
 	TFlameThrowerHoming.DisplayName: Пламя
 	TerrortomeFlame.DisplayName: Пламя Террортомы
 	TerrortomeWorm.DisplayName: Червь Террортомы
-	SawcitiorP.DisplayName: Пиловроз P
+	SawcitiorP.DisplayName: Пиловроз
 	ClawSlashGreen.DisplayName: Зелёный удар когтем
 	CGhostCeci.DisplayName: C Призрак Амавроза
 	CBeamSmall.DisplayName: C Маленький луч
 	CWorm.DisplayName: C Червь
-	BlurScream.DisplayName: Заблюреный крик
+	BlurScream.DisplayName: Заблюренный крик
 	Coins.DisplayName: Монеты
-	SilverBasherFlash.DisplayName: Впышка серебряного молота
-	SilverBasherP.DisplayName: Серебрянный отбойник P
+	SilverBasherFlash.DisplayName: Вспышка серебряного молота
+	SilverBasherP.DisplayName: Серебряный отбойник
 	terrortomaFishingRodBobber.DisplayName: Поплавок мрачнолова
 	cecitiorFishingRodBobber.DisplayName: Поплавок кровотока
 	VerletBeam.DisplayName: Луч Варлет
@@ -346,13 +346,13 @@ Projectiles: {
 	// FlyladDeath.DisplayName: Flylad Death
 	// RustyWaraxeP.DisplayName: Rusty Waraxe P
 	// BorealSpike.DisplayName: Boreal Spike
-	// SudamaF.DisplayName: Sudama F
-	// BotanistHeadProjectile.DisplayName: Botanist Head
-	// BaseballBatP.DisplayName: Baseball Bat P
-	// FallingStarTinyHostile.DisplayName: Falling Star Tiny Hostile
-	// FallingStarBigHostile.DisplayName: Falling Star Big Hostile
-	// IchorArmorExplosion.DisplayName: Ichor Armor Explosion
-	// TerrorArmorRay.DisplayName: Terror Armor Ray
+	SudamaF.DisplayName: Судама
+	BotanistHeadProjectile.DisplayName: Головка ботаника
+	BaseballBatP.DisplayName: Бейсбольная бита
+	FallingStarTinyHostile.DisplayName: Маленькая падающая звезда (враждебная)
+	FallingStarBigHostile.DisplayName: Большая падающая звезда (враждебная)
+	IchorArmorExplosion.DisplayName: Взрыв брони незрячего
+	TerrorArmorRay.DisplayName: Луч опухолевой брони
 	// BlindeyeBowP.DisplayName: Blindeye Bow P
 	// BlindeyeArrow.DisplayName: Blindeye Arrow
 	// Starine_Sparkle.DisplayName: Starine Sparkle
@@ -361,14 +361,14 @@ Projectiles: {
 	// SpudCannonP.DisplayName: Spud Cannon P
 	// PlantGunP.DisplayName: Plant Gun P
 	// PlantGunP2.DisplayName: Plant Gun P2
-	// VivineSpit.DisplayName: Vivine Spit
+	VivineSpit.DisplayName: Плювок лозавиты
 	// HostileCorruptExplosion.DisplayName: Hostile Corrupt Explosion
 	// XAmethystFriendly.DisplayName: X Amethyst Friendly
 	// GarbageLightningF.DisplayName: Garbage Lightning F
-	// CursedDollProjectile.DisplayName: Cursed Doll Projectile
-	// CursedRay.DisplayName: Cursed Ray
-	// DollPin.DisplayName: Doll Pin
-	// GoryJaw.DisplayName: Gory Jaw
+	CursedDollProjectile.DisplayName: Проклятая кукла
+	CursedRay.DisplayName: Проклятый луч
+	DollPin.DisplayName: Кукольная булавка
+	GoryJaw.DisplayName: Кровавая челюсть 
 	// DollHitscan.DisplayName: Doll Hitscan
 	SheepeningPlayerProjectile.DisplayName: Овца
 	// XLargeAmethystAlt.DisplayName: X Large Amethyst Alt
@@ -380,14 +380,14 @@ Projectiles: {
 	// PotatoProjectile.DisplayName: Potato Projectile
 	// ExolsawProjectile.DisplayName: Exolsaw Projectile
 	// CrimCannonProjectile.DisplayName: Crim Cannon Projectile
-	// BaseballBatProjectile.DisplayName: Baseball Bat Projectile
+	BaseballBatProjectile.DisplayName: Бейсбольная бита
 	// EbonianGunProjectile.DisplayName: Ebonian Gun Projectile
 	// EbonianRocketLauncherProjectile.DisplayName: Ebonian Rocket Launcher Projectile
 	// CoreProjectile.DisplayName: Core Projectile
-	// StarcallerP.DisplayName: Starcaller P
+	// StarcallerP.DisplayName: Starcaller
 	// StarcallerBolt.DisplayName: Starcaller Bolt
 	// StarcallerPortal.DisplayName: Starcaller Portal
-	// StarcallerShotVFX.DisplayName: Starcaller Shot V F X
+	// StarcallerShotVFX.DisplayName: Starcaller
 }
 
 NPCs: {
@@ -401,7 +401,7 @@ NPCs: {
 
 		Bestiary:
 			'''
-			Тяжёловооружённый и бронированный мусорный бак, предположительно предназначенный для боевых целей. По неизвестной причине горит с самого момента своего создания.
+			Тяжеловооружённый и бронированный мусорный бак, предположительно предназначенный для боевых целей. По неизвестной причине горит с самого момента своего создания.
 
 
 			Надпись на боку мелким шрифтом гласит: «Пожалуйста, верните его в штаб-квартиру GenCorp, если вы его нашли».
@@ -416,13 +416,13 @@ NPCs: {
 	Cecitior: {
 		DisplayName: Амавроз
 		BossChecklistIntegration.SpawnInfo: Убейте смотрителя, часто появляющегося в багрянце.
-		Bestiary: Мясистый, безобразно созданая констуркция. Несмотря на всё сходство со многими порождениями багрянца, это существо, похоже, было создано совсем недавно с неизвестной целью.
+		Bestiary: Мясистая, безобразно созданная конструкция. Несмотря на всё сходство со многими порождениями багрянца, это существо, похоже, было создано совсем недавно с неизвестной целью.
 	}
 
 	Terrortoma: {
 		DisplayName: Террортома
 		BossChecklistIntegration.SpawnInfo: Уничтожьте гигантский кокон, часто появляющийся в искажении.
-		Bestiary: Необычный конгломерат искаженных сущностей, обладающий странной способностью проявлять эмоции. Она сформировалось неестественным образом и не является предполагаемым результатом эволюции.
+		Bestiary: Необычный конгломерат искаженных существ, обладающий странной способностью проявлять эмоции. Она сформировалось неестественным образом и не является предполагаемым результатом эволюции.
 	}
 
 	TerrorClingerSummoner.DisplayName: Цеплятель
@@ -445,7 +445,7 @@ NPCs: {
 
 	CrimeraHead: {
 		DisplayName: Презреющая
-		Bestiary: Кримера, начавшая эволюционировать во времена распространения багрянца. Её конечности теперь могут создавать туннели, а она сама может выплёвывать часть мёртвых клеток крови, которые её тело вырабатывает с сумашедшей скоростью.
+		Bestiary: Кримера, начавшая эволюционировать во времена распространения багрянца. Её конечности теперь могут создавать туннели, а она сама может выплёвывать часть мёртвых клеток крови, которые её тело вырабатывает с сумасшедшей скоростью.
 	}
 
 	CrimeraBody.DisplayName: Презреющая
@@ -576,7 +576,7 @@ NPCs: {
 
 	JuvenileBrain: {
 		DisplayName: Нейрокусака
-		Bestiary: Он использует примитивную форму нейрокинеза, чтобы заставить свою жертву увидеть своё зеркальное изображение. Эта путаница позволяет нейропасти наносить удары, когда её цель уязвима.
+		Bestiary: Он использует примитивную форму нейрокинеза, чтобы заставить свою жертву увидеть своё зеркальное изображение. Эта путаница позволяет нейрокусаке наносить удары, когда её цель уязвима.
 	}
 
 	WormKing: {
@@ -590,7 +590,7 @@ NPCs: {
 
 	Consumer: {
 		DisplayName: Гниющие челюсти
-		Bestiary: Гниющие челюсти безжалостны и бросаются на добычу в мгновение ока. Их укусы могут легко раздробить крупные кости и прочный панцирь, и от их добычи часто не остаёться даже объедков.
+		Bestiary: Гниющие челюсти безжалостны и бросаются на добычу в мгновение ока. Их укусы могут легко раздробить крупные кости и прочный панцирь, и от их добычи часто не остаётся даже объедков.
 	}
 
 	Regorger: {
@@ -677,7 +677,11 @@ NPCs: {
 			'''
 	}
 
-	CoinBag.DisplayName: Одержимый мешок
+	CoinBag: {
+		DisplayName: Одержимый мешок
+		Bestiary: Мешок монет, который, как видимо, одержим чрезмерно щедрым духом.
+	}
+
 	Chalice.DisplayName: Кубок
 	Sudama.DisplayName: Судама
 	Aureus.DisplayName: Ауреус
@@ -731,8 +735,8 @@ NPCs: {
 	FallingStar.DisplayName: Упавшая звезда
 
 	Starlad: {
-		DisplayName: Звёздопарниша
-		Bestiary: Обладая астральной энергией, способной пронзать ночь, старлады являются как основой этой инвазивной расы, так и первыми предвестниками прибытия Ведьмы.
+		DisplayName: Звёздик
+		Bestiary: Наделённые астральной энергией, способной пронзать саму ночь, звёздики — как опора этого инвазивного вида, так и первые предвестники прибытия Ведьмы.
 	}
 
 	BorealDancer: {
@@ -746,25 +750,25 @@ NPCs: {
 	}
 
 	Flylad: {
-		DisplayName: Лётопарниша
-		Bestiary: Крылатая угроза из далёких галактик. Специализируется на стрельбе звёздными снарядами, а порой бросается вниз всем телом, чтобы выжить и обеспечить успех вторжения.
+		DisplayName: Летунчик
+		Bestiary: Крылатая угроза из далёких галактик. Специализируется на стрельбе звёздными снарядами, но иногда для выживания и успеха вторжения бросается всем своим телом вниз.
 	}
 
 	Minilad: {
-		DisplayName: Паренёк
-		Bestiary: Вопреки расхожему мнению, паренёк — это не юный звёздопарниша, а меньшая и более подвижная ветвь расы, питающаяся звёздной энергией прямо из воздуха.
+		DisplayName: Мини-звёздик
+		Bestiary: Вопреки распространённому мнению, мини-звёздики — это не юные особи звёздиков, а отдельный, меньший и более подвижный вид, поглощающий звёздную энергию прямо из воздуха.
 	}
 
 	Obeselad: {
-		DisplayName: Тучнопарниша
-		Bestiary: С дрожащими ногами и рассеянным выражением лица, тучнопарниша мог бы стать идеальной игрушкой для детей, если бы не его ужасающий способ кормления — раздавливание мелких тварей своим телом.
+		DisplayName: Пухляш
+		Bestiary: Со своими дрожащими ногами и рассеянным выражением лица, пухляш мог бы стать идеальной игрушкой для детей, если бы не его ужасающий способ кормления — раздавливание мелких тварей своим телом.
 	}
 
 	PebbiSwarm.DisplayName: Ужасающие стадо гальков
 
 	Hookworm: {
-		// DisplayName: Hookworm
-		// Bestiary: An abnormal evolution of the giant worm with a gigantic set of mandibles, gotten from crushing the metals of the deep in their jaws. This allows them to tunnel at the same speed, but the lesser nutrients from eating stone has caused their flesh to become stringy and fragile.
+		DisplayName: Червь-челюстник
+		Bestiary: Аномально эволюционировавший гигантский червь, получивший свои огромные челюсти для перемалывания глубинных металлов. Хотя они всё также эффективно перемещаются под землёй, бедный на питательные вещества рацион из камней сделал их плоть волокнистой и уязвимой.
 	}
 
 	Starine_Sightseer: {
@@ -777,7 +781,18 @@ NPCs: {
 		// Bestiary: Powered by magic derived from the stars, it uses its well-developed back legs to hop and skip about the night, usually kicking off unsuspecting prey to cripple them.
 	}
 
-	// Vivine.DisplayName: Vivine
+	Vivine: {
+		DisplayName: Лозавита
+		Bestiary: Вид трехстебельного плотоядного цветка, обитающего во влажных пещерах джунглей. Он плюётся в жертву розовой кислотой, а затем подбирается ближе для поглощения уже переваренной пищи.
+	}
+
+	HoarfrostCoiler: {
+		DisplayName: Обвивающий иней
+		Bestiary: Древний змей-ледяной голем, который охранял королевство, погребённое под льдами.
+	}
+
+	HoarfrostCoilerBody.DisplayName: Тело обвивающего инея
+	HoarfrostCoilerTail.DisplayName: Хвост обвивающего инея
 }
 
 Items: {
@@ -832,9 +847,8 @@ Items: {
 		DisplayName: Ядролом
 		Tooltip:
 			'''
-			Удерживайте ЛКМ, чтобы выстрелить взрывающися ядром
+			Удерживайте ЛКМ, чтобы выстрелить взрывающимся ядром
 			Нажмите ПКМ, чтобы выстрелить лазером
-			«Он типа... ломает ядра.... эээ»
 			'''
 	}
 
@@ -926,7 +940,7 @@ Items: {
 	}
 
 	CrimCannon: {
-		Tooltip: Запускает целюсти, которые атакуют и кусают врагов
+		Tooltip: Запускает челюсти, которые атакуют и кусают врагов
 		DisplayName: Кровавые челюсти
 	}
 
@@ -1045,7 +1059,7 @@ Items: {
 
 	MagmaBow: {
 		DisplayName: Пента-лук
-		Tooltip: Стреляет 5 вулканическими стрелами
+		Tooltip: Стреляет 5 вулканическими стрелами за раз
 	}
 
 	ReiMask: {
@@ -1103,12 +1117,12 @@ Items: {
 	}
 
 	CecitiorBag: {
-		DisplayName: Мешок с сокровищами ({$Mods.EbonianMod.NPCs.Cecitior.DisplayName})
+		DisplayName: Мешок с сокровищами ({$NPCs.Cecitior.DisplayName})
 		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 	}
 
 	TerrortomaBag: {
-		DisplayName: Мешок с сокровищами ({$Mods.EbonianMod.NPCs.Terrortoma.DisplayName})
+		DisplayName: Мешок с сокровищами ({$NPCs.Terrortoma.DisplayName})
 		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 	}
 
@@ -1137,7 +1151,7 @@ Items: {
 	}
 
 	GhizasWheel: {
-		DisplayName: Короззийный нож
+		DisplayName: Коррозийный нож
 		Tooltip:
 			'''
 			Накладывает дебафф «{$BuffName.CursedInferno}» при попадании
@@ -1184,7 +1198,7 @@ Items: {
 		DisplayName: Бомба из трубы
 		Tooltip:
 			'''
-			Может наность урон городским жителям
+			Может наносить урон городским жителям
 			«Интересно, а что будет, если я-» 
 			'''
 	}
@@ -1230,7 +1244,7 @@ Items: {
 	}
 
 	ArchmageBag: {
-		DisplayName: Мешок с сокровищами ({$Mods.EbonianMod.NPCs.ArchmageX.DisplayName})
+		DisplayName: Мешок с сокровищами ({$NPCs.ArchmageX.DisplayName})
 		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 	}
 
@@ -1255,7 +1269,7 @@ Items: {
 	}
 
 	GarbageBagI: {
-		DisplayName: Мешок с сокровищами ({$Mods.EbonianMod.NPCs.HotGarbage.DisplayName})
+		DisplayName: Мешок с сокровищами ({$NPCs.HotGarbage.DisplayName})
 		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 	}
 
@@ -1347,8 +1361,8 @@ Items: {
 		DisplayName: Шерстяные сапоги
 		Tooltip:
 			'''
-			Увеличиваает урон хлыста на {0}%
-			Увеличивает скорость хлыста на {1}%
+			Увеличивает урон хлыстов на {0}%
+			Увеличивает скорость хлыстов на {1}%
 			'''
 	}
 
@@ -1462,7 +1476,7 @@ Items: {
 	}
 
 	SilverBasher: {
-		DisplayName: Серебрянный крушитель
+		DisplayName: Серебряный крушитель
 		Tooltip: ""
 	}
 
@@ -1477,12 +1491,12 @@ Items: {
 	}
 
 	BallLauncher: {
-		DisplayName: Шаромёт
-		Tooltip:
+		// DisplayName: Lobber
+		/* Tooltip:
 			'''
-			Зажмите ПКМ для атаки
-			ИСпользует ракеты в качестве боеприпасов
-			'''
+			Right click to charge a burst attack
+			Uses rockets as ammo
+			''' */
 	}
 
 	CorruptrotI: {
@@ -1502,7 +1516,7 @@ Items: {
 
 	ConglomerateEnergyDrink: {
 		DisplayName: Энергетик Конгломерата
-		Tooltip: Содержит 63% конглорина, 22% ихора B6, 13% натурального проклятого пламени и др. ингридиенты.
+		Tooltip: Содержит 63% конглорина, 22% ихора B6, 13% натурального проклятого пламени и др. ингредиенты
 	}
 
 	CongFisherate: {
@@ -1581,12 +1595,12 @@ Items: {
 	}
 
 	ThawGauntlet: {
-		DisplayName: Холодное косание
+		DisplayName: Холодное касание
 		Tooltip: ""
 	}
 
 	CenturySprayer: {
-		DisplayName: Вековой рыспылитель
+		DisplayName: Вековой распылитель
 		Tooltip: Удушает врагов
 	}
 
@@ -1604,7 +1618,7 @@ Items: {
 		Tooltip:
 			'''
 			Увеличивает шанс критического удара на 3%
-			Вы будете выпускть кусочек звезды при критических ударах
+			Вы будете выпускать кусочек звезды при критических ударах
 			Деликатес среди звёзд!
 			'''
 	}
@@ -1616,74 +1630,78 @@ Items: {
 
 	RustyWaraxe: {
 		DisplayName: Ржавый боевой топор
-		Tooltip: ""
+		Tooltip: Критические удары оставляют на врагах глубокие раны
 	}
 
 	BotanistHeadStaff: {
-		// DisplayName: Botanist Head
-		// Tooltip: ""
+		DisplayName: Головка ботаника
+		Tooltip: ""
 	}
 
 	BaseballBat: {
-		// DisplayName: Baseball Bat
-		// Tooltip: ""
+		DisplayName: Бейсбольная бита
+		Tooltip: ""
 	}
 
 	Cecibody: {
-		// DisplayName: Sightless Breastplate
-		// Tooltip: Increases melee damage by {0}% and melee speed by {1}%
+		DisplayName: Нагрудник незрячего
+		Tooltip: Увеличивает урон ближнего боя на {0}% и скорость ближнего боя на {1}%
 	}
 
 	Cecihead: {
-		// DisplayName: Sightless Hood
-		// Tooltip: Increases melee damage by {0}% and melee speed by {1}%
-		// SetBonus: Killing enemies has a 1/4 chance to trigger an ichor explosion
+		DisplayName: Капюшон незрячего
+		Tooltip: Увеличивает урон ближнего боя на {0}% и скорость ближнего боя на {1}%
+		SetBonus: Убийство врага с 25% шансом вызовет ихорный взрыв
 	}
 
 	Cecilegs: {
-		// DisplayName: Sightless Leggings
-		// Tooltip: Increases melee damage by {0}% and melee critical strike chance by {1}%
+		DisplayName: Поножи незрячего
+		Tooltip: Увеличивает урон ближнего боя на {0}% и шанс критического удара ближнего боя на {1}%
 	}
 
 	Terrorbody: {
-		// DisplayName: Tumorous Breastplate
-		// Tooltip: Increases magic damage by {0}% and maximum mana by {1}
+		DisplayName: Опухолевый нагрудник
+		Tooltip: Увеличивает магический урон на {0}% и максимальный запас маны на {1} ед.
 	}
 
 	Terrorhead: {
-		// DisplayName: Tumorous Helmet
-		// Tooltip: Increases magic damage by {0}% and magic critical strike chance by {1}%
-		// SetBonus: Dealing enough damage unleashes a burst of cursed flame onto the target
+		DisplayName: Опухолевый шлем
+		Tooltip: Увеличивает магический урон на {0}% и шанс магического критического удара на {1}%
+		SetBonus: Выпускает веер лучей проклятого пламени при нанесении достаточного количества урона
 	}
 
 	Terrorlegs: {
-		// DisplayName: Tumorous Leggings
-		// Tooltip: Increases magic damage by {0}%
+		DisplayName: Опухолевые поножи
+		Tooltip: Увеличивает магический урон на {0}%
 	}
 
 	BlindeyeBow: {
-		// DisplayName: Blindeye Bow
-		// Tooltip: ""
+		DisplayName: Лук одноглазого
+		Tooltip: ""
 	}
 
 	Spitvine: {
-		// DisplayName: Spitvine
-		// Tooltip: ""
+		DisplayName: Лозоплюй
+		Tooltip: ""
 	}
 
 	CursedDoll: {
-		// DisplayName: Cursed Doll
-		// Tooltip: ""
+		DisplayName: Проклятая кукла
+		Tooltip: ""
 	}
 
 	Fangnum: {
-		// DisplayName: Fangnum
-		// Tooltip: ""
+		DisplayName: Фалангнум
+		Tooltip: ""
 	}
 
 	Lobber: {
-		// DisplayName: Lobber
-		// Tooltip: ""
+		DisplayName: Ядролом
+		Tooltip: 
+			'''
+			Зажмите ПКМ, чтобы выпустить сразу груду шаров
+			Использует ракеты в качестве боеприпасов
+			'''
 	}
 
 	Starcaller: {
@@ -1750,7 +1768,7 @@ Buffs: {
 
 	CecitiorPetB: {
 		DisplayName: Глаз Амавроза
-		Description: Он всё видит
+		Description: Клешни не включены
 	}
 
 	GarbagePetB: {
@@ -1769,13 +1787,13 @@ Buffs: {
 	}
 
 	ConglomerateEnergyBuff: {
-		DisplayName: Энергетик Конгломерата
-		// Description: You really should drink less of this.
+		DisplayName: Конгломиратная передозировка
+		Description: Тебе действительно следует пить поменьше такого
 	}
 
 	BlinkrootB: {
 		DisplayName: Мерцающий дружок
-		Description: Он из-зо всех сил пытается осветит вам путь.
+		Description: Он изо всех сил пытается осветит вам путь
 	}
 
 	LilPilgB: {
@@ -1799,8 +1817,8 @@ Buffs: {
 	}
 
 	SudamaBuff: {
-		// DisplayName: Sudama
-		// Description: Sudamas fight for you.
+		DisplayName: Судама
+		Description: Судама будет сражаться за вас
 	}
 
 	PlantGunB: {
@@ -1831,12 +1849,12 @@ Configs: {
 		DisplayName: Клиентская конфигурация
 
 		MuteBowPull: {
-			Label: Заглушить эффект натягивания тетевы
-			Tooltip: Заглушает звуковой эффект натягивания тетевы, присутствующих у некоторых луков в Ebonian Mod.
+			Label: Заглушить эффект натягивания тетивы
+			Tooltip: Заглушает звуковой эффект натягивания тетивы, присутствующих у некоторых луков в Ebonian Mod.
 		}
 
 		BowPullVolume: {
-			Label: Громкость натягивания тетевы
+			Label: Громкость натягивания тетивы
 			Tooltip: ""
 		}
 	}
@@ -1845,7 +1863,7 @@ Configs: {
 		DisplayName: Серверная конфигурация
 
 		XareusDelay: {
-			Label: Перезаряжка призыва Ксаеруса
+			Label: Перезарядка призыва Ксаеруса
 			Tooltip:
 				'''
 				Определяет количество кадров, которое должно пройти перед тем, как Ксаеруса можно будет призвать повторно.

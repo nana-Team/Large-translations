@@ -9410,106 +9410,186 @@ Mods: {
         Achievements: {
 			GlowmothKill: {
 				FriendlyName: Кто выключил свет?
-				Description: Одержите победу над Светляком — светящейся мерзостью из грибных пещер (автор: EduaRRdo)
+				Description: 
+					'''
+					Одержите победу над Светляком — светящейся мерзостью из грибных пещер
+					(автор: EduaRRdo)
+					'''
 			}
 
 			AdvisorKill: {
 				FriendlyName: Shining Star
-				Description: Одержите победу над Аналитиком — вертуозным кукловодом Планетариума (автор: EduaRRdo)
+				Description:
+					'''
+					Одержите победу над Аналитиком — виртуозным кукловодом Планетария
+					(автор: EduaRRdo)
+					'''
 			}
 
 			ArchaeologistTalk: {
 				FriendlyName: Таинственный незнакомец
-				Description: Познакомьтесь с археологом — исследователем из другого мира (автор: EduaRRdo)
+				Description:
+					'''
+					Познакомьтесь с Археологом — исследователем из другого мира
+					(автор: EduaRRdo)
+					'''
 			}
 
 			ChallengerRings: {
 				FriendlyName: Одно Кольцо, чтоб править всеми
-				Description: Создайте кольцо испытаний (автор: kekcroc)
+				Description:
+					'''
+					Создайте кольцо испытаний
+					(автор: kekcroc)
+					'''
 			}
 
 			ColossusObtain: {
 				FriendlyName: На колени! Я приказываю тебе!
-				Description: Превратите Клинок-разрушитель в «Коллос» (автор: kekcroc)
+				Description:
+					'''
+					Превратите Клинок-разрушитель в «Коллос»
+					(автор: kekcroc)
+					'''
 			}
 
 			CurseKill: {
 				FriendlyName: Эльдорадо
-				Description: Одержите победу над Проклятьем Фараона — инородной инфекцией, пропитывающая стены Пирамиды (автор: EduaRRdo)
+				Description:
+					'''
+					Одержите победу над Проклятьем Фараона — инородной инфекцией, пропитывающая стены Пирамиды
+					(автор: EduaRRdo)
+					'''
 			}
 
 			FourthDimension: {
 				FriendlyName: Четырёхмерность
-				Description: Призовите четыре тессеракта одновременно (автор: UnknownAkarii)
+				Description:
+					'''
+					Призовите 4 тессеракта одновременно
+					(автор: UnknownAkarii)
+					'''
 			}
 
 			IntoThePyramid: {
 				FriendlyName: Into The Pyramid
-				Description: Откройте в зайдите в Пирамиду (автор: Arian)
+				Description: 
+					'''
+					Откройте в зайдите в Пирамиду
+					(автор: Arian)
+					'''
 			}
 
 			LuxKill: {
 				FriendlyName: Living in the Light
-				Description: Одержите победу над Люкс — сильнейшей из духов (автор: kekcroc)
+				Description:
+					'''
+					Одержите победу над Люкс — сильнейшей из духов
+					(автор: kekcroc)
+					'''
 			}
 
 			OneHundredPercentSuperChungus: {
 				FriendlyName: 100-процентный Суперчунгус
-				Description: Найдите три давно утерянные реликвии Суперчунгуса (автор: kekcroc)
+				Description:
+					'''
+					Найдите три давно утерянные реликвии Суперчунгуса
+					(автор: kekcroc)
+					'''
 			}
 
 			PinkyKill: {
 				FriendlyName: А ты оказался сильнее
-				Description: Одержите победу над Гнилостным пинки — результатом ужасного провального эксперимента (автор: EduaRRdo)
+				Description:
+					'''
+					Одержите победу над Гнилостным пинки — результатом ужасного провального эксперимента
+					(автор: EduaRRdo)
+					'''
 			}
 
 			PolarisKill: {
 				FriendlyName: Четвёртый кошмар
-				Description: Одержите победу над Полярным — четвёртым механиком и боевой машиной тундры (автор: EduaRRdo)
+				Description:
+					'''
+					Одержите победу над Полярным — четвёртым механиком и боевой машиной тундры
+					(автор: EduaRRdo)
+					'''
 			}
 
 			RefractingCrystalCollect: {
 				FriendlyName: Бог Солнца
-				Description: Разгадайте тайну Пирамиды (автор: kekcroc)
+				Description:
+					'''
+					Разгадайте тайну Пирамиды
+					(автор: kekcroc)
+					'''
 			}
 
 			Sirius: {
 				FriendlyName: Сириус
-				Description: Найдите фотоновый гейзер (автор: kekcroc)
+				Description: 
+					'''
+					Найдите фотоновый гейзер
+					(автор: kekcroc)
+					'''
 			}
 
 			SubspaceKill: {
 				FriendlyName: Serpent of the Shadows
-				Description: Одержите победу над Субпространственным змеем — существом, находящегомся за пределами пространства (автор: EduaRRdo)
+				Description: 
+					'''
+					Одержите победу над Субпространственным змеем — существом, находящегомся за пределами пространства
+					(автор: EduaRRdo)
+					'''
 			}
 
 			TidalConstructSuicide: {
 				FriendlyName: Well That Was Idiotic
-				Description: Заставьте конструкт прилива самоуничножиться (авторы: Exalted Dale и potatoman999)
+				Description: 
+					'''
+					Заставьте конструкт прилива самоуничножиться
+					(авторы: Exalted Dale и potatoman999)
+					'''
 			}
 
 			VivaleBaguette: {
 				FriendlyName: Ан гард!
-				Description: Увеличьте размер хрустящего багета в 20 раз (автор: Tortilla)
+				Description: 
+					'''
+					Увеличьте размер хрустящего багета в 20 раз
+					(автор: Tortilla)
+					'''
 			}
 
 			VoidDeathHappening: {
 				FriendlyName: Новая опасная сила
-				Description: Угасьните в объятиях пустоты (автор: kekcroc)
+				Description: 
+					'''
+					Угасьните в объятиях пустоты
+					(автор: kekcroc)
+					'''
 			}
 
 			Burdened: {
 				FriendlyName: Обременённый
-				Description: Окажитесь под влиянием всех иссякающих элементов одновременно (автор: Tortilla)
+				Description: 
+					'''
+					Окажитесь под влиянием всех иссякающих элементов одновременно
+					(автор: Tortilla)
+					'''
 			}
 
 			ExcavatorKill: {
 				FriendlyName: Старый ржавый инструмент
-				Description: Одержите победу над Экскаватором — древней землеройной машиной (автор: EduaRRdo)
+				Description: 
+					'''
+					Одержите победу над Экскаватором — древней землеройной машиной
+					(автор: EduaRRdo)
+					'''
 			}
 		}
 	}
 }
-    
-# The Russian localization clarifies that it is the chest that is cursed. Since this line is used in the description of other items in the SOTS, it is rewritten here
+
+# The russian localization clarifies that it is the chest that is cursed. Since this line is used in the description of other items in the SOTS, it is rewritten here
 LegacyTooltip.59: Проклято могущественным существом из джунглей

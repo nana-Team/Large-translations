@@ -4283,7 +4283,7 @@ Mods: {
 				Tooltip:
 					'''
 					С убитых врагов будут выпадать крошки багета
-					Подбор этих крошек увеличит дальность атаки и урон багета, а также восстановит часть потерянного здоровья
+					Подбор этих крошек увеличит длинну и урон багета, а также восстановит часть потерянного здоровья
 					«И никакой пощады»
 					'''
 			}
@@ -6746,7 +6746,7 @@ Mods: {
 			}
 
 			SubspaceWormItem: {
-				DisplayName: Подпространственный червь
+				DisplayName: Субпространственный червяк
 				Tooltip: Позволяет ловить обсидиановые ящики в любой жидкости
 			}
 
@@ -9480,32 +9480,32 @@ Mods: {
 
 			SubspaceKill: {
 				FriendlyName: Serpent of the Shadows
-				Description: Defeat Subspace Serpent, a being from a space beyond (Credit: EduaRRdo)
+				Description: Одержите победу над Субпространственным змеем — существом, находящегомся за пределами пространства (автор: EduaRRdo)
 			}
 
 			TidalConstructSuicide: {
 				FriendlyName: Well That Was Idiotic
-				Description: Make a Tidal Construct destroy itself (Credit: Exalted Dale and potatoman999)
+				Description: Заставьте конструкт прилива самоуничножиться (авторы: Exalted Dale и potatoman999)
 			}
 
 			VivaleBaguette: {
-				FriendlyName: En Garde
-				Description: Make the baguette a length of 20 or higher (Credit: Tortilla)
+				FriendlyName: Ан гард!
+				Description: Увеличьте размер хрустящего багета в 20 раз (автор: Tortilla)
 			}
 
 			VoidDeathHappening: {
-				FriendlyName: Dangerous New Power
-				Description: Succumb to the Void (Credit: kekcroc)
+				FriendlyName: Новая опасная сила
+				Description: Угасьните в объятиях пустоты (автор: kekcroc)
 			}
 
 			Burdened: {
-				FriendlyName: Burdened
-				Description: Be debuffed by all dissolving elements simultaneously (Credit: Tortilla)
+				FriendlyName: Обременённый
+				Description: Окажитесь под влиянием всех иссякающих элементов одновременно (автор: Tortilla)
 			}
 
 			ExcavatorKill: {
-				FriendlyName: Rusty Old Tool
-				Description: Defeat The Excavator, an ancient mining machine (Credit: EduaRRdo)
+				FriendlyName: Старый ржавый инструмент
+				Description: Одержите победу над Экскаватором — древней землеройной машиной (автор: EduaRRdo)
 			}
 		}
 	}
@@ -9513,3 +9513,4 @@ Mods: {
     
 # The Russian localization clarifies that it is the chest that is cursed. Since this line is used in the description of other items in the SOTS, it is rewritten here
 LegacyTooltip.59: Проклято могущественным существом из джунглей
+

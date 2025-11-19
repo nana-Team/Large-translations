@@ -9,6 +9,6 @@ VerdantBiome: {
 }
 
 NearApotheosisBiome: {
-	TownNPCDialogueName: near the Apotheosis
-	DisplayName: Near the Apotheosis
+	TownNPCDialogueName: рядом с Апофеозом
+	DisplayName: Рядом с Апофеозом
 }

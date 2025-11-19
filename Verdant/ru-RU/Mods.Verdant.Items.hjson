@@ -235,12 +235,12 @@ VerdantWoodChestBlock: {
 
 ThePlantItem: {
 	DisplayName: Растение
-	Tooltip: «Серьёзно, это просто растение» 
+	Tooltip: «Серьёзно, это просто растение»
 }
 
 ApotheoticPaintingItem: {
 	DisplayName: Апофеозный
-	Tooltip: «Emily A.» 
+	Tooltip: «Emily A.»
 }
 
 HardyVineBook: {
@@ -299,7 +299,7 @@ FloatingCrystalItem: {
 
 GreenCrystalItem: {
 	DisplayName: Зелёный кристалл
-	Tooltip: «Не такой уж и острый, как может показатся» 
+	Tooltip: «Не такой уж и острый, как может показатся»
 }
 
 HangingCrystalItem: {
@@ -574,7 +574,7 @@ WisplantSeeds: {
 
 PuffBlockItem: {
 	DisplayName: Блок розового пуха
-	Tooltip: «Очень мягкий!» 
+	Tooltip: «Очень мягкий!»
 }
 
 SnailStatueItem: {
@@ -598,7 +598,7 @@ HarvestedPickipuffItem: {
 
 MarigoldItem: {
 	DisplayName: Календула
-	Tooltip: «Пахнет ... металлом... и немного магией» 
+	Tooltip: «Пахнет ... металлом... и немного магией»
 }
 
 PickipuffItem: {
@@ -817,7 +817,7 @@ WisplantInfusedMudBoulder: {
 
 BulbSnail: {
 	DisplayName: Лампулитка
-	Tooltip: «Освещает старую дорогу» 
+	Tooltip: «Освещает старую дорогу»
 }
 
 BumblebeeItem: {
@@ -827,7 +827,7 @@ BumblebeeItem: {
 
 AxolotlItem: {
 	DisplayName: Аксолотль
-	Tooltip: "«Такой милый!»"
+	Tooltip: «Такой милый!»
 }
 
 BulbboxJellyItem: {
@@ -837,7 +837,7 @@ BulbboxJellyItem: {
 
 MossCarpItem: {
 	DisplayName: Моховой карп
-	Tooltip: "«Смесь сытного мяса с цветущей зеленью»"
+	Tooltip: «Смесь сытного мяса с цветущей зеленью»
 }
 
 PoolwormItem: {
@@ -852,7 +852,7 @@ FlotieItem: {
 
 FlotinyItem: {
 	DisplayName: Летунчик
-	Tooltip: "«Божечки, какие малыши»"
+	Tooltip: «Божечки, какие малыши»
 }
 
 FolifishItem: {
@@ -881,7 +881,7 @@ RedGrassSnail: {
 }
 
 ExpertPlantGuide: {
-	DisplayName: Продвинутое рукововодство по волокнистым веревкам 
+	DisplayName: Продвинутое рукововодство по волокнистым веревкам
 	Tooltip:
 		'''
 		Позволяет освоить не самые полезные навыки
@@ -1058,7 +1058,7 @@ Waterberry: {
 
 Lightbulb: {
 	DisplayName: Лампочка
-	Tooltip: «Чарли не приблизится» 
+	Tooltip: «Чарли не приблизится»
 }
 
 LushLeaf: {
@@ -1092,7 +1092,7 @@ RedPetal: {
 
 WisplantItem: {
 	DisplayName: Цветок духа
-	Tooltip: «Мягкий как облачко» 
+	Tooltip: «Мягкий как облачко»
 }
 
 YellowBulb: {
@@ -1106,7 +1106,7 @@ ApotheosisBag: {
 }
 
 ApotheosisBook: {
-	DisplayName: "«Мой апофеоз»"
+	DisplayName: «Мой апофеоз»
 	Tooltip: — Эмили
 }
 
@@ -1581,7 +1581,7 @@ MossCarpAquariumItem: {
 
 AxolotlAquariumItem: {
 	DisplayName: Аквариум с аксолотлем
-	Tooltip: "«Ты слышишь тихие звуки, которые они издают?»"
+	Tooltip: «Ты слышишь тихие звуки, которые они издают?»
 }
 
 RedSnailCage: {

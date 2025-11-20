@@ -353,38 +353,38 @@ VibrantHorizonBox: {
 }
 
 MysteriaBathtubItem: {
-	DisplayName: Mysteria Bathtub
+	DisplayName: Ванна из мистернии
 	Tooltip: ""
 }
 
 MysteriaBedItem: {
-	DisplayName: Mysteria Bed
+	DisplayName: Кровать из мистернии
 	Tooltip: ""
 }
 
 MysteriaBookshelfItem: {
-	DisplayName: Mysteria Bookcase
+	DisplayName: Книжный шкаф из мистернии
 	Tooltip: ""
 }
 
 MysteriaCandelabraItem: {
-	DisplayName: Mysteria Candelabra
+	DisplayName: Подсвечник из мистернии
 	Tooltip: ""
 }
 
 MysteriaCandleItem: {
-	DisplayName: Mysteria Candle
+	DisplayName: Свеча из мистернии
 	Tooltip: ""
 }
 
 MysteriaChairItem: {
-	DisplayName: Mysteria Chair
+	DisplayName: Стул из мистернии
 	Tooltip: ""
 }
 
 MysteriaClockItem: {
-	DisplayName: Mysteria Clock
-	Tooltip: "'The smaller clock seems to be very off'"
+	DisplayName: Напольные часы из мистернии
+	Tooltip: «Маленькие часы, похоже, сильно отстают»
 }
 
 MysteriaDoorItem: {

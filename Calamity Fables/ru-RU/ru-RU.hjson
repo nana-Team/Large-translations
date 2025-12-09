@@ -22,7 +22,7 @@ Mods: {
 			WulfrumAcrobaticsPackPoster.MapEntry: Постер
 			WulfrumBathtub.MapEntry: Ванна
 			WulfrumBed.MapEntry: Кровать
-			WulfrumBulkContainer.MapEntry: Контейнер
+			WulfrumBulkContainer.MapEntry: "{$Items.WulfrumBulkContainerItem.DisplayName}"
 			WulfrumBulkDoorClosed.MapEntry: Грузовая дверь
 			WulfrumBulkDoorOpen.MapEntry: Грузовая дверь
 			WulfrumCanister.MapEntry: Канистра
@@ -34,12 +34,12 @@ Mods: {
 			WulfrumDoorClosed.MapEntry: Дверь
 			WulfrumDoorOpen.MapEntry: Дверь
 			WulfrumFidgetPoster.MapEntry: Постер
-			WulfrumFridge.MapEntry: Холодильник
+			WulfrumFridge.MapEntry: "{$Items.WulfrumFridgeItem.DisplayName}"
 			WulfrumGrapplerPoster.MapEntry: Постер
 			WulfrumGyratorPoster.MapEntry: Постер
 			WulfrumHatchClosed.MapEntry: Люк
 			WulfrumHatchOpen.MapEntry: Люк
-			WulfrumLocker.MapEntry: Подвесной шкафчик
+			WulfrumLocker.MapEntry: "{$Items.WulfrumLockerItem.DisplayName}"
 			WulfrumMagnetizerPoster.MapEntry: Постер
 			WulfrumModularChair.MapEntry: Модульное кресло
 			WulfrumMortarPoster.MapEntry: Постер
@@ -57,14 +57,14 @@ Mods: {
 			WulfrumWashingMachinePoster.MapEntry: Постер
 			WulfrumWideComputer.MapEntry: Компьютер
 			WulfrumWorkbench.MapEntry: Верстак
-			WulfrumWorkshop.MapEntry: Вульфрумовая мастерская
+			WulfrumWorkshop.MapEntry: "{$Items.WulfrumWorkshopItem.DisplayName}"
 			Wulfrum1x1Piles.MapEntry: Металлолом
 			Wulfrum1x1PilesEcho.MapEntry: Металлолом
 			Wulfrum3x2Piles.MapEntry: Металлолом
 			Wulfrum3x2PilesEcho.MapEntry: Металлолом
 			WulfrumChestLocked.MapEntry: Закрытый сундук
 			WulfrumLandfill.MapEntry: Груда металлолома
-			WulfrumLure.MapEntry: Вульфрумовый маячок
+			WulfrumLure.MapEntry: "{$Items.WulfrumLureItem.DisplayName}"
 			WulfrumPipes.MapEntry: Труба
 			WulfrumRotorLandfill.MapEntry: Груда металлолома
 			WulfrumSmokingPipes.MapEntry: Труба
@@ -75,15 +75,15 @@ Mods: {
 			WulfrumBigRotorLandfill.MapEntry: Груда металлолома
 			DustyCrates.MapEntry: Ящик
 			DustyCratesEcho.MapEntry: Ящик
-			TripodTorchTile.MapEntry: Факел
+			TripodTorchTile.MapEntry: "{$Items.TripodTorch.DisplayName}"
 			BrokenDummy.MapEntry: Манекен
 			BrokenDummyEcho.MapEntry: Манекен
 			SandstoneCampfireTile.MapEntry: Костёр
 			SandyTentTile.MapEntry: Палатка
 			MakeshiftStoolTile.MapEntry: Табуретка
 			DesertBrazierTile.MapEntry: Жаровня
-			DesertBrickPillarTile.MapEntry: Колонна из песчаного кирпича
-			SandstonePillarTile.MapEntry: Колонна из песчаника
+			DesertBrickPillarTile.MapEntry: "{$Items.DesertBrickPillar.DisplayName}"
+			SandstonePillarTile.MapEntry: "{$Items.SandstonePillar.DisplayName}"
 			ShatteredTabletPaintingTile.MapEntry: Скрижаль
 			DustyBricks.MapEntry: Пыльный кирпич
 			GrimyGrate.MapEntry: Грязная решётка
@@ -100,16 +100,16 @@ Mods: {
 			BunkerLongTableRubbleEcho.MapEntry: Большой стол
 			BunkerTableRubble.MapEntry: Стол
 			BunkerTableRubbleEcho.MapEntry: Стол
-			BunkerWorkshopRubble.MapEntry: Мастерская
-			BunkerWorkshopRubbleEcho.MapEntry: Мастерская
-			BunkerWorkshop.MapEntry: Мастерская
-			WulfrumVault.MapEntry: Хранилище
+			BunkerWorkshopRubble.MapEntry: Бункерная мастерская
+			BunkerWorkshopRubbleEcho.MapEntry: Бункерная мастерская
+			BunkerWorkshop.MapEntry: Бункерная мастерская
+			WulfrumVault.MapEntry: "{$Items.WulfrumVaultItem.DisplayName}"
 			WulfrumVaultLocked.MapEntry: Закрытое хранилище
 			WulfrumDeskLamp.MapEntry: Настольная лампа
 			WulfrumLamppost.MapEntry: Фонарь
 		}
 
-		Conditions.InNautilusChamber: Можно найти в запечатанной пещере
+		Conditions.InNautilusChamber: В запечатанной пещере
 
 		Compat: {
 			BossChecklist: {
@@ -156,7 +156,7 @@ Mods: {
 			MushSlingshot.DisplayName: Грибной крюк
 			OvergrownClawProjectile.DisplayName: Клешня
 			OvergrownClawSlamHitbox.DisplayName: Землетрясения
-			SerratedMyceliumHook.DisplayName: Колючая нить
+			SerratedMyceliumHook.DisplayName: Цепкая нить
 			SporePodSplort.DisplayName: Брызг
 			SporethrowerJet.DisplayName: Споры
 			SyringeGunDart.DisplayName: Шприц
@@ -169,28 +169,28 @@ Mods: {
 			CarrionDetonatorMeatBlast.DisplayName: Мясовзрыв
 			CarrionDetonatorMeatChunk.DisplayName: Мясной шар
 			CarrionDetonatorWindWave.DisplayName: Ветряной разрез
-			MiniElectroblast.DisplayName: КРУТЕЦКИЙ ВЗРЫВ
+			MiniElectroblast.DisplayName: Электровзрыв
 			RegurgitatedBuff.DisplayName: Отрыгнутая еда
 			StormlionWhipProjectile.DisplayName: Хлыст штормового льва
 			TinyScourgePet.DisplayName: Крошка бич
-			TornElectrosacBall.DisplayName: ШЕДЕВРОМЯЧ
+			TornElectrosacBall.DisplayName: "{$Items.TornElectrosac.DisplayName}"
 			AcidExplosion.DisplayName: Кислотный взрыв
 			BouncyDartProj.DisplayName: Отскакивающий дротик
 			BrambleMinion.DisplayName: Перекати-поле
-			BundleOfCaltropsProjectile.DisplayName: Мешок с рогульками
+			BundleOfCaltropsProjectile.DisplayName: "{$Items.BundleOfCaltrops.DisplayName}"
 			Caltrop.DisplayName: Рогулька
-			CloudInAMaceProjectile.DisplayName: Облако в булаве
-			CloudySpikeBallProjectile.DisplayName: Шипастый облачный шар
+			CloudInAMaceProjectile.DisplayName: "{$Items.CloudInAMace.DisplayName}"
+			CloudySpikeBallProjectile.DisplayName: "{$Items.CloudySpikeBall.DisplayName}"
 			CrackshotBlast.DisplayName: Взрыв
 			CrackshotCoin.DisplayName: Монета
 			DesertScourgeLightningStrike.DisplayName: Удар грома
 			EyetoothMincedMeat.DisplayName: Мясной шарф
-			EyetoothRipperProjectile.DisplayName: Зубоглаз-потрошитель
+			EyetoothRipperProjectile.DisplayName: "{$Items.EyetoothRipper.DisplayName}"
 			FanaticalMaskGlobule.DisplayName: Тромбоцит
-			FanaticalMaskProjectile.DisplayName: Маска фанатика
+			FanaticalMaskProjectile.DisplayName: "{$Items.FanaticalMask.DisplayName}"
 			FanaticalMaskTendril.DisplayName: Кровавый вырост
 			LeechExplosion.DisplayName: Взрыв нейротоксина
-			ObsidianThrowingDaggerProj.DisplayName: Нож
+			ObsidianThrowingDaggerProj.DisplayName: Метательный нож
 			PlasmaRodBlast.DisplayName: Плазменный выстрел
 			PlasmaRodBoltExplosion.DisplayName: Плазменный взрыв
 			PlasmaRodDart.DisplayName: Плазменный выстрел
@@ -201,9 +201,9 @@ Mods: {
 			SpikedBallFragment.DisplayName: Осколок
 			SpikedBallProjectile.DisplayName: Колючий шар
 			WoodenDartProj.DisplayName: Деревянный дротик
-			MarniteDeconstructorProj.DisplayName: Мранитовый расщепитель
+			MarniteDeconstructorProj.DisplayName: "{$Items.MarniteDeconstructor.DisplayName}"
 			MarniteRepulsionHitbox.DisplayName: Репульсионная матрица
-			MarniteObliteratorProj.DisplayName: Мранитовый уничтожитель
+			MarniteObliteratorProj.DisplayName: "{$Items.MarniteObliterator.DisplayName}"
 			LittleDragonfish.DisplayName: Маленькая драконья рыба
 			NautilusGhostApparition.DisplayName: Наутилус
 			PossessedTridentProjectile.DisplayName: Трезубец
@@ -215,7 +215,7 @@ Mods: {
 			WulfrumFusionBolt.DisplayName: Фузионный выстрел
 			WulfrumHook.DisplayName: Вульфрумовый канат
 			WulfrumManaDrain.DisplayName: Похищение маны
-			WulfrumScaffoldKitHoldout.DisplayName: Вульфрумовый набор строительных лесов
+			WulfrumScaffoldKitHoldout.DisplayName: "{$Items.WulfrumScaffoldKit.DisplayName}"
 			WulfrumScrapBullet.DisplayName: Высокоскоростной металлолом
 			WulfrumScrapFalling.DisplayName: Падающий вульфрумовый металлолом
 			WulfrumScrew.DisplayName: Винт
@@ -229,86 +229,86 @@ Mods: {
 			HostileDirectStrike.DisplayName: Сильный удар
 			MauricingScourgeHead.DisplayName: Останки
 			SandstoneGraveyardGhost.DisplayName: Призрак
-			AshenGraveMarkerProjectile.DisplayName: Пепельная могильная табличка
-			AshenHeadstoneProjectile.DisplayName: Пепельное надгробие
-			AshenTombstoneProjectile.DisplayName: Пепельная надгробная плита
-			AshenGravestoneProjectile.DisplayName: Пепельная могильная плита
-			CoralGraveMarkerProjectile.DisplayName: Коралловая могильная табличка
-			CoralTombstoneProjectile.DisplayName: Коралловая надгробная плита
-			ReefGraveMarkerProjectile.DisplayName: Рифовая могильная табличка
-			ReefTombstoneProjectile.DisplayName: Рифовая надгробная плита
-			CorruptCrossGraveMarkerProjectile.DisplayName: Искажённый могильный крест
-			CorruptObeliskProjectile.DisplayName: Искажённый обелиск
-			CorruptTombstoneProjectile.DisplayName: Искажённая надгробная плита
-			CorruptGraveMarkerProjectile.DisplayName: Искажённая могильная табличка
-			CrimsonTombstoneProjectile.DisplayName: Багровая надгробная плита
-			CrimsonGraveMarkerProjectile.DisplayName: Багровая могильная табличка
-			CrimsonHeadstoneProjectile.DisplayName: Багровое надгробие
-			CrimsonCrossGraveMarkerProjectile.DisplayName: Багровый могильный крест
-			CrimtaneTombstoneProjectile.DisplayName: Багротановая надгробная плита
-			CrimtaneObeliskProjectile.DisplayName: Багротановый обелиск
-			CrimtaneHeadstoneProjectile.DisplayName: Багротановое надгробие
-			CrimtaneGraveMarkerProjectile.DisplayName: Багротановая могильная табличка
-			CrystalTombstoneProjectile.DisplayName: Кристальная надгробная плита
-			CrystalHeadstoneProjectile.DisplayName: Кристальное надгробие
-			CrystalGraveMarkerProjectile.DisplayName: Кристальная могильная табличка
-			CrystalGravestoneProjectile.DisplayName: Кристальная могильная плита
-			DemoniteHeadstoneProjectile.DisplayName: Демонитовое надгробие
-			DemoniteObeliskProjectile.DisplayName: Демонитовый обелиск
-			DemoniteTombstoneProjectile.DisplayName: Демонитовая надгробная плита
-			DemoniteGraveMarkerProjectile.DisplayName: Демонитовая могильная табличка
-			FrozenHeadstoneProjectile.DisplayName: Замороженное надгробие
-			FrozenTombstoneProjectile.DisplayName: Замороженная надгробная плита
-			FrozenGraveMarkerProjectile.DisplayName: Замороженная могильная табличка
-			FrozenObeliskProjectile.DisplayName: Замороженный обелиск
-			GoldenFrozenHeadstoneProjectile.DisplayName: Золотое замороженное надгробие
-			GoldenFrozenTombstoneProjectile.DisplayName: Золотая замороженная надгробная плита
-			GoldenFrozenGraveMarkerProjectile.DisplayName: Золотая замороженная могильная табличка
-			GoldenFrozenObeliskProjectile.DisplayName: Золотой замороженный обелиск
-			GoldenMycelialCrossGraveMarkerProjectile.DisplayName: Золотой мицеливый могильный крест
-			GoldenMycelialGraveMarkerProjectile.DisplayName: Золотая мицеливая могильная табличка
-			GoldenMycelialHeadstoneProjectile.DisplayName: Золотая мицеливая надгробие
-			GoldenMycelialTombstoneProjectile.DisplayName: Золотая мицеливая надгробная плита
-			GoldenSandstoneGravestoneProjectile.DisplayName: Золотая песчаниковая могильная плита
-			GoldenSandstoneTombstoneProjectile.DisplayName: Золотая песчаниковая надгробная плита
-			GoldenSandstoneObeliskProjectile.DisplayName: Золотой песчаниковый обелиск
-			GoldenSandstoneHeadstoneProjectile.DisplayName: Золотое песчаниковое надгробие
-			BambooGraveMarkerProjectile.DisplayName: Бамбуковая могильная табличка
-			JungleGraveMarkerProjectile.DisplayName: Могильная табличка джунглей
-			JungleCrossGraveMarkerProjectile.DisplayName: Могильный крест джунглей
-			JungleHeadstoneProjectile.DisplayName: Надгробие джунглей 
-			LihzahrdGravestoneProjectile.DisplayName: Ящщеровая могильная плита
-			LihzahrdTombstoneProjectile.DisplayName: Ящщеровая надгробная плита
-			LihzahrdGraveMarkerProjectile.DisplayName: Ящщеровая могильная табличка
-			LihzahrdHeadstoneProjectile.DisplayName: Ящщеровое надгробие
-			MantleGraveMarkerProjectile.DisplayName: Магматическая могильная табличка
-			MantleHeadstoneProjectile.DisplayName: Магматическое надгробие
-			MantleTombstoneProjectile.DisplayName: Магматическая надгробная плита
-			MantleGravestoneProjectile.DisplayName: Магматическая могильная плита
-			MycelialHeadstoneProjectile.DisplayName: Мицеливое надгробие
-			MycelialGravestoneProjectile.DisplayName: Мицеливая могильная плита
-			MycelialGraveMarkerProjectile.DisplayName: Мицеливая могильная табличка
-			MycelialTombstoneProjectile.DisplayName: Мицеливая надгробная плита
-			PearlstoneTombstoneProjectile.DisplayName: Жемчужная надгробная плита
-			PearlwoodGraveMarkerProjectile.DisplayName: Деревянная жемчужная могильная табличка
-			PearlstoneGraveMarkerProjectile.DisplayName: Жемчужная могильная табличка
-			PearlstoneGravestoneProjectile.DisplayName: Жемчужная могильная плита
-			SandstoneGraveMarkerProjectile.DisplayName: Песчаниковая могильная табличка
-			SandstoneTombstoneProjectile.DisplayName: Песчаниковая надгробная плита
-			SandstoneObeliskProjectile.DisplayName: Песчаниковый обелиск
-			SandstoneCrossGraveMarkerProjectile.DisplayName: Песчаниковый могильный крест
-			PalmwoodCrossGraveMarkerProjectile.DisplayName: Пальмовый могильный крест
-			PalmwoodGraveMarkerProjectile.DisplayName: Пальмовая могильная табличка
-			PalmwoodShipwreckMarkerProjectile.DisplayName: Пальмовый крест кораблекрушения
-			SeashellTombstoneProjectile.DisplayName: Ракушечная надгробная плита
-			SkyGraveMarkerProjectile.DisplayName: Небесная могильная табличка
-			SkyCrossGraveMarkerProjectile.DisplayName: Небесный могильный крест
-			SkyGravestoneProjectile.DisplayName: Небесная могильная плита
-			SkyCairnProjectile.DisplayName: Небесный курган
-			SkywareTombstoneProjectile.DisplayName: Заоблачная надгробная плита
-			SkywareCrossGraveMarkerProjectile.DisplayName: Заоблачный могильный крест
-			SkywareHeadstoneProjectile.DisplayName: Заоблачное надгробие
-			SkywareGraveMarkerProjectile.DisplayName: Заоблачная могильная табличка
+			AshenGraveMarkerProjectile.DisplayName: "{$Items.AshenGraveMarkerItem.DisplayName}"
+			AshenHeadstoneProjectile.DisplayName: "{$Items.AshenHeadstoneItem.DisplayName}"
+			AshenTombstoneProjectile.DisplayName: "{$Items.AshenTombstoneItem.DisplayName}"
+			AshenGravestoneProjectile.DisplayName: "{$Items.AshenGravestoneItem.DisplayName}"
+			CoralGraveMarkerProjectile.DisplayName: "{$Items.CoralGraveMarkerItem.DisplayName}"
+			CoralTombstoneProjectile.DisplayName: "{$Items.CoralTombstoneItem.DisplayName}"
+			ReefGraveMarkerProjectile.DisplayName: "{$Items.ReefGraveMarkerItem.DisplayName}"
+			ReefTombstoneProjectile.DisplayName: "{$Items.ReefTombstoneItem.DisplayName}"
+			CorruptCrossGraveMarkerProjectile.DisplayName: "{$Items.CorruptCrossGraveMarkerItem.DisplayName}"
+			CorruptObeliskProjectile.DisplayName: "{$Items.CorruptObeliskItem.DisplayName}"
+			CorruptTombstoneProjectile.DisplayName: "{$Items.CorruptTombstoneItem.DisplayName}"
+			CorruptGraveMarkerProjectile.DisplayName: "{$Items.CorruptGraveMarkerItem.DisplayName}"
+			CrimsonTombstoneProjectile.DisplayName: "{$Items.CrimsonTombstoneItem.DisplayName}"
+			CrimsonGraveMarkerProjectile.DisplayName: "{$Items.CrimsonGraveMarkerItem.DisplayName}"
+			CrimsonHeadstoneProjectile.DisplayName: "{$Items.CrimsonHeadstoneItem.DisplayName}"
+			CrimsonCrossGraveMarkerProjectile.DisplayName: "{$Items.CrimsonCrossGraveMarkerItem.DisplayName}"
+			CrimtaneTombstoneProjectile.DisplayName: "{$Items.CrimtaneTombstoneItem.DisplayName}"
+			CrimtaneObeliskProjectile.DisplayName: "{$Items.CrimtaneObeliskItem.DisplayName}"
+			CrimtaneHeadstoneProjectile.DisplayName: "{$Items.CrimtaneHeadstoneItem.DisplayName}"
+			CrimtaneGraveMarkerProjectile.DisplayName: "{$Items.CrimtaneGraveMarkerItem.DisplayName}"
+			CrystalTombstoneProjectile.DisplayName: "{$Items.CrystalTombstoneItem.DisplayName}"
+			CrystalHeadstoneProjectile.DisplayName: "{$Items.CrystalHeadstoneItem.DisplayName}"
+			CrystalGraveMarkerProjectile.DisplayName: "{$Items.CrystalGraveMarkerItem.DisplayName}"
+			CrystalGravestoneProjectile.DisplayName: "{$Items.CrystalGravestoneItem.DisplayName}"
+			DemoniteHeadstoneProjectile.DisplayName: "{$Items.DemoniteHeadstoneItem.DisplayName}"
+			DemoniteObeliskProjectile.DisplayName: "{$Items.DemoniteObeliskItem.DisplayName}"
+			DemoniteTombstoneProjectile.DisplayName: "{$Items.DemoniteTombstoneItem.DisplayName}"
+			DemoniteGraveMarkerProjectile.DisplayName: "{$Items.DemoniteGraveMarkerItem.DisplayName}"
+			FrozenHeadstoneProjectile.DisplayName: "{$Items.FrozenHeadstoneItem.DisplayName}"
+			FrozenTombstoneProjectile.DisplayName: "{$Items.FrozenTombstoneItem.DisplayName}"
+			FrozenGraveMarkerProjectile.DisplayName: "{$Items.FrozenGraveMarkerItem.DisplayName}"
+			FrozenObeliskProjectile.DisplayName: "{$Items.FrozenObeliskItem.DisplayName}"
+			GoldenFrozenHeadstoneProjectile.DisplayName: "{$Items.GoldenFrozenHeadstoneItem.DisplayName}"
+			GoldenFrozenTombstoneProjectile.DisplayName: "{$Items.GoldenFrozenTombstoneItem.DisplayName}"
+			GoldenFrozenGraveMarkerProjectile.DisplayName: "{$Items.GoldenFrozenGraveMarkerItem.DisplayName}"
+			GoldenFrozenObeliskProjectile.DisplayName: "{$Items.GoldenFrozenObeliskItem.DisplayName}"
+			GoldenMycelialCrossGraveMarkerProjectile.DisplayName: "{$Items.GoldenMycelialCrossGraveMarkerItem.DisplayName}"
+			GoldenMycelialGraveMarkerProjectile.DisplayName: "{$Items.GoldenMycelialGraveMarkerItem.DisplayName}"
+			GoldenMycelialHeadstoneProjectile.DisplayName: "{$Items.GoldenMycelialHeadstoneItem.DisplayName}"
+			GoldenMycelialTombstoneProjectile.DisplayName: "{$Items.GoldenMycelialTombstoneItem.DisplayName}"
+			GoldenSandstoneGravestoneProjectile.DisplayName: "{$Items.GoldenSandstoneGravestoneItem.DisplayName}"
+			GoldenSandstoneTombstoneProjectile.DisplayName: "{$Items.GoldenSandstoneTombstoneItem.DisplayName}"
+			GoldenSandstoneObeliskProjectile.DisplayName: "{$Items.GoldenSandstoneObeliskItem.DisplayName}"
+			GoldenSandstoneHeadstoneProjectile.DisplayName: "{$Items.GoldenSandstoneHeadstoneItem.DisplayName}"
+			BambooGraveMarkerProjectile.DisplayName: "{$Items.BambooGraveMarkerItem.DisplayName}"
+			JungleGraveMarkerProjectile.DisplayName: "{$Items.JungleGraveMarkerItem.DisplayName}"
+			JungleCrossGraveMarkerProjectile.DisplayName: "{$Items.JungleCrossGraveMarkerItem.DisplayName}"
+			JungleHeadstoneProjectile.DisplayName: "{$Items.JungleHeadstoneItem.DisplayName}"
+			LihzahrdGravestoneProjectile.DisplayName: "{$Items.LihzahrdGravestoneItem.DisplayName}"
+			LihzahrdTombstoneProjectile.DisplayName: "{$Items.LihzahrdTombstoneItem.DisplayName}"
+			LihzahrdGraveMarkerProjectile.DisplayName: "{$Items.LihzahrdGraveMarkerItem.DisplayName}"
+			LihzahrdHeadstoneProjectile.DisplayName: "{$Items.LihzahrdHeadstoneItem.DisplayName}"
+			MantleGraveMarkerProjectile.DisplayName: "{$Items.MantleGraveMarkerItem.DisplayName}"
+			MantleHeadstoneProjectile.DisplayName: "{$Items.MantleHeadstoneItem.DisplayName}"
+			MantleTombstoneProjectile.DisplayName: "{$Items.MantleTombstoneItem.DisplayName}"
+			MantleGravestoneProjectile.DisplayName: "{$Items.MantleGravestoneItem.DisplayName}"
+			MycelialHeadstoneProjectile.DisplayName: "{$Items.MycelialHeadstoneItem.DisplayName}"
+			MycelialGravestoneProjectile.DisplayName: "{$Items.MycelialGravestoneItem.DisplayName}"
+			MycelialGraveMarkerProjectile.DisplayName: "{$Items.MycelialGraveMarkerItem.DisplayName}"
+			MycelialTombstoneProjectile.DisplayName: "{$Items.MycelialTombstoneItem.DisplayName}"
+			PearlstoneTombstoneProjectile.DisplayName: "{$Items.PearlstoneTombstoneItem.DisplayName}"
+			PearlwoodGraveMarkerProjectile.DisplayName: "{$Items.PearlwoodGraveMarkerItem.DisplayName}"
+			PearlstoneGraveMarkerProjectile.DisplayName: "{$Items.PearlstoneGraveMarkerItem.DisplayName}"
+			PearlstoneGravestoneProjectile.DisplayName: "{$Items.PearlstoneGravestoneItem.DisplayName}"
+			SandstoneGraveMarkerProjectile.DisplayName: "{$Items.SandstoneGraveMarkerItem.DisplayName}"
+			SandstoneTombstoneProjectile.DisplayName: "{$Items.SandstoneTombstoneItem.DisplayName}"
+			SandstoneObeliskProjectile.DisplayName: "{$Items.SandstoneObeliskItem.DisplayName}"
+			SandstoneCrossGraveMarkerProjectile.DisplayName: "{$Items.SandstoneCrossGraveMarkerItem.DisplayName}"
+			PalmwoodCrossGraveMarkerProjectile.DisplayName: "{$Items.PalmwoodCrossGraveMarkerItem.DisplayName}"
+			PalmwoodGraveMarkerProjectile.DisplayName: "{$Items.PalmwoodGraveMarkerItem.DisplayName}"
+			PalmwoodShipwreckMarkerProjectile.DisplayName: "{$Items.PalmwoodShipwreckMarkerItem.DisplayName}"
+			SeashellTombstoneProjectile.DisplayName: "{$Items.SeashellTombstoneItem.DisplayName}"
+			SkyGraveMarkerProjectile.DisplayName: "{$Items.SkyGraveMarkerItem.DisplayName}"
+			SkyCrossGraveMarkerProjectile.DisplayName: "{$Items.SkyCrossGraveMarkerItem.DisplayName}"
+			SkyGravestoneProjectile.DisplayName: "{$Items.SkyGravestoneItem.DisplayName}"
+			SkyCairnProjectile.DisplayName: "{$Items.SkyCairnItem.DisplayName}"
+			SkywareTombstoneProjectile.DisplayName: "{$Items.SkywareTombstoneItem.DisplayName}"
+			SkywareCrossGraveMarkerProjectile.DisplayName: "{$Items.SkywareCrossGraveMarkerItem.DisplayName}"
+			SkywareHeadstoneProjectile.DisplayName: "{$Items.SkywareHeadstoneItem.DisplayName}"
+			SkywareGraveMarkerProjectile.DisplayName: "{$Items.SkywareGraveMarkerItem.DisplayName}"
 			WulfrumLureSignal.DisplayName: Сигнал
 			SporedCorpse.DisplayName: Покрытый спорами труп
 			BurntCorpse.DisplayName: Обгоревший труп
@@ -347,7 +347,7 @@ Mods: {
 
 			StormlionLarvaBannerItem: {
 				DisplayName: Знамя личинки штормового льва
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Личинка штормового льва"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.StormlionLarva.DisplayName}"
 			}
 
 			StormlionLarvaItem: {
@@ -431,7 +431,7 @@ Mods: {
 			}
 
 			DesertMirageDye: {
-				DisplayName: Пустынный миражевый краситель
+				DisplayName: Краситель пустынного миража
 				Tooltip: ""
 			}
 
@@ -444,7 +444,7 @@ Mods: {
 				DisplayName: Электроклетки
 				Tooltip:
 					'''
-					Расходуются при получении вами 50 ед. урона или больше за раз
+					Расходуются при получении вами 50 или более ед. урона за раз
 					Выпускают цепную молнию в ближайших врагов, мгновенно отскакивающую между ними
 					«Эта органическая слизь изредка потрескивает и обжигает при прикосновении»
 					'''
@@ -496,7 +496,7 @@ Mods: {
 				Tooltip:
 					'''
 					Призывает стража в чернильной шапочке сражаться за вас
-					Нажмите <right> над каким-либо блоком, чтобы заставить стража пустить корни в этом месте
+					Нажмите ПКМ над каким-либо блоком, чтобы заставить стража пустить корни в этом месте
 					Пока страж находится в этом состоянии, вокруг него образуется исцеляющая аура
 					На пустившем корни страже также можно прыгать, как на батуте
 					Можно призвать только одного стража в чернильной шапочке
@@ -537,8 +537,8 @@ Mods: {
 				DisplayName: Заросшая клешня
 				Tooltip:
 					'''
-					Выпускает грибную клешню, способную хватать ваших врагов
-					Врагами небольшого размера можно свободно размахивать, кидаться, а также бить их об землю
+					Выпускает грибную клешню, способную хвататься за врагов
+					Врагами небольшого размера можно свободно размахивать и кидаться, а также бить их об землю
 					Врагам большого размера можно наносить дополнительный урон, натягивая и отрывая от них клешню
 					'''
 			}
@@ -568,7 +568,7 @@ Mods: {
 				DisplayName: Споровой стручок
 				Tooltip:
 					'''
-					Устанавливает стручок червоточины, к которому можно телепортироваться в любой момент, нажав на его иконку на карте
+					Устанавливает стручок червоточины, к которому можно телепортироваться в любой момент, нажав по его иконке на карте
 					Стручок завянет после первой же телепортации к нему или после вашей смерти
 					Перезаряжается 1 минуту 30 секунд
 					'''
@@ -615,7 +615,7 @@ Mods: {
 				DisplayName: Лук с токопроводящей тетивой
 				Tooltip:
 					'''
-					Нажмите <right>, чтобы выстрелить токопроводящей иглой
+					Нажмите ПКМ, чтобы выстрелить иглой
 					Между иглами автоматически образуется электрическая дуга
 					Враги, попавшие под действие этой электрической дуги, будут получать больше урона от стрел
 					'''
@@ -627,7 +627,7 @@ Mods: {
 					'''
 					Запускает раздирающие песчаные порывы, способные отрывать куски от врагов
 					Куски плоти сливаются, что увеличивает их размер и силу
-					Нажмите <right>, чтобы взорвать все существующие куски плоти
+					Нажмите ПКМ, чтобы взорвать все существующие куски плоти
 					'''
 			}
 
@@ -642,7 +642,7 @@ Mods: {
 					'''
 					Получение большого количества урона заставляет вас выблёвывать бафф от еды в качестве наносящего урон снаряда
 					Вы можете съесть выблеванную еду, чтобы восстановить бафф
-					Поедание блевоты даёт дополнительную регенерацию и увеличивает характеристики
+					Поедание блевоты также даёт бонус к регенерации и увеличивает характеристики
 					[c/b3b2af:«Желаете ли вы послеобеденную мяту, мсье?»]
 					'''
 			}
@@ -662,15 +662,15 @@ Mods: {
 				Tooltip:
 					'''
 					{$CommonItemTooltip.Whips}
-					Удерживайте <left>, чтобы зацепиться за врага
+					Удерживайте ЛКМ, чтобы зацепиться за врага
 					На врагах, за которых вы зацепились, будет накапливаться статичное электричество
 					Атаки миньонов ускоряют накопление электричества
-					Отпустите <left>, чтобы вызвать взрыв статичного электричества
+					Отпустите ЛКМ, чтобы вызвать взрыв статичного электричества
 					'''
 			}
 
 			TornElectrosac: {
-				DisplayName: Шипастая электрокиста
+				DisplayName: Оторванная электрокиста
 				Tooltip:
 					'''
 					На удивление прыгучий орган, который может отскакивать от поверхностей
@@ -690,7 +690,7 @@ Mods: {
 				Tooltip:
 					'''
 					Призывает два перекати-поля, вращающихся вокруг вас
-					Атакуйте перекати-поля хлыстом, чтобы запульнуть их вперёд
+					Перекати-поля можно запульнуть вперёд, атаковав их хлыстом
 					'''
 			}
 
@@ -698,7 +698,7 @@ Mods: {
 				DisplayName: Мешок с рогульками
 				Tooltip:
 					'''
-					Удерживайте ЛКМ, чтобы раскручивать мешок вокруг себя словно кистень и накапливать рогульки для броска
+					Удерживайте ЛКМ, чтобы раскручивать мешок вокруг себя подобно кистеню и накопить рогульки для броска
 					Отпустите ЛКМ, чтобы бросить все накопившиеся рогульки перед собой
 					Чем дольше вы раскручиваете мешок вокруг себя, тем больше рогулек вы сможете бросить
 					Удары самим мешком во время раскручивания позволяют накапливать рогульки для броска значительно быстрее
@@ -711,7 +711,7 @@ Mods: {
 			}
 
 			CloudySpikeBall: {
-				DisplayName: Шипастый облачный шар
+				DisplayName: Облачный колючий шар
 				Tooltip: ""
 			}
 
@@ -719,7 +719,7 @@ Mods: {
 				DisplayName: Рикошетный кольт
 				Tooltip:
 					'''
-					Нажмите <right>, чтобы подбросить монетку в воздух
+					Нажмите ПКМ, чтобы подбросить монетку в воздух
 					При попадании по монетке, пуля отрикошетит от других подброшенных монет и полетит в ближайшего врага
 					Каждый рикошет от монет значительно увеличивает урон пули
 					Подбрасывание монеты тратит одну медную монету
@@ -736,7 +736,7 @@ Mods: {
 				Tooltip:
 					'''
 					Увеличивает скорость передвижения на 12%
-					Даёт невосприимчивость к «Сильному ветру»
+					Даёт невосприимчивость к дебаффу «{$BuffName.WindPushed}»
 					'''
 			}
 
@@ -750,7 +750,7 @@ Mods: {
 				Tooltip:
 					'''
 					Забивается мясом при ударах по врагам
-					Нажмите <right>, чтобы выбросить забившееся мясо
+					Нажмите ПКМ, чтобы выбросить забившееся мясо
 					[c/A1A1A1:«Что ты вообще такое? Какой-то тип человека-циркулярной пилы?»]
 					'''
 			}
@@ -801,8 +801,8 @@ Mods: {
 				DisplayName: Ядовитая духовая трубка
 				Tooltip:
 					'''
-					Используйте <left>, чтобы стрелять дротиками с кислотой, снижающей защиту врагов
-					Используйте <right>, чтобы стрелять дротиками с нейротоксином, крадущим здоровье врагов
+					Нажмите ЛКМ, чтобы выстрелить дротиком с кислотой, снижающим защиту врагов
+					Нажмите ПКМ, чтобы выстрелить дротикам с нейротоксином, крадущим здоровье врагов
 					Смешивать эти вещества может быть взрывоопасно...
 					'''
 			}
@@ -836,7 +836,7 @@ Mods: {
 				Tooltip:
 					'''
 					Враги, находящиеся за вами, поражаются иглами твёрдого света, обладающими сильным отбрасыванием
-					[c/FFF191:Скажем нет ударам в спину!]
+					[c/FFF191:«Скажем нет ударам в спину!»]
 					'''
 			}
 
@@ -853,7 +853,7 @@ Mods: {
 				DisplayName: Коралловая клетка
 				Tooltip:
 					'''
-					Призывает маленькую драконью рыбу
+					Призывает маленькую рыбу-дракона
 					«Или коралловая кораль, если угодно»
 					'''
 			}
@@ -997,11 +997,11 @@ Mods: {
 				DisplayName: Заржавевший вульфрумовый шлем
 				Tooltip:
 					'''
-					Потрёпанный ржавый шлем, похожий на старые модели вульфрумовой силовой брони
+					Потрёпанный ржавый шлем, похожий на старые модели силовой вульфрумовой брони
 					Превращает владельца в вульфрумового робота
 					Может быть надет в слот головы как обычная экипировка
-					[c/83B87E:Эту хлипкую броню обычно носили мародёры и грабители]
-					[c/83B87E:Её универсальность и легкодоступность сделала вульфрум международной валютой в сделках]
+					[c/83B87E:«Эту хлипкую броню обычно носили мародёры и грабители»]
+					[c/83B87E:«Её универсальность и легкодоступность сделала вульфрум международной валютой в сделках»]
 					'''
 			}
 
@@ -1030,8 +1030,8 @@ Mods: {
 				Tooltip:
 					'''
 					Превращает ваш крюк в вульфрумовый канат, на котором можно раскачиваться
-					Удерживайте кнопку ВВЕРХ, чтобы медленно притягиваться к точке захвата
-					Автоматически пытается зацепиться за ближайшие блоки при падении с большой высоты, если не зажата кнопка ВНИЗ
+					Удерживайте клавишу ВВЕРХ, чтобы медленно притягиваться к точке захвата
+					Автоматически пытается зацепиться за ближайшие блоки при падении с большой высоты, если не зажата клавиша ВНИЗ
 					Увеличивает скорость передвижения на {0}%
 					'''
 			}
@@ -1052,8 +1052,8 @@ Mods: {
 				Tooltip:
 					'''
 					Призывает вульфрумового дроида
-					Удержание <right> переводит всех дронов в режим сверхзарядки
-					Сверхзаряженные дроны прекращают атаки, направляя энергию на вас
+					Удерживание ПКМ переводит всех дронов в режим сверхзаряда
+					Сверхзаряженные дроны прекращают атаки, направляя свою энергию на вас
 					Эта энергия ускоряет регенерацию здоровья и увеличивает защиту
 					Может исцелять других игроков, если навести курсор на них
 					'''
@@ -1064,7 +1064,7 @@ Mods: {
 				Tooltip:
 					'''
 					Бросает неустойчивую горнодобывающую машину, выкапывающую небольшой туннель
-					В чрезвычайных ситуациях нажмите <right>, чтобы мгновенно взорвать всех копающих черепах
+					В чрезвычайных ситуациях нажмите ПКМ, чтобы мгновенно взорвать всех копающих черепах
 					'''
 			}
 
@@ -1111,7 +1111,7 @@ Mods: {
 				Tooltip:
 					'''
 					Запускает вульфрумовый заряд
-					Нажмите <right>, чтобы выкачать ману из существ перед вами
+					Нажмите ПКМ, чтобы выкачать ману из существ перед вами
 					[c/83B87E:«Технология и магия вовлечены в бесконечное противостояние, где одна копирует другую»]
 					[c/83B87E:«Порой они работают в тандеме, как видно на примере некоторых протезов»]
 					'''
@@ -1124,7 +1124,7 @@ Mods: {
 					Устанавливает временные металлические леса
 					Расходует один металлический вульфрумовый металлолом на 40 построенных блоков
 					Для установки лесов необходимо, чтобы они прилегали к цельному блоку
-					[c/83B87E:«Когда нужно построить что-то быстро, а долговечность не важна»]
+					[c/83B87E:«Когда в строительстве нужна скорость, а не долговечность»]
 					'''
 			}
 
@@ -1133,7 +1133,7 @@ Mods: {
 				Tooltip:
 					'''
 					Может быстро убить любого врага, если он достаточно слаб
-					При нанесении ударов по врагу вы иногда получаете вульфрумовый винт, который вы можете бросить, нажав <right>
+					При нанесении ударов по врагу иногда даёт вульфрумовый винт, который можно бросить, нажав ПКМ
 					Если ударить отвёрткой по брошенному винту, то он полетит вперёд на большой скорости и нанесёт значительно больше урона
 					[c/83B87E:«Кто делает плоскую головку отвёртки настолько большой? Как я вообще могу этим работать?! Ей же можно глаз открутить!»]
 					[c/83B87E:«...А-а»]
@@ -1145,53 +1145,53 @@ Mods: {
 				Tooltip:
 					'''
 					Находит поблизости металлы, которые, надеемся, ценнее вульфрума
-					Это устройство выглядит крайне ненадёжным. [c/fc4903:Он определённо сломается раньше, чем вы думаете]
+					Это устройство выглядит крайне ненадёжным. [c/fc4903:Оно определённо сломается раньше, чем вы думаете]
 					'''
 			}
 
 			StormlionBannerItem: {
 				DisplayName: Знамя штормового льва
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Штормовой лев"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.Stormlion.DisplayName}"
 			}
 
 			GeodeCrawlerBannerItem: {
 				DisplayName: Знамя жеодового ползуна
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Жеодовый ползун"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.GeodeCrawlerун.DisplayName}"
 			}
 
 			CloudSpriteBannerItem: {
 				DisplayName: Знамя облачного духа
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Облачный дух"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.CloudSprite.DisplayName}"
 			}
 
 			WulfrumGrapplerBannerItem: {
 				DisplayName: Знамя вульфрумового зацепщика
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый зацепщик"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.WulfrumGrappler.DisplayName}"
 			}
 
 			WulfrumMagnetizerBannerItem: {
 				DisplayName: Знамя вульфрумового магнетизёра
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый магнетизёр"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.WulfrumMagnetizer.DisplayName}"
 			}
 
 			WulfrumMortarBannerItem: {
 				DisplayName: Знамя вульфрумового миномётчика
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый миномётчик"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.WulfrumMortar.DisplayName}"
 			}
 
 			WulfrumNexusBannerItem: {
 				DisplayName: Знамя вульфрумового узла связи
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый узел связи"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.WulfrumNexus.DisplayName}"
 			}
 
 			WulfrumRollerBannerItem: {
 				DisplayName: Знамя вульфрумового катка
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый каток"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.WulfrumRoller.DisplayName}"
 			}
 
 			WulfrumRoverBannerItem: {
 				DisplayName: Знамя вульфрумового скитальца
-				Tooltip: "{$CommonItemTooltip.BannerBonus}Вульфрумовый скиталец"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.WulfrumRover.DisplayName}"
 			}
 
 			CeilingChisel: {
@@ -1236,7 +1236,7 @@ Mods: {
 
 			MirageDust: {
 				DisplayName: Миражная пыль
-				Tooltip: Можно рассыпать на пол, создавая столб призрачной пыли
+				Tooltip: Можно рассыпать на пол, чтобы создать столб призрачной пыли
 			}
 
 			NautilusCrossingTheDunesItem: {
@@ -1261,7 +1261,7 @@ Mods: {
 
 			SandstonePillar: {
 				DisplayName: Песчаниковая колонна
-				Tooltip: Можно изменять узор трещин молотком
+				Tooltip: Можно изменить узор трещин с помощью молота
 			}
 
 			SandyTent: {
@@ -1270,7 +1270,7 @@ Mods: {
 			}
 
 			ScourgekillerPainting: {
-				DisplayName: Картина «Бич-убийца»
+				DisplayName: Скрижаль «Убийца бичей»
 				Tooltip: «Обнаружена Дж. Дингом»
 			}
 
@@ -1283,7 +1283,7 @@ Mods: {
 				DisplayName: Призрачная вода
 				Tooltip:
 					'''
-					Внутри клубятся духи
+					Содержит клубящихся духов
 					Можно использовать на поставленных игроками песчаниковых надгробиях, чтобы призывать призраков
 					Вы также можете использовать её на песчаниковых источниках света, чтобы заставить их гореть призрачным огнём
 					'''
@@ -1360,22 +1360,22 @@ Mods: {
 			}
 
 			CrimsonTombstoneItem: {
-				DisplayName: Багровая надгробная плита
+				DisplayName: Багряная надгробная плита
 				Tooltip: ""
 			}
 
 			CrimsonGraveMarkerItem: {
-				DisplayName: Багровая могильная табличка
+				DisplayName: Багряная могильная табличка
 				Tooltip: ""
 			}
 
 			CrimsonHeadstoneItem: {
-				DisplayName: Багровое надгробие
+				DisplayName: Багряное надгробие
 				Tooltip: ""
 			}
 
 			CrimsonCrossGraveMarkerItem: {
-				DisplayName: Багровый могильный крест
+				DisplayName: Багряный могильный крест
 				Tooltip: ""
 			}
 
@@ -1720,7 +1720,7 @@ Mods: {
 			}
 
 			SealedChamberMusicBoxItem: {
-				DisplayName: Музыкальная шкатулка (Запечатанная пещера)
+				DisplayName: Музыкальная шкатулка (Запечатанная пещера, «Sealed Chamber»)
 				Tooltip: ""
 			}
 
@@ -1961,7 +1961,7 @@ Mods: {
 				Tooltip:
 					'''
 					«Всё новое — это хорошо забытое старое! Погрузитесь в ностальгию прошлого с этой незабываемой классикой Вульфрум Корпорейшен!
-					Выдаётся беспластно за любую покупку в Вульфрум Корпорейшен»
+					Выдаётся бесплатно за любую покупку в Вульфрум Корпорейшен»
 					'''
 			}
 
@@ -2118,7 +2118,7 @@ Mods: {
 
 			WulfrumWorkshopItem: {
 				DisplayName: Вульфрумовая мастерская
-				Tooltip: Используется для создания особых предметов
+				Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
 			}
 
 			WulfrumBigRotorItem: {
@@ -2132,11 +2132,11 @@ Mods: {
 			}
 
 			WulfrumLureItem: {
-				DisplayName: Вульфрумовая приманка
+				DisplayName: Вульфрумовый маячок
 				Tooltip:
 					'''
 					Излучает сигнал, приманивающий вульфрумовых роботов в течении {0} {^0:секунды;секунд}
-					Можно активировать только раз в день
+					Можно активировать только 1 раз в день
 					'''
 			}
 
@@ -2162,7 +2162,7 @@ Mods: {
 
 			BunkerWorkshopItem: {
 				DisplayName: Бункерная вульфрумовая мастерская
-				Tooltip: Используется для создания особых предметов
+				Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
 			}
 
 			DullPlatingItem: {
@@ -2194,7 +2194,7 @@ Mods: {
 				Tooltip:
 					'''
 					Пропускает через себя только жидкости
-					«Идеально подходит для клеток в индустриальном стиле!»
+					«Идеально подходит для решёток в индустриальном стиле!»
 					'''
 			}
 
@@ -2223,7 +2223,7 @@ Mods: {
 				Tooltip:
 					'''
 					Можно разместить
-					Нажмите ВВЕРХ/ВНИЗ для регулировки изгиба цепи
+					Нажмите ВВЕРХ/ВНИЗ, чтобы изменить изгиб цепи
 					'''
 			}
 
@@ -2337,7 +2337,7 @@ Mods: {
 
 			DustyBricksLichenItem: {
 				DisplayName: Мрачный лишайник
-				Tooltip: Может быть размещён на пыльных кирпичах
+				Tooltip: Можно разместить на пыльных кирпичах
 			}
 
 			CrabulonBossMaskAlt1: {
@@ -2384,7 +2384,7 @@ Mods: {
 			Potlet.DisplayName: Горшочничек
 			GeodeCrawler.DisplayName: Жеодовый ползун
 			CloudSprite.DisplayName: Облачный дух
-			WulfrumGrappler.DisplayName: Вульфрумовый цеплятель
+			WulfrumGrappler.DisplayName: Вульфрумовый зацепщик
 			WulfrumMagnetizer.DisplayName: Вульфрумовый магнетизёр
 			WulfrumMortar.DisplayName: Вульфрумовый миномётчик
 			WulfrumNexus.DisplayName: Вульфрумовый узел связи
@@ -2447,7 +2447,7 @@ Mods: {
 
 			InfestationDOT: {
 				DisplayName: Заражён!
-				Description: Сухожилия скручиваются, меняя плоть
+				Description: Сухожилия скручиваются, меняя форму тела
 			}
 
 			InkyCapGuardianBuff: {
@@ -2494,13 +2494,13 @@ Mods: {
 			}
 
 			BrambleMinionBuff: {
-				DisplayName: Шквал перекати-поле
-				Description: Вас защищают перекати-поле
+				DisplayName: Шквал перекати-поля
+				Description: Вас защищают перекати-поля
 			}
 
 			MarniteLiftBuff: {
 				DisplayName: Марнитовый лифт
-				Description: А ты вообще..?
+				Description: А ты вообще?..
 			}
 
 			ArmoredSignathionBuff: {
@@ -2518,12 +2518,9 @@ Mods: {
 			}
 
 			LittleDragonfishBuff: {
-				DisplayName: Малая рыба-дракон
+				DisplayName: Маленькая рыба-дракон
 				Description: Не имеет отношения к великим морским драконам
 			}
 		}
 	}
 }
-
-Controls.LeftClick: ЛКМ
-Controls.RightClick: ПКМ

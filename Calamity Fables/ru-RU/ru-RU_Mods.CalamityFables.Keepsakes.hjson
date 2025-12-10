@@ -4,7 +4,7 @@ Names: {
 }
 
 Descriptions: {
-	NautilusPendant: Вручается членам Королевской Эскадры «Ремора».
+	NautilusPendant: Вручается членам Королевской Эскадры «Ремора»
 	Test: Test test debug hello
 }
 
@@ -17,4 +17,5 @@ TabNames: {
 	Open: Памятные трофеи
 	Close: Закрыть
 }
+
 

@@ -171,7 +171,7 @@ Mods: {
 			CarrionDetonatorWindWave.DisplayName: Ветряной разрез
 			MiniElectroblast.DisplayName: Электровзрыв
 			RegurgitatedBuff.DisplayName: Отрыгнутая еда
-			StormlionWhipProjectile.DisplayName: Хлыст штормового льва
+			StormlionWhipProjectile.DisplayName: "{$Items.StormlionWhip.DisplayName}"
 			TinyScourgePet.DisplayName: Крошка бич
 			TornElectrosacBall.DisplayName: "{$Items.TornElectrosac.DisplayName}"
 			AcidExplosion.DisplayName: Кислотный взрыв
@@ -446,26 +446,26 @@ Mods: {
 					'''
 					Расходуются при получении вами 50 или более ед. урона за раз
 					Выпускают цепную молнию в ближайших врагов, мгновенно отскакивающую между ними
-					«Эта органическая слизь изредка потрескивает и обжигает при прикосновении»
+					«Эта органическая слизь иногда потрескивает и обжигает при прикосновении»
 					'''
 			}
 
 			ScourgeSpineHeadPlacer: {
-				DisplayName: Окаменевший череп морского бича
 				Tooltip:
 					'''
 					Размещает на земле декоративные окаменелости бича
 					Нажмите ВВЕРХ/ВНИЗ, чтобы изменить наклон позвоночника
 					'''
+				DisplayName: Окаменевший череп морского бича
 			}
 
 			ScourgeSpinePlacer: {
-				DisplayName: Окаменевший позвоночник морского бича
 				Tooltip:
 					'''
 					Размещает на земле декоративные окаменелости бича
 					Нажмите ВВЕРХ/ВНИЗ, чтобы изменить наклон позвоночника
 					'''
+				DisplayName: Окаменевший позвоночник морского бича
 			}
 
 			ClawShell: {
@@ -612,11 +612,11 @@ Mods: {
 			}
 
 			AmpstringBow: {
-				DisplayName: Лук с токопроводящей тетивой
+				DisplayName: Лук с электризующей тетивой
 				Tooltip:
 					'''
-					Нажмите ПКМ, чтобы выстрелить иглой
-					Между иглами автоматически образуется электрическая дуга
+					Нажмите ПКМ, чтобы выстрелить токопроводящим жвалом
+					Между жвалами автоматически образуется электрическая дуга
 					Враги, попавшие под действие этой электрической дуги, будут получать больше урона от стрел
 					'''
 			}
@@ -633,7 +633,7 @@ Mods: {
 
 			DeadStormlionLarvaCageItem: {
 				DisplayName: Террариум с мёртвой личинкой штормового льва
-				Tooltip: «Что-то здесь не так...»
+				Tooltip: «Что-то не так...»
 			}
 
 			IntestinalScarf: {
@@ -767,7 +767,7 @@ Mods: {
 
 			ObsidianThrowingDagger: {
 				DisplayName: Обсидиановый метательный нож
-				Tooltip: Бросает сразу 3 переливающихся ножа
+				Tooltip: Бросает 3 переливающихся ножа за раз
 			}
 
 			PlasmaRod: {
@@ -802,7 +802,7 @@ Mods: {
 				Tooltip:
 					'''
 					Нажмите ЛКМ, чтобы выстрелить дротиком с кислотой, снижающим защиту врагов
-					Нажмите ПКМ, чтобы выстрелить дротикам с нейротоксином, крадущим здоровье врагов
+					Нажмите ПКМ, чтобы выстрелить дротиком с нейротоксином, крадущим здоровье врагов
 					Смешивать эти вещества может быть взрывоопасно...
 					'''
 			}
@@ -859,7 +859,7 @@ Mods: {
 			}
 
 			DriedFishTail: {
-				DisplayName: Хвост засохшей рыбы
+				DisplayName: Хвост иссохшей рыбы
 				Tooltip: ""
 			}
 
@@ -885,7 +885,7 @@ Mods: {
 
 			GhostlySeasaddle: {
 				DisplayName: Призрачное морское седло
-				Tooltip: Призывает ездового велоцикампуса
+				Tooltip: Призывает верхового велоцикампуса
 			}
 
 			PossessedTrident: {
@@ -946,7 +946,7 @@ Mods: {
 			}
 
 			GoldenDreamcassette: {
-				DisplayName: Золотая грёзокассета 
+				DisplayName: Золотая грёзокассета
 				Tooltip:
 					'''
 					Позволяет увидеть мир в ином свете
@@ -975,7 +975,7 @@ Mods: {
 
 			HeroOfHellMask: {
 				DisplayName: Маска героя ада
-				Tooltip: «Спасите меня...»
+				Tooltip: «Спаси меня...»
 			}
 
 			OldHunterHat: {
@@ -1020,7 +1020,7 @@ Mods: {
 					'''
 					Активирует защитную матрицу, поглощающую суммарно до 50 ед. урона и увеличивающую защиту на 10 ед.
 					Для полной зарядки матрицы после поломки потребуется 10 секунд
-					Получение урона во время перезарядки начинает её сначала
+					Получение урона во время перезарядки начнёт её сначала
 					Можно переработать в промывателе на запчасти
 					'''
 			}
@@ -1156,7 +1156,7 @@ Mods: {
 
 			GeodeCrawlerBannerItem: {
 				DisplayName: Знамя жеодового ползуна
-				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.GeodeCrawlerун.DisplayName}"
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.GeodeCrawler.DisplayName}"
 			}
 
 			CloudSpriteBannerItem: {
@@ -1200,12 +1200,12 @@ Mods: {
 			}
 
 			CorruptRockySandstoneWallItem: {
-				DisplayName: Скалистая эбонитовая песчаниковая стена
+				DisplayName: Эбонитовая скалистая песчаниковая стена
 				Tooltip: ""
 			}
 
 			CrimsonRockySandstoneWallItem: {
-				DisplayName: Скалистая багряная песчаниковая стена
+				DisplayName: Багряная скалистая песчаниковая стена
 				Tooltip: ""
 			}
 
@@ -1225,7 +1225,7 @@ Mods: {
 			}
 
 			HallowedRockySandstoneWallItem: {
-				DisplayName: Скалистая жемчужная песчаниковая стена
+				DisplayName: Жемчужная скалистая песчаниковая стена
 				Tooltip: ""
 			}
 
@@ -1255,7 +1255,7 @@ Mods: {
 			}
 
 			SandstoneCampfireSpectral: {
-				DisplayName: Спектральный песчаниковый костёр
+				DisplayName: Призрачный песчаниковый костёр
 				Tooltip: "{$ItemTooltip.Campfire}"
 			}
 
@@ -1872,7 +1872,7 @@ Mods: {
 				Tooltip:
 					'''
 					«Содержит целый терабайт оперативной памяти, всецело использующийся для поисковой системы товаров Вульфрум Корпорейшен!
-					Предоставляется с заранее установленной последней версией “Wulfrum OS DX“»
+					Предоставляется с заранее установленной последней версией “Wulfrum OS DX”»
 					'''
 			}
 
@@ -2490,7 +2490,7 @@ Mods: {
 
 			TinyScourgePetBuff: {
 				DisplayName: Крошка бич
-				Description: Видит цель только перед собой
+				Description: Обладает туннельными зрением
 			}
 
 			BrambleMinionBuff: {
@@ -2513,7 +2513,7 @@ Mods: {
 			}
 
 			GhostlySeasaddleBuff: {
-				DisplayName: Велоцикамп
+				DisplayName: Верховой велоцикампус
 				Description: Маленький... или это Наутилус ездил на гиганте?
 			}
 
@@ -2524,4 +2524,3 @@ Mods: {
 		}
 	}
 }
-

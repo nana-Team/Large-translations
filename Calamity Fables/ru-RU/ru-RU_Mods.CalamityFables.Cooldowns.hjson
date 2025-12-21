@@ -2,14 +2,13 @@ ChaosState: Перезарядка телепортации
 PotionSickness: Перезарядка исцеления
 Electrocells: Перезарядка разряда электроклеток
 PeculiarPotLife: Запас прочности странноватого горшка
-ShroomHookpointTimer: Срок действия мицелиевого карабина
 WarpPod: Перезарядка телепортации стручка
 WarriorsAmphora: Перезарядка телепортации к месту смерти
 WulfrumBastionRecharge: Перезарядка вульфрумовой брони
 WulfrumBastionDurability: Запас прочности вульфрумовой брони
 WulfrumRoverDriveDurability: Запас прочности защитной матрицы
 WulfrumRoverDriveRecharge: Перезарядка защитной матрицы
-
+ShroomHookpointTimer: Срок действия мицелиевого карабина
 
 SettingOption: {
 	Label: "Стиль панели перезарядки: "

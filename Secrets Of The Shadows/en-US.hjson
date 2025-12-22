@@ -4,23 +4,20 @@ Mods: {
 			worldEnter: (SOTS): Thank you for playing Secrets of the Shadows! Please consider trying out the accompanying SOTS Texture Pack, if you haven't already.
 			worldEnterThanks: (SOTS): Thank you for using the SOTS texture pack! Please enjoy all the effort that went into it!
 			Dedicated: Dedicated Item
-			BlastDoor: Blast Door
-			Dresser: Dresser
-			Unbound: Unbound
 			ACZV: Automatically consumed when void drops below zero
 			SOTSTexturePackName: Secrets of the Shadows Texture Pack
 			Void: "Void: "
-			Damage: damage
-			Void2: "{0} void {1}"
-			VoidM: "{0} void + melee {1}"
-			VoidR: "{0} void + ranged {1}"
-			VoidM2: "{0} void + magic {1}"
-			VoidS: "{0} void + summon {1}"
-			VoidSDouble: "{0} void + {1}summon {2}"
+			Void2: "{0} void damage"
+			VoidM: "{0} void + melee damage"
+			VoidR: "{0} void + ranged damage"
+			VoidM2: "{0} void + magic damage"
+			VoidS: "{0} void + summon damage"
+			Melee: "melee + "
+			Ranged: "ranged + "
+			Magic: "magic + "
+			VoidSDouble: "{0} void + {1}summon damage"
 			VoidSPercent: ??? void + summon {0}
 			CV: Consumes {0} void
-			GenSOTSOres: Generating SOTS Ores
-			GenSOTSGeodes: Generating Fancy Geodes
 			InsigniaNerf: "[SOTS]: Until Lux is defeated, has limited effects on flight duration and mobility"
 			ArchaeologistMap: Anomaly
 			ArchaeologistItemMap: "Teleported "
@@ -46,18 +43,6 @@ Mods: {
 			Solar9: Pluto
 		}
 
-		ContainerName: {
-			NaturePlatingDresserTile: Nature Plating Dresser
-			EarthenPlatingDresserTile: Earthen Plating Dresser
-			PermafrostPlatingDresserTile: Permafrost Plating Dresser
-			TidalPlatingDresserTile: Tidal Plating Dresser
-			OtherworldPlatingDresser: Otherworld Plating Dresser
-			EvilPlatingDresserTile: Evil Plating Dresser
-			InfernoPlatingDresserTile: Inferno Plating Dresser
-			ChaosPlatingDresserTile: Chaos Plating Dresser
-			AncientGoldDresser: Ancient Gold Dresser
-		}
-
 		ModifyWorldGenTasks: {
 			GeneratingSurfaceStructures: Generating Surface Structures
 			GeneratingAbandonedVillage: Generating Abandoned Village
@@ -66,111 +51,9 @@ Mods: {
 			GeneratingGemStructures: Generating Gem Structures
 			GeneratingPeanuts: Placing Peanuts
 			GeneratingSanctuary: Generating Sanctuary
-		}
-
-		AdjacentDesertGeneration.SEverywhere: Sand is irritating and gets everywhere!
-
-		Configuration: {
-			Header: {
-				UI: UI
-				GS: Graphics Settings
-				TPS: Texture Pack Settings
-				GPS: Gameplay Settings
-				BAL: Balance Changes
-				MS: Music Settings
-			}
-
-			Label: {
-				Config: Config
-				SConfig: Server Config
-				VBX: Void Bar X
-				VBY: Void Bar Y
-				LVB: Lock Void Bar
-				AVBD: Alternative Void Bar Direction
-				AVBS: Alternative Void Bar Style
-				VBTT: Void Bar Top Text
-				VBHT: Void Bar Hover Text
-				SVBT: Simple Void Bar Text
-				SVBF: Simple Void Bar Fill
-				PM: Performance Mode
-				CTF: Colored Time Freeze
-				AVE: Additional Visual Effects
-				SHT: Starter House Type (Upon World Generation)
-				NINS: Nerf Soaring Insignia Before Lux
-				BLZD: Alternative SOTS Music
-			}
-
-			Tooltip: {
-				VBX:
-					'''
-					The Void Bar's horizontal position on the screen
-					Measured in pixels from left
-					'''
-				VBY:
-					'''
-					The Void Bar's vertical position on the screen
-					Measured in pixels from top
-					'''
-				LVB:
-					'''
-					Prevents the Void Bar from being moved by your cursor
-					Also prevents the Void Bar from automatically switching positions when using the 'Bars' Health and Mana Style interface setting
-					'''
-				AVBD: Changes the Void Bar's roll down direction
-				AVBS: Modifies the Void Bar's visuals slightly
-				VBTT: Enable/disable the text above the Void Bar
-				VBHT: Enable/disable the text that appears when you hover over the Void Bar
-				SVBT: Removes Void Minion quantity indicators from the Void Bar text
-				SVBF: Removes the division lines between inner fill Void Bar elements
-				PM:
-					'''
-					Reduces various visual effects in order to increase framerate
-					Mostly affects boss-related visuals and projectile trails
-					'''
-				CTF: Whether the color of the screen during time freeze is tinted or black and white
-				AVE:
-					'''
-					Adds bonus visuals, such as dusts, to a handful of tiles
-					Only works with the SOTS Texture Pack enabled
-					'''
-				SHT:
-					'''
-					-2 = No starter house (you are deranged)
-					-1 = Random starter house 
-					0 = Legacy House
-					1 = Legacy Angel
-					2 = Legacy Barrel
-					3 = Legacy BIG Hotel
-					4 = Legacy Origin
-					5 = Legacy Tower
-					6 = Legacy Sword
-					7 = Legacy Tree
-					8 = Legacy Library
-					9 = Legacy Crate
-					10 = Mushnib's
-					11 = Astrobit's
-					12 = Bloodmoon
-					13 = Bandit
-					14 = Boulder
-					15 = Mine
-					16 = Tavern
-					17 = Chaos
-					18 = Drowned
-					19 = Comfy
-					20 = Nature
-					'''
-				NINS:
-					'''
-					Nerfs Soaring Insignia, making it only grant infinite flight after Lux is defeated.
-					Before Lux is defeated, it will only double your flight time.
-					If you disagree with this change, you can disable it here.
-					'''
-				BLZD:
-					'''
-					When on, SOTS will play the soundtrack made by Banana Lizard where applicable
-					When off, SOTS will play the soundtrack made by Heart Plus Up where applicable
-					'''
-			}
+			GeneratingOres: Generating SOTS Ores
+			GeneratingGeodes: Generating Fancy Geodes
+			GenerationAdjacentDesert: Sand is irritating and gets everywhere!
 		}
 
 		AddRecipeGroups: {
@@ -283,7 +166,6 @@ Mods: {
 			AncientSteelBar: {
 				# Abandoned Village
 				DisplayName: Ancient Steel Bar
-				# Abandoned Village
 				Tooltip: "'An ancient proto-steel used by various civilizations... and goblins'"
 			}
 
@@ -358,7 +240,7 @@ Mods: {
 			}
 
 			NatureSlimeBanner: {
-				# Banner
+				# Banners
 				DisplayName: Flowering Slime Banner
 				Tooltip: ""
 			}
@@ -556,7 +438,6 @@ Mods: {
 			Apocalypse: {
 				# Celestial
 				DisplayName: Apocalypse
-				# Celestial
 				Tooltip:
 					'''
 					Release green thunder towards your cursor
@@ -692,7 +573,6 @@ Mods: {
 			Armaggedon: {
 				# Chaos
 				DisplayName: Armageddon
-				# Chaos
 				Tooltip:
 					'''
 					Unleash a flurry of punches
@@ -833,7 +713,6 @@ Mods: {
 			BagOfAmmoGathering: {
 				# ChestItems
 				DisplayName: Bag of Ammunition Gathering
-				# ChestItems
 				Tooltip:
 					'''
 					20% chance not to consume ammo
@@ -982,7 +861,6 @@ Mods: {
 			ArchaeologistToolbelt: {
 				# Conduit
 				DisplayName: Archaeologist's Toolbelt
-				# Conduit
 				Tooltip:
 					'''
 					Increases block placement and tool range by 3
@@ -1090,7 +968,6 @@ Mods: {
 			OtherworldlyAmplifier: {
 				# CritBonus
 				DisplayName: Otherworldly Amplifier
-				# CritBonus
 				Tooltip: Critical strikes deal 8 more damage
 			}
 
@@ -1225,7 +1102,6 @@ Mods: {
 			AquaticEclipse: {
 				# Crushers
 				DisplayName: Eclipse
-				# Crushers
 				Tooltip:
 					'''
 					Charge to increase damage up to 700%
@@ -1387,7 +1263,6 @@ Mods: {
 			DoorPants: {
 				# DoorItems
 				DisplayName: Door Pants
-				# DoorItems
 				Tooltip:
 					'''
 					Accelerates horizontal movement when going through doors
@@ -1407,7 +1282,6 @@ Mods: {
 			}
 
 			GlowSilk: {
-				# Earth
 				# Glowmoth
 				DisplayName: Glow Web
 				Tooltip: ""
@@ -1420,8 +1294,6 @@ Mods: {
 
 			GlowSpores: {
 				DisplayName: Glow Spores
-				# Earth
-				# Glowmoth
 				Tooltip:
 					'''
 					Increases mana received from potions by 40
@@ -1635,7 +1507,6 @@ Mods: {
 			AbyssalFury: {
 				# Evil
 				DisplayName: Abyssal Fury
-				# Evil
 				Tooltip: Summons Shadow Blades from the sky to your cursor
 			}
 
@@ -1690,7 +1561,6 @@ Mods: {
 			Curgeon: {
 				# Fishing
 				DisplayName: Curgeon
-				# Fishing
 				Tooltip: Has valuable eggs that can only be harvested by disection
 			}
 
@@ -1722,7 +1592,6 @@ Mods: {
 			Aten: {
 				# Flails
 				DisplayName: Aten
-				# Flails
 				Tooltip:
 					'''
 					Conjures stars that do 70% damage and explode for 140% damage
@@ -1983,8 +1852,6 @@ Mods: {
 				# Furniture
 				# AncientGold
 				DisplayName: Ancient Gold Bed
-				# Furniture
-				# AncientGold
 				Tooltip: "'For naps fit for a king'"
 			}
 
@@ -2084,7 +1951,6 @@ Mods: {
 			NatureHydroponics: {
 				# Functional
 				DisplayName: Nature Plating Hydroponics
-				# Functional
 				Tooltip:
 					'''
 					Automatically grows an assortment of alchemical herbs
@@ -2118,7 +1984,6 @@ Mods: {
 			AmberRing: {
 				# Gems
 				DisplayName: Asmodeus's Ring
-				# Gems
 				Tooltip: Getting hit grants a random buff for 30 seconds
 			}
 
@@ -2195,7 +2060,6 @@ Mods: {
 			BlazingClub: {
 				# Inferno
 				DisplayName: Blazing Club
-				# Inferno
 				Tooltip:
 					'''
 					Deploys spiked mines in the air
@@ -2268,7 +2132,6 @@ Mods: {
 			VesperaMask: {
 				# Invidia
 				DisplayName: Vespera Mask
-				# Invidia
 				Tooltip: Increases max void by 25 and void gain by 1
 			}
 
@@ -2338,7 +2201,6 @@ Mods: {
 
 			KnucklesMusicBox: {
 				DisplayName: Music Box (Knuckles)
-				# MusicBoxes
 				Tooltip: "'Can I put my...'"
 			}
 
@@ -2380,7 +2242,6 @@ Mods: {
 			AcornBag: {
 				# Nature
 				DisplayName: Acorn Bag
-				# Nature
 				Tooltip: Summons a squirrel to fight for you
 			}
 
@@ -2464,7 +2325,6 @@ Mods: {
 			GoldArkStaff: {
 				# OreItems
 				DisplayName: Gold Arc Staff
-				# OreItems
 				Tooltip: Deal 150% damage to up to 2 enemies surrounding the initially hit enemy
 			}
 
@@ -2519,7 +2379,6 @@ Mods: {
 			}
 
 			AvaritianPlating: {
-				# Otherworld
 				# Blocks
 				DisplayName: Avaritia Plating
 				Tooltip: ""
@@ -2559,7 +2418,6 @@ Mods: {
 			ArclightOrbs: {
 				# FromChests
 				DisplayName: Arclight Orbs
-				# FromChests
 				Tooltip: Throw a cluster of thunder orbs that explode into chain lightning for 80% damage
 			}
 
@@ -2799,7 +2657,6 @@ Mods: {
 			DigitalDisplay: {
 				# Furniture
 				DisplayName: Digital Display
-				# Furniture
 				Tooltip: Right click to increase void damage by 10%
 			}
 
@@ -2930,7 +2787,6 @@ Mods: {
 			AbsoluteBar: {
 				# Permafrost
 				DisplayName: Absolute Alloy
-				# Permafrost
 				Tooltip: "'It burns to touch'"
 			}
 
@@ -3123,7 +2979,6 @@ Mods: {
 			AbyssalTonic: {
 				# Potions
 				DisplayName: Abyssal Tonic
-				# Potions
 				Tooltip:
 					'''
 					Randomly receive 2 of the following:
@@ -3305,8 +3160,6 @@ Mods: {
 
 			PyramidRubble: {
 				DisplayName: Pyramid Rubble
-				# Pyramid
-				# AltPyramidBlocks
 				Tooltip: "'It's much less a brick than just a collection of rocks'"
 			}
 
@@ -3663,7 +3516,6 @@ Mods: {
 			PhotonGeyser: {
 				# Secrets
 				DisplayName: Photon Geyser
-				# Secrets
 				Tooltip: Unleash a helix of homing rainbow light
 			}
 
@@ -3708,7 +3560,6 @@ Mods: {
 			FireSpitter: {
 				# Slime
 				DisplayName: Fire Spitter
-				# Slime
 				Tooltip: Uses gel for ammo
 			}
 
@@ -3803,7 +3654,6 @@ Mods: {
 			BoreBullet: {
 				# SoldStuff
 				DisplayName: Bore Bullet
-				# SoldStuff
 				Tooltip: Penetrates 20% of enemy defense plus 10 defense
 			}
 
@@ -3834,7 +3684,6 @@ Mods: {
 			ChaosSpiritStaff: {
 				# SpiritStaves
 				DisplayName: Chaos Spirit Staff
-				# SpiritStaves
 				Tooltip:
 					'''
 					Summons a Chaos Spirit to fight for you
@@ -3902,7 +3751,6 @@ Mods: {
 			Helios: {
 				# Temple
 				DisplayName: Helios
-				# Temple
 				Tooltip:
 					'''
 					Attacks scorch with each hit, increasing damage done by 3% permanently
@@ -3951,7 +3799,6 @@ Mods: {
 			ArkhalisChain: {
 				# Tide
 				DisplayName: Lost Chain
-				# Tide
 				Tooltip: "'It probably didn't come from here'"
 			}
 
@@ -4051,7 +3898,6 @@ Mods: {
 			AncientSteelGreatHamaxe: {
 				# Tools
 				DisplayName: Ancient Steel Great Hamaxe
-				# Tools
 				Tooltip: Critical strikes deal 50% more damage and may also apply a stacking, permanent bleed for 5 damage per second
 			}
 
@@ -4147,7 +3993,6 @@ Mods: {
 			ScarletStar: {
 				# Void
 				DisplayName: Scarlet Crescent
-				# Void
 				Tooltip:
 					'''
 					Permanently increases max void by 50 and void regeneration speed 5%
@@ -4659,7 +4504,6 @@ Mods: {
 
 			EarthenPlatingWorkBench: {
 				DisplayName: Earthen Plating Work Bench
-				# Earthen
 				Tooltip: Also functions as an anvil
 			}
 
@@ -4790,7 +4634,6 @@ Mods: {
 
 			NaturePlatingWorkBench: {
 				DisplayName: Nature Plating Work Bench
-				# Nature
 				Tooltip: Also functions as an anvil
 			}
 
@@ -4876,7 +4719,6 @@ Mods: {
 
 			PermafrostPlatingWorkBench: {
 				DisplayName: Permafrost Plating Work Bench
-				# Permafrost
 				Tooltip: Also functions as an anvil
 			}
 
@@ -5062,7 +4904,6 @@ Mods: {
 
 			UnsafeCursedTumorWall: {
 				DisplayName: Unsafe Cursed Tumor Wall
-				# PyramidWalls
 				Tooltip:
 					'''
 					Changes the biome to pyramid when in front of
@@ -7018,11 +6859,7 @@ Mods: {
 
 			WonderEgg: {
 				DisplayName: Jewel Egg
-				Tooltip:
-					'''
-					It may crack under incredible pressure
-					Temp
-					'''
+				Tooltip: Temp
 			}
 
 			BrokenJumboSurpriseCapsule: {
@@ -7608,6 +7445,7 @@ Mods: {
 		}
 
 		Tiles: {
+			BlastDoor: Blast Door
 			NatureConduitTile.MapEntry: Nature Conduit
 			EarthenConduitTile.MapEntry: Earth Conduit
 			PeanutBushTile.MapEntry: Peanut Bush
@@ -7743,9 +7581,6 @@ Mods: {
 				DisplayName: Ancient Gold Door
 			}
 
-			EarthenPlatingBlastDoorTileClosed.MapEntry: Earthen Plating Blast Door
-			EarthenPlatingBlastDoorTileOpen.MapEntry: Earthen Plating Blast Door
-
 			GoopwoodDoorClosed: {
 				MapEntry: Goopwood Door
 				DisplayName: Goopwood Door
@@ -7755,11 +7590,6 @@ Mods: {
 				MapEntry: Goopwood Door
 				DisplayName: Goopwood Door
 			}
-
-			NaturePlatingBlastDoorTileClosed.MapEntry: Nature Plating Blast Door
-			NaturePlatingBlastDoorTileOpen.MapEntry: Nature Plating Blast Door
-			PermafrostPlatingBlastDoorTileClosed.MapEntry: Permafrost Plating Blast Door
-			PermafrostPlatingBlastDoorTileOpen.MapEntry: Permafrost Plating Blast Door
 
 			GemChestTile: {
 				MapEntry0: Gem Chest
@@ -7789,8 +7619,6 @@ Mods: {
 			GulaGatewayTile.MapEntry: Strange Gateway
 			AVPots.MapEntry: Pot
 			AVMusicBoxTile.MapEntry: Music Box
-			TidalPlatingBlastDoorTileClosed.MapEntry: Tidal Plating Blast Door
-			TidalPlatingBlastDoorTileOpen.MapEntry: Tidal Plating Blast Door
 
 			TidalPlatingChestTile: {
 				MapEntry0: Tidal Plating Storage
@@ -7800,8 +7628,6 @@ Mods: {
 			TidalPlatingTorchTile.MapEntry: Tidal Plating Torch
 			AVMinesMusicBoxTile.MapEntry: Music Box
 			PinkyTestTube.MapEntry: Failed Experiment
-			OtherworldPlatingBlastDoorTileClosed.MapEntry: Otherworld Plating Blast Door
-			OtherworldPlatingBlastDoorTileOpen.MapEntry: Otherworld Plating Blast Door
 
 			OtherworldPlatingChestTile: {
 				MapEntry0: Otherworld Plating Capsule
@@ -7809,8 +7635,6 @@ Mods: {
 			}
 
 			OtherworldPlatingTorchTile.MapEntry: Otherworld Plating Torch
-			EvilPlatingBlastDoorTileClosed.MapEntry: Evil Plating Blast Door
-			EvilPlatingBlastDoorTileOpen.MapEntry: Evil Plating Blast Door
 
 			EvilPlatingChestTile: {
 				MapEntry0: Evil Plating Capsule
@@ -7818,8 +7642,6 @@ Mods: {
 			}
 
 			EvilPlatingTorchTile.MapEntry: Evil Plating Torch
-			InfernoPlatingBlastDoorTileClosed.MapEntry: Inferno Plating Blast Door
-			InfernoPlatingBlastDoorTileOpen.MapEntry: Inferno Plating Blast Door
 
 			InfernoPlatingChestTile: {
 				MapEntry0: Inferno Plating Chest
@@ -7834,8 +7656,6 @@ Mods: {
 				MapEntry0: Locked Chaos Plating Chest
 			}
 
-			ChaosPlatingBlastDoorTileOpen.MapEntry: Chaos Plating Blast Door
-			ChaosPlatingBlastDoorTileClosed.MapEntry: Chaos Plating Blast Door
 			MothMusicBoxTile.MapEntry: Music Box
 			RuinedStatueTile.MapEntry: Ruined Statue
 			SerpentStatueTile.MapEntry: Serpent Statue
@@ -7847,6 +7667,22 @@ Mods: {
 			IraGatewayTile.MapEntry: Ira Gateway
 			ExcavatorMusicBoxTile.MapEntry: Music Box
 			LightStatueTile.MapEntry: Light Statue Tile
+			ChaosPlatingBlastDoorTileClosed.MapEntry: Chaos Plating Blast Door Tile Closed
+			ChaosPlatingBlastDoorTileOpen.MapEntry: Chaos Plating Blast Door Tile Open
+			EarthenPlatingBlastDoorTileClosed.MapEntry: Earthen Plating Blast Door Tile Closed
+			EarthenPlatingBlastDoorTileOpen.MapEntry: Earthen Plating Blast Door Tile Open
+			EvilPlatingBlastDoorTileClosed.MapEntry: Evil Plating Blast Door Tile Closed
+			EvilPlatingBlastDoorTileOpen.MapEntry: Evil Plating Blast Door Tile Open
+			InfernoPlatingBlastDoorTileClosed.MapEntry: Inferno Plating Blast Door Tile Closed
+			InfernoPlatingBlastDoorTileOpen.MapEntry: Inferno Plating Blast Door Tile Open
+			NaturePlatingBlastDoorTileClosed.MapEntry: Nature Plating Blast Door Tile Closed
+			NaturePlatingBlastDoorTileOpen.MapEntry: Nature Plating Blast Door Tile Open
+			OtherworldPlatingBlastDoorTileClosed.MapEntry: Otherworld Plating Blast Door Tile Closed
+			OtherworldPlatingBlastDoorTileOpen.MapEntry: Otherworld Plating Blast Door Tile Open
+			PermafrostPlatingBlastDoorTileClosed.MapEntry: Permafrost Plating Blast Door Tile Closed
+			PermafrostPlatingBlastDoorTileOpen.MapEntry: Permafrost Plating Blast Door Tile Open
+			TidalPlatingBlastDoorTileClosed.MapEntry: Tidal Plating Blast Door Tile Closed
+			TidalPlatingBlastDoorTileOpen.MapEntry: Tidal Plating Blast Door Tile Open
 		}
 
 		WorldGeneration: {
@@ -8486,20 +8322,20 @@ Mods: {
 
 		EggDescription: {
 			0: "'This may fetch a good price'"
-			1: "'Perhaps these belong in your collection'"
-			2: "'A good excuse to go on an adventure'"
-			3: "'The way it reflects light is beautiful'"
-			4: "'Looking at it warms your spirits'"
-			5: "'A reminder that the world is your oyster'"
-			6: "'Perhaps there is something to be learned from this egg'"
-			7: "'Maybe you can change your fate'"
+			1: "'This belongs in a collection'"
+			2: "'A reward for adventuring'"
+			3: "'It reflects light beautifully'"
+			4: "'It warms your spirits'"
+			5: "'The world is your oyster'"
+			6: "'There may be something to be learned from this egg'"
+			7: "'Maybe it can change your fate'"
 			x0: "'It does not seem very valuable'"
-			x1: "'It does not belong in your collection"
+			x1: "'It does not belong in your collection'"
 			x2: "'It was not worth the adventure'"
 			x3: "'It looks dull'"
 			x4: "'It feels awfully cold'"
 			x5: "'It does not belong in your performance'"
-			x6: "'It can't teach your anything'"
+			x6: "'It cannot teach your anything'"
 			x7: "'You cannot escape your fate'"
 			x8: "'Like a mirror looking into your soul'"
 		}
@@ -9278,66 +9114,115 @@ Mods: {
 
 		Configs: {
 			SOTSConfig: {
-				DisplayName: "{$Mods.SOTS.Configuration.Label.Config}"
+				DisplayName: Config
+
+				Header: {
+					UI: UI
+					GS: Graphics Settings
+					TPS: Texture Pack Settings
+					GPS: Gameplay Settings
+					MS: Music Settings
+				}
 
 				StarterHouseType: {
-					Label: "{$Mods.SOTS.Configuration.Label.SHT}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.SHT}"
+					Label: Starter House Type (Upon World Generation)
+					Tooltip:
+						'''
+						-2 = No starter house (you are deranged)
+						-1 = Random starter house 
+						0 = Legacy House
+						1 = Legacy Angel
+						2 = Legacy Barrel
+						3 = Legacy BIG Hotel
+						4 = Legacy Origin
+						5 = Legacy Tower
+						6 = Legacy Sword
+						7 = Legacy Tree
+						8 = Legacy Library
+						9 = Legacy Crate
+						10 = Mushnib's
+						11 = Astrobit's
+						12 = Bloodmoon
+						13 = Bandit
+						14 = Boulder
+						15 = Mine
+						16 = Tavern
+						17 = Chaos
+						18 = Drowned
+						19 = Comfy
+						20 = Nature
+						'''
 				}
 
 				voidBarPointX: {
-					Label: "{$Mods.SOTS.Configuration.Label.VBX}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.VBX}"
+					Label: Void Bar X
+					Tooltip:
+						'''
+						The Void Bar's horizontal position on the screen
+						Measured in pixels from left
+						'''
 				}
 
 				voidBarPointY: {
-					Label: "{$Mods.SOTS.Configuration.Label.VBY}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.VBY}"
+					Label: Void Bar Y
+					Tooltip:
+						'''
+						The Void Bar's vertical position on the screen
+						Measured in pixels from top
+						'''
 				}
 
 				lockVoidBar: {
-					Label: "{$Mods.SOTS.Configuration.Label.LVB}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.LVB}"
+					Label: Lock Void Bar
+					Tooltip:
+						'''
+						Prevents the Void Bar from being moved by your cursor
+						Also prevents the Void Bar from automatically switching positions when using the 'Bars' Health and Mana Style interface setting
+						'''
 				}
 
 				alternateVoidBarDirection: {
-					Label: "{$Mods.SOTS.Configuration.Label.AVBD}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.AVBD}"
+					Label: Alternative Void Bar Direction
+					Tooltip: Changes the Void Bar's roll down direction
 				}
 
 				alternateVoidBarStyle: {
-					Label: "{$Mods.SOTS.Configuration.Label.AVBS}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.AVBS}"
+					Label: Alternative Void Bar Style
+					Tooltip: Modifies the Void Bar's visuals slightly
 				}
 
 				voidBarTextOn: {
-					Label: "{$Mods.SOTS.Configuration.Label.VBTT}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.VBTT}"
+					Label: Void Bar Top Text
+					Tooltip: Enable/disable the text above the Void Bar
 				}
 
 				voidBarHoverTextOn: {
-					Label: "{$Mods.SOTS.Configuration.Label.VBHT}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.VBHT}"
+					Label: Void Bar Hover Text
+					Tooltip: Enable/disable the text that appears when you hover over the Void Bar
 				}
 
 				simpleVoidText: {
-					Label: "{$Mods.SOTS.Configuration.Label.SVBT}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.SVBT}"
+					Label: Simple Void Bar Text
+					Tooltip: Removes Void Minion quantity indicators from the Void Bar text
 				}
 
 				simpleVoidFill: {
-					Label: "{$Mods.SOTS.Configuration.Label.SVBF}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.SVBF}"
+					Label: Simple Void Bar Fill
+					Tooltip: Removes the division lines between inner fill Void Bar elements
 				}
 
 				lowFidelityMode: {
-					Label: "{$Mods.SOTS.Configuration.Label.PM}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.PM}"
+					Label: Performance Mode
+					Tooltip:
+						'''
+						Reduces various visual effects in order to increase framerate
+						Mostly affects boss-related visuals and projectile trails
+						'''
 				}
 
 				coloredTimeFreeze: {
-					Label: "{$Mods.SOTS.Configuration.Label.CTF}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.CTF}"
+					Label: Colored Time Freeze
+					Tooltip: Whether the color of the screen during time freeze is tinted or black and white
 				}
 
 				screenShake: {
@@ -9346,22 +9231,40 @@ Mods: {
 				}
 
 				additionalTexturePackVisuals: {
-					Label: "{$Mods.SOTS.Configuration.Label.AVE}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.AVE}"
+					Label: Additional Visual Effects
+					Tooltip:
+						'''
+						Adds bonus visuals, such as dusts, to a handful of tiles
+						Only works with the SOTS Texture Pack enabled
+						'''
 				}
 
 				alternativeMusic: {
-					Label: "{$Mods.SOTS.Configuration.Label.BLZD}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.BLZD}"
+					Label: Alternative SOTS Music
+					Tooltip:
+						'''
+						When on, SOTS will play the soundtrack made by Banana Lizard where applicable
+						When off, SOTS will play the soundtrack made by Heart Plus Up where applicable
+						'''
 				}
 			}
 
 			SOTSServerConfig: {
-				DisplayName: "{$Mods.SOTS.Configuration.Label.SConfig}"
+				DisplayName: Server Config
+
+				Header: {
+					GPS: Gameplay Settings
+					BAL: Balance Changes
+				}
 
 				NerfInsignia: {
-					Label: "{$Mods.SOTS.Configuration.Label.NINS}"
-					Tooltip: "{$Mods.SOTS.Configuration.Tooltip.NINS}"
+					Label: Nerf Soaring Insignia Before Lux
+					Tooltip:
+						'''
+						Nerfs Soaring Insignia, making it only grant infinite flight after Lux is defeated.
+						Before Lux is defeated, it will only double your flight time.
+						If you disagree with this change, you can disable it here.
+						'''
 				}
 
 				AddPlightToVanillaRecipes: {
@@ -9484,6 +9387,3 @@ Mods: {
 		}
 	}
 }
-
-# The Russian localization clarifies that it is the chest that is cursed. Since this line is used in the description of other items in the SOTS, it is rewritten here
-LegacyTooltip.59: It has been cursed by a powerful Jungle creature

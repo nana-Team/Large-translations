@@ -16,7 +16,7 @@ Mods: {
 			Ranged: "ranged + "
 			Magic: "magic + "
 			VoidSDouble: "{0} void + {1}summon damage"
-			VoidSPercent: ??? void + summon {0}
+			VoidSPercent: ??? void + summon damage
 			CV: Consumes {0} void
 			InsigniaNerf: "[SOTS]: Until Lux is defeated, has limited effects on flight duration and mobility"
 			ArchaeologistMap: Anomaly
@@ -240,7 +240,7 @@ Mods: {
 			}
 
 			NatureSlimeBanner: {
-				# Banners
+				# Banner
 				DisplayName: Flowering Slime Banner
 				Tooltip: ""
 			}
@@ -561,7 +561,7 @@ Mods: {
 				Tooltip:
 					'''
 					Increases void damage and magic damage by 10%
-					Increases void crit by 10%
+					Increases void critical strike chance by 10%
 					Critical strikes heal small amounts of void
 					Reduces void cost by 8%
 					Increases void gain by 4 and max void by 50
@@ -661,7 +661,7 @@ Mods: {
 
 			StellarSerpentLauncher: {
 				DisplayName: Stellar Serpent Launcher
-				Tooltip: Launches a Starlight Serpent which homes on enemys and attacks them repeatedly
+				Tooltip: Launches a Starlight Serpent which homes on enemies and attacks them repeatedly
 			}
 
 			StellarShot: {
@@ -952,6 +952,7 @@ Mods: {
 					Applies a stacking, permanent curse that deals 2 damage per second and increases damage done by 0.5%
 					Launches waves that deal 50% damage and have a 20% chance to apply the curse
 					'''
+				CurseTooltip: "{$LegacyTooltip.59}"
 			}
 
 			VoidAnomaly: {
@@ -1561,7 +1562,7 @@ Mods: {
 			Curgeon: {
 				# Fishing
 				DisplayName: Curgeon
-				Tooltip: Has valuable eggs that can only be harvested by disection
+				Tooltip: Has valuable eggs that can only be harvested by dissection
 			}
 
 			PhantomFish: {
@@ -2117,7 +2118,7 @@ Mods: {
 
 			TheBlaspha: {
 				DisplayName: Blaspha
-				Tooltip: Launch a scatter of inferno-infused bullets which release homings embers for 50% damage
+				Tooltip: Launch a scatter of inferno-infused bullets which release homing embers for 50% damage
 			}
 
 			WispInAJar: {
@@ -2379,6 +2380,7 @@ Mods: {
 			}
 
 			AvaritianPlating: {
+				# Otherworld
 				# Blocks
 				DisplayName: Avaritia Plating
 				Tooltip: ""
@@ -2453,7 +2455,7 @@ Mods: {
 					Cataclysm bullets travel faster and more erratically than normal bullets
 					They will also incur 20% damage to an enemy surrounding the initially hit enemy
 					When favorited, bullets will be supercharged at the cost of some void
-					Supercharged bullets travel instantly, and gain increased arcing capabilies
+					Supercharged bullets travel instantly, and gain increased arcing capabilities
 					'''
 			}
 
@@ -3719,7 +3721,7 @@ Mods: {
 				DisplayName: Nature Spirit Staff
 				Tooltip:
 					'''
-					Summons an Nature Spirit to fight for you
+					Summons a Nature Spirit to fight for you
 					Attacks the closest enemy visible to you
 					Heals health upon dealing damage
 					'''
@@ -3738,14 +3740,14 @@ Mods: {
 				DisplayName: Permafrost Spirit Staff
 				Tooltip:
 					'''
-					Summons an Permafrost Spirit to fight for you
+					Summons a Permafrost Spirit to fight for you
 					Launches 3 permafrost spears downwards at enemies
 					'''
 			}
 
 			TidalSpiritStaff: {
 				DisplayName: Tidal Spirit Staff
-				Tooltip: Summons an Tidal Spirit to fight for you
+				Tooltip: Summons a Tidal Spirit to fight for you
 			}
 
 			Helios: {
@@ -4504,6 +4506,7 @@ Mods: {
 
 			EarthenPlatingWorkBench: {
 				DisplayName: Earthen Plating Work Bench
+				# Earthen
 				Tooltip: Also functions as an anvil
 			}
 
@@ -4634,6 +4637,7 @@ Mods: {
 
 			NaturePlatingWorkBench: {
 				DisplayName: Nature Plating Work Bench
+				# Nature
 				Tooltip: Also functions as an anvil
 			}
 
@@ -4719,6 +4723,7 @@ Mods: {
 
 			PermafrostPlatingWorkBench: {
 				DisplayName: Permafrost Plating Work Bench
+				# Permafrost
 				Tooltip: Also functions as an anvil
 			}
 
@@ -4904,10 +4909,11 @@ Mods: {
 
 			UnsafeCursedTumorWall: {
 				DisplayName: Unsafe Cursed Tumor Wall
+				# PyramidWalls
 				Tooltip:
 					'''
 					Changes the biome to pyramid when in front of
-					Also envokes the Pharaoh's Curse
+					Also invoke the Pharaoh's Curse
 					'''
 			}
 
@@ -7031,7 +7037,7 @@ Mods: {
 
 			Infected: {
 				DisplayName: Infected
-				Description: Mods.SOTS.BuffDescription.Infected
+				Description: ""
 			}
 
 			InfernalDefense: {
@@ -7506,12 +7512,6 @@ Mods: {
 				MapEntry9: Locked Waning Crescent Invidia Chest
 			}
 
-			HoloEyeBannerTile.MapEntry: Banner
-			HoloSlimeBannerTile.MapEntry: Banner
-			HoloSwordBannerTile.MapEntry: Banner
-			SOTSBanners.MapEntry: Banner
-			SOTSBanners2.MapEntry: Banner
-			SOTSTrophies.MapEntry: Trophy
 			SilkCocoonTile.MapEntry: Glow Cocoon
 			BigCrystalTile.MapEntry: Giant Crystal
 			VibrantOreTile.MapEntry: Vibrant Ore
@@ -7528,21 +7528,10 @@ Mods: {
 			NaturePlatingTorchTile.MapEntry: Nature Plating Torch
 			PermafrostPlatingTorchTile.MapEntry: Permafrost Plating Torch
 			SOTSGemLockTiles.MapEntry: Mysterious Switch
-			AdvisorMusicBoxTile.MapEntry: Music Box
-			AncientPyramidMusicBoxTile.MapEntry: Music Box
-			KnucklesMusicBoxTile.MapEntry: Music Box
-			LuxMusicBoxTile.MapEntry: Music Box
-			PlanetariumMusicBoxTile.MapEntry: Music Box
-			PolarisMusicBoxTile.MapEntry: Music Box
-			PutridPinkyMusicBoxTile.MapEntry: Music Box
-			PyramidBattleMusicBoxTile.MapEntry: Music Box
-			SubspaceSerpentMusicBoxTile.MapEntry: Music Box
-			CurseMusicBoxTile.MapEntry: Music Box
 			DigitalDisplayTile.MapEntry: Digital Display
 			HardlightFabricatorTile.MapEntry: Hardlight Fabricator
 			HardlightTableTile.MapEntry: Hardlight Table
 			PotGeneratorTile.MapEntry: Pot Generator
-			SkyPots.MapEntry: Pot
 			SkyChainTile.MapEntry: Sky Chain
 			TransmutationAltarTile.MapEntry: Transmutation Altar
 			AvaritianGatewayTile.MapEntry: Strange Gateway
@@ -7557,7 +7546,6 @@ Mods: {
 			ManaStatue.MapEntry: Mana Statue
 			PyramidChestTile.MapEntry0: Pyramid Chest
 			PyramidGateTile.MapEntry: Pyramid Gate
-			PyramidPots.MapEntry: Pot
 			RoyalRubyShardTile.MapEntry: Keystone Shard
 			RubyKeystoneTile.MapEntry: Strange Keystone
 			SarcophagusTile.MapEntry: Sarcophagus
@@ -7570,26 +7558,6 @@ Mods: {
 			EnchantedSwordShrineTile.MapEntry: Sword Shrine
 			MineralariumTile.MapEntry: Mineralarium
 			HydraulicPressTile.MapEntry: Hydraulic Press
-
-			AncientGoldDoorClosed: {
-				MapEntry: Ancient Gold Door
-				DisplayName: Ancient Gold Door
-			}
-
-			AncientGoldDoorOpen: {
-				MapEntry: Ancient Gold Door
-				DisplayName: Ancient Gold Door
-			}
-
-			GoopwoodDoorClosed: {
-				MapEntry: Goopwood Door
-				DisplayName: Goopwood Door
-			}
-
-			GoopwoodDoorOpen: {
-				MapEntry: Goopwood Door
-				DisplayName: Goopwood Door
-			}
 
 			GemChestTile: {
 				MapEntry0: Gem Chest
@@ -7617,8 +7585,6 @@ Mods: {
 			PermafrostConduitTile.MapEntry: Permafrost Conduit
 			TidalConduitTile.MapEntry: Tidal Conduit
 			GulaGatewayTile.MapEntry: Strange Gateway
-			AVPots.MapEntry: Pot
-			AVMusicBoxTile.MapEntry: Music Box
 
 			TidalPlatingChestTile: {
 				MapEntry0: Tidal Plating Storage
@@ -7626,7 +7592,6 @@ Mods: {
 			}
 
 			TidalPlatingTorchTile.MapEntry: Tidal Plating Torch
-			AVMinesMusicBoxTile.MapEntry: Music Box
 			PinkyTestTube.MapEntry: Failed Experiment
 
 			OtherworldPlatingChestTile: {
@@ -7656,33 +7621,13 @@ Mods: {
 				MapEntry0: Locked Chaos Plating Chest
 			}
 
-			MothMusicBoxTile.MapEntry: Music Box
 			RuinedStatueTile.MapEntry: Ruined Statue
 			SerpentStatueTile.MapEntry: Serpent Statue
 			InvidiaGatewayTile.MapEntry: Strange Gateway
-			SanctuaryMusicBoxTile.MapEntry: Music Box
-			EvostonePots.MapEntry: Pots
 			SeismicStationTile.MapEntry: Seismic Station
 			TideChainTile.MapEntry: Tide Chain
 			IraGatewayTile.MapEntry: Ira Gateway
-			ExcavatorMusicBoxTile.MapEntry: Music Box
-			LightStatueTile.MapEntry: Light Statue Tile
-			ChaosPlatingBlastDoorTileClosed.MapEntry: Chaos Plating Blast Door Tile Closed
-			ChaosPlatingBlastDoorTileOpen.MapEntry: Chaos Plating Blast Door Tile Open
-			EarthenPlatingBlastDoorTileClosed.MapEntry: Earthen Plating Blast Door Tile Closed
-			EarthenPlatingBlastDoorTileOpen.MapEntry: Earthen Plating Blast Door Tile Open
-			EvilPlatingBlastDoorTileClosed.MapEntry: Evil Plating Blast Door Tile Closed
-			EvilPlatingBlastDoorTileOpen.MapEntry: Evil Plating Blast Door Tile Open
-			InfernoPlatingBlastDoorTileClosed.MapEntry: Inferno Plating Blast Door Tile Closed
-			InfernoPlatingBlastDoorTileOpen.MapEntry: Inferno Plating Blast Door Tile Open
-			NaturePlatingBlastDoorTileClosed.MapEntry: Nature Plating Blast Door Tile Closed
-			NaturePlatingBlastDoorTileOpen.MapEntry: Nature Plating Blast Door Tile Open
-			OtherworldPlatingBlastDoorTileClosed.MapEntry: Otherworld Plating Blast Door Tile Closed
-			OtherworldPlatingBlastDoorTileOpen.MapEntry: Otherworld Plating Blast Door Tile Open
-			PermafrostPlatingBlastDoorTileClosed.MapEntry: Permafrost Plating Blast Door Tile Closed
-			PermafrostPlatingBlastDoorTileOpen.MapEntry: Permafrost Plating Blast Door Tile Open
-			TidalPlatingBlastDoorTileClosed.MapEntry: Tidal Plating Blast Door Tile Closed
-			TidalPlatingBlastDoorTileOpen.MapEntry: Tidal Plating Blast Door Tile Open
+			LightStatueTile.MapEntry: Light Statue
 		}
 
 		WorldGeneration: {
@@ -7784,7 +7729,7 @@ Mods: {
 
 				BossChecklistIntegration: {
 					EntryName: Glowmoth
-					SpawnInfo: In a glowing mushroom biome, disturb a glowsilk cacoon or awaken manually using a [i:SOTS/SuspiciousLookingCandle]
+					SpawnInfo: In a glowing mushroom biome, disturb a glowsilk cocoon or awaken manually using a [i:SOTS/SuspiciousLookingCandle]
 					DespawnMessage: Glowmoth is no longer after you
 				}
 			}
@@ -7957,14 +7902,14 @@ Mods: {
 			Maligmor: Born from The Curse's will to consume all, Maligmors are protrusions of The Curse that are gifted with crystals as power sources. The crystals provide enhanced vision, helping Maligmors defend the Keystone from being reached by invaders.
 			ArcticGoblin: An exiled goblin left to freeze in the unforgiving tundra.
 			Polaris: A forgotten war machine. Made long before the mechanical trio, Polaris was not built with the purpose of reviving Cthulhu, but rather as a weapon of mass destruction.
-			FluxSlime: Created before Putrid Pinky, these gel menaces orginate from early pink slime experiments.
+			FluxSlime: Created before Putrid Pinky, these gel menaces originate from early pink slime experiments.
 			PP: An abomination with an endless hunger for peanuts. Putrid Pinky was created in a failed experiment using pink slime.
 			BlueSlimer: A Blue Slime which became airborne by evolving crude wings. Its wings are easily knocked off with force, depriving it of its flight.
 			NatureSlime: A slime deceptively controlled by a parasitic flower. Its unique biology had previously made it a subject of great scientific interest.
 			SittingMushroom: Sitting mushrooms are spitting mushrooms.
 			TreasureSlime: The nobility of slimes! Unlike the others, these slimes value their lives, and any attempts to steal their treasure will cause them to flee without a second thought.
 			NatureConstruct: An ancient machine originally created to advance spirit energy harvesting technology. Under the spirit's control, it also serves as a protector of forests.
-			EarthenConstruct: As Earthen Spirits are known for traveling in groups, the chasis of the construct was designed to allow easy movement of the contained spirits within thin the chassis. Earlier, more compact designs proved too unstable for housing groups of spirits.
+			EarthenConstruct: As Earthen Spirits are known for traveling in groups, the chassis of the construct was designed to allow easy movement of the contained spirits within thin the chassis. Earlier, more compact designs proved too unstable for housing groups of spirits.
 			PermafrostConstruct: An ancient machine that uses spirit energy to allow easy traversal through deep snow. The spirit, now in control, uses the device to defend its cold home.
 			OtherworldlyConstructHead: Like all constructs, its body serves as a container for the volatile spirit inside. As Otherworld Spirits are relatively docile, Otherworld Constructs have among the simplest internals.
 			TidalConstruct: Originally designed to map out oceans and transport people to locations beneath the depths, its remarkable exterior has allowed it to survive most ocean erosion, but it didn't prevent the spirit inside from asserting control.
@@ -8106,7 +8051,7 @@ Mods: {
 			Pupa:
 				'''
 				They tried to run away, but the flesh wasn't firm, so they slipped.
-				They panicked into a crawl, but the flesh creeped towards them as well.
+				They panicked into a crawl, but the flesh crept towards them as well.
 				They managed to reach higher ground, but the flesh swallowed their lower half.
 				They wished they were dead now, but now they were one.
 				'''
@@ -8145,38 +8090,6 @@ Mods: {
 			VD3: " was devoured by the darkness."
 			VD4: " doesn't understand void mechanics."
 			VD5: " died."
-		}
-
-		BossChecklist: {
-			BossName: {
-				PutridPinky: Putrid Pinky
-				PharaohsCurse: Pharaoh's Curse
-				TheAdvisor: The Advisor
-				Polaris: Polaris
-				Lux: Lux
-				SubspaceSerpent: Subspace Serpent
-				Glowmoth: Glowmoth
-			}
-
-			BossDescription: {
-				PutridPinky: Summon in any biome at any time using a {0}
-				PharaohsCurse: Activate the {0} in the pyramid
-				TheAdvisor: Destroy the 4 tethered Otherworldly Constructs of the Planetarium
-				Polaris: Activate the {0} of the snow biome using {1}
-				Lux: Anger a Chaos Spirit
-				SubspaceSerpent: Tear a dimensional rift in hell by detonating a {0}
-				Glowmoth: In a glowing mushroom biome, disturb a glowsilk cacoon or awaken manually using a {0}
-			}
-
-			BossDisappear: {
-				PutridPinky: Putrid Pinky has robbed everyone of their peanuts!
-				PharaohsCurse: ""
-				TheAdvisor: ""
-				Polaris: ""
-				Lux: ""
-				SubspaceSerpent: ""
-				Glowmoth: ""
-			}
 		}
 
 		VisionAmuletTextList: {
@@ -8353,7 +8266,7 @@ Mods: {
 			1: Increases life regeneration by 1, up to 4 total
 			2: Reduces endurance by 10%
 			3: Increases defense by 2, up to 8 total
-			4: Reduces movespeed by 20%
+			4: Reduces movement speed by 20%
 			5: Increases movement speed by 5%, up to 20% total
 			6: Reduces gravity
 			7: Increases magic damage by 3%, up to 12% total
@@ -9383,6 +9296,17 @@ Mods: {
 			ExcavatorKill: {
 				FriendlyName: Rusty Old Tool
 				Description: Defeat The Excavator, an ancient mining machine (Credit: EduaRRdo)
+			}
+		}
+
+		Configuration: {
+			Header: {
+				GPS: Starter House Type Header
+				UI: void Bar Point X Header
+				GS: low Fidelity Mode Header
+				MS: alternative Music Header
+				TPS: additional Texture Pack Visuals Header
+				BAL: Nerf Insignia Header
 			}
 		}
 	}

@@ -16,7 +16,7 @@ Mods: {
 			Ranged: ", стрелкового урона"
 			Magic: ", магического урона"
 			VoidSDouble: "{0} ед. пустотного урона{1} и урона призывателя"
-			VoidSPercent: ??? ед. пустотного {0} и {0} призывателя
+			VoidSPercent: ??? ед. пустотного урона и урона призывателя
 			CV: Использует {0} ед. пустоты
 			InsigniaNerf: "[SOTS]: Бонусы к продолжительности полёта и мобильности снижены до победы над Люкс"
 			ArchaeologistMap: Аномалия
@@ -24,7 +24,7 @@ Mods: {
 			ArchaeologistShopCondition: В определённой локации
 			VoidAnomalyCrafting: Червоточная трансмутация
 			TesseractInventory: Тессеракт
-			TesseractInvalid: Предмет не подходит для клона
+			TesseractInvalid: Предмет не подходит для клонирования
 			TesseractAwaiting: Клон {0} ожидает указаний
 			TesseractUsage: Клон {0} будет использовать атаку {1} {2}
 			TesseractUsageContinuous: непрерывно
@@ -122,27 +122,27 @@ Mods: {
 		}
 
 		DropCondition: {
-			DefeatSubspaceSerpent: Выпадает после победы над Субпространственным змеем
-			DefeatAdvisor: Выпадает после победы над Аналитиком
+			DefeatSubspaceSerpent: После победы над Субпространственным змеем
+			DefeatAdvisor: После победы над Аналитиком
 			DefeatPharaohsCurseBefor: До победы над Проклятьем Фараона
 			DefeatPharaohsCurse: После победы над Проклятьем Фараона
 			DefeatEyeofCthulhuBefor: До победы над Глазом Ктулху
 			DefeatEyeofCthulhu: После победы над Глазом Ктулху
-			Killedfully: Выпадает при полном добивании
+			Killedfully: При полном добивании
 			SansUndertale: Санс Андертейл
 			OrangeLesserWisps: Меньшие оранжевые огоньки
-			ForestAndJungleBiomes: Выпадает в лесу и джунглях
-			PyramidAndDesertAndUndergroundBiomes: Выпадает в Проклятой Пирамиде, пустыне и подземных биомах
-			ColdBiomes: Выпадает в холодных биомах
-			SkyAndMeteorBiomes: Выпадает в космосе и около упавшего метеорита
-			BeachAndDungeonBiomes: Выпадает на пляже и в Темнице
-			Underworld: Выпадает в преисподней
-			EvilBiome: Выпадает в биоме зла
-			HallowBiome: Выпадает в освящении
-			BeachBiome: Выпадет на пляже
-			Dungeon: Выпадает в Темнице
-			PlanetariumBiome: Выпадает в Планетарии
-			OnFire: Выпадает, если враг горит
+			ForestAndJungleBiomes: В лесу и джунглях
+			PyramidAndDesertAndUndergroundBiomes: В Проклятой Пирамиде, пустыне и подземных биомах
+			ColdBiomes: В холодных биомах
+			SkyAndMeteorBiomes: В космосе и около упавшего метеорита
+			BeachAndDungeonBiomes: На пляже и в Темнице
+			Underworld: В преисподней
+			EvilBiome: В биоме зла
+			HallowBiome: В освящении
+			BeachBiome: В океане
+			Dungeon: В Темнице
+			PlanetariumBiome: В Планетарии
+			OnFire: Если враг горит
 			PhantarayCore1: С ядром
 			PhantarayCore2: Без ядра
 		}
@@ -241,7 +241,7 @@ Mods: {
 			}
 
 			NatureSlimeBanner: {
-				# Banners
+				# Banner
 				DisplayName: Знамя цветочного слизня
 				Tooltip: ""
 			}
@@ -367,7 +367,7 @@ Mods: {
 			}
 
 			TwilightDevilBanner: {
-				DisplayName: Знамя сумрачного дьявола
+				DisplayName: Знамя межсветового дьявола
 				Tooltip: ""
 			}
 
@@ -412,7 +412,7 @@ Mods: {
 			}
 
 			TwilightScouterBanner: {
-				DisplayName: Знамя сумрачного разведчика
+				DisplayName: Знамя межсветового разведчика
 				Tooltip: ""
 			}
 
@@ -956,6 +956,7 @@ Mods: {
 					С каждым уровнем проклятья увеличивает получаемый врагом урон на 0,5%
 					Запускает волны, наносящие 50% урона и имеющие 20% шанс наложить проклятие
 					'''
+				CurseTooltip: Проклята могущественным существом джунглей
 			}
 
 			VoidAnomaly: {
@@ -972,6 +973,7 @@ Mods: {
 			OtherworldlyAmplifier: {
 				# CritBonus
 				DisplayName: Потусторонний амплификатор
+				# CritBonus
 				Tooltip: Критические удары будут наносить на 8 ед. больше урона
 			}
 
@@ -1106,6 +1108,7 @@ Mods: {
 			AquaticEclipse: {
 				# Crushers
 				DisplayName: Затмение
+				# Crushers
 				Tooltip:
 					'''
 					Заряжайте оружие для увеличения урона вплоть до 700%
@@ -1267,6 +1270,7 @@ Mods: {
 			DoorPants: {
 				# DoorItems
 				DisplayName: Дверные штаны
+				# DoorItems
 				Tooltip:
 					'''
 					Увеличивает горизонтальную скорость передвижения при прохождении через дверь
@@ -1286,6 +1290,7 @@ Mods: {
 			}
 
 			GlowSilk: {
+				# Earth
 				# Glowmoth
 				DisplayName: Светящаяся паутина
 				Tooltip: ""
@@ -1298,6 +1303,8 @@ Mods: {
 
 			GlowSpores: {
 				DisplayName: Светящиеся споры
+				# Earth
+				# Glowmoth
 				Tooltip:
 					'''
 					Увеличивает количество маны, получаемое от зелий, на 40 ед.
@@ -1511,6 +1518,7 @@ Mods: {
 			AbyssalFury: {
 				# Evil
 				DisplayName: Ярость бездны
+				# Evil
 				Tooltip: Обрушивает с неба теневые клинки в сторону вашего курсора
 			}
 
@@ -1565,6 +1573,7 @@ Mods: {
 			Curgeon: {
 				# Fishing
 				DisplayName: Проклястипома
+				# Fishing
 				Tooltip: Вынашивает ценную икру, которую можно собрать только путём вскрытия
 			}
 
@@ -1596,6 +1605,7 @@ Mods: {
 			Aten: {
 				# Flails
 				DisplayName: Атон
+				# Flails
 				Tooltip:
 					'''
 					Призывает звёзды, которые наносят 70% урона и взрываются, нанося 140% урона
@@ -1856,6 +1866,8 @@ Mods: {
 				# Furniture
 				# AncientGold
 				DisplayName: Кровать из древнего золота
+				# Furniture
+				# AncientGold
 				Tooltip: «Для сна, заслуживающего короля»
 			}
 
@@ -1955,6 +1967,7 @@ Mods: {
 			NatureHydroponics: {
 				# Functional
 				DisplayName: Гидропоник из природного покрытия
+				# Functional
 				Tooltip:
 					'''
 					Автоматически выращивает различные алхимические травы
@@ -1988,6 +2001,7 @@ Mods: {
 			AmberRing: {
 				# Gems
 				DisplayName: Кольцо Асмодея
+				# Gems
 				Tooltip: Получение удара даёт случайный 30-секундный бафф
 			}
 
@@ -2064,6 +2078,7 @@ Mods: {
 			BlazingClub: {
 				# Inferno
 				DisplayName: Пылающая дубина
+				# Inferno
 				Tooltip:
 					'''
 					Подбрасывает шипастые мины в воздух
@@ -2136,6 +2151,7 @@ Mods: {
 			VesperaMask: {
 				# Invidia
 				DisplayName: Маска Веспера
+				# Invidia
 				Tooltip: Увеличивает максимальный запас пустоты на 25 ед. и её получаемое количество на 1 ед.
 			}
 
@@ -2164,7 +2180,7 @@ Mods: {
 			}
 
 			VesperaNanDao: {
-				DisplayName: Нандao Веспера
+				DisplayName: Нандао Веспера
 				Tooltip:
 					'''
 					Наносит 2 чередующихся удара
@@ -2206,6 +2222,7 @@ Mods: {
 
 			KnucklesMusicBox: {
 				DisplayName: Музыкальная шкатулка (Наклз)
+				# MusicBoxes
 				Tooltip: «Can I put my...»
 			}
 
@@ -2247,6 +2264,7 @@ Mods: {
 			AcornBag: {
 				# Nature
 				DisplayName: Мешочек желудей
+				# Nature
 				Tooltip: Призывает белку сражаться за вас
 			}
 
@@ -2330,6 +2348,7 @@ Mods: {
 			GoldArkStaff: {
 				# OreItems
 				DisplayName: Посох золотой дуги
+				# OreItems
 				Tooltip: Дополнительно наносит 150% урона двум врагам, находящимся ближе всего с изначально поражённой целью
 			}
 
@@ -2388,6 +2407,7 @@ Mods: {
 			}
 
 			AvaritianPlating: {
+				# Otherworld
 				# Blocks
 				DisplayName: Покрытие алчности
 				Tooltip: ""
@@ -2414,7 +2434,7 @@ Mods: {
 			}
 
 			TwilightGyroscope: {
-				DisplayName: Сумрачный гироскоп
+				DisplayName: Межсветовой гироскоп
 				Tooltip:
 					'''
 					Увеличивает высоту прыжка и скорость полёта
@@ -2427,6 +2447,7 @@ Mods: {
 			ArclightOrbs: {
 				# FromChests
 				DisplayName: Световые шары
+				# FromChests
 				Tooltip: Бросает несколько громовых шаров, которые взрываются отскакивающими от врага к врагу молниями, наносящими 80% урона
 			}
 
@@ -2455,13 +2476,13 @@ Mods: {
 			}
 
 			CataclysmMusketPouch: {
-				DisplayName: Подсумок с бесконечными пулями катаклизма
+				DisplayName: Подсумок с катаклизмическими пулями
 				Tooltip:
 					'''
-					Пули катаклизма летят быстрее и хаотичнее обычных
+					Катаклизмические пули летят быстрее и хаотичнее обычных
 					Они также наносят 20% урона ближайшему врагу, находящемуся рядом с поражённой целью
-					Пули станут свехзаряженными, если предмет находится в избранном, но при этом будут также расходовать немного пустоты
-					Суперзяряженные пули летят намного быстрее и атакуют больше ближайших врагов
+					Пули станут свехзаряженными, если добавить предмет в избранное, но при этом будут также расходовать немного пустоты
+					Сверхзяряженные пули летят намного быстрее и атакуют больше врагов за раз
 					'''
 			}
 
@@ -2469,7 +2490,7 @@ Mods: {
 				DisplayName: Цепная плазма
 				Tooltip:
 					'''
-					Летит в сторону вашего курсора, Скачет между врагами, нанося 70% урона
+					Летит в сторону вашего курсора
 					При попадании по врагу создаёт электрическую цепь, которая отскакивает от врага к врагу, нанося 70% урона
 					'''
 			}
@@ -2478,50 +2499,49 @@ Mods: {
 				DisplayName: Цифровой вирус
 				Tooltip:
 					'''
-					Выстреливает снарядами, пролетающими короткую и большую дистанцию
-					У выстрела ближней дистанции есть шанс 70% дестабилизировать врага, а у выстрела дальней дистанции этот шанс составляет 30%
-					Ваш шанс критического удара увеличивается плоско на 5% для всех дестабилизированных врагов
-					Дестабилизация не пропадает со временем и её уровни суммируются, но чем их больше, тем сложнее наложить следующий
+					Стреляет двумя снарядами, пролетающими короткую и большую дистанцию
+					У выстрела ближней дистанции есть шанс 70% наложения бессрочного эффекта дестабилизации, а у выстрела дальней дистанции этот шанс составляет 30%,
+					Эффект дестабилизации увеличивающий шанс критического удара по врагу на 5% за стак, но не суммируется с шансом критического удара игрока
+					Шанс наложения эффекта снижается с каждым стаком
 					'''
 			}
 
 			CrescentStaff: {
 				DisplayName: Посох полумесяца
-				Tooltip: Выпускает 3 полумесяца, которые цепляются к врагам, похищая их здоровье и ману
+				Tooltip: Выпускает 3 полумесяца, которые стреляют самонаводящимися молниями, похищающими здоровье и ману врагов
 			}
 
 			FlareDetonator: {
-				DisplayName: Взрыватель сигнальных ракет
+				DisplayName: Сигнальный детонатор
 				Tooltip: Запускает взрывные сигнальные ракеты, которые детонируют, когда вы отпускаете ЛКМ
 			}
 
 			HardlightGlaive: {
-				DisplayName: Твердосветовая глефа
-				Tooltip: Высвобождает молнию, наносящую 160% урона
+				DisplayName: Твёрдосветовая глефа
+				Tooltip: Выпускает молнию, наносящую 160% урона
 			}
 
 			HardlightQuiver: {
-				DisplayName: Твердосветовой колчан
+				DisplayName: Твёрдосветовой колчан
 				Tooltip:
 					'''
-					Твердосветовые стрелы никогда не закончатся
-					Твердовые стрелы летят быстрее и игнорируют гравитацию
-					Если колчан помечен как избранное, то стрелы будут суперзаряжаться ценой некоторого количества пустоты
-					Суперзаряженные стрелы достигают цели моментально и на дальних дистанциях обретают лёгкую самонаводку
+					Твёрдосветовые стрелы летят быстрее обычных и не подвержены гравитации
+					Стрелы станут свехзаряженными, если добавить предмет в избранное, но при этом будут также расходовать немного пустоты
+					Сверхзаряженные стрелы летят со скоростью света и на обретают слабую самонаводку на больших дистанциях
 					'''
 			}
 
 			InfernoHook: {
 				DisplayName: Инфернальный крюк
-				Tooltip: Очень быстрый крюк, поражающий врагов на пути
+				Tooltip: Очень быстрый крюк, наносящий урон врагам на пути
 			}
 
 			LashesOfLightning: {
-				DisplayName: Плети молнии
+				DisplayName: Плеть молнии
 				Tooltip:
 					'''
-					Быстро ударяют молнией в небольшой области перед вами
-					Конец плети наносит немного больше урона и игнорирует препятствия
+					Быстро размахивает молниями в небольшой области перед вами
+					Конец плети наносит немного больше урона и способен атаковать сквозь стены
 					'''
 			}
 
@@ -2608,12 +2628,12 @@ Mods: {
 			}
 
 			TwilightAssassinsCirclet: {
-				DisplayName: Венок сумрачного ассасина
-				Tooltip: Игрок
+				DisplayName: Венец межсветового ассасина
+				Tooltip: Gamer
 			}
 
 			TwilightAssassinsChestplate: {
-				DisplayName: Нагрудник сумрачного ассасина
+				DisplayName: Нагрудник межсветового ассасина
 				Tooltip:
 					'''
 					Увеличивает максимальное количество миньонов на 1
@@ -2623,7 +2643,7 @@ Mods: {
 			}
 
 			TwilightAssassinsLeggings: {
-				DisplayName: Поножи сумрачного ассасина
+				DisplayName: Поножи межсветового ассасина
 				Tooltip:
 					'''
 					Увеличивает скорость передвижения на 15%
@@ -2633,7 +2653,7 @@ Mods: {
 			}
 
 			TwilightFishingPole: {
-				DisplayName: Сумрачная удочка
+				DisplayName: Межсветовая удочка
 				Tooltip:
 					'''
 					Бросает сразу 2 поплавка
@@ -2642,12 +2662,12 @@ Mods: {
 			}
 
 			TwilightShard: {
-				DisplayName: Сумрачная пластина
+				DisplayName: Межсветовая пластина
 				Tooltip: ""
 			}
 
 			OtherworldlyAlloy: {
-				DisplayName: Сумрачный сплав
+				DisplayName: Межсветовой сплав
 				Tooltip: ""
 			}
 
@@ -2668,6 +2688,7 @@ Mods: {
 			DigitalDisplay: {
 				# Furniture
 				DisplayName: Цифровой дисплей
+				# Furniture
 				Tooltip: Увеличивает пустотный урон на 10%
 			}
 
@@ -2791,13 +2812,14 @@ Mods: {
 			}
 
 			TwilightGel: {
-				DisplayName: Сумрачный гель
+				DisplayName: Межсветовой гель
 				Tooltip: ""
 			}
 
 			AbsoluteBar: {
 				# Permafrost
 				DisplayName: Совершенный сплав
+				# Permafrost
 				Tooltip: «Обжигающий на ощупь»
 			}
 
@@ -2990,6 +3012,7 @@ Mods: {
 			AbyssalTonic: {
 				# Potions
 				DisplayName: Тоник бездны
+				# Potions
 				Tooltip:
 					'''
 					Даёт 2 случайных баффа из следующего списка:
@@ -3170,6 +3193,8 @@ Mods: {
 
 			PyramidRubble: {
 				DisplayName: Обломки Пирамиды
+				# Pyramid
+				# AltPyramidBlocks
 				Tooltip: «Это скорее кучка камней, а не полноценные кипричи»
 			}
 
@@ -3529,6 +3554,7 @@ Mods: {
 			PhotonGeyser: {
 				# Secrets
 				DisplayName: Фотоновый гейзер
+				# Secrets
 				Tooltip: Высвобождает спираль самонаводящегося радужного света
 			}
 
@@ -3573,6 +3599,7 @@ Mods: {
 			FireSpitter: {
 				# Slime
 				DisplayName: Огненный брызгатель
+				# Slime
 				Tooltip: Использует гель в качестве боеприпасов
 			}
 
@@ -3667,6 +3694,7 @@ Mods: {
 			BoreBullet: {
 				# SoldStuff
 				DisplayName: Бурящая пуля
+				# SoldStuff
 				Tooltip: Пробивает 20% + 10 ед. брони врага
 			}
 
@@ -3697,6 +3725,7 @@ Mods: {
 			ChaosSpiritStaff: {
 				# SpiritStaves
 				DisplayName: Посох духа хаоса
+				# SpiritStaves
 				Tooltip:
 					'''
 					Призывает духа хаоса сражаться за вас
@@ -3764,6 +3793,7 @@ Mods: {
 			Helios: {
 				# Temple
 				DisplayName: Гелиос
+				# Temple
 				Tooltip:
 					'''
 					Атакуя врагов, вы сжигаете их душу, что увеличвает урон по ним на 3% за удар
@@ -3812,6 +3842,7 @@ Mods: {
 			ArkhalisChain: {
 				# Tide
 				DisplayName: Потерянная цепь
+				# Tide
 				Tooltip: «Скорее всего из другого места»
 			}
 
@@ -3909,6 +3940,7 @@ Mods: {
 			AncientSteelGreatHamaxe: {
 				# Tools
 				DisplayName: Большой молотопор из древней стали
+				# Tools
 				Tooltip:
 					'''
 					Критические удары наносят на 50% больше урона
@@ -4009,6 +4041,7 @@ Mods: {
 			ScarletStar: {
 				# Void
 				DisplayName: Алый полумесяц
+				# Void
 				Tooltip:
 					'''
 					Навсегда увеличивает максимальный запас пустоты на 50 ед. и скорость её восполнения на 5%
@@ -4522,6 +4555,7 @@ Mods: {
 
 			EarthenPlatingWorkBench: {
 				DisplayName: Верстак из земельного покрытия
+				# Earthen
 				Tooltip: Также функционирует как наковальня
 			}
 
@@ -4652,6 +4686,7 @@ Mods: {
 
 			NaturePlatingWorkBench: {
 				DisplayName: Верстак из природного покрытия
+				# Nature
 				Tooltip: Также функционирует как наковальня
 			}
 
@@ -4737,6 +4772,7 @@ Mods: {
 
 			PermafrostPlatingWorkBench: {
 				DisplayName: Верстак из мёрзлого покрытия
+				# Permafrost
 				Tooltip: Также функционирует как наковальня
 			}
 
@@ -4922,6 +4958,7 @@ Mods: {
 
 			UnsafeCursedTumorWall: {
 				DisplayName: Опасная стена проклятой опухоли
+				# PyramidWalls
 				Tooltip:
 					'''
 					Меняет биом на Пирамиду, если вы стоите перед ней
@@ -5344,7 +5381,7 @@ Mods: {
 				DisplayName: Потусторонний ящик
 				Tooltip:
 					'''
-					Можно выловить только сумрачной удочкой
+					Можно выловить только межсветовой удочкой
 					{$CommonItemTooltip.RightClickToOpen}
 					'''
 			}
@@ -5353,7 +5390,7 @@ Mods: {
 				DisplayName: Ящик Планетария
 				Tooltip:
 					'''
-					Можно выловить только сумрачной удочкой
+					Можно выловить только межсветовой удочкой
 					{$CommonItemTooltip.RightClickToOpen}
 					'''
 			}
@@ -6784,7 +6821,7 @@ Mods: {
 				DisplayName: Призрачный мяч для гольфа
 				Tooltip:
 					'''
-					По нему можно ударить ключшкой для гольфа, и чем быстрее он летит, тем больше урона он нанесёт
+					По нему можно ударить клюшкой для гольфа, и чем быстрее он летит, тем больше урона он нанесёт
 					«Это один большой фотон!»
 					'''
 			}
@@ -6876,12 +6913,8 @@ Mods: {
 			}
 
 			WonderEgg: {
-				DisplayName: Ювелирное кольцо
-				Tooltip:
-					'''
-					Разбивается под очннь большим давлением
-					Temp
-					'''
+				DisplayName: Ювелирное яйцо
+				Tooltip: Temp
 			}
 
 			BrokenJumboSurpriseCapsule: {
@@ -6911,22 +6944,22 @@ Mods: {
 
 		ItemTooltip: {
 			DissolvingElements: {
-				DissolvingNatureNormal: Снижает наносимый урон на 10% при нахождении в инветаре
-				DissolvingNatureFlipped: Ускоряет регенерацию здоровья на 1 (0,5 ОЗ/сек) за каждый элемент в инветаре, вплоть до 4 (2 ОЗ/сек)
-				DissolvingEarthNormal: Снижает сопротивление урону на 10% при нахождении в инветаре
-				DissolvingEarthFlipped: Увеличивает защиту на 2 ед. за каждый элемент в инветаре, вплоть до 8 ед.
-				DissolvingAuroraNormal: Снижает скорость передвижения на 20% при нахождении в инветаре
+				DissolvingNatureNormal: Снижает наносимый урон на 10% при нахождении в инвентаре
+				DissolvingNatureFlipped: Ускоряет регенерацию здоровья на 1 (0,5 ОЗ/сек) за каждый элемент в инвентаре, вплоть до 4 (2 ОЗ/сек)
+				DissolvingEarthNormal: Снижает сопротивление урону на 10% при нахождении в инвентаре
+				DissolvingEarthFlipped: Увеличивает защиту на 2 ед. за каждый элемент в инвентаре, вплоть до 8 ед.
+				DissolvingAuroraNormal: Снижает скорость передвижения на 20% при нахождении в инвентаре
 				DissolvingAuroraFlipped: Увеличивает скорость передвижения на 5% за каждый элемент в инвентаре, вплоть до 20%
 				DissolvingDelugeNormal: Снижает максимальный запас здоровья на 10 ед. при нахождении в инвентаре
-				DissolvingDelugeFlipped: Увеличивает стрелковый урон на 3% за каждый элемент в инветаре, вплоть до 12%
+				DissolvingDelugeFlipped: Увеличивает стрелковый урон на 3% за каждый элемент в инвентаре, вплоть до 12%
 				DissolvingAetherNormal: Ослабляет влияние гравитации при нахождении в инвентаре
-				DissolvingAetherFlipped: Увеличивает магический урон на 3% за каждый элемент в инветаре, вплоть до 12%
-				DissolvingUmbraNormal: Снижает максимальный запас пустоты на 20 ед. при нахождении в инветаре
-				DissolvingUmbraFlipped: Увеличивает пустотный урон на 3% за каждый элемент в инветаре, вплоть до 12%
-				DissolvingNetherNormal: Замедляет регенерацию здоровья на 2 (1 ОЗ/сек) при нахождении в инветаре
-				DissolvingNetherFlipped: Увеличивает урон ближнего боя на 3% за каждый элемент в инветаре, вплоть до 12%
-				DissolvingBrillianceNormal: Поглощает 0,5 ед. пустоты в секунду при нахождении в инветаре
-				DissolvingBrillianceFlipped: Увеличивает урон призывателя на 3% за каждый элемент в инветаре, вплоть до 12%
+				DissolvingAetherFlipped: Увеличивает магический урон на 3% за каждый элемент в инвентаре, вплоть до 12%
+				DissolvingUmbraNormal: Снижает максимальный запас пустоты на 20 ед. при нахождении в инвентаре
+				DissolvingUmbraFlipped: Увеличивает пустотный урон на 3% за каждый элемент в инвентаре, вплоть до 12%
+				DissolvingNetherNormal: Замедляет регенерацию здоровья на 2 (1 ОЗ/сек) при нахождении в инвентаре
+				DissolvingNetherFlipped: Увеличивает урон ближнего боя на 3% за каждый элемент в инвентаре, вплоть до 12%
+				DissolvingBrillianceNormal: Поглощает 0,5 ед. пустоты в секунду при нахождении в инвентаре
+				DissolvingBrillianceFlipped: Увеличивает урон призывателя на 3% за каждый элемент в инвентаре, вплоть до 12%
 			}
 		}
 
@@ -7528,12 +7561,6 @@ Mods: {
 				MapEntry9: Закрытый сундук зависти убывающего месяца
 			}
 
-			HoloEyeBannerTile.MapEntry: Знамя
-			HoloSlimeBannerTile.MapEntry: Знамя
-			HoloSwordBannerTile.MapEntry: Знамя
-			SOTSBanners.MapEntry: Знамя
-			SOTSBanners2.MapEntry: Знамя
-			SOTSTrophies.MapEntry: Трофей
 			SilkCocoonTile.MapEntry: Светящийся кокон
 			BigCrystalTile.MapEntry: Гигантский кристалл
 			VibrantOreTile.MapEntry: Виброруда
@@ -7550,21 +7577,10 @@ Mods: {
 			NaturePlatingTorchTile.MapEntry: Факел
 			PermafrostPlatingTorchTile.MapEntry: Факел
 			SOTSGemLockTiles.MapEntry: Таинственный переключатель
-			AdvisorMusicBoxTile.MapEntry: Музыкальная шкатулка
-			AncientPyramidMusicBoxTile.MapEntry: Музыкальная шкатулка
-			KnucklesMusicBoxTile.MapEntry: Музыкальная шкатулка
-			LuxMusicBoxTile.MapEntry: Музыкальная шкатулка
-			PlanetariumMusicBoxTile.MapEntry: Музыкальная шкатулка
-			PolarisMusicBoxTile.MapEntry: Музыкальная шкатулка
-			PutridPinkyMusicBoxTile.MapEntry: Музыкальная шкатулка
-			PyramidBattleMusicBoxTile.MapEntry: Музыкальная шкатулка
-			SubspaceSerpentMusicBoxTile.MapEntry: Музыкальная шкатулка
-			CurseMusicBoxTile.MapEntry: Музыкальная шкатулка
 			DigitalDisplayTile.MapEntry: Цифровой дисплей
 			HardlightFabricatorTile.MapEntry: Твердосветовой станок
 			HardlightTableTile.MapEntry: Твердосветовой стол
 			PotGeneratorTile.MapEntry: Генератор горшков
-			SkyPots.MapEntry: Горшок
 			SkyChainTile.MapEntry: Небесная цепь
 			TransmutationAltarTile.MapEntry: Трасмутационный алтарь
 			AvaritianGatewayTile.MapEntry: Странные врата
@@ -7579,7 +7595,6 @@ Mods: {
 			ManaStatue.MapEntry: Статуя маны
 			PyramidChestTile.MapEntry0: Сундук Пирамиды
 			PyramidGateTile.MapEntry: Врата Пирамиды
-			PyramidPots.MapEntry: Горшок
 			RoyalRubyShardTile.MapEntry: Осколок краеугольного камня
 			RubyKeystoneTile.MapEntry: Краеугольный камень
 			SarcophagusTile.MapEntry: Саркофаг
@@ -7592,26 +7607,6 @@ Mods: {
 			EnchantedSwordShrineTile.MapEntry: Святыня меча
 			MineralariumTile.MapEntry: Минерализатор
 			HydraulicPressTile.MapEntry: Гидравлический пресс
-
-			AncientGoldDoorClosed: {
-				MapEntry: Дверь из древнего золота
-				DisplayName: Дверь из древнего золота
-			}
-
-			AncientGoldDoorOpen: {
-				MapEntry: Дверь из древнего золота
-				DisplayName: Дверь из древнего золота
-			}
-
-			GoopwoodDoorClosed: {
-				MapEntry: Дверь из липкого дерева
-				DisplayName: Дверь из липкого дерева
-			}
-
-			GoopwoodDoorOpen: {
-				MapEntry: Дверь из липкого дерева
-				DisplayName: Дверь из липкого дерева
-			}
 
 			GemChestTile: {
 				MapEntry0: Самоцветный сундук
@@ -7639,8 +7634,6 @@ Mods: {
 			PermafrostConduitTile.MapEntry: Мёрзлый трубопровод
 			TidalConduitTile.MapEntry: Приливный трубопровод
 			GulaGatewayTile.MapEntry: Странные врата
-			AVPots.MapEntry: Горшок
-			AVMusicBoxTile.MapEntry: Музыкальная шкатулка
 
 			TidalPlatingChestTile: {
 				MapEntry0: Сундук из приливного покрытия
@@ -7648,7 +7641,6 @@ Mods: {
 			}
 
 			TidalPlatingTorchTile.MapEntry: Факел
-			AVMinesMusicBoxTile.MapEntry: Музыкальная шкатулка
 			PinkyTestTube.MapEntry: Провалившийся эксперимент
 
 			OtherworldPlatingChestTile: {
@@ -7678,33 +7670,13 @@ Mods: {
 				MapEntry0: Закрытый сундук из хаотического покрытия
 			}
 
-			MothMusicBoxTile.MapEntry: Музыкальная шкатулка
 			RuinedStatueTile.MapEntry: Разрушенная статуя
 			SerpentStatueTile.MapEntry: Статуя змеи
 			InvidiaGatewayTile.MapEntry: Странные врата
-			SanctuaryMusicBoxTile.MapEntry: Музыкальная шкатулка
-			EvostonePots.MapEntry: Горшки
 			SeismicStationTile.MapEntry: Сейсмическая станция
 			TideChainTile.MapEntry: Приливная цепь
 			IraGatewayTile.MapEntry: Врата гнева
-			ExcavatorMusicBoxTile.MapEntry: Музыкальная шкатулка
 			LightStatueTile.MapEntry: Статуя света
-			// ChaosPlatingBlastDoorTileClosed.MapEntry: Chaos Plating Blast Door Tile Closed
-			// ChaosPlatingBlastDoorTileOpen.MapEntry: Chaos Plating Blast Door Tile Open
-			// EarthenPlatingBlastDoorTileClosed.MapEntry: Earthen Plating Blast Door Tile Closed
-			// EarthenPlatingBlastDoorTileOpen.MapEntry: Earthen Plating Blast Door Tile Open
-			// EvilPlatingBlastDoorTileClosed.MapEntry: Evil Plating Blast Door Tile Closed
-			// EvilPlatingBlastDoorTileOpen.MapEntry: Evil Plating Blast Door Tile Open
-			// InfernoPlatingBlastDoorTileClosed.MapEntry: Inferno Plating Blast Door Tile Closed
-			// InfernoPlatingBlastDoorTileOpen.MapEntry: Inferno Plating Blast Door Tile Open
-			// NaturePlatingBlastDoorTileClosed.MapEntry: Nature Plating Blast Door Tile Closed
-			// NaturePlatingBlastDoorTileOpen.MapEntry: Nature Plating Blast Door Tile Open
-			// OtherworldPlatingBlastDoorTileClosed.MapEntry: Otherworld Plating Blast Door Tile Closed
-			// OtherworldPlatingBlastDoorTileOpen.MapEntry: Otherworld Plating Blast Door Tile Open
-			// PermafrostPlatingBlastDoorTileClosed.MapEntry: Permafrost Plating Blast Door Tile Closed
-			// PermafrostPlatingBlastDoorTileOpen.MapEntry: Permafrost Plating Blast Door Tile Open
-			// TidalPlatingBlastDoorTileClosed.MapEntry: Tidal Plating Blast Door Tile Closed
-			// TidalPlatingBlastDoorTileOpen.MapEntry: Tidal Plating Blast Door Tile Open
 		}
 
 		WorldGeneration: {
@@ -7912,8 +7884,8 @@ Mods: {
 			SittingMushroom.DisplayName: Сидящий гриб
 			SnakePot.DisplayName: Змея в кувшине
 			Teratoma.DisplayName: Тератома
-			TwilightDevil.DisplayName: Сумрачный дьявол
-			TwilightScouter.DisplayName: Сумрачный разведчик
+			TwilightDevil.DisplayName: Межсветовой дьявол
+			TwilightScouter.DisplayName: Межсветовой разведчик
 			WallMimic.DisplayName: Стена-мимик
 			Snake.DisplayName: Змея
 			PhantarayBig.DisplayName: Призрачный скат
@@ -8304,7 +8276,7 @@ Mods: {
 			8: Яйцо налога
 			9: Яйцо бесконечности
 			10: Яйцо потери
-			11: Яйцо товарищенства
+			11: Яйцо товарищества
 			12: Яйцо ада
 			13: Яйцо рая
 			14: Яйцо запрета
@@ -8314,7 +8286,7 @@ Mods: {
 			18: Яйцо свободы
 			19: Яйцо романтики
 			20: Яйцо насилия
-			21: Яйцо беззаконья
+			21: Яйцо беззакония
 			22: Яйцо капризности
 			23: Яйцо заключения
 			24: Яйцо предпринимательства
@@ -8352,18 +8324,18 @@ Mods: {
 		}
 
 		EggDescription: {
-			0: «Оно может неплохо стоить»
-			1: «Возможно, оно заслуживает места в вашей коллекции»
-			2: «Хороший повод отправиться в преключение»
-			3: «Оно очень красиво блестит на свету»
+			0: «Может неплохо стоить»
+			1: «Явно заслуживает места в вашей коллекции»
+			2: «Отличная награда за приключение»
+			3: «Очень красиво блестит на свету»
 			4: «Один его вид поднимает настроение»
 			5: «Напоминание о том, что весь мир — у ваших ног»
 			6: «Возможно, из него можно извлечь какой-то урок»
 			7: «Возможно, оно изменит вашу судьбу»
-			x0: «Оно врятли стоит денег»
-			x1: «Оно не заслуживает места в вашей колленции»
-			x2: «Явно не повод отправиться в преключение»
-			x3: «Выглядит совершенно скучно»
+			x0: «Врятли стоит и гроша»
+			x1: «Явно не заслуживает места в вашей коллекции»
+			x2: «Явно не повод отправиться в приключение»
+			x3: «Выглядит совершенно неинтересно»
 			x4: «Неприятно холодное в руках»
 			x5: «Оно не выставит вас в лучшем свете»
 			x6: «Вы не извлечёте из него ничего полезного»
@@ -9493,6 +9465,17 @@ Mods: {
 					Одержите победу над Экскаватором — древней землеройной машиной
 					(автор: EduaRRdo)
 					'''
+			}
+		}
+
+		Configuration: {
+			Header: {
+				// GPS: Starter House Type Header
+				// UI: void Bar Point X Header
+				// GS: low Fidelity Mode Header
+				// MS: alternative Music Header
+				// TPS: additional Texture Pack Visuals Header
+				// BAL: Nerf Insignia Header
 			}
 		}
 	}

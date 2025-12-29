@@ -1,0 +1,1678 @@
+ProbablyDelete: {
+	DisplayName: Инструмент тестировки
+	Tooltip: Пинганите меня на сервере, если увидите это
+}
+
+LushWoodBody: {
+	DisplayName: Нагрудник из дерева изобилия
+	Tooltip: Увеличивает урон призывателя на 1 ед.
+}
+
+LushWoodHead: {
+	DisplayName: Шлем из дерева изобилия
+	Tooltip: Увеличивает урон призывателя на 1 ед.
+}
+
+LushWoodLegs: {
+	DisplayName: Поножи из дерева изобилия
+	Tooltip: ""
+}
+
+MysteriaChest: {
+	DisplayName: Нагрудник из мистернии
+	Tooltip:
+		'''
+		Увеличивает скорость добычи
+		Увеличивает скорость установки блоков и стен
+		'''
+}
+
+MysteriaHelmet: {
+	DisplayName: Фата из мистернии
+	Tooltip:
+		'''
+		Увеличивает скорость добычи
+		Увеличивает скорость и дальность установки блоков и стен
+		'''
+}
+
+MysteriaLeggings: {
+	DisplayName: Поножи из мистернии
+	Tooltip:
+		'''
+		Увеличивает скорость добычи
+		Увеличивает скорость установки блоков и стен
+		'''
+}
+
+VerdantChestplate: {
+	DisplayName: Нагрудник цветения
+	Tooltip:
+		'''
+		Увеличивает урон призывателя на 7%
+		Увеличивает максимальное количество миньонов на 1
+		'''
+}
+
+VerdantHelm: {
+	DisplayName: Головной убор цветения
+	Tooltip:
+		'''
+		Увеличивает урон призывателя на 5%
+		Вы будете излучать небольшое количество света
+		'''
+}
+
+VerdantLeggings: {
+	DisplayName: Поножи цветения
+	Tooltip:
+		'''
+		Ускоряет регенерацию здоровья
+		Увеличивает максимальное количество миньонов на 1
+		На траве, по которой вы прошлись, начинают расти цветы
+		'''
+}
+
+AquamarineItem: {
+	DisplayName: Аквамарин
+	Tooltip: ""
+}
+
+AquamarineTorchItem: {
+	DisplayName: Аквамариновый факел
+	Tooltip: ""
+}
+
+BackslateTileItem: {
+	DisplayName: Пещерный сланец
+	Tooltip: ""
+}
+
+EmbeddedAquamarineItem: {
+	DisplayName: Аквамариновая почва изобилия
+	Tooltip: ""
+}
+
+EmbeddedStoneAquamarineItem: {
+	DisplayName: Аквамариновый камень
+	Tooltip: ""
+}
+
+GemsparkAquamarineItem: {
+	DisplayName: Искристый аквамарин
+	Tooltip: ""
+}
+
+GemsparkAquamarineWallItem: {
+	DisplayName: Искристая аквамариновая стена
+	Tooltip: ""
+}
+
+GemsparkAquamarineWallOfflineItem: {
+	DisplayName: Неактивная искристая аквамариновая стена
+	Tooltip: ""
+}
+
+BeehiveBlock: {
+	DisplayName: Шмелиный улей
+	Tooltip:
+		'''
+		Призывает пчёл, которые опыляют ближайшие цветы
+		Когда пчёлы принесут достаточно пыльцы, можно собрать 
+		«Это жужжание слегка настораживает» 
+		'''
+}
+
+Bush2x2Item: {
+	DisplayName: Декоративный куст
+	Tooltip: Можно подстричь с помощью [i:{0}]
+}
+
+Bush3x3Item: {
+	DisplayName: Большой декоративный куст
+	Tooltip: "{$Mods.Verdant.Items.Bush2x2Item.Tooltip}"
+}
+
+LushSoilBlock: {
+	DisplayName: Почва изобилия
+	Tooltip: ""
+}
+
+LushBathtubItem: {
+	DisplayName: Ванна изобилия
+	Tooltip: ""
+}
+
+LushBedItem: {
+	DisplayName: Кровать изобилия
+	Tooltip: ""
+}
+
+LushBookshelfItem: {
+	DisplayName: Книжный шкаф изобилия
+	Tooltip: ""
+}
+
+LushCandelabraItem: {
+	DisplayName: Люстра изобилия
+	Tooltip: ""
+}
+
+LushCandleItem: {
+	DisplayName: Свеча изобилия
+	Tooltip: ""
+}
+
+LushChairItem: {
+	DisplayName: Стул изобилия
+	Tooltip: ""
+}
+
+LushClockItem: {
+	DisplayName: Напольные часы изобилия
+	Tooltip: ""
+}
+
+LushDresserItem: {
+	DisplayName: Комод изобилия
+	Tooltip: ""
+}
+
+LushLampItem: {
+	DisplayName: Напольная лампа изобилия
+	Tooltip: ""
+}
+
+LushLanternItem: {
+	DisplayName: Фонарь изобилия
+	Tooltip: ""
+}
+
+LushPianoItem: {
+	DisplayName: Пианино изобилия
+	Tooltip: ""
+}
+
+LushPlatformItem: {
+	DisplayName: Платформа из дерева изобилия
+	Tooltip: ""
+}
+
+LushSinkItem: {
+	DisplayName: Раковина изобилия
+	Tooltip: ""
+}
+
+LushTableItem: {
+	DisplayName: Стол изобилия
+	Tooltip: ""
+}
+
+LushWoodDoorItem: {
+	DisplayName: Дверь изобилия
+	Tooltip: ""
+}
+
+LushWoodSofaItem: {
+	DisplayName: Диван изобилия
+	Tooltip: ""
+}
+
+LushWorkbenchItem: {
+	DisplayName: Верстак изобилия
+	Tooltip: ""
+}
+
+VerdantWoodBlock: {
+	DisplayName: Древесина изобилия
+	Tooltip: ""
+}
+
+VerdantWoodChestBlock: {
+	DisplayName: Сундук из дерева изобилия
+	Tooltip: ""
+}
+
+ThePlantItem: {
+	DisplayName: Растение
+	Tooltip: «Серьёзно, это просто растение»
+}
+
+ApotheoticPaintingItem: {
+	DisplayName: Апофеозный
+	Tooltip: «Emily A.»
+}
+
+HardyVineBook: {
+	DisplayName: Исследование прочных лоз
+	Tooltip:
+		'''
+		«Впечатляющая углублённость в тему прочных лоз»
+		Нажмите ПКМ, чтобы прочесть
+		'''
+}
+
+LeafBook: {
+	DisplayName: Исследование листвы изобилия
+	Tooltip:
+		'''
+		«Впечатляющая углублённость в тему листвы изобилия»
+		Нажмите ПКМ, чтобы прочесть
+		'''
+}
+
+LightbulbBook: {
+	DisplayName: Исследование лампоцветов
+	Tooltip:
+		'''
+		«Впечатляющая углублённость в тему лампоцветов»
+		Нажмите ПКМ, чтобы прочесть
+		'''
+}
+
+RockBook: {
+	DisplayName: Исследование камней
+	Tooltip:
+		'''
+		«Исследование о... вулканических камнях?»
+		Нажмите ПКМ, чтобы прочесть
+		'''
+}
+
+ChlorophytePlant: {
+	DisplayName: Черенок хлороцвета
+	Tooltip:
+		'''
+		Выращивает возобновляемый хлорофит
+		«Острый камень, наполненный жизнью» 
+		'''
+}
+
+FloatingCrystalItem: {
+	DisplayName: Парящий кристалл
+	Tooltip:
+		'''
+		Можно поставить в воздухе
+		Можно зацепиться крюком
+		'''
+}
+
+GreenCrystalItem: {
+	DisplayName: Зелёный кристалл
+	Tooltip: «Не такой уж и острый, как может показатся»
+}
+
+HangingCrystalItem: {
+	DisplayName: Висячий кристалл
+	Tooltip:
+		'''
+		Создаёт лечебные растения при размещении
+		Можно включать/выключать с помощью проводов
+		«Излучает целебный свет» 
+		'''
+}
+
+LightbulbPaintingItem: {
+	DisplayName: Картина «Лампочка»
+	Tooltip: «Эмили A.»
+}
+
+OvergrownBrickItem: {
+	DisplayName: Заросший серый кирпич
+	Tooltip: ""
+}
+
+ResearchBooksItem: {
+	DisplayName: Книга исследования
+	Tooltip: «Нескончаемые страницы, наполненные каракулями, текстом и теориями»
+}
+
+SnailShellBlockItem: {
+	DisplayName: Панцирь улитки
+	Tooltip: «Очень неприятно держать его при себе»
+}
+
+LullabyBox: {
+	DisplayName: Музыкальня шкатулка (Колыбельная Апофеоза)
+	Tooltip: ""
+}
+
+PetalsFallBox: {
+	DisplayName: Музыкальня шкатулка (Падение лепестков)
+	Tooltip: ""
+}
+
+TearRainBox: {
+	DisplayName: Музыкальня шкатулка (Дождь из слёз)
+	Tooltip: ""
+}
+
+VibrantHorizonBox: {
+	DisplayName: Музыкальня шкатулка (Яркий горизонт)
+	Tooltip: ""
+}
+
+MysteriaBathtubItem: {
+	DisplayName: Ванна из мистернии
+	Tooltip: ""
+}
+
+MysteriaBedItem: {
+	DisplayName: Кровать из мистернии
+	Tooltip: ""
+}
+
+MysteriaBookshelfItem: {
+	DisplayName: Книжный шкаф из мистернии
+	Tooltip: ""
+}
+
+MysteriaCandelabraItem: {
+	DisplayName: Подсвечник из мистернии
+	Tooltip: ""
+}
+
+MysteriaCandleItem: {
+	DisplayName: Свеча из мистернии
+	Tooltip: ""
+}
+
+MysteriaChairItem: {
+	DisplayName: Стул из мистернии
+	Tooltip: ""
+}
+
+MysteriaClockItem: {
+	DisplayName: Напольные часы из мистернии
+	Tooltip: «Маленькие часы, похоже, сильно отстают»
+}
+
+MysteriaDoorItem: {
+	DisplayName: Дверь из мистернии
+	Tooltip: ""
+}
+
+MysteriaDresserItem: {
+	DisplayName: Комод из мистернии
+	Tooltip: ""
+}
+
+MysteriaLampItem: {
+	DisplayName: Напольная лампа из мистернии
+	Tooltip: ""
+}
+
+MysteriaLanternItem: {
+	DisplayName: Фонарь из мистернии
+	Tooltip: ""
+}
+
+MysteriaPianoItem: {
+	DisplayName: Пианино из мистернии
+	Tooltip: ""
+}
+
+MysteriaPlatformItem: {
+	DisplayName: Платформа из мистернии
+	Tooltip: ""
+}
+
+MysteriaSinkItem: {
+	DisplayName: Раковина из мистернии
+	Tooltip: ""
+}
+
+MysteriaSofaItem: {
+	DisplayName: Диван из мистернии
+	Tooltip: ""
+}
+
+MysteriaTableItem: {
+	DisplayName: Стол из мистернии
+	Tooltip: ""
+}
+
+MysteriaWorkbenchItem: {
+	DisplayName: Верстак из мистернии
+	Tooltip: ""
+}
+
+MysteriaAcorn: {
+	DisplayName: Саженец мистернии
+	Tooltip:
+		'''
+		Сажает дерево мистернии
+		Такие деревья распространяют мистерниевый микробиом в Цветении
+		Деревья являются твёрдыми блоками
+		'''
+}
+
+MysteriaDrapesItem: {
+	DisplayName: Мистерниевая драпировка
+	Tooltip:
+		'''
+		Размещается на любой твёрдый блок
+		Медленно растёт подобно лозе
+		Разместите на блок с драпировкой, чтобы удлинить её
+		Всегда находится перед игроком
+		'''
+}
+
+MysteriaTreetop: {
+	DisplayName: Свисающая мистерния
+	Tooltip:
+		'''
+		Размещает свисающее мистерниевое дерево
+		«Требуется некоторая сборка»
+		'''
+}
+
+MysteriaWood: {
+	DisplayName: Мистерниевое дерево
+	Tooltip: Эти блоки не могут быть изменены молотом
+}
+
+PeaceTreetopItem: {
+	DisplayName: Свисающая мирния
+	Tooltip:
+		'''
+		Можно разместить только на мистерниевую древесину
+		Размещает свисающую мирнию
+		Рядом с ней враги появляются реже, а также не могут появиться враги хардмода
+		'''
+}
+
+HousproutItem: {
+	DisplayName: Росткодом
+	Tooltip:
+		'''
+		WIP - НЕ БУДЕТ ЗАВЕРЕШЕНО ДО РЕЛИЗА
+		«Величиственное растение, которое, как говорят, может вырастить небольшой дом практически моментально»
+		'''
+}
+
+LightbulbSeeds: {
+	DisplayName: Семена лампоцвета
+	Tooltip: «Они уже излучают слабое сияние»
+}
+
+LilyPadItem: {
+	DisplayName: Лист кувшинки
+	Tooltip: Можно разместить только на кувшинках
+}
+
+PinkDyeBulb: {
+	DisplayName: Лилия калла
+	Tooltip:
+		'''
+		«Поразительно яркий цвет!» 
+		Используется в изготовлении розового красителя
+		'''
+}
+
+PinkPuff: {
+	DisplayName: Розовый росток
+	Tooltip:
+		'''
+		Создает вокруг себя пухоцветы 
+		«Обманчиво легкий» 
+		'''
+}
+
+RedDyeBulb: {
+	DisplayName: Многолетняя герань
+	Tooltip:
+		'''
+		«Удивительно яркий цвет!» 
+		Используется в изготовлении красного красителя
+		'''
+}
+
+RootRopeItem: {
+	DisplayName: Верёвка из пышного корня
+	Tooltip: ""
+}
+
+VerdantFlowerBulb: {
+	DisplayName: Цветочный бутон
+	Tooltip: Может быть размещена только на лист изобилия или на стену цветущих лоз
+}
+
+VerdantStrongVineMaterial: {
+	DisplayName: Твёрдая лоза
+	Tooltip:
+		'''
+		Определённые вещи могут быть размещены над или под ней
+		«Чтобы разрезать их, потребуется крайне острый нож»
+		'''
+}
+
+VineRopeItem: {
+	DisplayName: Верёвка пышной лозы
+	Tooltip: ""
+}
+
+WaterberryBushItem: {
+	DisplayName: Куст водяники
+	Tooltip:
+		'''
+		Может быть размещён на такой же куст или на листья изобилия
+		Растёт только в воде
+		'''
+}
+
+WaterPlantItem: {
+	DisplayName: Плачущий бутон
+	Tooltip: «Остаток, плачущий вечно»
+}
+
+WisplantSeeds: {
+	DisplayName: Семена цветка духа
+	Tooltip: ""
+}
+
+PuffBlockItem: {
+	DisplayName: Блок розового пуха
+	Tooltip: «Очень мягкий!»
+}
+
+SnailStatueItem: {
+	DisplayName: Статуя улитки
+	Tooltip:
+		'''
+		Статуя большой улитки
+		К низу прикреплена табличка
+		'''
+}
+
+HarvestedPickipuffItem: {
+	DisplayName: Пухоцвет (Собранный)
+	Tooltip:
+		'''
+		Можно разместить только на листьях изобилия
+		Можно собрать, чтобы получить розовый пух
+		Через некоторое время отрастает заново
+		'''
+}
+
+MarigoldItem: {
+	DisplayName: Календула
+	Tooltip: «Пахнет ... металлом... и немного магией»
+}
+
+PickipuffItem: {
+	DisplayName: Пухоцвет
+	Tooltip:
+		'''
+		Можно разместить только на листьях изобилия
+		Можно собрать, чтобы получить розовый пух
+		Через некоторое время отрастает заново
+		'''
+}
+
+ApotheosisPlacer: {
+	DisplayName: Апофеоз
+	Tooltip: Размещяает Апофеоза
+}
+
+PinkPetalBlock: {
+	DisplayName: Блок из розовых лепестков
+	Tooltip: ""
+}
+
+RedPetalBlock: {
+	DisplayName: Блок из красных лепестков
+	Tooltip: ""
+}
+
+VerdantGrassBlock: {
+	DisplayName: Блок пышной травы
+	Tooltip: ""
+}
+
+VerdantBathtubItem: {
+	DisplayName: Цветущая ванна
+	Tooltip: ""
+}
+
+VerdantBedItem: {
+	DisplayName: Цветущая кровать
+	Tooltip: ""
+}
+
+VerdantBookshelfItem: {
+	DisplayName: Цветущий книжный шкаф
+	Tooltip: ""
+}
+
+VerdantCandelabraItem: {
+	DisplayName: Цветущий подсвечник
+	Tooltip: ""
+}
+
+VerdantCandleItem: {
+	DisplayName: Цветущая свеча
+	Tooltip: ""
+}
+
+VerdantChairItem: {
+	DisplayName: Цветущий стул
+	Tooltip: ""
+}
+
+VerdantChandelierBlock: {
+	DisplayName: Цветущая люстра (маленькая)
+	Tooltip: ""
+}
+
+VerdantChandelierLargeItem: {
+	DisplayName: Цветущая люстра (большая)
+	Tooltip: ""
+}
+
+VerdantClockItem: {
+	DisplayName: Цветущие часы
+	Tooltip: ""
+}
+
+VerdantDoorItem: {
+	DisplayName: Цветущая дверь
+	Tooltip: ""
+}
+
+VerdantHungTableBlock_Pink: {
+	DisplayName: Висящий цветущий стол (розовый)
+	Tooltip: Может быть подвещен, если размещён под двумя крепкими лозами
+}
+
+VerdantHungTableBlock_PinkLightless: {
+	DisplayName: Висящий цветущий стол (розовый, без бутона)
+	Tooltip: Может быть подвещен, если размещён под двумя крепкими лозами
+}
+
+VerdantHungTableBlock_Red: {
+	DisplayName: Висящий цветущий стол (красный)
+	Tooltip: Может быть подвещен, если размещён под двумя крепкими лозами
+}
+
+VerdantHungTableBlock_RedLightless: {
+	DisplayName: Висящий цветущий стол (красный, без бутона)
+	Tooltip: Может быть подвещен, если размещён под двумя крепкими лозами
+}
+
+VerdantLampItem: {
+	DisplayName: Цветущая напольная лампа
+	Tooltip: ""
+}
+
+VerdantLanternItem: {
+	DisplayName: Цветущий фонарь
+	Tooltip: ""
+}
+
+VerdantPianoItem: {
+	DisplayName: Цветущее пианино
+	Tooltip: ""
+}
+
+VerdantPlatformItem: {
+	DisplayName: Цветущая платформа
+	Tooltip: ""
+}
+
+VerdantSofaItem: {
+	DisplayName: Цветущий диван
+	Tooltip: ""
+}
+
+VerdantTableItem: {
+	DisplayName: Цветущий стол
+	Tooltip: ""
+}
+
+VerdantWorkbenchItem: {
+	DisplayName: Цветущий верстак
+	Tooltip: ""
+}
+
+VerdantYellowPetalChestBlock: {
+	DisplayName: Жёлтый лепестковый сундук
+	Tooltip: ""
+}
+
+WisplantCandelabraItem: {
+	DisplayName: Фитолампа из цветов духа
+	Tooltip: Увеличивает скорость роста ближайших растений
+}
+
+VerdantPylonItem: {
+	DisplayName: Пилон Цветения
+	Tooltip: ""
+}
+
+BackslateBubblingWallItem: {
+	DisplayName: Продырявленная стена из пещерного сланца
+	Tooltip: ""
+}
+
+BackslateWallItem: {
+	DisplayName: Стена из пещерного сланца
+	Tooltip: ""
+}
+
+LivingLushWoodWallItem: {
+	DisplayName: Живая стена из дерева изобилия
+	Tooltip: ""
+}
+
+LushSoilWallItem: {
+	DisplayName: Стена из почвы изобилия
+	Tooltip: ""
+}
+
+LushWoodWallItem: {
+	DisplayName: Стена из дерева изобилия
+	Tooltip: ""
+}
+
+MysteriaWoodWallItem: {
+	DisplayName: Мистерниевая стена
+	Tooltip: ""
+}
+
+PuffWallItem: {
+	DisplayName: Стена из розового пуха
+	Tooltip: ""
+}
+
+VerdantLeafWallItem: {
+	DisplayName: Стена из листвы изобилия
+	Tooltip: ""
+}
+
+VerdantPinkPetalWallItem: {
+	DisplayName: Стена из розовых лепестков
+	Tooltip: ""
+}
+
+VerdantRedPetalWallItem: {
+	DisplayName: Стена из красных лепестков
+	Tooltip: ""
+}
+
+VerdantVineWallItem: {
+	DisplayName: Стена из лоз изобилия
+	Tooltip: ""
+}
+
+WisplantInfusedMudBoulder: {
+	DisplayName: Почва изобилия с цветком духа
+	Tooltip:
+		'''
+		«Ты просто склеил две штуки, это не магия» — скажут все
+		«Магия не всегда должна быть зрелищем» — скажут волшебники
+		'''
+}
+
+BulbSnail: {
+	DisplayName: Лампулитка
+	Tooltip: «Освещает старую дорогу»
+}
+
+BumblebeeItem: {
+	DisplayName: Шмель
+	Tooltip: ""
+}
+
+AxolotlItem: {
+	DisplayName: Аксолотль
+	Tooltip: «Такой милый!»
+}
+
+BulbboxJellyItem: {
+	DisplayName: Люмидуза
+	Tooltip: «Мягенькая!»
+}
+
+MossCarpItem: {
+	DisplayName: Моховой карп
+	Tooltip: «Смесь сытного мяса с цветущей зеленью»
+}
+
+PoolwormItem: {
+	DisplayName: Прудовик
+	Tooltip: «На удивление скользкий!»
+}
+
+FlotieItem: {
+	DisplayName: Летун
+	Tooltip: ""
+}
+
+FlotinyItem: {
+	DisplayName: Летунчик
+	Tooltip: «Божечки, какие малыши»
+}
+
+FolifishItem: {
+	DisplayName: Листвыба
+	Tooltip: ""
+}
+
+MysteriaFlotieItem: {
+	DisplayName: Летун мистернии
+	Tooltip: ""
+}
+
+MysteriaFlotinyItem: {
+	DisplayName: Летунчик мистернии
+	Tooltip: ""
+}
+
+PuffSlimeSmallItem: {
+	DisplayName: Розовый пушистый слизячок
+	Tooltip: ""
+}
+
+RedGrassSnail: {
+	DisplayName: Краснолепестковая улитка
+	Tooltip: Сколь нежное создание!
+}
+
+ExpertPlantGuide: {
+	DisplayName: Продвинутое рукововодство по волокнистым веревкам
+	Tooltip:
+		'''
+		Позволяет освоить не самые полезные навыки
+		Позволяет собирать лозу в Цветении
+		Лоза, собранная в Цветении, устанавливается значительно быстрее
+		Лозы ставятся сверху, если нет места снизу
+		'''
+}
+
+FlotieOfWrathItem: {
+	DisplayName: Любознательный череп
+	Tooltip:
+		'''
+		Призывает гневающегося летуна
+		Слегка освещает округу
+		«Самый злой летун среди всех вами виденных»
+		'''
+}
+
+HealingFlowerItem: {
+	DisplayName: Жёлтый росток
+	Tooltip:
+		'''
+		Усиливает эффект зелий лечения на 20%
+		Усиливает эффект зелий маны на 30%
+		Даёт слабое освещение
+		«Вы переполнены решимостью» 
+		'''
+}
+
+Lightbloom: {
+	DisplayName: Лучесвет
+	Tooltip:
+		'''
+		Ускоряет регенерацию здоровья при нахождении на свету
+		Скорость восстановления увеличивается с уровнем света
+		'''
+}
+
+Mudsquid: {
+	DisplayName: Грязельмар
+	Tooltip:
+		'''
+		Аозволяет быстро перемещаться через некоторые твёрдые блоки,
+		в которые входят все естественные блоки Цветения
+		'''
+}
+
+Propellerpad: {
+	DisplayName: Пропеллерпад
+	Tooltip:
+		'''
+		Призывает странную лилию
+		Повисните на её лозе, чтобы парить
+		'''
+}
+
+SproutInABoot: {
+	DisplayName: Побег в ботинках
+	Tooltip:
+		'''
+		Автоматически выращивает лиственные платформы под игроком при ношении
+		Использыет одну пышную листву для размещения одной платформы
+		Необходима вода для продолжения функционирования
+		«На удивление комфортные и прочные»
+		'''
+}
+
+SproutInAGlove: {
+	DisplayName: Побег в печатках
+	Tooltip:
+		'''
+		Вы уклоняетесь от вражеских снарядов (33% шанс)
+		Уклонение даёт вам небольшое количество кадров неуязвимости и слегка исцеляет
+		Снаряды могут нанести урон только один раз, даже если они пронзают вас и отскакивают
+		'''
+}
+
+VineHook: {
+	DisplayName: Крюк из живой лозы
+	Tooltip:
+		'''
+		При приближении к блоку автоматически отцепляется
+		«Лучший друг, чем большинство прицеплял»
+		'''
+}
+
+LushWoodCrateItem: {
+	DisplayName: Ящик из дерева изобилия
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+MysteriaCrateItem: {
+	DisplayName: Ящик из мистернии
+	Tooltip: Нажмите ПКМ, чтобы открыть
+}
+
+Shellfish: {
+	DisplayName: Заросшая панциба
+	Tooltip: ""
+}
+
+BowlFruit: {
+	DisplayName: Фрукт-чашечник
+	Tooltip:
+		'''
+		Немного повышает все характеристики
+		«Жидкий внутри» 
+		'''
+}
+
+Dropberry: {
+	DisplayName: Росинка
+	Tooltip:
+		'''
+		Немного повышает все характеристики
+		«Пахнет как земля после дождя» 
+		'''
+}
+
+FloralTea: {
+	DisplayName: Цветочный чай
+	Tooltip:
+		'''
+		Немного повышает все характеристики
+		«Особый рецепт мудрой змеи» 
+		'''
+}
+
+Grapecherry: {
+	DisplayName: Вишнеград
+	Tooltip:
+		'''
+		Немного повышает все характеристики
+		«Странное, но вкусное сочетание» 
+		'''
+}
+
+HoneyNuggets: {
+	DisplayName: Медовые наггетсы
+	Tooltip:
+		'''
+		Немного повышает все характеристики
+		«Исключительно хороши, несмотря на происхождение» 
+		'''
+}
+
+Mystuber: {
+	DisplayName: Загадочный клубень
+	Tooltip:
+		'''
+		Немного повышает все характеристики
+		«Удивительно! Парадоксально! Необъяснимо!» 
+		'''
+}
+
+Walnut: {
+	DisplayName: Грецкий орех
+	Tooltip:
+		'''
+		Немного повышает все характеристики
+		«Твои зубы познают лучшие дни» 
+		'''
+}
+
+Waterberry: {
+	DisplayName: Водяника
+	Tooltip:
+		'''
+		Немного повышает все характеристики
+		«Прям как ледянцы!» 
+		'''
+}
+
+Lightbulb: {
+	DisplayName: Лампочка
+	Tooltip: «Чарли не приблизится»
+}
+
+LushLeaf: {
+	DisplayName: Листва изобилия
+	Tooltip: «Довольно прочная»
+}
+
+MysteriaClump: {
+	DisplayName: Мистерниевый цветочный куст
+	Tooltip: «Невероятно мягкий»
+}
+
+PinkPetal: {
+	DisplayName: Розовый лепесток
+	Tooltip: «Очень мягкий»
+}
+
+PuffMaterial: {
+	DisplayName: Розовый пух
+	Tooltip:
+		'''
+		Лёгкий и мягенький пушок
+		На вкус противен...
+		'''
+}
+
+RedPetal: {
+	DisplayName: Красный лепесток
+	Tooltip: «Очень гладкий»
+}
+
+WisplantItem: {
+	DisplayName: Цветок духа
+	Tooltip: «Мягкий как облачко»
+}
+
+YellowBulb: {
+	DisplayName: Жёлтый бутон
+	Tooltip: «Столь редок...»
+}
+
+ApotheosisBag: {
+	DisplayName: Мешок исследователя
+	Tooltip: Нажмите ПКМ, чтобы открыть
+}
+
+ApotheosisBook: {
+	DisplayName: «Мой апофеоз»
+	Tooltip: — Эмили
+}
+
+WiltedFlower: {
+	DisplayName: Увядший цветко
+	Tooltip: Давно мёртвый, опавший жёлтый цветок
+}
+
+HeartOfGrowth: {
+	DisplayName: Сердце разрастания
+	Tooltip:
+		'''
+		Навсегда увеличивает урон призывателя на 5%.
+		Можеть быть использовано только 1 раз
+		«Вечно бьющееся сердце»
+		'''
+}
+
+MagicWisplant: {
+	DisplayName: Наполненный магией цветок духа
+	Tooltip:
+		'''
+		«Его окутывает мощная аура энергии друидов» 
+		Сильно ускоряет рост всего живого в радиусе действия
+		'''
+}
+
+Microcosm: {
+	DisplayName: Микрокосм
+	Tooltip:
+		'''
+		Создаёт крошечный биом цветения в любом месте мира
+		Внимание! Это изменит ОГРОМНУЮ область (минимум 60x60 блоков в маленьком мире)
+		Убедитесь, что используете это в месте, которое вам не жалко!
+		«Сияющее царство внутри стекла» 
+		'''
+}
+
+PassionflowerBulb: {
+	DisplayName: Луковица пассифлоры
+	Tooltip:
+		'''
+		Нажмите ПКМ, чтобы открыть
+		«Пахнет душистым цитрусом» 
+		'''
+}
+
+AquamarineHook: {
+	DisplayName: Аквамариновый крюк
+	Tooltip: ""
+}
+
+BouncebloomItem: {
+	DisplayName: Прыгоцвет
+	Tooltip:
+		'''
+		Замедляет падение
+		Удерживайте ВНИЗ, чтобы падать быстрее
+		Лёгкие враги над вами будут отпрыгивать от цветка
+		'''
+}
+
+CloudsproutPuff: {
+	DisplayName: Пухоблако
+	Tooltip:
+		'''
+		Парящая платформа-батут
+		Остаётся на месте даже после выхода из мира
+		Нажатие ЛКМ по существующему облаку удалит его
+		Ужерживание ПКМ две секунды удалит все облака
+		'''
+}
+
+GemFlower: {
+	DisplayName: Драгоцвет
+	Tooltip: Телепортирует вас к Апофеозу
+}
+
+Halfsprout: {
+	DisplayName: Полуросль
+	Tooltip:
+		'''
+		Моментально выращиет все травы, собирает их, а затем пересаживает
+		«Красота природы; в отдавании себя дургим»
+		'''
+}
+
+LivingLushWoodWand: {
+	DisplayName: Посох живой древесины изобилия
+	Tooltip:
+		'''
+		Размещает живую древесину изобилия
+		[c/88FF88:Нажмите ПКМ с этим предметов в руках,] чтобы превратить его в посох листвы изобилия
+		'''
+}
+
+LushLeafWand: {
+	DisplayName: Посох листвы изобилия
+	Tooltip:
+		'''
+		Размещает листву изобилия
+		[c/88FF88:Нажмите ПКМ с этим предметов в руках,] чтобы превратить его в посох красных лепестков
+		'''
+}
+
+CrudePaintbrush: {
+	DisplayName: Грубая кисть
+	Tooltip:
+		'''
+		Может быстро размещать блоки in various placement styles
+		Нажмите ПКМ, удерживая этот предмет, чтобы переключиться между стилями
+		Инструмент заполнения за раз может разместить не более 1000 блоков
+		«За неприглядной внешностью скрывается мощный артефакт»
+		'''
+
+	Information: {
+		NoItemSelected: Выберете предмет, чтобы начать!
+		NotEnoughItem: У вас недостаточно: [i:{0}]!
+		FillConfirm: Вы уверны, что хотите заполнить?
+		NoUndos: Нет изменений, которые можно возвратить.
+		SelectBlock: Выберете блок, чтобы начать!
+		NotValidBlock: Быберете твёрдый 1x1 блок (наподобие земли [i:2]), чтобы начать!
+		Selected: Установлен тип размещения: [i:{0}] ({1})!
+	}
+}
+
+PermVineWand: {
+	DisplayName: Скоролоза
+	Tooltip:
+		'''
+		Позволяет пользователю размещать лозу
+		Она работает как верёвка и может быть использована в любом свободном месте
+		Эти лозы используют [i:{0}] при размещении, а при разрушении роняют их
+		Нажмите ПКМ и наведите крсор на лозы, удерживая этот предмет, чтобы разрушить их
+		'''
+}
+
+PinkPetalWand: {
+	DisplayName: Посох розовых лепестков
+	Tooltip:
+		'''
+		Размещает блоки розовых лепестков
+		[c/88FF88:Нажмите ПКМ с этим предметов в руках,] чтобы превратить его в посох живой древесины изобилия
+		'''
+}
+
+RedPetalWand: {
+	DisplayName: Посох красных лепестков
+	Tooltip:
+		'''
+		Размещает блоки красных лепестков
+		[c/88FF88:Нажмите ПКМ с этим предметов в руках,] чтобы превратить его в посох посох розовых лепестков
+		'''
+}
+
+Shears: {
+	DisplayName: Ножницы
+	Tooltip:
+		'''
+		Подрезают определённые растения
+		Могут быть использованы для удаления пухоцвета и мистерниевой драпировки
+		Технически могут быть испорльзованы как топор
+		'''
+}
+
+VerdantFishingRod: {
+	DisplayName: Пышная удочка
+	Tooltip:
+		'''
+		Излучает свет при исользовании
+		Её сила увеличивается в Цветении
+		'''
+}
+
+YellowPetalFloater: {
+	DisplayName: Пухоблако
+	Tooltip:
+		'''
+		Парящая платформа-батут
+		Остаётся на месте даже после выхода из мира
+		Нажатие ЛКМ по существующему облаку удалит его
+		Ужерживание ПКМ две секунды удалит все облака
+		'''
+}
+
+AquamarinePhaseblade: {
+	DisplayName: Аквамариновый лазерный меч
+	Tooltip: ""
+}
+
+AquamarinePhasesaber: {
+	DisplayName: Аквамариновая лазерная сабля
+	Tooltip: ""
+}
+
+AquamarinePlatinumStaff: {
+	DisplayName: Аквамариновый посох
+	Tooltip:
+		'''
+		Снаряды, выпущенные посохом, будет вылетать из ваших миньонов, если они активны
+		Выпущенные таким образом снаряды наносят больше урона
+		'''
+}
+
+AquamarineStaff: {
+	DisplayName: Аквамариновый посох
+	Tooltip:
+		'''
+		Снаряды, выпущенные посохом, будет вылетать из ваших миньонов, если они активны
+		Выпущенные таким образом снаряды наносят больше урона
+		'''
+}
+
+LushDagger: {
+	DisplayName: Шипы изобилия
+	Tooltip:
+		'''
+		Выпускаются по три за раз
+		«Это всего лишь часть естественного порядка вещей...» 
+		'''
+}
+
+LushWoodBow: {
+	DisplayName: Лук из дерева изобилия
+	Tooltip: ""
+}
+
+LushWoodHammer: {
+	DisplayName: Молот из дерева изобилия
+	Tooltip: ""
+}
+
+LushWoodSword: {
+	DisplayName: Меч из дерева изобилия
+	Tooltip: ""
+}
+
+MudBoulderItem: {
+	DisplayName: Комок почвы изобилия
+	Tooltip: Для маленьких пакостей
+}
+
+SpikedPuffball: {
+	DisplayName: Шипастый комок пуха
+	Tooltip: Парит в воздухе 30 секунд, а затем падает
+}
+
+VerdantStaff: {
+	DisplayName: Пышный посох лечения
+	Tooltip:
+		'''
+		Призывает священный исцеляющий цветок
+		Оставайтесь рядом с ним, чтобы увеличить скорость регенерации здоровья
+		Можеть быть призван только один цветок
+		Использование при существеющем цветке переместит его
+		'''
+	MultiplayerTooltip: Призыв нескольких цветков увеличит силу цветка
+}
+
+LargeFlowerBulb: {
+	DisplayName: Большой цветочный бутон
+	Tooltip: "{$VerdantFlowerBulb.Tooltip}"
+}
+
+LightbulbFlowerBulb: {
+	DisplayName: Бутон лампоцвета
+	Tooltip: "{$VerdantFlowerBulb.Tooltip}"
+}
+
+CrystalHeart: {
+	DisplayName: Кристальное сердце
+	Tooltip:
+		'''
+		При использовании дарует иммунитет к различным дебаффам
+		Может быть использовано лишь раз
+		Иногда, временами, скрывет множество секретов
+		«Разбитое, пустое сердце»
+		'''
+}
+
+ThornBlock: {
+	DisplayName: Блок шипов
+	Tooltip: Неприятен во всех формах
+}
+
+ThornWallItem: {
+	DisplayName: Стена из шипов
+	Tooltip: Это... неправильно
+}
+
+ApotheoticBeeHelmet: {
+	DisplayName: Апофеозный головной убор
+	Tooltip:
+		'''
+		Скрывает рой пчёл
+		При удерживании предмета с уроно призывателя, эти пчёлы окружают ваш курсор и наносят урон врагам
+		Урон призывателя увеличен на 10%
+		Увеличивает количесво слотов для миньонов на 2
+		Пчёлы усиляются от рюкзака-улья
+		«Беспокоит значительно больше, пока на твоей голове»
+		'''
+}
+
+ApotheoticTreeHelmet: {
+	DisplayName: Апофеозная крона
+	Tooltip:
+		'''
+		На вашей голове каким-то образом растёт дерево
+		Окружает исцеляющей аурой
+		На дереве растут различные фрукты
+		Нажите ПКМ по миньону, чтобы значительно усилить его на короткий промежуток времени
+		Урон призывателя увеличен на 10%
+		Увеличивает количесво слотов для миньонов на 1
+		«Дерево успокаевает жизнь, а жизнь спокаевает тебя»
+		'''
+}
+
+ApotheoticChestplate: {
+	DisplayName: Апофеозный нагрудник
+	Tooltip:
+		'''
+		Урон призывателя увеличен на 10%
+		Увеличивает количесво слотов для миньонов на 1
+		'''
+}
+
+ApotheoticLeggings: {
+	DisplayName: Apotheotic Leggings
+	Tooltip:
+		'''
+		Урон призывателя увеличен на 5%
+		Увеличивает количесво слотов для миньонов на 1
+		'''
+}
+
+HoneyHeart: {
+	DisplayName: Медовое сердце
+	Tooltip: ""
+}
+
+FruitIconGreen: {
+	DisplayName: Острый перец
+	Tooltip: ""
+}
+
+FruitIconRed: {
+	DisplayName: Сладкое яблоко
+	Tooltip: ""
+}
+
+FruitIconYellow: {
+	DisplayName: Капля мёда
+	Tooltip: ""
+}
+
+ApotheoticSoul: {
+	DisplayName: Шёпот Апофеоза
+	Tooltip:
+		'''
+		Сама суть Апофеоза
+		«Ты можешь слышать свист и танцы» 
+		'''
+}
+
+LushWoodPlankBlock: {
+	DisplayName: Доска из дерева изобилия
+	Tooltip: ""
+}
+
+LushPlankWallItem: {
+	DisplayName: Дощатая стена изобилия
+	Tooltip: ""
+}
+
+MysteriaFluffItem: {
+	DisplayName: Мистерниевый пух
+	Tooltip: «Вы чувствуете себя богаче, просто трогая его»
+}
+
+MysteriaFluffWallItem: {
+	DisplayName: Мистерниевая пуховая стена
+	Tooltip: «Как ковёр на стене!»
+}
+
+LushFenceItem: {
+	DisplayName: Пышная изгородь
+	Tooltip: ""
+}
+
+LushGrassSeeds: {
+	DisplayName: Семена пышной травы
+	Tooltip: «На вкус как салат-латук»
+}
+
+BlueDyeBulb: {
+	DisplayName: Небесно-голубой ито-пион
+	Tooltip:
+		'''
+		«Невероятно энергичный цвет!» 
+		Использыется для создания синего красителя
+		'''
+}
+
+WhiteDyeBulb: {
+	DisplayName: Фаленопсис
+	Tooltip:
+		'''
+		«Невероятно радостный цвет!» 
+		Используется для создания серебристого красителя
+		'''
+}
+
+LightbulbLeafItem: {
+	DisplayName: Листья лампоцвета
+	Tooltip: Испускают нежное сияние
+}
+
+LushLoomItem: {
+	DisplayName: Станок изобилия
+	Tooltip: Совмещает функционал ткацкого станка из живого дерева и обычного такцого станка
+}
+
+TrimmedOvergrownBrickItem: {
+	DisplayName: Орезанные заросший кирпич
+	Tooltip: Не распространяет растительно, просто хорошо выглядит!
+}
+
+BasicTerrariumItem: {
+	DisplayName: Базовый терарриум
+	Tooltip: «Наблюдай за флорой»
+}
+
+FlotieTerrariumItem: {
+	DisplayName: Террариум с летуном
+	Tooltip: «Relaxing, intruiging...»
+}
+
+FlotinyTerrariumItem: {
+	DisplayName: Террариум с летунчиком
+	Tooltip: «Летающие лапмочки в террариуме? Это будущее освещения!»
+}
+
+MysteriaFlotinyTerrariumItem: {
+	DisplayName: Террариум с мистерниевым летунчиком
+	Tooltip: «Этот узор почти гнипнотизирует вас»
+}
+
+MysteriaFlotieTerrariumItem: {
+	DisplayName: Террариум с мистерниевым летуном
+	Tooltip: «Ветер в его душе никогда не стихнет»
+}
+
+AquariumItem: {
+	DisplayName: Аквариум
+	Tooltip: Можно использовать для содержания водных существ
+}
+
+PoolwormAquariumItem: {
+	DisplayName: Аквариум с прудовиком
+	Tooltip: «Похоже, что он веселится!»
+}
+
+BulbboxAquariumItem: {
+	DisplayName: Аквариум с люмидузой
+	Tooltip: «Этот чувак может победить тебя в гонке пловцов»
+}
+
+MossCarpAquariumItem: {
+	DisplayName: Аквариум с моховым карпом
+	Tooltip: «Под рыбой есть ещё один мини-террариум...»
+}
+
+AxolotlAquariumItem: {
+	DisplayName: Аквариум с аксолотлем
+	Tooltip: «Ты слышишь тихие звуки, которые они издают?»
+}
+
+RedSnailCage: {
+	DisplayName: Клетка с красной улиткой
+	Tooltip: «Увернно, но медленно»
+}
+
+BulbSnailCage: {
+	DisplayName: Клетка с лампулиткой
+	Tooltip: «Труслива, но сильна»
+}
+
+LushWingletItem: {
+	DisplayName: Пышный крылунчик
+	Tooltip: «Tiny and frail.»
+}
+
+LushWingletTerrariumItem: {
+	DisplayName: Террариум с пышным крылунчиком
+	Tooltip: «...Выглядит довольным!»
+}
+
+PlainMicrocosm: {
+	DisplayName: Простой микрокосм
+	Tooltip:
+		'''
+		{$Microcosm.Tooltip}
+		Свободен от стекла!
+		'''
+}
+
+PassionflowerBlock: {
+	DisplayName: Черенок пассифлоры
+	Tooltip:
+		'''
+		Медленно отрастает
+		«Оставшиеся лепестки источают тонкий, но успокаивающий аромат» 
+		'''
+}
+
+ChlorovineWand: {
+	DisplayName: Хлоролоза
+	Tooltip:
+		'''
+		Позволяет игроку создавать хлоролозы
+		Они работают как веревки и можгут быть поставлены в любом открытом пространстве
+		Для размещния этих лоз используется [i:{0}], они также выпадают при разрушении
+		Магическая природа хлоролоз позволяет карабкаться по ним значительно быстрее
+		Нажмите ПКМ по лозам, держа предмет в руках, чтобы удалить их
+		'''
+}
+
+ShellSnailCage: {
+	DisplayName: Террариум с панцирной улиткой
+	Tooltip: Глупая, но стойкая
+}
+
+ShellSnailItem: {
+	DisplayName: Панцирная улитка
+	Tooltip: Милая как камень
+}
+
+CanopySnailItem: {
+	DisplayName: Навесная улитка
+	Tooltip: Какое прекрасное проявление природы
+}
+
+CanopySnailCage: {
+	DisplayName: Клетка с навесной улиткой
+	Tooltip: Медлительная, но любящая
+}
+
+StargazerPlantItem: {
+	DisplayName: Синий мечтатель
+	Tooltip: Нежно сияет благодаря твоей заботе
+}
+
+LunarJellyItem: {
+	DisplayName: Лунная медуза
+	Tooltip: одновременно мягкая и бесплотная
+}
+
+LunarJellyTerrariumItem: {
+	DisplayName: Террариум с лунной медузой
+	Tooltip: Ночь не мимолётна, она сверкающа
+}
+
+GlassFlowerItem: {
+	DisplayName: Стеклянный цветок
+	Tooltip:
+		'''
+		Отключает биом цветения поблизости, открывая доступ к другим биомам
+		«Такой хрупкий...» 
+		'''
+}

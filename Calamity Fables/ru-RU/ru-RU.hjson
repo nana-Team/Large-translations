@@ -401,7 +401,7 @@ Mods: {
 			}
 
 			AmnesiaItem: {
-				DisplayName: Однажды где-то на краю вселенной
+				DisplayName: Sometime at the Verge of Space
 				Tooltip: ""
 			}
 
@@ -2524,3 +2524,4 @@ Mods: {
 		}
 	}
 }
+

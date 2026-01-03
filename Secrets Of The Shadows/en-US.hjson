@@ -74,13 +74,6 @@ Mods: {
 			EGG: " Jewel Egg"
 		}
 
-		KeyBindName: {
-			Blink: Blink
-			ArmorSet: Armor Set
-			MFM: Modify Flight Mode
-			SlowFlight: Slow Down Flight Mode
-		}
-
 		BossAwoken: {
 			Advisor: The Advisor has awoken!
 			PharaohsCurse: Pharaoh's Curse has awoken!
@@ -151,15 +144,23 @@ Mods: {
 			MaxVoid.DisplayName: " max void"
 			RegVoid.DisplayName: " void gain"
 			CosVoid.DisplayName: % void cost
+			# Accessories
 			Awakened.DisplayName: Awakened
-			Chained.DisplayName: Chained
-			Chthonic.DisplayName: Chthonic
-			Famished.DisplayName: Famished
-			Omnipotent.DisplayName: Omnipotent
 			Omniscient.DisplayName: Omniscient
-			Potent.DisplayName: Potent
-			Precarious.DisplayName: Precarious
+			Chained.DisplayName: Chained
 			Soulbound.DisplayName: Soulbound
+			# Weapons
+			Famished.DisplayName: Famished
+			Precarious.DisplayName: Precarious
+			Potent.DisplayName: Potent
+			Omnipotent.DisplayName: Omnipotent
+			Chthonic.DisplayName: Chthonic
+			
+			Effects: {
+				MaxVoid.DisplayName: "{0:+0;-0} max void"
+				RegVoid.DisplayName: "{0:+0;-0} void gain"
+				CosVoid.DisplayName: "{0:+0;-0}% void cost"
+			}
 		}
 
 		Items: {
@@ -1995,7 +1996,12 @@ Mods: {
 
 			DiamondRing: {
 				DisplayName: Light-Bringer's Ring
-				Tooltip: Increases damage by (defense)%
+				Tooltip:
+					'''
+					Increase damage based on defense, then decreases defense by a third of the damage buff
+					Increases damage by {0}%
+					Decreases defense by {1}
+					'''
 			}
 
 			EmeraldRing: {
@@ -2403,7 +2409,13 @@ Mods: {
 
 			MachinaBooster: {
 				DisplayName: Machina Booster
-				Tooltip: Allows flight and slow fall
+				Tooltip:
+					'''
+					Allows flight and slow fall
+					Increases void gain by 1
+					Press '{0}' to gain fast, multidirectional flight at the cost of 5 void
+					Increases void drain by 3 while active
+					'''
 			}
 
 			TwilightGyroscope: {
@@ -2473,8 +2485,8 @@ Mods: {
 				Tooltip:
 					'''
 					Fires a short ranged and a long ranged blast
-					The short ranged blast has a 70% chance to destabilize enemies while the long ranged blast has a 30% chance to destabalize enemies
-					Destabilized enemies gain a 5% flat chance to be critically striked
+					The short ranged blast has a 70% chance to destabilize enemies while the long ranged blast has a 30% chance to destabilize enemies
+					Destabilized enemies gain a 5% flat chance to be critically struck
 					Destabilization is permanent and can stack, but the chance of applying it gets lower with each level already applied
 					'''
 			}
@@ -2604,7 +2616,17 @@ Mods: {
 
 			TwilightAssassinsCirclet: {
 				DisplayName: Twilight Assassin Circlet
-				Tooltip: Gamer
+				Tooltip:
+					'''
+					Increases max minions and sentries by 1
+					Increases minion and melee damage by 7%
+					Increases max void by 50
+					Provides a Holo Eye minion to assist in combat
+					Press '{0}' to make it launch a destabilizing beam that applies 4 levels of destabilized, but only once per enemy
+					Destabilized enemies gain a 5% flat chance to be critically striked
+					Costs 6 void to launch
+					Holo Eye remains active in the inventory when favorited or while worn in vanity slots, but cannot attack
+					'''
 			}
 
 			TwilightAssassinsChestplate: {
@@ -4799,7 +4821,13 @@ Mods: {
 
 			BlinkPack: {
 				DisplayName: Blink Pack
-				Tooltip: temp
+				Tooltip:
+					'''
+					Press '{0}' to blink towards your cursor
+					Blinking through enemies will deal damage and trigger a lower cooldown, but can only be done up to 3 times in quick succession
+					Provides some immunity after dashing
+					Negates fall damage
+					'''
 			}
 
 			HardlightAlloy: {
@@ -4913,7 +4941,7 @@ Mods: {
 				Tooltip:
 					'''
 					Changes the biome to pyramid when in front of
-					Also invoke the Pharaoh's Curse
+					Also envokes the Pharaoh's Curse
 					'''
 			}
 
@@ -5247,8 +5275,7 @@ Mods: {
 
 			ElementalBreastplate: {
 				DisplayName: Elemental Breastplate
-				Tooltip: TEMP
-				TooltipExt:
+				Tooltip:
 					'''
 					Increases melee and summon damage by 30%
 					Increases life regeneration by 4
@@ -5289,8 +5316,7 @@ Mods: {
 
 			GildedBladeWings: {
 				DisplayName: Gilded Blade Wings
-				Tooltip: TEMP
-				Description:
+				Tooltip:
 					'''
 					Allows infinite flight and slow fall
 					Increases void gain by 3 and void regeneration speed by 25%
@@ -6891,6 +6917,11 @@ Mods: {
 					Functions while in the inventory, equipped as an accessory, or worn as a vanity accessory
 					'''
 			}
+
+			StabilizingTonic: {
+				DisplayName: Stabilizing Tonic
+				Tooltip: "'Tastes like... water?'"
+			}
 		}
 
 		ItemTooltip: {
@@ -7387,6 +7418,11 @@ Mods: {
 			BeepBoop: {
 				DisplayName: Beep Boop
 				Description: While this construct is just one of many you've encounter in your adventures, you are its entire otherworld!
+			}
+
+			Hyperphantasia: {
+				DisplayName: Hyperphantasia
+				Description: "'I see everything.'"
 			}
 		}
 
@@ -8085,11 +8121,11 @@ Mods: {
 		}
 
 		DeathMessage: {
-			VD1: " was extremely careless."
-			VD2: " was consumed by the void."
-			VD3: " was devoured by the darkness."
-			VD4: " doesn't understand void mechanics."
-			VD5: " died."
+			VD1: "{0} was extremely careless."
+			VD2: "{0} was consumed by the void."
+			VD3: "{0} was devoured by the darkness."
+			VD4: "{0} doesn't understand void mechanics."
+			VD5: "{0} died."
 		}
 
 		VisionAmuletTextList: {
@@ -8253,14 +8289,6 @@ Mods: {
 			x8: "'Like a mirror looking into your soul'"
 		}
 
-		DiamondRingText: Increase damage based on defense, then decreases defense by a third of the damage buff
-		DiamondRingText2:
-			'''
-
-			Increases damage by {0}%
-			Decreases defense by {1}
-			'''
-
 		PrecariousClusterTextList: {
 			0: Reduces damage dealt by 10%
 			1: Increases life regeneration by 1, up to 4 total
@@ -8282,57 +8310,6 @@ Mods: {
 			6: Increases void drain by 0.5 while in the inventory
 			7: Increases summon damage by 3%, up to 12% total
 		}
-
-		MachinaBoosterText:
-			'''
-			Allows flight and slow fall
-			Increases void gain by 1
-			Press '{0}' to gain fast, multidirectional flight at the cost of 5 void
-			Increases void drain by 3 while active
-			'''
-		MachinaBoosterText2:
-			'''
-			Allows flight and slow fall
-			Increases void gain by 1
-			Press '{0}' to gain fast, multidirectional flight at the cost of 5 void
-			Increases void drain by 3 while active
-			'''
-		BlinkPackText:
-			'''
-			Press '{0}' to blink towards your cursor
-			Blinking through enemies will deal damage and trigger a lower cooldown, but can only be done up to 3 times in quick succession
-			Provides some immunity after dashing
-			Negates fall damage
-			'''
-		BlinkPackText2:
-			'''
-			Press '{0}' to blink towards your cursor
-			Blinking through enemies will deal damage and trigger a lower cooldown, but can only be done up to 3 times in quick succession
-			Provides some immunity after dashing
-			Negates fall damage
-			'''
-		TwilightAssassinsCircletText:
-			'''
-			Increases max minions and sentries by 1
-			Increases minion and melee damage by 7%
-			Increases max void by 50
-			Provides a Holo Eye minion to assist in combat
-			Press '{0}' to make it launch a destabilizing beam that applies 4 levels of destabilized, but only once per enemy
-			Destabilized enemies gain a 5% flat chance to be critically striked
-			Costs 6 void to launch
-			Holo Eye remains active in the inventory when favorited or while worn in vanity slots, but cannot attack
-			'''
-		TwilightAssassinsCircletText2:
-			'''
-			Increases max minions and sentries by 1
-			Increases minion and melee damage by 7%
-			Increases max void by 50
-			Provides a Holo Eye minion to assist in combat
-			Press '{0}' to make it launch a destabilizing beam that applies 4 levels of destabilized, but only once per enemy
-			Destabilized enemies gain a 5% flat chance to be critically striked
-			Costs 6 void to launch
-			Holo Eye remains active in the inventory when favorited or while worn in vanity slots, but cannot attack
-			'''
 
 		UndoArrow: {
 			Ruby: Ruby: {0}
@@ -8364,6 +8341,13 @@ Mods: {
 			Warning1: Seriously. I'm warning you
 			Warning2: If anything goes wrong, it's because YOU asked for it
 			Warning3: Here comes NOTHING!!!
+		}
+
+		ClockTime: {
+			12AM: Time: {0}:{1} AM
+			12PM: Time: {0}:{1} PM
+			# Only used for mods that add support for 24-hour time format. Support for such a mod can be added in Clock.cs
+			24: Time: {0}:{1}
 		}
 
 		Projectiles: {

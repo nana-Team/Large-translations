@@ -1,0 +1,166 @@
+Items: {
+	Placer: {
+		DisplayName: Placer
+		Tooltip: ""
+	}
+}
+
+Mods: {
+	ChallengeRooms: {
+		Items: {
+			ChallengeBrick: {
+				DisplayName: Закаленный кирпич
+				// Tooltip: ""
+			}
+
+			ChallengeBrickWall: {
+				DisplayName: Закаленная кирпичная стена
+				Tooltip: ""
+			}
+
+			EnergyCannon: {
+				DisplayName: Энергетическая пушка
+				Tooltip: Стреляет смертоносными шарами концентрированной энергии
+			}
+
+			CopperLight: {
+				DisplayName: Медная лампочка
+				Tooltip: ""
+			}
+
+			CopperPipe: {
+				DisplayName: Медная труба
+				Tooltip: ""
+			}
+
+			CopperPlatform: {
+				DisplayName: Медная платформа
+				Tooltip: ""
+			}
+
+			SpikeTrap: {
+				DisplayName: Копьепускатель
+				Tooltip: Выпускает тяжёлое копьё, способное пронзить что угодно
+			}
+
+			FlameTrap: {
+				DisplayName: Пламепускательный механизм
+				Tooltip: Выпускает мощную струю обжигающего пламени
+			}
+
+			ModuleKillBoost: {
+				DisplayName: Модуль буйства
+				Tooltip:
+					'''
+					Позволяет гарантированно наносить критические удары в течение секунды после убийства врага
+					Вставляется в модульный усилитель
+					'''
+			}
+
+			ModuleHealing: {
+				DisplayName: Модуль живучести
+				Tooltip:
+					'''
+					Восстанавливает здоровье в размере 10% от нанесенного критического урона, но не более 5% от максимального здоровья в секунду
+					Вставляется в модульный усилитель
+					'''
+			}
+
+			ModuleCritDamage: {
+				DisplayName: Модуль меткости
+				Tooltip:
+					'''
+					Критические удары наносят на 25% больше урона
+					Вставляется в модульный усилитель
+					'''
+			}
+
+			ModuleHurtBoost: {
+				DisplayName: Модуль мстительности
+				Tooltip:
+					'''
+					Позволяет гарантированно наносить критические удары в течение секунды после получения урона
+					Вставляется в модульный усилитель
+					'''
+			}
+
+			ModuleCloseRange: {
+				DisplayName: Модуль силы
+				Tooltip:
+					'''
+					Наносимый урон меняется в зависимости от расстояния до цели
+					От +15% в упор до -15% за 32 блока от цели
+					Вставляется в модульный усилитель
+					'''
+			}
+
+			ModuleMobility: {
+				DisplayName: Модуль ловкости
+				Tooltip:
+					'''
+					Увеличивает высоту прыжка и время полета крыльев и реактивных ботинок на 15%
+					Вставляется в модульный усилитель
+					'''
+			}
+
+			ModularEnhancer: {
+				DisplayName: Модульный усилитель
+				Tooltip:
+					'''
+					Не делает ничего сам по себе, но может хранить в себе до трёх модулей, дающих различные бонусы
+					Эффекты одинаковых модулей складываются друг с другом
+					'''
+			}
+
+			GatewayIcon: {
+				// DisplayName: Gateway Icon
+				// Tooltip: ""
+			}
+		}
+
+		Projectiles: {
+			EnergyOrb.DisplayName: Энергетический шар
+			Spike.DisplayName: Шип
+			FlameJet.DisplayName: Струя пламени
+			FlamePillar.DisplayName: Столб пламени
+			// Rift.DisplayName: Rift
+		}
+
+		Tiles: {
+			ChallengeGateway: {
+				MapEntry: Дверь к испытанию
+				AccessGranted: Доступ разрешен
+				AccessDenied: Доступ запрещен
+				DaysLeftSingle: день до сброса
+				DaysLeftMultiple: дня до сброса
+				MultiplayerMessage: Извините, но комната испытаний в настоящее время не поддерживает мультиплеер. Запустите свой мир в одиночной игре, чтобы войти в эту структуру.
+				CombatTrial: битва не завершена
+			}
+
+			EnergyCannon.MapEntry: Энергетическая пушка
+			CopperLight.MapEntry: Лампочка
+			SpikeTrap.MapEntry: Ловушка с копьём
+			ChallengeSpawner.MapEntry: Спавнер испытания
+			FlameTrap.MapEntry: Огненная ловушка
+			CopperLightFaulty.MapEntry: Неисправная медная лампочка
+		}
+
+		Biomes: {
+			ChallengeRoom: {
+				DisplayName: Зал испытаний
+				TownNPCDialogueName: Зал испытаний
+			}
+		}
+
+		Configs: {
+			ChallengeConfig: {
+				Frequency: {
+					Tooltip: ""
+					Label: "[i:ChallengeRooms/ChallengeBrick] Частота"
+				}
+
+				DisplayName: Настройки
+			}
+		}
+	}
+}

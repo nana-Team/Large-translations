@@ -1,0 +1,161 @@
+Items: {
+	Placer: {
+		DisplayName: Placer
+		Tooltip: ""
+	}
+}
+
+Mods: {
+	ChallengeRooms: {
+		Items: {
+			ChallengeBrick: {
+				DisplayName: Tempered Brick
+				Tooltip: ""
+			}
+
+			ChallengeBrickWall: {
+				DisplayName: Tempered Brick Wall
+				Tooltip: ""
+			}
+
+			EnergyCannon: {
+				DisplayName: Energy Cannon
+				Tooltip: Fires concentrated balls of lethal energy
+			}
+
+			CopperLight: {
+				DisplayName: Copper Light
+				Tooltip: ""
+			}
+
+			CopperPipe: {
+				DisplayName: Copper Pipe
+				Tooltip: ""
+			}
+
+			CopperPlatform: {
+				DisplayName: Copper Platform
+				Tooltip: ""
+			}
+
+			SpikeTrap: {
+				DisplayName: Spike Launcher
+				Tooltip: Ejects a heavy spike capable of piercing anything
+			}
+
+			FlameTrap: {
+				DisplayName: Flame Engine
+				Tooltip: Shoots a powerful burst of searing flames
+			}
+
+			ModuleKillBoost: {
+				DisplayName: Carnage Module
+				Tooltip:
+					'''
+					Critical strikes are guaranteed for +1 second after killing an enemy
+					For use with the Modular Enhancer
+					'''
+			}
+
+			ModuleHealing: {
+				DisplayName: Vitality Module
+				Tooltip:
+					'''
+					The user heals +10% of the damage dealt from critical strikes, capped at 5% of their max health per second
+					For use with the Modular Enhancer
+					'''
+			}
+
+			ModuleCritDamage: {
+				DisplayName: Sharpshooting Module
+				Tooltip:
+					'''
+					Critical strikes deal an added +25% damage to the base 200% multiplier
+					For use with the Modular Enhancer
+					'''
+			}
+
+			ModuleHurtBoost: {
+				DisplayName: Vengeance Module
+				Tooltip:
+					'''
+					Critical strikes are guaranteed for +1 second after taking damage
+					For use with the Modular Enhancer
+					'''
+			}
+
+			ModuleCloseRange: {
+				DisplayName: Force Module
+				Tooltip:
+					'''
+					Scales damage output from +15% at point-blank to -15% at 32 blocks away
+					For use with the Modular Enhancer
+					'''
+			}
+
+			ModuleMobility: {
+				DisplayName: Agility Module
+				Tooltip:
+					'''
+					Increases jump height and wing/rocket time by +15%
+					For use with the Modular Enhancer
+					'''
+			}
+
+			ModularEnhancer: {
+				DisplayName: Modular Enhancer
+				Tooltip: Does nothing on its own, but can be augmented with unique modules for powerful effects
+			}
+
+			GatewayIcon: {
+				DisplayName: Gateway Icon
+				Tooltip: ""
+			}
+		}
+
+		Projectiles: {
+			EnergyOrb.DisplayName: Energy Orb
+			Spike.DisplayName: Spike
+			FlameJet.DisplayName: Flame Jet
+			FlamePillar.DisplayName: Flame Pillar
+			Rift.DisplayName: Rift
+		}
+
+		Tiles: {
+			ChallengeGateway: {
+				MapEntry: Challenge Gateway
+				AccessGranted: Access granted
+				AccessDenied: Access denied
+				DaysLeftSingle: day until reset
+				DaysLeftMultiple: days until reset
+				MultiplayerMessage: Sorry, but the challenge vaults currently do not support multiplayer. Launch your world in singleplayer to enter this structure.
+				CombatTrial: battle incomplete
+			}
+
+			EnergyCannon.MapEntry: Energy Cannon
+			CopperLight.MapEntry: Light
+			SpikeTrap.MapEntry: Spike Trap
+			ChallengeSpawner.MapEntry: Challenge Spawner
+			FlameTrap.MapEntry: Flame Trap
+			CopperLightFaulty.MapEntry: Copper Light Faulty
+		}
+
+		Biomes: {
+			ChallengeRoom: {
+				DisplayName: Challenge Room
+				TownNPCDialogueName: the Challenge Room
+			}
+		}
+
+		Configs: {
+			ChallengeConfig: {
+				Frequency: {
+					Tooltip: Directly controls the number of challenge doors generated in new worlds
+					Label: "[i:ChallengeRooms/ChallengeBrick] Vault Frequency"
+				}
+
+				DisplayName: Config
+			}
+		}
+	}
+}

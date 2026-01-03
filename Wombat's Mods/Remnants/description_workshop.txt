@@ -1,0 +1,59 @@
+[url=https://discord.gg/cbK6rVC][img]https://imgur.com/SpUmKtI.png[/img][/url]
+[url=https://ko-fi.com/wombatgamery][img]https://imgur.com/GLbjLF5.png[/img][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3308342945][img]https://imgur.com/NDcAjBg.png[/img][/url]
+
+[h2]Overview[/h2] [img]https://i.imgur.com/jdunrUl.png[/img]
+Remnants is the only mod of its kind - a complete reconstruction of your Terraria world that pushes procedural generation to groundbreaking levels. Journey through a once familiar, now foreign land, rich with new environments to explore and secrets to discover.
+
+[h2]Compatibility[/h2] [img]https://i.imgur.com/jdunrUl.png[/img]
+Due to the nature of this mod, compatibility with other mods is not guaranteed. Refer to the comprehensive list below when building your modpack.
+
+Supported mods have been built around to ensure an ideal experience: [list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3449158983][b]Spirit Reforged[/b][/url]
+[/list]
+
+Fully compatible mods should be completely safe to use: [list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3449156562][b]Calamity Fables[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653][b]Mod of Redemption[/b][/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=2939093580][b]Orchid Mineshaft[/b][/url]
+[/list]
+
+Partially compatible mods will cause some minor problems, but otherwise may still be playable: [list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072][b]Calamity Mod[/b][/url] (The Sulphurous Sea has a few visual bugs)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416][b]Thorium Mod[/b][/url] (The Aquatic Depths can sometimes be invasive)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815540735][b]Fargo's Souls[/b][/url] (The Cursed Coffin arena will not generate)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2563862309][b]The Stars Above[/b][/url] (The Neon Veil overrides other structures)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2984622072][b]Starlight River[/b][/url] (A few biome and structure conflicts)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2982372319][b]Spirit Classic[/b][/url] (Sepulchres are disabled to prevent crashing)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2855691488][b]Polarities[/b][/url] (Salt caves overlap the underground evil biome)
+[/list]
+
+Incompatible mods will result in a guaranteed crash or unplayable world: [list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3015412343][b]Infernum Mode[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914][b]Secrets of the Shadows[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807309918][b]Start with Base[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197][b]Homeward Journey[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019925104][b]Lunar Veil[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2833852432][b]Spooky Mod[/b][/url]
+[/list]
+
+Note that the compatibility of these mods are evaluated only by their individual changes, and not that of any dependencies they might have. 
+
+[h2]Credits[/h2] [img]https://i.imgur.com/jdunrUl.png[/img]
+Music/Sounds: [list]
+[*]Soundtracks for [spoiler]the Undergrowth and Magical Lab[/spoiler] by [url=https://www.youtube.com/c/ProVISIO][b]ProduceVGM.[/b][/url]
+[*]Soundtracks for [spoiler]the Aerial Garden and Echoing Halls[/spoiler] by [url=https://www.youtube.com/@twitchywhalez][b]Twitchywhalez.[/b][/url]
+[*]Some sound effects from [url=https://www.bluezone-corporation.com][b]Bluezone Corporation.[/b][/url]
+[*]All other audio files of unknown origin.
+[/list]
+
+Features/Mechanics: [list]
+[*]Custom music boxes by [url=https://steamcommunity.com/id/CrayonEater69][b]KingOblivion.[/b][/url]
+[/list]
+
+Localisation: [list]
+[*]Russian translations by [url=https://steamcommunity.com/id/xenofite][b]Xenofite.[/b][/url]
+[*]Polish translations by [url=https://steamcommunity.com/id/nichiimishiari/][b]Nichiimishiari.[/b][/url]
+[*]German translations by [url=https://steamcommunity.com/id/Cracky-XXX/][b]Cracky.[/b][/url]
+[/list]
+

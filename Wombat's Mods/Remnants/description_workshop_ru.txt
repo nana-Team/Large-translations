@@ -1,0 +1,56 @@
+[url=https://discord.gg/cbK6rVC][img]https://imgur.com/RF3SON0.png[/img][/url]
+[url=https://ko-fi.com/wombatgamery][img]https://imgur.com/HMNxjJ6.png[/img][/url]
+[url=https://remnantsmod.wiki.gg/][img]https://imgur.com/AH8e5jU.png[/img][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3308342945][img]https://imgur.com/iKwGXQN.png[/img][/url]
+
+[h2]Описание[/h2] [img]https://i.imgur.com/jdunrUl.png[/img]
+Remnants — уникальный в своём роде проект, перерабатывающий весь процесс генерации миров в Террарии, выводя его на совершенно новый уровень. Приготовьтесь погрузиться в сказочное приключение по теперь уже неузнаваемым землям, до краёв наполненными новыми структурами и биомами со своими особенностями.
+
+[h2]Совместимость с другими модами и секретными сидами[/h2] [img]https://i.imgur.com/jdunrUl.png[/img]
+С новым процессом генерации мира не работает [b]ни один[/b] секретный сид и ощутимая часть модов — рекомендуем вам внимательно ознакомиться со списком поддерживаемых модов ниже перед созданием сборки модов с Remnants.
+
+Полностью совместимые моды, использование Remnants в связке с которыми не должно вызывать у вас особых проблем: [list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3449156562][b]Calamity Fables[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3449158983][b]Spirit Reforged[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2815540735][b]Fargo's Souls[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416][b]Thorium Mod[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653][b]Mod of Redemption[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2939093580][b]Orchid Mineshaft[/b][/url]
+[/list]
+
+Частично совместимые моды, генерация мира с которыми скорее всего не пройдёт так гладко, как хотелось бы, но с которыми всё ещё можно будет сделать полноценное прохождение: [list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072][b]Calamity Mod[/b][/url] (Несколько визуальных багов с Сернистым морем)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2982372319][b]Spirit Classic[/b][/url] (Некоторые важные структуры из мода не генерируются)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2563862309][b]The Stars Above[/b][/url] (Неоновый заслон ломает почти все структуры в аду)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2984622072][b]Starlight River[/b][/url] (Различные мелкие структуры генерируются поверх структур из Remnants)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2855691488][b]Polarities[/b][/url] (Различные мелкие структуры генерируются поверх структур из Remnants)
+[/list]
+
+Несовместимые моды, в мирах с которыми играть будет невозможно, если игра у вас вообще не вылетит ещё во время генерации самого мира: [list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3015412343][b]Infernum Mode[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843112914][b]Secrets of the Shadows[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2930931197][b]Homeward Journey[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2833852432][b]Spooky Mod[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2807309918][b]Start with base[/b][/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019925104][b]Lunar Veil[/b][/url]
+[/list]
+
+[h2]Благодарности[/h2] [img]https://i.imgur.com/jdunrUl.png[/img]
+Выражаем безмерную благодарность следующим пользователям и проектам за их вклад в разработку этого мода:
+
+Музыка/Звуки: [list]
+[*][url=https://www.youtube.com/c/ProVISIO][b]ProduceVGM[/b][/url] за потрясающий саундтрек для [spoiler]Корневища и Магической лаборатории[/spoiler]
+[*][url=https://www.youtube.com/@twitchywhalez][b]Twitchywhalez[/b][/url] за не менее восхитительный саундтрек для [spoiler]Небесного сада и Шепчущего лабиринта[/spoiler]
+[*]Библиотеке [url=https://www.bluezone-corporation.com][b]Bluezone Corporation[/b][/url] за звуковые эффекты
+[/list]
+
+Код/Спрайты: [list]
+[*][url=https://steamcommunity.com/id/CrayonEater69][b]KingOblivion[/b][/url] за помощь в программировании некоторых фич
+[*][url=https://steamcommunity.com/id/nichiimishiari/][b]Nichiimishiari[/b][/url] за создание спрайтов для музыкальных шкатулок
+[/list]
+
+Локализация: [list]
+[*][url=https://steamcommunity.com/id/xenofite][b]Xenofite[/b][/url] за создание русской локализации мода
+[*][url=https://steamcommunity.com/id/nichiimishiari/][b]Nichiimishiari[/b][/url] за создание польской локализации мода
+[*][url=https://steamcommunity.com/id/Cracky-XXX/][b]Cracky[/b][/url] за создание немецкой локализации мода
+[/list]

@@ -1,0 +1,428 @@
+Mods: {
+	WombatQOL: {
+		Items: {
+			concrete: {
+				DisplayName: Concrete Slab
+				Tooltip: ""
+			}
+
+			concretewall: {
+				DisplayName: Concrete Wall
+				Tooltip: ""
+			}
+
+			IndustrialPipe: {
+				DisplayName: Industrial Pipe
+				Tooltip: ""
+			}
+
+			electriclight: {
+				DisplayName: Electric Light
+				Tooltip: ""
+			}
+
+			electriclightfaulty: {
+				DisplayName: Faulty Electric Light
+				Tooltip: ""
+			}
+
+			ExoticGold: {
+				DisplayName: Exotic Gold
+				Tooltip: While not differing much from regular gold, its unique properties give it special applications
+			}
+
+			honeybrick: {
+				DisplayName: Honeycomb Brick
+				Tooltip: ""
+			}
+
+			honeybrickwall: {
+				DisplayName: Honeycomb Brick Wall
+				Tooltip: ""
+			}
+
+			IndustrialPanel: {
+				DisplayName: Industrial Panel
+				Tooltip: ""
+			}
+
+			IndustrialPlatform: {
+				DisplayName: Industrial Platform
+				Tooltip: ""
+			}
+
+			IndustrialWall: {
+				DisplayName: Industrial Wall
+				Tooltip: ""
+			}
+
+			CeremonialCandle: {
+				DisplayName: Ceremonial Candle
+				Tooltip: Formless candles melted together through use
+			}
+
+			IndustrialSupport: {
+				DisplayName: Industrial Support
+				Tooltip: ""
+			}
+
+			DukeFishronArtifact: {
+				DisplayName: Duke Fishron Artifact
+				Tooltip: Contains a small fragment of the Duke Fishron's power
+			}
+
+			GolemArtifact: {
+				DisplayName: Golem Artifact
+				Tooltip: Contains a small fragment of Golem's power
+			}
+
+			KingSlimeArtifact: {
+				DisplayName: King Slime Artifact
+				Tooltip: Contains a small fragment of the King Slime's power
+			}
+
+			MoonLordArtifact: {
+				DisplayName: Moon Lord Artifact
+				Tooltip: Contains a small fragment of the Moon Lord's power
+			}
+
+			PlanteraArtifact: {
+				DisplayName: Plantera Artifact
+				Tooltip: Contains a small fragment of Plantera's power
+			}
+
+			QueenBeeArtifact: {
+				DisplayName: Queen Bee Artifact
+				Tooltip: Contains a small fragment of the Queen Bee's power
+			}
+
+			SkeletronArtifact: {
+				DisplayName: Skeletron Artifact
+				Tooltip: Contains a small fragment of Skeletron's power
+			}
+
+			WallOfFleshArtifact: {
+				DisplayName: Wall of Flesh Artifact
+				Tooltip: Contains a small fragment of the Wall of Flesh's power
+			}
+
+			IndustrialDoor: {
+				DisplayName: Industrial Door
+				Tooltip: ""
+			}
+		}
+
+		Projectiles: {
+			deathlaser.DisplayName: deathlaser
+			eyelaser.DisplayName: eyelaser
+			greenlaser.DisplayName: greenlaser
+			martianlaser.DisplayName: martianlaser
+			muzzleflash.DisplayName: muzzleflash
+			nebulalaser.DisplayName: nebulalaser
+			pinklaser.DisplayName: pinklaser
+			yellowlaser.DisplayName: yellowlaser
+		}
+
+		Tiles: {
+			electriclight.MapEntry: Electric Light
+			electriclightfaulty.MapEntry: Electric Light
+		}
+
+		Configs: {
+			Worldgen: {
+				DisplayName: World Generation
+
+				Headers: {
+					Terrain: Terrain
+					Structure: Structures
+				}
+
+				LeafBushes: {
+					Label: "[i:745] Leafy Bushes"
+					Tooltip: Leaf walls will generate in clumps on any grass type, adding more life and depth to the environment
+				}
+
+				WaterClay: {
+					Label: "[i:133] Water Clay"
+					Tooltip:
+						'''
+						Clay will generate under bodies of water instead of in random veins, giving them a unique location to be found
+
+						Note: Water plants are prevented from spawning, making this highly subject to personal preference
+						Note: Does nothing with Remnants enabled, as it works poorly with this feature
+						'''
+				}
+
+				DungeonChains: {
+					Label: "[i:85] Dungeon Chains"
+					Tooltip:
+						'''
+						Hanging chains will generate in high places in The Dungeon, making it more interesting to traverse
+
+						Note: Does nothing with Remnants enabled, as it already includes this feature
+						'''
+				}
+
+				DungeonStairs: {
+					Label: "[i:1384] Dungeon Stairs"
+					Tooltip:
+						'''
+						Sloped platforms will generate where appropriate in The Dungeon, giving it a more coherent design
+
+						Note: Does nothing with Remnants enabled, as it already includes this feature
+						'''
+				}
+
+				TempleStairs: {
+					Label: "[i:3906] Temple Stairs"
+					Tooltip:
+						'''
+						Sloped platforms will generate where appropriate in The Lihzahrd Temple, giving it a more coherent design
+
+						Note: Does nothing with Remnants enabled, as it already includes this feature
+						'''
+				}
+
+				HellCages: {
+					Label: "[i:147] Hell Cages"
+					Tooltip: Spiky hanging cages will generate in the underworld, making it more interesting to traverse
+				}
+
+				DesertRocks: {
+					Label: "[i:3273] Desert Pillars"
+					Tooltip:
+						'''
+						Sandstone pillars will generate in the main desert, making it more interesting to traverse
+
+						Note: Does nothing with Remnants or Calamity Fables enabled, as they work poorly with this feature
+						'''
+				}
+
+				SpawnCampsite: {
+					Label: "[i:2434] Spawn Tent"
+					Tooltip: The spawn point will include a small tent for the guide
+				}
+
+				LushJungle: {
+					Label: "[i:746] Lush Jungle"
+					Tooltip:
+						'''
+						Jungle grass will replace all exposed mud in the surface jungle, adding more life to the environment
+
+						Note: Does nothing with Remnants enabled, as it already includes this feature
+						'''
+				}
+
+				ChestItemShuffle: {
+					Label: "[i:48] Jumbled Chests"
+					Tooltip: Naturally generated chests will have shuffled inventories for a more natural and abandoned feel
+				}
+
+				RandomOpenDoors: {
+					Label: "[i:25] Abandoned Doors"
+					Tooltip: Naturally generated doors will sometimes be left open for a more natural and abandoned feel
+				}
+			}
+
+			Gameplay: {
+				DisplayName: Gameplay
+
+				Headers: {
+					Content: Content
+					Crafting: Crafting
+					Drops: Drops
+					Functional: Functionality
+				}
+
+				BossArtifacts: {
+					Label: "[i:WombatQOL/KingSlimeArtifact] Boss Artifacts"
+					Tooltip:
+						'''
+						In expert mode or higher, bosses will drop artifacts that can be crafted into their drops, which helps to eliminiate repetitive grinding for any particular boss
+						One artifact is dropped per player, and the amount needed for a given item is the denominator of that item's drop chance
+
+						Note: Highly recommended
+						'''
+				}
+
+				SafeCritters: {
+					Label: "[i:2019] Safe Critters"
+					Tooltip: Critters will not take damage from monsters
+				}
+
+				SafeBoundNPCs: {
+					Label: "[i:985] Safe Bound NPCs"
+					Tooltip: Bound NPCs and unconscious men will not take damage from monsters, reducing the pressure in trying to rescue them
+				}
+
+				TilePickup: {
+					Label: "[i:5] Better Gathering"
+					Tooltip: Most plants and shelf items can be easily collected using right-click, making gathering a bit more convenient
+				}
+
+				DyeMixing: {
+					Label: "[i:1066] Colour Mixing"
+					Tooltip: Paint and dye of different colours can be mixed at a dye vat to create new ones
+				}
+
+				EasyWings: {
+					Label: "[i:785] Feathered Wings"
+					Tooltip: The giant harpy feather is removed, and the harpy wings recipe uses 50 normal feathers instead
+				}
+
+				SpectrePaintUpgrade: {
+					Label: "[i:1543] Spectre Infusion"
+					Tooltip:
+						'''
+						Spectre paint tools are upgraded directly from their normal counterparts, with a reduced spectre bar cost to compensate
+						This aims to add some progression while also freeing up the inventory and crafting menu
+						'''
+				}
+
+				GlowingMushrooms: {
+					Label: "[i:183] Spare Mushrooms"
+					Tooltip:
+						'''
+						Glowing mushroom enemies will drop some of their mushrooms when killed, making the grind for shroomite armour a little less boring
+
+						Note: Highly recommended
+						'''
+				}
+
+				SoulsOfFlight: {
+					Label: "[i:575] Spiritual Harpies"
+					Tooltip: Harpies may drop a soul of flight when killed in hardmode, making the grind for wings a little more interesting
+				}
+
+				KingSlimeKatana: {
+					Label: "[i:2273] Ninja's Katana"
+					Tooltip: King Slime will drop a useful katana when defeated, giving more incentive to fight him early-game
+				}
+
+				ExoticGold: {
+					Label: "[i:WombatQOL/ExoticGold] Exotic Gold"
+					Tooltip:
+						'''
+						Exotic gold is a new item that:
+						- Replaces gold dust in its crafting recipes
+						- Is dropped from pirates in place of golden furniture
+						- Is used to craft golden furniture
+						This aims to nicely tie together some similar bits of content while reducing inventory clutter
+
+						Note: Highly recommended
+						'''
+				}
+
+				HoneyDispenser: {
+					Label: "[i:2204] Plentiful Honey"
+					Tooltip: The honey dispenser will actually count as a honey source
+				}
+
+				RareMeteorite: {
+					Label: "[i:116] Rare Meteorite"
+					Tooltip:
+						'''
+						The rarity of raw meteorite is increased to blue, to match the bars crafted from it
+						This is mainly to prevent the item from burning in lava
+						'''
+				}
+			}
+
+			Visuals: {
+				DisplayName: Visuals
+
+				Headers: {
+					Effects: Effects
+					Lighting: Lighting
+				}
+
+				BulletFlashes: {
+					Label: "[i:164] Bullet Muzzle Flashes"
+					Tooltip:
+						'''
+						Bullet projectiles gain a firing effect to make them more visually appealing
+
+						Note: Does nothing with Terraria Overhaul enabled, as it already includes this feature
+						'''
+				}
+
+				LaserFlashes: {
+					Label: "[i:127] Laser Muzzle Flashes"
+					Tooltip: Laser projectiles gain a firing effect to make them more visually appealing
+				}
+
+				BulletCasings: {
+					Label: "[i:1432] Bullet Casings"
+					Tooltip:
+						'''
+						Guns will eject bullet casings when fired, adding some immersion to ranged combat
+
+						Note: Does nothing with Terraria Overhaul enabled, as it already includes this feature
+						'''
+				}
+
+				JungleFireflies: {
+					Label: "[i:1992] Jungle Fireflies"
+					Tooltip: Small fireflies will roam the underground jungle, livening the atmosphere
+				}
+
+				HallowFireflies: {
+					Label: "[i:2004] Hallow Fireflies"
+					Tooltip: Small fireflies will roam the underground hallow, livening the atmosphere
+				}
+
+				VileWater: {
+					Label: "[i:3210] Vile Water"
+					Tooltip: Corruption water becomes a sickly green, adding colour variation and reducing monotony
+				}
+
+				Screenshake: {
+					Label: "[i:2701] Screenshake"
+					Tooltip:
+						'''
+						Explosions will cause screenshakes, with the intensity depending on distance and approximate strength
+
+						Note: Doesn't apply to modded content, creating inconsistencies with vanilla content
+						'''
+				}
+
+				SnowDirtMerge: {
+					Label: "[i:593] Snow and Dirt Merge"
+					Tooltip: Enables the unused dirt merge textures for snow blocks
+				}
+
+				GlowingHellstone: {
+					Label: "[i:174] Warm Hellstone"
+					Tooltip: Hellstone, its bricks and natural lava walls will have a soft red glow
+				}
+
+				GlowingLavaBG: {
+					Label: "[i:4535] Warm Lava Background"
+					Tooltip:
+						'''
+						The lava background near the underworld (assuming backgrounds are on) will have a soft red glow
+
+						Note: Affects subworlds, which may be negative in some cases
+						'''
+				}
+
+				GraniteEnemyGlow: {
+					Label: "[i:3086] Granite Energy"
+					Tooltip: Granite enemies will emit light
+				}
+			}
+		}
+
+		Biomes: {
+			CorruptionWater: {
+				DisplayName: Corruption Water
+				TownNPCDialogueName: the Corruption Water
+			}
+
+			Shimmer: {
+				DisplayName: Shimmer
+				TownNPCDialogueName: the Shimmer
+			}
+		}
+	}
+}

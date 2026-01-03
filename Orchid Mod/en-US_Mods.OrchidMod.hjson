@@ -1,0 +1,3858 @@
+Keybinds: {
+	"Alchemist Hidden Reaction.DisplayName": Alchemist Hidden Reaction
+	"Alchemist Catalyst Tool Shortcut.DisplayName": Alchemist Catalyst Tool Shortcut
+	"Hidden Reaction.DisplayName": Hidden Reaction
+}
+
+Tiles: {
+	JungleLilyTile.MapEntry: "{$Items.JungleLily.DisplayName}"
+	ShamanBiomeChestTile.MapEntry: "{$Items.ShamanBiomeChest.DisplayName}"
+	GuardianBuffStationTile.MapEntry: "{$Items.GuardianBuffStation.DisplayName}"
+	VerveineQuarterstaffTile.MapEntry: Farting Plant
+}
+
+Buffs: {
+	RCRemoteBuff: {
+		DisplayName: RC Remote
+		Description: Brrrrr
+	}
+
+	SquareMinecartBuff: {
+		DisplayName: "{$BuffName.MinecartLeft}"
+		Description: "{$BuffDescription.MinecartLeft}"
+	}
+
+	HarpyPotionBuff: {
+		DisplayName: Harpy Agility
+		Description: Ability to double jump, your fist bonus jump will release damaging feathers around you
+	}
+
+	VulturePotionBuff: {
+		DisplayName: Scavenger
+		Description: 20% increased chip generation
+	}
+
+	ConquerorsPennantBuff: {
+		DisplayName: Conqueror's Thrill
+		Description: 10% increased gambling critical strike chance and movement speed
+	}
+
+	SlimeSlow: {
+		DisplayName: Slime Slow
+		Description: Reduced Movement Speed
+	}
+
+	ReactionCooldown: {
+		DisplayName: Experimental Drawback
+		Description: You cannot use alchemist hidden reactions
+	}
+
+	FlashFreeze: {
+		DisplayName: Flash Freeze
+		Description: Reduced Movement Speed
+	}
+
+	Catalyzed: {
+		DisplayName: Catalyzed
+		Description: Triggers various alchemical properties
+	}
+
+	Attraction: {
+		DisplayName: Attraction
+		Description: Attracts nearby alchemist projectiles
+	}
+
+	StellarTalcBuff: {
+		DisplayName: Stellar Orbit
+		Description: Stellar Talc projectiles will orbit around you
+	}
+
+	StardustSamplesBuff: {
+		DisplayName: Stardust Confusion
+		Description: Sunflowers created by Forest Samples apply confusion
+	}
+
+	SpiritedWaterBuff: {
+		DisplayName: Spirited Droplets
+		Description: Chemical attacks will release spirited water flames
+	}
+
+	SlimeFlaskBuff: {
+		DisplayName: Burning Samples
+		Description: Using slimy samples with a fire element will release damaging embers
+	}
+
+	ReactiveVialsBuff: {
+		DisplayName: Reactive Elements
+		Description: 10% increased chemical damage for your next chemical mixture
+	}
+
+	QueenBeeFlaskBuff: {
+		DisplayName: Human Beehive
+		Description: Attacking with 3 or more element will summon bees
+	}
+
+	MushroomHeal: {
+		DisplayName: Mushroom Spores
+		Description: Alchemist attacks will create more spores
+	}
+
+	MeteorSpeed: {
+		DisplayName: Meteor Agility
+		Description: Immune to knockback, 20% increased movement speed
+	}
+
+	KingSlimeFlaskBuff: {
+		DisplayName: Poisonous Slime
+		Description: Increases the likelyhood of spawning slime bubbles, creating spiked jungle slimes
+	}
+
+	JungleLilyExtractBuff: {
+		DisplayName: Purifying Lilies
+		Description: Each alchemical attack using two or more elements releases a purifying aura
+	}
+
+	IceChestFlaskBuff: {
+		DisplayName: Permanent Freeze
+		Description: Constantly freezes various alchemical projectiles and slows enemies around you
+	}
+
+	DemonBreathFlaskBuff: {
+		DisplayName: Demon Reek
+		Description: Demon breath will create more projectiles
+	}
+
+	BloodMistFlaskBuff: {
+		DisplayName: Misty Steps
+		Description: Periodically releases blood mist while moving
+	}
+
+	AttractiteAuraSmall: {
+		DisplayName: Lesser Attractite Aura
+		Description: Applies attractite to nearby enemies
+	}
+
+	GuardianSpikeBuff: {
+		DisplayName: Sharp Rebuttal
+		Description: 15% increased opposing damage
+	}
+
+	BambooBuff: {
+		DisplayName: Bamboo Protection
+		Description: 50% increased defense
+	}
+
+	GuardianGitBuff: {
+		DisplayName: Got Gud
+		Description: 30% increased movement speed
+	}
+
+	GuardianRunePotionBuff: {
+		DisplayName: Rune Mastery
+		Description: Increased number of guardian rune projectiles
+	}
+
+	GuardianJungleGauntletBuff: {
+		DisplayName: Feral Frenzy
+		Description: 100% increased melee speed
+	}
+
+	GuardianSpiderGauntletBuff: {
+		DisplayName: Toxic Punches
+		Description: Punches shoot toxic fangs
+	}
+
+	GuardianMechanicalGauntletBuff: {
+		DisplayName: Rocket Punch
+		Description: Punch to propel yourself!
+	}
+
+	GuardianHoneyPotionBuff: {
+		DisplayName: Sweetguard
+		Description: Recovers 1% of max life on block or parry
+	}
+
+	GuardianPaladinGauntletBuff: {
+		DisplayName: Crusader Strikes
+		Description: Releases sparks of light when punching
+	}
+
+	GuardianBuffStationBuff: {
+		DisplayName: Battle Ready
+		Description: Increases maximum slams by 1
+	}
+
+	SageOwlDebuff: {
+		DisplayName: Owled
+		Description: Reduced defense
+	}
+
+	WardenTortoiseBuff: {
+		DisplayName: Snapjaw
+		Description: Your next chomp is greatly enhanced
+	}
+
+	WardenSpiderDebuff: {
+		DisplayName: Shellweb
+		Description: Decreased movement speed
+	}
+
+	SageBatDebuff: {
+		DisplayName: Echolocated
+		Description: Takes massive damage from bat attacks
+	}
+
+	HockeyQuarterstaffDebuff: {
+		Description: Pucked Up
+		DisplayName: Wee!
+	}
+
+	RubyHealing: {
+		DisplayName: Ruby Healing
+		Description: Life regeneration is greatly increased
+	}
+
+	OpalResources: {
+		DisplayName: Opal Resources
+		Description: 10% increased resource regeneration
+	}
+
+	ShapeshifterSurvivalPotionBuff: {
+		DisplayName: Survival Instincts
+		Description: Damage resistance and feral damage increased based on current health
+	}
+
+	ShapeshifterShapeshiftingCooldownDebuff: {
+		DisplayName: Shapeshifting Sickness
+		Description: Reduced stats and cancels on-shapeshift effects
+	}
+
+	ThoriumGrandThunderBirdWarhammerDebuff: {
+		DisplayName: Conductive
+		Description: You're like a lightning rod!
+	}
+
+	GuardianThoriumBronzeShieldBuff: {
+		DisplayName: Testudo
+		Description: Protecting nearby allies, the next slam's damage will be increased by {0}%
+		AltDescription:
+			'''
+			 and rising!
+			Guard regeneration is being consumed to increase damage further
+			'''
+	}
+
+	ThoriumBronzeShieldProtection: {
+		DisplayName: Testudo Formation
+		Description: Being protected by an ally's shield
+	}
+
+	GuardianRegenPotionBuff: {
+		DisplayName: Tenacity
+		Description: Increased maximum guard and slam regeneration
+	}
+}
+
+AlchemistRecipe: {
+	RecipeAirSpores: {
+		DisplayName: Air Spores
+		Tooltip: Releases a sizeable amount of air spores, which doesn't destroy existing ones
+	}
+
+	RecipeLesserAttractiteAura: {
+		DisplayName: Lesser Attractite Aura
+		Tooltip: Applies attractite to nearby enemies
+	}
+
+	RecipeAttractiteShurikens: {
+		DisplayName: Attractite Shurikens
+		Tooltip: Creates a maximum of 5 attractite shuriken, inflicting attractite to hit enemies
+	}
+
+	RecipeBeeSwarm: {
+		DisplayName: Bee Swarm
+		Tooltip: Releases a swarm of harmful bees around the player
+	}
+
+	RecipeOilBubble: {
+		DisplayName: Oil Bubble
+		Tooltip: Creates a catalytic oil bubble
+	}
+
+	RecipePoisonBubble: {
+		DisplayName: Poison Bubble
+		Tooltip: Creates a catalytic poison bubble
+	}
+
+	RecipeBubbles: {
+		DisplayName: Bubbles
+		Tooltip: Releases bubbles over a large area
+	}
+
+	RecipeSapBubble: {
+		DisplayName: Sap Bubble
+		Tooltip: Creates a catalytic sap bubble
+	}
+
+	RecipeSeafoamBubble: {
+		DisplayName: Seafoam Bubble
+		Tooltip: Creates a catalytic seafoam bubble
+	}
+
+	RecipeSlimeBubble: {
+		DisplayName: Slime Bubble
+		Tooltip: Creates a catalytic slime bubble
+	}
+
+	RecipeLavaSlimeBubble: {
+		DisplayName: Lava Slime Bubble
+		Tooltip: Creates a catalytic lava slime bubble
+	}
+
+	RecipeSpiritedBubble: {
+		DisplayName: Spirited Bubble
+		Tooltip: Creates a catalytic spirit bubble
+	}
+
+	RecipeBurningSamples: {
+		DisplayName: Burning Samples
+		Tooltip: Using slimy samples with a fire element will release damaging embers
+	}
+
+	RecipeDemonReeks: {
+		DisplayName: Burning Samples
+		Tooltip: Demon breath projectiles will replicate
+	}
+
+	RecipeFireSpores: {
+		DisplayName: Fire Spores
+		Tooltip: Releases a sizeable amount of fire spores, which doesn't destroy existing ones
+	}
+
+	RecipeGlowshroomHealing: {
+		DisplayName: Glowshroom Healing
+		Tooltip: Heals the player for 25 health
+	}
+
+	RecipeJungleLilyPurification: {
+		DisplayName: Lily Purification
+		Tooltip: Cleanses most common early-game debuffs and blooms jungle lilies around the user
+	}
+
+	RecipeLivingBeehive: {
+		DisplayName: Living Beehive
+		Tooltip: Every attack using 3 or more element will summon bees
+	}
+
+	RecipeMistySteps: {
+		DisplayName: Misty Steps
+		Tooltip: Releases harmful mist when moving
+	}
+
+	RecipeMushroomThread: {
+		DisplayName: Mushroom Thread
+		Tooltip: Creates a sample of Mushroom Thread, which can be used to create armor
+	}
+
+	RecipePermanentFreeze: {
+		DisplayName: Permanent Freeze
+		Tooltip: Constantly applies the flash freeze aura around the player
+	}
+
+	RecipePoisonousSlime: {
+		DisplayName: Poisonous Slime
+		Tooltip: Increases the likelyhood of spawning slime bubbles, creating spiked jungle slimes
+	}
+
+	RecipeBuilderPotion: {
+		DisplayName: Builder Potion
+		Tooltip: Gives 30 seconds of builder Potion effect
+	}
+
+	RecipeFeatherfallPotion: {
+		DisplayName: Featherfall Potion
+		Tooltip: Gives 30 seconds of featherfall Potion effect
+	}
+
+	RecipeFlipperPotion: {
+		DisplayName: FlipperPotion
+		Tooltip: Gives 30 seconds of flipper Potion effect
+	}
+
+	RecipeInvisibilityPotion: {
+		DisplayName: Invisibility Potion
+		Tooltip: Gives 30 seconds of invisibility Potion effect
+	}
+
+	RecipeNightOwlPotion: {
+		DisplayName: Night Owl Potion
+		Tooltip: Gives 30 seconds of night owl Potion effect
+	}
+
+	RecipeObsidianSkinPotion: {
+		DisplayName: Obsidian Skin Potion
+		Tooltip: Gives 30 seconds of obsidian skin Potion effect
+	}
+
+	RecipePropulsion: {
+		DisplayName: Propulsion
+		Tooltip: Vertically propels the player
+	}
+
+	RecipePurifyingLilies: {
+		DisplayName: Purifying Lilies
+		Tooltip: Each alchemical attack using two or more elements releases a purifying aura
+	}
+
+	RecipeSpiritedDroplets: {
+		DisplayName: Spirited Droplets
+		Tooltip: Chemical attacks will release spirited water flames
+	}
+
+	RecipeStardustConfusion: {
+		DisplayName: Stardust Confusion
+		Tooltip: Forest Samples sunflowers inflict confusion on hit
+	}
+
+	RecipeStellarTalcOrbit: {
+		DisplayName: Stellar Talc Orbit
+		Tooltip: Stellar Talc projectiles will orbit the user
+	}
+
+	RecipeSunflowerSeeds: {
+		DisplayName: Sunflower Seeds
+		Tooltip: Releases damaging sunflower seeds around the player
+	}
+
+	RecipeWaterSpores: {
+		DisplayName: Water Spores
+		Tooltip: Releases a sizeable amount of water spores, which doesn't destroy existing ones
+	}
+}
+
+Items: {
+	AlchemistEmblem: {
+		DisplayName: Alchemist Emblem
+		Tooltip: 15% increased chemical damage
+	}
+
+	AlchemistTest: {
+		DisplayName: Alchemist Test Accessory
+		Tooltip:
+			'''
+			Maximum number of simultaneous alchemical elements increased by 4
+			Maximum potency increased by 20
+			50% increased potency regeneration
+			[c/FF0000:Test Item]
+			'''
+	}
+
+	BloomingBud: {
+		DisplayName: Blooming Bud
+		Tooltip: Periodically releases catalytic blooming buds when attacking
+	}
+
+	KeystoneOfTheConvent: {
+		DisplayName: Keystone Of The Convent
+		Tooltip:
+			'''
+			Attacks with at least 3 non-air ingredients will be empowered
+			Hit target will be dealt damage for all nearby air coatings, consuming them
+			'''
+	}
+
+	MeteorToolbelt: {
+		DisplayName: Meteor Toolbelt
+		Tooltip: Using 3 or more elements in a single attack gives knockback immunity and movement speed
+	}
+
+	PreservedCorruption: {
+		DisplayName: Preserved Corruption
+		Tooltip: Maximum potency increased by 2
+	}
+
+	PreservedCrimson: {
+		DisplayName: Preserved Crimson
+		Tooltip: Maximum potency increased by 2
+	}
+
+	ReactiveVials: {
+		DisplayName: Reactive Vials
+		Tooltip: Your first chemical mixture after using a hidden reaction deals 10% more damage
+	}
+
+	WeightedBottles: {
+		DisplayName: Weighted Bottles
+		Tooltip: Increases alchemic main projectile velocity by 25%
+	}
+
+	WeightedCorruption: {
+		DisplayName: Weighted Corruption
+		Tooltip:
+			'''
+			Increases alchemic main projectile velocity by 25%
+			Maximum potency increased by 2
+			'''
+	}
+
+	WeightedCrimson: {
+		DisplayName: Weighted Crimson
+		Tooltip:
+			'''
+			Increases alchemic main projectile velocity by 25%
+			Maximum potency increased by 2
+			'''
+	}
+
+	AlchemistJungleChest: {
+		DisplayName: Lily Tunic
+		Tooltip:
+			'''
+			Maximum potency increased by 3
+			Increases alchemic main projectile velocity by 20%
+			'''
+	}
+
+	AlchemistJungleHead: {
+		DisplayName: Lily Hood
+		Tooltip:
+			'''
+			20% increased potency regeneration
+			Maximum number of simultaneous alchemical elements increased by 1
+			'''
+		SetBonus: Triggering enough catalytic reactions creates a catalytic flower bud
+	}
+
+	AlchemistJungleLegs: {
+		DisplayName: Lily Leggings
+		Tooltip: 10% increased chemical damage
+	}
+
+	MushroomBandana: {
+		DisplayName: Phosphorescent Bandana
+		Tooltip: 5% increased potency regeneration
+		SetBonus: Maximum number of simultaneous alchemical elements increased by 1
+	}
+
+	MushroomLeggings: {
+		DisplayName: Phosphorescent Leggings
+		Tooltip: 5% increased potency regeneration
+	}
+
+	MushroomTunic: {
+		DisplayName: Phosphorescent Tunic
+		Tooltip:
+			'''
+			5% increased potency regeneration
+			Maximum potency increased by 2
+			'''
+	}
+
+	PotionBag: {
+		DisplayName: Potion Bag
+		Tooltip:
+			'''
+			Can carry up to 8 alchemical potions
+			Items in the bag will appear in alchemist mixing interfaces
+			'A prototype by the chemist, meant to be upgraded later'
+			'''
+	}
+
+	AlchemicStabilizer: {
+		DisplayName: Alchemical Stabilizer
+		Tooltip:
+			'''
+			Used to make various alchemist weapons
+			'Smells like bee wax'
+			'''
+	}
+
+	EmptyFlask: {
+		DisplayName: Empty Flask
+		Tooltip:
+			'''
+			Sold by the mineshaft chemist
+			Used to make various alchemist weapons
+			'''
+	}
+
+	JungleLily: {
+		DisplayName: Jungle Lily
+		Tooltip:
+			'''
+			It closed when you picked it up
+			Maybe the chemist could help you?
+			'''
+	}
+
+	JungleLilyBloomed: {
+		DisplayName: Jungle Lily Bloomed
+		Tooltip: ""
+	}
+
+	MushroomThread: {
+		DisplayName: Mushroom Thread
+		Tooltip:
+			'''
+			Result of the hidden reaction between blinkroot and glowing mushroom extracts
+			'Quite an unexpected outcome'
+			'''
+	}
+
+	Potency: {
+		DisplayName: Potency
+		Tooltip: ""
+	}
+
+	ReactionItem: {
+		DisplayName: Hidden Reactions Codex
+		Tooltip:
+			'''
+			Left click to trigger alchemist hidden reactions
+			The 'Hidden Reaction' ({0}) key can be used instead of this item
+			Right click to open the hidden reactions codex
+			'''
+	}
+
+	ScrollTier1: {
+		DisplayName: Alchemist Recipe Scroll
+		Tooltip: Contains the recipe for an unknown alchemist hidden reaction
+	}
+
+	ScrollTier2: {
+		DisplayName: Alchemist Recipe Scroll
+		Tooltip: Contains the recipe for an unknown alchemist hidden reaction
+	}
+
+	ScrollTier3: {
+		DisplayName: Alchemist Recipe Scroll
+		Tooltip: Contains the recipe for an unknown alchemist hidden reaction
+	}
+
+	ScrollTier4: {
+		DisplayName: Alchemist Recipe Scroll
+		Tooltip: Contains the recipe for an unknown alchemist hidden reaction
+	}
+
+	ScrollTier5: {
+		DisplayName: Alchemist Recipe Scroll
+		Tooltip: Contains the recipe for an unknown alchemist hidden reaction
+	}
+
+	ScrollTier6: {
+		DisplayName: Alchemist Recipe Scroll
+		Tooltip: Contains the recipe for an unknown alchemist hidden reaction
+	}
+
+	UIItem: {
+		DisplayName: The Alchemist's Cookbook
+		Tooltip:
+			'''
+			Allows mixing alchemical weapons by clicking
+			Right click on an item icon to mix it
+			Left click to launch the attack
+			Up to 18 items can be displayed at once
+			'''
+	}
+
+	UIItemKeys: {
+		DisplayName: Brewing for Dummies
+		Tooltip:
+			'''
+			Allows mixing alchemical weapons with the hotbar keys
+			Press the corresponding key to mix a specific item
+			Use the mouse wheel to change the displayed element
+			Up to 10 items can be displayed at once
+			'''
+	}
+
+	UIItemNew: {
+		DisplayName: The Alchemist's Cookbook [S-Pladison's Edition]
+		Tooltip:
+			'''
+			Allows mixing alchemical weapons by clicking
+			Right click on an item icon to mix it
+			Left click to launch the attack
+			Up to 17 items can be displayed at once
+			'''
+	}
+
+	AirVial: {
+		DisplayName: Air Vial
+		Tooltip: "[c/FF0000:Test Item]"
+	}
+
+	BlizzardInAVial: {
+		DisplayName: Blizzard In A Flask
+		Tooltip:
+			'''
+			Launches hit enemy in the air
+			Increases the likelihood of spawning catalytic bubbles
+			'''
+	}
+
+	CloudInAVial: {
+		DisplayName: Cloud In A Flask
+		Tooltip:
+			'''
+			Launches hit enemy in the air
+			Increases the likelihood of spawning catalytic bubbles
+			'''
+	}
+
+	CorruptionFlask: {
+		DisplayName: Vitriol Mycelium
+		Tooltip:
+			'''
+			Grows a mushroom, exploding after a while or when being catalyzed
+			The more ingredients used, the more delayed the explosion
+			The mushroom will absorb the properties of nearby spores, creating more of them
+			Only one mushroom can exist at once
+			'''
+	}
+
+	CrimsonFlask: {
+		DisplayName: Visceral Mycelium
+		Tooltip:
+			'''
+			Releases floating mushrooms, exploding after a while or when being catalyzed
+			The mushrooms will absorb the properties of nearby spores, creating more of them
+			Only one set of mushrooms can exist at once
+			'''
+	}
+
+	DeathweedFlask: {
+		DisplayName: Deathweed Extract
+		Tooltip:
+			'''
+			Releases air spores, the less other extracts used, the more
+			Only one set of spores can exist at once
+			Spores deals 10% increased damage against fire-coated enemies
+			'''
+	}
+
+	FartInAVial: {
+		DisplayName: Fart In A Flask
+		Tooltip:
+			'''
+			Launches hit enemy in the air
+			Increases the likelihood of spawning catalytic bubbles
+			'''
+	}
+
+	QueenBeeFlask: {
+		DisplayName: Royal Jelly
+		Tooltip:
+			'''
+			If no fire element is used, summons bees on impact
+			Has a chance to release a catalytic beehive
+			'''
+	}
+
+	ShadowChestFlask: {
+		DisplayName: Demon Breath
+		Tooltip:
+			'''
+			Releases returning demon flames
+			Coats hit enemies in alchemical air
+			'''
+	}
+
+	ShiverthornFlask: {
+		DisplayName: Shiverthorn Extract
+		Tooltip:
+			'''
+			Releases air spores, the less other extracts used, the more
+			Only one set of spores can exist at once
+			Spores deals 10% increased damage against fire-coated enemies
+			'''
+	}
+
+	SunplateFlask: {
+		DisplayName: Stellar Talc
+		Tooltip:
+			'''
+			Creates orbiting stars on impact
+			The stars are considered as lingering particles
+			'''
+	}
+
+	TsunamiInAVial: {
+		DisplayName: Tsunami In A Flask
+		Tooltip:
+			'''
+			Launches hit enemy in the air
+			Increases the likelihood of spawning catalytic bubbles
+			'''
+	}
+
+	CrimtaneCatalyst: {
+		DisplayName: Crimson Catalyst
+		Tooltip:
+			'''
+			Used to interact with alchemist catalytic elements
+			Upon successful catalysis, confuses nearby enemies
+			Hit an enemy to apply catalyzed
+			Catalyzed replaces most alchemical debuffs
+			'''
+	}
+
+	DemoniteCatalyst: {
+		DisplayName: Corrupt Catalyst
+		Tooltip:
+			'''
+			Used to interact with alchemist catalytic elements
+			Upon successful catalysis, burns nearby enemies in shadowflames
+			Hit an enemy to apply catalyzed
+			Catalyzed replaces most alchemical debuffs
+			'''
+	}
+
+	DungeonCatalyst: {
+		DisplayName: Ripple
+		Tooltip:
+			'''
+			Used to interact with alchemist catalytic elements
+			Upon successful catalysis, releases a burst of homing water bolts
+			Hit an enemy to apply catalyzed
+			Catalyzed replaces most alchemical debuffs
+			'''
+	}
+
+	IronCatalyst: {
+		DisplayName: Catalytic Syringe
+		Tooltip:
+			'''
+			Used to interact with alchemist catalytic elements
+			Hit an enemy to apply catalyzed
+			Catalyzed replaces most alchemical debuffs
+			'''
+	}
+
+	DarkVial: {
+		DisplayName: Dark Vial
+		Tooltip: "[c/FF0000:Test Item]"
+	}
+
+	BlinkrootFlask: {
+		DisplayName: Blinkroot Extract
+		Tooltip:
+			'''
+			Releases fire spores, the less other extracts used, the more
+			Only one set of spores can exist at once
+			Spores deals 10% increased damage against fire-coated enemies
+			'''
+	}
+
+	EmberVial: {
+		DisplayName: Ember Flask
+		Tooltip:
+			'''
+			Burns your target briefly
+			Releases lingering embers
+			'''
+	}
+
+	FireblossomFlask: {
+		DisplayName: Fireblossom Extract
+		Tooltip:
+			'''
+			Releases fire spores, the less other extracts used, the more
+			Only one set of spores can exist at once
+			Spores deals 10% increased damage against fire-coated enemies
+			'''
+	}
+
+	FireVial: {
+		DisplayName: Fire Vial
+		Tooltip: "[c/FF0000:Test Item]"
+	}
+
+	GunpowderFlask: {
+		DisplayName: Gunpowder Flask
+		Tooltip:
+			'''
+			Creates a small explosion
+			Can be used to trigger catalytic elements, but prevents them from spawning
+			'''
+	}
+
+	HellSlimeFlask: {
+		DisplayName: Fiery Slime Flask
+		Tooltip:
+			'''
+			Makes hit enemies bouncy and susceptible to fall damage
+			Has a chance to release a catalytic lava slime bubble
+			Hitting a fire-coated enemy will spread lava droplets
+			'''
+	}
+
+	StardustSamples: {
+		DisplayName: Stardust Samples
+		Tooltip:
+			'''
+			Mixing with a nature element confuses hit enemies
+			'Handcrafted jars are unfit for precise alchemy'
+			'''
+	}
+
+	LightVial: {
+		DisplayName: Light Vial
+		Tooltip: "[c/FF0000:Test Item]"
+	}
+
+	AttractiteShuriken: {
+		DisplayName: Attractite Shuriken
+		Tooltip: Inflicts attractite to hit enemies
+	}
+
+	AttractiteFlask: {
+		DisplayName: Attractite Flask
+		Tooltip:
+			'''
+			Hit target will attract alchemic spores and lingering particles
+			The attractivity buff will jump to the nearest target on miss
+			Counts as an extract when spawning spores
+			'''
+	}
+
+	DaybloomFlask: {
+		DisplayName: Daybloom Extract
+		Tooltip:
+			'''
+			Releases nature spores, the less other extracts used, the more
+			Only one set of spores can exist at once
+			Spores deals 10% increased damage against fire-coated enemies
+			'''
+	}
+
+	GlowingAttractiteFlask: {
+		DisplayName: Glowing Attractite Flask
+		Tooltip:
+			'''
+			Hit target will attract alchemic spores and lingering particles
+			The attractivity buff will jump to the nearest target on miss
+			Releases nature spores, the less other extracts used, the more
+			Spores deals 10% increased damage against fire-coated enemies
+			'''
+	}
+
+	GlowingMushroomVial: {
+		DisplayName: Glowing Mushroom Extract
+		Tooltip:
+			'''
+			Grows a mushroom, which aura increases the number of spores released by other alchemic extracts
+			The mushroom will absorb the properties of nearby spores, creating more of them
+			Only one mushroom can exist at once
+			'''
+	}
+
+	JungleLilyFlask: {
+		DisplayName: Jungle Lily Extract
+		Tooltip:
+			'''
+			Enemies and spores within impact radius will bloom
+			Bloomed spores will duplicate a maximum of once
+			Bloomed enemies will spawn spores for each of their coatings
+			Direct hits will apply a nature coating
+			'''
+	}
+
+	LivingSapVial: {
+		DisplayName: Living Sap Flask
+		Tooltip:
+			'''
+			Creates a healing living sap bubble if used with other ingredients
+			If an air element is used, healing is doubled
+			Has a chance to release a bigger, catalytic sap bubble
+			On reaction, heals players and coats enemies in alchemical nature
+			'''
+	}
+
+	MoonglowFlask: {
+		DisplayName: Moonglow Extract
+		Tooltip:
+			'''
+			Releases nature spores, the less other extracts used, the more
+			Only one set of spores can exist at once
+			Spores deals 10% increased damage against fire-coated enemies
+			'''
+	}
+
+	MushroomFlask: {
+		DisplayName: Mushroom Spores Flask
+		Tooltip: When mixed with an extract, increases its spore damage by 5
+	}
+
+	NatureVial: {
+		DisplayName: Nature Vial
+		Tooltip: "[c/FF0000:Test Item]"
+	}
+
+	PoisonVial: {
+		DisplayName: Poison Flask
+		Tooltip:
+			'''
+			Releases lingering poison bubbles
+			Has a chance to release a catalytic poison bubble
+			Can contaminate other bubbly weapons effects
+			'''
+	}
+
+	SunflowerFlask: {
+		DisplayName: Forest Samples
+		Tooltip:
+			'''
+			Using a water element increases damage and spawns a damaging sunflower
+			'Handcrafted jars are unfit for precise alchemy'
+			'''
+	}
+
+	BloodMoonFlask: {
+		DisplayName: Blood Mist Flask
+		Tooltip:
+			'''
+			Creates a lingering cloud of damaging mist
+			The mist knockback heavily scales with the number of elements used
+			Using a fire element increases damage dealt, air increases spread
+			Using both negates both effects
+			'''
+	}
+
+	DungeonFlask: {
+		DisplayName: Spirited Water
+		Tooltip:
+			'''
+			Releases lingering water flames
+			The flames are considered as lingering particles
+			Has a chance to release a catalytic spirited bubble
+			'''
+	}
+
+	GoblinArmyFlask: {
+		DisplayName: Goblin Oil
+		Tooltip:
+			'''
+			Using a fire element in the same attack will drastically increase damage
+			This will also damage and spread alchemical fire to all nearby water coated enemies
+			Has a chance to release a catalytic oil bubble, coating nearby enemies in water on reaction
+			'''
+	}
+
+	HellOil: {
+		DisplayName: Hellfire Oil
+		Tooltip:
+			'''
+			Using a fire element in the same attack will drastically increase damage
+			This will also damage and spread alchemical fire to all nearby water coated enemies
+			Has a chance to release a catalytic oil bubble, coating nearby enemies in water on reaction
+			'''
+	}
+
+	IceChestFlask: {
+		DisplayName: Flash Freeze
+		Tooltip:
+			'''
+			Freezes all spores, catalytic elements and lingering particles in an area
+			Frozen projectiles will fall to the ground and shatter
+			Enemies hit by the area will be slowed, duration is increased against water-coated ones
+			Using a fire ingredient cancels all these effects, and coats hit enemy with alchemical water
+			'''
+	}
+
+	KingSlimeFlask: {
+		DisplayName: Slimy Flask
+		Tooltip:
+			'''
+			Makes hit enemies bouncy and susceptible to fall damage
+			Has a chance to release a catalytic slime bubble
+			'''
+	}
+
+	SeafoamVial: {
+		DisplayName: Seafoam Flask
+		Tooltip:
+			'''
+			Creates a lingering, damaging water bubble
+			Has a chance to release a catalytic seafoam bubble
+			'''
+	}
+
+	SlimeFlask: {
+		DisplayName: Gelatinous Samples
+		Tooltip:
+			'''
+			Ignites if mixed with a fire element, causing a deflagration
+			'Handcrafted jars are unfit for precise alchemy'
+			'''
+	}
+
+	WaterleafFlask: {
+		DisplayName: Waterleaf Extract
+		Tooltip:
+			'''
+			Releases water spores, the less other extracts used, the more
+			Only one set of spores can exist at once
+			Spores deals 10% increased damage against fire-coated enemies
+			'''
+	}
+
+	WaterVial: {
+		DisplayName: Water Vial
+		Tooltip: "[c/FF0000:Test Item]"
+	}
+
+	GoldFan: {
+		DisplayName: Gold Fan
+		Tooltip:
+			'''
+			Horizontally dashes at your foes
+			[c/FF0000:Test Item]
+			The Dancer class is a proof of concept
+			Do not expect it to be released soon, if at all
+			'''
+	}
+
+	WoodenTekko: {
+		DisplayName: Wooden Tekko
+		Tooltip:
+			'''
+			Horizontally dashes at your foes
+			[c/FF0000:Test Item]
+			The Dancer class is a proof of concept
+			Do not expect it to be released soon, if at all
+			'''
+	}
+
+	BundleOfClovers: {
+		DisplayName: Bundle Of Clovers
+		Tooltip:
+			'''
+			Gambler dice will slow down when rolling 4 or more
+			'4 leaves, all of them!'
+			'''
+	}
+
+	BurningClovers: {
+		DisplayName: Burning Clovers
+		Tooltip:
+			'''
+			Gambler dice will slow down when rolling 5 or more
+			Gambler dice cannot roll a 1 or a 2
+			'''
+	}
+
+	ConquerorsPennant: {
+		DisplayName: Conqueror's Pennant
+		Tooltip: You enrage when drawing a gambler 'boss' card
+	}
+
+	DemonicPocketMirror: {
+		DisplayName: Demonic Pocket Mirror
+		Tooltip: Allows you to see the next card you will draw
+	}
+
+	ElementalLens: {
+		DisplayName: Elemental Lens
+		Tooltip:
+			'''
+			Gambler 'elemental' cards attacks will affect enemy with related debuffs
+			Cards already inflicting debuffs will have them last longer
+			'''
+	}
+
+	GamblerTest: {
+		DisplayName: Gambler Test Accessory
+		Tooltip:
+			'''
+			Allows you to see the next 3 cards you will draw
+			50% chance not to consume chips
+			Maximum chips increased by 45
+			Redraws cooldown reduced by 29 seconds
+			Maximum redraws increased by 4
+			[c/FF0000:Test Item]
+			'''
+	}
+
+	ImpDiceCup: {
+		DisplayName: Imp Dice Cup
+		Tooltip: Gambler dice cannot roll a 1 or a 2
+	}
+
+	LuckySprout: {
+		DisplayName: Lucky Sprout
+		Tooltip: Bushes from the 'biome' set will linger intead of disappearing
+	}
+
+	PileOfChips: {
+		DisplayName: Pile Of Chips
+		Tooltip:
+			'''
+			50% increased gambling chip weapon cycle speed
+			15% increased chip weapon damage
+			'''
+	}
+
+	SlimyLollipop: {
+		DisplayName: Slimy Lollipop
+		Tooltip: Periodically releases friendly slimes when a gambler 'slime' card is active
+	}
+
+	VultureCharm: {
+		DisplayName: Vulture Charm
+		Tooltip: Drawing a card releases a burst of vulture feathers
+	}
+
+	GamblerDungeonBody: {
+		DisplayName: Tyche Chestplate
+		Tooltip:
+			'''
+			10% increased gambling critical strike chance
+			Maximum redraws increased by 1
+			'''
+	}
+
+	GamblerDungeonHead: {
+		DisplayName: Tyche Headgear
+		Tooltip: Maximum chips increased by 5
+		SetBonus: Drawing a card gives 1 to 2 chips
+	}
+
+	GamblerDungeonLegs: {
+		DisplayName: Tyche Leggings
+		Tooltip: 10% increased gambling damage
+	}
+
+	OutlawHat: {
+		DisplayName: Outlaw Hat
+		Tooltip: Maximum chips increased by 3
+		SetBonus: Maximum redraws increased by 1
+	}
+
+	OutlawPants: {
+		DisplayName: Outlaw Pants
+		Tooltip: 4% increased gambling damage
+	}
+
+	OutlawVest: {
+		DisplayName: Outlaw Vest
+		Tooltip: 4% increased gambling damage
+	}
+
+	DeckBone: {
+		DisplayName: Bone Gambler Deck
+		Tooltip:
+			'''
+			Allows the use of gambler abilities
+			'+206 bones'
+			'''
+	}
+
+	DeckDog: {
+		DisplayName: Dog Gambler Deck
+		Tooltip:
+			'''
+			Allows the use of gambler abilities
+			'+1 bork'
+			'''
+	}
+
+	DeckEnchanted: {
+		DisplayName: Enchanted Gambler Deck
+		Tooltip:
+			'''
+			Allows the use of gambler abilities
+			'+15 enchantment'
+			'''
+	}
+
+	DeckJungle: {
+		DisplayName: Jungle Gambler Deck
+		Tooltip:
+			'''
+			Allows the use of gambler abilities
+			'+15 leafiness '
+			'''
+	}
+
+	DeckPirate: {
+		DisplayName: Pirate Gambler Deck
+		Tooltip:
+			'''
+			Allows the use of gambler abilities
+			'+1 parrot affinity'
+			'''
+	}
+
+	DeckRainbow: {
+		DisplayName: Rainbow Gambler Deck
+		Tooltip:
+			'''
+			Allows the use of gambler abilities
+			'+7 colorfulness'
+			'''
+	}
+
+	GamblerAttack: {
+		DisplayName: Gambler Deck
+		Tooltip: Allows the use of gambler abilities
+	}
+
+	GamblerDummy: {
+		DisplayName: Gambler Dummy Card
+		Tooltip:
+			'''
+			Allows the use of specific gambler cards
+			Right click to cycle through your deck
+			Can only deal damage to dummies
+			Utility cards may have no effect
+			'''
+	}
+
+	GamblerDummyTest: {
+		DisplayName: Gambler Test Card
+		Tooltip:
+			'''
+			Allows the use of specific gambler cards
+			Right click to cycle through your deck
+			[c/FF0000:Test Item]
+			'''
+	}
+
+	GamblerReset: {
+		DisplayName: Playing Card : RESET
+		Tooltip:
+			'''
+			Resets gambling cards
+			[c/FF0000:Test Item]
+			'''
+	}
+
+	Chip: {
+		DisplayName: Chip
+		Tooltip: ""
+	}
+
+	TiamatRelic: {
+		DisplayName: Tyche Relic
+		Tooltip: ""
+	}
+
+	VulturePotion: {
+		DisplayName: Scavenger Potion
+		Tooltip: 20% increased gambler chip generation
+	}
+
+	VultureTalon: {
+		DisplayName: Vulture Talon
+		Tooltip: ""
+	}
+
+	BrainCard: {
+		DisplayName: Playing Card : The Hivemind
+		Tooltip:
+			'''
+			Summons 3 brains around you, one of them following your cursor
+			Only one of them is real, and deals contact damage
+			Hitting randomly changes the true brain, and increases damage a lot
+			Brains cannot deal damage if they are too close to you
+			'''
+	}
+
+	BubbleCard: {
+		DisplayName: Playing Card : Bubbles
+		Tooltip:
+			'''
+			Summons bubbles, floating upwards
+			Releasing your left click causes existing bubbles to dash
+			Bubbles gain in damage over time
+			'''
+	}
+
+	DesertCard: {
+		DisplayName: Playing Card : Desert
+		Tooltip:
+			'''
+			Summons a desert bush above your head
+			Drag and release a fruit to launch it
+			'''
+	}
+
+	DetonatorCard: {
+		DisplayName: Playing Card : Detonator
+		Tooltip:
+			'''
+			Throws explosives, detonating upon releasing left click
+			Has a small delay before being able to detonate
+			'''
+	}
+
+	DungeonCard: {
+		DisplayName: Playing Card : Spirit Tear
+		Tooltip:
+			'''
+			Fires a burst of spirit bolts
+			Hitting the same target with all projectiles will rip a part of their soul
+			Picking it up will deal a large amount of damage
+			'''
+	}
+
+	EaterCard: {
+		DisplayName: Playing Card : Corrupted Nightmare
+		Tooltip:
+			'''
+			Summon a corrupted worm, following your cursor
+			Randomly releases rotten meat chunks
+			Collecting them increases the worm damage and length
+			'''
+	}
+
+	EmbersCard: {
+		DisplayName: Playing Card : Embers
+		Tooltip: Releases homing embers
+	}
+
+	EyeCard: {
+		DisplayName: Playing Card : Guardian of the Night
+		Tooltip:
+			'''
+			Summons a servant of cthulhu, dashing at your cursor
+			The servant will only attack if your cursor is far enough from its location
+			'''
+	}
+
+	ForestCard: {
+		DisplayName: Playing Card : Forest
+		Tooltip:
+			'''
+			Summons a forest bush above your head
+			Drag and release a fruit to launch it
+			'''
+	}
+
+	GoblinArmyCard: {
+		DisplayName: Playing Card : Erratic Magic
+		Tooltip:
+			'''
+			Throws a portal, firing shadow bolts at an increasing rate
+			The portal will disappear upon releasing left click or getting too far from it
+			'''
+	}
+
+	GoldChestCard: {
+		DisplayName: Playing Card : Enchantment
+		Tooltip: Releases damaging sparkles
+	}
+
+	IceChestCard: {
+		DisplayName: Playing Card : Icicle
+		Tooltip: Summons icicles, falling from the ceiling above your cursor
+	}
+
+	IvyChestCard: {
+		DisplayName: Playing Card : Deep Forest
+		Tooltip:
+			'''
+			Releases bursts of leaves, able to be pushed with the cursor
+			The further they are pushed, the more damage they deal
+			Only 3 sets of leaves can exist at once
+			'''
+	}
+
+	JungleCard: {
+		DisplayName: Playing Card : Jungle
+		Tooltip:
+			'''
+			Summons a jungle bush above your head
+			Drag and release a fruit to launch it
+			'''
+	}
+
+	JungleSlimeCard: {
+		DisplayName: Playing Card : Spiky Gelatin
+		Tooltip:
+			'''
+			Summons a bouncy jungle slime, following your cursor
+			Each successful hit increases damage, touching the ground resets it
+			'''
+	}
+
+	KingSlimeCard: {
+		DisplayName: Playing Card : Blue King
+		Tooltip:
+			'''
+			Summons a bouncy slime, following your cursor, and jumping up to it
+			Gains in damage with fall distance and enemy hits, touching on the ground resets it
+			'''
+	}
+
+	LavaSlimeCard: {
+		DisplayName: Playing Card : Living Lava
+		Tooltip:
+			'''
+			Summons a bouncy lava slime, following your cursor
+			Each successful hit increases damage, touching the ground resets it
+			Every 3 consecutive hits, the slime will release a damaging explosion
+			'''
+	}
+
+	MushroomCard: {
+		DisplayName: Playing Card : Glowing Mushroom
+		Tooltip:
+			'''
+			Summons a mushroom bush above your head
+			Drag and release a mushroom to launch it
+			Empowers once after bouncing
+			'''
+	}
+
+	OceanCard: {
+		DisplayName: Playing Card : Ocean
+		Tooltip:
+			'''
+			Summons a palm bush above your head
+			Drag and release a coconut to launch itA harsh landing will make the coconut explode
+			'''
+	}
+
+	QueenBeeCard: {
+		DisplayName: Playing Card : Poisonous Queen
+		Tooltip:
+			'''
+			Summons a bee hive, following your cursor
+			Shake it to summon bees
+			'''
+	}
+
+	SapCard: {
+		DisplayName: Playing Card : Unstable Sap
+		Tooltip:
+			'''
+			Releases a slow-moving sap bubble, following the cursor
+			Upon releasing the mouse click, the bubble will explode
+			The longer the bubble exists, the more explosion damage
+			'''
+	}
+
+	ShuffleCard: {
+		DisplayName: Playing Card : Shuffle
+		Tooltip:
+			'''
+			Randomly shoots a selection of clubs, spades, diamonds and heartz
+			Each projectile has its own properties and behaviour
+			Hold the attack button to create more projectiles and enhance their effects
+			Damage increases with the number of cards in your deck
+			'''
+	}
+
+	SkeletronCard: {
+		DisplayName: Playing Card : Curse of the Dungeon
+		Tooltip:
+			'''
+			Summons a skull, slowly following your cursor
+			Based on the distance between your cursor and it, the projectile will behave differently
+			'''
+	}
+
+	SkyCard: {
+		DisplayName: Playing Card : Sky
+		Tooltip:
+			'''
+			Summons a cloud bush above your head
+			Drag and release a fruit to launch it
+			Every third shot will release a star
+			Aim at the star to create more projectiles
+			'''
+	}
+
+	SlimeCard: {
+		DisplayName: Playing Card : Bouncy Beginnings
+		Tooltip:
+			'''
+			Summons a bouncy slime, following your cursor
+			Each successful hit increases damage, touching the ground resets it
+			'''
+	}
+
+	SlimeRainCard: {
+		DisplayName: Playing Card : Jelly Clouds
+		Tooltip:
+			'''
+			Summons a slime rain cloud, following your cursor
+			Slimes will actively chase enemies after landing
+			The longer the slimes falls, the more damage they do
+			'''
+	}
+
+	SnowCard: {
+		DisplayName: Playing Card : Snow
+		Tooltip:
+			'''
+			Summons a snow bush above your head
+			Drag and release a fruit to launch it
+			'''
+	}
+
+	BouncyChip: {
+		DisplayName: Bouncy Chip
+		Tooltip: Throws bouncy gambling chips at your foes
+	}
+
+	CopperChip: {
+		DisplayName: Copper Chip
+		Tooltip: Throws gambling chips at your foes
+	}
+
+	FossilChip: {
+		DisplayName: Fossil Chip
+		Tooltip: Throws gambling chips at your foes
+	}
+
+	GamblingChip: {
+		DisplayName: Gambling Chip
+		Tooltip: Throws gambling chips at your foes
+	}
+
+	GoldChip: {
+		DisplayName: Gold Chip
+		Tooltip: Throws gambling chips at your foes
+	}
+
+	HellChip: {
+		DisplayName: Hellfire Chip
+		Tooltip: Throws explosive chips at your foes
+	}
+
+	MeteorDetonator: {
+		DisplayName: Meteor Detonator
+		Tooltip: Timed explosions will deal double damage in a larger radius
+	}
+
+	PlatinumChip: {
+		DisplayName: Platinum Chip
+		Tooltip: Throws gambling chips at your foes
+	}
+
+	Rusalka: {
+		DisplayName: Rusalka
+		Tooltip:
+			'''
+			Sends delayed projectiles, dealing 50% more damage
+			25% chance not to consume chip
+			'''
+	}
+
+	TinChip: {
+		DisplayName: Tin Chip
+		Tooltip: Throws explosive chips at your foes
+	}
+
+	GamblingDie: {
+		DisplayName: Gambling Die
+		Tooltip: Every second gambler hit deals 1-6 increased damage
+	}
+
+	HoneyDie: {
+		DisplayName: Wax Die
+		Tooltip: Recovers 1 - 6 health on gambling critical strike
+	}
+
+	OrnateOrchid: {
+		DisplayName: Ornate Orchid
+		Tooltip: "'Great for impersonating Orchid Devs!'"
+	}
+
+	HarpyPotion: {
+		DisplayName: Cloud Burst Potion
+		Tooltip:
+			'''
+			Your first bonus jump will release a burst of damaging feathers
+			Allows you to double jump, if you cannot already
+			'''
+	}
+
+	PrototypeSecrecy: {
+		DisplayName: Prototype Secrecy
+		Tooltip:
+			'''
+			Always critically strikes while returning
+			'Great for impersonating Orchid Devs!'
+			'''
+	}
+
+	SquareMinecart: {
+		DisplayName: Square Minecart
+		Tooltip: "'Great for impersonating Orchid Devs!'"
+	}
+
+	OrchidEmblem: {
+		DisplayName: Orchid Emblem
+		Tooltip: +15% orchid damage
+	}
+
+	RCRemote: {
+		DisplayName: RC Remote
+		Tooltip: "'Highly advanced elven technology enabling control over new, recently developed non-reindeer aircraft'"
+	}
+
+	ShamanBiomeChest: {
+		DisplayName: Shroom Chest
+		Tooltip: ""
+	}
+
+	ShroomKey: {
+		DisplayName: Shroom Key
+		Tooltip: Unlocks a Shroom Chest in the dungeon
+	}
+
+	GuardianTest: {
+		DisplayName: Guardian Test
+		Tooltip:
+			'''
+			Grants infinite guardian resources
+			Shows debug visuals when visible
+			[c/FF0000:Test Item]
+			'''
+	}
+
+	EnchantedRune: {
+		DisplayName: Enchanted Rune
+		Tooltip: Summons protective enchanted sparkles
+	}
+
+	LivingRune: {
+		DisplayName: Living Rune
+		Tooltip: Summons orbiting sap bubbles
+	}
+
+	EnchantedPavise: {
+		DisplayName: Enchanted Shield
+		Tooltip: Shoots an enchanted shield blast
+	}
+
+	IronPavise: {
+		DisplayName: Iron Pavise
+		Tooltip: ""
+	}
+
+	LeadPavise: {
+		DisplayName: Lead Pavise
+		Tooltip: ""
+	}
+
+	WoodenPavise: {
+		DisplayName: Wooden Pavise
+		Tooltip: ""
+	}
+
+	GoldWarhammer: {
+		DisplayName: Gold Warhammer
+		Tooltip: ""
+	}
+
+	PlatinumWarhammer: {
+		DisplayName: Platinum Warhammer
+		Tooltip: ""
+	}
+
+	Warhammer: {
+		DisplayName: Warhammer
+		Tooltip: Hurls a heavy hammer
+	}
+
+	CrimtaneShield: {
+		DisplayName: Scapula
+		Tooltip: Restores 10 life on block
+	}
+
+	SkywareShield: {
+		DisplayName: Skyward
+		Tooltip: Releases a burst of stars
+	}
+
+	MeteoriteShield: {
+		DisplayName: Meteorite Pavise
+		Tooltip: Burns hit enemies
+	}
+
+	NightShield: {
+		DisplayName: Styx
+		Tooltip: ""
+	}
+
+	BijouShield: {
+		DisplayName: Bijoungwall
+		Tooltip: "'Only exists to please the eye'"
+	}
+
+	AdamantiteShield: {
+		DisplayName: Adamantite Pavise
+		Tooltip: ""
+	}
+
+	HallowedShield: {
+		DisplayName: Svalinn
+		Tooltip: Releases lingering sparks of hallowed light
+	}
+
+	TitaniumShield: {
+		DisplayName: Titanium Aegis
+		Tooltip: Blocking or counterattacking generates a barrier of titanium shards
+	}
+
+	ChlorophyteShield: {
+		DisplayName: Chlorophyte Pavise
+		Tooltip: Shoots spore clouds
+	}
+
+	SpectreShield: {
+		DisplayName: Spectre Pavise
+		Tooltip: Releases homing souls when blocking projectiles
+	}
+
+	BambooWarhammer: {
+		DisplayName: Bamboo Mallet
+		Tooltip: ""
+	}
+
+	DesertWarhammer: {
+		DisplayName: Fossil Warhammer
+		Tooltip: Scatters bone fragments on impact
+	}
+
+	CrimsonWarhammer: {
+		DisplayName: Heartbeat
+		Tooltip: Restores life on hit
+	}
+
+	JungleWarhammer: {
+		DisplayName: Ivy Cudgel
+		Tooltip: Releases sharp leaves on impact
+	}
+
+	HellWarhammer: {
+		DisplayName: Grond
+		Tooltip: Explodes on full charge
+	}
+
+	PirateWarhammer: {
+		DisplayName: Gangway Gavel
+		Tooltip: Instantly charges on hit
+	}
+
+	ChlorophyteWarhammer: {
+		DisplayName: Chlorophyte Gavel
+		Tooltip: Shoots spore clouds
+	}
+
+	TempleWarhammer: {
+		DisplayName: Warrh'Amahr
+		Tooltip: Releases homing sparks
+	}
+
+	BeeRune: {
+		DisplayName: Queen's Rune
+		Tooltip: Releases bees at nearby foes
+	}
+
+	HellRune: {
+		DisplayName: Surtr's Sigil
+		Tooltip: Summons horizontally-moving fireballs
+	}
+
+	RuneRune: {
+		DisplayName: Runefire Rune
+		Tooltip: Summons runic fireballs
+	}
+
+	FrostRune: {
+		DisplayName: Ornament Rune
+		Tooltip: Summons a circle of ornaments
+	}
+
+	EmpressRune: {
+		DisplayName: Constellation
+		Tooltip: Summons a constellation of sparkles
+	}
+
+	GuardianBambooHead: {
+		DisplayName: Bamboo Helmet
+		Tooltip:
+			'''
+			Slowly regenerates guards over time
+			Enemies are more likely to target you
+			'''
+		SetBonus: Consuming guards or slams increases defense by 50%
+	}
+
+	GuardianBambooChest: {
+		DisplayName: Bamboo Chestplate
+		Tooltip:
+			'''
+			Slowly regenerates guards and slams over time
+			Increases maximum guards by 1
+			'''
+	}
+
+	GuardianBambooLegs: {
+		DisplayName: Bamboo Legguards
+		Tooltip:
+			'''
+			Slowly regenerates slams over time
+			Increases maximum slams by 1
+			'''
+	}
+
+	GuardianMeteoriteChest: {
+		DisplayName: Meteor Warden Chestplate
+		Tooltip:
+			'''
+			5% increased opposing damage
+			Increases maximum slams by 1
+			Enemies are more likely to target you
+			'''
+	}
+
+	GuardianMeteoriteHead: {
+		DisplayName: Meteor Warden Helmet
+		Tooltip:
+			'''
+			5% increased opposing damage
+			Increases maximum guards by 1
+			'''
+		SetBonus: 50% chance for blocks and parries to grant an additional slam
+	}
+
+	GuardianMeteoriteLegs: {
+		DisplayName: Meteor Warden Boots
+		Tooltip:
+			'''
+			10% increased melee speed
+			10% increased movement speed
+			'''
+	}
+
+	GuardianEmpressChest: {
+		DisplayName: Dawn Valkyrie Mail
+		Tooltip:
+			'''
+			Increases maximum slams by 2 and regenerates slams over time
+			25% increased melee speed
+			'''
+		SetBonus:
+			'''
+			Greatly increases rune projectile quantity and standard range
+			50% increased rune and standard duration
+			'''
+	}
+
+	GuardianEmpressChestAlt: {
+		DisplayName: Dawn Warden Plate
+		Tooltip:
+			'''
+			Increases maximum guards by 2 and regenerates guards over time
+			Enemies are more likely to target you
+			'''
+		SetBonus:
+			'''
+			100% increased damage resistance while holding a pavise or gauntlets
+			Enemies are significantly more likely to target you
+			'''
+	}
+
+	GuardianEmpressHead: {
+		DisplayName: Dawnlight Circlet
+		Tooltip:
+			'''
+			12% increased opposing damage
+			Increases maximum guards and slams by 1
+			Enemies are more likely to target you
+			'''
+	}
+
+	GuardianEmpressLegs: {
+		DisplayName: Dawnlight Talaria
+		Tooltip:
+			'''
+			10% increased opposing damage
+			15% increased movement speed
+			Enemies are more likely to target you
+			'''
+	}
+
+	GuardianAdamantiteHead: {
+		DisplayName: Adamantite Visor
+		Tooltip:
+			'''
+			12% increased opposing damage and critical strike chance
+			Increases maximum guards by 2
+			Enemies are more likely to target you
+			'''
+		SetBonus: Regenerates guards over time
+	}
+
+	GuardianTitaniumHead: {
+		DisplayName: Titanium Greathelm
+		Tooltip:
+			'''
+			15% increased opposing damage and 8% increased opposing critical strike chance
+			Increases maximum guards and slams by 1
+			Enemies are more likely to target you
+			'''
+	}
+
+	GuardianHallowedHead: {
+		DisplayName: Hallowed Greathelm
+		Tooltip:
+			'''
+			12% increased opposing damage and critical strike chance
+			Increases maximum guards and slams by 2
+			Enemies are more likely to target you
+			'''
+	}
+
+	GuardianChlorophyteHead: {
+		DisplayName: Chlorophyte Greathelm
+		Tooltip:
+			'''
+			16% increased opposing damage and melee speed
+			Increases maximum guards and slams by 2
+			Enemies are more likely to target you
+			'''
+	}
+
+	GuardianEmpressMaterial: {
+		DisplayName: Prismatic Plating
+		Tooltip: "'Extremely light'"
+	}
+
+	GoblinSpike: {
+		DisplayName: Goblin Shield Spike
+		Tooltip: Deals 100% of your defense as opposing damage to blocked enemies
+	}
+
+	GuardianEmblem: {
+		DisplayName: Guardian Emblem
+		Tooltip: 15% increased opposing damage
+	}
+
+	DungeonSpike: {
+		DisplayName: Spouting Shield Spike
+		Tooltip:
+			'''
+			Deals 150% of your defense as opposing damage to blocked enemies
+			Blocking projectiles releases a water bolt, dealing your shield spike damage
+			'''
+	}
+
+	MechanicalSpike: {
+		DisplayName: Mechanical Shield Spike
+		Tooltip:
+			'''
+			Deals 200% of your defense as opposing damage to blocked enemies
+			Blocking projectiles fires lasers at nearby enemies, dealing your shield spike damage
+			15% increased opposing damage for 10 seconds after a successful block
+			'''
+	}
+
+	TempleSpike: {
+		DisplayName: Lihzahrd Shield Spike
+		Tooltip:
+			'''
+			Deals 200% of your defense as opposing damage to blocked enemies
+			Blocking projectiles unleashes a deadly sun laser, dealing your shield spike damage
+			15% increased opposing damage for 10 seconds after a successful block
+			10% increased opposing critical strike chance 
+			'''
+	}
+
+	Skateboard: {
+		DisplayName: Skateboard
+		Tooltip:
+			'''
+			Block downwards while falling to skate on the ground
+			Slam enemies downwards to launch yourself in the air
+			'''
+	}
+
+	DemoniteShield: {
+		DisplayName: Veil of Night
+		Tooltip: Slams release a dark spirit
+	}
+
+	CorruptionWarhammer: {
+		DisplayName: Soul Crusher
+		Tooltip: ""
+	}
+
+	GuideShield: {
+		DisplayName: Guide to Shield Surfing
+		Tooltip: Allows cancelling fall damage by blocking the ground
+	}
+
+	GuideShieldBounce: {
+		DisplayName: Guide to Shield Bouncing
+		Tooltip: Allows bouncing by blocking the ground
+	}
+
+	GuardianCobaltHead: {
+		DisplayName: Cobalt Kabuto
+		Tooltip:
+			'''
+			15% increased movement and melee speed
+			Increases maximum slams by 2
+			Enemies are more likely to target you
+			'''
+		SetBonus: Quickly regenerates slams over time
+	}
+
+	GuardianMythrilHead: {
+		DisplayName: Mythril Greathelm
+		Tooltip:
+			'''
+			10% increased opposing damage and critical strike chance
+			Increases maximum guards and slams by 1
+			Enemies are more likely to target you
+			'''
+		SetBonus: 10% increased opposing critical strike chance
+	}
+
+	GuardianOrichalcumHead: {
+		DisplayName: Orichalcum Greathelm
+		Tooltip:
+			'''
+			18% increased opposing critical strike chance and melee speed
+			Increases maximum guards and slams by 1
+			Enemies are more likely to target you
+			'''
+	}
+
+	GuardianPalladiumHead: {
+		DisplayName: Palladium Greathelm
+		Tooltip:
+			'''
+			16% increased opposing damage
+			Increases maximum guards and slams by 1
+			Enemies are more likely to target you
+			'''
+	}
+
+	GoblinRune: {
+		DisplayName: Goblin Runebark
+		Tooltip: Summons erratic shadowflames to protect you
+	}
+
+	GuardianGitHelm: {
+		DisplayName: Gud Knight Helmet
+		Tooltip:
+			'''
+			Increases maximum guards and slams by 1
+			Can be paired with ore armor
+			Enemies are more likely to target you
+			'''
+		SetBonus: Increases movement speed after blocking or parrying
+	}
+
+	GuardianRunePotion: {
+		DisplayName: Runic Potion
+		Tooltip: Increases the number of guardian rune projectiles
+	}
+
+	GuardianHoneyPotion: {
+		DisplayName: Sweetguard Potion
+		Tooltip: Restores life on block or parry
+	}
+
+	Guard: {
+		DisplayName: Guard
+		Tooltip: ""
+	}
+
+	SilverGauntlet: {
+		DisplayName: Silver Gauntlets
+		Tooltip: ""
+	}
+
+	TungstenGauntlet: {
+		DisplayName: Tungsten Gauntlets
+		Tooltip: ""
+	}
+
+	JungleGauntlet: {
+		DisplayName: Grass Knuckles
+		Tooltip:
+			'''
+			Charged punches poison enemies
+			Parrying massively increases melee speed for a short time
+			'''
+	}
+
+	SpiderGauntlet: {
+		DisplayName: Touch of Death
+		Tooltip: Launches fangs after a parry
+	}
+
+	MechanicalGauntlet: {
+		DisplayName: Iron Fist
+		Tooltip:
+			'''
+			Press UP or DOWN to control descent while charging
+			Fully charge or counterattack to rocket punch
+			'''
+	}
+
+	NanitesGauntlet: {
+		DisplayName: Cybernetic Strongarm
+		Tooltip:
+			'''
+			Drastically improves movement capabilities when held
+			Restores life on hit and parry
+			'Nanomachines, Son!'
+			'''
+	}
+
+	IceStandard: {
+		DisplayName: Frozen Tirade
+		Tooltip:
+			'''
+			Fully charging continuously slows nearby enemies
+			When reinforced, grants 20% increased damage resistance
+			'''
+	}
+
+	CopperStandard: {
+		DisplayName: Copper Standard
+		Tooltip:
+			'''
+			Fully charging increases defense by 4
+			When reinforced, increases maximum guards by 1 and regenerates guards over time
+			'''
+	}
+
+	TinStandard: {
+		DisplayName: Tin Standard
+		Tooltip: "{$Items.CopperStandard.Tooltip}"
+	}
+
+	PirateStandard: {
+		DisplayName: Jolly Roger
+		Tooltip:
+			'''
+			Fully charging causes nearby enemies to drop more money on death
+			When reinforced, increases your opposing damage by 10%
+			'''
+	}
+
+	PlanteraStandard: {
+		DisplayName: Petal Pennant
+		Tooltip:
+			'''
+			Fully charging increases maximum life by 50
+			When reinforced, drastically increases life regeneration at low life
+			'''
+	}
+
+	DesertStandard: {
+		DisplayName: Blitz Banner
+		Tooltip:
+			'''
+			Fully charging increases movement speed by 15%
+			When reinforced, charged hits and slams cause chain lightning between enemies in range
+			'''
+	}
+
+	PaladinGauntlet: {
+		DisplayName: Tyr's Hand
+		Tooltip:
+			'''
+			Charged punches release homing shards of light
+			Parries improve non-charged punches
+			'''
+	}
+
+	CobaltGauntlet: {
+		DisplayName: Cobalt Tekko
+		Tooltip: ""
+	}
+
+	PalladiumGauntlet: {
+		DisplayName: Palladium Gauntlets
+		Tooltip: While above 90% life, can consume life to parry
+	}
+
+	MythrilWarhammer: {
+		DisplayName: Mythril Warhammer
+		Tooltip: ""
+	}
+
+	OrichalcumWarhammer: {
+		DisplayName: Orichalcum Warhammer
+		Tooltip: Light and bouncy
+	}
+
+	BadgeBattlesPast: {
+		DisplayName: Badge of Battles Past
+		Tooltip: Opposing damage continuously increases while blocking with a pavise
+	}
+
+	ColossalWormTooth: {
+		DisplayName: Colossal Worm Tooth
+		Tooltip: Players affected by your standards gain 5% increased damage
+	}
+
+	TerrifyingMonsterFang: {
+		DisplayName: Terrifying Monster Fang
+		Tooltip: Players affected by your standards gain life regeneration
+	}
+
+	MoonLordRune: {
+		DisplayName: Moon Rune
+		Tooltip: Summons otherworldly portals to protect you
+	}
+
+	HorizonFragment: {
+		DisplayName: Horizon Fragment
+		Tooltip: "'Vastness beyond comprehension lies within this fragment'"
+	}
+
+	HorizonShield: {
+		DisplayName: Terminus
+		Tooltip:
+			'''
+			Releases homing bolts of energy
+			Counterattacking after a block launches an empowered bolt
+			'Your enemies' vanishing point'
+			'''
+	}
+
+	HorizonLance: {
+		DisplayName: Horizon Firmament
+		Tooltip:
+			'''
+			Fully charging unleashes a damaging aurora
+			When reinforced, greatly increases life regeneration
+			Parrying restores 10% of defense as life
+			'The fine line between the heavens and the world below'
+			'''
+	}
+
+	MoonLordShield: {
+		DisplayName: Sickflip
+		Tooltip:
+			'''
+			Block downwards in the air to skate
+			Slam to do cool tricks
+			'''
+	}
+
+	GuardianBuffStation: {
+		DisplayName: Spinning Dummy
+		Tooltip: Increases maximum slams
+	}
+
+	EmpressPlateChest: {
+		DisplayName: Ancient Dawnlight Chestplate
+		Tooltip: ""
+	}
+
+	EmpressPlateHead: {
+		DisplayName: Ancient Dawnlight Helmet
+		Tooltip: ""
+	}
+
+	EmpressPlateLegs: {
+		DisplayName: Ancient Dawnlight Leggings
+		Tooltip: ""
+	}
+
+	HorizonDye: {
+		DisplayName: Horizon Dye
+		Tooltip: ""
+	}
+
+	GuardianHorizonChest: {
+		DisplayName: Horizon Breastplate
+		Tooltip:
+			'''
+			25% increased damage resistance, opposing damage and melee speed
+			Increases max life by 100
+			'''
+	}
+
+	GuardianHorizonHead: {
+		DisplayName: Horizon Greathelm
+		Tooltip:
+			'''
+			15% increased damage resistance, opposing damage and critical strike chance
+			Enemies are significantly more likely to target you
+			'''
+		SetBonus: While above 50% life, consume life instead of guards or slams
+	}
+
+	GuardianHorizonLegs: {
+		DisplayName: Horizon Leggings
+		Tooltip:
+			'''
+			20% increased damage resistance, movement and melee speed
+			Increases maximum guards and slams by 3
+			'''
+	}
+
+	SageOwl: {
+		DisplayName: Starry Owl Idol
+		LeftClick: Shoots a barrage of feathers
+		RightClick: Marks enemies below you, increasing damage taken by 3
+		Jump: Jump to dash up to twice and hover, increasing attack speed
+		Passive: Increases night vision
+		Tooltip: Transforms you into a Starry Owl, gaining unique abilities
+	}
+
+	WardenTortoise: {
+		DisplayName: Snapjaw Idol
+		LeftClick: Snaps your jaws, reinforced after negating damage
+		RightClick: Go into your shell, negating incoming damage
+		Jump: Cannot jump, gains a burst of movement speed instead
+		Passive: Damage taken reduced by 20%
+		Tooltip: Transforms you into a Snapjaw, gaining unique abilities
+	}
+
+	PredatorIceFox: {
+		DisplayName: Ice Fox Statuette
+		LeftClick: Conjures up to 3 foxfire flames
+		RightClick: Can periodically become ethereal, damaging enemies you pass through
+		Jump: Can periodically blink by double-jumping, conjuring 3 foxfire flames
+		Passive: Shapeshifting in and out gives decaying movement speed
+		Tooltip: Transforms you into a Fox spirit, gaining unique abilities
+	}
+
+	PredatorHarpy: {
+		DisplayName: Harpy Effigy
+		LeftClick: Shoots razor sharp feathers, ignoring some enemy defense
+		RightClick: Dashes horizontally, releasing a barrage of feathers
+		Jump: Can jump three additional times
+		Passive: Every jump or dash improves your next attack
+		Tooltip: Transforms you into a Harpy, gaining unique abilities
+	}
+
+	PredatorFossil: {
+		DisplayName: Raptor Statuette
+		LeftClick: A vicious bite, applying a stacking bleed
+		RightClick: Dashes, latching onto hit targets for increased attack speed
+		Jump: Can jump off of latched targets, gouging hit enemies
+		Passive: Reduced fall damage
+		Tooltip: Transforms you into a Bone Raptor, gaining unique abilities
+	}
+
+	PredatorUndine: {
+		DisplayName: Undine Statuette
+		LeftClick: Slashes, granting 'tide' for up to 100% bonus critical strike chance
+		RightClick: Releases all 'tide', 200% of excess critical strike chance increases damage
+		Jump: Can jump two additional times, uses 5 'tide' instead of taking damage
+		Passive: Skill critical strikes briefly grant up to 50% melee and movement speed
+		Tooltip: Transforms you into an Undine, gaining unique abilities
+	}
+
+	PredatorGoblin: {
+		DisplayName: Barghest Idol
+		LeftClick: A ferocious bite, generating energy on hit and kill
+		RightClick: Unleashes a series of shadowflame slashes, only usable at full energy
+		Jump: Can jump an additional time, leaping forwards
+		Passive: Stay immobile to enter stealth, reducing aggro and insantly filling energy
+		Tooltip: Transforms you into a Barghest, gaining unique abilities
+	}
+
+	SageBee: {
+		DisplayName: Bee Effigy
+		LeftClick: Fires barbed stingers, continuously damaging hit enemies
+		RightClick: Releases a swarm of bees, made larger by the amount of stingers
+		Jump: Jump to dash in the direction of your movement
+		Passive: Shapeshifting in and out covers nearby players in honey
+		Tooltip: Transforms you into a Bee, gaining unique abilities
+	}
+
+	SageImp: {
+		DisplayName: Imp Effigy
+		LeftClick: Shoots fireballs, reinforced when crossing a wall of fire
+		RightClick: Creates a wall of fire, damaging enemies that cross it
+		Jump: Jump to rapidly blink in the direction of your movement
+		Passive: Nearby enemy deaths increase your next 3 attacks speed
+		Tooltip: Transforms you into an Imp, gaining unique abilities
+	}
+
+	SageCorruption: {
+		DisplayName: Corruptor Effigy
+		LeftClick: Rains vile bolts, charging to gain in fire rate over time
+		RightClick: Blasts enemies and yourself away, stronger based on attack charge
+		Jump: Jump to dash, before being able to float for a few seconds
+		Passive: Nearby enemies splatter on death, dealing damage in an area
+		Tooltip: Transforms you into an Corruptor, gaining unique abilities
+	}
+
+	SageCrimson: {
+		DisplayName: Crimera Effigy
+		LeftClick: Rains crimson bolts, charging to gain in fire rate over time
+		RightClick: Blasts enemies and yourself away, stronger based on attack charge
+		Jump: Jump to dash, before being able to float for a few seconds
+		Passive: Nearby enemies splatter on death, dealing damage in an area
+		Tooltip: Transforms you into a Crimera, gaining unique abilities
+	}
+
+	WardenSpider: {
+		DisplayName: Shellweb Idol
+		LeftClick: A violent bite, healing off of webbed enemies
+		RightClick: Fires a web, slowing, and allowing to execute low health enemies
+		Jump: The web can be used to pull yourself towards tiles or webs
+		Passive:
+			'''
+			Executing enemies recover health
+			The execute threshold and healing are reduced in other shapes
+			'''
+		Tooltip: Transforms you into a Shellweb Spider, gaining unique abilities
+	}
+
+	WardenSlime: {
+		DisplayName: Gelatinous Idol
+		LeftClick: Slams downward, efficiency increases with fall distance
+		RightClick: Charges a piercing slime spike
+		Jump: Left clicking while grounded charges a powerful jump
+		Passive: Receiving or inflicting damage releases chunks of healing goo
+		Tooltip: Transforms you into a Regal Slime, gaining unique abilities
+	}
+
+	WardenSalamortar: {
+		DisplayName: Salamortar Idol
+		LeftClick: Continuously shoots explosive mortar in an arc
+		RightClick: Consumes all heat to shoot a massive bomb, healing on hit
+		Jump: Builds up heat while running in a straight line, granting speed
+		Passive: Jumping into lava launches you back and grants maximum heat
+		Tooltip: Transforms you into a Salamortar, gaining unique abilities
+	}
+
+	WardenSnail: {
+		DisplayName: Shell Idol
+		LeftClick: Enters your shell, bowling through enemies at the cost of durability
+		RightClick: Throws your shell, restoring durability on hit and life on pickup
+		Jump: Increased mobility and can jump an aditional time as a slug
+		Passive: Shell durability regenerates as a slug
+		Tooltip: Transforms you into a Snail, gaining unique abilities
+	}
+
+	WardenEater: {
+		DisplayName: Man Eater Effigy
+		LeftClick: Charges a powerful bite, reinforced after consuming a fruit
+		RightClick: Shoots up to 3 fruits, ripening over time and with nearby deaths
+		Jump: Jump to bash forward, pushing enemies away and consuming ripe fruits
+		Passive: Roots to the ground, favoring plant tiles for a movement speed bonus
+		Tooltip: Transforms you into a Carnivorous Plant, gaining unique abilities
+	}
+
+	SageBat: {
+		DisplayName: Bat Idol
+		LeftClick: Charges a sound blast, dealing massive damage to echolocated enemies
+		RightClick: Emits a sound wave, echolocating hit enemies if caught on the way back
+		Jump: Can jump two additional times
+		Passive: Can hang from ceilings, regenerating life and reducing aggro
+		Tooltip: Transforms you into a Bat, gaining unique abilities
+	}
+
+	SageBatHell: {
+		DisplayName: Hellbat Idol
+		LeftClick: Charges a sound blast, while continuously damaging echolocated enemies
+		RightClick: Emits a sound wave, echolocating hit enemies if caught on the way back
+		Jump: Can jump three additional times
+		Passive: Can hang from ceilings, regenerating life and reducing aggro
+		Tooltip: Transforms you into a Hellbat, gaining unique abilities
+	}
+
+	SymbioteToad: {
+		DisplayName: Saptoad Statuette
+		LeftClick: Slaps enemies with your tongue, spawning up to 10 sapflies on hit
+		RightClick: Sapflies protect target player, up to 5 can follow you or an ally at once
+		Jump: Press UP to jump higher, reduced fall damage
+		Passive: Sapflies sacrifice themselves to provide healing after taking damage
+		Tooltip: Transforms you into a Saptoad, gaining unique abilities
+	}
+
+	ShapeshifterShampoo: {
+		DisplayName: Premium Critter Shampoo
+		Tooltip:
+			'''
+			Applies dye to wildshapes
+			'You can't help but keep it for yourself'
+			'''
+	}
+
+	ShapeshifterHairpin: {
+		DisplayName: Peculiar Hairpin
+		Tooltip: Applies your hair color to wildshapes
+	}
+
+	ShapeshifterBlankEffigy: {
+		DisplayName: Humanoid Effigy
+		Tooltip: Transforms you into a Human... supposedly
+	}
+
+	HorizonDrill: {
+		DisplayName: Horizon Drill
+		Tooltip: ""
+	}
+
+	HorizonPickaxe: {
+		DisplayName: Horizon Pickaxe
+		Tooltip: ""
+	}
+
+	HorizonHamaxe: {
+		DisplayName: Horizon Hamaxe
+		Tooltip: ""
+	}
+
+	CactusGauntlet: {
+		DisplayName: Cactus Gauntlets
+		Tooltip: Attackers take damage on parry
+	}
+
+	Quarterstaff: {
+		DisplayName: Quarterstaff
+		Tooltip: ""
+	}
+
+	HellboneMaterial: {
+		DisplayName: Cremains
+		Tooltip: Used to craft some spooky stuff (but not yet!)
+	}
+
+	ThoriumLeafShield: {
+		DisplayName: Ghillie Cover
+		Tooltip: Breaks into sharp leaves on contact
+	}
+
+	BambooQuarterstaff: {
+		DisplayName: Bamboo Pole
+		Tooltip: ""
+	}
+
+	DungeonQuarterstaff: {
+		DisplayName: Parted Seas
+		Tooltip: Shoots bolts of water when swung
+	}
+
+	CorruptionQuarterstaff: {
+		DisplayName: Wicked Fang
+		Tooltip: ""
+	}
+
+	CrimsonQuarterstaff: {
+		DisplayName: Ricket
+		Tooltip: ""
+	}
+
+	ShardQuarterstaff: {
+		DisplayName: Harmony
+		Tooltip: Counterattacks confuse and conjure a damaging duality
+	}
+
+	ThoriumDarksteelGauntlet: {
+		DisplayName: Hands of God
+		Tooltip:
+			'''
+			Charge speed and range scales with defense
+			'A strong man once slaughtered Cthulhu with his fists'
+			'''
+	}
+
+	HockeyQuarterstaff: {
+		DisplayName: Ultra Pro 9000X
+		Tooltip:
+			'''
+			Fully charging turns struck enemies into projectiles
+			'The high-accuracy stick of hockey champions'
+			'''
+	}
+
+	ThoriumStarScouterStandard: {
+		DisplayName: Stellar Stele
+		Tooltip:
+			'''
+			Fully charging repels nearby enemies when they attack allies
+			When reinforced, double tap any direction to warp
+			Warping consumes a guard and grants a slam
+			'''
+	}
+
+	MartianWarhammer: {
+		DisplayName: Kinetic Impact Driver
+		Tooltip: Instantly charges on hit
+	}
+
+	HallowedQuarterstaff: {
+		DisplayName: Hallowed Quarterstaff
+		Tooltip: ""
+	}
+
+	DancerHallowedHead: {
+		DisplayName: Hallowed Masque
+		Tooltip: To be continued..?
+	}
+
+	NeoAncientHallowedPlateMail: {
+		DisplayName: Neo-Ancient Hallowed Plate Mail
+		Tooltip:
+			'''
+			'The future's past'
+			'Great for impersonating Orchid Devs!'
+			'''
+	}
+
+	GuardianAncientHallowedHead: {
+		DisplayName: Ancient Hallowed Greathelm
+		Tooltip: "{$Items.GuardianHallowedHead.Tooltip}"
+	}
+
+	ThoriumGraniteGauntlet: {
+		DisplayName: Granite Feedbacker
+		Tooltip:
+			'''
+			Slam projectiles or rapidly approaching enemies to deflect them
+			Deflecting consumes a guard and grants a slam
+			'''
+	}
+
+	ThoriumThorsHammerWarhammer: {
+		DisplayName: Thor's Hammer: Opposing
+		Tooltip: ""
+	}
+
+	ThoriumAquaiteQuarterstaff: {
+		DisplayName: Wave Breaker
+		Tooltip: Jab is replaced by a powerful sweep
+	}
+
+	DukeGauntlet: {
+		DisplayName: Duke Gauntlet
+		Tooltip: ""
+	}
+
+	TrashPavise: {
+		DisplayName: Trash Lid
+		Tooltip: ""
+	}
+
+	JewelerGauntlet: {
+		DisplayName: Jeweler's Gauntlets
+		Tooltip: Can be socketed by right clicking with a gem, providing various effects
+		Amethyst: "[i:Amethyst] [c/9C5ADC:Amethyst]: attacks ignore a substantial amount of enemy defense"
+		Topaz: "[i:Topaz] [c/FFBA00:Topaz]: increases the length of invincibility after a parry"
+		Sapphire: "[i:Sapphire] [c/2D6ACC:Sapphire]: allows the player to double jump"
+		Emerald: "[i:Emerald] [c/00A32E:Emerald]: allows the player to dash"
+		Ruby: "[i:Ruby] [c/D92B2B:Ruby]: greatly increases life regeneration after a parry"
+		Diamond: "[i:Diamond] [c/FFC4E1:Diamond]: emits an aura of light"
+		Amber: "[i:Amber] [c/FF8800:Amber]: recovers 50% of a guard on charged attack hits"
+		Aquamarine: "[i:ThoriumMod/Aquamarine] [c/6dffd8:Aquamarine]: increases mobility in water when held"
+		Opal: "[i:ThoriumMod/Opal] [c/ef659a:Opal]: increases nearby players resource regeneration"
+		None: No gem socketed
+	}
+
+	VerveineQuarterstaff: {
+		DisplayName: Verbena
+		Tooltip: Counterattacks release a noxious cloud
+	}
+
+	ThoriumViscountQuarterstaff: {
+		DisplayName: Pipistrelle
+		Tooltip: Counterattacks turn you into a swarm of bats, ignoring 20 defense
+	}
+
+	ThoriumThoriumQuarterstaff: {
+		DisplayName: Thorium Quarterstaff
+		Tooltip: Releases sparks on hit
+	}
+
+	SturdySlab: {
+		DisplayName: Sturdy Slab
+		Tooltip: 25% increased block and parry duration
+	}
+
+	ParryingMailFeral: {
+		DisplayName: Feral Braces
+		Tooltip:
+			'''
+			25% increased block and parry duration
+			12% increased melee speed
+			'''
+	}
+
+	ParryingMailHoly: {
+		DisplayName: Cross Cuirass
+		Tooltip:
+			'''
+			25% increased block and parry duration
+			Increases length of invincibility after parrying or taking damage
+			'''
+	}
+
+	ParryingMailMech: {
+		DisplayName: Hallowed Hauberk
+		Tooltip:
+			'''
+			25% increased parry duration and 12% increased melee speed
+			15% increased opposing damage for 10 seconds after parrying
+			Increases length of invincibility after parrying or taking damage
+			'''
+	}
+
+	ParryingMailNinja: {
+		DisplayName: Assassin's Undercovers
+		Tooltip:
+			'''
+			25% increased parry duration, 12% increased melee speed and dodge chance
+			15% increased opposing damage for 10 seconds after parrying
+			Increases length of invincibility after parrying or taking damage
+			Allows the ability to climb walls and dash
+			'''
+	}
+
+	ThoriumFeatherWarhammer: {
+		DisplayName: Warpecker
+		Tooltip: Pecks three times
+	}
+
+	GoblinDagger: {
+		DisplayName: Goblin Backup Dagger
+		Tooltip: Predator attacks apply a stacking bleed
+	}
+
+	PlantEnzymes: {
+		DisplayName: Plant Enzymes
+		Tooltip:
+			'''
+			50% increased shapeshifter healing effects
+			Enemies are more likely to target you
+			'''
+	}
+
+	DeepwaterLocket: {
+		DisplayName: Deepwater Locket
+		Tooltip:
+			'''
+			Sage attacks increase feral damage by 2%, up to 20% for each unique enemy hit
+			Stacks last 10 seconds, and their duration resets on hit
+			'''
+	}
+
+	ShapeshifterEmblem: {
+		DisplayName: Shapeshifter Emblem
+		Tooltip: 15% increased feral damage
+	}
+
+	HarnessYouxia: {
+		DisplayName: Youxia Harness
+		Tooltip: Launches 5 daggers towards enemies when shapeshifting
+	}
+
+	ShawlFeather: {
+		DisplayName: Feather Shawl
+		Tooltip:
+			'''
+			Use the 'Grapple' key to dash while shapeshifted
+			Hold the 'Grapple' key to use a hook normally
+			'''
+	}
+
+	ShawlOfTheWind: {
+		DisplayName: Shawl Of The Wind
+		Tooltip:
+			'''
+			12% increased movement speed
+			Use the 'Grapple' key to dash while shapeshifted
+			Hold the 'Grapple' key to use a hook normally
+			'''
+	}
+
+	ShawlPhoenix: {
+		DisplayName: Shawl of the Phoenix
+		Tooltip:
+			'''
+			12% increased movement speed
+			Provides 7 seconds of immunity to lava
+			Grants immunity to fire blocks
+			Reduces damage from touching lava
+			Use the 'Grapple' key to dash while shapeshifted
+			Hold the 'Grapple' key to use a hook normally
+			'''
+	}
+
+	ShapeshifterHarpyHead: {
+		DisplayName: Soaring Headband
+		Tooltip: 5% increased feral critical strike chance
+		SetBonus: Sharp feathers will fall on your target when hit from above
+	}
+
+	ShapeshifterHarpyChest: {
+		DisplayName: Soaring Chestpiece
+		Tooltip: 8% increased melee speed
+	}
+
+	ShapeshifterHarpyLegs: {
+		DisplayName: Soaring Robes
+		Tooltip: 10% increased movement speed
+	}
+
+	ShapeshifterSurvivalPotion: {
+		DisplayName: Survival Instincts Potion
+		Tooltip:
+			'''
+			Damage resistance or feral damage increased up to 15% based on missing health
+			Only works while shapeshifted
+			'''
+	}
+
+	ShapeshifterAshwoodHead: {
+		DisplayName: Pyre Hood
+		Tooltip: 10% increased feral critical strike chance
+		SetBonus:
+			'''
+			Dealing damage fuels a pyre, increasing feral damage by up to 10%
+			Taking damage consumes the pyre, damaging nearby enemies
+			'''
+	}
+
+	ShapeshifterAshwoodChest: {
+		DisplayName: Pyre Mantle
+		Tooltip: 5% increased feral damage
+	}
+
+	ShapeshifterAshwoodLegs: {
+		DisplayName: Pyre Skirt
+		Tooltip: 10% increased movement speed
+	}
+
+	GuideTorches: {
+		DisplayName: Guide to Handless Torch Handling
+		Tooltip:
+			'''
+			Allows you to place torches while shapeshifted
+			Press 'Middle Mouse' to place a torch
+			Right click to deactivate effects
+			'''
+	}
+
+	GuideTorchesInactive: {
+		DisplayName: Guide to Handless Torch Handling (Inactive)
+		Tooltip:
+			'''
+			Allows you to place torches while shapeshifted
+			Press 'Middle Mouse' to place a torch
+			Effects are currently inactive, Right click to reactivate
+			'''
+	}
+
+	ThoriumCookWarhammer: {
+		DisplayName: Meat Tenderizer
+		Tooltip: Fully charged strikes drop 'meat slabs' which grant Well Fed
+	}
+
+	GuardianCrystalNinjaHelm: {
+		DisplayName: Crystal Assassin Mask
+		Tooltip:
+			'''
+			Increases maximum guards and slams by 1
+			Dashing triggers your active parry
+			'''
+	}
+
+	ThoriumGrandThunderBirdWarhammer: {
+		DisplayName: Stormbreaker
+		Tooltip:
+			'''
+			Conducts electricity to nearby enemies, charging faster with each connection
+			Struck enemies become more conductive
+			'''
+	}
+
+	ThoriumBronzeShield: {
+		DisplayName: Bronze Scutum
+		Tooltip:
+			'''
+			Sacrifice acceleration and nullify guard regeneration while blocking to protect nearby allies
+			Nullified guard regeneration is converted into a damage bonus on the next slam
+			'''
+	}
+
+	SpectreQuarterstaff: {
+		DisplayName: Ghostly Glaive
+		Tooltip:
+			'''
+			Gradually summons wisps that will be unleashed on a counterattack
+			'Not to be confused with its ghastly counterpart'
+			'''
+	}
+
+	FlamingQuarterstaff: {
+		DisplayName: Flaming Quarterstaff
+		Tooltip: "'May the fire light your way'"
+	}
+
+	GuardianNeedle: {
+		DisplayName: Hivesteel Needle
+		Tooltip:
+			'''
+			Can bounce off of jabbed enemies, granting guard charges and increasing damage
+			Counterattacks and properls upwards after a parry
+			'''
+	}
+
+	CrystalGauntlet: {
+		DisplayName: Crystal Clashers
+		Tooltip:
+			'''
+			Stores up to 3 seconds of invincibility when guarding and extends it on parry
+			Releases defense shredding crystal shards on each parry or slam
+			'''
+	}
+
+	Slam: {
+		DisplayName: Slam
+		Tooltip: ""
+	}
+
+	GuardianRegenPotion: {
+		DisplayName: Tenacity Potion
+		Tooltip: Allows regenerating up to maximum guards and slams
+	}
+
+	HeavyChain: {
+		DisplayName: Heavy Chain
+		Tooltip: Increases warhammer swing range
+	}
+
+	HeavyChainTest: {
+		DisplayName: Heavy Chain (test)
+		Tooltip: Increases warhammer swing range more than the Heavy Chain (non-test) and is red
+	}
+
+	BeeGauntlet: {
+		DisplayName: Bumblebeaters
+		Tooltip:
+			'''
+			Press DOWN to control descent while charging
+			Releases bees on parry and slam
+			'''
+	}
+
+	MahoganyPavise: {
+		DisplayName: Rich Mahogany Pavise
+		Tooltip: ""
+	}
+
+	BorealQuarterstaff: {
+		DisplayName: Boreal Wood Quarterstaff
+		Tooltip: ""
+	}
+
+	ShadewoodWarhammer: {
+		DisplayName: Shadewood Warhammer
+		Tooltip: ""
+	}
+
+	EbonwoodWarhammer: {
+		DisplayName: Ebonwood Warhammer
+		Tooltip: ""
+	}
+
+	PearlwoodPavise: {
+		DisplayName: Pearlwood Pavise
+		Tooltip: ""
+	}
+
+	AshWoodPavise: {
+		DisplayName: Ash Wood Pavise
+		Tooltip: ""
+	}
+
+	ThoriumIllusionistPavise: {
+		DisplayName: Reflection
+		Tooltip: Reflects blocked projectiles
+	}
+
+	ThoriumYewGauntlet: {
+		DisplayName: Goblin War Claw
+		Tooltip: Fully charge to fire a grappling claw
+		PullOnKill: Pulls on kill, Right click to deactivate
+		NoPullOnKill: Does not pull on kill, Right click to activate
+	}
+
+	ThoriumEvergreenWoodQuarterstaff: {
+		DisplayName: Evergreen Wood Quarterstaff
+		Tooltip: ""
+	}
+
+	ThoriumDeadwoodGauntlet: {
+		DisplayName: Deadwood Gauntlet
+		Tooltip: ""
+	}
+
+	GlowingMushroomGauntlet: {
+		DisplayName: Fistipuffs
+		Tooltip: Fully charge to release damaging spores
+	}
+
+	StaffRocketYellow: {
+		DisplayName: Yellow Staff-Mounted Propulsion System
+		Tooltip:
+			'''
+			Left click while parrying with a quarterstaff to dash
+			Costs 1 slam
+			'''
+	}
+
+	StaffRocketRed: {
+		DisplayName: Red Staff-Mounted Propulsion System
+		Tooltip:
+			'''
+			Left click while parrying with a quarterstaff to dash
+			Costs 1 slam
+			'''
+	}
+
+	StaffRocketGreen: {
+		DisplayName: Green Staff-Mounted Propulsion System
+		Tooltip:
+			'''
+			Left click while parrying with a quarterstaff to dash
+			Costs 1 slam
+			'''
+	}
+
+	StaffRocketBlue: {
+		DisplayName: Blue Staff-Mounted Propulsion System
+		Tooltip:
+			'''
+			Left click while parrying with a quarterstaff to dash
+			Costs 1 slam
+			'''
+	}
+
+	PumpkingWarhammer: {
+		DisplayName: Grim Harvester
+		Tooltip:
+			'''
+			Blocking costs 3 slams, and the scythe logdes itself in the first enemy hit
+			Grants guards after a delay, or when the afflicted enemy dies
+			Charged throw hits increase the amount of guards granted by the effect
+			'''
+	}
+
+	PresentQuarterstaff: {
+		DisplayName: Colossal Candy Cane
+		Tooltip: ""
+	}
+
+	SurfaceFireShamanWeapon: {
+		DisplayName: Willow Wisp
+		Tooltip:
+			'''
+			Conjures a spread of delayed wisps
+			[c/FF0000:Test Item]
+			'''
+	}
+}
+
+NPCs: {
+	BoundChemist.DisplayName: Bound Chemist
+
+	Chemist: {
+		DisplayName: Chemist
+		Bestiary: The Chemist loves to share her passion and supplies with anyone willing to give alchemy a try. Suprisingly, she never turned into a slime. Yet.
+
+		Names: {
+			1: Elodie
+			2: Annick
+			3: Samantha
+			4: Ambre
+			5: Maeva
+			6: Florianne
+			7: Juliette
+			8: Chloe
+			9: Amandine
+			10: Alicia
+		}
+
+		TownNPCMood: {
+			Content: This is a neat place to experiment in!
+			NoHome: If only I could get a place to setup my lab...
+			FarFromHome: I hope my lab is alright at home...
+			LoveSpace: Chemistry is amazing with this place! Got it?
+			DislikeCrowded: There are so many people around, it's distracting me.
+			HateCrowded: How am I supposed to experiment in such a crowded place?
+			LoveBiome: "{BiomeName} is a nice place to find ingredients."
+			LikeBiome: "{BiomeName} is awesome! So many cool things to toy, uh, experiment with!"
+			DislikeBiome: "{BiomeName} is hot and dry. I'm glad I piled up on ingredients already."
+			HateBiome: "{BiomeName} reminds me of when you found me. What a dreadful experience..."
+			LoveNPC: "{NPCName} knows so much reagents! She's been helping me a ton."
+			LikeNPC: "{NPCName} is a cool dude, I didn't expect him to like chemistry."
+			DislikeNPC: I sure hope {NPCName} doesn't blow my lab up again...
+			HateNPC: "{NPCName} keeps pestering me about creating new weapons, can't he leave me alone?"
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+
+		UI: {
+			RHint: Reaction Hint
+			SHint: Special Hint!
+		}
+
+		Dialogues: {
+			1: Thanks, you spared me a lot of troubles right there, or... Let's not talk about it.
+			2: Want your blood donated to science? No? Then leave.
+			3: Of course you can't use normal bottles for alchemy! Give me money!
+			4: Ugh, what, you want to blow yourself up or something?
+			5: DON'T get stains on anything! I don't care if I already did!
+			6: So you're interested in alchemy AND haven't exploded yet? Impressive.
+			7: Always wear your gloves! By the way, have you seen my gloves?
+			8: You know, you can use a centrifuge for stain removal! Kind of.
+			9: You can be a catalyst for science! Or a pile of ash. Try to keep priorities.
+			10: Alchemy makes the world go around... current scientific theories purport.
+			11: Safety warning: do not drink alchemical compounds. Unless I can take notes.
+			12: Some people call me a reactionary.
+			13: Alchemy is just sublime!
+			14: Life is just one big reaction!
+			15: Undeath is just one big reaction! I don't know why the moon does that.
+			16: Do you think the moon... is made of attractite?!
+			17: The scientific method is... try until it doesn't explode!
+			18: Here's your daily recipe... note that it itself is not an ingredient.
+			19: There you go, try not to lose a hand with this one.
+			20: I didn't take the time to try that one. If I don't see you tomorrow, I'll assume it doesn't work.
+			21: And one perfectly fine recipe, completely free of charge! Or is it?
+			22: That one should work. Maybe. Possibly. I wouldn't put you in danger, would I?
+			23: If it's free, you're probably the product, you say? Naaah... please, just don't try it in the vicinity.
+			24: I need time to think about more recipes. Maybe can you go and kill a few baddies, meanwhile?
+			25: Over-exposure to my brilliant ideas may be dangerous for a trainee.
+			26: I already gave you one today, why don't you try and come up with your own recipes?
+			27: There's nothing I need you to test for me right now. Wait, what did I just say?
+			28: Since this is your first time asking, here are three hints for the price of one, along with a little gift! I'd highly advise getting your hands on a hidden reactions codex, now...
+			29: I see you found some glowing mushrooms. Did you know that you can make a pretty good thread with them? Here's the recipe.
+			30: Jungle lilies, I love these flowers! I bet you're wondering how to make them bloom ain't you? Here's the solution.
+		}
+
+		Census.SpawnCondition: Find in the main mineshaft, in the center of your world
+	}
+
+	Croupier: {
+		DisplayName: Croupier
+		Bestiary: The Croupier helps gamblers sustaining their unique way of life. He is purported so lucky, he once won by rolling a 7 on a six-sided die.
+
+		Names: {
+			1: Capone
+			2: Cadillac
+			3: Tannenbaum
+			4: Alderman
+			5: Accardo
+			6: Angelini
+			7: Bonanno
+			8: Ambrosino
+			9: D'Amico
+			10: Attanasio
+			11: Manocchio
+		}
+
+		TownNPCMood: {
+			Content: Ey, that sure is a fine place to deal with.
+			NoHome: Being homeless reminds me of darker times...
+			FarFromHome: Chief, it's not that I don't like this place, but I'd like to go back?
+			LoveSpace: If i knew i'd end up is such a cool corner, I'd have arrived earlier!
+			DislikeCrowded: Neighbors are fine and all, but y'know, that's a bit much.
+			HateCrowded: So many bystanders! Can't even ... play an honest game without being seen!
+			LoveBiome: "{BiomeName} is perfect to keep pristine cards."
+			LikeBiome: "{BiomeName} is chill, I'm down to stay."
+			DislikeBiome: "{BiomeName} is fine with me, but my cards? Not much."
+			HateBiome: The moisture in {BiomeName} air is ruining my cards!
+			LoveNPC: "{NPCName} is an amazing buddy, we play every night around a nice beer!"
+			LikeNPC: "{NPCName} is a cool girl. Chemistry reminds me of that one game..."
+			DislikeNPC: I didn't believe it, but {NPCName} taught me that goblins really CAN'T play cards.
+			HateNPC: "{NPCName} keeps pestering me about gambling, and blah, blah. why is he so nosy?"
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+
+		UI: {
+			DeckBuilding: Deck Building
+			NewDeck: Get a New Deck
+			FunnyDialogue: Eula C6 WHEN???
+			CanBeRemoved: Can be removed
+			CannotBeRemoved: Cannot be removed
+			MostExpensiveCard: "Most expensive card in deck: "
+			Return: Return
+		}
+
+		Dialogues: {
+			1: Cards turnin' your way?
+			2: I like them odds, chief. Always like them odds.
+			3: Got you covered on cards, chief. We got poker, solitaire... more poker...
+			4: Ey, chief, best bud! Since we're such great pals, could ya help with a little debt?
+			5: I'm your rear hand man.
+			6: Fate's face down. How do you wanna be dealt?
+			7: Pick a number between 1 and 86!
+			8: Not too fond of your odds, eh? Aight, go on.
+			9: You lost it already? Here chief, take your new deck.
+			10: My man, your pockets are full. You wouldn't let a brand new deck sitting on the ground, would ya?
+		}
+
+		Census.SpawnCondition: Have a gamber card ([i:OrchidMod/SapCard][i:OrchidMod/JungleSlimeCard] etc.) in your deck
+	}
+
+	DownpourElemental.DisplayName: Downpour Elemental
+}
+
+Prefixes: {
+	# Accessories
+	BrewingPrefix.DisplayName: Brewing
+	LoadedPrefix.DisplayName: Loaded
+	BlockingPrefix.DisplayName: Blocking
+	# Guardian
+	HaidexPrefix.DisplayName: Haidex
+	FlimsyPrefix.DisplayName: Flimsy
+	FeeblePrefix.DisplayName: Feeble
+	FragilePrefix.DisplayName: Fragile
+	ResolutePrefix.DisplayName: Resolute
+	StoutPrefix.DisplayName: Stout
+	UnyieldingPrefix.DisplayName: Unyielding
+	SturdyPrefix.DisplayName: Sturdy
+	SteadfastPrefix.DisplayName: Steadfast
+	ImpregnablePrefix.DisplayName: Impregnable
+	ToweringPrefix.DisplayName: Towering
+	SpartanPrefix.DisplayName: Spartan
+	AngelicPrefix.DisplayName: Angelic
+	HulkingPrefix.DisplayName: Hulking
+	EmpyreanPrefix.DisplayName: Empyrean
+	# Shapeshifter
+	TimidPrefix.DisplayName: Timid
+	BoarishPrefix.DisplayName: Boarish
+	MisshapenPrefix.DisplayName: Misshapen
+	EnragedPrefix.DisplayName: Enraged
+	BestialPrefix.DisplayName: Bestial
+	VoraciousPrefix.DisplayName: Voracious
+	UntamedPrefix.DisplayName: Untamed
+	FiercePrefix.DisplayName: Fierce
+	FeralPrefix.DisplayName: Feral
+	MonstrousPrefix.DisplayName: Monstrous
+	PrimalPrefix.DisplayName: Primal
+	DivinePrefix.DisplayName: Divine
+
+	Effects: {
+		AddPotency: +{0} potency
+		AddMaximumChips: +{0} maximum chips
+		AddGuard: +{0} guard
+		AddAttackSpeed: "{0:+0;-0}% attack speed"
+		AddDuration: "{0:+0;-0}% {1} duration"
+		AddDurationParry: parry
+		AddDurationBlock: block
+		AddSize: "{0:+0;-0}% size"
+		AddSpeed: "{0:+0;-0}% speed"
+	}
+}
+
+Projectiles: {
+	GenericExplosion.DisplayName: Generic Explosion
+	CroupierProjectile.DisplayName: Croupier Projectile
+	ChemistProjectile.DisplayName: Chemist Projectile
+	DownpourElementalCloudProj.DisplayName: Downpour Elemental Cloud Proj
+	DownpourElementalCloud.DisplayName: Downpour Elemental Cloud
+	RCRemoteProjectile.DisplayName: RC Remote
+	PrototypeSecrecyProjectile.DisplayName: Prototype Secrecy Projectile
+	PrototypeSecrecyHitProjectile.DisplayName: Prototype Secrecy Hit Projectile
+	EnchantedPaviseProj.DisplayName: Enchanted Shield Blast
+	LivingRuneProj.DisplayName: Sap Bubble
+	EnchantedRuneProj.DisplayName: Enchanted Spark
+	GuardianShieldAnchor.DisplayName: Pavise
+	SnowCardProjAlt.DisplayName: Snow Card Proj Alt
+	SnowCardProj.DisplayName: Snow Card Proj
+	SnowCardBase.DisplayName: Snow Card Base
+	SlimeRainCardProj2.DisplayName: Slime Rain Card Proj2
+	SlimeRainCardProj1.DisplayName: Slime Rain Card Proj1
+	SlimeCardProj.DisplayName: Slime Card Proj
+	SkyCardProjAlt.DisplayName: Sky Card Proj Alt
+	SkyCardProj.DisplayName: Sky Card Proj
+	SkyCardBase.DisplayName: Sky Card Base
+	SkeletronCardProjAlt.DisplayName: Skeletron Card Proj Alt
+	SkeletronCardProj.DisplayName: Skeletron Card Proj
+	ShuffleCardProj.DisplayName: Shuffle Card Proj
+	SapCardProjExplosion.DisplayName: Sap Card Proj Explosion
+	SapCardProj.DisplayName: Sap Card Proj
+	QueenBeeCardProj.DisplayName: Queen Bee Card Proj
+	OceanCardProj.DisplayName: Ocean Card Proj
+	OceanCardBase.DisplayName: Ocean Card Base
+	MushroomCardProj.DisplayName: Mushroom Card Proj
+	MushroomCardBase.DisplayName: Mushroom Card Base
+	LavaSlimeCardProj.DisplayName: Lava Slime Card Proj
+	KingSlimeCardProj2.DisplayName: King Slime Card Proj2
+	KingSlimeCardProj.DisplayName: King Slime Card Proj
+	JungleSlimeCardProjAlt.DisplayName: Jungle Slime Card Proj Alt
+	JungleSlimeCardProj.DisplayName: Jungle Slime Card Proj
+	JungleCardProjAlt.DisplayName: Jungle Card Proj Alt
+	JungleCardProj.DisplayName: Jungle Card Proj
+	JungleCardBase.DisplayName: Jungle Card Base
+	IvyChestCardProj.DisplayName: Ivy Chest Card Proj
+	IceChestCardProj.DisplayName: Ice Chest Card Proj
+	GoldChestCardProj.DisplayName: Gold Chest Card Proj
+	GoblinArmyCardProjAlt.DisplayName: Goblin Army Card Proj Alt
+	GoblinArmyCardProj.DisplayName: Goblin Army Card Proj
+	ForestCardProj.DisplayName: Forest Card Proj
+	ForestCardBase.DisplayName: Forest Card Base
+	EyeCardProj.DisplayName: Eye Card Proj
+	VultureCharmProj.DisplayName: Vulture Charm Proj
+	EmbersCardProj.DisplayName: Embers Card Proj
+	EaterCardProj3.DisplayName: Eater Card Proj3
+	EaterCardProj2.DisplayName: Eater Card Proj2
+	EaterCardProj1.DisplayName: Eater Card Proj1
+	DungeonCardProjAlt.DisplayName: Dungeon Card Proj Alt
+	DungeonCardProj.DisplayName: Dungeon Card Proj
+	DetonatorCardProj.DisplayName: Detonator Card Proj
+	DesertCardProjAlt.DisplayName: Desert Card Proj Alt
+	DesertCardProj.DisplayName: Desert Card Proj
+	DesertCardBase.DisplayName: Desert Card Base
+	TinChipProj.DisplayName: Tin Chip Proj
+	RusalkaProjAlt.DisplayName: Rusalka Proj Alt
+	RusalkaProj.DisplayName: Rusalka Proj
+	PlatinumChipProj.DisplayName: Platinum Chip Proj
+	MeteorDetonatorProj.DisplayName: Meteor Detonator Proj
+	HellChipProjAlt.DisplayName: Hell Chip Proj Alt
+	HellChipProj.DisplayName: Hell Chip Proj
+	GoldChipProj.DisplayName: Gold Chip Proj
+	GamblingChipProj.DisplayName: Gambling Chip Proj
+	FossilChipProj.DisplayName: Fossil Chip Proj
+	CopperChipProj.DisplayName: Copper Chip Proj
+	BouncyChipProj.DisplayName: Bouncy Chip Proj
+	BubbleCardProj.DisplayName: Bubble Card Proj
+	BrainCardProj2.DisplayName: Brain Card Proj2
+	BrainCardProj.DisplayName: Brain Card Proj
+	WaterSporeProjAlt.DisplayName: Water Spore Proj Alt
+	WaterSporeProj.DisplayName: Water Spore Proj
+	SlimeFlaskProj.DisplayName: Slime Flask Proj
+	SeafoamVialProjAlt.DisplayName: Seafoam Vial Proj Alt
+	SeafoamVialProj.DisplayName: Seafoam Vial Proj
+	IceChestFlaskProjSmall.DisplayName: Ice Chest Flask Proj Small
+	IceChestFlaskProjBig.DisplayName: Ice Chest Flask Proj Big
+	IceChestFlaskProj.DisplayName: Ice Chest Flask Proj
+	DungeonFlaskProj.DisplayName: Dungeon Flask Proj
+	BloodMoonFlaskProj.DisplayName: Blood Moon Flask Proj
+	WaterSigil.DisplayName: Water Sigil
+	NatureSigil.DisplayName: Nature Sigil
+	LightSigil.DisplayName: Light Sigil
+	FireSigil.DisplayName: Fire Sigil
+	DarkSigil.DisplayName: Dark Sigil
+	AirSigil.DisplayName: Air Sigil
+	SpiritedBubble.DisplayName: Spirited Bubble
+	SlimeBubbleLava.DisplayName: Slime Bubble Lava
+	SlimeBubble.DisplayName: Slime Bubble
+	SeafoamBubble.DisplayName: Seafoam Bubble
+	DungeonCatalystProj.DisplayName: Dungeon Catalyst Proj
+	BloomingPetal.DisplayName: Blooming Petal
+	AlchemistSlimeLava.DisplayName: Alchemist Slime Lava
+	AlchemistSlimeJungle.DisplayName: Alchemist Slime Jungle
+	AlchemistSlime.DisplayName: Alchemist Slime
+	PoisonBubble.DisplayName: Poison Bubble
+	OilBubble.DisplayName: Oil Bubble
+	LivingSapBubble.DisplayName: Living Sap Bubble
+	FlowerReactive.DisplayName: Flower Reactive
+	BloomingReactiveAlt.DisplayName: Blooming Reactive Alt
+	BloomingReactive.DisplayName: Blooming Reactive
+	AlchemistHive.DisplayName: Alchemist Hive
+	SunflowerFlaskProj4.DisplayName: Sunflower Flask Proj4
+	SunflowerFlaskProj3.DisplayName: Sunflower Flask Proj3
+	SunflowerFlaskProj2.DisplayName: Sunflower Flask Proj2
+	SunflowerFlaskProj1.DisplayName: Sunflower Flask Proj1
+	PoisonVialProjAlt.DisplayName: Poison Vial Proj Alt
+	PoisonVialProj.DisplayName: Poison Vial Proj
+	NatureSporeProjBloom.DisplayName: Nature Spore Proj Bloom
+	NatureSporeProjAlt.DisplayName: Nature Spore Proj Alt
+	NatureSporeProj.DisplayName: Nature Spore Proj
+	LivingSapVialProjAlt.DisplayName: Living Sap Vial Proj Alt
+	LivingSapVialProj.DisplayName: Living Sap Vial Proj
+	JungleLilyFlaskReaction.DisplayName: Jungle Lily Flask Reaction
+	JungleLilyFlaskProj.DisplayName: Jungle Lily Flask Proj
+	GlowingMushroomVialProjAlt2.DisplayName: Glowing Mushroom Vial Proj Alt2
+	GlowingMushroomVialProjAlt.DisplayName: Glowing Mushroom Vial Proj Alt
+	GlowingMushroomVialProj.DisplayName: Glowing Mushroom Vial Proj
+	AttractiteShurikenProj.DisplayName: Attractite Shuriken Proj
+	HellSlimeFlaskProj.DisplayName: Hell Slime Flask Proj
+	GunpowderFlaskProj.DisplayName: Gunpowder Flask Proj
+	FireSporeProjAlt.DisplayName: Fire Spore Proj Alt
+	FireSporeProj.DisplayName: Fire Spore Proj
+	EmberVialProjAlt.DisplayName: Ember Vial Proj Alt
+	EmberVialProj.DisplayName: Ember Vial Proj
+	AlchemistSmoke3.DisplayName: Alchemist Smoke3
+	AlchemistSmoke2.DisplayName: Alchemist Smoke2
+	AlchemistSmoke1.DisplayName: Alchemist Smoke1
+	AlchemistRightClick.DisplayName: Alchemist Right Click
+	AlchemistProj.DisplayName: Alchemist Proj
+	SunplateFlaskProj.DisplayName: Sunplate Flask Proj
+	ShadowChestFlaskProj.DisplayName: Shadow Chest Flask Proj
+	QueenBeeFlaskProj.DisplayName: Queen Bee Flask Proj
+	KeystoneOfTheConventProj.DisplayName: Keystone Of The Convent Proj
+	CrimsonFlaskProjAlt.DisplayName: Crimson Flask Proj Alt
+	CrimsonFlaskProj.DisplayName: Crimson Flask Proj
+	CorruptionFlaskProj.DisplayName: Corruption Flask Proj
+	CloudInAVialProj.DisplayName: Cloud In A Vial Proj
+	AirSporeProjAlt.DisplayName: Air Spore Proj Alt
+	AirSporeProj.DisplayName: Air Spore Proj
+	SkywareShieldProj.DisplayName: Skyware Bolt
+	NightShieldProj.DisplayName: Styx
+	NightShieldProjAlt.DisplayName: Styx
+	BijouShieldProj.DisplayName: Bijoungblast
+	HallowedShieldProj.DisplayName: Svalinn
+	SpectreShieldProj.DisplayName: Spectral Bolt
+	TempleWarhammerProj.DisplayName: Spark
+	BeeRuneProj.DisplayName: Bee
+	HellRuneProj.DisplayName: Sigil Fire
+	RuneRuneProj.DisplayName: Runefire
+	FrostRuneProj.DisplayName: Ornament
+	EmpressRuneProj.DisplayName: Constellation
+	WaterSpikeProj.DisplayName: Water Spike
+	WaterSpikeProjAlt.DisplayName: Water Spike
+	GoblinRuneProj.DisplayName: Chaos Fire
+	GuardianGauntletAnchor.DisplayName: Gauntlet
+	GauntletPunchProjectile.DisplayName: Punch
+	SpiderGauntletProjectile.DisplayName: Fang
+	GuardianStandardAnchor.DisplayName: Standard
+	StandardAuraProjectile.DisplayName: Standard
+	PaladinGauntletProjectile.DisplayName: Crusader Strike
+	GuardianHammerAnchor.DisplayName: Warhammer
+	GuardianRuneAnchor.DisplayName: Rune
+	MechanicalGauntletProjectile.DisplayName: Rocket Punch
+	MoonLordRuneProj.DisplayName: Otherworldly Portal
+	MoonLordRuneProjAlt.DisplayName: Moon Shot
+	HorizonShieldProj.DisplayName: Terminus
+	DesertStandardProj.DisplayName: Standard Lightning
+	ShapeshifterShapeshiftAnchor.DisplayName: Shapeshift
+	SageOwlProj.DisplayName: Feather
+	SageOwlProjAlt.DisplayName: Feather
+	WardenTortoiseProj.DisplayName: Chomp
+	PredatorIceFoxProj.DisplayName: Foxfire
+	PredatorIceFoxProjAlt.DisplayName: Foxfire
+	GuardianHorizonLanceAnchor.DisplayName: Horizon Firmament
+	GuardianHorizonLanceProj.DisplayName: Aurora
+	GuardianHorizonLanceCounter.DisplayName: Aurora Unleash
+	PredatorHarpyProj.DisplayName: Feather
+	PredatorHarpyProjAlt.DisplayName: Feather
+	SageBeeProj.DisplayName: Stinger
+	HorizonDrillProjectile.DisplayName: Horizon Drill
+	WardenSpiderProj.DisplayName: Spider Bite
+	WardenSpiderWeb.DisplayName: Web
+	SageBatProj.DisplayName: Sound Blast
+	SageBatProjAlt.DisplayName: Sound
+	GuardianQuarterstaffAnchor.DisplayName: Quarterstaff
+	ThoriumLeafShieldProj.DisplayName: Razor Leaves
+	DungeonQuarterstaffProjectile.DisplayName: Water Bolt
+	ShardQuarterstaffProjectile.DisplayName: Duality
+	OrchidTitaniumShard.DisplayName: Titanium Shard
+	ThoriumGraniteGauntletProjectile.DisplayName: Chargeback
+	TempleSpikeProj.DisplayName: Deadly Sun Laser
+	MechSpikeProj.DisplayName: Death Laser
+	VerveineFart.DisplayName: Fart
+	ThoriumAquaiteQuarterstaffProjectile.DisplayName: Wave Swirl
+	PredatorFossilProj.DisplayName: Vicious Bite
+	SageBatHellProj.DisplayName: Hellbat Fire
+	SageImpProj.DisplayName: Fireball
+	SageImpProjAlt.DisplayName: Firewall
+	WardenSlimeProj.DisplayName: Slime Slam
+	WardenSlimeProjAlt.DisplayName: Slime Spike
+	WardenSlimeProjPassive.DisplayName: Slime Goo
+	SageImpDash.DisplayName: Dash
+	WardenEaterStem.DisplayName: Stem
+	WardenEaterProjAlt.DisplayName: Eater Bud
+	WardenEaterProjAltDeath.DisplayName: Eater Light
+	WardenEaterProj.DisplayName: Eater Bite
+	SageCorruptionProj.DisplayName: Spit
+	SageCorruptionProjAlt.DisplayName: Spit
+	SageCorruptionProjBlast.DisplayName: Blast
+	SymbioteToadProj.DisplayName: Saptongue
+	SymbioteToadProjAlt.DisplayName: Sapfly
+	ShapeshifterHarpyProj.DisplayName: Soaring Feather
+	WardenSalamortarProj.DisplayName: Mortar
+	WardenSalamortarProjAlt.DisplayName: Mortar
+	WardenSalamortarProjBig.DisplayName: Massive Mortar
+	WardenSalamortarProjBigAlt.DisplayName: Massive Mortar
+	ShapeshifterAshwoodFlame.DisplayName: Ashwood Flame
+	ShapeshifterAshwoodProj.DisplayName: Ashwood Flame
+	ShapeshifterHarnessProj.DisplayName: Dagger
+	WardenSnailProj.DisplayName: Snail Shell
+	PredatorUndineProj.DisplayName: Undine Slash
+	PredatorUndineProjAlt.DisplayName: Undine Bolt
+	PredatorGoblinProj.DisplayName: Barghest Bite
+	PredatorGoblinProjAlt.DisplayName: Barghest Slash
+	PredatorGoblinProjSlash.DisplayName: Barghest Slash
+	PredatorGoblinProjResource.DisplayName: Shadowflame Energy
+	DesertWarhammerProjectile.DisplayName: Bone Fragments
+	DemoniteShieldProjectile.DisplayName: Veil of Night
+	SpectreQuarterstaffProj.DisplayName: Spectre Quarterstaff Proj
+	GuardianNeedleAnchor.DisplayName: Honeysteel Needle
+	CrystalGauntletProjectile.DisplayName: Crystal
+	StarKO.DisplayName: Star K.O.
+	ThoriumViscountQuarterstaffProjectile.DisplayName: Bat Swarm
+	ThoriumIllusionistPaviseArrow.DisplayName: Illusion
+	ThoriumIllusionistPaviseBoulder.DisplayName: Illusion
+	ThoriumIllusionistPaviseLaser.DisplayName: Illusion
+	ThoriumIllusionistPaviseStinger.DisplayName: Illusion
+	ThoriumIllusionistPaviseMagic.DisplayName: Illusion
+	ThoriumIllusionistPaviseFeather.DisplayName: Illusion
+	ThoriumIllusionistPaviseScythe.DisplayName: Illusion
+	ThoriumYewGauntletProjectile.DisplayName: Yew Grappleclaw
+	GlowingMushroomGauntletProjectile.DisplayName: Glowspores
+	StaffRocketProjectile.DisplayName: Rocket Trail
+	PumpkingWarhammerProjectile.DisplayName: Harvesting Scythe
+	SurfaceFireShamanWeaponAnchor.DisplayName: Willow Wisp
+	SurfaceFireShamanProjectile.DisplayName: Willow Wisp
+}
+
+Configs: {
+	OrchidClientConfig: {
+		DisplayName: Orchid Client Config
+
+		Headers: {
+			General: General
+			Guardian: Guardian
+			Shapeshifter: Shapeshifter
+		}
+
+		ShowClassTags: {
+			Label: Show Class Tags
+			Tooltip: Enables/Disables the display of class tags
+		}
+
+		ShowModTags: {
+			Label: Show Mod Tags
+			Tooltip: Enables/Disables the display of cross-content items tooltips (Load Crossmod-Content without required mods must be enabled in Orchid Server Config)
+		}
+
+		GuardianUseOldHammerUi: {
+			Label: Old Guardian Hammer UI
+			Tooltip: Use the old Guardian Hammer UI (Paper Mario style)
+		}
+
+		GuardianSwapPaviseImputs: {
+			Label: Swap Pavise Imputs
+			Tooltip: Swap Left and Right click inputs for Guardian Pavises
+		}
+
+		GuardianSwapGauntletImputs: {
+			Label: Swap Parry Items Imputs
+			Tooltip: Swap Left and Right click inputs for Guardian Parry Items (Gauntlets, Quarterstaves, ...)
+		}
+
+		GuardianAltChargeSounds: {
+			Label: Alternative Guardian Charge Sounds
+			Tooltip: Replaces the Sound played when fully charging a guardian item
+		}
+
+		GuardianBlockCancelChain: {
+			Label: Pavise Block Cancel Auto-re-use
+			Tooltip: If possible, automatically starts blocking again when cancelling a block with right click
+		}
+
+		ShapeshifterUseHairColor: {
+			Label: Use Hair Color for Wildshapes
+			Tooltip: Applies the 'Peculiar Hairpin' accessory effect at all times, and has it apply the default wildshape color instead. The hairpin can still be used to apply dye to wildshape hair.
+		}
+
+		ShapeshifterHookDelay: {
+			Label: Shawl Dash Hook Delay
+			Tooltip: While a 'Shawl' accessory is equipped, how long should the hook key be held (in frames) before the hook is fired.
+		}
+
+		ShapeshifterHookDashRelease: {
+			Label: Shawl Dash on release
+			Tooltip: Triggers 'Shawl' accessory dashes when releasing the hook key instead of pressing it (allowing to launch a hook without dashing)
+		}
+
+		ShapeshifterScrollDelay: {
+			Label: Shapeshifter Scroll Delay
+			Tooltip: Delay (in frames) before the player transforms in the newly selected wildshape in the hotbar while scrolling
+		}
+
+		GuardianChargeCursor: {
+			Label: Guardian Charge Visuals at Cursor
+			Tooltip: Charging up guardian weapons displays an icon near the cursor instead of above the player character
+		}
+
+		GuardianMinHoldTimer: {
+			Label: Guardian Charge Minimum Hold Timer
+			Tooltip: Minimum timer (in frames) for how long a charge input has to be held before UI appears and weapons like gauntlets can consume slams
+		}
+
+		GuardianMaxHoldTimer: {
+			Label: Guardian Charge Maximum Hold Timer
+			Tooltip: Maximum timer (in frames) for how long a charge input has to be held before UI appears and weapons like gauntlets can consume slams
+		}
+
+		GuardianGauntletAlwaysSlam: {
+			Label: Guardian Gauntlets always consume Slams
+			Tooltip: Guardian Gauntlets will always try to consume a slam charge to perform a slam, no matter how long the input has been held
+		}
+	}
+
+	OrchidServerConfig: {
+		DisplayName: Orchid Server Config
+		Headers.General: General Header
+
+		LoadCrossmodContentWithoutRequiredMods: {
+			Label: Load Crossmod-Content without required mods
+			Tooltip: Enables/Disables loading Crossmod-Content without required mods
+		}
+
+		EnableContentAlchemist: {
+			Label: Enable Alchemist Content
+			Tooltip: Allows alchemist items to be obtainable
+		}
+
+		EnableContentGambler: {
+			Label: Enable Gambler Content
+			Tooltip: Allows gambler items to be obtainable
+		}
+
+		EnableContentShapeshifter: {
+			Label: Enable Shapeshifter Content
+			Tooltip: Allows shapeshifter items to be obtainable
+		}
+	}
+}
+
+Misc: {
+	GuardianGrantsGuard: Grants {0} {^0:guard;guards} when fully charged
+	GuardianGrantsSlam: Grants {1} {^1:slam;slams} when fully charged
+	GuardianGrantsGuardSlamSame: Grants {0} {^0:guard;guards} and {^0:slam;slams} when fully charged
+	GuardianGrantsGuardSlam: Grants {0} {^0:guard;guards} and {1} {^1:slam;slams} when fully charged
+	ShapeshifterLeftClick: "[c/AFFFAF:Attack: ]"
+	ShapeshifterRightClick: "[c/AFFFAF:Skill: ]"
+	ShapeshifterJump: "[c/AFFFAF:Mobility: ]"
+	ShapeshifterPassive: "[c/AFFFAF:Passive: ]"
+	ShapeshifterNone: Other wildshape
+	ShapeshifterSymbiote: Symbiote wildshape
+	ShapeshifterSage: Sage wildshape
+	ShapeshifterPredator: Predator wildshape
+	ShapeshifterWarden: Warden wildshape
+	NewHiddenReac: New Hidden Reaction Hint
+	NoHintsLeft: No hints left for this tier
+	FailedReaction: Failed reaction
+	EntryAdded: Entry {0} added to the hidden reaction codex!
+	CurrentСard: "Current card: "
+	PlayingСard: Playing Card :
+	Crossmod: "This is a crossmod item: "
+}
+
+UI: {
+	PotionBag: {
+		ChangeState: Change state     – 'Interact' key ({0}) without item
+		PutInInventory: Put in inventory – 'Interact' key ({0}) with item
+		PullOutPotion: Pull out potion  – 'Hotbar #1-8' keys ({0}-{1})
+		PullOutPotions: Pull out potions – 'Hotbar #9' key ({0})
+		PullOutDye: Pull out dye     – 'Hotbar #10' key ({0})
+		Dye: Dye: «{0}»
+		MoreInformation: Hold 'Auto Select' key ({0}) to see more information
+		State: "State: "
+		Active: Active
+		ActiveTip: (Displayed in mixing UI)
+		NotActive: Not Active
+		NotActiveTip: (Will not be displayed in mixing UI)
+	}
+
+	AlchemistItem: {
+		Mix: Right click to mix
+		Cost: Uses {0} potency
+		Water: Water Element
+		Fire: Fire Element
+		Nature: Nature Element
+		Air: Air Element
+		Light: Light Element
+		Dark: Dark Element
+	}
+
+	GamblerItem: {
+		Requires: Requires {0} cards (Deck : {1})
+		InDeck: Currently in your deck
+		DeckIsFull: Your deck is full
+		RequiresMore: Requires more {0} cards
+		AddToDeck: Use to add to your deck
+		Sets: Sets
+		Set: Set
+		UsesChips: Uses {0} chips
+		DieDuration: "{0} seconds duration"
+		SetBiome: Biome
+		SetBoss: Boss
+		SetElemental: Elemental
+		SetSlime: Slime
+	}
+
+	GuardianItem: {
+		LeftClick: Left
+		RightClick: Right
+		ChargeToSwing: Charge to swing, {0} click to jab while charging
+		ChargeToDash: Charge to dash, {0} click to jab while charging
+		ParryDuration: "{0} second parry duration"
+		BlockDuration: "{0} second block duration"
+		Interrupted: Interrupted
+		Charged: Charged
+		Reinforced: Reinforced
+		Failed: Failed
+		Guard: "{0} {^0:guard;guards}"
+		Slam: "{0} {^0:slam;slams}"
+		Parry: "{0} click to parry"
+		ParryDash: "{0} click to parry, dashing downwards"
+		ChargeToThrow: Charge to throw, right click to swing while charging
+		UsesUpTo: Uses up to {0} slams
+		RuneDuration: "{0} second rune duration"
+		Block: "{0} click to block"
+		BuffDuration: "{0} second buff duration"
+		HorizonLaceShieldStacks: Grants 3 guards when fully charged
+		DamageOfDefense: Deals {0}% of defense as opposing damage
+	}
+
+	DanserItem: {
+		ImpactWeapon: -Impact Weapon-
+		PhaseWeapon: -Phase Weapon-
+		MomentumWeapon: -Momentum Weapon-
+	}
+
+	ReactionBook: {
+		UnknownReaction: Unknown Reaction
+		Page: Page {0}/{1}
+	}
+}
+
+DamageClasses: {
+	Alchemist: -Alchemist Class-
+	Dancer: -Dancer Class-
+	Gambler: -Gambler Class-
+	Guardian: -Guardian Class-
+	Shaman: -Shaman CLass-
+	Shapeshifter: -Shapeshifter Class-
+	AlchemistDamageClass.DisplayName: chemical damage
+	DancerDamageClass.DisplayName: poise damage
+	GamblerChipDamageClass.DisplayName: gambling damage
+	GamblerDamageClass.DisplayName: gambling damage
+
+	GuardianDamageClass: {
+		DisplayName: opposing damage
+
+		ThoriumMod_TerrariumArmorAddClassFocus: {
+			Name: Opposing Focus
+			Description: Increases maximum guards, slams, life regen and defense by 3
+		}
+	}
+
+	ShamanDamageClass.DisplayName: shamanic damage
+	ShapeshifterDamageClass.DisplayName: feral damage
+}
+
+Conditions: {
+	SlimeRain: A slime rain is active
+	GamblerSetSlime: The player has more than 2 "Slime" set cards in their deck
+	GamblerSetBoss: The player has more than 2 "Boss" set cards in their deck
+	GamblerSetBiome: The player has more than 2 "Biome" set cards in their deck
+	GamblerSetElemental: The player has more than 2 "Elemental" set cards in their deck
+	AlchemistKnownReactions4: The player knows at least 4 hidden reactions
+	DisabledThorium: Thorium mod is disabled
+	EnabledContentAlchemist: Alchemist content is enabled
+	EnableContentGambler: Gambler content is enabled
+	EnableContentShapeshifter: Shapeshifter content is enabled
+}

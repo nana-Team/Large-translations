@@ -1,0 +1,77 @@
+Tiles: {
+	MineshaftCrate.MapEntry: Mineshaft Crate
+	MineshaftHookTile.MapEntry: Mineshaft Hook
+	MineshaftPickaxeTile.MapEntry: Mineshaft Pickaxe
+	MineshaftToolboxTile.MapEntry: Mineshaft Toolbox
+	MinersLockboxTile.MapEntry: Miner's Lockbox
+	MineshaftMusicBoxTile.MapEntry: Music Box (Mineshaft)
+}
+
+Buffs: {
+	HauntedCandle: {
+		DisplayName: Haunted Candle
+		Description: Kinda unreliable
+	}
+
+	ToolSetBuff: {
+		DisplayName: Miner's Demise
+		Description: Trap damage will not be reduced
+	}
+}
+
+Items: {
+	FragileWood: {
+		DisplayName: Fragile Wood
+		Tooltip: Break when stepped on
+	}
+
+	HauntedCandle: {
+		DisplayName: Haunted Candle
+		Tooltip: Summons a strange candle to lighten up your way
+	}
+
+	MinersLockbox: {
+		DisplayName: Miners Lockbox
+		Tooltip: ""
+	}
+
+	MineshaftHook: {
+		DisplayName: Mineshaft Hook
+		Tooltip: Can only shoot upwards
+	}
+
+	MiniatureTools: {
+		DisplayName: Miniature Tools
+		Tooltip:
+			'''
+			Provides a small amount of light
+			Reduces trap damage, on a cooldown
+			'''
+	}
+
+	MineshaftPickaxe: {
+		DisplayName: Mineshaft Pickaxe
+		Tooltip: Can mine meteorite
+	}
+
+	MineshaftMusicBox: {
+		DisplayName: Music Box (Mineshaft)
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	MineshaftHookProjectile.DisplayName: Escape Rope
+	HauntedCandle.DisplayName: Haunted Candle
+}
+
+Configs: {
+	OrchidMineshaftConfig: {
+		DisplayName: Orchid Mineshaft Config
+
+		MineshaftMusic: {
+			Label: Allow Mineshaft Music
+			Tooltip: Allows the Mineshaft Music to play
+		}
+	}
+}

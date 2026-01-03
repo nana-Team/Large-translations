@@ -1,0 +1,77 @@
+Tiles: {
+	MineshaftCrate.MapEntry: Шахтёрский ящик
+	MineshaftHookTile.MapEntry: Шахтёрский крюк
+	MineshaftPickaxeTile.MapEntry: Шахтёрская кирка
+	MineshaftToolboxTile.MapEntry: Набор инструментов шахтёра
+	MinersLockboxTile.MapEntry: Шахтёрская сокровищница
+	MineshaftMusicBoxTile.MapEntry: Музыкальная шкатулка (Шахты)
+}
+
+Buffs: {
+	HauntedCandle: {
+		DisplayName: Призрачная свеча
+		Description: Не стоит на неё полагаться
+	}
+
+	ToolSetBuff: {
+		DisplayName: Шахтёрская погибель
+		Description: Урон он ловушек не будет снижен
+	}
+}
+
+Items: {
+	FragileWood: {
+		DisplayName: Хлипкая древесина
+		Tooltip: Ломается под вашим весом
+	}
+
+	HauntedCandle: {
+		DisplayName: Призрачная свеча
+		Tooltip: Призывает жутковатую свечу, освещающую вам путь
+	}
+
+	MinersLockbox: {
+		DisplayName: Шахтёрская сокровищница
+		Tooltip: ""
+	}
+
+	MineshaftHook: {
+		DisplayName: Шахтёрский крюк
+		Tooltip: Может быть брошен только вертикально вверх
+	}
+
+	MiniatureTools: {
+		DisplayName: Шкатулка с инструментами
+		Tooltip:
+			'''
+			Даёт слабенькую ауру света вокруг вас
+			Значительно снижает получаемый урон от ловушек раз в 30 секунд
+			'''
+	}
+
+	MineshaftPickaxe: {
+		DisplayName: Шахтёрская кирка
+		Tooltip: "{$ItemTooltip.GoldPickaxe}"
+	}
+
+	MineshaftMusicBox: {
+		DisplayName: Музыкальная шкатулка (Шахты)
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	MineshaftHookProjectile.DisplayName: Верёвка для побега
+	HauntedCandle.DisplayName: Призрачная свеча
+}
+
+Configs: {
+	OrchidMineshaftConfig: {
+		DisplayName: Конфигурация
+
+		MineshaftMusic: {
+			Label: Саундтрек шахт
+			Tooltip: Добавляет собственный саундтрек для шахт
+		}
+	}
+}

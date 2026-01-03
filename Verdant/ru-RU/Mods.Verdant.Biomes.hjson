@@ -1,14 +1,14 @@
 VerdantUndergroundBiome: {
-	TownNPCDialogueName: Биом цветения
-	DisplayName: Цветение
+	TownNPCDialogueName: the Verdant
+	DisplayName: Verdant Biome
 }
 
 VerdantBiome: {
-	TownNPCDialogueName: Биом цветения
-	DisplayName: Цветение
+	TownNPCDialogueName: the Verdant
+	DisplayName: Verdant Biome
 }
 
 NearApotheosisBiome: {
-	TownNPCDialogueName: рядом с Апофеозом
-	DisplayName: Рядом с Апофеозом
+	TownNPCDialogueName: near the Apotheosis
+	DisplayName: Near the Apotheosis
 }

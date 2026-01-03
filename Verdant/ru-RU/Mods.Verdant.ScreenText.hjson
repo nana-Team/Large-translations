@@ -1,176 +1,176 @@
-RightClick: Нажмите ПКМ, чтобы продолжить
+RightClick: Right click to continue
 
 Apotheosis: {
-	EoWName: Пожиратель
-	BoCName: Мозг
+	EoWName: Eater
+	BoCName: Brain
 
 	Intro: {
-		0: Здравствуй, путник.
-		1: Давненько я не видал здесь новых лиц.
-		2: Зови меня Апофеоз.
-		3: Найди нас в центре этой цветущей чащи и возможно...
-		4: ...у нас найдутся для тебя некоторые подарки, которые пригодятся тебе в будущем.
-		5: До встречи...                .
+		0: Hello, traveller.
+		1: It's been a long time since I've seen a new face.
+		2: Call me the Apotheosis.
+		3: Find us at the center of our verdant plants,
+		4: and we might have some gifts to help you along.
+		5: Farewell...                .
 	}
 
 	# Intro.5 "Farewell" line has a little extra space to fade out nicely, keep it there.
 	# Try to keep the following lines around the same length, if possible
 	
 	Greeting: {
-		0: Вдохни... выдохни...
-		1: Почувствуй цветение растений,
-		2: и возвращайся ко мне, когда победишь великое око.
-		3: Да пребудет с нами благодать и покой.
+		0: Remember to breathe,
+		1: keep the plants thriving,
+		2: and return to me once you've slain the great eye.
+		3: May we find each other in good spirits soon.
 	}
 
 	Idle: {
 		Normal: {
-			0: Я особенно горжусь этими прыгучими ростками.
-			1: Мы стремились дать приют деревьям, получилось ли?
-			2: Куда же подевалось моё перо...
-			3: «Я», «Мы» — суть едина.
-			4: Мне более нечего изречь.
-			5: Иди же, вдохни ароматы цветов.
-			6: Ступай же, друг мой...
-			7: Не встречалась ли тебе ранее змея?
-			8: До сей поры помню я ароматы цветения.
-			9: Улитки — творения недооценённые.
-			10: Весь мир — сад твой, дружище.
-			11: Не стоит медлить.
-			12: Возложи злато на траву нашу — и узришь чудо...
-			13: Временами вспоминаю я закаты...
-			14: Да будешь ты благословением в мире сем...
-			15: Странствия наполняют дух.
-			16: Внемли потоку вод и сверканию цветов...
-			17: Цени то, что у тебя есть, дитя мое.
-			18: Мы выросли вместе, не так ли?
-			19: И вправду ли я хороший садовник?
-			20: Поговорим позже, коли время будет.
-			21: Желаешь ли больше цветов? Хм-м...
-			22: Ведаешь ли ты о геенне огненной?
-			23: Как у террариума, я созерцаю. Прекрасный вид.
-			24: Неси красоту повсюду.
-			25: Тоскую по тому, как созерцал пчёл вблизи.
-			26: Чувствую твое шествие, доволен ли ты?
-			27: Танцуй, дитя моё, пляши с цветами.
-			28: Боюсь, мне почти нечего больше сказать.
-			29: Да не будет преград на пути твоём, ибо их не было и на нашем.
+			0: I'm particularly proud of those bouncy sprouts.
+			1: We seek to harbor arbour; has it worked?
+			2: Where's my quill - hm?
+			3: '''"I", "we"; it's all the same.'''
+			4: I've nothing more to add.
+			5: Go out and smell the flowers.
+			6: Run along, now.
+			7: Have you seen a snake around here?
+			8: I remember the smell of the flowers, still.
+			9: Snails are underappreciated creatures.
+			10: The world is your garden, my friend.
+			11: No need to dawdle.
+			12: Place a pile of gold upon our grass for a surprise...
+			13: Sometimes, I recall the setting sun...
+			14: Within this world, we hope you are a blessing...
+			15: Exploration fills the soul.
+			16: Focus on the water flowing, the flowers glowing...
+			17: Cherish what you have, child.
+			18: We've grown together, haven't we?
+			19: Am...am I a good gardener?
+			20: Speak with us at a later time.
+			21: Would you enjoy more flowers? Hmm...
+			22: Do you know of any volcanoes?
+			23: Like a terrarium, I observe. Lovely, beautiful.
+			24: Share beauty with all.
+			25: I miss seeing the bees up close.
+			26: I see you walk here. Do you enjoy it?
+			27: Dance when you can, child. Dance with the flowers.
+			28: I've only so little more to say, I'm afraid.
+			29: Let nothing stop you. It's not stopped us, or me.
 		}
 
 		EvilBoss: {
-			0: Да снизойдет на тебя благодать.
-			1: "{0} более не существует."
-			2: Его присутствие исчезло из заражения...
-			3: Небеса стали немного яснее.
+			0: May grace befall you.
+			1: The {0} is no more.
+			2: A presence lifted from the infestation...
+			3: A lost sky is clearer now.
 		}
 
 		Thoughts: {
-			0: ...где природа чистейшая и нетронутая...
-			1: Хм...что же предпринять...
-			2: ...борьба с вредителями...
-			3: Ах, воспоминания...
-			4: Исследование, исследование, еще раз исследование...
-			5: Листья опадают, а затем увядают...
-			6: Я расту, погружённый в думы....
-			7: В промежутке между побегом и плодом...
-			8: В единении с гармонией...
-			9: ...потерянный...
-			10: Порой я просто хочу увидеть дом.
-			11: ...что же дальше?...
-			12: Требуется больше цветов....
-			13: Пчёлы, столь вольные...
-			14: Утешение в себе самом...
+			0: ...where nature is most plain and pure...
+			1: Hmm...what to do...
+			2: ...pest control...
+			3: Ah, memories...
+			4: Research, research, research...
+			5: Leaves fall, we toil...
+			6: Wistful, I grow...
+			7: Betwixt leaf, and vine...
+			8: Unison in harmony...
+			9: ...lost...
+			10: Sometimes, I just want to see home.
+			11: ...what next?...
+			12: Needs more flowers....
+			13: The bees, so free...
+			14: Solace within myself...
 		}
 
-		EoC: Тот великий глаз был дивен, хоть и являлся угрозой.
+		EoC: That great eye was a wonder, if a threat.
 
 		Skeletron: {
-			0: Тот скелет... сбивал с толку.
-			1: Бедняга наконец обрёл свободу...
+			0: That skeleton was...a confusing one.
+			1: The poor man's freedom is obtained...
 		}
 
 		MiscBosses: {
-			KingSlime: Ах, Король слизней повержен, прекрасно...
-			QueenBee: Надеюсь жужжание пчёл тебя не утомило.
-			Scarabeus: Пески пустыни ныне спокойны.
-			MJW: Ах, помню ночи, когда виднелось сияние медуз...
-			VinewrathBane: Теперь цветы обрели покой... Спасибо...
-			AncientAvian: Небеса теперь спокойны, хорошая работа.
-			StarplateRaider: Нас манил тот светящийся механизм... Увы.
-			SirNautilus: Рыбы — такие очаровательные существа...
-			SunkenSea: Можно услышать, как волны омывают растительность...
+			KingSlime: Ah, the King of Slimes has been slain, wonderful...
+			QueenBee: Hopefully you're having a nice time with our bees.
+			Scarabeus: The desert sands feel calmer now.
+			MJW: Ah, I remember those glowing jellyfish nights...
+			VinewrathBane: The flowers feel more relaxed now. Thank you.
+			AncientAvian: The skies are more at peace now, well done.
+			StarplateRaider: We were curious about that glowing mech, but alas...
+			SirNautilus: Fish are such fascinating people...
+			SunkenSea: We can hear some waves upon the flora...
 		}
 	}
 
 	Downed: {
 		EoC: {
-			0: Глаз повержен. Благодарю.
-			1: Возьми эту безделушку. Вернись, когда одолеешь {0}.
+			0: The eye is felled. Thank you.
+			1: Take this trinket. Return to me once you've beaten the {0}.
 		}
 
 		Evil: {
-			0: Благодарю, {0} повержен...
-			1: Следующая просьба — свергни великого скелета у подземелья.
-			2: Вот кое-что из моего старого снаряжения... с некоторыми изменениями.
+			0: Our gratitude for defeating the {0}...
+			1: Our next request; fell the great skeleton near the dungeon.
+			2: Here's some of my old gear...with some changes.
 		}
 
 		Skeletron: {
-			0: Души подземелья... частично освобождены.
-			1: Ты заслужил — возьми. Наши любимые.
-			2: Теперь найди Стену в адских глубинах. Уничтожь её.
-			3: Но всему своё время.
-			4: Рост не происходит мгновенно...
+			0: The dungeon's souls are...partially freed.
+			1: You're deserving - take these. Our favourites.
+			2: Now, find the Wall in the infernal depths. Remove it.
+			3: But, take all the time you need.
+			4: Growth isn't instant.
 		}
 
 		WoF: {
-			0: Могущественные духи высвобождены...
-			1: Теперь, когда мы... свободнее, ты начнёшь замечать перемены.
-			2: Ты возможно уже заметил некоторые. Тем не менее,
-			3: В качестве благодарности возьми это. Мне... мне это более не потребуется.
-			4: ...и пока ты еще тут,
-			5: Помни, что за каждое поверженное зло ждёт награда.
-			6: Наведывайся временами, хорошо?
+			0: A powerful spirit has been released...
+			1: With us...more free, you'll begin to see a couple changes.
+			2: You might've already noticed a couple. Anyhow,
+			3: as thanks, take this. I...I don't need it anymore.
+			4: ...and while you're here,
+			5: know that I will reward you for defeating more evils;
+			6: so check in sometimes, hm?
 		}
 
 		AnyMech: {
-			0: Один из тех механизмов повержен.
-			1: Прекрасно! Я смастерил кое-что...
-			2: Оно... странноватое, но надеюсь, тебе понравится.
+			0: One of those machines are vanquished.
+			1: Well done! I've been making something...
+			2: It's...odd, but fun. We hope you enjoy it.
 		}
 
 		Plantera: {
-			0: Чудовищное растение повержено.
-			1: Это открывает новые возможности;
-			2: Дар скромен, но, надеемся, полезен.
-			3: Отныне и ты властен создавать подобные.
-			4: Можешь также взять и это,
-			5: Мы уверены, оно пригодится.
+			0: The horrific plant is dead.
+			1: This frees up many opportunities;
+			2: this is a smaller boon, but we hope it helps.
+			3: You may now create more of these yourself as well.
+			4: Feel free to take these as well,
+			5: With these, we are certain they'll help.
 		}
 
 		Golem: {
-			0: Защитник Храма пал.
-			1: Это... Наш маленький эксперимент.
-			2: Не знаем, насколько он поможет,
-			3: но уверены, что будет занятно.
-			4: Да пребудет с тобой удача.
+			0: The Temple's protector felled.
+			1: This is a bit of a...passion project, of mine.
+			2: We don't know if it'll help much,
+			3: but we suspect it'll be fun.
+			4: Best of luck.
 		}
 
 		Cultist: {
-			0: Ну что, те самозванцы наконец сгинули?
-			1: Их ритуалы были опасной глупостью.
-			2: Угроз становится... меньше, как вижу.
-			3: Можем поделиться крупицей нашей силы,
-			4: в знак благодарности. Пользуйся.
+			0: Those charlatans dead, hm?
+			1: Their practice was a dangerous idiocy.
+			2: Less and less threats are...up close, I see.
+			3: Perhaps we can offer a sliver of our power,
+			4: to your boon. Enjoy.
 		}
 
 		MoonLord: {
-			0: Полагаю, это был последний бой.
-			1: Нам неведомо, что ты задумал дальше;
-			2: И наши дары почти иссякли.
-			3: Мы радовались,
-			4: мы трудились,
-			5: и теперь Нам нужно отдохнуть.
-			6: Возможно, в будущем увидишь нечто новое.
+			0: I suspect that's the final fight.
+			1: We don't know what else you have planned;
+			2: and we have little more to give.
+			3: It's been a lot of fun,
+			4: a lot of work,
+			5: and I think we need a break.
+			6: Perhaps you'll see something new in the future.
 		}
 	}
 
@@ -206,127 +206,127 @@ Apotheosis: {
 	
 	ItemInteractions: {
 		WiltedFlower: {
-			0: Ромашка... Мой любимый цветок.
-			1: Жаль, что так давно не виделись, а?
-			2: Можешь спрашивать о чём угодно.
-			3: Мы открытая книга.
+			0: A daisy, my favourite flower.
+			1: Shame it's been so long, hm?
+			2: Ah, and feel free to ask me about anything.
+			3: We're an open book.
 		}
 
 		ApotheosisBook: {
-			0: Мой старый дневник.
-			1: Помню, как заполнял его страницу за страницей...
-			2: У меня до сих пор руки чешутся что-то записать.
-			3: Но теперь он бесполезен для нас.
-			4: Странно даже держать его в руках,
-			5: учитывая... последнюю запись.
+			0: My old notebook.
+			1: I remember writing in it all the time,
+			2: I still get the itch to, here and there.
+			3: Oh well, we can't use it anymore.
+			4: It's bizarre enough to regard it at all,
+			5: considering the...last time I wrote in it.
 		}
 
 		LushLeaf: {
-			0: Листья, окружающие нас;
-			1: В них есть нечто, что пленяет взор..
+			0: The leaves that surround us;
+			1: beautiful, in a way.
 		}
 
 		Lightbulb: {
-			0: Мой последний свет, он помогал долгое время.
-			1: Надеюсь, его свет поможет и вам.
+			0: My last light, it helped for a long time.
+			1: Hopefully its light helps you as well.
 		}
 
 		YellowBulb: {
-			0: Мои любимые цветы,
-			1: Я рассадил их по этим землям.
-			2: Как же приятно...
+			0: My favourite flower,
+			1: I spread it around this land.
+			2: How pleasant...
 		}
 
 		Wisplant: {
-			0: Мы действительно начали... экспериментировать с ними.
-			1: Не уверен зачем, но было занятно.
+			0: We really started...experimenting with these.
+			1: Not sure why, but they were fun.
 		}
 
-		PuffMaterial: Честно говоря, мы просто хотели узнать, сможем ли создать подобное.
-		Halfsprout: Любопытный маленький росток, да?
-		MysteriaClump: Всегда полезно, как сказать, немного расшириться.
-		PinkPetal: Только не говори красным лепесткам, что розовые мои любимые.
-		RedPetal: Только не говори розовым лепесткам, что красные мои любимые.
+		PuffMaterial: Honestly, we just wanted to see if we could make these.
+		Halfsprout: A curious little sprout, hm?
+		MysteriaClump: Always good to, ah, branch out a bit.
+		PinkPetal: Don't tell Red Petal - this is my favourite.
+		RedPetal: Don't tell Pink Petal - this is my favourite.
 
 		CrudePaintbrush: {
-			0: Ах, моя старая кисть.
-			1: Прости, она немного косая,
-			2: но всё ещё полезна.
+			0: Ah, my old paintbrush.
+			1: Apologies, it's a bit rushed,
+			2: but we know it's a useful tool.
 		}
 
 		Bouncebloom: {
-			0: Тогда мы ещё выясняли как... всё работает
-			1: Забавная кстати вещичка.
+			0: We were...still figuring things out.
+			1: Fun, though.
 		}
 
 		Cloudsprout: {
-			0: Честно, не помню, зачем мы их создали.
-			1: Зато они красивые, правда?
+			0: To be honest, we can't tell you why we did this.
+			1: It sure is pretty, hm?
 		}
 
 		ThornBlock: ...
-		FlotieItem: Обожаем эту очаровашку.
-		FlotinyItem: И эту тоже обожаем.
-		LushWingletItem: Одно из первых творений...
+		FlotieItem: We love this little guy.
+		FlotinyItem: We love this guy too.
+		LushWingletItem: One of the first...
 
 		Propellerpad: {
-			0: Один из моих любимых.
-			1: Просто, изящно, натурально, бесшумно.
-			2: Чего еще можно желать?
+			0: One of my favourites.
+			1: Simple, clean, natural, silent.
+			2: What more can you ask for?
 		}
 
 		Mudsquid: {
-			0: Наше, пожалуй, главное достижение.
-			1: Никогда не видел ничего подобного, и тем уж более не использовал.
-			2: Хотя до этого у нас и магии-то не было...
+			0: Probably our proudest achievements.
+			1: I've never seen, much less used, anything like it.
+			2: Not that we've had much magic before...
 		}
 
-		SproutInAGlove: Все гениальное просто
-		VineHook: Этот парнишка вечно в восторге от жизни
+		SproutInAGlove: Sometimes, simplicity is key.
+		VineHook: This guy's always having the time of his life.
 
 		ExpertPlantGuide: {
-			0: Ах, моя старая книга.
-			1: Писал её много лет назад...
-			2: Как время летит.
+			0: Ah, my old book.
+			1: I wrote this a few years ago...
+			2: How time flies.
 		}
 
 		ApotheoticSoul: {
 			0: ...
-			1: ...если не вдаваться в подробности,
-			2: это частица нашей силы
-			3: Ты заслужил её,
-			4: пройдя столь долгий путь.
-			5: Вряд ли тебе нужно еще что-то,
-			6: и надеюсь, ты осознаёшь ценность дара.
-			7: Наши земли заботятся о тебе,
-			8: прямо как и ты о них.
+			1: ...not to dive too far in,
+			2: but this is a small sample of our power.
+			3: It's something you've earned,
+			4: and you've done well to get here.
+			5: I doubt you'll need more,
+			6: and we hope you understand what we've given you.
+			7: The world cares for you,
+			8: as you do it.
 		}
 
 		LushDagger: {
-			0: Насилие это вещь неизбежная,
-			1: но пусть наши растения помогут избежать его
+			0: Violence is something we cannot avoid,
+			1: but we hope you avoid it with our plants.
 		}
 
 		BowlFruit: {
-			0: Ах, чашечник. Красавец.
-			1: Не расскажешь мне, каков он на вкус?
+			0: Ah, a Bowlfruit. Pretty thing.
+			1: Perhaps you can share how it tastes?
 		}
 
 		Dropberry: {
-			0: Эти ягоды прекрасны.
-			1: Если бы только я мог вспомнить их вкус...
+			0: These berries are lovely.
+			1: If only I could remember their taste.
 		}
 
-		FloralTea: Полезно в дороге, не так ли?
+		FloralTea: Useful when on the road, isn't it?
 
 		Grapecherry: {
-			0: Учёный иной раз...
-			1: совершает ошибки.
+			0: As a scientist, sometimes...
+			1: Sometimes you make a mistake.
 		}
 
-		Mystuber: Жареный или нет, для сердца полезно.
-		Walnut: Иногда... лучше не мудрить.
-		Waterberry: В изобилии... Если бы только...
-		HoneyNuggets: Пчёлы это магия. Береги их.
+		Mystuber: Fried or not, it's good for the heart.
+		Walnut: Sometimes...keep it simple.
+		Waterberry: Plentiful...if only...
+		HoneyNuggets: Bees are magic. Cherish them.
 	}
 }

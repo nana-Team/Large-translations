@@ -1,14 +1,14 @@
-HeadLabel: Verdant Client Configuration
-EnableSteamEffectLabel: "[i:3365] Enable Steam Effect"
-EnableSteamEffectTooltip: Enables steam overlay when inside of the underground Verdant.
-EnableForeOrBackgroundObjectsLabel: "[i:933] Enable Foreground/Background Objects"
-EnableForeOrBackgroundObjectsTooltip: Enables decoration objects appearing in the surface background or foreground everywhere.
-EnableCustomWaterfallsLabel: "[i:2169] Enable Custom Waterfalls"
-EnableCustomWaterfallsTooltip: Enables waterfalls appearing from tiles, such as the Weeping Bud.
-CustomDialogueSystemLabel: "[i:320] Custom Dialogue System"
-CustomDialogueSystemTooltip: Allows the usage of a custom dialogue system for the Apotheosis. If turned off, will just use the chat.
-FancyBookUILabel: "[i:4065] Fancy Book UI"
-FancyBookUITooltip: Changes the book UI to something unique.
+HeadLabel: Клиентская конфигурация Верданта
+EnableSteamEffectLabel: "[i:3365] Включить эффект пара"
+EnableSteamEffectTooltip: Переключает завесу пара, когда вы находетесь в подземном Цветении.
+EnableForeOrBackgroundObjectsLabel: "[i:933] Включить объекты переднего/заднего плана"
+EnableForeOrBackgroundObjectsTooltip: Переключает декорации, которые присутствуют на переднем и заднем планах.
+EnableCustomWaterfallsLabel: "[i:2169] Включить кастомные водопады"
+EnableCustomWaterfallsTooltip: Переключает водопады, появляющиеся из блоков, например, из плачущего бутона.
+CustomDialogueSystemLabel: "[i:320] Кастомная система диалогов"
+CustomDialogueSystemTooltip: Включает особое отображение фраз Апофеоза. Если выключено, то сообщения будут появляться в чате.
+FancyBookUILabel: "[i:4065] Красивый интерфейс книг"
+FancyBookUITooltip: Меняет интерфейс книг на уникальный.
 
 VerdantClientConfig: {
 	DisplayName: "{$Mods.Verdant.Configs.HeadLabel}"
@@ -34,12 +34,12 @@ VerdantClientConfig: {
 	}
 
 	JungleSpawn: {
-		Label: "[i:620] Jungle Spawn"
-		Tooltip: Forces the Verdant to only spawn in the Jungle. This is less likely to overwrite most modded biomes if that is an issue.
+		Label: "[i:620] Появление в джунглях"
+		Tooltip: Заставляет появляться биом Цветения в джунгях. Переключение настройки может потребоваться при наложении модовых структур.
 	}
 
 	DialogueSpeed: {
-		Label: "[i:4485] Dialogue Speed"
-		Tooltip: Increases or decreases the dialogue speed for all screen text.
+		Label: "[i:4485] Скорость диалогов"
+		Tooltip: Изменяет скорость появления текста на экране.
 	}
 }

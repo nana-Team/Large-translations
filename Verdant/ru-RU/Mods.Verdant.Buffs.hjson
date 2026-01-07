@@ -1,19 +1,19 @@
 HealingFlowerBuff: {
-	DisplayName: Healing Flower
-	Description: The flower's aura will heal you
+	DisplayName: Исцеляющий цветок
+	Description: Аура цветка исцеляет вас
 }
 
 PropellerpadBuff: {
-	DisplayName: Propellerpad
-	Description: What an odd lilypad!
+	DisplayName: Пропеллерпад
+	Description: Какая странная кувшинка!
 }
 
 SnailBuff: {
-	DisplayName: Snail Minion
-	Description: The grassy snails will fight for you
+	DisplayName: Улитка-прислужник
+	Description: Травяные улитки сражаются за вас
 }
 
 FlotiePetBuff: {
-	DisplayName: Flotie of Wrath
-	Description: "'Despite the skull, very calming'"
+	DisplayName: Гневающийся летун
+	Description: «Несмотря на окостенелость, очень спокойный»
 }

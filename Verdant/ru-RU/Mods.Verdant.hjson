@@ -1,44 +1,44 @@
 # This file is for miscellaneous stuff that I don't really want to move to its own file.
 # If a single part ever gets too large, I'll move it to its own file.
 MapObject: {
-	VerdantPylonTile: Verdant Pylon
-	FloatingCrystal: Floating Crystal
+	VerdantPylonTile: Пилон Цветения
+	FloatingCrystal: Парящий кристалл
 }
 
 TileInteraction: {
 	MysteriaClock: {
-		London: " (London time)"
-		NewYork: " (New York time)"
+		London: " (Время по Лондону)"
+		NewYork: " (Время по Нью-Йорку)"
 	}
 }
 
-ApotheosisName: Apotheosis
-ApotheosisFullName: The Apotheosis
+ApotheosisName: Апофеоз
+ApotheosisFullName: Апофеоз
 
 # Try to keep these short, the text looks weird if it's too long
 VineHookLines: {
-	0: Woo!
-	1: Wahoo!
-	2: Wee!
+	0: Вуу!
+	1: Вахуу!
+	2: Вии!
 }
 
-Condition.InVerdant: In the Verdant biome
+Condition.InVerdant: В Цветении
 
 RecipeCondition: {
-	AfterApotheosisDownedPlantera: After getting the Apotheosis's Plantera gift
-	HasShears: While carrying Shears [i:{0}]
+	AfterApotheosisDownedPlantera: После получения подарка от Апофеоза за победу над Плантерой
+	HasShears: Если в инвентаре присутствуют Ножницы [i:{0}]
 }
 
-"Keybinds.Verdant:SquidForm.DisplayName": Verdant: Squid Form
+"Keybinds.Verdant:SquidForm.DisplayName": Цветение: форма кальмара
 
 GameTips: {
-	VerdantGameTip0: Talk to the Apotheosis often, they might have rewards for you.
-	VerdantGameTip1: The lush caves of the Verdant offer a reprieve anywhere!
+	VerdantGameTip0: Разговаривай с Апофеозом почаще, у него могут быть для тебя награды.
+	VerdantGameTip1: Пышные пещеры Цветения предлагают отдых усталому путнику!
 }
 
 DryadShop: {
-	Restock: Restocks once every 5 days, or once every 3 days if in the Verdant
-	Condition: Every other stock rotation
+	Restock: Запасы возобновляются каждые 5 дней, а в Цветении — каждые 3 дня
+	Condition: После каждого второго пополнения
 }
 
-ShowApoth: Show this to the Apotheosis by right clicking them
+ShowApoth: Покажи это Апофеозу, нажав ПКМ по нему

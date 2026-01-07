@@ -1,31 +1,31 @@
-Lush: +1 flat summon damage
+Lush: +1 к урону призывателя
 Mysteria:
 	'''
-	Increased tile and wall placement speed and range
-	Increased mining speed
-	Enemies spawn significantly less often
+	Увеличивает дальность и скорость размещения блоков
+	Увеличивает скорость добычи
+	Враги появляются значительно реже
 	'''
 Verdant:
 	'''
-	+4% minion damage
-	+1 max minion
-	Reduces fall speed - Hold DOWN to fall faster
-	Upon respawning, heals you by 50 health
+	Увеличивает урон призывателя на 4%
+	Увеличивает максимальное количество миньонов на 1
+	Снижает скорость падения. Удерживайте ВНИЗ, чтобы падать быстрее
+	При возрождении лечит вас на 50 единиц здоровья
 	'''
 
 Apotheotic: {
 	Tree:
 		'''
-		Fruits regrow significantly faster
-		The fruits' effects are stronger
-		+1 max minion
-		+10 defense
+		Фрукты отрастают заметно быстрее
+		Эффекты фруктов значительно сильнее
+		Увеличивает максимальное количество миньонов на 1
+		Увеличивает защиту на 10 ед.
 		'''
 	Bee:
 		'''
-		The bees do increased damage
-		When the bees kill something, they drop a honey heart pickup which heals 10 health
-		+1 max minion
-		+5% minion damage
+		Дружественные пчёлы наносят повышенный урон
+		С противников, убитых пчёлыми, выпадает медовое сердце, восстанавливающее 10 ед. здоровья
+		Увеличивает максимальное количество миньонов на 1
+		Увеличивает урона призывателя на 5%
 		'''
 }

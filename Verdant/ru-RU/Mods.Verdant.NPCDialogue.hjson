@@ -1,33 +1,33 @@
 Guide: {
-	ApotheosisEvilDown: I hear a faint voice coming from those lush caves deep underground. Maybe you should check it out?
-	ApotheosisSkeletronDown: I hear another, stronger, voice coming from the lush caves. Take a look there.
+	ApotheosisEvilDown: Я слышу голос, доносящийся из тех пышных пещер под землёй. Возможно, тебе стоит спуститься в них?
+	ApotheosisSkeletronDown: Ещё один более сильный призыв доносится из пышных пещер. Посмотри, что в них происходит.
 }
 
 Dryad: {
-	0: I love this overgrown land. The world is powerful here.
-	1: I cannot believe I've never seen this place before...
-	GreenCrystal: I've some wonderful green crystals to share, if you're interested. Only so much, though.
+	0: Я люблю эту заросшую землю. Силы мира ощущаются особенно хорошо здесь.
+	1: Не могу повверить, что никогда не была здесь раньше...
+	GreenCrystal: Хочу поделиться замечательными зелёными кристаллами, если тебе интресно. Их, правда, не очень много.
 }
 
-Stylist: The air is WAY too humid here, my hair's frizzing up so much.
+Stylist: Воздух здесь СЛИШКОМ влажный, мои волосы теряют форму.
 
 WitchDoctor: {
-	0: The energy in in the flowers here...it flows powerfully.
-	1: I sense an ancient power within the leaves.
-	Dryad: "{0}'s been giving me some of her stock...care to take a look? It's quite nice."
+	0: Энергия местных цветов... течёт свободно.
+	1: Я ощущаю древнюю силу в листьях.
+	Dryad: "{0} кое-что дала мне... не хочешь взгянуть? Крайне интересная вещь."
 }
 
 # Keep the {0} to refer to the Dryad's name.
 
 DyeTrader: {
-	0: Now THIS is a sight! What beautiful colours these flowers have!
-	1: The glow of these bulbs...spectacular...
+	0: Вот ЭТО вид! Какие прекрасные оттенки у этих цветов!
+	1: Сияние этих бутонов... захватывает...
 }
 
 TaxCollector: {
-	0: Bah! These leaves keep on getting in the house. Have someone clean them up for me!
-	1: Those bright flowers are getting on my nerve! Keep your blasted light out of my sight!
+	0: Вах! Листья продолжают залетать в дом. Пусть кто-нибудь за меня их приберёт!
+	1: Эти яркие цветы действуют мне на нервы! Убери эти проклятые цвета подальше от моих глаз!
 }
 
-Painter: These tones are gorgeous! What a wonderful landscape!
-Princess: There's so many pretty colours here!
+Painter: Эти оттенки великолепны! Какой невероятный пейзаж!
+Princess: Здесь такая разнообразная палитра!

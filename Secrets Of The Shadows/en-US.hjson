@@ -23,24 +23,8 @@ Mods: {
 			ArchaeologistItemMap: "Teleported "
 			ArchaeologistShopCondition: In a certain location
 			VoidAnomalyCrafting: Wormhole conversion
+			CurseTooltip: "{$LegacyTooltip.59}"
 			TesseractInventory: Tesseract Item
-			TesseractInvalid: Invalid item for clone usage
-			TesseractAwaiting: "{0} aligned clones are awaiting usage specifications"
-			TesseractUsage: "{0} aligned clones will use {1} fire {2}"
-			TesseractUsageContinuous: continuously
-			TesseractUsageDuration: for {0} seconds
-			TesseractUsagePrimary: primary
-			TesseractUsageSecondary: secondary
-			Solar0: Sol
-			Solar1: Mercurius
-			Solar2: Venus
-			Solar3: Terra
-			Solar4: Mars
-			Solar5: Jupiter
-			Solar6: Saturnus
-			Solar7: Uranus
-			Solar8: Neptunus
-			Solar9: Pluto
 		}
 
 		ModifyWorldGenTasks: {
@@ -155,11 +139,11 @@ Mods: {
 			Potent.DisplayName: Potent
 			Omnipotent.DisplayName: Omnipotent
 			Chthonic.DisplayName: Chthonic
-			
+
 			Effects: {
-				MaxVoid.DisplayName: "{0:+0;-0} max void"
-				RegVoid.DisplayName: "{0:+0;-0} void gain"
-				CosVoid.DisplayName: "{0:+0;-0}% void cost"
+				MaxVoid: +{0} max void
+				RegVoid: +{0} void gain
+				CosVoid: "{0:+0;-0}% void cost"
 			}
 		}
 
@@ -953,7 +937,6 @@ Mods: {
 					Applies a stacking, permanent curse that deals 2 damage per second and increases damage done by 0.5%
 					Launches waves that deal 50% damage and have a 20% chance to apply the curse
 					'''
-				CurseTooltip: "{$LegacyTooltip.59}"
 			}
 
 			VoidAnomaly: {
@@ -1270,6 +1253,11 @@ Mods: {
 					Accelerates horizontal movement when going through doors
 					Builds up speed while standing in doors
 					'''
+				SetBonus:
+					'''
+					Acceleration lasts longer
+					Build up speed faster
+					'''
 			}
 
 			BandOfDoor: {
@@ -1478,11 +1466,6 @@ Mods: {
 				Tooltip: Fires a homing bolt
 			}
 
-			VibrantChestplate: {
-				DisplayName: Vibrant Chestplate
-				Tooltip: Increases void damage by 10% and ranged damage by 5%
-			}
-
 			VibrantHelmet: {
 				DisplayName: Vibrant Helmet
 				Tooltip:
@@ -1490,6 +1473,16 @@ Mods: {
 					Increases max void by 50
 					Increases ranged critical strike chance by 5%
 					'''
+				SetBonus:
+					'''
+					Increases void gain by 2
+					Vibrant Pistol fires three shots at once at the cost of accuracy
+					'''
+			}
+
+			VibrantChestplate: {
+				DisplayName: Vibrant Chestplate
+				Tooltip: Increases void damage by 10% and ranged damage by 5%
 			}
 
 			VibrantLeggings: {
@@ -2140,16 +2133,17 @@ Mods: {
 				# Invidia
 				DisplayName: Vespera Mask
 				Tooltip: Increases max void by 25 and void gain by 1
-			}
-
-			VesperaLeggings: {
-				DisplayName: Vespera Leggings
-				Tooltip: Increases max void by 25 and movement speed by 5%
+				SetBonus: Increases max void by 25 and void gain by 50%
 			}
 
 			VesperaBreastplate: {
 				DisplayName: Vespera Breastplate
 				Tooltip: Increases max void by 25 and void damage by 5%
+			}
+
+			VesperaLeggings: {
+				DisplayName: Vespera Leggings
+				Tooltip: Increases max void by 25 and movement speed by 5%
 			}
 
 			VesperaFishingRod: {
@@ -2279,16 +2273,17 @@ Mods: {
 			NatureWreath: {
 				DisplayName: Wormwood Wreath
 				Tooltip: Increases max minions by 1
-			}
-
-			NatureLeggings: {
-				DisplayName: Wormwood Leggings
-				Tooltip: 5% increases summon damage and movement speed
+				SetBonus: Summons three Blooming Hooks to assist in combat
 			}
 
 			NatureShirt: {
 				DisplayName: Wormwood Shirt
 				Tooltip: Increases defense for every active minion
+			}
+
+			NatureLeggings: {
+				DisplayName: Wormwood Leggings
+				Tooltip: 5% increases summon damage and movement speed
 			}
 
 			NatureSpell: {
@@ -2627,6 +2622,11 @@ Mods: {
 					Costs 6 void to launch
 					Holo Eye remains active in the inventory when favorited or while worn in vanity slots, but cannot attack
 					'''
+				SetBonus:
+					'''
+					The Holo Eye now automatically attacks for you
+					Automatic attacks have a 25% chance to destabilize enemies, but the chance of applying it gets lower with each level already applied
+					'''
 			}
 
 			TwilightAssassinsChestplate: {
@@ -2833,20 +2833,6 @@ Mods: {
 					'''
 			}
 
-			FrigidCrown: {
-				DisplayName: Frigid Crown
-				Tooltip: Adds an additional burst to the Shard Staff and Storm Spell
-			}
-
-			FrigidGreaves: {
-				DisplayName: Frigid Greaves
-				Tooltip:
-					'''
-					Grants Ice Skates effect
-					Increases movement and void attack speed by 10%
-					'''
-			}
-
 			FrigidHourglass: {
 				DisplayName: Frigid Hourglass
 				Tooltip:
@@ -2867,9 +2853,38 @@ Mods: {
 				Tooltip: Throw a powerful, fast traveling javelin that ricochets of surfaces
 			}
 
+			FrigidCrown: {
+				DisplayName: Frigid Crown
+				Tooltip: Adds an additional burst to the Shard Staff and Storm Spell
+			}
+
 			FrigidRobe: {
 				DisplayName: Frigid Robe
 				Tooltip: Frigid Javelin gains better bouncing capabilities
+				SetBonus:
+					'''
+					Frigid Javelin no longer costs void
+					Decreases void damage by 15%
+					'''
+			}
+
+			ShatterShardChestplate: {
+				DisplayName: Shatter Shard Chestplate
+				Tooltip: Getting hit surrounds you with ice shards
+				SetBonus:
+					'''
+					Increases life regeneration by 2
+					Immunity to Chilled, Frozen, and Frostburn
+					'''
+			}
+
+			FrigidGreaves: {
+				DisplayName: Frigid Greaves
+				Tooltip:
+					'''
+					Grants Ice Skates effect
+					Increases movement and void attack speed by 10%
+					'''
 			}
 
 			FrostArtifact: {
@@ -2885,6 +2900,7 @@ Mods: {
 			FrostArtifactHelmet: {
 				DisplayName: Frost Artifact Helmet
 				Tooltip: 20% increased melee and ranged damage
+				SetBonus: Most melee and ranged attacks summon a handful of Polar Cannons that each deal 25% damage
 			}
 
 			FrostArtifactTrousers: {
@@ -2977,11 +2993,6 @@ Mods: {
 					Getting hit surrounds you with ice shards
 					Increases max life by 20
 					'''
-			}
-
-			ShatterShardChestplate: {
-				DisplayName: Shatter Shard Chestplate
-				Tooltip: Getting hit surrounds you with ice shards
 			}
 
 			ShoeIce: {
@@ -3225,17 +3236,6 @@ Mods: {
 					'''
 			}
 
-			CursedRobe: {
-				DisplayName: Cursed Robe
-				Tooltip:
-					'''
-					Increases maximum mana and void by 80
-					Reduces mana and void usage by 15%
-					Summons a Ruby Monolith to your side
-					The Ruby Monolith increases your void regeneration speed by 10%
-					'''
-			}
-
 			CursedHood: {
 				DisplayName: Cursed Hood
 				Tooltip:
@@ -3245,6 +3245,23 @@ Mods: {
 					The closest enemy to you is afflicted with a curse
 					Upon taking damage, cursed enemies will Flare, taking 140% additional damage and dealing 140% damage to other nearby enemies
 					This effect has a 2 second cooldown
+					'''
+				SetBonus:
+					'''
+					Press '{0}' to change the Ruby Monolith into an offensive stance
+					While in offensive stance, decreases the cooldown of Curse Flaring by 80%
+					However, increases void drain by 6 instead of increasing void regeneration speed by 10%
+					'''
+			}
+
+			CursedRobe: {
+				DisplayName: Cursed Robe
+				Tooltip:
+					'''
+					Increases maximum mana and void by 80
+					Reduces mana and void usage by 15%
+					Summons a Ruby Monolith to your side
+					The Ruby Monolith increases your void regeneration speed by 10%
 					'''
 			}
 
@@ -3379,11 +3396,7 @@ Mods: {
 			PatchLeatherHat: {
 				DisplayName: Patch Leather Hat
 				Tooltip: Increases max minions by 1
-			}
-
-			PatchLeatherPants: {
-				DisplayName: Patch Leather Boots
-				Tooltip: Increases summon damage by 15%
+				SetBonus: Summons a flock of flying snakes to assist in combat
 			}
 
 			PatchLeatherTunic: {
@@ -3393,6 +3406,11 @@ Mods: {
 					Increases summon damage by 15%
 					Grants immunity to venom and poison debuffs
 					'''
+			}
+
+			PatchLeatherPants: {
+				DisplayName: Patch Leather Boots
+				Tooltip: Increases summon damage by 15%
 			}
 
 			PharaohsCane: {
@@ -3578,8 +3596,6 @@ Mods: {
 					'''
 				Tooltip2: Right click to launch a mist orb that releases short-range homing bolts for 50% damage
 			}
-
-			ForgottenLamp.DisplayName: Forgotten Lamp
 
 			FireSpitter: {
 				# Slime
@@ -5095,6 +5111,22 @@ Mods: {
 				Tooltip: ""
 			}
 
+			VoidspaceMask: {
+				DisplayName: Voidspace Ranger's Mask
+				Tooltip:
+					'''
+					Increases magic and ranged critical strike chance by 25%
+					Increases void critical strike chance by 15% and max mana by 100
+					Increases void gain by 4 and max void by 50
+					'''
+				SetBonus:
+					'''
+					Attacks permanently inflict the Subspace Flames debuff, which deals 10 damage per second
+					When an enemy with Subspace Flames is killed, they deal damage to all other enemies equal to the cumulative damage they took from Subspace Flames
+					Enemies that take damage this way will also be inflicted with Subspace Flames
+					'''
+			}
+
 			VoidspaceBreastplate: {
 				DisplayName: Voidspace Ranger's Breastplate
 				Tooltip:
@@ -5113,16 +5145,6 @@ Mods: {
 					Increases magic and ranged damage by 25%
 					Increases void damage by 15% and movement speed by 20%
 					Increases void gain by 3 and max void by 50
-					'''
-			}
-
-			VoidspaceMask: {
-				DisplayName: Voidspace Ranger's Mask
-				Tooltip:
-					'''
-					Increases magic and ranged critical strike chance by 25%
-					Increases void critical strike chance by 15% and max mana by 100
-					Increases void gain by 4 and max void by 50
 					'''
 			}
 
@@ -5291,6 +5313,12 @@ Mods: {
 					Increases melee, summon, and void damage by 15%
 					Increases void gain by 3 and max void by 100
 					Increases max minions by 2
+					'''
+				SetBonus:
+					'''
+					Enemies hit by the teleport will be frozen in time temporarily
+					Decreases cooldown on the teleport to 6 seconds and increases the range enemies will take damage from the teleport by 50%
+					Increases teleport damage based on void damage modifiers
 					'''
 			}
 
@@ -5780,6 +5808,14 @@ Mods: {
 					Critical strikes spawn hearts
 					'This pint packs a punch!'
 					'''
+
+				CombatText: {
+					0: OH YEAH
+					1: BLAM
+					2: POW
+					3: SLAM
+					4: SMASH
+				}
 			}
 
 			FishBomb: {
@@ -5984,11 +6020,6 @@ Mods: {
 					'''
 			}
 
-			EarthenChestplate: {
-				DisplayName: Earthen Chestplate
-				Tooltip: Increases mining speed and movement speed by 10%
-			}
-
 			EarthenHelmet: {
 				DisplayName: Earthen Helmet
 				Tooltip:
@@ -5996,6 +6027,16 @@ Mods: {
 					Improves vision and provides light when worn
 					Increases mining speed and movement speed by 10%
 					'''
+				SetBonus:
+					'''
+					Melee strikes have a chance to apply a stacking, permanent shred on enemies, making them take additional damage from all attacks
+					Increases attack speed by 20%
+					'''
+			}
+
+			EarthenChestplate: {
+				DisplayName: Earthen Chestplate
+				Tooltip: Increases mining speed and movement speed by 10%
 			}
 
 			EarthenLeggings: {
@@ -7426,72 +7467,28 @@ Mods: {
 			}
 		}
 
-		ArmorSetBonus: {
-			DoorItems:
-				'''
-				Acceleration lasts longer
-				Build up speed faster
-				'''
-			Vibrant:
-				'''
-				Increases void gain by 2
-				Vibrant Pistol fires three shots at once at the cost of accuracy
-				'''
-			Vespera: Increases max void by 25 and void gain by 50%
-			NatureWreath: Summons three Blooming Hooks to assist in combat
-			TwilightAssassins:
-				'''
-				The Holo Eye now automatically attacks for you
-				Automatic attacks have a 25% chance to destabilize enemies, but the chance of applying it gets lower with each level already applied
-				'''
-			Frigid:
-				'''
-				Frigid Javelin no longer costs void
-				Decreases void damage by 15%
-				'''
-			FrostArtifact: Most melee and ranged attacks summon a handful of Polar Cannons that each deal 25% damage
-			ShatterShard:
-				'''
-				Increases life regeneration by 2
-				Immunity to Chilled, Frozen, and Frostburn
-				'''
-			Cursed:
-				'''
-				Press '{0}' to change the Ruby Monolith into an offensive stance
-				While in offensive stance, decreases the cooldown of Curse Flaring by 80%
-				However, increases void drain by 6 instead of increasing void regeneration speed by 10%
-				'''
-			PatchLeather: Summons a flock of flying snakes to assist in combat
-			Voidspace:
-				'''
-				Attacks permanently inflict the Subspace Flames debuff, which deals 10 damage per second
-				When an enemy with Subspace Flames is killed, they deal damage to all other enemies equal to the cumulative damage they took from Subspace Flames
-				Enemies that take damage this way will also be inflicted with Subspace Flames
-				'''
-			Elemental:
-				'''
-				Enemies hit by the teleport will be frozen in time temporarily
-				Decreases cooldown on the teleport to 6 seconds and increases the range enemies will take damage from the teleport by 50%
-				Increases teleport damage based on void damage modifiers
-				'''
-			Earthen:
-				'''
-				Melee strikes have a chance to apply a stacking, permanent shred on enemies, making them take additional damage from all attacks
-				Increases attack speed by 20%
-				'''
-			Excavator:
-				'''
-				Increases Missile Launcher Tail attack speed by 50%
-				Increases void regeneration speed by 30%
-				'''
-		}
-
 		Tiles: {
-			BlastDoor: Blast Door
-			NatureConduitTile.MapEntry: Nature Conduit
-			EarthenConduitTile.MapEntry: Earth Conduit
+			BlastDoorTile.MapEntry: Blast Door
 			PeanutBushTile.MapEntry: Peanut Bush
 			PeanutOreTile.MapEntry: Peanut Ore
+			SilkCocoonTile.MapEntry: Glow Cocoon
+			VibrantOreTile.MapEntry: Vibrant Ore
+			VibrantCrystalTile.MapEntry: Vibrant Shard
+			VibrantCrystalLargeTile.MapEntry: Large Vibrant Shard
+			Hydroponics.MapEntry: Hydroponics
+			SOTSGemLockTiles.MapEntry: Mysterious Switch
+			GatewayTile.MapEntry: Strange Gateway
+			AncientGoldGateTile.MapEntry: Strange Pillar
+			CrystalStatue.MapEntry: Crystal Statue
+			CursedAppleTile.MapEntry: Strange Fruit
+			CursedGrowthTile.MapEntry: Cursed Growth
+			ManaStatue.MapEntry: Mana Statue
+			RubyKeystoneTile.MapEntry: Strange Keystone
+			TaintedKeystoneShardTile.MapEntry: Tainted Keystone Shard
+			StrangeKeystoneTile.MapEntry: Strange Keystone
+			ElectromagneticDeterrentTile.MapEntry: D.E.F.E
+			EnchantedPickShrineTile.MapEntry: Pickaxe Shrine
+			EnchantedSwordShrineTile.MapEntry: Sword Shrine
 
 			RuinedChestTile: {
 				MapEntry0: Ruined Chest
@@ -7548,122 +7545,39 @@ Mods: {
 				MapEntry9: Locked Waning Crescent Invidia Chest
 			}
 
-			SilkCocoonTile.MapEntry: Glow Cocoon
-			BigCrystalTile.MapEntry: Giant Crystal
-			VibrantOreTile.MapEntry: Vibrant Ore
-			VibrantCrystalTile.MapEntry: Vibrant Shard
-			VibrantBrickTile.MapEntry: Vibrant Brick
-			VibrantCrystalLargeTile.MapEntry: Large Vibrant Shard
-			PyramidCrateTile.MapEntry: Pyramid Crate
-			AncientGoldCampfireTile.MapEntry: Eternal Fireplace
-			AncientGoldThroneTile.MapEntry: Ancient Gold Throne
-			AncientGoldTorchTile.MapEntry: Ancient Gold Torch
-			EarthenPlatingTorchTile.MapEntry: Earthen Plating Torch
 			GoopwoodBarrelTile.MapEntry0: Goopwood Barrel
-			Hydroponics.MapEntry: Hydroponics
-			NaturePlatingTorchTile.MapEntry: Nature Plating Torch
-			PermafrostPlatingTorchTile.MapEntry: Permafrost Plating Torch
-			SOTSGemLockTiles.MapEntry: Mysterious Switch
-			DigitalDisplayTile.MapEntry: Digital Display
-			HardlightFabricatorTile.MapEntry: Hardlight Fabricator
-			HardlightTableTile.MapEntry: Hardlight Table
-			PotGeneratorTile.MapEntry: Pot Generator
-			SkyChainTile.MapEntry: Sky Chain
-			TransmutationAltarTile.MapEntry: Transmutation Altar
-			AvaritianGatewayTile.MapEntry: Strange Gateway
-			FrigidIceTile.MapEntry: Frigid Ore
-			FrigidIceTileSafe.MapEntry: Frigid Ore
-			FrostArtifactTile.MapEntry: Frost Artifact
-			AcediaGatewayTile.MapEntry: Strange Gateway
-			AncientGoldGateTile.MapEntry: Strange Pillar
-			CrystalStatue.MapEntry: Crystal Statue
-			CursedAppleTile.MapEntry: Strange Fruit
-			CursedGrowthTile.MapEntry: Cursed Growth
-			ManaStatue.MapEntry: Mana Statue
-			PyramidChestTile.MapEntry0: Pyramid Chest
-			PyramidGateTile.MapEntry: Pyramid Gate
-			RoyalRubyShardTile.MapEntry: Keystone Shard
-			RubyKeystoneTile.MapEntry: Strange Keystone
-			SarcophagusTile.MapEntry: Sarcophagus
-			TaintedKeystoneShardTile.MapEntry: Tainted Keystone Shard
-			StrangeKeystoneTile.MapEntry: Strange Keystone
-			ForgottenLampTile.MapEntry: False Lamp
-			ArkhalisChainTile.MapEntry: Lost Chain
-			ElectromagneticDeterrentTile.MapEntry: D.E.F.E
-			EnchantedPickShrineTile.MapEntry: Pickaxe Shrine
-			EnchantedSwordShrineTile.MapEntry: Sword Shrine
-			MineralariumTile.MapEntry: Mineralarium
-			HydraulicPressTile.MapEntry: Hydraulic Press
 
 			GemChestTile: {
 				MapEntry0: Gem Chest
 				MapEntry1: Locked Gem Chest
-				MapEntry2: Gem Chest
-				MapEntry3: Locked Gem Chest
-				MapEntry4: Gem Chest
-				MapEntry5: Locked Gem Chest
-				MapEntry6: Gem Chest
-				MapEntry7: Locked Gem Chest
-				MapEntry8: Gem Chest
-				MapEntry9: Locked Gem Chest
-				MapEntry10: Gem Chest
-				MapEntry11: Locked Gem Chest
-				MapEntry12: Gem Chest
-				MapEntry13: Locked Gem Chest
 			}
-
-			OtherworldCrateTile.MapEntry: Otherworld Crate
-			PlanetariumCrateTile.MapEntry: Planetarium Crate
-			ChaosConduitTile.MapEntry: Chaos Conduit
-			OtherworldConduitTile.MapEntry: Otherworld Conduit
-			EvilConduitTile.MapEntry: Evil Conduit
-			InfernoConduitTile.MapEntry: Inferno Conduit
-			PermafrostConduitTile.MapEntry: Permafrost Conduit
-			TidalConduitTile.MapEntry: Tidal Conduit
-			GulaGatewayTile.MapEntry: Strange Gateway
 
 			TidalPlatingChestTile: {
 				MapEntry0: Tidal Plating Storage
 				MapEntry1: Locked Tidal Plating Storage
 			}
 
-			TidalPlatingTorchTile.MapEntry: Tidal Plating Torch
-			PinkyTestTube.MapEntry: Failed Experiment
-
 			OtherworldPlatingChestTile: {
 				MapEntry0: Otherworld Plating Capsule
 				MapEntry1: Locked Otherworld Plating Capsule
 			}
-
-			OtherworldPlatingTorchTile.MapEntry: Otherworld Plating Torch
 
 			EvilPlatingChestTile: {
 				MapEntry0: Evil Plating Capsule
 				MapEntry1: Locked Evil Plating Capsule
 			}
 
-			EvilPlatingTorchTile.MapEntry: Evil Plating Torch
-
 			InfernoPlatingChestTile: {
 				MapEntry0: Inferno Plating Chest
 				MapEntry1: Locked Inferno Plating Chest
 			}
-
-			InfernoPlatingTorchTile.MapEntry: Inferno Plating Torch
-			ChaosPlatingTorchTile.MapEntry: Chaos Plating Torch
 
 			ChaosPlatingChestTile: {
 				MapEntry1: Chaos Plating Chest
 				MapEntry0: Locked Chaos Plating Chest
 			}
 
-			RuinedStatueTile.MapEntry: Ruined Statue
-			SerpentStatueTile.MapEntry: Serpent Statue
-			InvidiaGatewayTile.MapEntry: Strange Gateway
-			SeismicStationTile.MapEntry: Seismic Station
-			TideChainTile.MapEntry: Tide Chain
-			IraGatewayTile.MapEntry: Ira Gateway
-			LightStatueTile.MapEntry: Light Statue
+			PyramidChestTile.MapEntry0: Pyramid Chest
 		}
 
 		WorldGeneration: {
@@ -8311,6 +8225,29 @@ Mods: {
 			7: Increases summon damage by 3%, up to 12% total
 		}
 
+		TesseractText: {
+			InvalidItem: Invalid item for clone usage
+			Awaiting: "{0} aligned clones are awaiting usage specifications"
+			Usage: "{0} aligned clones will use {1} fire {2}"
+			UsageContinuous: continuously
+			UsageDuration: for {0} seconds
+			UsagePrimary: primary
+			UsageSecondary: secondary
+
+			ClonesName: {
+				Solar0: Sol
+				Solar1: Mercurius
+				Solar2: Venus
+				Solar3: Terra
+				Solar4: Mars
+				Solar5: Jupiter
+				Solar6: Saturnus
+				Solar7: Uranus
+				Solar8: Neptunus
+				Solar9: Pluto
+			}
+		}
+
 		UndoArrow: {
 			Ruby: Ruby: {0}
 			Sapphire: Sapphire: {0}
@@ -8341,6 +8278,21 @@ Mods: {
 			Warning1: Seriously. I'm warning you
 			Warning2: If anything goes wrong, it's because YOU asked for it
 			Warning3: Here comes NOTHING!!!
+		}
+
+		WorldgenScannerMessages: {
+			LihzahrdAltarNotFound: Lihzahrd Altar: Not Found
+			FrostArtifactNotFound: Frost Artifact: Not Found
+			SarcophagusNotFound: Sarcophagus: Not Found
+			AvaritiaGatewayNotFound: Avaritia Gateway: Not Found
+			AcediaGatewayNotFound: Acedia Gateway: Not Found
+			WorldGeneratedWithoutIssues: World has generated without major issues
+			AdvisorSpawned: A distant whirring can be heard from the sky
+			ShadowOrbsCount: Shadow Orbs/Crimson Hearts: {0}
+			WaterWalkingBootsCount: Water Walking Boots: {0}
+			LavaCharmsCount: Lava Charms: {0}
+			FlowerBootsCount: Flower Boots: {0}
+			PeanutBushesCount: Peanut Bushes: {0}
 		}
 
 		ClockTime: {
@@ -8997,23 +8949,17 @@ Mods: {
 		}
 
 		Keybinds: {
-			Mods: {
-				SOTS: {
-					KeyBindName: {
-						Blink.DisplayName: Blink
-						ArmorSet.DisplayName: Armor Set
-						MFM.DisplayName: Switch Flight Mode
-						SlowFlight.DisplayName: Slow Flight
-					}
-				}
-			}
+			Blink.DisplayName: Blink
+			ArmorSet.DisplayName: Armor Set
+			MFM.DisplayName: Switch Flight Mode
+			SlowFlight.DisplayName: Slow Flight
 		}
 
 		Configs: {
 			SOTSConfig: {
 				DisplayName: Config
 
-				Header: {
+				Headers: {
 					UI: UI
 					GS: Graphics Settings
 					TPS: Texture Pack Settings
@@ -9149,7 +9095,7 @@ Mods: {
 			SOTSServerConfig: {
 				DisplayName: Server Config
 
-				Header: {
+				Headers: {
 					GPS: Gameplay Settings
 					BAL: Balance Changes
 				}
@@ -9280,17 +9226,6 @@ Mods: {
 			ExcavatorKill: {
 				FriendlyName: Rusty Old Tool
 				Description: Defeat The Excavator, an ancient mining machine (Credit: EduaRRdo)
-			}
-		}
-
-		Configuration: {
-			Header: {
-				GPS: Starter House Type Header
-				UI: void Bar Point X Header
-				GS: low Fidelity Mode Header
-				MS: alternative Music Header
-				TPS: additional Texture Pack Visuals Header
-				BAL: Nerf Insignia Header
 			}
 		}
 	}

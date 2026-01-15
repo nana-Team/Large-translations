@@ -3183,7 +3183,7 @@ Mods: {
 
 			RoastedPeanuts: {
 				DisplayName: Roasted Peanuts
-				Tooltip: Minor improvements to all stats
+				Tooltip: "{$CommonItemTooltip.MinorStats}"
 			}
 
 			PyramidAmbient: {
@@ -6663,7 +6663,7 @@ Mods: {
 
 			VeganBurger: {
 				DisplayName: Vegan Burger
-				Tooltip: Minor improvements to all stats
+				Tooltip: "{$CommonItemTooltip.MinorStats}"
 			}
 
 			VigorPotion: {
@@ -7484,8 +7484,6 @@ Mods: {
 			CursedGrowthTile.MapEntry: Cursed Growth
 			ManaStatue.MapEntry: Mana Statue
 			RubyKeystoneTile.MapEntry: Strange Keystone
-			TaintedKeystoneShardTile.MapEntry: Tainted Keystone Shard
-			StrangeKeystoneTile.MapEntry: Strange Keystone
 			ElectromagneticDeterrentTile.MapEntry: D.E.F.E
 			EnchantedPickShrineTile.MapEntry: Pickaxe Shrine
 			EnchantedSwordShrineTile.MapEntry: Sword Shrine

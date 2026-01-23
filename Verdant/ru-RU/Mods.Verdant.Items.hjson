@@ -448,12 +448,12 @@ MysteriaAcorn: {
 }
 
 MysteriaDrapesItem: {
-	DisplayName: Мистерниевая драпировка
+	DisplayName: Мистерниевая завеса
 	Tooltip:
 		'''
 		Размещается на любой твёрдый блок
 		Медленно растёт подобно лозе
-		Разместите на блок с драпировкой, чтобы удлинить её
+		Разместите на блок с завесой, чтобы удлинить её
 		Всегда находится перед игроком
 		'''
 }
@@ -855,22 +855,22 @@ FlotinyItem: {
 }
 
 FolifishItem: {
-	DisplayName: Листвыба
+	DisplayName: Листвобла
 	Tooltip: ""
 }
 
 MysteriaFlotieItem: {
-	DisplayName: Летун мистернии
+	DisplayName: Мистерниевый летун
 	Tooltip: ""
 }
 
 MysteriaFlotinyItem: {
-	DisplayName: Летунчик мистернии
+	DisplayName: Мистерниевый летунчик
 	Tooltip: ""
 }
 
 PuffSlimeSmallItem: {
-	DisplayName: Розовый пушистый слизячок
+	DisplayName: Розовый пушистый слизнячок
 	Tooltip: ""
 }
 
@@ -1266,7 +1266,7 @@ Shears: {
 	Tooltip:
 		'''
 		Подрезают определённые растения
-		Могут быть использованы для удаления пухоцвета и мистерниевой драпировки
+		Могут быть использованы для удаления пухоцвета и мистерниевой завесы
 		Технически могут быть испорльзованы как топор
 		'''
 }
@@ -1529,7 +1529,7 @@ LushLoomItem: {
 }
 
 TrimmedOvergrownBrickItem: {
-	DisplayName: Орезанные заросший кирпич
+	DisplayName: Обрезанный заросший кирпич
 	Tooltip: Не распространяет растительно, просто хорошо выглядит!
 }
 
@@ -1595,7 +1595,7 @@ BulbSnailCage: {
 
 LushWingletItem: {
 	DisplayName: Пышный крылунчик
-	Tooltip: «Tiny and frail.»
+	Tooltip: «Крошечный и хрупкий»
 }
 
 LushWingletTerrariumItem: {
@@ -1660,7 +1660,7 @@ StargazerPlantItem: {
 
 LunarJellyItem: {
 	DisplayName: Лунная медуза
-	Tooltip: одновременно мягкая и бесплотная
+	Tooltip: Одновременно мягкая и бесплотная
 }
 
 LunarJellyTerrariumItem: {

@@ -1,99 +1,99 @@
 HostFly: {
-	DisplayName: Hostess Winglet
-	Entry: The matriarch of a small fly colony, angry that its children are being attacked. Seems to be extinct naturally, despite the commonality of the Lush Winglet.
+	DisplayName: Матриарх крылунов
+	Entry: Матриарх маленькой колонии этих созданий, разозлённая нападением на её детей. Судя по всему, подобные особи вымирают естественно, несмотря на распростанённость пышных крылунчиков.
 }
 
 Mossling: {
-	DisplayName: Mossling
-	Entry: An almost microscopic speck, growing in and around lush, humid areas. Moves to a beat you cannot hear. Sadly, they can't be found naturally any longer.
+	DisplayName: Моховичок
+	Entry: Микроскопическое существо, обитающее во влажных местах с богатой растительностью. Двигается под ритм, который вы не можете услышать. К сожалению, сейчас их невозможно найти в дикой природе.
 }
 
 # Note that the Hostess Winglet and the Mossling are both deprecated.
 # They are only visible in-game when a cheat mod is active.
 
 SmallFly: {
-	DisplayName: Lush Winglet
-	Entry: A tiny creature made of leaf, petal and flesh. Skittish and harmless. Somehow, they hold a little sadness within.
+	DisplayName: Пышный крылунчик
+	Entry: Маленькое создание, состоящее из листвы, лепестков и плоти. Пугливо и безобидно. Каким-то образом вы ощущаете, что в них таится немного грусти.
 }
 
 Bumblebee: {
-	DisplayName: Bumblebee
-	Entry: A bee with extra bumble. Bumble with a little bit more bee on top. Speck with wings.
+	DisplayName: Шмель
+	Entry: Более пушистая пчела. Мех с небольшоим жобавлением пчелы. Крошка с крыльями.
 }
 
 Axolotl: {
-	DisplayName: Axolotl
-	Entry: A mostly aquatic creature, though it survives on land just fine...if a little jumpy. It enjoys the holes in some backslate walls.
+	DisplayName: Аксолотль
+	Entry: Предпочитает жить в воде, хотя может выжить и на суше... с небольшими проблемами. Им нравятся дыры в сланцевых породах.
 }
 
 BulbboxJelly: {
-	DisplayName: Bulbbox Jelly
-	Entry: A curious, harmless little jelly. Its plant-like tentacles grow from their transparent body.
+	DisplayName: Люмидуза
+	Entry: Любознательна безвредная маленькая медуза. Лозоподобные щупальца растут из её прозрачного тела.
 }
 
 MossCarp: {
-	DisplayName: Moss Carp
-	Entry: The bottom of this fish collects nutrients and plants, which other Moss Carp can harvest, forming a symbiotic relationship.
+	DisplayName: Моховой карп
+	Entry: На животе этой рыбы собирются разнообразные растения, которые легко может съесть другой моховой карп, что формирует симбиотическую связь.
 }
 
 Poolworm: {
-	DisplayName: Poolworm
-	Entry: The smallest aquatic critter in the Verdant. Makes for great bait.
+	DisplayName: Прудовик
+	Entry: Мельчайшее водяное сушество в Цветении. Является хорошей наживкой.
 }
 
 Flotie: {
-	DisplayName: Flotie
-	Entry: A curious glowing critter found in lush caves. It's usually found surrounded by its younglings.
+	DisplayName: Летун
+	Entry: Люоопытное светящееся насекомое, кторое можно найти в пышных пещерах. Обыно парит в окружении молодняка.
 }
 
 Flotiny: {
-	DisplayName: Flotiny
-	Entry: A tiny floating creature. Despite levitating, it makes no sound and doesn't move apart from gentle swaying, as if in a breeze.
+	DisplayName: Летунчик
+	Entry: Маленькое парящее создание. Во время левитирования он не издаёт звуков и не двигается, на считая лёгких покачиваний, которые подобны колебаниям от бриза.
 }
 
 MysteriaFlotie: {
-	DisplayName: Mysteria Flotie
-	Entry: A variant of the more common Verdant Flotie, found in Mysteria groves. Smells of a pleasant, floral aroma.
+	DisplayName: Мистерниевый летун
+	Entry: Разновидность более обычного летуна из Цветения, который встречается в мистерниевой роще. Пахнет приятным цветочным ароматом.
 }
 
 MysteriaFlotiny: {
-	DisplayName: Mysteria Flotiny
-	Entry: A recently discovered creature, Mysteria Flotinies seem to congregate around Mysteria canopies. Perhaps there's more to learn about these creatures?
+	DisplayName: Мистерниевый летунчик
+	Entry: Недавно обнаруженное создание, обитает, похоже, рядом с мистерниевыми деревьями. Возможно, получится обнаружить новую инофрмацию об этих существах?
 }
 
 Folifish: {
-	DisplayName: Folifish
-	Entry: A fish overgrown with plant life. While eating it isn't particularly tasty, it is quite healthy. However, it seems to have all but disappeared from the Verdant.
+	DisplayName: Листвобла
+	Entry: Рабы, на которой поселились растения. Хотя её мясо и не собо вкусно, оно крайне полезно. К сожалению, не похоже, чтобы хоть один экземпляр остался в Цветении.
 }
 
 PuffSlimeSmall: {
-	DisplayName: Puff Slime
-	Entry: A typical Slime, albeit significantly more friendly, curious, and fluffy!...and perhaps a little bit hyperactive, too.
+	DisplayName: Розовый пушистый слизнячок
+	Entry: На первый взгяд, обычный слизень, но значительно более дружелюбный, любознателеный и пушистый!... и совсем немного гиперактивный.
 }
 
 VerdantBulbSnail: {
-	DisplayName: Lightbulb Snail
-	Entry: Did this snail eat a light bulb? No. Did it eat a lightbulb? Perhaps.
+	DisplayName: Лампулитка
+	Entry: Эта улитка съела лампочку? Нет. Она съела почку лампоцвета? Возможно.
 }
 
 # Sorry for the below entry being really long, I just think it's funny.
 
 VerdantRedGrassSnail: {
-	DisplayName: Red Petal Snail
-	Entry: They say thousands of years ago, a mad scientist did the impossible - combined plant and animal together. The beastly creation, eschewed by man and feared by nature, stands on its own within this cruel and unforgiving world. These creatures began to seek all facets of life - power, love, friendship and most of all, just being a little guy. Some might say that in this quest, and this quest alone, they had succeeded. However, they also say they heard this from someone else in the town and they just don't really remember who, so stop asking and buy something. At the end of the day, this snail is leafy, and that's all you need to know about it.
+	DisplayName: Краснолепестковая улитка
+	Entry: Говорят, что тысячи лет назад, безумный учёный совершил невозможное - соединил растение и животное. Ужасное творение, избегаемое людьми и пугающее природу, может положиться только на себя в этом жестоком непрощающем мире. Эти создания начали искать все аспекты жизни - силу, любовь, дружбу и, более всего, просто пребываение маленьким существом. Кто-то может сказать, что в последнем, и только в последнем, они преуспели. А ещё этот кто-то сказал, что слышал он это от одного парня из города, уже не помню, от которого, так что прекрати уже спрашивать и купи что-нибудь! В конце концов, эти улитки олиственные, и это всё, что тебе следует знать.
 }
 
 ShellSnail: {
-	DisplayName: Shelly Snail
-	Entry: Less of leaves makes this snail a little more hardy, but no less awesome.
+	DisplayName: Панцирная улитка
+	Entry: Меньшее количество листвы делает улитку более твёрдой, но не менее потрясной.
 }
 
 CanopySnail: {
-	DisplayName: Canopy Snail
-	Entry: A small forest balances on this strong snail's shell. If you look closely, there's tons of very small snails in there.
+	DisplayName: Навесная улитка
+	Entry: Маленький лес балансирует на сильном панцире этой улитки. Если присмотреться, то можно увидеть множетсво маленьких улиток.
 }
 
 LunarJelly: {
-	DisplayName: Lunar Jelly
-	Entry: The night snuck down to the Verdant, it seems. These mysterious critters appear only when a Blue Stargazer is pollinated, and disappear quickly; who knows why?
+	DisplayName: Лунная медуза
+	Entry: Похоже, ночь незаметно пробралась в Цветение. Эти таинственные существа появляются только во время цветения синего мечтателя, а исчезают быстро; кто же знает, что они такое?
 }

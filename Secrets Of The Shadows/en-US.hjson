@@ -125,9 +125,6 @@ Mods: {
 		}
 
 		Prefixes: {
-			MaxVoid.DisplayName: " max void"
-			RegVoid.DisplayName: " void gain"
-			CosVoid.DisplayName: % void cost
 			# Accessories
 			Awakened.DisplayName: Awakened
 			Omniscient.DisplayName: Omniscient

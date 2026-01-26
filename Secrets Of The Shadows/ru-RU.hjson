@@ -1615,7 +1615,7 @@ Mods: {
 			}
 
 			DissolvingAuroraBlock: {
-				DisplayName: Блок элемента зари
+				DisplayName: Блок элемента сияния
 				Tooltip: ""
 			}
 
@@ -1651,7 +1651,7 @@ Mods: {
 			}
 
 			DissolvingAurora: {
-				DisplayName: Иссякающий элемент зари
+				DisplayName: Иссякающий элемент сияния
 				Tooltip: Temporary Tooltip
 			}
 
@@ -4401,7 +4401,7 @@ Mods: {
 			}
 
 			AuroraWall: {
-				DisplayName: Стена элемента зари
+				DisplayName: Стена элемента сияния
 				Tooltip: ""
 			}
 

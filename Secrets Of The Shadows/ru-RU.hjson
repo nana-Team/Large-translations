@@ -20,7 +20,7 @@ Mods: {
 			CV: Использует {0} ед. пустоты
 			InsigniaNerf: "[SOTS]: Бонусы к продолжительности полёта и мобильности снижены до победы над Люкс"
 			ArchaeologistMap: Аномалия
-			ArchaeologistItemMap: "Телепортированно: "
+			ArchaeologistItemMap: "Телепортировано: "
 			ArchaeologistShopCondition: В определённой локации
 			VoidAnomalyCrafting: Червоточная трансмутация
 			CurseTooltip: Проклято могущественным существом из джунглей
@@ -62,7 +62,7 @@ Mods: {
 			Advisor: Аналитик пробудился!
 			PharaohsCurse: Проклятье Фараона пробудилось!
 			Lux: Люкс пробудилась!
-			Glowmoth: Светляк пробудился!
+			Glowmoth: Светылёк пробудился!
 			Polaris: Полярис пробудился!
 		}
 
@@ -264,7 +264,7 @@ Mods: {
 			}
 
 			GlowmothRelic: {
-				DisplayName: Реликвия Светляка
+				DisplayName: Реликвия Светылька
 				Tooltip: ""
 			}
 
@@ -1339,7 +1339,7 @@ Mods: {
 			}
 
 			GlowmothBag: {
-				DisplayName: Мешок с сокровищами (Светляк)
+				DisplayName: Мешок с сокровищами (Светылёк)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -1359,7 +1359,7 @@ Mods: {
 
 			SuspiciousLookingCandle: {
 				DisplayName: Подозрительно выглядящая свеча
-				Tooltip: Призывает Светляка при использовании в биоме светящихся грибов
+				Tooltip: Призывает Светылька при использовании в биоме светящихся грибов
 			}
 
 			BigCrystal: {
@@ -3593,9 +3593,9 @@ Mods: {
 			}
 
 			DreamLamp: {
-				DisplayName: Лампа мечтаний
+				DisplayName: Лампа желаний
 				Tooltip: «Каково твоё желание?»
-				DisplayName1: Лампа мечтаний
+				DisplayName1: Лампа желаний
 				DisplayName2: Забытая лампа
 				Tooltip1:
 					'''
@@ -6593,12 +6593,12 @@ Mods: {
 			}
 
 			GlowmothTrophy: {
-				DisplayName: Трофей Светляка
+				DisplayName: Трофей Светылька
 				Tooltip: ""
 			}
 
 			MothMusicBox: {
-				DisplayName: Музыкальная шкатулка (Светляк)
+				DisplayName: Музыкальная шкатулка (Светылёк)
 				Tooltip: ""
 			}
 
@@ -6702,7 +6702,7 @@ Mods: {
 			}
 
 			LunaMothItem: {
-				DisplayName: Лунный мотылёк
+				DisplayName: Сатурния луна
 				Tooltip: Позволяет вылавливать обсидиановые ящики в любой жидкости
 			}
 
@@ -7707,16 +7707,16 @@ Mods: {
 
 			Glowmoth: {
 				# Glowmoth
-				DisplayName: Светляк
+				DisplayName: Светылёк
 
 				BossChecklistIntegration: {
-					EntryName: Светляк
+					EntryName: Светылёк
 					SpawnInfo: Разрушьте светящийся шёлковый кокон или призовите вручную с помощью [i:SOTS/SuspiciousLookingCandle] в биоме светящихся грибов.
-					DespawnMessage: Светляк больше не преследует вас...
+					DespawnMessage: Светылёк больше не преследует вас...
 				}
 			}
 
-			GlowmothMinion.DisplayName: Светящаяся моль
+			GlowmothMinion.DisplayName: Светящийся мотылёк
 			HookTurret.DisplayName: Гнилостная турель
 			PutridHook.DisplayName: Гнилостный отросток
 			PutridPinky1.DisplayName: Гнилостный пинки
@@ -7854,7 +7854,7 @@ Mods: {
 			ExcavatorBody.DisplayName: Экскаватор
 			SubspaceWorm.DisplayName: Субпространственный червь
 			SanguineFoundry.DisplayName: Кровавая плавильня
-			LunaMoth.DisplayName: Лунный мотылёк
+			LunaMoth.DisplayName: Сатурния луна
 			ExcavatorBody2.DisplayName: Экскаватор
 			ExcavatorTail.DisplayName: Экскаватор
 			ExcavatorDrillTail.DisplayName: Экскаватор
@@ -9176,7 +9176,7 @@ Mods: {
 				FriendlyName: Кто выключил свет?
 				Description:
 					'''
-					Одержать победу над Светляком — светящейся мерзостью из грибных пещер
+					Одержать победу над Светыльком — светящейся мерзостью из грибных пещер
 					(автор: EduaRRdo)
 					'''
 			}

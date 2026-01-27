@@ -229,7 +229,7 @@ VerdantWoodBlock: {
 }
 
 VerdantWoodChestBlock: {
-	DisplayName: Сундук из дерева изобилия
+	DisplayName: Сундук из древесины изобилия
 	Tooltip: ""
 }
 

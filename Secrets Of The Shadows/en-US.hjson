@@ -6908,6 +6908,16 @@ Mods: {
 					'''
 			}
 
+			ExcavatorHelmet: {
+				DisplayName: Drillforge Helmet
+				Tooltip: Increases max void by 25, void gain by 25%, and void regeneration speed by 10%
+				SetBonus:
+					'''
+					Increases Missile Launcher Tail attack speed by 50%
+					Increases void regeneration speed by 30%
+					'''
+			}
+
 			ExcavatorBreastplate: {
 				DisplayName: Drillforge Breastplate
 				Tooltip:
@@ -6915,11 +6925,6 @@ Mods: {
 					Gain a Missile Launcher tail that attacks nearby enemies for 1 void
 					Reduces damage taken by 10%
 					'''
-			}
-
-			ExcavatorHelmet: {
-				DisplayName: Drillforge Helmet
-				Tooltip: Increases max void by 25, void gain by 25%, and void regeneration speed by 10%
 			}
 
 			ExcavatorLeggings: {

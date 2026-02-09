@@ -1,5 +1,5 @@
 ExampleForLocalizers: <d:0.5>The d tag, or <delay:1></d> are tags used to indicate the time between letters. Used for empathis, usually</d>. <c:FF0000>The c tag is the color tag, uses a hex code.</c> <s:3> the s tag, or <size:0.2>size tag</s> changes the font size multiplier.</s>. The <a:FromTop> appear tag denotes animations used by characters when appearing </a>, and similarly, the <m:Shake> movement tag</m> denotes the movement of the text after it has appeared; The keys for the potential animations can be found in CharacterDisplacements.cs. <s:2> Tags can be <s:4>nested</s>, for convenience </s>. As a note, all tags only care about the first letter used, so you could use <s:1>, <size:1>, or <spaghetti:1>, and they all would work! Also, you're not obligated to close tags that trail at the end of a setence. You just have to close them if you want to prevent them from interfering with the rest of the setence
-CharacterName: Господин Наутилус
+CharacterName: Сэр Наутилус
 Asleep: <s:1.8><d:0.2><a:FromTop>. . .
 IntroWakeup: Хм?<d:0.6> </d><s:1.1><m:Empathis>Надо же! Какая встреча! </s></m>Не ожидал увидеть <c:afdc14><s:1.1>сухопутника</c></s> в этих коварных пучинах...
 IntroSecond: Скажи, не проходил ли ты мимо моих <c:2cdcff>собратьев по оружию</c>? Я отбился от своего отряда... и с тех пор прошло немало...

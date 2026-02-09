@@ -386,17 +386,17 @@ Mods: {
 			}
 
 			SirNautilusBossMask: {
-				DisplayName: Маска господина Наутилуса
+				DisplayName: Маска сэра Наутилуса
 				Tooltip: ""
 			}
 
 			SirNautilusRelicItem: {
-				DisplayName: Реликвия господина Наутилуса
+				DisplayName: Реликвия сэра Наутилуса
 				Tooltip: ""
 			}
 
 			SirNautilusTrophyItem: {
-				DisplayName: Трофей господина Наутилуса
+				DisplayName: Трофей сэра Наутилуса
 				Tooltip: ""
 			}
 
@@ -728,7 +728,7 @@ Mods: {
 
 			DesertProwlerHat: {
 				DisplayName: Шляпа пустынного мародёра
-				Tooltip: Увеличивает стрелковый урон на 4% и шанс сэкономить боеприпасы на 20%
+				Tooltip: Увеличивает стрелковый урон на 4% и шанс не потратить боеприпасы на 20%
 			}
 
 			DesertProwlerPants: {
@@ -1725,7 +1725,7 @@ Mods: {
 			}
 
 			SirNautilusMusicBoxItem: {
-				DisplayName: Музыкальная шкатулка (Господин Наутилус, «Beating A Dead Horseman»)
+				DisplayName: Музыкальная шкатулка (Сэр Наутилус, «Beating A Dead Horseman»)
 				Tooltip: ""
 			}
 
@@ -2351,7 +2351,7 @@ Mods: {
 			}
 
 			SirNautilusTreasureBag: {
-				DisplayName: Мешок с сокровищами (Господин Наутилус)
+				DisplayName: Мешок с сокровищами (Сэр Наутилус)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
@@ -2378,8 +2378,8 @@ Mods: {
 			CrabulonSporeBomb.DisplayName: Споровый бутон
 			CrabulonThrownSporeBomb.DisplayName: Споровый бутон
 			PeekingCrabulon.DisplayName: Крабулон
-			SirNautilus.DisplayName: Господин Наутилус
-			SirNautilusPassive.DisplayName: Господин Наутилус
+			SirNautilus.DisplayName: Сэр Наутилус
+			SirNautilusPassive.DisplayName: Сэр Наутилус
 			ASTARCRAWLER.DisplayName: АСТАР ПОЛЗУН
 			Potlet.DisplayName: Горшочничек
 			GeodeCrawler.DisplayName: Жеодовый ползун

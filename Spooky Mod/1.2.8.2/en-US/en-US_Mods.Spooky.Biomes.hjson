@@ -1,0 +1,64 @@
+SpookyBiome: {
+	DisplayName: Spooky Forest
+	TownNPCDialogueName: Spooky Forest
+}
+
+SpookyBiomeUg: {
+	DisplayName: Spooky Underground
+	TownNPCDialogueName: Underground Spooky Forest
+}
+
+CemeteryBiome: {
+	DisplayName: Swampy Cemetery
+	TownNPCDialogueName: Swampy Cemetery
+}
+
+RaveyardBiome: {
+	DisplayName: Raveyard
+	TownNPCDialogueName: Raveyard
+}
+
+CatacombBiome: {
+	DisplayName: Creepy Catacombs
+	TownNPCDialogueName: Creepy Catacombs
+}
+
+CatacombBiome2: {
+	DisplayName: Lower Catacombs
+	TownNPCDialogueName: Lower Catacombs
+}
+
+NoseTempleBiome: {
+	DisplayName: Temple of Moco
+	TownNPCDialogueName: the Temple of Moco
+}
+
+PandoraBoxBiome: {
+	DisplayName: Pandora's Box
+	TownNPCDialogueName: Pandora's Box
+}
+
+SpookyHellBiome: {
+	DisplayName: Valley of Eyes
+	TownNPCDialogueName: Valley of Eyes
+}
+
+SpookyHellEventBiome: {
+	DisplayName: Egg Incursion
+	TownNPCDialogueName: Egg Incursion
+}
+
+SpookyHellLake: {
+	DisplayName: Lake of Blood
+	TownNPCDialogueName: Lake of Blood
+}
+
+SpiderCaveBiome: {
+	DisplayName: Spider Grotto
+	TownNPCDialogueName: Spider Grotto
+}
+
+HallucinationZone: {
+	DisplayName: Hallucination Encounter
+	TownNPCDialogueName: Hallucination Encounter
+}

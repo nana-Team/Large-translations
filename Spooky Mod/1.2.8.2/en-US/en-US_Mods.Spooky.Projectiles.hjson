@@ -1,0 +1,484 @@
+SpookySolutionProj.DisplayName: Spooky Spray
+CemeterySolutionProj.DisplayName: Cemetery Spray
+SpookyHellSolutionProj.DisplayName: Eye Valley Spray
+BigBoneThorn.DisplayName: Thorn Vine
+BigBoneThornTelegraph.DisplayName: Telegraph
+BoneWisp.DisplayName: Skull Wisp
+BouncingFlower.DisplayName: Flower
+DefensiveFlowerSeed.DisplayName: Flower Seed
+FlamingWisp.DisplayName: Flaming Skull Wisp
+FlowerSpore.DisplayName: Flower Spore
+GiantFlameBall.DisplayName: Flame Blast
+HealingFlowerSeed.DisplayName: Flower Seed
+HomingFlower.DisplayName: Flower
+MassiveFlameBall.DisplayName: Flame Blast
+MassiveFlameBallBolt.DisplayName: Solar Blast
+RazorRose.DisplayName: Razor Rose
+SolarThorn.DisplayName: Solar Thorn
+GiantSnot.DisplayName: Snot Ball
+LingeringSnot.DisplayName: Snot Pile
+SnotBall.DisplayName: Snot Ball
+LingeringSnotBall.DisplayName: Snot Ball
+AcidBreath.DisplayName: Acidic Breath
+AcidTarget.DisplayName: Telegraph
+BoroBiomatter.DisplayName: Biomass
+EyeSpit.DisplayName: Saliva Ball
+EyeSpit2.DisplayName: Saliva Ball
+OrroBiomatter.DisplayName: Biomass
+DirtDebris.DisplayName: Dirt Debris
+MoldSpore.DisplayName: Mold Spore
+RotFly.DisplayName: Fly
+EyeBeam.DisplayName: Eye Beam
+EyeBeamTelegraph.DisplayName: Telegraph
+EyeBolt.DisplayName: Eye Bolt
+PhantomBomb.DisplayName: Skull Bomb
+PhantomExplosion.DisplayName: Phantom Explosion
+PhantomSeed.DisplayName: Phantom Seed
+PhantomSkullProj.DisplayName: Phantom Skull
+CruxAura.DisplayName: Crux Aura
+SalivaBall.DisplayName: Toxic Spit
+TumorOrb.DisplayName: Flesh Chunk
+BigBoneHammerProj.DisplayName: Skull Smasher
+BigBoneHammerProj2.DisplayName: Skull Smasher
+BoneMaskWisp.DisplayName: Skull Wisp
+BowFlower.DisplayName: Razor Rose
+BowFlowerThorn.DisplayName: Thorn Vine
+BowThornFlower.DisplayName: Thorn Flower
+FireBeam.DisplayName: Fire Beam
+GlowBulbProj.DisplayName: Glow Bulb
+GlowBulbThorn.DisplayName: Bulb Thorn
+GraveCrossbowArrow.DisplayName: Crossbow Arrow
+GraveCrossbowProj.DisplayName: Grave Crossbow
+NineTailsProj.DisplayName: Nine Tails
+SkullTotem.DisplayName: Skull Totem
+SoulBolt.DisplayName: Soul Bolt
+SoulSkullBolt.DisplayName: Soul Bolt
+SoulSkullMinion.DisplayName: Soul Skull
+StaffFireBolt.DisplayName: Solar Bolt
+ThornStaffBall.DisplayName: Thorn Ball
+AmuletSeed.DisplayName: Spirit Bolt
+PumpkinHead.DisplayName: Pumpkin Head
+PumpkinHeadBolt.DisplayName: Spooky Bolt
+ScrollPumpkin.DisplayName: Magic Pumpkin
+SlingshotBall.DisplayName: Ghastly Ball
+SpiritHand.DisplayName: Spirit Hand
+SpiritScrollHoldout.DisplayName: Spooky Scroll
+SpiritSlingshotProj.DisplayName: Ghostly Slingshot
+SpookyExplosion.DisplayName: Skull Explosion
+SpookySkull.DisplayName: Skull Bomb
+BigBonePet.DisplayName: Baby Bone
+FuzzBatPet.DisplayName: Fuzz Bat
+GhostPet.DisplayName: Lil Ghost
+MocoPet.DisplayName: Baby Moco
+RotGourdPet.DisplayName: Rotten Gourd
+SkullEmoji.DisplayName: Skull Emoji
+SpookySpiritPet.DisplayName: Mini Spirit
+CandyBagProj.DisplayName: Candy Bag
+Candy.DisplayName: Candy
+ElGourdoProj.DisplayName: El Gourdo
+LeafProjGreen.DisplayName: Leaf
+LeafProjOrange.DisplayName: Leaf
+LeafProjRed.DisplayName: Leaf
+SkullWisp.DisplayName: Skull Wisp
+SwarmFly.DisplayName: Fly
+ToiletPaperProj.DisplayName: Toilet Paper
+ZombiePart1.DisplayName: Zombie Piece
+ZombiePart2.DisplayName: Zombie Piece
+ZombiePart3.DisplayName: Zombie Piece
+BlasterBoogerBig.DisplayName: Snot Ball
+BlasterBoogerSmall.DisplayName: Snot Ball
+BoogerBlasterProj.DisplayName: Booger Blaster
+BoogerFlailFlung.DisplayName: Snot Ball
+BoogerFlailProj.DisplayName: Snot Ball
+BowEye.DisplayName: Seer Eye
+Brainy.DisplayName: Brainy
+BrainyExplosion.DisplayName: Brain Explosion
+ControllableEye.DisplayName: Magic Eye
+ControllableEyeBig.DisplayName: Magic Eye
+ControllableEyeBigExplosion.DisplayName: Eye Explosion
+EyeArmorMinion.DisplayName: Eye Minion
+EyeFlailProj.DisplayName: Chained Eye
+EyeFlailProj2.DisplayName: Chained Eye
+EyeRocket.DisplayName: Eye Rocket
+EyeRocketLauncherProj.DisplayName: I.C.U
+FleshWhipProj.DisplayName: Eye Lasher
+Leech.DisplayName: Leech
+LeechWhipProj.DisplayName: Leecher
+NerveWhipProj.DisplayName: Exposed Nerve
+NoseMinion.DisplayName: Nose Fly
+ScyclerProj.DisplayName: Scycler
+TortumorMinion.DisplayName: Tortumor
+TortumorMinionOrb.DisplayName: Tumor Orb
+CauldronTransformProj.DisplayName: Cauldron Transform
+OrroboroSpawn.DisplayName: Orroboro Spawner
+DecayDebuffFly.DisplayName: Decay Debuff Fly
+BigBoneHammerSwung.DisplayName: Skull Smasher
+BrainJarProj.DisplayName: Brainy Jar
+CauldronDummy.DisplayName: Cauldron
+SentientKatanaSlash.DisplayName: Conscious Slash
+SentientKatanaSlashSpawner.DisplayName: Conscious Slash
+CursedFlamePillar.DisplayName: Cursed Pillar
+SentientChikProj.DisplayName: Pendeloque
+SentientChikTear.DisplayName: Crystal Tear
+ToxicBubble.DisplayName: Toxic Bubble
+ToxicBubblePurple.DisplayName: Toxic Bubble
+ToxicBubbleBlue.DisplayName: Toxic Bubble
+ToxicBubbleRed.DisplayName: Toxic Bubble
+SentientLeatherWhipProj.DisplayName: Licker
+SentientShootiusSentry.DisplayName: Sentient Shootius
+SentientShootiusBolt.DisplayName: Sentient Shootius Bolt
+Grug.DisplayName: Grug
+GrugFireball.DisplayName: Cursed Fireball
+BloodTooth.DisplayName: Blood Tooth
+DrainedSoulHealth.DisplayName: Health Soul
+DrainedSoulMana.DisplayName: Mana Soul
+SoulDrainShockwave.DisplayName: Soul Shockwave
+SentientBladeTongueProj.DisplayName: Tongueblade
+IchorCloud.DisplayName: Ichor Cloud
+SentientSkull.DisplayName: Chomping Skull
+SpookySpiritSpawn.DisplayName: Spooky Spirit Spawner
+BrickProj.DisplayName: Heavy Brick
+OldWoodSlingshotProj.DisplayName: Old Wood Slingshot
+MossyPebbleProj.DisplayName: Mossy Pebble
+OldWoodStaffProj.DisplayName: Old Wood Staff
+OldWoodStaffBolt.DisplayName: Magic Bolt
+Columbo.DisplayName: Columbo
+ColumboFinger.DisplayName: Columbo
+ShroomWhipProj.DisplayName: Spore Smacker
+ShroomWhipSpore.DisplayName: Shroom Spore
+GhastlyOrbProj.DisplayName: Ghastly Orb
+ChlorophyllFlower.DisplayName: Chlorophyll Flower
+FleshPillarTelegraph.DisplayName: Telegraph
+FleshPillar.DisplayName: Flesh Pillar
+GourdFlailProj.DisplayName: Rotty's Wrath
+GourdFlailFly.DisplayName: Fly
+GourdSlingshotProj.DisplayName: Stinky Slinger
+MoldyPelletProj.DisplayName: Moldy Pellet
+MoldPelletFly.DisplayName: Mold Fly
+SkullGoop.DisplayName: Skull Goop
+SolarLaser.DisplayName: Solar Laser
+ThornBall.DisplayName: Thorn Ball
+ThornBallSpike.DisplayName: Thorn Spike
+DaffodilFly.DisplayName: Large Fly
+ShroomFlailProj.DisplayName: Fungal Flail
+ShroomHopperPet.DisplayName: Shroom Hopper
+FlyPet.DisplayName: Cornelious
+FemurFractureSwung.DisplayName: Femur Fracturer
+FemurFractureProj.DisplayName: Femur Fracturer
+FemurFractureSkull.DisplayName: Fracturer Skull
+VenomBreath.DisplayName: Venom Breath
+CatPet.DisplayName: Black Kitten
+StickyEyePet.DisplayName: Glow In The Dark Eye
+SentientGatligatorGiblet.DisplayName: Meat Giblet
+SwordSlashBase.DisplayName: Sword Slash Base
+SentientKatanaSwingSlash.DisplayName: Conscious Cutter
+StinkBlast.DisplayName: Stink Blast
+TonguebladeSlash.DisplayName: Tongueblade
+EggEventHandler.DisplayName: Egg Barrier
+SentientChumCasterBobber.DisplayName: Sentient Bobber
+ThornPillarSeed.DisplayName: Seed
+ThornPillar.DisplayName: Thorn Pillar
+SolarDeathbeamTelegraph.DisplayName: Telegraph
+ChungusSpore.DisplayName: Spore
+FlameIdolProj.DisplayName: Flame Idol
+NautilusSpit1.DisplayName: Bloody Ink
+NautilusSpit2.DisplayName: Bloody Ink
+NautilusBubble1.DisplayName: Nautilus Bubble
+NautilusBubble2.DisplayName: Nautilus Bubble
+NautilusBiomass.DisplayName: Nautilus Biomass
+ValleyNautilusPet.DisplayName: Baby Cephalopod
+ValleySharkThorn.DisplayName: Blood Spike
+ControllableNose.DisplayName: Controllable Nose
+ControllableNoseBooger.DisplayName: Booger
+FlowerArmorPollen.DisplayName: Pollen
+SkullAmuletSoul.DisplayName: Soul
+ThornPillarBarrierFloor.DisplayName: Thorn Barrier
+ThornPillarBarrierSide.DisplayName: Thorn Barrier
+TakeCoverTelegraph.DisplayName: Telegraph
+DaffodilBladeSlash.DisplayName: Thorn Dagger
+DaffodilRodFlower.DisplayName: Sunflower Bolt
+MistGhostSpawn.DisplayName: Mist Ghost Spawner
+NoseMinionBooger.DisplayName: Booger
+OldHunterMelee.DisplayName: Warrior Spirit
+OldHunterRanged.DisplayName: Shotgunner Spirit
+OldHunterRangedBullet.DisplayName: Ghost Bullet
+OldHunterMage.DisplayName: Mage Spirit
+OldHunterMagicBolt.DisplayName: Spirit Bolt
+LivingFleshWhipProjBlue.DisplayName: Living Eye Lasher
+LivingFleshWhipProjRed.DisplayName: Living Eye Lasher
+FleshBowChunk1.DisplayName: Bloot Clot
+FleshBowChunk2.DisplayName: Blood Clot
+LivingFleshAxeEye.DisplayName: Eye
+PandoraBeanPet.DisplayName: Von Anguston VI heir to the throne of the king bean
+PandoraEnemySpawnChester.DisplayName: Pandora's Box Enemy Spawner
+StitchBolt.DisplayName: Ghast Bolt
+BobbertExplosion.DisplayName: Bobbert
+DaffodilBowProj.DisplayName: Fly Shot
+DaffodilBowFly.DisplayName: Fly
+DaffodilHandMinion.DisplayName: Plant Hand
+PandoraCrossSound.DisplayName: Cross Bass
+RotGourdMinion.DisplayName: Rot-Goober
+PandoraRosaryHand.DisplayName: Ghastly Hand
+PandoraChaliceOrb.DisplayName: Ghastly Orb
+OldWoodArrowProj.DisplayName: Old Wood Arrow
+PandoraCuffProj.DisplayName: Samson's Cuff
+HarvesterScytheSlash.DisplayName: Harvester's Scythe
+SpiritSwordSlash.DisplayName: Spooky Buster
+FleshAxeSlash.DisplayName: Flesh Mincer
+LivingFleshAxeSlash.DisplayName: Living Flesh Mincer
+PartyNailBolt.DisplayName: Party Bolt
+PetscopMarvinPet.DisplayName: Marvin
+PetscopPet.DisplayName: Guardian
+PetscopTiaraPet.DisplayName: Tiara
+Alternate.DisplayName: Alternate
+BackroomsCorpseHead.DisplayName: Decayed Head
+PolybiusSwirl.DisplayName: Polybius Swirl
+FoodEnhancerSpore.DisplayName: Food Enhancer Spore
+MiniBoroBody.DisplayName: Mini-Boro
+MiniBoroHead.DisplayName: Mini-Boro
+MiniBoroTail.DisplayName: Mini-Boro
+MiniOrroBody.DisplayName: Mini Orro Body
+MiniOrroHead.DisplayName: Mini Orro Head
+MiniOrroTail.DisplayName: Mini Orro Tail
+InchwormPet.DisplayName: Inchworm
+SlendermanTentacle.DisplayName: Shadow Tentacle
+HerobrineLightning.DisplayName: Lightning
+DaffodilRodProj.DisplayName: Sunflower Rod
+SentientPaladinsHammerProj.DisplayName: Dave & Mike
+ZomboidRootThorn.DisplayName: Root Spike
+ZomboidRootThornTelegraph.DisplayName: Thorn Telegraph
+ZomboidRootThornFire.DisplayName: Flaming Root Spike
+ZomboidRootThornTelegraphFire.DisplayName: Thorn Telegraph
+TelegraphRedLeft.DisplayName: Telegraph
+TelegraphRedDown.DisplayName: Telegraph
+TelegraphRedRight.DisplayName: Telegraph
+TelegraphRedUp.DisplayName: Telegraph
+GraveDiggerShovelBonk.DisplayName: Bonk
+SphiderFlailProj.DisplayName: Swingable Sphider
+SphiderFlailWeb.DisplayName: Web Ball
+MocoNoseSnot.DisplayName: Snot
+WitchPotion.DisplayName: Witch's Potion
+WeaverSpikeRed.DisplayName: Orb Weaver Spike
+WeaverSpikeGreen.DisplayName: Orb Weaver Spike
+WeaverSpikeBlack.DisplayName: Orb Weaver Spike
+Local58Moon.DisplayName: The Moon
+OrbWeaverShieldProj.DisplayName: Spike Shell Basher
+OrbWeaverShieldSpike.DisplayName: Shield Spike
+CannonEggBig.DisplayName: Spider Egg
+CannonEggSmall.DisplayName: Spider Egg
+CannonSpider.DisplayName: Little Spider
+LeafSpiderAcid.DisplayName: Acid Spit
+WeaverSpikeGiant.DisplayName: Orb Weaver Spike
+OrbWeaverBoomerangProj.DisplayName: Weaverang
+OrbWeaverSentryBig.DisplayName: Big Orb Weaver Sentry
+OrbWeaverSentryBigSpike.DisplayName: Weaver Sentry Spike
+OrbWeaverSentrySmall.DisplayName: Orb Weaver Sentry
+OrbWeaverSentrySmallSpike.DisplayName: Weaver Sentry Spike
+PheromoneWhipProj.DisplayName: Pheromone Stinger
+SpiderSwordProj.DisplayName: Spider Stabber
+SpiderCrossbowProj.DisplayName: Venomous Crossbow
+SpiderCrossbowDart.DisplayName: Poison Dart
+TarantulaHawkBowProj.DisplayName: Spider-Wing Longbow
+TarantulaHawkArrow.DisplayName: Tarantula Hawk Arrow
+SpiderSummonEggProj.DisplayName: Strange Spider Egg
+SpiderBabyGreen.DisplayName: Baby Spider
+SpiderBabyPurple.DisplayName: Baby Spider
+SpiderBabyRed.DisplayName: Baby Spider
+TatantulaTomeFly.DisplayName: Large Fly
+SpiderSlingshotProj.DisplayName: Web Flinger
+SpiderSlingshotWeb.DisplayName: Web Ball
+RazorRoseTelegraph.DisplayName: Telegraph
+RazorRoseTelegraphLockOn.DisplayName: Telegraph
+RazorRoseOrange.DisplayName: Fire Rose
+BoneBowProj.DisplayName: Bone Bender
+BoneBowArrow.DisplayName: Piercing Bone
+HighVelocitySlingshotProj.DisplayName: High-Velocity Slingshot
+HighVelocityPebble.DisplayName: High Velocity Pebble
+RedMistNote.DisplayName: Red Mist Note
+NaturesMockery.DisplayName: Nature's Mockery
+RottenGourdFly.DisplayName: Rotten Gourd Fly
+RustedBulletProj.DisplayName: Rusted Bullet
+RustedBulletShrapnel.DisplayName: Rusted Shrapnel
+MoltenCandleChunk.DisplayName: Molten Candle Chunk
+GodGunProj.DisplayName: Holy Fire
+SmilingDog.DisplayName: Smiling Puppy
+DiscoPartySkull.DisplayName: Disco Skull
+RedFace.DisplayName: Red Apparition
+SpiderLegStaffProj.DisplayName: Arachnid Leg Wand
+SpiderLeg.DisplayName: Arachnid Leg
+ManHoleBloodBall.DisplayName: Blood Glob
+TortumorYoyoProj.DisplayName: Tumor Throw
+TortumorYoyoChunk.DisplayName: Tumor Chunk
+LivingFleshEye.DisplayName: Living Flesh Eye
+TomatoGlob.DisplayName: Tomato Glob
+TomatoSauce.DisplayName: Tomato Sauce
+CatacombCrusherDeath1.DisplayName: Ancient Crusher
+CatacombCrusherDeath2.DisplayName: Ancient Crusher
+CatacombCrusherDeath3.DisplayName: Ancient Crusher
+CatacombCrusherDeath4.DisplayName: Gilded Crusher
+PitcherSpitPoison.DisplayName: Poison Spit
+PitcherSpitVenom.DisplayName: Venom Spit
+SmellyFly.DisplayName: Corpse Fly
+NoseCultistBruteFlail.DisplayName: Booger Flail
+DaffodilBeam.DisplayName: Solar Beam
+DragonfruitOrbiter.DisplayName: Diva Dragon Fruit
+MonkeyOrchidShuriken.DisplayName: Monkey Orchid Shuriken
+GhastlyPumpkin.DisplayName: Ghastly Pumpkin
+BouncyLemon.DisplayName: Bouncy Lemon
+ZucchiniLightning.DisplayName: Zucchini Zap
+RoseThornRing.DisplayName: Ring of Thorns
+IrisPetalLockOn.DisplayName: Iris Eye
+IrisPetal.DisplayName: Iris Petal
+NoseCultistGruntSnot.DisplayName: Snot
+NoseCultistWingedSnot.DisplayName: Snot
+NoseCultistMageSnot.DisplayName: Snot Ball
+OrbitingBoogerProj.DisplayName: Booger Ball
+NoseBallPurpleProj.DisplayName: Nolegam
+NoseBallRedProj.DisplayName: Nolegam
+NoseCultistEnemySpawner.DisplayName: Snot Ball
+MocoSpawnerPower.DisplayName: Snot Ritual Power
+MocoEye.DisplayName: Moco's Eye
+MoclingProjectile.DisplayName: Mocling
+SnotRocketProj.DisplayName: Snot Rocket
+SnotRocketBall.DisplayName: Snot Ball
+SnotRocketLinger.DisplayName: Snot Pile
+DandelionFloater1.DisplayName: Seed Cluster
+DandelionFloater2.DisplayName: Seed Cluster
+DandelionFloater3.DisplayName: Seed Cluster
+BlueberryExplosion.DisplayName: Frost Explosion
+SnotBulletProj.DisplayName: Mucus Bullet
+BrainBeam.DisplayName: Confusion Beam
+GiantBiomassPurple.DisplayName: Biomass
+GiantBiomassRed.DisplayName: Biomass
+BiojetterDeath.DisplayName: Biojetter
+MocoSpawnerProj.DisplayName: Moco Spawner
+HeartGlob1.DisplayName: Heart Glob1
+HeartGlob2.DisplayName: Heart Glob2
+AppendixLingerCloud.DisplayName: Ichor Cloud
+ToxicBloodSplatter.DisplayName: Toxic Blood Splatter
+YellowSplatter.DisplayName: Ichor
+RedSplatter.DisplayName: Blood
+GreenSplatter.DisplayName: Ooze
+BlueSplatter.DisplayName: Ooze
+CoughCloud.DisplayName: Ichor Cloud
+SpiderWeb.DisplayName: Spider Web
+SpiderMissile.DisplayName: Heat-Seeking Missile
+SnotMonsterBooger.DisplayName: Snot
+LingeringEye.DisplayName: Eye Rune
+LingeringEyeSpawner.DisplayName: Rune Magic
+HomingEye.DisplayName: Magic Eye
+BouncingEye.DisplayName: Bouncing Eye
+EyeOrbEnergy.DisplayName: Eye Energy
+SneezerProj.DisplayName: Sneezer
+SnotArrowProj.DisplayName: Booger Arrow
+VesicatorBiomass.DisplayName: Biomass
+EyeMine.DisplayName: Eye Mine
+SentientMineLauncherProj.DisplayName: Eye Belcher
+SentientVenusMagnumProj.DisplayName: Ooze Magnum
+OozeBig.DisplayName: Bile
+OozeSmall.DisplayName: Bile
+OozeTooth.DisplayName: Tooth
+EyeMineExplosion.DisplayName: Eye Mine Explosion
+EnergyHeart.DisplayName: Energy Heart
+EnergyHeartBolt.DisplayName: Blood Energy
+SentientKeybrandProj.DisplayName: Molar Mauler
+SentientKeybrandThrown.DisplayName: Molar Mauler
+OrganicChunk.DisplayName: Carrion Chunk
+SentientLeafBlowerProj.DisplayName: Carrion Chunker
+WingedBiomass.DisplayName: Winged Biomass
+WingedBiomassFalling.DisplayName: Winged Biomass
+WingedBiomassEye.DisplayName: Eye
+Billy.DisplayName: Billy Bone
+BillyFeather.DisplayName: Billy Feather
+BiojetterBiomass.DisplayName: Biojetter Biomass
+BillyPhantomPortal.DisplayName: Phantom Portal
+BillyPhantom.DisplayName: Billy Phantom
+GraveDiggerShovelSwung.DisplayName: Cemetery Digger's Shovel
+StrawberryBoost.DisplayName: Strawberry Boost
+MapleSeedBoost.DisplayName: Maple Seed Boost
+GooseberryBoost.DisplayName: Gooseberry Boost
+OrangeOrbiter.DisplayName: Angry Orange
+OrangeOrbiterTrail.DisplayName: Angry Orange
+BanditBruiserFist.DisplayName: Phantom Fist
+BanditWizardBall.DisplayName: Magic Blast
+BanditWizardBallSplitting.DisplayName: Magic Blast
+BanditWizardBallSmall.DisplayName: Magic Blast
+BanditPriestCross.DisplayName: Cross Bolt
+BanditPriestBall.DisplayName: Magic Blast
+BanditPriestBuffer.DisplayName: Shield Magic
+GhostSpawner1.DisplayName: Ghost Spawner
+GhostSpawner2.DisplayName: Ghost Spawner
+GhostSpawner3.DisplayName: Ghost Spawner
+GoblinEyeDebris.DisplayName: Bouncy Eye
+GoblinEyeDebrisGrounded.DisplayName: Bouncy Eye
+PeptoBubble.DisplayName: Pepto Bubble
+EarWormSound.DisplayName: Sound Wave
+EarWormSoundBase.DisplayName: Sound Wave
+EarParasite.DisplayName: Ear Parasite
+EarParasiteSound.DisplayName: Sound Wave
+EarParasiteSoundBase.DisplayName: Sound Wave
+VeinChainProj.DisplayName: Leeching Vein
+GooChomperProj.DisplayName: Corrosive Bite
+CoughSmokeCloud.DisplayName: Smoke Cloud
+CoughSmokeCloudSmall.DisplayName: Smoke Cloud
+KidneyRock.DisplayName: Kidney Rock
+SnotBlessingOrbiter.DisplayName: Snot ball
+LingeringEyeBolt.DisplayName: Lingering Eye Bolt
+FlameIdolAura.DisplayName: Flame Combustion
+FlameIdolRing.DisplayName: Flame Ring
+GlassEye.DisplayName: Glass Eye
+StitchedCloakWeb.DisplayName: Stitched Cloak Web
+SewingNeedle.DisplayName: Sewing Needle
+Tumbleweed.DisplayName: Tumbleweed
+MistGhostMiniFace.DisplayName: Mistling
+BanditBruiserMinion.DisplayName: Rarg's Spirit
+BanditPriestMinion.DisplayName: Blueford's Spirit
+BanditWizardMinion.DisplayName: Greeny's Spirit
+BanditWizardMinionBall.DisplayName: Magic Blast
+BanditPriestMinionBuffer.DisplayName: Shield Magic
+MapleSeedBooster.DisplayName: Maple Seed Booster
+OrroboroPet.DisplayName: Orroboro Pet
+VenomHarpoonProj.DisplayName: Venomous Spiderpoon
+VenomHarpoonSpike.DisplayName: Venom Harpoon
+VenomHarpoonSpit.DisplayName: Venom Spit
+ZomboidArmoredLightning.DisplayName: Lightning
+EntityMinion1.DisplayName: Mini Entity
+EntityMinion2.DisplayName: Mini Entity
+EntityMinion3.DisplayName: Mini Entity
+FleshBolsterBuffer.DisplayName: Flesh Bolster Buffer
+ZombieCultistPet.DisplayName: Zombie Cultist
+BeePet.DisplayName: Pollinator Bee
+RatPet.DisplayName: Albino Rat
+PuttyPet1.DisplayName: Putty Slime
+PuttyPet2.DisplayName: Putty Slime
+PuttyPet3.DisplayName: Putty Slime
+PuttyPetDisplay.DisplayName: Putty Display
+FleshAxeProj.DisplayName: Flesh Mincer
+LivingFleshAxeProj.DisplayName: Living Flesh Mincer
+BouncingBone.DisplayName: Bouncing Bone
+SpookyBubble.DisplayName: Spicy Bubble
+SpookyFlames.DisplayName: Spooky Flames
+SpookySword.DisplayName: The Horseman's Blade
+SpookySwordSpin.DisplayName: The Horseman's Blade
+SpookySwordPumpkin.DisplayName: Horseman Pumpkin
+SpookyTornado.DisplayName: Spooknado
+SpookyTornadoSpawner.DisplayName: Spooky Vortex
+StakeLauncher.DisplayName: Stake Launcher
+StakeLauncherSpin.DisplayName: Stake Launcher
+Stake.DisplayName: Stake
+SpooklizzardStaff.DisplayName: Blizzard Staff
+SpooklizzardStaffSpin.DisplayName: Blizzard Staff
+SpookmasSword.DisplayName: Christmas Tree Sword
+SpookmasSwordSpin.DisplayName: Christmas Tree Sword
+SpookmasSwordStar.DisplayName: Christmas Star
+SharkronExplosion.DisplayName: Sharkron Explosion
+SharkronFireball.DisplayName: Sharkron Fireball
+SpookFishronGunFire.DisplayName: Spooky Flames
+SpookFishronFlailProj.DisplayName: Spicy Flairon
+SpookFishronFlailBubble.DisplayName: Spicy Bubble
+SinisterSnailPet.DisplayName: Sinister Snail
+SpookFishronMinion.DisplayName: Spooky Pigron
+SpookFishronMinionBubble.DisplayName: Spicy Bubble
+SpookFishronBowProj.DisplayName: Firestorm Monsoon
+SpookFishronBowBolt.DisplayName: Firebolt
+SpookFishronTornado.DisplayName: Spooknado

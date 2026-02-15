@@ -1,41 +1,43 @@
-Spooky Mod — это относительно большой мод, добавляющий довольно забавный и разнообразный контент с отдалённой тематикой Хэллоуина и жутковатости.
+Spooky mod is a large content mod that adds in content with lots of personality, with a general theme of halloween and other spooky stuff
 
-На данный момент, мод добавляет:
+Currently the mod has:
 
-- большое количество новых биомов и огромную подземную структуру, полную контента для изучения
-- большое количество боссов и событий для битвы
-- тонну разнообразного контента, такого как оружие, комплекты брони, аксессуары, питомцы, враги, блоки и всё остальное
-- пиковый саундтрек для всех биомов, событий и боссов
-- и, вероятно, ещё больше контента в будущем!
-
-
-Spooky Mod также имеет совместимость со следующими модами:
-
-- Boss Checklist: все важные боссы и события спуки мода расположены по своим местам в прогрессии в журнале боссов
-- Music Display: названия всех песен и их авторы отображаются при проигрывании соответствующих песен
+-Many new biomes and structures to explore, all of which filled with new content to discover
+-Many new bosses and new events to fight
+-Tons of other usual content such as weapons, armor sets, accessories, pets, enemies, blocks, and whatever else
+-Banger soundtracks for all of the biomes, events, and bosses
+-And probably more to come in the future!
 
 
-Некоторые предупреждения:
-- Этот мод добавляет несколько довольно больших биомов, поэтому его использование с другими модами, которые также добавляют много больших биомов или структур, может вызвать проблемы или другие конфликты! Играйте с модами так как вам нравится, но просто помните о возможных проблемах! (В Spooky Mod также есть несколько настроек в конфиге, которые позволяют вам изменять местоположение определённых биомов!)
-- В настоящее время Spooky Mod несовместим ни с одним из секретных сидов ванильной Террарии. Даже если что-то работает, всё равно возможны проблемы, как неправильное генерирование биомов, остановка генерации мира и вылеты!
-- Несмотря на то, что Spooky Mod в основном совместим с мультиплеером, с ним всё ещё могут возникать некоторые проблемы. Проблемы с мультиплеером будут исправляться по мере работы над модом, и мы будем благодарны, если вы сообщите о любых возникающих проблемах на странице мода в стиме или на нашем дискорд-сервере!
+Spooky mod also has compatibility with the following mods:
+
+-Boss checklist: All of spooky mod's important bosses and events are listed on boss checklist in their general places of progression
+-Music display: All of spooky mod's songs and the artists who made those songs will display when they start playing
 
 
-[h1]Разработчики[/h1]
-Большая благодарность выражается всем людям, вложившим и вкладывающим по сей день свой вклад в развитие мода!
+Some Warnings:
+-This mod adds in a bunch of fairly large biomes, so playing this mod with other mods that add in lots of large biomes/structures may cause issues or other conflictions! Don't let this discourage you from playing with other mods how you like, but just be aware of potential issues! (Spooky mod also has multiple config options which allow you to change where certain biomes spawn!)
+-Spooky mod is not currently compatible with any of terraria's secret world seeds. It may work with some seeds, but issues such as biomes generating incorrectly, world generation freezing, and crashing may happen!
+-While spooky mod is mostly multiplayer compatible, there may be still be some smaller issues. Multiplayer issues will continue getting fixed as the mod is worked on, and it would be greatly appreciated if any multiplayer issues you encounter are reported on either this mod's steam page or our discord server!
 
-Разработчики: DylanDoe21, Hugekraken, Taco, Waasephi, Seasalt, Dandy, Hat in a River, Bananalizard, Rockwizard5, Luxcapacitor и Jim2OUK
-Вложившие вклад: Grae, Graydee, Lion8cake, HondaCivicMoment, RocketLauncher, Guck, Ennway и Tomat, а также отдельная благодарность Vortex of Rainbows, разрешившему использовать свой код визуальных эффектов в качестве примера для разработки!
-Также спасибо zapsplat.com, бесплатной библиотеке звуков, из которой взято большинство звуковых эффектов, используемых в моде
 
-И, конечно же, спасибо всем, кто поддерживал мод и развивал его сообщество!
+[h1]Developers[/h1]
 
-[h1]Другое[/h1]
-Для любых вопросов и фидбека, а также просто место, где можно потусоваться — наш Discord-сервер: [h1][url=https://discord.gg/FFp7FwNBxu] Нажмите, чтобы присоединиться! [/url][/h1]
+Massive thanks to all the people who have helped out the mod in some way, or are actively helping develop it!
 
-У мода также есть страница на Terraria Community Forums, которую можно найти [h1][url=https://forums.terraria.org/index.php?threads/spooky-mod.111311/] Здесь! [/url][/h1]
+Developers: DylanDoe21, Hugekraken, Tortilla, Waasephi, Seasalt, Dandy, Hat in a River, Astrobit, Bananalizard, Rockwizard5, Luxcapacitor, Jim2OUK
+Contributors: Grae, Graydee, Lion8cake, HondaCivicMoment, RocketLauncher, Guck, Ennway, Tomat, Vortex of Rainbows, Kekcroc, Ebonfly
+Also credit to zapsplat.com, a free sound library where most of the custom sound effects used in this mod come from
 
-Вы также можете послушать саундтрек и поддержать Bananalizard'а здесь:
-[h1][url=https://www.youtube.com/playlist?list=PLTkIRNhpw-3HBf7cKj8oRwepQE6vRYsdR] YouTube-плейлист [/url][/h1]
+And of course, thanks to everyone who has supported the mod or shown interest in any way!
 
-Вы также можете поддержать саундтрек на Bandcamp, ссылку на который по какой-то причине стим мне не позволяет оставить, но вы можете её найти на нашем дискорд-сервере.
+[h1]Other Stuff[/h1]
+
+If you have questions, feedback, or just want to hangout, we have a discord server: [h1][url=https://discord.gg/FFp7FwNBxu] Click here to join! [/url][/h1]
+
+We also have a terraria community forums page, which can be found [h1][url=https://forums.terraria.org/index.php?threads/spooky-mod.111311/] Here! [/url][/h1]
+
+You can also listen to and support bananalizard's soundtrack here:
+[h1][url=https://www.youtube.com/playlist?list=PLTkIRNhpw-3HBf7cKj8oRwepQE6vRYsdR] Youtube Playlist [/url][/h1]
+
+You can also support the soundtrack on bandcamp, which steam won't let me link here for whatever reason, but you can find it in the discord server

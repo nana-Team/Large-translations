@@ -1,0 +1,131 @@
+CemeteryBiomeChest: {
+	MapEntry0: Swampy Cemetery Chest
+	MapEntry1: Locked Swampy Cemetery Chest
+}
+
+SpiderCaveChest: {
+	MapEntry0: Spider Grotto Chest
+	MapEntry1: Locked Spider Grotto Chest
+}
+
+SpookyBiomeChest: {
+	MapEntry0: Spooky Forest Chest
+	MapEntry1: Locked Spooky Forest Chest
+}
+
+SpookyHellChest: {
+	MapEntry0: Eye Chest
+	MapEntry1: Locked Eye Chest
+}
+
+EyeDresser: {
+	ContainerName: Living Flesh Dresser
+	MapEntry: Dresser
+}
+
+CultistDresser: {
+	ContainerName: Occultist Dresser
+	MapEntry: Dresser
+}
+
+SpiritAltar.MapEntry: Spirit Altar
+CemeterySapling.MapEntry: Sapling
+BigBoneBoxTile.MapEntry: Music Box
+CatacombBoxTile.MapEntry: Music Box
+CatacombBox2Tile.MapEntry: Music Box
+CemeteryBoxTile.MapEntry: Music Box
+DaffodilBoxTile.MapEntry: Music Box
+EggEventBoxTile.MapEntry: Music Box
+MocoBoxTile.MapEntry: Music Box
+NoseTempleBoxTile.MapEntry: Music Box
+PandoraEventBoxTile.MapEntry: Music Box
+RaveyardBoxTile.MapEntry: Music Box
+RotGourdBoxTile.MapEntry: Music Box
+SpiderCaveBoxTile.MapEntry: Music Box
+SpookyBiomeDayBoxTile.MapEntry: Music Box
+SpookyBiomeNightBoxTile.MapEntry: Music Box
+SpookyBiomeRainBoxTile.MapEntry: Music Box
+SpookyBiomeUGBoxTile.MapEntry: Music Box
+OrroboroBoxTile.MapEntry: Music Box
+SpookyBloodmoonBoxTile.MapEntry: Music Box
+SpookyHellBoxTile.MapEntry: Music Box
+SpookyMenuBoxTile.MapEntry: Music Box
+SpookySpiritBoxTile.MapEntry: Music Box
+CemeteryPylon.MapEntry: Swampy Cemetery Pylon
+SpiderCavePylon.MapEntry: Spider Grotto Pylon
+SpookyBiomePylon.MapEntry: Spooky Forest Pylon
+SpookyHellPylon.MapEntry: Eye Valley Pylon
+FlyBigJar.MapEntry: Big Fly Jar
+FlySmallJar.MapEntry: Fly Jar
+OldWoodBathtub.MapEntry: Bathtub
+OldWoodBed.MapEntry: Bed
+OldWoodBookcase.MapEntry: Bookcase
+OldWoodCandle.MapEntry: Candle
+OldWoodChair.MapEntry: Chair
+OldWoodChest.MapEntry: Old Wood Chest
+OldWoodDoorClosed.MapEntry: Door
+OldWoodDoorOpen.MapEntry: Door
+OldWoodOrgan.MapEntry: Organ
+OldWoodSofa.MapEntry: Sofa
+OldWoodTable.MapEntry: Table
+OldWoodWorkBench.MapEntry: Work Bench
+GiantShroom.MapEntry: Giant Shroom
+SpookySapling.MapEntry: Sapling
+SpookySaplingGreen.MapEntry: Sapling
+Cauldron.MapEntry: Creepy Cauldron
+EyeBathtub.MapEntry: Bathtub
+EyeBed.MapEntry: Bed
+EyeBookcase.MapEntry: Bookcase
+EyeCandelabra.MapEntry: Candelabra
+EyeCandle.MapEntry: Candle
+EyeChair.MapEntry: Chair
+EyeChandelier.MapEntry: Chandelier
+EyeChest.MapEntry: Monster Chest
+EyeClock.MapEntry: Clock
+EyeDoorClosed.MapEntry: Door
+EyeDoorOpen.MapEntry: Door
+EyeLamp.MapEntry: Lamp
+EyeLantern.MapEntry: Lantern
+EyePiano.MapEntry: Piano
+EyeSink.MapEntry: Sink
+EyeSofa.MapEntry: Sofa
+EyeTable.MapEntry: Table
+EyeWorkBench.MapEntry: Work Bench
+EyeSapling.MapEntry: Stalk Sapling
+EyeTree.MapEntry: Eye Stalk
+BigBoneTrophy.MapEntry: Trophy
+BoroTrophy.MapEntry: Trophy
+DaffodilTrophy.MapEntry: Trophy
+MocoTrophy.MapEntry: Trophy
+OrroTrophy.MapEntry: Trophy
+RotGourdTrophy.MapEntry: Trophy
+SpookySpiritTrophy.MapEntry: Trophy
+BigFlower.MapEntry: Big Flower
+MysteriousTombstone.MapEntry: Mysterious Tombstone
+GiantRoot.MapEntry: Giant Root
+GraveShovelTile.MapEntry: Grave Shovel Tile
+TallMushroom.MapEntry: Tall Mushroom
+TinyGhostJar.MapEntry: Tiny Ghost Jar
+TinyMushroomCage.MapEntry: Tiny Mushroom Cage
+CultistBathtub.MapEntry: Bathtub
+CultistBed.MapEntry: Bed
+CultistBookcase.MapEntry: Bookcase
+CultistCandelabra.MapEntry: Candelabra
+CultistCandle.MapEntry: Candle
+CultistChair.MapEntry: Chair
+CultistChandelier.MapEntry: Chandelier
+CultistChest.MapEntry: Chest
+CultistClock.MapEntry: Clock
+CultistDoorClosed.MapEntry: Door
+CultistDoorOpen.MapEntry: Door
+CultistLamp.MapEntry: Lamp
+CultistLantern.MapEntry: Lantern
+CultistSink.MapEntry: Sink
+CultistSofa.MapEntry: Sofa
+CultistTable.MapEntry: Table
+CultistWorkBench.MapEntry: Work Bench
+TempleTrapdoor.MapEntry: Temple Trapdoor
+CatacombTrapdoor1.MapEntry: Locked Trapdoor
+CatacombTrapdoor2.MapEntry: Locked Trapdoor
+CatacombTrapdoor3.MapEntry: Locked Trapdoor
+SinisterSnailCage.MapEntry: Sinister Snail Cage

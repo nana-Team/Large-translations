@@ -107,6 +107,9 @@ Mods: {
 			WulfrumVaultLocked.MapEntry: Закрытое хранилище
 			WulfrumDeskLamp.MapEntry: Настольная лампа
 			WulfrumLamppost.MapEntry: Фонарь
+			SandstormSpriteBanner.MapEntry: Знамя
+			SpelunkerScarabBanner.MapEntry: Знамя
+			BlizzardSpriteBanner.MapEntry: Знамя
 		}
 
 		Conditions.InNautilusChamber: В запечатанной пещере
@@ -454,7 +457,7 @@ Mods: {
 				Tooltip:
 					'''
 					Размещает на земле декоративные окаменелости бича
-					Нажмите ВВЕРХ/ВНИЗ, чтобы изменить наклон позвоночника
+					Нажимайте клавиши ВВЕРХ/ВНИЗ, чтобы изменить наклон позвоночника
 					'''
 				DisplayName: Окаменевший череп морского бича
 			}
@@ -463,7 +466,7 @@ Mods: {
 				Tooltip:
 					'''
 					Размещает на земле декоративные окаменелости бича
-					Нажмите ВВЕРХ/ВНИЗ, чтобы изменить наклон позвоночника
+					Нажимайте клавиши ВВЕРХ/ВНИЗ, чтобы изменить наклон позвоночника
 					'''
 				DisplayName: Окаменевший позвоночник морского бича
 			}
@@ -581,7 +584,7 @@ Mods: {
 					Использует споры светящегося гриба, растущего под соплом, в качестве боеприпасов
 					Если использовать оружие непрерывно в течение некоторого времени, гриб может выдохнуться
 					Споромёт будет значительно менее эффективен, если стрелять из выдохшегося гриба
-					Игнорирует 5 ед. защиты врага
+					Игнорирует 10 ед. защиты врага
 					'''
 			}
 
@@ -600,13 +603,13 @@ Mods: {
 			}
 
 			PeculiarPot: {
-				DisplayName: Странноватый горшочек
+				DisplayName: Странноватый горшок
 				Tooltip:
 					'''
-					Керамический горшочек, наполненный необычной жидкостью
+					Керамический горшок, наполненный необычной жидкостью
 					Позволяет вам превратиться в дёготь и спрятаться в горшочке
 					Пока вы находитесь в горшочке, вы не сможете использовать какое-либо оружие, однако при этом вы будете получать на {0} ед. меньше урона
-					Горшочек разобьётся вдребезги, если вы получите более {1} ед. урона
+					Горшок разобьётся вдребезги, если вы получите более {1} ед. урона
 					Прочность горшочка начнёт постепенно восстанавливаться, если вылезти из него и немного подождать
 					'''
 			}
@@ -633,7 +636,7 @@ Mods: {
 
 			DeadStormlionLarvaCageItem: {
 				DisplayName: Террариум с мёртвой личинкой штормового льва
-				Tooltip: «Что-то не так...»
+				Tooltip: «Что-то здесь не так...»
 			}
 
 			IntestinalScarf: {
@@ -661,6 +664,7 @@ Mods: {
 				DisplayName: Хлыст штормового льва
 				Tooltip:
 					'''
+					{0} ед. урона от метки призывателя по зацепленным врагам
 					{$CommonItemTooltip.Whips}
 					Удерживайте ЛКМ, чтобы зацепиться за врага
 					На врагах, за которых вы зацепились, будет накапливаться статичное электричество
@@ -794,7 +798,7 @@ Mods: {
 
 			SpikedBall: {
 				DisplayName: Шипастый шар
-				Tooltip: Удерживайте SHIFT, чтобы бросить шар по изогнутой траектории
+				Tooltip: Удерживайте SHIFT, чтобы бросить шар по дуге
 			}
 
 			ToxicBlowpipe: {
@@ -942,7 +946,7 @@ Mods: {
 
 			CloudSpriteInABottle: {
 				DisplayName: Облачный дух в банке
-				Tooltip: «Внутри бутылки слышно его жужжание»
+				Tooltip: «Внутри банки слышно его жужжание»
 			}
 
 			GoldenDreamcassette: {
@@ -1236,11 +1240,11 @@ Mods: {
 
 			MirageDust: {
 				DisplayName: Миражная пыль
-				Tooltip: Можно рассыпать на пол, чтобы создать столб призрачной пыли
+				Tooltip: Можно разместить на блок, чтобы создать столб призрачной пыли
 			}
 
 			NautilusCrossingTheDunesItem: {
-				DisplayName: Картина «Наутилус, пересекающий дюны»
+				DisplayName: Картина «Наутилус на песчаном перевале»
 				Tooltip: «Х. Вин»
 			}
 
@@ -1261,7 +1265,7 @@ Mods: {
 
 			SandstonePillar: {
 				DisplayName: Песчаниковая колонна
-				Tooltip: Можно изменить узор трещин с помощью молота
+				Tooltip: Ударьте молотом, чтобы изменить узор
 			}
 
 			SandyTent: {
@@ -1605,7 +1609,7 @@ Mods: {
 			}
 
 			PearlwoodGraveMarkerItem: {
-				DisplayName: Могильная табличка из жемчужной древесины
+				DisplayName: Могильная табличка из жемчужного дерева
 				Tooltip: ""
 			}
 
@@ -2169,7 +2173,7 @@ Mods: {
 				DisplayName: Вульфрумовая изоляционная обшивка
 				Tooltip:
 					'''
-					Можно изменять вариант укладки молотком, удерживая ПКМ
+					Ударьте молотом, удерживая ПКМ, чтобы изменить стиль блока
 					«Не путать с вульфрумовой теплоизоляционной обшивкой!»
 					'''
 			}
@@ -2223,7 +2227,7 @@ Mods: {
 				Tooltip:
 					'''
 					Можно разместить
-					Нажмите ВВЕРХ/ВНИЗ, чтобы изменить изгиб цепи
+					Нажимайте клавиши ВВЕРХ/ВНИЗ, чтобы изменить изгиб цепи
 					'''
 			}
 
@@ -2257,7 +2261,7 @@ Mods: {
 				Tooltip:
 					'''
 					Можно поставить на твёрдых блоках и светильниках
-					Нажмите ВВЕРХ/ВНИЗ, чтобы изменить изгиб провода
+					Нажимайте клавиши ВВЕРХ/ВНИЗ, чтобы изменить изгиб провода
 					«Это что, Calamity Cables?»
 					'''
 			}
@@ -2354,6 +2358,39 @@ Mods: {
 				DisplayName: Мешок с сокровищами (Сэр Наутилус)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
+			
+			SludgeSlap: {
+				DisplayName: Слизешлёп
+				Tooltip:
+					'''
+					{$CommonItemTooltip.Whips}
+					Покрывает слизью поражённых врагов
+					Атаки миньонов по покрытым слизью врагам призывают слизнечков
+					Попадания по врагам кончиком хлыста призывают дополнительных слизнечков
+					«Излюбленное оружие гелевых королей»
+					'''
+			}
+
+			OpulentDartgun: {
+				DisplayName: Роскошный дротиковый пистолет
+				Tooltip:
+					'''
+					Удерживайте ПКМ, чтобы получить передозировку
+					Нажмите ПКМ, чтобы выстрелить шприцем, вызывающим передозировку у поражённого врага или союзника
+					Передозировка даёт значительные усиления, но снижает скорость передвижения, отключает регенерацию и истощает здоровье
+					Дротики, выпущенные во время передозировки, восстанавливают здоровье и ослабляют негативные эффекты
+					'''
+			}
+			
+			Geodecorn: {
+				DisplayName: Жеодный жёлудь
+				Tooltip: Призывает маленького жеодного ползуна
+			}
+
+			SandstormSpriteBannerItem: {
+				DisplayName: Знамя духа песчаной бури
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.SandstormSprite.DisplayName}"
+			}
 
 			SandstoneAccentBrickItem: {
 				DisplayName: Акцентный песчаниковый кирпич
@@ -2361,6 +2398,145 @@ Mods: {
 					'''
 					Вариант песчаникового кирпича, который лучше соединяется с другими блоками из песка
 					Пользуется популярностью у опытных строителей
+					'''
+			}
+			
+			WulfrumBoomboxItem: {
+				DisplayName: Вульфрумовый бумбокс
+				Tooltip: ""
+			}
+			
+			SandstormSpriteInABottle: {
+				DisplayName: Дух песчаной бури в банке
+				Tooltip: «Беспокойно кружится внутри»
+			}
+			
+			GemChimes: {
+				DisplayName: Самоцветные колокольчики
+				Tooltip:
+					'''
+					Выпускает разноцветные резонирующие звуковые волны
+					Soundwaves tune enemies, making them match its color
+					Enemies attuned to the same color will resonate, causing them to take high damage
+					Soundwaves can attune multiple enemies near the end of their range
+					'''
+			}
+			
+			GeodeCandy: {
+				DisplayName: Жеодная карамель
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed3}
+					Увеличивает удачу
+					«Попробуй радугу!»
+					'''
+			}
+			
+			LuminousCreamSoup: {
+				DisplayName: Люминесцентный крем-суп
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed2}
+					[c/5167ff:'I'm cooking a soup that has 33 unknown mushrooms in it.]
+					[c/5167ff:It's the most poisonous soup I've ever created and the fumes are intense. ]
+					[c/5167ff:The mushroom types are deadly dapperlings, destroying angels and death caps.]
+
+					[c/5167ff:Wish me luck when it comes time to eat it, it'll be an experience worth having.']
+					'''
+			}
+			
+			StormfriedIceCream: {
+				DisplayName: Электрообжаренное мороженное
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed3}
+					«Пожарено с помощью молнии, каким-то образом»
+					'''
+			}
+			
+			WulfrumBrandCereal: {
+				DisplayName: Фирменные вульфрумовые хлопья
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed}
+					«Содержит 1500% от рекомендуемой нормы вульфрума!»
+					Снижает получаемый от вульфрумовых роботов урон и их скорость атаки
+					'''
+			}
+
+			SpelunkerScarabBannerItem: {
+				DisplayName: Знамя скарабея-спелеолога
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.SpelunkerScarab.DisplayName}"
+			}
+			
+			SuperchargedDart: {
+				DisplayName: Сверхзаряженный дротик
+				Tooltip:
+					'''
+					Electrocutes nearby enemies on impact
+					Splits damage amongst electrocuted targets
+					'''
+			}
+
+			SkyDart: {
+				DisplayName: Raptor Dart
+				Tooltip:
+					'''
+					Accelerates and deals more damage as it travels
+					Gently homes towards enemies
+					'''
+			}
+
+			BlizzardSpriteBannerItem: {
+				DisplayName: Blizzard Sprite Banner
+				Tooltip: Nearby Players get a bonus against: Blizzard Sprite
+			}
+
+			BlizzardSpriteInABottle: {
+				DisplayName: Blizzard Sprite in a Bottle
+				Tooltip: "'It hums in a hushed voice within the bottle'"
+			}
+
+			DrownedScriptures: {
+				DisplayName: Drowned Scriptures
+				Tooltip:
+					'''
+					Conjures explosive mines that afflict a curse
+					<right> to unleash an Abyssal Horror to devour the accursed
+					The Horror gains speed and strength the more enemies it strikes
+					'The text inside writhes and contorts as you read it...'
+					'''
+			}
+
+			IceHat: {
+				DisplayName: Blizzard Hat
+				Tooltip:
+					'''
+					{0}% increased magic critical strike chance
+					Double tap {1} to encase yourself in a slippery block of ice
+					'''
+			}
+
+			SackOfInfiniteGuns: {
+				DisplayName: Sack of Infinite Guns
+				Tooltip: Launches a gun that fires sporadically at nearby enemies on hit
+			}
+
+			YoblinBucket: {
+				DisplayName: Bucket of Yoblins
+				Tooltip:
+					'''
+					Pours out fragile Yoblins to fight for you
+					Yoblins only take a fraction of a full minion slot
+					'''
+			}
+
+			WulfrumVoiceBox: {
+				DisplayName: Wulfrum Voicebox
+				Tooltip:
+					'''
+					Changes your voice
+					'Great for impersonating cheap junk!'
 					'''
 			}
 		}
@@ -2392,6 +2568,9 @@ Mods: {
 			WulfrumRover.DisplayName: Вульфрумовый скиталец
 			WulfrumElevatorPlatform.DisplayName: ""
 			RustyWulfrumElevatorPlatform.DisplayName: ""
+			SandstormSprite.DisplayName: Дух песчаной бури
+			SpelunkerScarab.DisplayName: Скарабей-спелеолог
+			BlizzardSprite.DisplayName: Дух снежной бури
 		}
 
 		Buffs: {
@@ -2402,7 +2581,7 @@ Mods: {
 
 			BlowpipeAcid: {
 				DisplayName: Кислота
-				Description: Защита снижена на 2 ед.
+				Description: Защита снижена на 5 ед.
 			}
 
 			BlowpipeLeech: {
@@ -2521,7 +2700,66 @@ Mods: {
 				DisplayName: Маленькая рыба-дракон
 				Description: Не имеет отношения к великим морским драконам
 			}
+			
+			OpulentInjectionBuff: {
+				Description: You are much more powerful, but constantly lose health and speed!
+				DisplayName: Overdosed
+			}
+
+			GeodecornBuff: {
+				DisplayName: Smeebo
+				Description: Smeebo is following you
+			}
+
+			SludgeSlapNPCDebuff: {
+				DisplayName: Sludged
+				Description: Covered in slimy sludge
+			}
+
+			SludgeSlapSlimelingBuff: {
+				DisplayName: Slimelings
+				Description: Loyal yet puny minions
+			}
+
+			GemChimesNPCDebuff: {
+				DisplayName: Resonating
+				Description: Vibrating at a dangerous frequency
+			}
+
+			WhiskedDebuff: {
+				DisplayName: Whisked
+				Description: Increased fall damage
+			}
+
+			BrandAmbassadorBuff: {
+				DisplayName: Brand Ambassador
+				Description: Wulfrum enemies only hit half as hard, and have longer windups
+			}
+
+			ElectrifiedBloodBuff: {
+				DisplayName: Electrified Blood
+				Description: Retaliate with electric discharges upon taking damage
+			}
+
+			DrownedScripturesNPCDebuff: {
+				DisplayName: Abyssal Mark
+				Description: It's Coming...
+			}
+
+			Encased: {
+				DisplayName: Encased
+				Description: You're encased in a block of ice
+				SetBonusDescription:
+					'''
+					You're encased in a block of ice
+					Increased mana regeneration
+					'''
+			}
+
+			YoblinBucketBuff: {
+				DisplayName: Yoblins
+				Description: Straight up Yoblin it
+			}
 		}
 	}
 }
-

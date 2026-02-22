@@ -8,6 +8,10 @@ WulfrumBastionRecharge: Wulfrum Bastion Cooldown
 WulfrumBastionDurability: Power Armor Durability
 WulfrumRoverDriveDurability: Protective Matrix Durability
 WulfrumRoverDriveRecharge: Protective Matrix Recharge
+ShroomHookpointTimer: Mushroom Hookpoint Lifetime
+SyringeReload: Syringe Reload
+EncasedHits: Ice Block Durability
+EncasedCooldown: Ice Block Cooldown
 
 SettingOption: {
 	Label: "Cooldown Style: "

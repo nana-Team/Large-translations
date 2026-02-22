@@ -29,6 +29,11 @@ FablesConfig: {
 		Label: "[i:{0}] Screenshake Multiplier"
 	}
 
+	FluidSimVFXEnabled: {
+		Tooltip: Whether or not to use smoke simulation VFX, which may incur a performance cost for users with lower end GPUs
+		Label: "[i:{0}] Use Smoke/Mist VFX"
+	}
+
 	ParticleLimit: {
 		Tooltip: Maximum amount of particles that can exist at once. Might cause telegraphs to be less visible if lowered too much
 		Label: "[i:{0}] Maximum Particle Count"

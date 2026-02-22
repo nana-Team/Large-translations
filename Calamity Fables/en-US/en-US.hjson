@@ -107,6 +107,9 @@ Mods: {
 			WulfrumVaultLocked.MapEntry: Locked Wulfrum Vault
 			WulfrumDeskLamp.MapEntry: Wulfrum Desk Lamp
 			WulfrumLamppost.MapEntry: Wulfrum Lamppost
+			SandstormSpriteBanner.MapEntry: Banner
+			SpelunkerScarabBanner.MapEntry: Banner
+			BlizzardSpriteBanner.MapEntry: Banner
 		}
 
 		Conditions.InNautilusChamber: Inside the Sealed Chamber
@@ -312,6 +315,28 @@ Mods: {
 			WulfrumLureSignal.DisplayName: Signal
 			SporedCorpse.DisplayName: Spored Corpse
 			BurntCorpse.DisplayName: Burnt Corpse
+			OpulentDartgunBigSyringe.DisplayName: Opulent Dartgun Big Syringe
+			GeodeCrawlerPet.DisplayName: Smeebo
+			SandstormSpriteTwister.DisplayName: Twister
+			SludgeSlapProjectile.DisplayName: Sludge Slap
+			SludgeSlapSlimeling.DisplayName: Slimeling
+			GemChimeSoundwave.DisplayName: Gem Chime Soundwave
+			SpelunkerScarabOreChunk.DisplayName: Ore Chunk
+			SuperchargedDartProjectile.DisplayName: Supercharged Dart
+			SkyDartProjectile.DisplayName: Raptor Dart
+			BlizzardSpriteIcicle.DisplayName: Icicle
+			DrownedScripturesMine.DisplayName: Drowned Scriptures Mine
+			DrownedScripturesExplosion.DisplayName: Drowned Scriptures Explosion
+			DrownedScripturesHorror.DisplayName: Drowned Scriptures Horror
+			SackOfInfiniteGunsProjectile.DisplayName: Gun
+			InfiniteBullet.DisplayName: Bullet
+			IceHatTrail.DisplayName: Ice Trail
+			IceHatSnowRing.DisplayName: Snow
+			IceShard.DisplayName: Ice Shard
+			Yoblin.DisplayName: Yoblin
+			ShimmerYoblin.DisplayName: Yoblin
+			ShimmerYoblinSpring.DisplayName: Yoblin Spring
+			YoblinBucketHoldout.DisplayName: Yoblin Bucket Holdout
 		}
 
 		Items: {
@@ -537,7 +562,7 @@ Mods: {
 					'''
 					Launch a fungal claw to grab your foes
 					Small enemies can be moved and thrown, or slammed into terrain
-					Large enemies can be damaged by tearing the claw out
+					Large enemies cannot be moved, pull the cursor away to rip out the claw and deal damage
 					'''
 			}
 
@@ -577,7 +602,7 @@ Mods: {
 					'''
 					Generates its own ammunition from a homegrown mushroom
 					Reduced effectiveness when over-exerting the mushroom
-					Ignores 5 points of enemy Defense
+					Ignores 10 points of enemy Defense
 					'''
 			}
 
@@ -656,7 +681,8 @@ Mods: {
 				DisplayName: Stormlion Whip
 				Tooltip:
 					'''
-					Your summons will focus tagged enemies
+					{0} summon tag damage while hooked
+					Your summons will focus struck enemies
 					Hold <left> to hook the whip into enemies
 					Hooked enemies build up static electricity, minion damage expedites this
 					Release <left> to detonate static electricity
@@ -1018,7 +1044,7 @@ Mods: {
 					'''
 					Retools hooks into a wulfrum slingshot with swinging physics
 					Hold UP to retract the hook
-					Automatically attempts to grapple a nearby tiles when about to take fall damage, unless DOWN is held
+					Automatically attempts to grapple nearby tiles when about to take fall damage, unless DOWN is held
 					{0}% increased movement speed
 					'''
 			}
@@ -1051,7 +1077,7 @@ Mods: {
 				Tooltip:
 					'''
 					Throws a rickety mining contraption to dig out a small tunnel
-					In case of an emergency,<right> to instantly detonate all your digging turtles
+					In case of an emergency, <right> to instantly detonate all your digging turtles
 					'''
 			}
 
@@ -1119,7 +1145,7 @@ Mods: {
 				Tooltip:
 					'''
 					Can be used to rapidly and royally screw over any foe, provided they're weak enough
-					Striking an enemy has a chance to give you a wulfrum screw, that you can throw back at them by using <right>
+					Striking an enemy has a chance to give you a wulfrum screw, that you can throw back at them by right clicking
 					Hitting a flung screw with the screwdriver will boost its damage and speed, sending it hurling forwards at high speeds
 					[c/83B87E:"Who makes flatheads this large?? The hell am I supposed to use it for, the thing could take an eye out!"]
 					[c/83B87E:"…Ah."]
@@ -1222,7 +1248,7 @@ Mods: {
 
 			MirageDust: {
 				DisplayName: Mirage Dust
-				Tooltip: Can be powdered down on the floor to create a column of ghostly floating dust
+				Tooltip: Can be placed in ground tiles to create a column of ghostly floating dust
 			}
 
 			NautilusCrossingTheDunesItem: {
@@ -2341,12 +2367,184 @@ Mods: {
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
 
+			SludgeSlap: {
+				DisplayName: Sludge Slap
+				Tooltip:
+					'''
+					Your summons will focus struck enemies
+					Strike enemies to cover them in slime
+					Slimed targets will create a slimeling when hit by summons
+					Landing strikes with the end of the whip creates extra slimelings
+					'The favored weapon of gel kings'
+					'''
+			}
+
+			OpulentDartgun: {
+				DisplayName: Opulent Dartgun
+				Tooltip:
+					'''
+					Hold <right> to Overdose
+					Tap <right> to fire a syringe that can Overdose enemies and allies
+					Overdose significantly buffs strength, but debuffs movement speed, drains health, and disables healing
+					Darts fired from this weapon while Overdosed will heal you and mitigate the side effects
+					'''
+			}
+
+			Geodecorn: {
+				DisplayName: Geodecorn
+				Tooltip: Summons a baby Geode Crawler
+			}
+
+			SandstormSpriteBannerItem: {
+				DisplayName: Sandstorm Sprite Banner
+				Tooltip: Nearby Players get a bonus against: Sandstorm Sprite
+			}
+
 			SandstoneAccentBrickItem: {
 				DisplayName: Sandstone Accent Brick
 				Tooltip:
 					'''
-					A Sandstone Brick variant that merges better with sandy tiles
-					Favored by advanced builders
+						A Sandstone Brick variant that merges better with sandy tiles
+						Favored by advanced builders
+					'''
+			}
+
+			WulfrumBoomboxItem: {
+				DisplayName: Wulfrum Boombox
+				Tooltip: ""
+			}
+
+			SandstormSpriteInABottle: {
+				DisplayName: Sandstorm Sprite in a Bottle
+				Tooltip: "'It restlessly twirls within'"
+			}
+
+			GemChimes: {
+				DisplayName: Gem Chimes
+				Tooltip:
+					'''
+					Shoots multicolored resonating soundwaves
+					Soundwaves tune enemies, making them match its color
+					Enemies attuned to the same color will resonate, causing them to take high damage
+					Soundwaves can attune multiple enemies near the end of their range
+					'''
+			}
+
+			GeodeCandy: {
+				DisplayName: Geode Candy
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed3}
+					Tastes like a rainbow!
+					Increases luck
+					'''
+			}
+
+			LuminousCreamSoup: {
+				DisplayName: Luminous Cream Soup
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed2}
+					[c/5167ff:'I'm cooking a soup that has 33 unknown mushrooms in it.]
+					[c/5167ff:It's the most poisonous soup I've ever created and the fumes are intense. ]
+					[c/5167ff:The mushroom types are deadly dapperlings, destroying angels and death caps.]
+
+					[c/5167ff:Wish me luck when it comes time to eat it, it'll be an experience worth having.']
+					'''
+			}
+
+			StormfriedIceCream: {
+				DisplayName: Stormfried Ice Cream
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed3}
+					Somehow, fried by the lightning.
+					'''
+			}
+
+			WulfrumBrandCereal: {
+				DisplayName: Wulfrum Brand Cereal
+				Tooltip:
+					'''
+					{$BuffDescription.WellFed}
+					'Constitutes 1500% of your recommended Wulfrum intake!'
+					Decreases incoming damage from Wulfrum enemies and slows their attacks
+					'''
+			}
+
+			SpelunkerScarabBannerItem: {
+				DisplayName: Spelunker Scarab Banner
+				Tooltip: Nearby Players get a bonus against: Spelunker Scarab
+			}
+
+			SuperchargedDart: {
+				DisplayName: Supercharged Dart
+				Tooltip:
+					'''
+					Electrocutes nearby enemies on impact
+					Splits damage amongst electrocuted targets
+					'''
+			}
+
+			SkyDart: {
+				DisplayName: Raptor Dart
+				Tooltip:
+					'''
+					Accelerates and deals more damage as it travels
+					Gently homes towards enemies
+					'''
+			}
+
+			BlizzardSpriteBannerItem: {
+				DisplayName: Blizzard Sprite Banner
+				Tooltip: Nearby Players get a bonus against: Blizzard Sprite
+			}
+
+			BlizzardSpriteInABottle: {
+				DisplayName: Blizzard Sprite in a Bottle
+				Tooltip: "'It hums in a hushed voice within the bottle'"
+			}
+
+			DrownedScriptures: {
+				DisplayName: Drowned Scriptures
+				Tooltip:
+					'''
+					Conjures explosive mines that afflict a curse
+					<right> to unleash an Abyssal Horror to devour the accursed
+					The Horror gains speed and strength the more enemies it strikes
+					'The text inside writhes and contorts as you read it...'
+					'''
+			}
+
+			IceHat: {
+				DisplayName: Blizzard Hat
+				Tooltip:
+					'''
+					{0}% increased magic critical strike chance
+					Double tap {1} to encase yourself in a slippery block of ice
+					'''
+			}
+
+			SackOfInfiniteGuns: {
+				DisplayName: Sack of Infinite Guns
+				Tooltip: Launches a gun that fires sporadically at nearby enemies on hit
+			}
+
+			YoblinBucket: {
+				DisplayName: Bucket of Yoblins
+				Tooltip:
+					'''
+					Pours out fragile Yoblins to fight for you
+					Yoblins only take a fraction of a full minion slot
+					'''
+			}
+
+			WulfrumVoiceBox: {
+				DisplayName: Wulfrum Voicebox
+				Tooltip:
+					'''
+					Changes your voice
+					'Great for impersonating cheap junk!'
 					'''
 			}
 		}
@@ -2378,6 +2576,9 @@ Mods: {
 			WulfrumRover.DisplayName: Wulfrum Rover
 			WulfrumElevatorPlatform.DisplayName: ""
 			RustyWulfrumElevatorPlatform.DisplayName: ""
+			SandstormSprite.DisplayName: Sandstorm Sprite
+			SpelunkerScarab.DisplayName: Spelunker Scarab
+			BlizzardSprite.DisplayName: Blizzard Sprite
 		}
 
 		Buffs: {
@@ -2388,7 +2589,7 @@ Mods: {
 
 			BlowpipeAcid: {
 				DisplayName: Acid
-				Description: Defense reduced by 2
+				Description: Defense reduced by 5
 			}
 
 			BlowpipeLeech: {
@@ -2506,6 +2707,66 @@ Mods: {
 			LittleDragonfishBuff: {
 				DisplayName: Little Dragonfish
 				Description: Not associated with Great Seadragons
+			}
+
+			OpulentInjectionBuff: {
+				Description: You are much more powerful, but constantly lose health and speed!
+				DisplayName: Overdosed
+			}
+
+			GeodecornBuff: {
+				DisplayName: Smeebo
+				Description: Smeebo is following you
+			}
+
+			SludgeSlapNPCDebuff: {
+				DisplayName: Sludged
+				Description: Covered in slimy sludge
+			}
+
+			SludgeSlapSlimelingBuff: {
+				DisplayName: Slimelings
+				Description: Loyal yet puny minions
+			}
+
+			GemChimesNPCDebuff: {
+				DisplayName: Resonating
+				Description: Vibrating at a dangerous frequency
+			}
+
+			WhiskedDebuff: {
+				DisplayName: Whisked
+				Description: Increased fall damage
+			}
+
+			BrandAmbassadorBuff: {
+				DisplayName: Brand Ambassador
+				Description: Wulfrum enemies only hit half as hard, and have longer windups
+			}
+
+			ElectrifiedBloodBuff: {
+				DisplayName: Electrified Blood
+				Description: Retaliate with electric discharges upon taking damage
+			}
+
+			DrownedScripturesNPCDebuff: {
+				DisplayName: Abyssal Mark
+				Description: It's Coming...
+			}
+
+			Encased: {
+				DisplayName: Encased
+				Description: You're encased in a block of ice
+				SetBonusDescription:
+					'''
+					You're encased in a block of ice
+					Increased mana regeneration
+					'''
+			}
+
+			YoblinBucketBuff: {
+				DisplayName: Yoblins
+				Description: Straight up Yoblin it
 			}
 		}
 	}

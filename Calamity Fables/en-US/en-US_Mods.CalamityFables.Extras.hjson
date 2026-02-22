@@ -1,10 +1,15 @@
 ItemTooltipExtras: {
-	StormlionWhipExtraTagDamage: +{0} tag damage when hooked
-	AmpstringBowElectricFieldDamage: "{0} damage per electric field tick"
-	CarrionDetonatorStaffDetonationDamage: "{0} to {1} damage per detonation"
-	TornElectrosacFullyChargedDamage: Fully charged throws deal {0} extra damage in an AoE
 	ComicallySlowSpeed: Comically slow
 	CannotCrit: Cannot critically strike
+	SludgeSlapSlimelingDamage: "{0} damage per Slimeling"
+	ToxicBlowpipeAcidExplosionDamage: "{0} damage per acid detonation"
+	FanaticalMaskTendrilDamage: "{0} damage from Blood Tendril"
+	ResonanceDamage: "{0} damage per Resonance"
+	TornElectrosacFullyChargedDamage: Fully charged throws deal {0} extra damage in an AoE
+	AmpstringBowElectricFieldDamage: "{0} damage per electric field tick"
+	DetonationDamage: "{0}-{1} damage per detonation"
+	StormlionWhipTickDamage: "{0} damage while hooked"
+	DrownedScripturesHorrorDamage: "{0}-{1} damage from Abyssal Horror"
 }
 
 ArmorSetBonus: {
@@ -28,14 +33,17 @@ ArmorSetBonus: {
 	}
 
 	Wulfrum: {
-		Title: Wulfrum Bastion - Double tap DOWN while dismounted to equip wulfrum power armor
+		Title: Wulfrum Bastion - Double tap {0} while dismounted to equip wulfrum power armor
 		Tooltip1: While the armor is active your defensive stats are increased, but you can only use the integrated fusion cannon
 		Tooltip2: Calling down the armor consumes one piece of [c/b0e97a:wulfrum metal scrap], and the armor will lose durability faster when hit
 		ExpandCannonInfo: Hold SHIFT to see the stats of the fusion cannon
 	}
+
+	IceHat: Mana Condensation - Greatly increased mana regeneration while encased
 }
 
 SirNautilusPhase1Name: Nautilus and Signathion
+HeatHazeSprite: Mirage Sprite
 
 MapIcons: {
 	SealedChamber: Sealed Chamber
@@ -150,6 +158,35 @@ DeathMessages: {
 		3: "{0} forfeited their body to the mushroom caves."
 		4: "{0} has been harvested."
 	}
+
+	SandTwisterFall: {
+		1: "{0} made a deal with the dust devil."
+		2: "{0} got screwed up."
+		3: "{0} got it twisted."
+		4: The sandman laid {0} to rest.
+	}
+
+	OpulentSelfInjection: {
+		1: "{0} has a newfound fear of needles."
+		2: "{0} was a victim of their own malpractice."
+	}
+
+	OpulentInjection: {
+		1: "{0} has a newfound fear of needles."
+		2: "{0} was a victim of {1}'s malpractice."
+	}
+
+	OpulentOverdose: {
+		1: "{0} forgot to read the side effects."
+		2: "{0} got a taste of their own medicine."
+		3: "{0}'s organs exploded."
+	}
+}
+
+OpulentDartgunNurseDialogue: {
+	1: You did this entirely to yourself.
+	2: There's just some problems I can't fix.
+	3: This isn't a rehab clinic.
 }
 
 BiomeGravestones: {
@@ -168,3 +205,5 @@ BiomeGravestones: {
 	Beach: Palmwood Graves
 	GlowingMushroom: Mycelial Graves
 }
+
+Misc.or: or

@@ -337,6 +337,8 @@ Mods: {
 			ShimmerYoblin.DisplayName: Yoblin
 			ShimmerYoblinSpring.DisplayName: Yoblin Spring
 			YoblinBucketHoldout.DisplayName: Yoblin Bucket Holdout
+			CoraletiSpearHeld.DisplayName: Coraleti Spear
+			CoraletiSpearShrapnel.DisplayName: Coraleti Shrapnel
 		}
 
 		Items: {
@@ -2545,6 +2547,15 @@ Mods: {
 					'''
 					Changes your voice
 					'Great for impersonating cheap junk!'
+					'''
+			}
+
+			CoraletiSpear: {
+				DisplayName: Coraleti Spear
+				Tooltip:
+					'''
+					Striking enemies causes the spear to grow
+					At max growth, the spear will shatter into lingering coral fragments
 					'''
 			}
 		}

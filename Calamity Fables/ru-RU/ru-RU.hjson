@@ -503,7 +503,7 @@ Mods: {
 					Пока страж находится в этом состоянии, вокруг него образуется исцеляющая аура
 					На пустившем корни страже также можно прыгать, как на батуте
 					Можно призвать только одного стража в чернильной шапочке
-					Занимает 2 слота призываемых миньонов
+					Занимает 2 слота миньонов
 					'''
 			}
 
@@ -2437,11 +2437,10 @@ Mods: {
 				Tooltip:
 					'''
 					{$BuffDescription.WellFed2}
-					[c/5167ff:'I'm cooking a soup that has 33 unknown mushrooms in it.]
-					[c/5167ff:It's the most poisonous soup I've ever created and the fumes are intense. ]
-					[c/5167ff:The mushroom types are deadly dapperlings, destroying angels and death caps.]
-
-					[c/5167ff:Wish me luck when it comes time to eat it, it'll be an experience worth having.']
+					[c/5167ff:«Я приготовил суп из 33 видов случайных грибов.]
+					[c/5167ff:Это самый ядовитый суп, который я когда либо готовил, и от него исходит куча пара.]
+					[c/5167ff:В его составе есть такие грибы как лепиота коричнево-красная, мухомор резкий и белая поганка.]
+					[c/5167ff:Когда придёт время его съесть, пожелайте мне удачи. Это будет незабываемый опыт.»]
 					'''
 			}
 			
@@ -2473,70 +2472,70 @@ Mods: {
 				DisplayName: Сверхзаряженный дротик
 				Tooltip:
 					'''
-					Electrocutes nearby enemies on impact
-					Splits damage amongst electrocuted targets
+					Бьёт током ближайших врагов при контакте с врагом или поверхностью
+					Наносимый урон распределяется между поражёнными током целями
 					'''
 			}
 
 			SkyDart: {
-				DisplayName: Raptor Dart
+				DisplayName: Соколиный дротик
 				Tooltip:
 					'''
-					Accelerates and deals more damage as it travels
-					Gently homes towards enemies
+					Урон и скорость постепенно увеличивается в полёте
+					Имеет слабую самонаводку
 					'''
 			}
 
 			BlizzardSpriteBannerItem: {
-				DisplayName: Blizzard Sprite Banner
-				Tooltip: Nearby Players get a bonus against: Blizzard Sprite
+				DisplayName: Знамя духа метели
+				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.BlizzardSprite.DisplayName}"
 			}
 
 			BlizzardSpriteInABottle: {
-				DisplayName: Blizzard Sprite in a Bottle
-				Tooltip: "'It hums in a hushed voice within the bottle'"
+				DisplayName: Дух метели в банке
+				Tooltip: «Внутри банки слышится его тихое жужжание»
 			}
 
 			DrownedScriptures: {
-				DisplayName: Drowned Scriptures
+				DisplayName: Поглощённый манускрипт
 				Tooltip:
 					'''
-					Conjures explosive mines that afflict a curse
-					<right> to unleash an Abyssal Horror to devour the accursed
-					The Horror gains speed and strength the more enemies it strikes
-					'The text inside writhes and contorts as you read it...'
+					Выпускает взрывные шары, накладывающие проклятье
+					Нажмите ПКМ, чтобы призвать Ужас бездны, пожирающий проклятых врагов
+					Чем больше врагов атакует Ужас бездны, тем сильнее и быстрее он становится
+					«Содержащийся текст искажается по мере чтения...»
 					'''
 			}
 
 			IceHat: {
-				DisplayName: Blizzard Hat
+				DisplayName: Шляпа метели
 				Tooltip:
 					'''
-					{0}% increased magic critical strike chance
-					Double tap {1} to encase yourself in a slippery block of ice
+					Увеличивает шанс магического критического удара на {0}%
+					Дважды нажмите клавишу {1}, чтобы заключить себя в скользкий кубик льда
 					'''
 			}
 
 			SackOfInfiniteGuns: {
-				DisplayName: Sack of Infinite Guns
-				Tooltip: Launches a gun that fires sporadically at nearby enemies on hit
+				DisplayName: Мешок бесконечных пистолетов
+				Tooltip: Выпускает пистолеты, выстреливающие в ближайших врагов при контакте контакте с врагом или поверхностью
 			}
 
 			YoblinBucket: {
-				DisplayName: Bucket of Yoblins
+				DisplayName: Ведро йоблинов
 				Tooltip:
 					'''
-					Pours out fragile Yoblins to fight for you
-					Yoblins only take a fraction of a full minion slot
+					Высыпает хрупких йоблинов сражаться за вас
+					Каждый йоблин занимает только маленькую часть от одного слота миньонов
 					'''
 			}
 
 			WulfrumVoiceBox: {
-				DisplayName: Wulfrum Voicebox
+				DisplayName: Вульфрумовый голосовой аппарат
 				Tooltip:
 					'''
-					Changes your voice
-					'Great for impersonating cheap junk!'
+					Изменяет ваш голос
+					«Отлично подходит для подражания звукам дешёвого хлама!»
 					'''
 			}
 		}
@@ -2570,7 +2569,7 @@ Mods: {
 			RustyWulfrumElevatorPlatform.DisplayName: ""
 			SandstormSprite.DisplayName: Дух песчаной бури
 			SpelunkerScarab.DisplayName: Скарабей-спелеолог
-			BlizzardSprite.DisplayName: Дух снежной бури
+			BlizzardSprite.DisplayName: Дух метели
 		}
 
 		Buffs: {
@@ -2605,7 +2604,7 @@ Mods: {
 			}
 
 			ScourgePoison: {
-				DisplayName: Яд бича
+				DisplayName: Отравление бича
 				Description: Нанесение сильного урона внутренним органам
 			}
 
@@ -2678,8 +2677,8 @@ Mods: {
 			}
 
 			MarniteLiftBuff: {
-				DisplayName: Марнитовый лифт
-				Description: А ты вообще?..
+				DisplayName: Мранитовый подъёмник
+				Description: Вы летите на подъёмнике
 			}
 
 			ArmoredSignathionBuff: {
@@ -2693,7 +2692,7 @@ Mods: {
 
 			GhostlySeasaddleBuff: {
 				DisplayName: Верховой велоцикампус
-				Description: Маленький... или это Наутилус ездил на гиганте?
+				Description: Такой кроха... или это Наутилус ездил на гиганте?
 			}
 
 			LittleDragonfishBuff: {
@@ -2702,28 +2701,28 @@ Mods: {
 			}
 			
 			OpulentInjectionBuff: {
-				Description: You are much more powerful, but constantly lose health and speed!
-				DisplayName: Overdosed
+				Description: Вы стали намного сильнее, но теряете здоровье и скорость!
+				DisplayName: Передозировка
 			}
 
 			GeodecornBuff: {
-				DisplayName: Smeebo
-				Description: Smeebo is following you
+				DisplayName: Смибо
+				Description: За вами следует Смибо
 			}
 
 			SludgeSlapNPCDebuff: {
-				DisplayName: Sludged
-				Description: Covered in slimy sludge
+				DisplayName: Слизистый
+				Description: Вы покрыты скользкой слизью
 			}
 
 			SludgeSlapSlimelingBuff: {
-				DisplayName: Slimelings
-				Description: Loyal yet puny minions
+				DisplayName: Слизнечки
+				Description: Верные, но хилые миньоны
 			}
 
 			GemChimesNPCDebuff: {
-				DisplayName: Resonating
-				Description: Vibrating at a dangerous frequency
+				DisplayName: Резонанс
+				Description: Колеблется на опасной частоте
 			}
 
 			WhiskedDebuff: {

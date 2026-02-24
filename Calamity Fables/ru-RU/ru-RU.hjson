@@ -96,6 +96,9 @@ Mods: {
 			BunkerWarningSignRubbleEcho.MapEntry: Предупреждающий знак
 			BunkerChairRubble.MapEntry: Стул
 			BunkerChairRubbleEcho.MapEntry: Стул
+
+
+
 			BunkerLongTableRubble.MapEntry: Большой стол
 			BunkerLongTableRubbleEcho.MapEntry: Большой стол
 			BunkerTableRubble.MapEntry: Стол
@@ -1975,12 +1978,12 @@ Mods: {
 			}
 
 			WulfrumHullItem: {
-				DisplayName: Вульфрумовая теплоизоляционная обшивка
+				DisplayName: Вульфрумовая каркасная обшивка
 				Tooltip: «Не путать с вульфрумовой изоляционной обшивкой!»
 			}
 
 			WulfrumHullWallItem: {
-				DisplayName: Вульфрумовая теплоизоляционная обшивочная стена
+				DisplayName: Вульфрумовая каркасная обшивочная стена
 				Tooltip: ""
 			}
 
@@ -2174,7 +2177,7 @@ Mods: {
 				Tooltip:
 					'''
 					Ударьте молотом, удерживая ПКМ, чтобы изменить стиль блока
-					«Не путать с вульфрумовой теплоизоляционной обшивкой!»
+					«Не путать с вульфрумовой каркасной обшивкой!»
 					'''
 			}
 
@@ -2397,7 +2400,7 @@ Mods: {
 				Tooltip:
 					'''
 					Вариант песчаникового кирпича, который лучше соединяется с другими блоками из песка
-					Пользуется популярностью у опытных строителей
+					Пользуется популярностью у продвинутых строителей
 					'''
 			}
 			
@@ -2731,7 +2734,7 @@ Mods: {
 			}
 
 			BrandAmbassadorBuff: {
-				DisplayName: Brand Ambassador
+				DisplayName: Представитель бренда
 				Description: Wulfrum enemies only hit half as hard, and have longer windups
 			}
 
@@ -2762,3 +2765,4 @@ Mods: {
 		}
 	}
 }
+

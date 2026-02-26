@@ -2170,12 +2170,12 @@ Mods: {
 			}
 
 			DullPlatingItem: {
-				DisplayName: Тусклая вульфрумовая обшивка
+				DisplayName: Выцветшая вульфрумовая обшивка
 				Tooltip: Ударьте молотом, удерживая ПКМ, чтобы изменить стиль блока
 			}
 
 			DullPlatingWallItem: {
-				DisplayName: Тусклая вульфрумовая обшивочная стена
+				DisplayName: Выцветшая вульфрумовая обшивочная стена
 				Tooltip: ""
 			}
 

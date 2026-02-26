@@ -1975,12 +1975,12 @@ Mods: {
 			}
 
 			WulfrumHullItem: {
-				DisplayName: Вульфрумовая теплоизоляционная обшивка
-				Tooltip: «Не путать с вульфрумовой изоляционной обшивкой!»
+				DisplayName: Вульфрумовая корпусная обшивка
+				Tooltip: ""
 			}
 
 			WulfrumHullWallItem: {
-				DisplayName: Вульфрумовая теплоизоляционная обшивочная стена
+				DisplayName: Вульфрумовая корпусная обшивочная стена
 				Tooltip: ""
 			}
 
@@ -2170,16 +2170,12 @@ Mods: {
 			}
 
 			DullPlatingItem: {
-				DisplayName: Вульфрумовая изоляционная обшивка
-				Tooltip:
-					'''
-					Ударьте молотом, удерживая ПКМ, чтобы изменить стиль блока
-					«Не путать с вульфрумовой теплоизоляционной обшивкой!»
-					'''
+				DisplayName: Выцветшая вульфрумовая обшивка
+				Tooltip: Ударьте молотом, удерживая ПКМ, чтобы изменить стиль блока
 			}
 
 			DullPlatingWallItem: {
-				DisplayName: Вульфрумовая изоляционная обшивочная стена
+				DisplayName: Выцветшая вульфрумовая обшивочная стена
 				Tooltip: ""
 			}
 
@@ -2396,7 +2392,7 @@ Mods: {
 				DisplayName: Акцентный песчаниковый кирпич
 				Tooltip:
 					'''
-					Вариант песчаникового кирпича, который лучше соединяется с другими блоками из песка
+					Вариант песчаникового кирпича, который лучше соединяется с соседними песчаными блоками
 					Пользуется популярностью у опытных строителей
 					'''
 			}
@@ -2731,7 +2727,7 @@ Mods: {
 			}
 
 			BrandAmbassadorBuff: {
-				DisplayName: Brand Ambassador
+				DisplayName: Представитель бренда
 				Description: Wulfrum enemies only hit half as hard, and have longer windups
 			}
 
@@ -2756,7 +2752,7 @@ Mods: {
 			}
 
 			YoblinBucketBuff: {
-				DisplayName: Yoblins
+				DisplayName: Йоблины
 				Description: Straight up Yoblin it
 			}
 		}

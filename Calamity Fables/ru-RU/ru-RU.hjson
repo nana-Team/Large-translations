@@ -96,9 +96,6 @@ Mods: {
 			BunkerWarningSignRubbleEcho.MapEntry: Предупреждающий знак
 			BunkerChairRubble.MapEntry: Стул
 			BunkerChairRubbleEcho.MapEntry: Стул
-
-
-
 			BunkerLongTableRubble.MapEntry: Большой стол
 			BunkerLongTableRubbleEcho.MapEntry: Большой стол
 			BunkerTableRubble.MapEntry: Стол
@@ -1978,12 +1975,12 @@ Mods: {
 			}
 
 			WulfrumHullItem: {
-				DisplayName: Вульфрумовая каркасная обшивка
-				Tooltip: «Не путать с вульфрумовой изоляционной обшивкой!»
+				DisplayName: Вульфрумовая корпусная обшивка
+				Tooltip: ""
 			}
 
 			WulfrumHullWallItem: {
-				DisplayName: Вульфрумовая каркасная обшивочная стена
+				DisplayName: Вульфрумовая корпусная обшивочная стена
 				Tooltip: ""
 			}
 
@@ -2173,16 +2170,12 @@ Mods: {
 			}
 
 			DullPlatingItem: {
-				DisplayName: Вульфрумовая изоляционная обшивка
-				Tooltip:
-					'''
-					Ударьте молотом, удерживая ПКМ, чтобы изменить стиль блока
-					«Не путать с вульфрумовой каркасной обшивкой!»
-					'''
+				DisplayName: Тусклая вульфрумовая обшивка
+				Tooltip: Ударьте молотом, удерживая ПКМ, чтобы изменить стиль блока
 			}
 
 			DullPlatingWallItem: {
-				DisplayName: Вульфрумовая изоляционная обшивочная стена
+				DisplayName: Тусклая вульфрумовая обшивочная стена
 				Tooltip: ""
 			}
 
@@ -2399,8 +2392,8 @@ Mods: {
 				DisplayName: Акцентный песчаниковый кирпич
 				Tooltip:
 					'''
-					Вариант песчаникового кирпича, который лучше соединяется с другими блоками из песка
-					Пользуется популярностью у продвинутых строителей
+					Вариант песчаникового кирпича, который лучше соединяется с соседними песчаными блоками
+					Пользуется популярностью у опытных строителей
 					'''
 			}
 			
@@ -2759,10 +2752,9 @@ Mods: {
 			}
 
 			YoblinBucketBuff: {
-				DisplayName: Yoblins
+				DisplayName: Йоблины
 				Description: Straight up Yoblin it
 			}
 		}
 	}
 }
-

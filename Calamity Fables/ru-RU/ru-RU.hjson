@@ -2722,39 +2722,44 @@ Mods: {
 			}
 
 			WhiskedDebuff: {
-				DisplayName: Whisked
-				Description: Increased fall damage
+				DisplayName: Взбитый
+				Description: Урон от падения увеличен
 			}
 
 			BrandAmbassadorBuff: {
 				DisplayName: Представитель бренда
-				Description: Wulfrum enemies only hit half as hard, and have longer windups
+				Description: 
+					'''
+					Получаемый урон от вульфрумовых роботов снижен вдвое
+					Скорость атаки вульфрумовых роботов снижена
+					'''
 			}
 
 			ElectrifiedBloodBuff: {
-				DisplayName: Electrified Blood
-				Description: Retaliate with electric discharges upon taking damage
+				DisplayName: Электрофицированная кровь
+				Description: Бьёт электрическим разрядом атаковавшего вас врага
 			}
 
 			DrownedScripturesNPCDebuff: {
-				DisplayName: Abyssal Mark
-				Description: It's Coming...
+				DisplayName: Клеймо бездны
+				Description: Оно приближается...
 			}
 
 			Encased: {
-				DisplayName: Encased
-				Description: You're encased in a block of ice
+				DisplayName: Заключённый
+				Description: Вы заключены в кубе льда
 				SetBonusDescription:
 					'''
-					You're encased in a block of ice
-					Increased mana regeneration
+					Вы заключены в кубе льда
+					Регенерация маны увеличена
 					'''
 			}
 
 			YoblinBucketBuff: {
 				DisplayName: Йоблины
-				Description: Straight up Yoblin it
+				Description: Мы немножечко йобланим
 			}
 		}
 	}
 }
+

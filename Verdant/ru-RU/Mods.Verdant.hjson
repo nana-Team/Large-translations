@@ -26,7 +26,7 @@ Condition.InVerdant: В Цветении
 
 RecipeCondition: {
 	AfterApotheosisDownedPlantera: После получения подарка от Апофеоза за победу над Плантерой
-	HasShears: Если в инвентаре присутствуют Ножницы [i:{0}]
+	HasShears: В инвентаре есть [i:{0}] ножницы
 }
 
 "Keybinds.Verdant:SquidForm.DisplayName": Цветение: форма кальмара

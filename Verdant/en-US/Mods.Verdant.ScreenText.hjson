@@ -100,6 +100,19 @@ Apotheosis: {
 			SirNautilus: Fish are such fascinating people...
 			SunkenSea: We can hear some waves upon the flora...
 		}
+
+		TearRain: {
+			0: Oh, is it good to hear rain again.
+			1: I lament many things. Do you?
+			2: ...perhaps to wonder is to live...?
+			3: Do take care not to get wet.
+			4: We hope you're soothed.
+			5: For what we are, why are we so uncertain?
+			6: Ah. The streams of water, o'...
+			7: It reminds us of my colors.
+			8: Well, run along. Don't slip.
+			9: Each tear; another word...
+		}
 	}
 
 	Downed: {
@@ -314,7 +327,7 @@ Apotheosis: {
 
 		Dropberry: {
 			0: These berries are lovely.
-			1: If only I could remember their taste.
+			1: If only I could know their taste.
 		}
 
 		FloralTea: Useful when on the road, isn't it?
@@ -328,5 +341,40 @@ Apotheosis: {
 		Walnut: Sometimes...keep it simple.
 		Waterberry: Plentiful...if only...
 		HoneyNuggets: Bees are magic. Cherish them.
+
+		SmokeBulbItem: {
+			0: Perhaps disturbing, what we can do;
+			1: but it holds a whimsy, doesn't it?
+		}
+
+		TearBulbItem: {
+			0: It keeps me feeling human,
+			1: this...crying.
+		}
+
+		SnailStatueItem: {
+			0: ...
+			1: ...I hope I don't forget you.
+			TooSoon: ...I don't want to, not...yet.
+		}
+
+		HardyVineBook: {
+			0: My old notes on those vines, huh?
+			1: Wild to think.
+		}
+
+		LeafBook.0: I wish I could still draw like that.
+
+		LightbulbBook: {
+			0: Those small, gentle lights.
+			1: Hopefully they make your stay...nicer.
+		}
+
+		RockBook: {
+			0: I remember those aspirations,
+			1: perhaps they were foolhardy.
+			2: Or, perhaps, just perhaps,
+			3: they lie in your future instead?
+		}
 	}
 }

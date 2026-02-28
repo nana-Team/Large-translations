@@ -229,7 +229,7 @@ VerdantWoodBlock: {
 }
 
 VerdantWoodChestBlock: {
-	DisplayName: Сундук из древесины изобилия
+	DisplayName: Сундук из дерева изобилия
 	Tooltip: ""
 }
 
@@ -313,7 +313,7 @@ HangingCrystalItem: {
 }
 
 LightbulbPaintingItem: {
-	DisplayName: Картина «Лампочка»
+	DisplayName: Картина «Лампоцвет»
 	Tooltip: «Эмили A.»
 }
 
@@ -514,8 +514,8 @@ PinkPuff: {
 	DisplayName: Розовый росток
 	Tooltip:
 		'''
-		Создает вокруг себя пухоцветы 
-		«Обманчиво легкий» 
+		Создает вокруг себя микробиом розового пуха 
+		«Подозрительно легкий» 
 		'''
 }
 
@@ -529,26 +529,26 @@ RedDyeBulb: {
 }
 
 RootRopeItem: {
-	DisplayName: Верёвка из пышного корня
+	DisplayName: Верёвка из корней изобилия
 	Tooltip: ""
 }
 
 VerdantFlowerBulb: {
 	DisplayName: Цветочный бутон
-	Tooltip: Может быть размещена только на лист изобилия или на стену цветущих лоз
+	Tooltip: Можно посадить только на листву изобилия или на стену из лозы изобилия
 }
 
 VerdantStrongVineMaterial: {
 	DisplayName: Твёрдая лоза
 	Tooltip:
 		'''
-		Определённые вещи могут быть размещены над или под ней
-		«Чтобы разрезать их, потребуется крайне острый нож»
+		Под или над ней можно разместить только определённые блоки
+		«Чтобы её перерезать, потребуется крайне острый нож»
 		'''
 }
 
 VineRopeItem: {
-	DisplayName: Верёвка пышной лозы
+	DisplayName: Верёвка из лозы изобилия
 	Tooltip: ""
 }
 
@@ -746,8 +746,8 @@ WisplantCandelabraItem: {
 }
 
 VerdantPylonItem: {
-	DisplayName: Пилон Цветения
-	Tooltip: ""
+	DisplayName: Пилон цветения
+	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
 }
 
 BackslateBubblingWallItem: {
@@ -761,7 +761,7 @@ BackslateWallItem: {
 }
 
 LivingLushWoodWallItem: {
-	DisplayName: Живая стена из дерева изобилия
+	DisplayName: Стена из живого дерева изобилия
 	Tooltip: ""
 }
 
@@ -801,7 +801,7 @@ VerdantRedPetalWallItem: {
 }
 
 VerdantVineWallItem: {
-	DisplayName: Стена из лоз изобилия
+	DisplayName: Стена из лозы изобилия
 	Tooltip: ""
 }
 
@@ -840,7 +840,7 @@ MossCarpItem: {
 }
 
 PoolwormItem: {
-	DisplayName: Прудовик
+	DisplayName: Прудный червяк
 	Tooltip: «На удивление скользкий!»
 }
 
@@ -1056,7 +1056,7 @@ Waterberry: {
 }
 
 Lightbulb: {
-	DisplayName: Лампочка
+	DisplayName: Лампоцвет
 	Tooltip: «Чарли не приблизится»
 }
 
@@ -1267,7 +1267,7 @@ Shears: {
 		'''
 		Подрезают определённые растения
 		Могут быть использованы для удаления пухоцвета и мистерниевой завесы
-		Технически могут быть испорльзованы как топор
+		Технически могут быть использованы как топор
 		'''
 }
 
@@ -1471,7 +1471,7 @@ ApotheoticSoul: {
 }
 
 LushWoodPlankBlock: {
-	DisplayName: Доска из дерева изобилия
+	DisplayName: Деревянная доска изобилия
 	Tooltip: ""
 }
 
@@ -1519,8 +1519,8 @@ WhiteDyeBulb: {
 }
 
 LightbulbLeafItem: {
-	DisplayName: Листья лампоцвета
-	Tooltip: Испускают нежное сияние
+	DisplayName: Листва лампоцвета
+	Tooltip: Излучает нежный свет
 }
 
 LushLoomItem: {
@@ -1529,13 +1529,13 @@ LushLoomItem: {
 }
 
 TrimmedOvergrownBrickItem: {
-	DisplayName: Обрезанный заросший кирпич
-	Tooltip: Не распространяет растительно, просто хорошо выглядит!
+	DisplayName: Подстриженный заросший кирпич
+	Tooltip: Никак не разрастается, но по прежнему хорошо выглядит!
 }
 
 BasicTerrariumItem: {
-	DisplayName: Базовый терарриум
-	Tooltip: «Наблюдай за флорой»
+	DisplayName: Базовый террариум
+	Tooltip: «Можно разглядывать бесконечно»
 }
 
 FlotieTerrariumItem: {
@@ -1564,18 +1564,18 @@ AquariumItem: {
 }
 
 PoolwormAquariumItem: {
-	DisplayName: Аквариум с прудовиком
-	Tooltip: «Похоже, что он веселится!»
+	DisplayName: Аквариум с прудным червяком
+	Tooltip: «Похоже, ему весело!»
 }
 
 BulbboxAquariumItem: {
 	DisplayName: Аквариум с люмидузой
-	Tooltip: «Этот чувак может победить тебя в гонке пловцов»
+	Tooltip: «Этот парень может легко обогнать тебя в плавании»
 }
 
 MossCarpAquariumItem: {
 	DisplayName: Аквариум с моховым карпом
-	Tooltip: «Под рыбой есть ещё один мини-террариум...»
+	Tooltip: «И ещё один мини-террариум под его брюхом...»
 }
 
 AxolotlAquariumItem: {
@@ -1584,22 +1584,22 @@ AxolotlAquariumItem: {
 }
 
 RedSnailCage: {
-	DisplayName: Клетка с красной улиткой
+	DisplayName: Террариум с красной улиткой
 	Tooltip: «Увернно, но медленно»
 }
 
 BulbSnailCage: {
-	DisplayName: Клетка с лампулиткой
+	DisplayName: Террариум с лампулиткой
 	Tooltip: «Труслива, но сильна»
 }
 
 LushWingletItem: {
-	DisplayName: Пышный крылунчик
+	DisplayName: Крылунчик изобилия
 	Tooltip: «Крошечный и хрупкий»
 }
 
 LushWingletTerrariumItem: {
-	DisplayName: Террариум с пышным крылунчиком
+	DisplayName: Террариум с крылунчиком изобилия
 	Tooltip: «...Выглядит довольным!»
 }
 
@@ -1649,13 +1649,13 @@ CanopySnailItem: {
 }
 
 CanopySnailCage: {
-	DisplayName: Клетка с навесной улиткой
+	DisplayName: Террариум с навесной улиткой
 	Tooltip: Медлительная, но любящая
 }
 
 StargazerPlantItem: {
-	DisplayName: Синий мечтатель
-	Tooltip: Нежно сияет благодаря твоей заботе
+	DisplayName: Синяя звездочётка
+	Tooltip: Излучает нежный свет под вашей заботой
 }
 
 LunarJellyItem: {

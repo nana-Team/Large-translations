@@ -1,12 +1,12 @@
 ModName: Verdant
 
 VibrantHorizon: {
-	DisplayName: Vibrant Horizon (тема дня Цветения)
+	DisplayName: Vibrant Horizon (тема дневного цветения)
 	Author: от Heltonyan
 }
 
 TearRain: {
-	DisplayName: Tear Rain (тема подземного Цветения)
+	DisplayName: Tear Rain (тема подземного цветения)
 	Author: от GabeHasWon
 }
 
@@ -16,6 +16,6 @@ ApotheosisLullaby: {
 }
 
 PetalsFall: {
-	DisplayName: Petals Fall (тема дождя в Цветении)
+	DisplayName: Petals Fall (тема дождя в цветении)
 	Author: "{$Mods.Verdant.MusicDisplay.ApotheosisLullaby.Author}"
 }

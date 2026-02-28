@@ -1,3 +1,5 @@
+ObtentionMessage: "Получен новый трофей: "
+
 Names: {
 	NautilusPendant: Королевский кулон
 	Test: Тестовый кулон
@@ -17,3 +19,4 @@ TabNames: {
 	Open: Памятные трофеи
 	Close: Закрыть
 }
+

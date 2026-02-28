@@ -168,14 +168,14 @@ Mods: {
 			PeculiarPotTarRing.DisplayName: Смола
 			PeculiarPotTarTrail.DisplayName: Смола
 			AmpstringArrow.DisplayName: Токопроводящая стрела
-			AmpstringNeedle.DisplayName: Токопроводящая игла
-			CarrionDetonatorMeatBlast.DisplayName: Мясовзрыв
+			AmpstringNeedle.DisplayName: Токопроводящее жвало
+			CarrionDetonatorMeatBlast.DisplayName: Мясной взрыв
 			CarrionDetonatorMeatChunk.DisplayName: Мясной шар
 			CarrionDetonatorWindWave.DisplayName: Ветряной разрез
 			MiniElectroblast.DisplayName: Электровзрыв
 			RegurgitatedBuff.DisplayName: Отрыгнутая еда
 			StormlionWhipProjectile.DisplayName: "{$Items.StormlionWhip.DisplayName}"
-			TinyScourgePet.DisplayName: Крошка бич
+			TinyScourgePet.DisplayName: "{$Buffs.TinyScourgePetBuff.DisplayName}"
 			TornElectrosacBall.DisplayName: "{$Items.TornElectrosac.DisplayName}"
 			AcidExplosion.DisplayName: Кислотный взрыв
 			BouncyDartProj.DisplayName: Отскакивающий дротик
@@ -203,19 +203,19 @@ Mods: {
 			PontiffsPiperSquid.DisplayName: Кальмар-дудочник
 			SpikedBallFragment.DisplayName: Осколок
 			SpikedBallProjectile.DisplayName: Колючий шар
-			WoodenDartProj.DisplayName: Деревянный дротик
+			WoodenDartProj.DisplayName: "{$Items.WoodenDart.DisplayName}"
 			MarniteDeconstructorProj.DisplayName: "{$Items.MarniteDeconstructor.DisplayName}"
 			MarniteRepulsionHitbox.DisplayName: Репульсионная матрица
 			MarniteObliteratorProj.DisplayName: "{$Items.MarniteObliterator.DisplayName}"
-			LittleDragonfish.DisplayName: Маленькая драконья рыба
+			LittleDragonfish.DisplayName: "{$Buffs.LittleDragonfishBuff.DisplayName}"
 			NautilusGhostApparition.DisplayName: Наутилус
 			PossessedTridentProjectile.DisplayName: Трезубец
 			WulfrumBolt.DisplayName: Выстрел
 			WulfrumDiggingTurtleProjectile.DisplayName: Черепаха-копатель
 			WulfrumDrillProj.DisplayName: Бур
-			WulfrumDroid.DisplayName: Вульфрумовый дроид
+			WulfrumDroid.DisplayName: "{$Buffs.WulfrumDroidBuff.DisplayName}"
 			WulfrumEnergyBurst.DisplayName: Выстрел
-			WulfrumFusionBolt.DisplayName: Фузионный выстрел
+			WulfrumFusionBolt.DisplayName: Многопоточный выстрел
 			WulfrumHook.DisplayName: Вульфрумовый канат
 			WulfrumManaDrain.DisplayName: Похищение маны
 			WulfrumScaffoldKitHoldout.DisplayName: "{$Items.WulfrumScaffoldKit.DisplayName}"
@@ -315,6 +315,30 @@ Mods: {
 			WulfrumLureSignal.DisplayName: Сигнал
 			SporedCorpse.DisplayName: Покрытый спорами труп
 			BurntCorpse.DisplayName: Обгоревший труп
+			OpulentDartgunBigSyringe.DisplayName: Большой шприц
+			GeodeCrawlerPet.DisplayName: "{$Buffs.GeodecornBuff.DisplayName}"
+			SandstormSpriteTwister.DisplayName: Смерч
+			SludgeSlapProjectile.DisplayName: "{$Items.SludgeSlap.DisplayName}"
+			SludgeSlapSlimeling.DisplayName: Слизнячок
+			GemChimeSoundwave.DisplayName: Звуковая волна
+			SpelunkerScarabOreChunk.DisplayName: Глыба руды
+			SuperchargedDartProjectile.DisplayName: "{$Items.SuperchargedDart.DisplayName}"
+			SkyDartProjectile.DisplayName: "{$Items.SkyDart.DisplayName}"
+			BlizzardSpriteIcicle.DisplayName: Сосулька
+			DrownedScripturesMine.DisplayName: Взрывной шар
+			DrownedScripturesExplosion.DisplayName: Взрыв шара
+			DrownedScripturesHorror.DisplayName: Ужас бездны
+			SackOfInfiniteGunsProjectile.DisplayName: Пистолет
+			InfiniteBullet.DisplayName: Пуля
+			IceHatTrail.DisplayName: Ледяной след
+			IceHatSnowRing.DisplayName: Снег
+			IceShard.DisplayName: Ледяной осколок
+			Yoblin.DisplayName: Йоблин
+			ShimmerYoblin.DisplayName: Йоблин
+			ShimmerYoblinSpring.DisplayName: Поток йоблинов
+			YoblinBucketHoldout.DisplayName: Ведро с йоблинами
+			// CoraletiSpearHeld.DisplayName: Coraleti Spear
+			// CoraletiSpearShrapnel.DisplayName: Coraleti Shrapnel
 		}
 
 		Items: {
@@ -355,7 +379,11 @@ Mods: {
 
 			StormlionLarvaItem: {
 				DisplayName: Личинка штормового льва
-				Tooltip: «Стоит вынести их на поверхность, как они начинают дёргаться от страха... быть может, они чувствуют опасность от чего-то внизу?»
+				Tooltip:
+					'''
+					«Стоит вынести их на поверхность, как они начинают дёргаться от страха...
+					Быть может, они чувствуют опасность от чего-то внизу?»
+					'''
 			}
 
 			CrabulonRelicItem: {
@@ -404,7 +432,7 @@ Mods: {
 			}
 
 			AmnesiaItem: {
-				DisplayName: Sometime at the Verge of Space
+				DisplayName: Sometime at the Verge of Space (отладка)
 				Tooltip: ""
 			}
 
@@ -459,7 +487,7 @@ Mods: {
 					Размещает на земле декоративные окаменелости бича
 					Нажимайте клавиши ВВЕРХ/ВНИЗ, чтобы изменить наклон позвоночника
 					'''
-				DisplayName: Окаменевший череп морского бича
+				DisplayName: Окаменелый череп морского бича
 			}
 
 			ScourgeSpinePlacer: {
@@ -468,7 +496,7 @@ Mods: {
 					Размещает на земле декоративные окаменелости бича
 					Нажимайте клавиши ВВЕРХ/ВНИЗ, чтобы изменить наклон позвоночника
 					'''
-				DisplayName: Окаменевший позвоночник морского бича
+				DisplayName: Окаменелый позвоночник морского бича
 			}
 
 			ClawShell: {
@@ -523,7 +551,7 @@ Mods: {
 
 			MushroomBoots: {
 				DisplayName: Грибные ботинки
-				Tooltip: Оставляют за вами эффект растущих грибов
+				Tooltip: Оставляют за вами след из растущих грибов
 			}
 
 			MyceliumMoldItem: {
@@ -557,8 +585,8 @@ Mods: {
 					'''
 					Заменяет ваш экипированный крюк тремя мощными мицелиевыми крюками
 					Удерживайте клавишу крюка, чтобы установить на месте курсора временный мицелиевый карабин
-					Если коснуться карабина, прицепившись к нему крюками, вас с огромной скоростью запустит в соответствующем направлении
-					Можно установить только один мицелиевый карабин
+					Если прицепиться за карабин крюком, вас с огромной скоростью запустит в соответствующем направлении
+					Всего можно установить только один мицелиевый карабин за раз
 					'''
 			}
 
@@ -572,7 +600,7 @@ Mods: {
 				Tooltip:
 					'''
 					Устанавливает стручок червоточины, к которому можно телепортироваться в любой момент, нажав по его иконке на карте
-					Стручок завянет после первой же телепортации к нему или после вашей смерти
+					Стручок завянет после первой телепортации к нему или после вашей смерти
 					Перезаряжается 1 минуту 30 секунд
 					'''
 			}
@@ -582,7 +610,7 @@ Mods: {
 				Tooltip:
 					'''
 					Использует споры светящегося гриба, растущего под соплом, в качестве боеприпасов
-					Если использовать оружие непрерывно в течение некоторого времени, гриб может выдохнуться
+					Если использовать оружие непрерывно в течение некоторого времени, гриб выдыхается
 					Споромёт будет значительно менее эффективен, если стрелять из выдохшегося гриба
 					Игнорирует 10 ед. защиты врага
 					'''
@@ -593,13 +621,18 @@ Mods: {
 				Tooltip:
 					'''
 					Попадание всеми тремя шприцами по врагу заразит его
-					Трупы заражённых врагов взрываются и выпускают несколько восстанавливающих ману грибов, а также облако спор, заражающее других врагов вокруг
+					Трупы заражённых взрываются и выпускают облако спор, заражающих других врагов
+					На месте взрыва остаются грибы, восстанавливающие ману
 					'''
 			}
 
 			TechwearSporeMask: {
 				DisplayName: Респиратор от Techwear
-				Tooltip: «Для компании производителя важнее всего было именно то, как выглядит эта маска. Оно и видно — ни от каких спор эта маска не защищает»
+				Tooltip:
+					'''
+					«Для компании производителя важнее всего было именно то, как выглядит эта маска. 
+					Оно и видно — ни от каких спор эта маска не защищает»
+					'''
 			}
 
 			PeculiarPot: {
@@ -628,8 +661,8 @@ Mods: {
 				DisplayName: Посох детонации падали
 				Tooltip:
 					'''
-					Запускает раздирающие песчаные порывы, способные отрывать куски от врагов
-					Куски плоти сливаются, что увеличивает их размер и силу
+					Запускает раздирающие плоть песчаные порывы, способные отрывать куски от врагов
+					Оторванные куски плоти сливаются, что увеличивает их размер и силу
 					Нажмите ПКМ, чтобы взорвать все существующие куски плоти
 					'''
 			}
@@ -679,7 +712,7 @@ Mods: {
 					'''
 					На удивление прыгучий орган, который может отскакивать от поверхностей
 					Пассивно накапливает заряд, который высвобождается при броске шара
-					Чем дальше летит электрокиста, тем больше урона она наносит
+					Чем больше пролетит электрокиста, тем больше урона она нанесёт
 					«ГО-О-О-О-Л!!!»
 					'''
 			}
@@ -699,13 +732,13 @@ Mods: {
 			}
 
 			BundleOfCaltrops: {
-				DisplayName: Мешок с рогульками
+				DisplayName: Мешок рогулек
 				Tooltip:
 					'''
-					Удерживайте ЛКМ, чтобы раскручивать мешок вокруг себя подобно кистеню и накопить рогульки для броска
+					Удерживайте ЛКМ, чтобы раскрутить вокруг себя мешок подобно кистеню и накопить рогульки для броска
 					Отпустите ЛКМ, чтобы бросить все накопившиеся рогульки перед собой
 					Чем дольше вы раскручиваете мешок вокруг себя, тем больше рогулек вы сможете бросить
-					Удары самим мешком во время раскручивания позволяют накапливать рогульки для броска значительно быстрее
+					Удары самим мешком во время раскручивания позволяют накапливать рогульки значительно быстрее
 					'''
 			}
 
@@ -798,7 +831,7 @@ Mods: {
 
 			SpikedBall: {
 				DisplayName: Шипастый шар
-				Tooltip: Удерживайте SHIFT, чтобы бросить шар по дуге
+				Tooltip: Удерживайте Shift, чтобы бросить шар по дуге
 			}
 
 			ToxicBlowpipe: {
@@ -879,7 +912,7 @@ Mods: {
 			}
 
 			FossilizedLarynx: {
-				DisplayName: Окаменевшая гортань
+				DisplayName: Окаменелая гортань
 				Tooltip:
 					'''
 					Изменяет ваш голос
@@ -930,8 +963,8 @@ Mods: {
 				Tooltip:
 					'''
 					Позволяет телепортироваться к месту вашей смерти 
-					Нажмите на метку смерти на полноэкранной карте, чтобы телепортироваться к ней
-					Телепортация расходует одно зелье возврата, время перезарядки эффекта зависит от преодолённого расстояния до места смерти
+					Нажмите на метку смерти на полноэкранной карте, чтобы телепортироваться к ней, расходуя одно зелье возврата
+					Время перезарядки эффекта зависит от преодолённого расстояния до места смерти
 					'''
 			}
 
@@ -984,17 +1017,29 @@ Mods: {
 
 			OldHunterHat: {
 				DisplayName: Шляпа старого охотника
-				Tooltip: «Одеяние охотников из далёких земель»
+				Tooltip:
+					'''
+					{$Items.DesertProwlerHat.Tooltip}
+					«Одеяние охотников из далёких земель»
+					'''
 			}
 
 			OldHunterPants: {
 				DisplayName: Штаны старого охотника
-				Tooltip: «Одеяние охотников из далёких земель»
+					Tooltip:
+					'''
+					{$Items.DesertProwlerPants.Tooltip}
+					«Одеяние охотников из далёких земель»
+					'''
 			}
 
 			OldHunterShirt: {
-				DisplayName: Мундир старого охотника
-				Tooltip: «Одеяние охотников из далёких земель»
+				DisplayName: Рубашка старого охотника
+				Tooltip:
+					'''
+					{$Items.DesertProwlerShirt.Tooltip}
+					«Одеяние охотников из далёких земель»
+					'''
 			}
 
 			AbandonedWulfrumHelmet: {
@@ -1004,8 +1049,8 @@ Mods: {
 					Потрёпанный ржавый шлем, похожий на старые модели силовой вульфрумовой брони
 					Превращает владельца в вульфрумового робота
 					Может быть надет в слот головы как обычная экипировка
-					[c/83B87E:«Эту хлипкую броню обычно носили мародёры и грабители»]
-					[c/83B87E:«Её универсальность и легкодоступность сделала вульфрум международной валютой в сделках»]
+					[c/83B87E:«Эту хлипкую броню обычно носили мародёры и грабители.]
+					[c/83B87E:Её универсальность и легкодоступность сделала вульфрум международной валютой в сделках»]
 					'''
 			}
 
@@ -1014,7 +1059,7 @@ Mods: {
 				Tooltip:
 					'''
 					Пульсирует энергией
-					Можно получить только с вульфрумовых машин, усиленных вульфрумовым узлом связи
+					Можно получить только с вульфрумовых роботов, усиленных вульфрумовым узлом связи
 					'''
 			}
 
@@ -1046,8 +1091,8 @@ Mods: {
 					'''
 					Использует для стрельбы вульфрумовый металлолом или серебряные монеты
 					Игнорирует 3 ед. защиты врага
-					[c/83B87E:«Основной плюс вульфрумовых механизмов в том, что даже если они ломаются быстро, то чинятся ещё быстрее»]
-					[c/83B87E:«Довольно часто можно встретить робота, который превратился в боеприпасы сразу после поломки»]
+					[c/83B87E:«Основной плюс вульфрумовых механизмов в том, что даже если они ломаются быстро, то чинятся ещё быстрее.]
+					[c/83B87E:Довольно часто можно встретить робота, который превратился в боеприпасы сразу после поломки»]
 					'''
 			}
 
@@ -1055,9 +1100,9 @@ Mods: {
 				DisplayName: Вульфрумовый контроллер
 				Tooltip:
 					'''
-					Призывает вульфрумового дроида
+					Призывает вульфрумового дроида сражаться за вас
 					Удерживание ПКМ переводит всех дронов в режим сверхзаряда
-					Сверхзаряженные дроны прекращают атаки, направляя свою энергию на вас
+					Сверхзаряженные дроны прекращают атаку, направляя свою энергию на вас
 					Эта энергия ускоряет регенерацию здоровья и увеличивает защиту
 					Может исцелять других игроков, если навести курсор на них
 					'''
@@ -1116,8 +1161,8 @@ Mods: {
 					'''
 					Запускает вульфрумовый заряд
 					Нажмите ПКМ, чтобы выкачать ману из существ перед вами
-					[c/83B87E:«Технология и магия вовлечены в бесконечное противостояние, где одна копирует другую»]
-					[c/83B87E:«Порой они работают в тандеме, как видно на примере некоторых протезов»]
+					[c/83B87E:«Технология и магия вовлечены в бесконечное противостояние, где одна копирует другую.]
+					[c/83B87E:Порой они работают в тандеме, как видно на примере некоторых протезов»]
 					'''
 			}
 
@@ -1126,7 +1171,7 @@ Mods: {
 				Tooltip:
 					'''
 					Устанавливает временные металлические леса
-					Расходует один металлический вульфрумовый металлолом на 40 построенных блоков
+					Расходует один кусок вульфрумового металлолома на 40 построенных блоков
 					Для установки лесов необходимо, чтобы они прилегали к цельному блоку
 					[c/83B87E:«Когда в строительстве нужна скорость, а не долговечность»]
 					'''
@@ -1136,10 +1181,10 @@ Mods: {
 				DisplayName: Вульфрумовая отвёртка
 				Tooltip:
 					'''
-					Может быстро убить любого врага, если он достаточно слаб
+					Может быстро убить любого врага, если он достаточно слабый
 					При нанесении ударов по врагу иногда даёт вульфрумовый винт, который можно бросить, нажав ПКМ
 					Если ударить отвёрткой по брошенному винту, то он полетит вперёд на большой скорости и нанесёт значительно больше урона
-					[c/83B87E:«Кто делает плоскую головку отвёртки настолько большой? Как я вообще могу этим работать?! Ей же можно глаз открутить!»]
+					[c/83B87E:«Кто делает плоскую головку отвёртки настолько большой?? Как я вообще могу этим работать?! Ей же можно глаз открутить!»]
 					[c/83B87E:«...А-а»]
 					'''
 			}
@@ -1265,7 +1310,7 @@ Mods: {
 
 			SandstonePillar: {
 				DisplayName: Песчаниковая колонна
-				Tooltip: Ударьте молотом, чтобы изменить узор
+				Tooltip: Ударьте молотом, чтобы изменить узор трещин
 			}
 
 			SandyTent: {
@@ -1843,7 +1888,7 @@ Mods: {
 			}
 
 			WulfrumBulkDoorItem: {
-				DisplayName: Вульфрумовая грузовая дверь
+				DisplayName: Вульфрумовая затворная дверь
 				Tooltip: ""
 			}
 
@@ -1861,7 +1906,7 @@ Mods: {
 				DisplayName: Комплектующий вульфрумовый пластик
 				Tooltip:
 					'''
-					Вариант вульфрумового пластика, способный соединяться с большим количеством блоков
+					Вариант вульфрумового пластика, который лучше соединяться с соседними блоками
 					Пользуется популярностью у опытных строителей
 					'''
 			}
@@ -2009,7 +2054,7 @@ Mods: {
 			}
 
 			WulfrumModularChairItem: {
-				DisplayName: Вульфрумовый модульный стул
+				DisplayName: Вульфрумовый модульное кресло
 				Tooltip: ""
 			}
 
@@ -2023,7 +2068,7 @@ Mods: {
 			}
 
 			WulfrumOfficeChairItem: {
-				DisplayName: Вульфрумовый офисный стул
+				DisplayName: Вульфрумовый офисное кресло
 				Tooltip: ""
 			}
 
@@ -2155,7 +2200,7 @@ Mods: {
 			}
 
 			WulfrumSmokingPipesItem: {
-				DisplayName: Дымящаяся вульфрумовая труба
+				DisplayName: Дымящая вульфрумовая труба
 				Tooltip: ""
 			}
 
@@ -2256,7 +2301,7 @@ Mods: {
 				DisplayName: Моток проводов
 				Tooltip:
 					'''
-					Можно поставить на твёрдых блоках и светильниках
+					Можно поставить на твёрдых блоках и фонарях
 					Нажимайте клавиши ВВЕРХ/ВНИЗ, чтобы изменить изгиб провода
 					«Это что, Calamity Cables?»
 					'''
@@ -2283,7 +2328,7 @@ Mods: {
 			}
 
 			WulfrumLamppostItem: {
-				DisplayName: Вульфрумовая осветительная колонна
+				DisplayName: Вульфрумовый фонарный столб
 				Tooltip: ""
 			}
 
@@ -2294,7 +2339,7 @@ Mods: {
 
 			ScourgeSpineDebugPlacer: {
 				Tooltip: ""
-				DisplayName: Хребет бича (отладка)
+				DisplayName: Позвоночник бича (отладка)
 			}
 
 			DebugItem2: {
@@ -2336,17 +2381,17 @@ Mods: {
 			}
 
 			DustyBricksLichenItem: {
-				DisplayName: Мрачный лишайник
+				DisplayName: Блеклый лишайник
 				Tooltip: Можно разместить на пыльных кирпичах
 			}
 
 			CrabulonBossMaskAlt1: {
-				DisplayName: Грибная маска Крабулона
+				DisplayName: Маска грибного Крабулона
 				Tooltip: ""
 			}
 
 			CrabulonBossMaskAlt2: {
-				DisplayName: Заросшая маска Крабулона
+				DisplayName: Маска заросшего Крабулона
 				Tooltip: ""
 			}
 
@@ -2354,15 +2399,15 @@ Mods: {
 				DisplayName: Мешок с сокровищами (Сэр Наутилус)
 				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 			}
-			
+
 			SludgeSlap: {
 				DisplayName: Слизешлёп
 				Tooltip:
 					'''
 					{$CommonItemTooltip.Whips}
 					Покрывает слизью поражённых врагов
-					Атаки миньонов по покрытым слизью врагам призывают слизнечков
-					Попадания по врагам кончиком хлыста призывают дополнительных слизнечков
+					Атаки миньонов по покрытым слизью врагам призывают слизнячков
+					Попадания по врагам кончиком хлыста призывают дополнительных слизнячков
 					«Излюбленное оружие гелевых королей»
 					'''
 			}
@@ -2377,7 +2422,7 @@ Mods: {
 					Дротики, выпущенные во время передозировки, восстанавливают здоровье и ослабляют негативные эффекты
 					'''
 			}
-			
+
 			Geodecorn: {
 				DisplayName: Жеодный жёлудь
 				Tooltip: Призывает маленького жеодного ползуна
@@ -2396,17 +2441,17 @@ Mods: {
 					Пользуется популярностью у опытных строителей
 					'''
 			}
-			
+
 			WulfrumBoomboxItem: {
 				DisplayName: Вульфрумовый бумбокс
 				Tooltip: ""
 			}
-			
+
 			SandstormSpriteInABottle: {
 				DisplayName: Дух песчаной бури в банке
 				Tooltip: «Беспокойно кружится внутри»
 			}
-			
+
 			GemChimes: {
 				DisplayName: Самоцветные колокольчики
 				Tooltip:
@@ -2417,7 +2462,7 @@ Mods: {
 					В конце пути волны могут наделить цветом сразу нескольких врагов
 					'''
 			}
-			
+
 			GeodeCandy: {
 				DisplayName: Жеодная карамель
 				Tooltip:
@@ -2427,7 +2472,7 @@ Mods: {
 					«Попробуй радугу!»
 					'''
 			}
-			
+
 			LuminousCreamSoup: {
 				DisplayName: Люминесцентный крем-суп
 				Tooltip:
@@ -2439,16 +2484,17 @@ Mods: {
 					[c/5167ff:Когда придёт время его съесть, пожелайте мне удачи. Это будет незабываемый опыт.»]
 					'''
 			}
-			
+
 			StormfriedIceCream: {
 				DisplayName: Электрообжаренное мороженное
 				Tooltip:
 					'''
 					{$BuffDescription.WellFed3}
+					Даёт эффект электроклеток
 					«Пожарено с помощью молнии, каким-то образом»
 					'''
 			}
-			
+
 			WulfrumBrandCereal: {
 				DisplayName: Фирменные вульфрумовые хлопья
 				Tooltip:
@@ -2463,7 +2509,7 @@ Mods: {
 				DisplayName: Знамя скарабея-спелеолога
 				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.SpelunkerScarab.DisplayName}"
 			}
-			
+
 			SuperchargedDart: {
 				DisplayName: Сверхзаряженный дротик
 				Tooltip:
@@ -2514,7 +2560,7 @@ Mods: {
 
 			SackOfInfiniteGuns: {
 				DisplayName: Мешок бесконечных пистолетов
-				Tooltip: Выпускает пистолеты, выстреливающие в ближайших врагов при контакте контакте с врагом или поверхностью
+				Tooltip: Выпускает пистолеты, выстреливающие в ближайших врагов при контакте с врагом или поверхностью
 			}
 
 			YoblinBucket: {
@@ -2534,6 +2580,15 @@ Mods: {
 					«Отлично подходит для подражания звукам дешёвого хлама!»
 					'''
 			}
+
+			CoraletiSpear: {
+				// DisplayName: Coraleti Spear
+				/* Tooltip:
+					'''
+					Striking enemies causes the spear to grow
+					At max growth, the spear will shatter into lingering coral fragments
+					''' */
+			}
 		}
 
 		NPCs: {
@@ -2551,8 +2606,8 @@ Mods: {
 			PeekingCrabulon.DisplayName: Крабулон
 			SirNautilus.DisplayName: Сэр Наутилус
 			SirNautilusPassive.DisplayName: Сэр Наутилус
-			ASTARCRAWLER.DisplayName: АСТАР ПОЛЗУН
-			Potlet.DisplayName: Горшочничек
+			ASTARCRAWLER.DisplayName: ""
+			Potlet.DisplayName: Горшочек
 			GeodeCrawler.DisplayName: Жеодовый ползун
 			CloudSprite.DisplayName: Облачный дух
 			WulfrumGrappler.DisplayName: Вульфрумовый зацепщик
@@ -2581,7 +2636,7 @@ Mods: {
 
 			BlowpipeLeech: {
 				DisplayName: Нейротоксин
-				Description: Потеря здоровья
+				Description: Вы теряете здоровье
 			}
 
 			BlowpipeRegen: {
@@ -2601,7 +2656,7 @@ Mods: {
 
 			ScourgePoison: {
 				DisplayName: Отравление бича
-				Description: Нанесение сильного урона внутренним органам
+				Description: Сильный урон по внутренним органам
 			}
 
 			WulfrumDroidBuff: {
@@ -2610,23 +2665,23 @@ Mods: {
 			}
 
 			CrabSpiritBuff: {
-				DisplayName: Дух грязекраба
+				DisplayName: Дух грязевого краба
 				Description: Его панцирь пробьют лишь самые сокрушительные удары
 			}
 
 			FungalSurge: {
 				DisplayName: Грибной прилив сил
-				Description: Значительно увеличивает все характеристики
+				Description: Все характеристики значительно увеличены
 			}
 
 			InfestationDOT: {
 				DisplayName: Заражён!
-				Description: Сухожилия скручиваются, меняя форму тела
+				Description: Сухожилия скручиваются, меняя форму вашего тела
 			}
 
 			InkyCapGuardianBuff: {
 				DisplayName: Страж в чернильной шапочке
-				Description: Просто крохотный грибок... или нет?
+				Description: Просто крохотный грибочек... или нет?
 			}
 
 			InkyCapSpores: {
@@ -2640,12 +2695,12 @@ Mods: {
 			}
 
 			Potted: {
-				DisplayName: Заточение
+				DisplayName: Загоршочнен
 				Description: Ваше склизкое тело болтается в проклятом горшке
 			}
 
 			TarsMark: {
-				DisplayName: Метка дёгтя
+				DisplayName: Клеймо дёгтя
 				Description:
 					'''
 					Дёготь пульсирует в ваших венах...
@@ -2695,7 +2750,7 @@ Mods: {
 				DisplayName: Маленькая рыба-дракон
 				Description: Не имеет отношения к великим морским драконам
 			}
-			
+
 			OpulentInjectionBuff: {
 				Description: Вы стали намного сильнее, но теряете здоровье и скорость!
 				DisplayName: Передозировка
@@ -2712,7 +2767,7 @@ Mods: {
 			}
 
 			SludgeSlapSlimelingBuff: {
-				DisplayName: Слизнечки
+				DisplayName: Слизнячки
 				Description: Верные, но хилые миньоны
 			}
 
@@ -2722,38 +2777,42 @@ Mods: {
 			}
 
 			WhiskedDebuff: {
-				DisplayName: Whisked
-				Description: Increased fall damage
+				DisplayName: Взбитый
+				Description: Урон от падения увеличен
 			}
 
 			BrandAmbassadorBuff: {
 				DisplayName: Представитель бренда
-				Description: Wulfrum enemies only hit half as hard, and have longer windups
+				Description:
+					'''
+					Получаемый урон от вульфрумовых роботов снижен вдвое
+					Скорость атаки вульфрумовых роботов снижена
+					'''
 			}
 
 			ElectrifiedBloodBuff: {
-				DisplayName: Electrified Blood
-				Description: Retaliate with electric discharges upon taking damage
+				DisplayName: Электрофицированная кровь
+				Description: Атаковавший вас враг получит удар электрическим разрядом
 			}
 
 			DrownedScripturesNPCDebuff: {
-				DisplayName: Abyssal Mark
-				Description: It's Coming...
+				DisplayName: Клеймо бездны
+				Description: Оно приближается...
 			}
 
 			Encased: {
-				DisplayName: Encased
-				Description: You're encased in a block of ice
+				DisplayName: Заключённый
+				Description: Вы заключены в кубике льда
 				SetBonusDescription:
 					'''
-					You're encased in a block of ice
-					Increased mana regeneration
+					Вы заключены в кубике льда
+					Регенерация маны увеличена
 					'''
 			}
 
 			YoblinBucketBuff: {
 				DisplayName: Йоблины
-				Description: Straight up Yoblin it
+				Description: Мы немножечко йобланим
 			}
 		}
 	}

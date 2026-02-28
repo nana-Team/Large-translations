@@ -2412,9 +2412,9 @@ Mods: {
 				Tooltip:
 					'''
 					Выпускает разноцветные резонирующие звуковые волны
-					Soundwaves tune enemies, making them match its color
-					Enemies attuned to the same color will resonate, causing them to take high damage
-					Soundwaves can attune multiple enemies near the end of their range
+					Волны настраивают врагов на свой цвет
+					Враги, настроенные на один цвет, входят в резонанс и получают высокий урон
+					В конце пути волны могут наделить цветом сразу нескольких врагов
 					'''
 			}
 			
@@ -2758,3 +2758,4 @@ Mods: {
 		}
 	}
 }
+

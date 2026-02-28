@@ -9,6 +9,9 @@ WulfrumBastionDurability: Запас прочности вульфрумовой
 WulfrumRoverDriveDurability: Запас прочности защитной матрицы
 WulfrumRoverDriveRecharge: Перезарядка защитной матрицы
 ShroomHookpointTimer: Срок действия мицелиевого карабина
+SyringeReload: Перезарядка шприцов
+EncasedHits: Запас прочности кубика льда
+EncasedCooldown: Перезарядка кубика льда
 
 SettingOption: {
 	Label: "Стиль панели перезарядки: "
@@ -17,3 +20,4 @@ SettingOption: {
 	Compact: компактный
 	Disabled: скрыта
 }
+

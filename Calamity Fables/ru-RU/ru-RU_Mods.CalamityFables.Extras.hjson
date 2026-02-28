@@ -1,10 +1,15 @@
 ItemTooltipExtras: {
-	StormlionWhipExtraTagDamage: +{0} ед. урона от метки по зацепленным врагам
-	AmpstringBowElectricFieldDamage: "{0} ед. урона от электрической дуги в тик"
-	CarrionDetonatorStaffDetonationDamage: От {0} до {1} ед. урона за взрыв
-	TornElectrosacFullyChargedDamage: "{0} ед. урона по площади при полностью заряженном ударе"
 	ComicallySlowSpeed: Смехотворно низкая скорость
 	CannotCrit: Не может наносить критические удары
+	SludgeSlapSlimelingDamage: "{0} ед. урона за слизнячка"
+	ToxicBlowpipeAcidExplosionDamage: "{0} ед. урона за взрыв кислоты"
+	FanaticalMaskTendrilDamage: "{0} ед. урона от кровавого выроста"
+	ResonanceDamage: "{0} ед. урона за резонанс"
+	TornElectrosacFullyChargedDamage: "{0} ед. урона по площади при полностью заряженном ударе"
+	AmpstringBowElectricFieldDamage: "{0} ед. урона от электрической дуги в тик"
+	DetonationDamage: От {0} до {1} ед. урона за взрыв
+	StormlionWhipTickDamage: +{0} ед. урона от метки по зацепленным врагам
+	DrownedScripturesHorrorDamage: "{0}-{1} ед. урона от Ужаса бездны"
 }
 
 ArmorSetBonus: {

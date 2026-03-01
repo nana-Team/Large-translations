@@ -1290,7 +1290,7 @@ Mods: {
 
 			NautilusCrossingTheDunesItem: {
 				DisplayName: Картина «Наутилус на песчаном перевале»
-				Tooltip: «Х. Вин»
+				Tooltip: «Г. Вин»
 			}
 
 			RockySandstoneWallItem: {
@@ -1320,12 +1320,12 @@ Mods: {
 
 			ScourgekillerPainting: {
 				DisplayName: Скрижаль «Убийца бичей»
-				Tooltip: «Обнаружена Дж. Дингом»
+				Tooltip: «Обнаружена Д. Дином»
 			}
 
 			ShatteredTabletPainting: {
 				DisplayName: Расколотая скрижаль
-				Tooltip: «Обнаружена Дж. Дингом»
+				Tooltip: «Обнаружена Д. Дином»
 			}
 
 			SpectralWater: {
@@ -2506,7 +2506,7 @@ Mods: {
 			}
 
 			SpelunkerScarabBannerItem: {
-				DisplayName: Знамя скарабея-спелеолога
+				DisplayName: Знамя скарабея-валунщика
 				Tooltip: "{$CommonItemTooltip.BannerBonus}{$NPCs.SpelunkerScarab.DisplayName}"
 			}
 
@@ -2619,7 +2619,7 @@ Mods: {
 			WulfrumElevatorPlatform.DisplayName: ""
 			RustyWulfrumElevatorPlatform.DisplayName: ""
 			SandstormSprite.DisplayName: Дух песчаной бури
-			SpelunkerScarab.DisplayName: Скарабей-спелеолог
+			SpelunkerScarab.DisplayName: Скарабей-валунщик
 			BlizzardSprite.DisplayName: Дух метели
 		}
 

@@ -336,8 +336,8 @@ Mods: {
 			Yoblin.DisplayName: Йоблин
 			ShimmerYoblin.DisplayName: Йоблин
 			ShimmerYoblinSpring.DisplayName: Поток йоблинов
-			YoblinBucketHoldout.DisplayName: Ведро с йоблинами
-			CoraletiSpearHeld.DisplayName: Кораллитовое копьё
+			YoblinBucketHoldout.DisplayName: "{$Items.YoblinBucket.DisplayName}"
+			CoraletiSpearHeld.DisplayName: "{$Items.CoraletiSpear.DisplayName}"
 			CoraletiSpearShrapnel.DisplayName: Кораллитовый осколок
 		}
 

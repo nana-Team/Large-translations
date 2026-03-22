@@ -4395,7 +4395,7 @@ Mods: {
 			}
 
 			EarthenPlatingBeam: {
-				DisplayName: Earthen Plating Beam
+				DisplayName: Earthen Plating Beam (Wall)
 				Tooltip: ""
 			}
 
@@ -9089,6 +9089,11 @@ Mods: {
 						When on, SOTS will play the soundtrack made by Banana Lizard where applicable
 						When off, SOTS will play the soundtrack made by Heart Plus Up where applicable
 						'''
+				}
+
+				SanctuaryLagReduction: {
+					Label: Sanctuary Lag Reduction
+					Tooltip: When on, reduces the amount of glow blurs used in the Sanctuary, improving performance
 				}
 			}
 

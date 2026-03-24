@@ -74,4 +74,4 @@ MysteriaFluff.MapEntry: Мистерниевый пух
 LushGrass.MapEntry: Пышная трава
 LightbulbLeaves.MapEntry: "{$VerdantGrassLeaves.MapEntry}"
 TrimmedOvergrownBricks.MapEntry: Обрезанный заросший кирпич
-// PuffDresser.MapEntry: Puff Dresser
+PuffDresser.MapEntry: Пуховой комод

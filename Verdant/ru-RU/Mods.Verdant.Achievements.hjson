@@ -1,29 +1,29 @@
 GardenerAchievement: {
-	// FriendlyName: Gardener
-	// Description: Complete half of the Apotheosis's quests.
+	FriendlyName: Садовник
+	Description: Завершите половину квестов Апофеоза.
 }
 
 GreenThumbAchievement: {
-	// FriendlyName: Green Thumb
-	// Description: Complete one of the Apotheosis's quests.
+	FriendlyName: Зелёный лайк
+	Description: Завершите один квест Апофеоза.
 }
 
 MarigoldAchievement: {
-	// FriendlyName: Marigolden
-	// Description: Grow a Marigold on verdant leaves.
+	FriendlyName: Бархат лепестков //Комментарий на будущее (потом удалить): в англе названием достижения было название клипа, поэтому ничего лучше названия песни не придумал
+	Description: Вырастите бархатец на листьях изобилия.
 }
 
 ReachingApotheosisAchievement: {
-	// FriendlyName: Reaching Apotheosis
-	// Description: Complete all of the Apotheosis's quests.
+	FriendlyName: Достигая Апофеоза
+	Description: Завершите все квесты Апофеоза.
 }
 
 MudsquidAchievement: {
-	// FriendlyName: Traveler of Mud
-	// Description: Move through 1,000 tiles as a Mudsquid.
+	FriendlyName: Грязевой путешественник
+	Description: Пройдите через 1.000 блоков в форме грязельмара.
 }
 
 ShowcaseAchievement: {
-	// FriendlyName: Showcaser
-	// Description: Show the Apotheosis an item.
+	FriendlyName: Показушник
+	Description: Покажите Апофеозу предмет.
 }

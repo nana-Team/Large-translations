@@ -35,7 +35,7 @@ VerdantClientConfig: {
 
 	JungleSpawn: {
 		Label: "[i:620] Появление в джунглях"
-		Tooltip: Заставляет появляться биом Цветения в джунгях. Переключение настройки может потребоваться при наложении модовых структур. This does not work if the Center Spawn option is on.
+		Tooltip: Заставляет биом Цветения появляться в джунгях. Переключение настройки может потребоваться при наложении модовых структур. This does not work if the Center Spawn option is on.
 	}
 
 	DialogueSpeed: {
@@ -44,7 +44,7 @@ VerdantClientConfig: {
 	}
 
 	CenterSpawn: {
-		// Label: "[i:9] Center Spawn"
-		// Tooltip: Forces the Verdant to spawn exclusively under the world's spawn. This may cause overlap with biomes like the Desert and Snow, and supercedes the Jungle Spawn config option.
+		Label: "[i:9] Появление в центре"
+		Tooltip: Заставляет биом Цветения появляться под центром мира. Это может вызвать наложение с подземными биомами пустини и снегов, а настройка при включении заменяет "Появление в джунглях".
 	}
 }

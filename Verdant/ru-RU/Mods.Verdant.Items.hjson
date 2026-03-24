@@ -511,7 +511,7 @@ PinkDyeBulb: {
 }
 
 PinkPuff: {
-	DisplayName: Розовый росток
+	DisplayName: Росток розового пуха
 	Tooltip:
 		'''
 		Создает вокруг себя микробиом розового пуха 
@@ -596,7 +596,7 @@ HarvestedPickipuffItem: {
 }
 
 MarigoldItem: {
-	DisplayName: Календула
+	DisplayName: Бархатец
 	Tooltip: «Пахнет ... металлом... и немного магией»
 }
 
@@ -924,7 +924,7 @@ Mudsquid: {
 	DisplayName: Грязельмар
 	Tooltip:
 		'''
-		Аозволяет быстро перемещаться через некоторые твёрдые блоки,
+		Позволяет быстро перемещаться через некоторые твёрдые блоки,
 		в которые входят все естественные блоки Цветения
 		'''
 }
@@ -1678,139 +1678,139 @@ GlassFlowerItem: {
 }
 
 DropsnailItem: {
-	// DisplayName: Dropsnail
-	// Tooltip: "'Soft, cold.'"
+	DisplayName: Падулитка
+	Tooltip: «Мягкая, холодная.»
 }
 
 SmokeBulbItem: {
-	// DisplayName: Smokebud
-	/* Tooltip:
+	DisplayName: Дымоцвет
+	Tooltip:
 		'''
-		Allows the steam effect to be used everywhere
-		'Smells...gross'
-		''' */
+		Разместите его и нажмите ПКМ, чтобы включить визуальный эффект дыма
+		'Пахнет... противно'
+		''' 
 }
 
 TearBulbItem: {
-	// DisplayName: Tear Bulb
-	/* Tooltip:
+	DisplayName: Плачущий бутон
+	Tooltip:
 		'''
-		Can be right clicked when placed to enable tear rain visual effects
-		'It's like an onion'
-		''' */
+		Разместите его и нажмите ПКМ, чтобы включить визуальный эффект водяной дымки
+		'Похож на лук'
+		'''
 }
 
 PuffCandleItem: {
-	// DisplayName: Puff Candle
-	// Tooltip: ""
+	DisplayName: Пуховая свеча
+	Tooltip: ""
 }
 
 PuffLampItem: {
-	// DisplayName: Puff Lamp
-	// Tooltip: ""
+	DisplayName: Пуховая напольная лампа
+	Tooltip: ""
 }
 
 PuffLanternItem: {
-	// DisplayName: Puff Lantern
-	// Tooltip: ""
+	DisplayName: Пуховой фонарь
+	Tooltip: ""
 }
 
 PuffWorkbenchItem: {
-	// DisplayName: Puff Workbench
-	// Tooltip: ""
+	DisplayName: Пуховой верстак
+	Tooltip: ""
 }
 
 PuffDoorItem: {
-	// DisplayName: Puff Door
-	// Tooltip: ""
+	DisplayName: Пуховая дверь
+	Tooltip: ""
 }
 
 PuffBookcaseItem: {
-	// DisplayName: Puff Bookcase
-	// Tooltip: ""
+	DisplayName: Пуховй шкаф
+	Tooltip: ""
 }
 
 PuffDresserItem: {
-	// DisplayName: Puff Dresser
-	// Tooltip: ""
+	DisplayName: Пуховой комод
+	Tooltip: ""
 }
 
 PuffCandelabraItem: {
-	// DisplayName: Puff Candelabra
-	// Tooltip: ""
+	DisplayName: Пуховой канделябр
+	Tooltip: ""
 }
 
 PuffChairItem: {
-	// DisplayName: Puff Chair
-	// Tooltip: ""
+	DisplayName: Пуховой стул
+	Tooltip: ""
 }
 
 PuffSinkItem: {
-	// DisplayName: Puff Sink
-	// Tooltip: ""
+	DisplayName: Пуховая раковина
+	Tooltip: ""
 }
 
 TearPlantItem: {
-	// DisplayName: Flower of Tears
-	// Tooltip: "'Maybe I'll see again someday'"
+	DisplayName: Цветок слёз
+	Tooltip: «Возможно, когда-нибудь снова увижу»
 }
 
 DropsnailCage: {
-	// DisplayName: Dropsnail Cage
-	// Tooltip: ""
+	DisplayName: Клетка с падулиткой
+	Tooltip: ""
 }
 
 JellydewItem: {
-	// DisplayName: Jellydew
-	// Tooltip: "'So cute!'"
+	DisplayName: Росодуза
+	Tooltip: «Такая милашка!«
 }
 
 JellydewAquariumItem: {
-	// DisplayName: Jellydew Aquarium
-	// Tooltip: ""
+	DisplayName: Аквариум с росодузой
+	Tooltip: ""
 }
 
 PuffBathtubItem: {
-	// DisplayName: Puff Bathtub
-	// Tooltip: ""
+	DisplayName: Пуховая ванна
+	Tooltip: ""
 }
 
 PuffBedItem: {
-	// DisplayName: Puff Bed
-	// Tooltip: ""
+	DisplayName: Пуховая кровать
+	Tooltip: ""
 }
 
 PuffClockItem: {
-	// DisplayName: Puff Clock
-	// Tooltip: ""
+	DisplayName: Пуховые часы
+	Tooltip: ""
 }
 
 PuffTableItem: {
-	// DisplayName: Puff Table
-	// Tooltip: ""
+	DisplayName: Пуховой стол
+	Tooltip: ""
 }
 
 PuffPlatformItem: {
-	// DisplayName: Puff Platform
-	// Tooltip: ""
+	DisplayName: Пуховая платформа
+	Tooltip: ""
 }
 
 PuffSofaItem: {
-	// DisplayName: Puff Sofa
-	// Tooltip: ""
+	DisplayName: Пуховой диван
+	Tooltip: ""
 }
 
 PuffPianoItem: {
-	// DisplayName: Puff Piano
-	// Tooltip: ""
+	DisplayName: Пуховое пианино
+	Tooltip: ""
 }
 
 TearRainEventBox: {
-	// DisplayName: Music Box ("Of Petrichor")
-	// Tooltip: ""
+	DisplayName: Музыкальная коробка ("Of Petrichor")
+	Tooltip: ""
 }
 
 PoetryBook: {
-	// DisplayName: '''"Scribbles"'''
-	// Tooltip: Right click to read
+	DisplayName: «Каракули»
+	Tooltip: Нажмите ПКМ, чтобы прочитать
 }

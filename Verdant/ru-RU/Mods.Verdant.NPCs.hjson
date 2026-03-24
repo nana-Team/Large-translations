@@ -99,11 +99,11 @@ LunarJelly: {
 }
 
 Dropsnail: {
-	// DisplayName: Dropsnail
-	// Entry: A snail coagulated in one of the many teardrops of the Verdant. Despite the source, it is more jovial than any other snail. Perhaps it fights against its origin.
+	DisplayName: Падулитка
+	Entry: Улитка, свернувшаяся в одной из многочисленных капель Цветения. Несмотря на происхождение, кажется жизнерадостнее своих сородичей. Возможно, она борется сос воей природой.
 }
 
 Jellydew: {
-	// DisplayName: Jellydew
-	// Entry: Water given form by the energies in the water, in the shape of a jellyfish.
+	DisplayName: Росодуза
+	Entry: Вода придала энергии, существующей в ней, форму медузы.
 }

@@ -57,8 +57,8 @@ MysteriaTreeTop.MapEntry: Свисающая мистерния
 MysteriaTree.MapEntry: Мистерниевое дерево
 VerdantRedPetal.MapEntry: Красные лепестки
 VerdantPinkPetal.MapEntry: Розовые лепестки
-VerdantLeaves.MapEntry: Листья Цветения
-VerdantGrassLeaves.MapEntry: Листвяная травва Цветения
+VerdantLeaves.MapEntry: Лоза
+VerdantGrassLeaves.MapEntry: Листва
 SnailShellBlock.MapEntry: Панцири улиток
 PuffBlock.MapEntry: Блок розового пуха
 OvergrownBricks.MapEntry: Заросшие кирпичи
@@ -72,5 +72,6 @@ ThornTile.MapEntry: Шипы
 LushPlanks.MapEntry: Доска из дерева изобилия
 MysteriaFluff.MapEntry: Мистерниевый пух
 LushGrass.MapEntry: Пышная трава
-LightbulbLeaves.MapEntry: Листья лампоцвета
+LightbulbLeaves.MapEntry: "{$VerdantGrassLeaves.MapEntry}"
 TrimmedOvergrownBricks.MapEntry: Обрезанный заросший кирпич
+// PuffDresser.MapEntry: Puff Dresser

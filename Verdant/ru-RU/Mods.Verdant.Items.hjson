@@ -46,7 +46,7 @@ MysteriaLeggings: {
 }
 
 VerdantChestplate: {
-	DisplayName: Нагрудник цветения
+	DisplayName: Расцветающий нагрудник
 	Tooltip:
 		'''
 		Увеличивает урон призывателя на 7%
@@ -55,21 +55,21 @@ VerdantChestplate: {
 }
 
 VerdantHelm: {
-	DisplayName: Головной убор цветения
+	DisplayName: Расцветающий головной убор
 	Tooltip:
 		'''
 		Увеличивает урон призывателя на 5%
-		Вы будете излучать небольшое количество света
+		Излучает небольшое количество света
 		'''
 }
 
 VerdantLeggings: {
-	DisplayName: Поножи цветения
+	DisplayName: Расцветающие поножи
 	Tooltip:
 		'''
 		Ускоряет регенерацию здоровья
 		Увеличивает максимальное количество миньонов на 1
-		На траве, по которой вы прошлись, начинают расти цветы
+		На траве, по которой вы прошлись, начнут расти цветы
 		'''
 }
 
@@ -117,8 +117,8 @@ BeehiveBlock: {
 	DisplayName: Шмелиный улей
 	Tooltip:
 		'''
-		Призывает пчёл, которые опыляют ближайшие цветы
-		Когда пчёлы принесут достаточно пыльцы, можно собрать 
+		Призывает пчёл, которые будут опылять ближайшие цветы
+		Вы сможете забрать мёд, когда пчёлы принесут соберут пыльцы
 		«Это жужжание слегка настораживает» 
 		'''
 }
@@ -235,16 +235,16 @@ VerdantWoodChestBlock: {
 
 ThePlantItem: {
 	DisplayName: Растение
-	Tooltip: «Серьёзно, это просто растение»
+	Tooltip: «Серьёзно»
 }
 
 ApotheoticPaintingItem: {
-	DisplayName: Апофеозный
-	Tooltip: «Emily A.»
+	DisplayName: Картина «Апофеозный»
+	Tooltip: «Эмилия Э.»
 }
 
 HardyVineBook: {
-	DisplayName: Исследование прочных лоз
+	DisplayName: Исследование о прочных лозах
 	Tooltip:
 		'''
 		«Впечатляющая углублённость в тему прочных лоз»
@@ -253,7 +253,7 @@ HardyVineBook: {
 }
 
 LeafBook: {
-	DisplayName: Исследование листвы изобилия
+	DisplayName: Исследование о листве изобилия
 	Tooltip:
 		'''
 		«Впечатляющая углублённость в тему листвы изобилия»
@@ -262,7 +262,7 @@ LeafBook: {
 }
 
 LightbulbBook: {
-	DisplayName: Исследование лампоцветов
+	DisplayName: Исследование о лампоцветах
 	Tooltip:
 		'''
 		«Впечатляющая углублённость в тему лампоцветов»
@@ -271,7 +271,7 @@ LightbulbBook: {
 }
 
 RockBook: {
-	DisplayName: Исследование камней
+	DisplayName: Исследование о камнях
 	Tooltip:
 		'''
 		«Исследование о... вулканических камнях?»
@@ -293,7 +293,7 @@ FloatingCrystalItem: {
 	Tooltip:
 		'''
 		Можно поставить в воздухе
-		Можно зацепиться крюком
+		Можно зацепиться крюком //честно?
 		'''
 }
 
@@ -1635,37 +1635,37 @@ ChlorovineWand: {
 
 ShellSnailCage: {
 	DisplayName: Террариум с панцирной улиткой
-	Tooltip: Глупая, но стойкая
+	Tooltip: «Глупая, но стойкая»
 }
 
 ShellSnailItem: {
 	DisplayName: Панцирная улитка
-	Tooltip: Милая как камень
+	Tooltip: «Милая как камень»
 }
 
 CanopySnailItem: {
 	DisplayName: Навесная улитка
-	Tooltip: Какое прекрасное проявление природы
+	Tooltip: «Какое прекрасное проявление природы»
 }
 
 CanopySnailCage: {
 	DisplayName: Террариум с навесной улиткой
-	Tooltip: Медлительная, но любящая
+	Tooltip: «Медлительная, но любящая»
 }
 
 StargazerPlantItem: {
 	DisplayName: Синяя звездочётка
-	Tooltip: Излучает нежный свет под вашей заботой
+	Tooltip: «Излучает нежный свет под вашей заботой»
 }
 
 LunarJellyItem: {
 	DisplayName: Лунная медуза
-	Tooltip: Одновременно мягкая и бесплотная
+	Tooltip: «Одновременно мягкая и бесплотная»
 }
 
 LunarJellyTerrariumItem: {
 	DisplayName: Террариум с лунной медузой
-	Tooltip: Ночь не мимолётна, она сверкающа
+	Tooltip: «Ночь не мимолётна, она сверкающа»
 }
 
 GlassFlowerItem: {
@@ -1675,4 +1675,142 @@ GlassFlowerItem: {
 		Отключает биом цветения поблизости, открывая доступ к другим биомам
 		«Такой хрупкий...» 
 		'''
+}
+
+DropsnailItem: {
+	// DisplayName: Dropsnail
+	// Tooltip: "'Soft, cold.'"
+}
+
+SmokeBulbItem: {
+	// DisplayName: Smokebud
+	/* Tooltip:
+		'''
+		Allows the steam effect to be used everywhere
+		'Smells...gross'
+		''' */
+}
+
+TearBulbItem: {
+	// DisplayName: Tear Bulb
+	/* Tooltip:
+		'''
+		Can be right clicked when placed to enable tear rain visual effects
+		'It's like an onion'
+		''' */
+}
+
+PuffCandleItem: {
+	// DisplayName: Puff Candle
+	// Tooltip: ""
+}
+
+PuffLampItem: {
+	// DisplayName: Puff Lamp
+	// Tooltip: ""
+}
+
+PuffLanternItem: {
+	// DisplayName: Puff Lantern
+	// Tooltip: ""
+}
+
+PuffWorkbenchItem: {
+	// DisplayName: Puff Workbench
+	// Tooltip: ""
+}
+
+PuffDoorItem: {
+	// DisplayName: Puff Door
+	// Tooltip: ""
+}
+
+PuffBookcaseItem: {
+	// DisplayName: Puff Bookcase
+	// Tooltip: ""
+}
+
+PuffDresserItem: {
+	// DisplayName: Puff Dresser
+	// Tooltip: ""
+}
+
+PuffCandelabraItem: {
+	// DisplayName: Puff Candelabra
+	// Tooltip: ""
+}
+
+PuffChairItem: {
+	// DisplayName: Puff Chair
+	// Tooltip: ""
+}
+
+PuffSinkItem: {
+	// DisplayName: Puff Sink
+	// Tooltip: ""
+}
+
+TearPlantItem: {
+	// DisplayName: Flower of Tears
+	// Tooltip: "'Maybe I'll see again someday'"
+}
+
+DropsnailCage: {
+	// DisplayName: Dropsnail Cage
+	// Tooltip: ""
+}
+
+JellydewItem: {
+	// DisplayName: Jellydew
+	// Tooltip: "'So cute!'"
+}
+
+JellydewAquariumItem: {
+	// DisplayName: Jellydew Aquarium
+	// Tooltip: ""
+}
+
+PuffBathtubItem: {
+	// DisplayName: Puff Bathtub
+	// Tooltip: ""
+}
+
+PuffBedItem: {
+	// DisplayName: Puff Bed
+	// Tooltip: ""
+}
+
+PuffClockItem: {
+	// DisplayName: Puff Clock
+	// Tooltip: ""
+}
+
+PuffTableItem: {
+	// DisplayName: Puff Table
+	// Tooltip: ""
+}
+
+PuffPlatformItem: {
+	// DisplayName: Puff Platform
+	// Tooltip: ""
+}
+
+PuffSofaItem: {
+	// DisplayName: Puff Sofa
+	// Tooltip: ""
+}
+
+PuffPianoItem: {
+	// DisplayName: Puff Piano
+	// Tooltip: ""
+}
+
+TearRainEventBox: {
+	// DisplayName: Music Box ("Of Petrichor")
+	// Tooltip: ""
+}
+
+PoetryBook: {
+	// DisplayName: '''"Scribbles"'''
+	// Tooltip: Right click to read
 }

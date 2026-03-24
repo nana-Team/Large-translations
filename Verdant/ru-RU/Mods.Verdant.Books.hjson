@@ -1,5 +1,5 @@
-# Пытайтесь писать каждую строчку так, чтобы она была не длинне самой длинной.
-# Если строчка будет слишком длинной, то она будет отвратительно выглядеть в игре.
+# Try to keep every line here as long or shorter than the longest lines.
+# If they're too long, they will look really bad in the books.
 
 RockBook: {
 	Content:
@@ -15,7 +15,7 @@ RockBook: {
 		а по звуку он полый?
 		Нужно больше образцов, однако... ни у кого нет подобных.
 		Возможно поищу самостоятельно.
-		
+
 		Прошло немало времени!
 		Карта указывает на вулканическу местность
 		около [выцарапано]..."
@@ -228,7 +228,34 @@ ApotheosisBook: {
 		а теперь, прощай."
 
 		'''
-	# Заметьте, что линии "телом и духом," and "а теперь, прощай." по задумке находятся на отдельных строках, в идеале так и сохранить.
+	# Note that the lines "in good spirits," and "and goodbye." are intentionally spaced out, ideally keep that if you can.
 	
 	Title: "'Мой Апофеоз'"
+}
+
+PoetryBook: {
+	// Title: Scribbles
+	/* Content:
+		'''
+		O'er wandering wood,
+		Under sleeping flowers;
+
+		O'er withering flesh,
+		Beside bones o' towers;
+
+		I found that
+		I know not
+		My own role, I'd not found
+
+		O'er leaf-bristle and life-trunk
+		Of sundew and petrichor
+
+		I found what
+		I'd known not
+		From the soul; that old sound
+
+		Of sundew and of petrichor
+
+		- e. m.
+		''' */
 }

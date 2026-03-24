@@ -5,7 +5,7 @@ HealingFlowerBuff: {
 
 PropellerpadBuff: {
 	DisplayName: Пропеллерпад
-	Description: Какая странная кувшинка!
+	Description: «Какая странная кувшинка!»
 }
 
 SnailBuff: {
@@ -16,4 +16,14 @@ SnailBuff: {
 FlotiePetBuff: {
 	DisplayName: Гневающийся летун
 	Description: «Несмотря на окостенелость, очень спокойный»
+}
+
+MudsquidMarkerBuff: {
+	// DisplayName: Mudsquid
+	// Description: You will transform into a mudsquid when touching certain tiles
+}
+
+PeaceTreeMarkerBuff: {
+	// DisplayName: Peace Zone
+	// Description: Spawn rates reduced and hardmode spawns disabled
 }

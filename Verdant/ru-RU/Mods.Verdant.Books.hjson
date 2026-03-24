@@ -234,8 +234,8 @@ ApotheosisBook: {
 }
 
 PoetryBook: {
-	// Title: Каракули
-	/* Content:
+	Title: Каракули
+	Content:
 		'''
 		Над блуждающим лесом
 		И под дрёмой пашни;
@@ -257,5 +257,5 @@ PoetryBook: {
 		Росы и петикора
 
 		- Е. М.
-		''' */
+		'''
 }

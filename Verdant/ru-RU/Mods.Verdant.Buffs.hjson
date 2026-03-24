@@ -19,11 +19,11 @@ FlotiePetBuff: {
 }
 
 MudsquidMarkerBuff: {
-	// DisplayName: Mudsquid
-	// Description: You will transform into a mudsquid when touching certain tiles
+	DisplayName: Грязельмар
+	Description: Вы превратитесь в грязельмара при соприкосновении с определёнными блоками
 }
 
 PeaceTreeMarkerBuff: {
-	// DisplayName: Peace Zone
-	// Description: Spawn rates reduced and hardmode spawns disabled
+	DisplayName: Мирная зона
+	Description: Скорость появления врагов снижена, а враги хардмода не могут появиться
 }

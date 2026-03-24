@@ -21,6 +21,6 @@ PetalsFall: {
 }
 
 TearRainEvent: {
-	// DisplayName: '''"Of Petrichor" (Tear Rain Theme)'''
-	// Author: by mzxie
+	DisplayName: Of Petrichor (Tear Rain Theme)
+	Author: от mzxie
 }

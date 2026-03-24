@@ -102,16 +102,16 @@ Apotheosis: {
 		}
 
 		TearRain: {
-			// 0: Oh, is it good to hear rain again.
-			// 1: I lament many things. Do you?
-			// 2: ...perhaps to wonder is to live...?
-			// 3: Do take care not to get wet.
-			// 4: We hope you're soothed.
-			// 5: For what we are, why are we so uncertain?
-			// 6: Ah. The streams of water, o'...
-			// 7: It reminds us of my colors.
-			// 8: Well, run along. Don't slip.
-			// 9: Each tear; another word...
+			0: Ох, хорошо снова слышать дождь.
+			1: Я сожалею о многих вещах. А ты?
+			2: ...возможно, изумляться - и есть жить...?
+			3: Тебе стоит побеспокоиться о сухости своей одежды.
+			4: Надеемся, что ты утешен.
+			5: Что мы такое, почему же мы не уверены в этом?
+			6: Ах. Потоки воды...
+			7: Это напоминает нам о моих цветах.
+			8: Ну, иди же. Не подскользнись.
+			9: Каждая слеза; другое слово...
 		}
 	}
 
@@ -343,38 +343,38 @@ Apotheosis: {
 		HoneyNuggets: Пчёлы это магия. Береги их.
 
 		SmokeBulbItem: {
-			// 0: Perhaps disturbing, what we can do;
-			// 1: but it holds a whimsy, doesn't it?
+			0: Возможно, тревожит то, на что мы способны;
+			1: но в этом и причудливость, не так ли?
 		}
 
 		TearBulbItem: {
-			// 0: It keeps me feeling human,
-			// 1: this...crying.
+			0: Благодаря нему я все ещё чувствую себя человеком,
+			1: этому... плачу.
 		}
 
 		SnailStatueItem: {
-			// 0: ...
-			// 1: ...I hope I don't forget you.
-			// TooSoon: ...I don't want to, not...yet.
+			0: ...
+			1: ...Я надеюсь, что не забуду тебя.
+			TooSoon: ...Я не хочу этого... пока что.
 		}
 
 		HardyVineBook: {
-			// 0: My old notes on those vines, huh?
-			// 1: Wild to think.
+			0: Мои старые записи о этих лозах, хах?
+			1: Удивительно подумать.
 		}
 
-		// LeafBook.0: I wish I could still draw like that.
+		LeafBook.0: Хотелось бы мне уметь рисовать как прежде.
 
 		LightbulbBook: {
-			// 0: Those small, gentle lights.
-			// 1: Hopefully they make your stay...nicer.
+			0: Эти маленькие, нежные огни.
+			1: Надеюсь, благодаря ним ты станешь... добрее.
 		}
 
 		RockBook: {
-			// 0: I remember those aspirations,
-			// 1: perhaps they were foolhardy.
-			// 2: Or, perhaps, just perhaps,
-			// 3: they lie in your future instead?
+			0: Припоминаю эти стремления,
+			1: скорее всего, бывшие безрассудными.
+			2: Или, возможно, просто возможно,
+			3: они принадлежат твоему будущему?
 		}
 	}
 }

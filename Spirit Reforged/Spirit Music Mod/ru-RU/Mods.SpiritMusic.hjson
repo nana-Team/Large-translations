@@ -44,12 +44,12 @@ Configs: {
 
 		Marble: {
 			Label: Мраморная пещера
-			Tooltip: Включает музыкальную тему мраморного биома: «Regal Tunnel»
+			Tooltip: Включает музыкальную тему мраморной пещеры: «Regal Tunnel»
 		}
 
 		Meteor: {
-			Label: Место падения метеорита
-			Tooltip: Включает музыкальную тему места падения метеорита: «Space Rocks!»
+			Label: Метеорит
+			Tooltip: Включает музыкальную тему метеорита: «Space Rocks!»
 		}
 
 		Spider: {
@@ -68,7 +68,7 @@ Configs: {
 		}
 
 		NeonMoss: {
-			Label: Светящийся мох
+			Label: Пещера светящегося мха
 			Tooltip: Включает музыкальную тему пещер светящегося мха: «Radiant Grotto»
 		}
 
@@ -79,8 +79,9 @@ Configs: {
 
 		VictoryDay: {
 			Label: «Победоносный день»
-			Tooltip: Включает музыкальную тему «Победоносный день»: «Overworld Alt Alt»
+			Tooltip: Включает музыкальную тему «победоносного дня»: «Overworld Alt Alt»
 		}
+	}
 }
 
 Items: {
@@ -125,7 +126,7 @@ Items: {
 	}
 
 	MeteorBoxItem: {
-		DisplayName: Музыкальная шкатулка (Место падения метеорита)
+		DisplayName: Музыкальная шкатулка (Метеорит)
 		Tooltip: ""
 	}
 
@@ -145,7 +146,7 @@ Items: {
 	}
 
 	LavaLayerBoxItem: {
-		DisplayName: Музыкальная шкатулка (Пещеры, уровень лавы)
+		DisplayName: Музыкальная шкатулка (Уровень лавы)
 		Tooltip: ""
 	}
 
@@ -155,12 +156,18 @@ Items: {
 	}
 
 	UndergroundTownBoxItem: {
-		DisplayName: Музыкальная шкатулка (Город в пещерах)
+		DisplayName: Музыкальная шкатулка (Пещерный город)
 		Tooltip: ""
 	}
 
 	VictoryDayBoxItem: {
-		DisplayName:  Музыкальная шкатулка («Победоносный день»)
+		DisplayName: Музыкальная шкатулка («Победоносный день»)
+		Tooltip: ""
+	}
+
+	OtherworldBlizzardBoxItem: {
+		DisplayName: Иномирная музыкальная шкатулка (Метель)
 		Tooltip: ""
 	}
 }
+

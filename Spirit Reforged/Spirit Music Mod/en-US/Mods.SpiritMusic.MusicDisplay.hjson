@@ -1,7 +1,7 @@
 ModName: Spirit Music
 Salvati: Salvati
 Sbubby: Sbubby
-By: By
+By: by
 BySalvati: "{$By} {$Salvati}"
 BySbubby: "{$By} {$Sbubby}"
 
@@ -83,4 +83,9 @@ TownUnderground: {
 VictoryDay: {
 	DisplayName: Overworld Alt Alt (Victory Day Theme)
 	Author: "{$BySalvati}"
+}
+
+OtherworldBlizzard: {
+	DisplayName: Otherworldly Blizzard
+	Author: "{$By} Soba Noodles"
 }

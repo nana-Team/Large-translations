@@ -1,0 +1,28 @@
+--- Spirit Music ---
+
+This mod aims to improve your Terraria experience by adding music to places that don't have it - weathers, events, vanilla biomes and more.
+Currently, this mod has 16 tracks sprinkled all over the world.
+
+You can turn off each individual track in the config too, if you only want a selection of the tracks.
+This mod also supports the mod Music Display.
+
+--- Credits ---
+music by: salvati & sbubby
+guest music by: Soba Noodles
+
+icon by sal
+programming by gabehaswon
+russian localization by nexora
+
+Check out Salvati and Sbubby! Fantastic musicians.
+
+-- Salvati --
+YouTube: https://www.youtube.com/@cyndacat76
+SoundCloud: https://soundcloud.com/cyndacat76
+
+-- Sbubby --
+YouTube: https://www.youtube.com/@Sbubby
+SoundCloud: https://soundcloud.com/sbubbyreal
+
+Guests:
+Soba Noodles (Otherworld Blizzard): https://www.youtube.com/@sobanoodles4286

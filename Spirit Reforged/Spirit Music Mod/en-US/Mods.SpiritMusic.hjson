@@ -164,4 +164,9 @@ Items: {
 		DisplayName: Music Box (Victory Day)
 		Tooltip: ""
 	}
+
+	OtherworldBlizzardBoxItem: {
+		DisplayName: Otherworldly Music Box (Blizzard)
+		Tooltip: ""
+	}
 }

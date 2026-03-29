@@ -1,0 +1,24 @@
+--- Spirit Music ---
+
+Этот мод нацелен на улучшение игрового опыта игры, добавляя новую музыку туда, где её не хватает в Террарии — в погодные явления, события, ванильные биомы и т.п.
+На данный момент мод добавляет 16 треков, распределённых по игровому миру.
+
+При желании вы можете отключить каждый отдельный трек в конфигурации мода.
+Имеет поддержку мода Music Display.
+
+--- Создатели ---
+Основные композиторы:
+-- Salvati --
+YouTube: https://www.youtube.com/@cyndacat76
+SoundCloud: https://soundcloud.com/cyndacat76
+
+-- Sbubby --
+YouTube: https://www.youtube.com/@Sbubby
+SoundCloud: https://soundcloud.com/sbubbyreal
+
+Отдельные треки:
+Soba Noodles: https://www.youtube.com/@sobanoodles4286
+
+Иконка мода: sal
+Программирование: GabeHasWon
+Русская локализация: Nexora

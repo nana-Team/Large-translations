@@ -6,81 +6,87 @@ BySalvati: "{$By} {$Salvati}"
 BySbubby: "{$By} {$Sbubby}"
 
 Blizzard: {
-	DisplayName: Shivering Storms (тема метели)
+	DisplayName: Метель: Shivering Storms
 	Author: "{$BySalvati}"
 }
 
 CorruptNight: {
-	DisplayName: Nightmare Fuel (тема ночного искажения)
+	DisplayName: Ночное искажение: Nightmare Fuel
 	Author: "{$BySalvati} и {$Sbubby}"
 }
 
 CrimsonNight: {
-	DisplayName: Razor's Edge (тема ночного багрянца)
+	DisplayName: Ночной багрянец: Razor's Edge
 	Author: "{$BySalvati} и {$Sbubby}"
 }
 
 DesertNight: {
-	DisplayName: Kempt Dunes (тема ночной пустыни)
+	DisplayName: Ночная пустыня: Kempt Dunes
 	Author: "{$BySalvati}"
 }
 
 FrostLegion: {
-	DisplayName: Tougher Chill (тема Морозного легиона)
+	DisplayName: Морозный легион: Tougher Chill
 	Author: "{$BySalvati}"
 }
 
 Granite: {
-	DisplayName: Resounding Stones (тема гранитной пещеры)
+	DisplayName: Гранитная пещера: Resounding Stones
 	Author: "{$BySalvati}"
 }
 
 HallowNight: {
-	DisplayName: Wonderous Landscape (тема ночного освящения)
+	DisplayName: Ночное освящение: Wonderous Landscape
 	Author: "{$BySalvati}"
 }
 
 MarbleBiome: {
-	DisplayName: Regal Tunnel (тема мраморной пещеры)
+	DisplayName: Мраморная пещера: Regal Tunnel
 	Author: "{$BySalvati}"
 }
 
 Meteor: {
-	DisplayName: Space Rocks! (тема места падения метеорита)
+	DisplayName: Метеорит: Space Rocks!
 	Author: "{$BySalvati}"
 }
 
 SnowNight: {
-	DisplayName: Icy Stars (тема ночных снегов)
+	DisplayName: Ночные снега: Icy Stars
 	Author: "{$BySalvati}"
 }
 
 SpiderCave: {
-	DisplayName: Xyresic Horrors (тема паучьего гнезда)
+	DisplayName: Паучье гнездо: Xyresic Horrors
 	Author: "{$BySalvati}"
 }
 
 SkeletronPrime: {
-	DisplayName: Thermite Assault (тема Скелетрона Прайма)
+	DisplayName: Скелетрон Прайм: Thermite Assault
 	Author: "{$BySalvati} и {$Sbubby}"
 }
 
 LavaLayer: {
-	DisplayName: Magmatic Depths (тема пещер на уровне лавы)
+	DisplayName: Уровень лавы: Magmatic Depths
 	Author: "{$BySbubby}"
 }
 
 NeonMoss: {
-	DisplayName: Radiant Grotto (тема пещеры светящегося мха)
+	DisplayName: Пещера светящегося мха: Radiant Grotto
 	Author: "{$BySbubby}"
 }
 
 TownUnderground: {
-	DisplayName: Subsurface Settlement (тема города в пещерах)
+	DisplayName: Пещерный город: Subsurface Settlement
 	Author: "{$BySbubby}"
 }
 
 VictoryDay: {
-	DisplayName: Overworld Alt Alt (тема «Победоносный дня»)
+	DisplayName: Победоносный день: Overworld Alt Alt
 	Author: "{$BySalvati}"
 }
+
+OtherworldBlizzard: {
+	DisplayName: Иномирная метель: Otherworldly Blizzard
+	Author: "{$By} Soba Noodles"
+}
+
